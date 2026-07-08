@@ -1,0 +1,42 @@
+---
+import { getCollection } from "../lib/view-model.ts";
+
+const items = getCollection();
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="icon" href="/favicon.ico" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>Vinyl Showcase</title>
+	</head>
+	<body>
+		<h1>Vinyl Showcase ({items.length} records)</h1>
+		<ul style="list-style: none; display: flex; flex-wrap: wrap; gap: 1rem; padding: 0;">
+			{items.map((item) => (
+				<li style="width: 180px;">
+					<a href={`/r/${item.instanceId}/`}>
+						{item.cover ? (
+							<picture>
+								<source srcset={item.cover.grid.avif} type="image/avif" />
+								<source srcset={item.cover.grid.webp} type="image/webp" />
+								<img src={item.cover.grid.jpg} alt={item.title} width="180" />
+							</picture>
+						) : (
+							<div style="width: 180px; height: 180px; background: #ccc;">no cover</div>
+						)}
+					</a>
+					<p>
+						<strong>{item.title}</strong><br />
+						{item.artists} ({item.year})<br />
+						{item.formats.join(", ")}
+					</p>
+					<a href={item.discogsUrl} target="_blank" rel="noopener">view on Discogs</a>
+				</li>
+			))}
+		</ul>
+	</body>
+</html>

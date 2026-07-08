@@ -1,0 +1,31 @@
+{
+  "name": "vinyl-showcase",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "sync": "tsx scripts/sync.ts",
+    "images": "tsx scripts/images.ts",
+    "valuations": "tsx scripts/valuations.ts"
+  },
+  "dependencies": {
+    "astro": "^7.0.7"
+  },
+  "devDependencies": {
+    "sharp": "^0.34.0",
+    "blurhash": "^2.0.5",
+    "tsx": "^4.19.0",
+    "dotenv": "^16.4.5"
+  },
+  "allowScripts": {
+    "esbuild@0.28.1": true,
+    "sharp@0.34.5": true
+  }
+}
