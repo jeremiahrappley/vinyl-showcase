@@ -1,0 +1,87 @@
+---
+import Base from "../layouts/Base.astro";
+import { getCollection } from "../lib/view-model.ts";
+
+const items = getCollection();
+const byArtist = [...items].sort((a, b) => a.artists.localeCompare(b.artists) || a.year - b.year);
+---
+
+<Base title="Shelf">
+	<div class="grid-header">
+		<h1>The Shelf</h1>
+		<p class="count">sorted by artist</p>
+	</div>
+
+	{
+		byArtist.length === 0 ? (
+			<p class="empty">No records synced yet.</p>
+		) : (
+			<div class="shelf">
+				{byArtist.map((item) => {
+					const spine = item.cover?.palette[0] ?? "#ddd6c8";
+					return (
+						<a class="spine" href={`/r/${item.instanceId}/`} style={`background:${spine};`} title={`${item.artists} — ${item.title} (${item.year})`}>
+							<span>{item.artists} — {item.title}</span>
+						</a>
+					);
+				})}
+			</div>
+		)
+	}
+</Base>
+
+<style>
+	.grid-header {
+		display: flex;
+		align-items: baseline;
+		justify-content: space-between;
+		margin-bottom: 2rem;
+	}
+
+	.count {
+		color: var(--text-dim);
+		font-size: 0.9rem;
+	}
+
+	.empty {
+		color: var(--text-dim);
+	}
+
+	.shelf {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: stretch;
+		gap: 2px;
+		border-bottom: 10px solid var(--border);
+		padding-bottom: 0;
+	}
+
+	.spine {
+		width: 26px;
+		height: 240px;
+		flex-shrink: 0;
+		text-decoration: none;
+		display: flex;
+		align-items: flex-end;
+		padding: 0.6rem 0;
+		box-shadow: inset -2px 0 3px rgba(0, 0, 0, 0.15);
+		transition: transform 0.12s ease, width 0.12s ease;
+		position: relative;
+	}
+
+	.spine:hover {
+		transform: translateY(-6px);
+		width: 30px;
+		z-index: 1;
+	}
+
+	.spine span {
+		writing-mode: vertical-rl;
+		transform: rotate(180deg);
+		white-space: nowrap;
+		font-size: 0.72rem;
+		color: rgba(0, 0, 0, 0.72);
+		font-weight: 600;
+		text-shadow: 0 1px 0 rgba(255, 255, 255, 0.25);
+	}
+</style>

@@ -1,0 +1,62 @@
+name: Sync Discogs data
+
+on:
+  schedule:
+    - cron: "0 7 * * *" # daily: collection index + release enrichment + images
+    - cron: "0 8 * * 1" # weekly (Monday): marketplace valuations, on top of the daily sync
+  workflow_dispatch:
+    inputs:
+      valuations:
+        description: "Also run valuations.ts"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-discogs-data
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    env:
+      DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
+      DISCOGS_USERNAME: ${{ secrets.DISCOGS_USERNAME }}
+      DISCOGS_UA: ${{ secrets.DISCOGS_UA }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Sync collection + wantlist
+        run: npm run sync
+
+      - name: Process cover art
+        run: npm run images
+
+      - name: Run valuations
+        if: github.event.schedule == '0 8 * * 1' || inputs.valuations == true
+        run: npm run valuations
+
+      # data/ and public/covers/ ARE the database (see ARCHITECTURE.md) —
+      # committing them here is what makes the static build see new data.
+      # Cloudflare Pages / Vercel watch this repo and rebuild on push, so
+      # there's no separate build/deploy step in this workflow.
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data public/covers
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: sync Discogs data ($(date -u +%Y-%m-%d))"
+            git push
+          fi

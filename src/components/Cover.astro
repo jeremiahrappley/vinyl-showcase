@@ -1,0 +1,48 @@
+---
+import type { CoverDerivative } from "../lib/view-model.ts";
+
+interface Props {
+  cover?: CoverDerivative;
+  size: "hero" | "grid" | "thumb";
+  alt: string;
+  eager?: boolean;
+}
+const { cover, size, alt, eager = false } = Astro.props;
+const backdrop = cover?.palette[0] ?? "#ddd6c8";
+---
+
+{
+  cover ? (
+    <div class="cover" style={`background-image:url(${cover.placeholder});background-color:${backdrop};`}>
+      <picture>
+        <source srcset={cover[size].avif} type="image/avif" />
+        <source srcset={cover[size].webp} type="image/webp" />
+        <img src={cover[size].jpg} alt={alt} loading={eager ? "eager" : "lazy"} decoding="async" />
+      </picture>
+    </div>
+  ) : (
+    <div class="cover cover--empty" aria-hidden="true" />
+  )
+}
+
+<style>
+	.cover {
+		aspect-ratio: 1 / 1;
+		background-size: cover;
+		background-position: center;
+		overflow: hidden;
+		border-radius: 2px;
+	}
+
+	.cover--empty {
+		background: var(--border);
+	}
+
+	.cover picture,
+	.cover img {
+		display: block;
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+	}
+</style>

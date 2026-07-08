@@ -25,6 +25,7 @@ interface ImageRecord {
   height: number;
   blurhash: string;
   palette: string[];
+  placeholder: string;
 }
 
 type ImagesJson = Record<string, ImageRecord>;
@@ -80,6 +81,13 @@ async function extractPalette(buf: Buffer): Promise<string[]> {
   return [...new Set(colors)];
 }
 
+/** A tiny (24px-wide) low-quality JPEG, base64-inlined, for skeleton
+ * loading with no layout shift and no client JS — the doc's "20px LQIP". */
+async function generatePlaceholder(buf: Buffer): Promise<string> {
+  const tiny = await sharp(buf).resize(24, 24, { fit: "inside" }).jpeg({ quality: 40 }).toBuffer();
+  return `data:image/jpeg;base64,${tiny.toString("base64")}`;
+}
+
 async function computeBlurhash(buf: Buffer): Promise<string> {
   const { data, info } = await sharp(buf)
     .rotate()
@@ -118,14 +126,25 @@ async function main() {
 
   await mkdir(COVERS_DIR, { recursive: true });
 
-  const releaseFiles = await readdir(RELEASES_DIR).catch(() => []);
+  const releaseFiles = (await readdir(RELEASES_DIR).catch(() => [])).filter((f) => f.endsWith(".json"));
   const urls = new Set<string>();
   for (const file of releaseFiles) {
     const release = await readJson<ReleaseDetail>(path.join(RELEASES_DIR, file));
     const url = release && primaryImageUrl(release);
     if (url) urls.add(url);
   }
-  console.log(`${urls.size} distinct cover URL(s) referenced across ${releaseFiles.length} release(s)`);
+
+  // Wantlist cover art is also an authenticated i.discogs.com URL and can't
+  // be hotlinked from the browser any more than owned-release covers can —
+  // it goes through the same fetch → dedupe → derivative pipeline.
+  const wants = (await readJson<{ basic_information: { cover_image?: string } }[]>(
+    path.join(DATA_DIR, "wantlist.json"),
+  )) ?? [];
+  for (const want of wants) {
+    if (want.basic_information.cover_image) urls.add(want.basic_information.cover_image);
+  }
+
+  console.log(`${urls.size} distinct cover URL(s) referenced across ${releaseFiles.length} release(s) + wantlist`);
 
   const images: ImagesJson = (await readJson<ImagesJson>(IMAGES_JSON_PATH)) ?? {};
   const knownShas = new Set(Object.values(images).map((r) => r.sha));
@@ -155,6 +174,7 @@ async function main() {
         height: meta.height ?? 0,
         blurhash: await computeBlurhash(bytes),
         palette: await extractPalette(bytes),
+        placeholder: await generatePlaceholder(bytes),
       };
       continue;
     }
@@ -167,6 +187,7 @@ async function main() {
       height: meta.height ?? 0,
       blurhash: await computeBlurhash(bytes),
       palette: await extractPalette(bytes),
+      placeholder: await generatePlaceholder(bytes),
     };
     knownShas.add(sha);
     fetched += 1;

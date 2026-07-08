@@ -1,0 +1,185 @@
+---
+import Base from "../layouts/Base.astro";
+import { getStats } from "../lib/view-model.ts";
+
+const stats = getStats();
+const maxDecade = Math.max(1, ...stats.decades.map((d) => d.count));
+const maxGenre = Math.max(1, ...stats.genres.slice(0, 10).map((g) => g.count));
+const maxLabel = Math.max(1, ...stats.labels.slice(0, 10).map((l) => l.count));
+const maxValue = Math.max(1, ...stats.valueHistory.map((v) => v.total));
+---
+
+<Base title="Stats">
+	<div class="grid-header">
+		<h1>Stats</h1>
+		<p class="count">{stats.totalRecords} records</p>
+	</div>
+
+	{
+		stats.totalRecords === 0 ? (
+			<p class="empty">No records synced yet.</p>
+		) : (
+			<div class="stats-grid">
+				<section>
+					<h2>By decade</h2>
+					<ul class="bars">
+						{stats.decades.map((d) => (
+							<li>
+								<span class="bar-label">{d.decade}</span>
+								<span class="bar-track"><span class="bar-fill" style={`width:${(d.count / maxDecade) * 100}%`} /></span>
+								<span class="bar-value">{d.count}</span>
+							</li>
+						))}
+					</ul>
+				</section>
+
+				<section>
+					<h2>Top genres</h2>
+					<ul class="bars">
+						{stats.genres.slice(0, 10).map((g) => (
+							<li>
+								<span class="bar-label">{g.name}</span>
+								<span class="bar-track"><span class="bar-fill" style={`width:${(g.count / maxGenre) * 100}%`} /></span>
+								<span class="bar-value">{g.count}</span>
+							</li>
+						))}
+					</ul>
+				</section>
+
+				<section>
+					<h2>Top labels</h2>
+					<ul class="bars">
+						{stats.labels.slice(0, 10).map((l) => (
+							<li>
+								<span class="bar-label">{l.name}</span>
+								<span class="bar-track"><span class="bar-fill" style={`width:${(l.count / maxLabel) * 100}%`} /></span>
+								<span class="bar-value">{l.count}</span>
+							</li>
+						))}
+					</ul>
+				</section>
+
+				<section class="value-history">
+					<h2>Collection value over time</h2>
+					{stats.valueHistory.length === 0 ? (
+						<p class="empty">
+							No valuation history yet — run <code>npm run valuations</code> weekly and this fills in over
+							time.
+						</p>
+					) : (
+						<div class="sparkline" role="img" aria-label="Collection value over time">
+							{stats.valueHistory.map((v) => (
+								<span class="spark-bar" style={`height:${Math.max(4, (v.total / maxValue) * 100)}%`} title={`${v.date}: $${v.total.toFixed(2)}`} />
+							))}
+						</div>
+					)}
+				</section>
+			</div>
+		)
+	}
+</Base>
+
+<style>
+	.grid-header {
+		display: flex;
+		align-items: baseline;
+		justify-content: space-between;
+		margin-bottom: 2rem;
+	}
+
+	.count {
+		color: var(--text-dim);
+		font-size: 0.9rem;
+	}
+
+	.empty {
+		color: var(--text-dim);
+	}
+
+	.empty code {
+		background: var(--bg-raised);
+		border: 1px solid var(--border);
+		border-radius: 3px;
+		padding: 0.1em 0.4em;
+		font-size: 0.9em;
+	}
+
+	.stats-grid {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		gap: 3rem 4rem;
+	}
+
+	@media (max-width: 720px) {
+		.stats-grid {
+			grid-template-columns: 1fr;
+		}
+	}
+
+	h2 {
+		font-size: 1rem;
+		margin: 0 0 1.25rem;
+	}
+
+	.bars {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+		display: grid;
+		gap: 0.6rem;
+	}
+
+	.bars li {
+		display: grid;
+		grid-template-columns: 100px 1fr 2.5rem;
+		align-items: center;
+		gap: 0.75rem;
+		font-size: 0.85rem;
+	}
+
+	.bar-label {
+		color: var(--text-dim);
+		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
+	}
+
+	.bar-track {
+		background: var(--border);
+		height: 8px;
+		border-radius: 4px;
+		overflow: hidden;
+	}
+
+	.bar-fill {
+		display: block;
+		height: 100%;
+		background: var(--accent);
+		border-radius: 4px;
+	}
+
+	.bar-value {
+		text-align: right;
+		color: var(--text-dim);
+		font-variant-numeric: tabular-nums;
+	}
+
+	.value-history {
+		grid-column: 1 / -1;
+	}
+
+	.sparkline {
+		display: flex;
+		align-items: flex-end;
+		gap: 3px;
+		height: 140px;
+		border-bottom: 1px solid var(--border);
+	}
+
+	.spark-bar {
+		flex: 1;
+		background: var(--accent);
+		border-radius: 2px 2px 0 0;
+		min-width: 3px;
+	}
+</style>

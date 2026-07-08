@@ -62,7 +62,9 @@ async function main() {
   // across instances of the same release.
   const releaseIdsNeeded = new Set(upstream.map((item) => item.id));
   const existingReleaseFiles = new Set(
-    (await readdir(RELEASES_DIR).catch(() => [])).map((f) => f.replace(/\.json$/, "")),
+    (await readdir(RELEASES_DIR).catch(() => []))
+      .filter((f) => f.endsWith(".json"))
+      .map((f) => f.replace(/\.json$/, "")),
   );
   const toFetch = [...releaseIdsNeeded].filter((id) => !existingReleaseFiles.has(String(id)));
   console.log(`  ${toFetch.length} release(s) need enrichment (${releaseIdsNeeded.size - toFetch.length} already cached)`);

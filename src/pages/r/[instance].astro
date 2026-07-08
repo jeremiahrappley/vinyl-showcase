@@ -1,0 +1,229 @@
+---
+import Base from "../../layouts/Base.astro";
+import Cover from "../../components/Cover.astro";
+import { getAllInstanceIds, getInstanceDetail } from "../../lib/view-model.ts";
+
+export function getStaticPaths() {
+  return getAllInstanceIds().map((instanceId) => ({ params: { instance: String(instanceId) } }));
+}
+
+const { instance } = Astro.params;
+const item = getInstanceDetail(Number(instance));
+if (!item) throw new Error(`No instance found for ${instance}`);
+---
+
+<Base title={item.title}>
+	<a class="back" href="/">← Grid</a>
+
+	<article class="record">
+		<div class="record-cover">
+			<Cover cover={item.cover} size="hero" alt={item.title} eager />
+		</div>
+
+		<div class="record-info">
+			<h1>{item.title}</h1>
+			<p class="artists">{item.artists} · {item.year}{item.released && item.released !== String(item.year) ? ` (${item.released})` : ""}</p>
+
+			<dl class="facts">
+				<div>
+					<dt>Format</dt>
+					<dd>{item.formats.join(", ")}</dd>
+				</div>
+				<div>
+					<dt>Label</dt>
+					<dd>{item.labels.map((l) => `${l.name} (${l.catno})`).join(", ")}</dd>
+				</div>
+				{item.country && (
+					<div>
+						<dt>Country</dt>
+						<dd>{item.country}</dd>
+					</div>
+				)}
+				{item.genres.length > 0 && (
+					<div>
+						<dt>Genre</dt>
+						<dd>{item.genres.join(", ")}</dd>
+					</div>
+				)}
+				{item.styles.length > 0 && (
+					<div>
+						<dt>Style</dt>
+						<dd>{item.styles.join(", ")}</dd>
+					</div>
+				)}
+				<div>
+					<dt>Added</dt>
+					<dd>{new Date(item.dateAdded).toLocaleDateString(undefined, { year: "numeric", month: "long", day: "numeric" })}</dd>
+				</div>
+				{item.latestValuation && (
+					<div>
+						<dt>Lowest for sale</dt>
+						<dd>
+							{item.latestValuation.lowestPrice != null
+								? `${item.latestValuation.lowestPrice.toFixed(2)} ${item.latestValuation.currency}`
+								: "—"}{" "}
+							({item.latestValuation.numForSale} listed, as of {item.latestValuation.date})
+						</dd>
+					</div>
+				)}
+			</dl>
+
+			<a class="discogs-link" href={item.discogsUrl} target="_blank" rel="noopener">View on Discogs →</a>
+		</div>
+	</article>
+
+	{
+		item.tracklist.length > 0 && (
+			<section class="tracklist">
+				<h2>Tracklist</h2>
+				<ol>
+					{item.tracklist.map((t) => (
+						<li>
+							<span class="position">{t.position}</span>
+							<span class="track-title">{t.title}</span>
+							<span class="duration">{t.duration}</span>
+						</li>
+					))}
+				</ol>
+			</section>
+		)
+	}
+
+	{
+		item.credits.length > 0 && (
+			<section class="credits">
+				<h2>Credits</h2>
+				<p>{item.credits.map((c) => `${c.name} (${c.role})`).join(" · ")}</p>
+			</section>
+		)
+	}
+
+	{
+		item.notes && (
+			<section class="notes">
+				<h2>Notes</h2>
+				<p>{item.notes}</p>
+			</section>
+		)
+	}
+</Base>
+
+<style>
+	.back {
+		display: inline-block;
+		margin-bottom: 2rem;
+		font-size: 0.85rem;
+		text-decoration: none;
+		color: var(--text-dim);
+	}
+
+	.back:hover {
+		color: var(--accent);
+	}
+
+	.record {
+		display: grid;
+		grid-template-columns: minmax(240px, 380px) 1fr;
+		gap: 3rem;
+		margin-bottom: 3.5rem;
+	}
+
+	@media (max-width: 720px) {
+		.record {
+			grid-template-columns: 1fr;
+		}
+	}
+
+	.record-cover {
+		align-self: start;
+	}
+
+	.record-info h1 {
+		margin: 0 0 0.25rem;
+		font-size: 1.9rem;
+	}
+
+	.artists {
+		margin: 0 0 1.75rem;
+		color: var(--text-dim);
+		font-size: 1.05rem;
+	}
+
+	.facts {
+		display: grid;
+		gap: 0.9rem;
+		margin: 0 0 1.75rem;
+	}
+
+	.facts > div {
+		display: grid;
+		grid-template-columns: 110px 1fr;
+		gap: 0.5rem;
+		font-size: 0.9rem;
+	}
+
+	.facts dt {
+		color: var(--text-dim);
+	}
+
+	.facts dd {
+		margin: 0;
+	}
+
+	.discogs-link {
+		display: inline-block;
+		font-size: 0.9rem;
+		text-decoration: none;
+		color: var(--accent);
+		border-bottom: 1px solid currentColor;
+	}
+
+	h2 {
+		font-size: 1.1rem;
+		margin: 0 0 1rem;
+	}
+
+	.tracklist,
+	.credits,
+	.notes {
+		max-width: 640px;
+		margin-bottom: 2.5rem;
+	}
+
+	.tracklist ol {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+		border-top: 1px solid var(--border);
+	}
+
+	.tracklist li {
+		display: flex;
+		gap: 1rem;
+		padding: 0.6rem 0;
+		border-bottom: 1px solid var(--border);
+		font-size: 0.92rem;
+	}
+
+	.position {
+		color: var(--text-dim);
+		width: 2.5rem;
+		flex-shrink: 0;
+	}
+
+	.track-title {
+		flex: 1;
+	}
+
+	.duration {
+		color: var(--text-dim);
+		font-variant-numeric: tabular-nums;
+	}
+
+	.credits p,
+	.notes p {
+		color: var(--text-dim);
+		font-size: 0.9rem;
+		line-height: 1.6;
+	}
+</style>

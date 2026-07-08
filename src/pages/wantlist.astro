@@ -1,32 +1,29 @@
 ---
 import Base from "../layouts/Base.astro";
 import Cover from "../components/Cover.astro";
-import { getCollection } from "../lib/view-model.ts";
+import { getWantlist } from "../lib/view-model.ts";
 
-const items = getCollection();
+const wants = getWantlist();
 ---
 
-<Base title="Grid">
+<Base title="Wantlist">
 	<div class="grid-header">
-		<h1>The Collection</h1>
-		<p class="count">{items.length} record{items.length === 1 ? "" : "s"}</p>
+		<h1>Wantlist</h1>
+		<p class="count">{wants.length} record{wants.length === 1 ? "" : "s"}</p>
 	</div>
 
 	{
-		items.length === 0 ? (
-			<p class="empty">
-				No records synced yet. Run <code>npm run sync</code> then <code>npm run images</code> (or append{" "}
-				<code>-- --mock</code> to try it with fixture data first).
-			</p>
+		wants.length === 0 ? (
+			<p class="empty">Nothing on the wantlist, or it hasn't been synced yet.</p>
 		) : (
 			<ul class="grid">
-				{items.map((item) => (
+				{wants.map((w) => (
 					<li>
-						<a href={`/r/${item.instanceId}/`}>
-							<Cover cover={item.cover} size="grid" alt={item.title} />
-							<p class="title">{item.title}</p>
+						<a href={w.discogsUrl} target="_blank" rel="noopener">
+							<Cover cover={w.cover} size="grid" alt={w.title} />
+							<p class="title">{w.title}</p>
 							<p class="meta">
-								{item.artists} · {item.year}
+								{w.artists} · {w.year}
 							</p>
 						</a>
 					</li>
@@ -51,14 +48,6 @@ const items = getCollection();
 
 	.empty {
 		color: var(--text-dim);
-	}
-
-	.empty code {
-		background: var(--bg-raised);
-		border: 1px solid var(--border);
-		border-radius: 3px;
-		padding: 0.1em 0.4em;
-		font-size: 0.9em;
 	}
 
 	.grid {
