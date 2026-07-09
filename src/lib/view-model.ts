@@ -60,6 +60,7 @@ interface WantlistEntry {
     year: number;
     artists: { name: string }[];
     cover_image: string;
+    resource_url: string;
   };
 }
 
@@ -280,7 +281,7 @@ export function getWantlist(): WantlistViewItem[] {
       title: w.basic_information.title,
       artists: w.basic_information.artists.map((a) => a.name).join(", "),
       year: w.basic_information.year,
-      discogsUrl: discogsReleaseUrl(w.resource_url),
+      discogsUrl: discogsReleaseUrl(w.basic_information.resource_url),
       cover: imageRecord ? coverDerivative(imageRecord.sha, imageRecord) : undefined,
     };
   });
