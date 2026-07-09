@@ -1,0 +1,599 @@
+{
+  "id": 34466278,
+  "status": "Accepted",
+  "year": 0,
+  "resource_url": "https://api.discogs.com/releases/34466278",
+  "uri": "https://www.discogs.com/release/34466278-Travis-Scott-2-Astroworld",
+  "artists": [
+    {
+      "name": "Travis Scott (2)",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 2742944,
+      "resource_url": "https://api.discogs.com/artists/2742944",
+      "thumbnail_url": "https://i.discogs.com/7zwoHnm9r9lOCD0WlSNI4iudhefQE5oDZIOWw7iihyQ/rs:fit/g:sm/q:90/h:600/w:413/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI3NDI5/NDQtMTUyNDU4NTAw/OS01MzgyLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Travis Scott (2)",
+  "labels": [
+    {
+      "name": "Epic",
+      "catno": "19075888361",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1005,
+      "resource_url": "https://api.discogs.com/labels/1005",
+      "thumbnail_url": "https://i.discogs.com/Ta8tXFbN3YA4PweFsSHGzpZN1tOertrxyLpgf7OaWCo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDUt/MTc3OTQ5NjYzOC04/Njg3LmpwZWc.jpeg"
+    },
+    {
+      "name": "Cactus Jack",
+      "catno": "19075888361",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1391119,
+      "resource_url": "https://api.discogs.com/labels/1391119",
+      "thumbnail_url": "https://i.discogs.com/qHrrSTRFMX2WUG4-dHMJibdsx6NL968qqEzcd0514LQ/rs:fit/g:sm/q:90/h:468/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzOTEx/MTktMTU5MDQ5MTQw/MC00NTQxLnBuZw.jpeg"
+    },
+    {
+      "name": "Grand Hustle",
+      "catno": "19075888361",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 69664,
+      "resource_url": "https://api.discogs.com/labels/69664",
+      "thumbnail_url": "https://i.discogs.com/GgEiN2zqgtOMYagf7Kica-eQd-0NLktjCS9khx97RRw/rs:fit/g:sm/q:90/h:166/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY5NjY0/LTE0ODg4Mzg0MTMt/MzI2OC5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Epic Records",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 61835,
+      "resource_url": "https://api.discogs.com/labels/61835",
+      "thumbnail_url": "https://i.discogs.com/wEfyvcddX1gwUJ23-Px0e3SZ8PmWmxDtr0GzwMN3vRU/rs:fit/g:sm/q:90/h:278/w:278/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTYxODM1/LTE1MzE5MTU2NzMt/MjU1MC5wbmc.jpeg"
+    },
+    {
+      "name": "Memphis Record Pressing",
+      "catno": "MRP1526",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 833505,
+      "resource_url": "https://api.discogs.com/labels/833505",
+      "thumbnail_url": "https://i.discogs.com/gScAekIZLcU8IXU0jHeomyKqbZCh5q_xSsYTWDC2k4A/rs:fit/g:sm/q:90/h:550/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgzMzUw/NS0xNDY0NDU1NjQ1/LTg5MzIuanBlZw.jpeg"
+    },
+    {
+      "name": "GZ Media",
+      "catno": "222034E",
+      "entity_type": "44",
+      "entity_type_name": "Plated At",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 348,
+    "want": 35,
+    "rating": {
+      "count": 107,
+      "average": 4.55
+    },
+    "submitter": {
+      "username": "egansteve",
+      "resource_url": "https://api.discogs.com/users/egansteve"
+    },
+    "contributors": [
+      {
+        "username": "egansteve",
+        "resource_url": "https://api.discogs.com/users/egansteve"
+      },
+      {
+        "username": "idratherbereading",
+        "resource_url": "https://api.discogs.com/users/idratherbereading"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2025-07-06T10:38:01-07:00",
+  "date_changed": "2025-11-05T01:38:48-08:00",
+  "num_for_sale": 5,
+  "lowest_price": 20,
+  "master_id": 1435589,
+  "master_url": "https://api.discogs.com/masters/1435589",
+  "title": "Astroworld",
+  "country": "US",
+  "notes": "FBI Piracy Warning on back cover and on labels. This US version does not have Sony Music logo like the EU counterpart. \nGZ Media matrix number suggest a pressing from circa 2021.\n\nHoused in a full-color, single-sleeve jacket.\n2 x double-sided, full-color, gloss-printed lyric, credit & artwork sleeve/inserts included.",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "190758883618"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MRP1526 / 19075888361/AB - A 222034E1/D",
+      "description": "Side A runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MRP1526 / 19075888361/AB - B 222034E2/D",
+      "description": "Side B runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MRP1526 / 19075888361/CD - A 222034E3/C",
+      "description": "Side C runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MRP1526 / 19075888361/CD - B 222034E4/C",
+      "description": "Side D runout"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=_EyZUTDAH0U",
+      "title": "Travis Scott - BUTTERFLY EFFECT",
+      "description": "\"Butterfly Effect\" available at iTunes http://smarturl.it/ButterflyEffect_iT\nApple Music http://smarturl.it/BufferflyEffect_AM\nSpotify  http://smarturl.it/BufferflyEffect_Sptf\n\nVideo Director: BRTHR\nVideo Producer: Laure Salgon\nExecutive Producer: Sara Gr",
+      "duration": 213,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=tAyYYKcySXA",
+      "title": "Travis Scott - SKELETONS (Audio)",
+      "description": "ASTROWORLD available at  http://smarturl.it/ASTROWORLD \n\nTravis Scott online: \nhttps://twitter.com/trvisXX \nhttps://www.instagram.com/travisscott/ \nhttps://soundcloud.com/travisscott-2 \nhttps://www.facebook.com/travisscottlaflame \nhttps://travisscott.com/",
+      "duration": 148,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=PJWHAiDARMQ",
+      "title": "Travis Scott - YOSEMITE",
+      "description": "ASTROWORLD OUT NOW http://travisscott.com\n\nDirected by Nabil \nProduced by Ivan Herrera and Kathleen Heffernan for Operator Media\n\nTravis Scott online:\nhttps://twitter.com/trvisXX\nhttps://www.instagram.com/travisscott/\nhttps://soundcloud.com/travisscott-2\n",
+      "duration": 272,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=2a8PgqWrc_4",
+      "title": "Travis Scott - STARGAZING (Audio)",
+      "description": "ASTROWORLD available at  http://smarturl.it/ASTROWORLD \n\nTravis Scott online: \nhttps://twitter.com/trvisXX \nhttps://www.instagram.com/travisscott/ \nhttps://soundcloud.com/travisscott-2 \nhttps://www.facebook.com/travisscottlaflame \nhttps://travisscott.com/",
+      "duration": 273,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=6ONRf7h3Mdk",
+      "title": "Travis Scott - SICKO MODE (Official Video) ft. Drake",
+      "description": "\"SICKO MODE\" by Travis Scott featuring Drake\nListen to Travis Scott: https://TravisScott.lnk.to/listenYD\n\nSubscribe to the official Travis Scott YouTube channel: https://TravisScott.lnk.to/subscribeYD\n\nWatch more Travis Scott videos: https://TravisScott.l",
+      "duration": 323,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Hip Hop"
+  ],
+  "styles": [
+    "Trap",
+    "Pop Rap",
+    "Psychedelic"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Stargazing",
+      "duration": "4:31"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Carousel",
+      "extraartists": [
+        {
+          "name": "Frank Ocean",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2013868,
+          "resource_url": "https://api.discogs.com/artists/2013868"
+        }
+      ],
+      "duration": "3:00"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Sicko Mode",
+      "extraartists": [
+        {
+          "name": "Drake",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 151199,
+          "resource_url": "https://api.discogs.com/artists/151199"
+        }
+      ],
+      "duration": "5:13"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "R.I.P Screw",
+      "extraartists": [
+        {
+          "name": "Swae Lee",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3979450,
+          "resource_url": "https://api.discogs.com/artists/3979450"
+        }
+      ],
+      "duration": "3:06"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Stop Trying To Be God",
+      "extraartists": [
+        {
+          "name": "James Blake",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1500084,
+          "resource_url": "https://api.discogs.com/artists/1500084"
+        },
+        {
+          "name": "Kid Cudi",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1093094,
+          "resource_url": "https://api.discogs.com/artists/1093094"
+        },
+        {
+          "name": "Philip Bailey",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 157277,
+          "resource_url": "https://api.discogs.com/artists/157277"
+        },
+        {
+          "name": "Stevie Wonder",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 18956,
+          "resource_url": "https://api.discogs.com/artists/18956"
+        }
+      ],
+      "duration": "5:38"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "No Bystanders",
+      "extraartists": [
+        {
+          "name": "Juice WRLD",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 6430933,
+          "resource_url": "https://api.discogs.com/artists/6430933"
+        },
+        {
+          "name": "Sheck Wes",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 6706028,
+          "resource_url": "https://api.discogs.com/artists/6706028"
+        }
+      ],
+      "duration": "3:38"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Skeletons",
+      "extraartists": [
+        {
+          "name": "Pharrell Williams",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 90037,
+          "resource_url": "https://api.discogs.com/artists/90037"
+        },
+        {
+          "name": "Tame Impala",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1245513,
+          "resource_url": "https://api.discogs.com/artists/1245513"
+        },
+        {
+          "name": "The Weeknd",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2171152,
+          "resource_url": "https://api.discogs.com/artists/2171152"
+        }
+      ],
+      "duration": "2:26"
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Wake Up",
+      "extraartists": [
+        {
+          "name": "The Weeknd",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2171152,
+          "resource_url": "https://api.discogs.com/artists/2171152"
+        }
+      ],
+      "duration": "3:52"
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "5% Tint",
+      "duration": "3:16"
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "NC-17",
+      "extraartists": [
+        {
+          "name": "21 Savage",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3259639,
+          "resource_url": "https://api.discogs.com/artists/3259639"
+        }
+      ],
+      "duration": "2:37"
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "Astrothunder",
+      "duration": "2:23"
+    },
+    {
+      "position": "C5",
+      "type_": "track",
+      "title": "Yosemite",
+      "extraartists": [
+        {
+          "name": "Gunna",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1689451,
+          "resource_url": "https://api.discogs.com/artists/1689451"
+        },
+        {
+          "name": "NAV (7)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 5238079,
+          "resource_url": "https://api.discogs.com/artists/5238079"
+        }
+      ],
+      "duration": "2:30"
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Can't Say",
+      "extraartists": [
+        {
+          "name": "Don Toliver",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 6775860,
+          "resource_url": "https://api.discogs.com/artists/6775860"
+        }
+      ],
+      "duration": "3:18"
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Who? What!",
+      "extraartists": [
+        {
+          "name": "Quavo",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3755115,
+          "resource_url": "https://api.discogs.com/artists/3755115"
+        },
+        {
+          "name": "Takeoff",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3791818,
+          "resource_url": "https://api.discogs.com/artists/3791818"
+        }
+      ],
+      "duration": "2:57"
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Butterfly Effect",
+      "duration": "3:11"
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "title": "Houstonfornication",
+      "duration": "3:38"
+    },
+    {
+      "position": "D5",
+      "type_": "track",
+      "title": "Coffee Bean",
+      "duration": "3:29"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Sickamore",
+      "anv": "",
+      "join": "",
+      "role": "A&R",
+      "tracks": "",
+      "id": 1201678,
+      "resource_url": "https://api.discogs.com/artists/1201678"
+    },
+    {
+      "name": "Mike Dean",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 101883,
+      "resource_url": "https://api.discogs.com/artists/101883"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/PYTyOPnFFNlYzspAN0V_8sSgwz7nAdzUE0SiqAPjUuE/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDYtMTc3MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/PYTyOPnFFNlYzspAN0V_8sSgwz7nAdzUE0SiqAPjUuE/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDYtMTc3MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/eilCy1AJIILHwjF2DSx12L6XZ8UId7S-LT_WnfW3o_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDYtMTc3MC5qcGVn.jpeg",
+      "width": 596,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/_BYWoC1MyDTJ2p9bp11b3uuYICkhqY1NWLFCsSIXDP4/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDYtODU5Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/_BYWoC1MyDTJ2p9bp11b3uuYICkhqY1NWLFCsSIXDP4/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDYtODU5Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/prflZAta6CJC3aO_ENrwiuvPwP9eH3u91hn5dbeldIc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDYtODU5Mi5qcGVn.jpeg",
+      "width": 589,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/rKkFoUSDQ3VcTjYfkYrZGuGsCSgECfzpoqNcgscC5-8/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDQtODcxNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/rKkFoUSDQ3VcTjYfkYrZGuGsCSgECfzpoqNcgscC5-8/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDQtODcxNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Qw1yXb5Wpw5OQqT1iWhn7DkqxlXDgd8te8jxpJFfpu4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDQtODcxNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 585
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/hVkNvf6AgM7EeXcNARZ1oH0ZXuq7_1-o4ZArS56vTXQ/rs:fit/g:sm/q:90/h:600/w:560/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDQtMjMwMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/hVkNvf6AgM7EeXcNARZ1oH0ZXuq7_1-o4ZArS56vTXQ/rs:fit/g:sm/q:90/h:600/w:560/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDQtMjMwMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/6UewuCehyTY6JEpI1s4_iMLv1tlor0ENsiN0GW7C4lg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDQtMjMwMy5qcGVn.jpeg",
+      "width": 560,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/r5_JCF7NwDtQa3Ki5h6o52AQHwTfVKBGXq5M5qewAcw/rs:fit/g:sm/q:90/h:600/w:567/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDQtMjg5Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/r5_JCF7NwDtQa3Ki5h6o52AQHwTfVKBGXq5M5qewAcw/rs:fit/g:sm/q:90/h:600/w:567/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDQtMjg5Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/DOFJzdRGLZnxmkIPBsyWom1wBeGQ--Gm6py44ANmq3U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDQtMjg5Ny5qcGVn.jpeg",
+      "width": 567,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/jl2rs9z8fhnzPLdRO6cPWaqd32YNNMa2UwLZHqLjIEQ/rs:fit/g:sm/q:90/h:600/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDQtMTYxMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/jl2rs9z8fhnzPLdRO6cPWaqd32YNNMa2UwLZHqLjIEQ/rs:fit/g:sm/q:90/h:600/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDQtMTYxMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/owlPzhycUnpQb3XN5tnfXkp3E-7BSB-FQr68SpSAf2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDQtMTYxMS5qcGVn.jpeg",
+      "width": 568,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/PhgN6sRJ-0wLwTsU1bpj-NDrqk_OvOoWI88CK-JqrzA/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDUtMzc2NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/PhgN6sRJ-0wLwTsU1bpj-NDrqk_OvOoWI88CK-JqrzA/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDUtMzc2NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/MN0-TthxxV82uh1UpK6nL4foQ-EQyDa6QY9dyShgGDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDUtMzc2NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 593
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/o5qdq5jnEZRqMlE1qTPm7U21iDKMoTcjNU5hOAFEzIg/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDctMjgwMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/o5qdq5jnEZRqMlE1qTPm7U21iDKMoTcjNU5hOAFEzIg/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDctMjgwMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/XQc2TP_h5mlVKnpKZ1WLsohbPu9MQz_NskO_rGqq56M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDctMjgwMy5qcGVn.jpeg",
+      "width": 586,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/LHTwdK6tVKOUwfpyMB_583v0je9cVFmJShScafg3F9g/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDYtNjA1NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/LHTwdK6tVKOUwfpyMB_583v0je9cVFmJShScafg3F9g/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDYtNjA1NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/8Ten34z0oobhyxZOs1EKwMx6lBy10Of7wj7gRhlpZ_0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDYtNjA1NS5qcGVn.jpeg",
+      "width": 585,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/hQyUSRUFrnloPPv4gQrMAa07XVtKX5M21UCmU8drGR4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDYtOTExMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/hQyUSRUFrnloPPv4gQrMAa07XVtKX5M21UCmU8drGR4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDYtOTExMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/8Wxrg79kV_uv3-cnblJ1DJw-AIHGH1hNvSkNMQ9qSqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDYtOTExMC5qcGVn.jpeg",
+      "width": 600,
+      "height": 593
+    }
+  ],
+  "thumb": "https://i.discogs.com/eilCy1AJIILHwjF2DSx12L6XZ8UId7S-LT_WnfW3o_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NDY2/Mjc4LTE3NTE4MjQ5/MDYtMTc3MC5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

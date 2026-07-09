@@ -1,0 +1,1201 @@
+{
+  "id": 13125209,
+  "status": "Accepted",
+  "year": 0,
+  "resource_url": "https://api.discogs.com/releases/13125209",
+  "uri": "https://www.discogs.com/release/13125209-Lady-Gaga-The-Fame",
+  "artists": [
+    {
+      "name": "Lady Gaga",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 1103159,
+      "resource_url": "https://api.discogs.com/artists/1103159",
+      "thumbnail_url": "https://i.discogs.com/7fKI9gTLk8SjvmEoazkFu1QC-bSmKRvC3gc0seURp0g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTExMDMx/NTktMTc0MTUyMTky/MS03NzU0LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Lady Gaga",
+  "labels": [
+    {
+      "name": "Streamline Records",
+      "catno": "B0011805-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 122077,
+      "resource_url": "https://api.discogs.com/labels/122077",
+      "thumbnail_url": "https://i.discogs.com/iQymr-QO9BXL4y2lTJf5KpgRnUz2W4wkDCgEpeeql6A/rs:fit/g:sm/q:90/h:111/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMjA3/Ny0xMzE3MTQyNDMz/LnBuZw.jpeg"
+    },
+    {
+      "name": "Interscope Records",
+      "catno": "B0011805-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 2311,
+      "resource_url": "https://api.discogs.com/labels/2311",
+      "thumbnail_url": "https://i.discogs.com/58MHEZ0kBRytN0Ivvqvnirp57RFfiqWh1YGJLsn62ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTEt/MTUxNzAxMTEyMy00/NjEwLmpwZWc.jpeg"
+    },
+    {
+      "name": "Konlive",
+      "catno": "B0011805-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 122078,
+      "resource_url": "https://api.discogs.com/labels/122078",
+      "thumbnail_url": "https://i.discogs.com/zxtjMCbj0LDEDmHr4oWu8rI6bnxBIHQIVrIN2sPwI8U/rs:fit/g:sm/q:90/h:270/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMjA3/OC0xNjIwNTE1NjEw/LTYyNzIuZ2lm.jpeg"
+    },
+    {
+      "name": "Cherrytree Records",
+      "catno": "B0011805-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 52310,
+      "resource_url": "https://api.discogs.com/labels/52310",
+      "thumbnail_url": "https://i.discogs.com/3k1GQtvJddaBj_P6r3JZbETWT-qPOQmtwOumxv14u6Y/rs:fit/g:sm/q:90/h:600/w:419/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUyMzEw/LTEzOTIxMzkxMTUt/ODMzNi5qcGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "United Record Pressing",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 238322,
+      "resource_url": "https://api.discogs.com/labels/238322",
+      "thumbnail_url": "https://i.discogs.com/wXejTcaBZif0vNl1Wx8ZmvUBcAwkQ21T3AduA-BjUg8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzODMy/Mi0xNDk3Nzk0Njg4/LTg0MzAucG5n.jpeg"
+    },
+    {
+      "name": "Interscope Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 2311,
+      "resource_url": "https://api.discogs.com/labels/2311",
+      "thumbnail_url": "https://i.discogs.com/58MHEZ0kBRytN0Ivvqvnirp57RFfiqWh1YGJLsn62ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTEt/MTUxNzAxMTEyMy00/NjEwLmpwZWc.jpeg"
+    },
+    {
+      "name": "Interscope Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 2311,
+      "resource_url": "https://api.discogs.com/labels/2311",
+      "thumbnail_url": "https://i.discogs.com/58MHEZ0kBRytN0Ivvqvnirp57RFfiqWh1YGJLsn62ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTEt/MTUxNzAxMTEyMy00/NjEwLmpwZWc.jpeg"
+    },
+    {
+      "name": "Oasis Mastering",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 269348,
+      "resource_url": "https://api.discogs.com/labels/269348",
+      "thumbnail_url": "https://i.discogs.com/LNEtgsfGj43rFEqZR67FSni-6gbYfkU7mYv2mFUgtXA/rs:fit/g:sm/q:90/h:253/w:253/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2OTM0/OC0xNDQ4ODkxMzg1/LTQzNTkuanBlZw.jpeg"
+    },
+    {
+      "name": "Cherrytree Recording Studio",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 344052,
+      "resource_url": "https://api.discogs.com/labels/344052"
+    },
+    {
+      "name": "Universal Music Distribution",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 115478,
+      "resource_url": "https://api.discogs.com/labels/115478"
+    },
+    {
+      "name": "Universal Music Distribution",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 115478,
+      "resource_url": "https://api.discogs.com/labels/115478"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Repress"
+      ],
+      "text": "160g"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 3651,
+    "want": 610,
+    "rating": {
+      "count": 251,
+      "average": 4.75
+    },
+    "submitter": {
+      "username": "sean.l",
+      "resource_url": "https://api.discogs.com/users/sean.l"
+    },
+    "contributors": [
+      {
+        "username": "sean.l",
+        "resource_url": "https://api.discogs.com/users/sean.l"
+      },
+      {
+        "username": "Yomyel",
+        "resource_url": "https://api.discogs.com/users/Yomyel"
+      },
+      {
+        "username": "dclubok",
+        "resource_url": "https://api.discogs.com/users/dclubok"
+      },
+      {
+        "username": ".SLCOOLJ.",
+        "resource_url": "https://api.discogs.com/users/.SLCOOLJ."
+      },
+      {
+        "username": "rose189",
+        "resource_url": "https://api.discogs.com/users/rose189"
+      },
+      {
+        "username": "Socal_Photog",
+        "resource_url": "https://api.discogs.com/users/Socal_Photog"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2019-01-26T04:53:33-08:00",
+  "date_changed": "2023-07-20T13:57:34-07:00",
+  "num_for_sale": 27,
+  "lowest_price": 25,
+  "master_id": 11126,
+  "master_url": "https://api.discogs.com/masters/11126",
+  "title": "The Fame",
+  "country": "US",
+  "notes": "Gatefold sleeve.\n\n\"Manufactured and distributed in USA by Universal Music Distribution\" printed in lower left corner on back of jacket.",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "602517854772",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0011805-01 LP01-A RE G-1 RM",
+      "description": "Side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0011805-01 LP01-B RE G-1 RM",
+      "description": "Side B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0011805-01 LP02-A RE G-1 RM",
+      "description": "Side C"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0011805-01 LP02-B RE G-1 RM",
+      "description": "Side D"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B001180501-A",
+      "description": "Side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B001180501-B",
+      "description": "Side B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B001180501-C",
+      "description": "Side C"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B001180501-D",
+      "description": "Side D"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=2Abk1jAONjw",
+      "title": "Lady Gaga - Just Dance (Official Music Video) ft. Colby O'Donis",
+      "description": "MAYHEM OUT NOW\nhttp://ladygaga.com \n\nFollow Lady Gaga:\nFacebook: https://www.facebook.com/ladygaga \nInstagram: https://www.instagram.com/ladygaga \nTikTok: https://www.tiktok.com/@ladygaga \nTwitter: https://twitter.com/ladygaga \nYouTube: https://www.youtub",
+      "duration": 247,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=bESGLojNYSo",
+      "title": "Lady Gaga - Poker Face (Official Music Video)",
+      "description": "MAYHEM OUT NOW\nhttp://ladygaga.com \n \nFollow Lady Gaga:\nFacebook: https://www.facebook.com/ladygaga \nInstagram: https://www.instagram.com/ladygaga \nTikTok: https://www.tiktok.com/@ladygaga \nTwitter: https://twitter.com/ladygaga \nYouTube: https://www.youtu",
+      "duration": 214,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=mVEG793G3N4",
+      "title": "Lady Gaga - Eh, Eh (Nothing Else I Can Say) (Official Music Video)",
+      "description": "REMASTERED IN HD!\nLADY GAGA / JOANNE \nNEW ALBUM / OUT NOW\niTunes: http://smarturl.it/Joanne \nGoogle Play: http://smarturl.it/Joanne.gp \nAmazon: http://smarturl.it/Joanne.amz\nLadyGaga.com: http://smarturl.it/GagaStore\n\nFOLLOW LADY GAGA:\nhttp://www.facebook",
+      "duration": 177,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=d2smz_1L2_0",
+      "title": "Lady Gaga - Paparazzi (Official Music Video)",
+      "description": "MAYHEM OUT NOW\nhttp://ladygaga.com \n\nFollow Lady Gaga:\nFacebook: https://www.facebook.com/ladygaga \nInstagram: https://www.instagram.com/ladygaga \nTikTok: https://www.tiktok.com/@ladygaga \nTwitter: https://twitter.com/ladygaga \nYouTube: https://www.youtub",
+      "duration": 432,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=qStFzmQGQNw",
+      "title": "Lady Gaga - Paparazzi (Explicit) (Official Music Video)",
+      "description": "Music video by Lady Gaga performing Paparazzi. (C) 2009 Interscope Records",
+      "duration": 458,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=QgKrzdaDQMw",
+      "title": "Lady Gaga - Paparazzi (Radio Edit) (Official Music Video)",
+      "description": "Music video by Lady Gaga performing Paparazzi. (C) 2009 Interscope Records",
+      "duration": 467,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=7Nr33m1zXVE",
+      "title": "Lady Gaga - Beautiful, Dirty, Rich (Official Music Video)",
+      "description": "REMASTERED IN HD!\nLADY GAGA / JOANNE \nNEW ALBUM / OUT NOW\niTunes: http://smarturl.it/Joanne \nGoogle Play: http://smarturl.it/Joanne.gp \nAmazon: http://smarturl.it/Joanne.amz\nLadyGaga.com: http://smarturl.it/GagaStore\n\nFOLLOW LADY GAGA:\nhttp://www.facebook",
+      "duration": 173,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=1mB0tP1I-14",
+      "title": "Lady Gaga - LoveGame (Official Music Video)",
+      "description": "MAYHEM OUT NOW\nhttp://ladygaga.com \n \nFollow Lady Gaga:\nFacebook: https://www.facebook.com/ladygaga \nInstagram: https://www.instagram.com/ladygaga \nTikTok: https://www.tiktok.com/@ladygaga \nTwitter: https://twitter.com/ladygaga \nYouTube: https://www.youtu",
+      "duration": 218,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=SnyG8LAt90k",
+      "title": "The Fame (Limited Deluxe CD+DVD Edition by Lady GaGa)",
+      "description": "Lady GaGa - The Fame\nLimited Deluxe CD+DVD Edition Album\nMore info of this release here:\nhttps://www.discogs.com/release/1894732-Lady-Gaga-%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%AC%E3%82%AC-The-Fame-%E3%82%B6%E3%83%95%E3%82%A7%E3%82%A4%E3%83%A0-%E3%83",
+      "duration": 204,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Electro",
+    "Synth-pop",
+    "Europop",
+    "Contemporary R&B"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Just Dance",
+      "extraartists": [
+        {
+          "name": "Akon",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 229665,
+          "resource_url": "https://api.discogs.com/artists/229665"
+        },
+        {
+          "name": "Colby O'Donis",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 1103160,
+          "resource_url": "https://api.discogs.com/artists/1103160"
+        },
+        {
+          "name": "Lady Gaga",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 1103159,
+          "resource_url": "https://api.discogs.com/artists/1103159"
+        },
+        {
+          "name": "RedOne",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 670431,
+          "resource_url": "https://api.discogs.com/artists/670431"
+        },
+        {
+          "name": "Dave Russell",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 183401,
+          "resource_url": "https://api.discogs.com/artists/183401"
+        },
+        {
+          "name": "RedOne",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Instruments, Recorded By",
+          "tracks": "",
+          "id": 670431,
+          "resource_url": "https://api.discogs.com/artists/670431"
+        },
+        {
+          "name": "Colby O'Donis",
+          "anv": "",
+          "join": "",
+          "role": "Vocals [Featuring]",
+          "tracks": "",
+          "id": 1103160,
+          "resource_url": "https://api.discogs.com/artists/1103160"
+        },
+        {
+          "name": "Aliaune \"Akon\" Thiam",
+          "anv": "Aliaune Thiam",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 313429,
+          "resource_url": "https://api.discogs.com/artists/313429"
+        },
+        {
+          "name": "Lady Gaga",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1103159,
+          "resource_url": "https://api.discogs.com/artists/1103159"
+        },
+        {
+          "name": "RedOne",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 670431,
+          "resource_url": "https://api.discogs.com/artists/670431"
+        }
+      ],
+      "duration": "4:02"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "LoveGame",
+      "extraartists": [
+        {
+          "name": "RedOne",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Instruments, Recorded By, Engineer",
+          "tracks": "",
+          "id": 670431,
+          "resource_url": "https://api.discogs.com/artists/670431"
+        },
+        {
+          "name": "Lady Gaga",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 1103159,
+          "resource_url": "https://api.discogs.com/artists/1103159"
+        },
+        {
+          "name": "RedOne",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 670431,
+          "resource_url": "https://api.discogs.com/artists/670431"
+        }
+      ],
+      "duration": "3:38"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Paparazzi",
+      "extraartists": [
+        {
+          "name": "Lady Gaga",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer [Additional], Keyboards",
+          "tracks": "",
+          "id": 1103159,
+          "resource_url": "https://api.discogs.com/artists/1103159"
+        },
+        {
+          "name": "Rob Fusari",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 102756,
+          "resource_url": "https://api.discogs.com/artists/102756"
+        },
+        {
+          "name": "Calvin Gaines",
+          "anv": "Calvin \"Sci Fidelity\" Gaines",
+          "join": "",
+          "role": "Programmed By [Additional]",
+          "tracks": "",
+          "id": 248804,
+          "resource_url": "https://api.discogs.com/artists/248804"
+        },
+        {
+          "name": "Lady Gaga",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1103159,
+          "resource_url": "https://api.discogs.com/artists/1103159"
+        },
+        {
+          "name": "Rob Fusari",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 102756,
+          "resource_url": "https://api.discogs.com/artists/102756"
+        }
+      ],
+      "duration": "3:29"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Poker Face",
+      "extraartists": [
+        {
+          "name": "Dave Russell",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 183401,
+          "resource_url": "https://api.discogs.com/artists/183401"
+        },
+        {
+          "name": "RedOne",
+          "anv": "",
+          "join": "",
+          "role": "Instruments, Recorded By",
+          "tracks": "",
+          "id": 670431,
+          "resource_url": "https://api.discogs.com/artists/670431"
+        },
+        {
+          "name": "Lady Gaga",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 1103159,
+          "resource_url": "https://api.discogs.com/artists/1103159"
+        },
+        {
+          "name": "RedOne",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 670431,
+          "resource_url": "https://api.discogs.com/artists/670431"
+        }
+      ],
+      "duration": "3:59"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Eh, Eh (Nothing Else I Can Say)",
+      "extraartists": [
+        {
+          "name": "Tony Ugval",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 367273,
+          "resource_url": "https://api.discogs.com/artists/367273"
+        },
+        {
+          "name": "Martin Kierszenbaum",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 110364,
+          "resource_url": "https://api.discogs.com/artists/110364"
+        },
+        {
+          "name": "Lady Gaga",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1103159,
+          "resource_url": "https://api.discogs.com/artists/1103159"
+        },
+        {
+          "name": "Martin Kierszenbaum",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 110364,
+          "resource_url": "https://api.discogs.com/artists/110364"
+        }
+      ],
+      "duration": "2:57"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Beautiful, Dirty, Rich",
+      "extraartists": [
+        {
+          "name": "Calvin Gaines",
+          "anv": "Calvin \"Sci Fidelity\" Gaines",
+          "join": "",
+          "role": "Bass, Programmed By [Addiotional]",
+          "tracks": "",
+          "id": 248804,
+          "resource_url": "https://api.discogs.com/artists/248804"
+        },
+        {
+          "name": "Dave Murga",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 1395481,
+          "resource_url": "https://api.discogs.com/artists/1395481"
+        },
+        {
+          "name": "Tom Kafafian",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 1382031,
+          "resource_url": "https://api.discogs.com/artists/1382031"
+        },
+        {
+          "name": "Lady Gaga",
+          "anv": "",
+          "join": "",
+          "role": "Keyboards",
+          "tracks": "",
+          "id": 1103159,
+          "resource_url": "https://api.discogs.com/artists/1103159"
+        },
+        {
+          "name": "Rob Fusari",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 102756,
+          "resource_url": "https://api.discogs.com/artists/102756"
+        },
+        {
+          "name": "Lady Gaga",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1103159,
+          "resource_url": "https://api.discogs.com/artists/1103159"
+        },
+        {
+          "name": "Rob Fusari",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 102756,
+          "resource_url": "https://api.discogs.com/artists/102756"
+        }
+      ],
+      "duration": "2:53"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "The Fame",
+      "extraartists": [
+        {
+          "name": "Tony Ugval",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 367273,
+          "resource_url": "https://api.discogs.com/artists/367273"
+        },
+        {
+          "name": "Martin Kierszenbaum",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 110364,
+          "resource_url": "https://api.discogs.com/artists/110364"
+        },
+        {
+          "name": "Lady Gaga",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1103159,
+          "resource_url": "https://api.discogs.com/artists/1103159"
+        },
+        {
+          "name": "Martin Kierszenbaum",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 110364,
+          "resource_url": "https://api.discogs.com/artists/110364"
+        }
+      ],
+      "duration": "3:43"
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Money Honey",
+      "extraartists": [
+        {
+          "name": "Lady Gaga",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 1103159,
+          "resource_url": "https://api.discogs.com/artists/1103159"
+        },
+        {
+          "name": "RedOne",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 670431,
+          "resource_url": "https://api.discogs.com/artists/670431"
+        },
+        {
+          "name": "RedOne",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Instruments, Recorded By, Engineer",
+          "tracks": "",
+          "id": 670431,
+          "resource_url": "https://api.discogs.com/artists/670431"
+        },
+        {
+          "name": "Bilal Hajji",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1277606,
+          "resource_url": "https://api.discogs.com/artists/1277606"
+        },
+        {
+          "name": "Lady Gaga",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1103159,
+          "resource_url": "https://api.discogs.com/artists/1103159"
+        },
+        {
+          "name": "RedOne",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 670431,
+          "resource_url": "https://api.discogs.com/artists/670431"
+        }
+      ],
+      "duration": "2:52"
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Starstruck",
+      "extraartists": [
+        {
+          "name": "4Mil",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 1395482,
+          "resource_url": "https://api.discogs.com/artists/1395482"
+        },
+        {
+          "name": "Tony Ugval",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 367273,
+          "resource_url": "https://api.discogs.com/artists/367273"
+        },
+        {
+          "name": "Flo Rida",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 885103,
+          "resource_url": "https://api.discogs.com/artists/885103"
+        },
+        {
+          "name": "Space Cowboy",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 31742,
+          "resource_url": "https://api.discogs.com/artists/31742"
+        },
+        {
+          "name": "Martin Kierszenbaum",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 110364,
+          "resource_url": "https://api.discogs.com/artists/110364"
+        },
+        {
+          "name": "Space Cowboy",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 31742,
+          "resource_url": "https://api.discogs.com/artists/31742"
+        },
+        {
+          "name": "Lady Gaga",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1103159,
+          "resource_url": "https://api.discogs.com/artists/1103159"
+        },
+        {
+          "name": "Martin Kierszenbaum",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 110364,
+          "resource_url": "https://api.discogs.com/artists/110364"
+        },
+        {
+          "name": "Nik Dresti",
+          "anv": "Nick Dresti",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 49035,
+          "resource_url": "https://api.discogs.com/artists/49035"
+        },
+        {
+          "name": "Tramar Dillard",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1255330,
+          "resource_url": "https://api.discogs.com/artists/1255330"
+        }
+      ],
+      "duration": "3:39"
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Boys Boys Boys",
+      "extraartists": [
+        {
+          "name": "Lady Gaga",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 1103159,
+          "resource_url": "https://api.discogs.com/artists/1103159"
+        },
+        {
+          "name": "RedOne",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Instruments, Recorded By, Engineer",
+          "tracks": "",
+          "id": 670431,
+          "resource_url": "https://api.discogs.com/artists/670431"
+        },
+        {
+          "name": "Lady Gaga",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1103159,
+          "resource_url": "https://api.discogs.com/artists/1103159"
+        },
+        {
+          "name": "RedOne",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 670431,
+          "resource_url": "https://api.discogs.com/artists/670431"
+        }
+      ],
+      "duration": "3:22"
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "Paper Gangsta",
+      "extraartists": [
+        {
+          "name": "RedOne",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Instruments, Recorded By, Engineer",
+          "tracks": "",
+          "id": 670431,
+          "resource_url": "https://api.discogs.com/artists/670431"
+        },
+        {
+          "name": "Lady Gaga",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 1103159,
+          "resource_url": "https://api.discogs.com/artists/1103159"
+        },
+        {
+          "name": "RedOne",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 670431,
+          "resource_url": "https://api.discogs.com/artists/670431"
+        }
+      ],
+      "duration": "4:25"
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Brown Eyes",
+      "extraartists": [
+        {
+          "name": "Victor Bailey",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 314826,
+          "resource_url": "https://api.discogs.com/artists/314826"
+        },
+        {
+          "name": "Lady Gaga",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer [Additional], Keyboards",
+          "tracks": "",
+          "id": 1103159,
+          "resource_url": "https://api.discogs.com/artists/1103159"
+        },
+        {
+          "name": "Joe Tomino",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 512339,
+          "resource_url": "https://api.discogs.com/artists/512339"
+        },
+        {
+          "name": "Tom Kafafian",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 1382031,
+          "resource_url": "https://api.discogs.com/artists/1382031"
+        },
+        {
+          "name": "Rob Fusari",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 102756,
+          "resource_url": "https://api.discogs.com/artists/102756"
+        },
+        {
+          "name": "Calvin Gaines",
+          "anv": "Calvin \"Sci Fidelity\" Gaines",
+          "join": "",
+          "role": "Programmed By [Addiotional]",
+          "tracks": "",
+          "id": 248804,
+          "resource_url": "https://api.discogs.com/artists/248804"
+        },
+        {
+          "name": "Lady Gaga",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1103159,
+          "resource_url": "https://api.discogs.com/artists/1103159"
+        },
+        {
+          "name": "Rob Fusari",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 102756,
+          "resource_url": "https://api.discogs.com/artists/102756"
+        }
+      ],
+      "duration": "4:05"
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "I Like It Rough",
+      "extraartists": [
+        {
+          "name": "Tony Ugval",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 367273,
+          "resource_url": "https://api.discogs.com/artists/367273"
+        },
+        {
+          "name": "Martin Kierszenbaum",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 110364,
+          "resource_url": "https://api.discogs.com/artists/110364"
+        },
+        {
+          "name": "Lady Gaga",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1103159,
+          "resource_url": "https://api.discogs.com/artists/1103159"
+        },
+        {
+          "name": "Martin Kierszenbaum",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 110364,
+          "resource_url": "https://api.discogs.com/artists/110364"
+        }
+      ],
+      "duration": "3:24"
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Summerboy",
+      "extraartists": [
+        {
+          "name": "Brian And Josh",
+          "anv": "Brian & Josh",
+          "join": "",
+          "role": "Producer, Arranged By",
+          "tracks": "",
+          "id": 1112944,
+          "resource_url": "https://api.discogs.com/artists/1112944"
+        },
+        {
+          "name": "Brian Kierulf",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 292598,
+          "resource_url": "https://api.discogs.com/artists/292598"
+        },
+        {
+          "name": "Joshua Michael Schwartz",
+          "anv": "Josh Schwartz",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 292597,
+          "resource_url": "https://api.discogs.com/artists/292597"
+        },
+        {
+          "name": "Lady Gaga",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1103159,
+          "resource_url": "https://api.discogs.com/artists/1103159"
+        }
+      ],
+      "duration": "4:15"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Martin Kierszenbaum",
+      "anv": "",
+      "join": "",
+      "role": "A&R",
+      "tracks": "",
+      "id": 110364,
+      "resource_url": "https://api.discogs.com/artists/110364"
+    },
+    {
+      "name": "Vincent Herbert",
+      "anv": "",
+      "join": "",
+      "role": "A&R",
+      "tracks": "",
+      "id": 52534,
+      "resource_url": "https://api.discogs.com/artists/52534"
+    },
+    {
+      "name": "Liam Ward",
+      "anv": "",
+      "join": "",
+      "role": "Design",
+      "tracks": "",
+      "id": 1829562,
+      "resource_url": "https://api.discogs.com/artists/1829562"
+    },
+    {
+      "name": "Vincent Herbert",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 52534,
+      "resource_url": "https://api.discogs.com/artists/52534"
+    },
+    {
+      "name": "Leah Landon",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 1637974,
+      "resource_url": "https://api.discogs.com/artists/1637974"
+    },
+    {
+      "name": "Troy Carter (2)",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 1637972,
+      "resource_url": "https://api.discogs.com/artists/1637972"
+    },
+    {
+      "name": "Gene Grimaldi",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 291752,
+      "resource_url": "https://api.discogs.com/artists/291752"
+    },
+    {
+      "name": "Robert Orton",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "",
+      "id": 110365,
+      "resource_url": "https://api.discogs.com/artists/110365"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/6qQj57MqlTdksz1pe6u1F8PZDWkeg0ISwrHTAh17MYo/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI1/MjA5LTE1NDg1MDg3/OTUtMTE4MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/6qQj57MqlTdksz1pe6u1F8PZDWkeg0ISwrHTAh17MYo/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI1/MjA5LTE1NDg1MDg3/OTUtMTE4MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/yKK69Fkomm75o1Ej3gK2IqLrnVEw1ene95iSjrgaSdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI1/MjA5LTE1NDg1MDg3/OTUtMTE4MC5qcGVn.jpeg",
+      "width": 596,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/uNyaB5QMrLqi7MlJMlhizdzFxqMRvQjAyljFLOAZB24/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI1/MjA5LTE1NDg1MDg3/OTctNDc0Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/uNyaB5QMrLqi7MlJMlhizdzFxqMRvQjAyljFLOAZB24/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI1/MjA5LTE1NDg1MDg3/OTctNDc0Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/C_yYgs_pf3zrDnV1WC4X6iunuw9GxssdzzJ7DGwS7xE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI1/MjA5LTE1NDg1MDg3/OTctNDc0Ni5qcGVn.jpeg",
+      "width": 596,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/yKK69Fkomm75o1Ej3gK2IqLrnVEw1ene95iSjrgaSdo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMTI1/MjA5LTE1NDg1MDg3/OTUtMTE4MC5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

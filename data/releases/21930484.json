@@ -1,0 +1,513 @@
+{
+  "id": 21930484,
+  "status": "Accepted",
+  "year": 2022,
+  "resource_url": "https://api.discogs.com/releases/21930484",
+  "uri": "https://www.discogs.com/release/21930484-Childish-Gambino-Awaken-My-Love",
+  "artists": [
+    {
+      "name": "Childish Gambino",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 2482309,
+      "resource_url": "https://api.discogs.com/artists/2482309",
+      "thumbnail_url": "https://i.discogs.com/UMQR8Ib0VLlNFQRZHCMwH77UVFVMv4PxfS3toT2Yytc/rs:fit/g:sm/q:90/h:600/w:479/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI0ODIz/MDktMTcyMjU3NzE4/My01NjM0LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Childish Gambino",
+  "labels": [
+    {
+      "name": "Glassnote (2)",
+      "catno": "GLS-0221-01WM",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 529557,
+      "resource_url": "https://api.discogs.com/labels/529557",
+      "thumbnail_url": "https://i.discogs.com/jeHJ457zT1sMpy3G-RUJBmZ9J8OMm-usr87PQchHnoQ/rs:fit/g:sm/q:90/h:600/w:488/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUyOTU1/Ny0xNDMzNTE0NTcx/LTI4MDYuanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "mc DJ Recording",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 323712,
+      "resource_url": "https://api.discogs.com/labels/323712"
+    },
+    {
+      "name": "mc DJ Recording",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 323712,
+      "resource_url": "https://api.discogs.com/labels/323712"
+    },
+    {
+      "name": "Glassnote Entertainment Group LLC",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 157275,
+      "resource_url": "https://api.discogs.com/labels/157275"
+    },
+    {
+      "name": "The Factory (4)",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 407926,
+      "resource_url": "https://api.discogs.com/labels/407926"
+    },
+    {
+      "name": "ELBO Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 967546,
+      "resource_url": "https://api.discogs.com/labels/967546"
+    },
+    {
+      "name": "Conway Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 265937,
+      "resource_url": "https://api.discogs.com/labels/265937",
+      "thumbnail_url": "https://i.discogs.com/yH8pXOLciN257RutJRe8Zk3ogg-Rd-ER5dMZsM1atsg/rs:fit/g:sm/q:90/h:243/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTkz/Ny0xNDQ4ODkxNDU3/LTIzMzAuanBlZw.jpeg"
+    },
+    {
+      "name": "Eastwest Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 377835,
+      "resource_url": "https://api.discogs.com/labels/377835",
+      "thumbnail_url": "https://i.discogs.com/VZkcJjmqJYLxmzPV_1KmgupEeZZqpqrDcUEVjd8mrs8/rs:fit/g:sm/q:90/h:280/w:280/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM3Nzgz/NS0xNDQ5MjY2MjQ4/LTY1OTguanBlZw.jpeg"
+    },
+    {
+      "name": "The Factory (4)",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 407926,
+      "resource_url": "https://api.discogs.com/labels/407926"
+    },
+    {
+      "name": "ELBO Studios",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 967546,
+      "resource_url": "https://api.discogs.com/labels/967546"
+    },
+    {
+      "name": "Sound EQ Studios",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 774755,
+      "resource_url": "https://api.discogs.com/labels/774755"
+    },
+    {
+      "name": "Bernie Grundman Mastering",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 263896,
+      "resource_url": "https://api.discogs.com/labels/263896",
+      "thumbnail_url": "https://i.discogs.com/nsGBKV1E7CmO2wHP4oMbHuOfMxw-5FIZjetOKyez7GU/rs:fit/g:sm/q:90/h:182/w:383/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2Mzg5/Ni0xMzE1MzQ3NDEy/LmpwZWc.jpeg"
+    },
+    {
+      "name": "GZ Media",
+      "catno": "200095E",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    },
+    {
+      "name": "Walmart",
+      "catno": "",
+      "entity_type": "42",
+      "entity_type_name": "Exclusive Retailer",
+      "id": 818363,
+      "resource_url": "https://api.discogs.com/labels/818363",
+      "thumbnail_url": "https://i.discogs.com/qyqHlc-iyWL5AF3xvjQtgEOgBrP3bxs2_ZljcGz2wxI/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgxODM2/My0xNzQxNDU1Mzk2/LTM5NDEucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "text": "Blue [Baby Boy]"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 8148,
+    "want": 2934,
+    "rating": {
+      "count": 503,
+      "average": 4.36
+    },
+    "submitter": {
+      "username": "Truthfromaliar",
+      "resource_url": "https://api.discogs.com/users/Truthfromaliar"
+    },
+    "contributors": [
+      {
+        "username": "Truthfromaliar",
+        "resource_url": "https://api.discogs.com/users/Truthfromaliar"
+      },
+      {
+        "username": "alexautomatic",
+        "resource_url": "https://api.discogs.com/users/alexautomatic"
+      },
+      {
+        "username": "blink182times",
+        "resource_url": "https://api.discogs.com/users/blink182times"
+      },
+      {
+        "username": "JonnyAtlas",
+        "resource_url": "https://api.discogs.com/users/JonnyAtlas"
+      },
+      {
+        "username": "MrShocktime",
+        "resource_url": "https://api.discogs.com/users/MrShocktime"
+      },
+      {
+        "username": "VYZEE",
+        "resource_url": "https://api.discogs.com/users/VYZEE"
+      },
+      {
+        "username": "djsgribbs",
+        "resource_url": "https://api.discogs.com/users/djsgribbs"
+      },
+      {
+        "username": "1234gorecords",
+        "resource_url": "https://api.discogs.com/users/1234gorecords"
+      },
+      {
+        "username": "A_Future_Historian",
+        "resource_url": "https://api.discogs.com/users/A_Future_Historian"
+      },
+      {
+        "username": "Xmipod",
+        "resource_url": "https://api.discogs.com/users/Xmipod"
+      },
+      {
+        "username": "deoinkc",
+        "resource_url": "https://api.discogs.com/users/deoinkc"
+      },
+      {
+        "username": "Tenebris_Angel",
+        "resource_url": "https://api.discogs.com/users/Tenebris_Angel"
+      },
+      {
+        "username": "recordnumber",
+        "resource_url": "https://api.discogs.com/users/recordnumber"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2022-01-28T11:31:23-08:00",
+  "date_changed": "2026-05-30T20:35:11-07:00",
+  "num_for_sale": 11,
+  "lowest_price": 19.29,
+  "master_id": 1112335,
+  "master_url": "https://api.discogs.com/masters/1112335",
+  "title": "Awaken, My Love!",
+  "country": "Czech Republic",
+  "released": "2022-01-26",
+  "notes": "Single LP release, Walmart exclusive colorway. First time officially pressed on colored vinyl.",
+  "released_formatted": "26 Jan 2022",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "5056167162810"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "200095E1/P",
+      "description": "Stamped"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "200095E2/H",
+      "description": "Stamped"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=PDQ7MUWg92M",
+      "title": "Childish Gambino - Boogieman (Official Audio)",
+      "description": "From the new album \"Awaken, My Love!\" available now: http://smarturl.it/awakenmylove\n\nhttp://childishgambino.com\nhttp://facebook.com/donaldglover\nhttp://instagram.com/childishgambino\nhttp://twitter.com/donaldglover\n\nMusic video by Childish Gambino perform",
+      "duration": 217,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=WbsZnsr0lI4",
+      "title": "Childish Gambino - Stand Tall (Official Audio)",
+      "description": "From the new album \"Awaken, My Love!\" available now: http://smarturl.it/awakenmylove\n\nhttp://childishgambino.com\nhttp://facebook.com/donaldglover\nhttp://instagram.com/childishgambino\nhttp://twitter.com/donaldglover\n\nMusic video by Childish Gambino perform",
+      "duration": 371,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ZIEgfEIdEag",
+      "title": "Childish Gambino - Terrified (Official Audio)",
+      "description": "From the new album \"Awaken, My Love!\" available now: http://smarturl.it/awakenmylove\n\nhttp://childishgambino.com\nhttp://facebook.com/donaldglover\nhttp://instagram.com/childishgambino\nhttp://twitter.com/donaldglover\n\nMusic video by Childish Gambino perform",
+      "duration": 256,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=dothnBCZB34",
+      "title": "Childish Gambino - Baby Boy (Official Audio)",
+      "description": "From the new album \"Awaken, My Love!\" available now: http://smarturl.it/awakenmylove\n\nhttp://childishgambino.com\nhttp://facebook.com/donaldglover\nhttp://instagram.com/childishgambino\nhttp://twitter.com/donaldglover\n\nMusic video by Childish Gambino perform",
+      "duration": 383,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=UXc00iqkzSc",
+      "title": "Childish Gambino - Awaken, My Love!",
+      "description": "Tracklist\n1. Me and Your Mama\n2. Have Some Love\n3. Boogieman\n4. Zombies\n5. Riot\n6. Redbone\n7. California\n8. Terrified\n9. Baby Boy\n10. The Night Me And Your Momma Met\n11. Stand Tall",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ZiIjLL9wq4Q",
+      "title": "Me and Your Mama",
+      "description": "Provided to YouTube by Virgin Music Group\n\nMe and Your Mama · Childish Gambino\n\n\"Awaken, My Love!\"\n\n℗ 2016 McDJ Entertainment under exclusive license to Glassnote Entertainment Group LLC\n\nReleased on: 2016-12-02\n\nComposer: Donald Glover\nComposer: Ludwig G",
+      "duration": 380,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=jK8HKg2825c",
+      "title": "Awaken my love! Full album",
+      "description": "Finally the full album in one video",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=k49I5m1J6Is",
+      "title": "Redbone",
+      "description": "Provided to YouTube by Virgin Music Group\n\nRedbone · Childish Gambino\n\n\"Awaken, My Love!\"\n\n℗ 2016 McDJ Entertainment under exclusive license to Glassnote Entertainment Group LLC\n\nReleased on: 2016-12-02\n\nComposer: Donald Glover\nComposer: Ludwig Göransson\n",
+      "duration": 327,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=E0W3-QTOg2A",
+      "title": "Childish Gambino - Awaken, My Love! (Full Album)",
+      "description": "Childish gambino funk 70s soul album. Amazing masterpiece.\nI do not own any audio or the picture being shown in the video.\nAll rights to Glassnote Records and Chilidsh Gambino.\n\nTracklist\n\nMe and Your Mama 0:00\nHave Some Love 6:19 \nBoogieman 10:03\nZombies",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=v824uM--nzc",
+      "title": "Childish Gambino   Awaken, My Love! Full Album",
+      "description": "Childish Gambino funk 70s soul album. Amazing masterpiece. I do not own any audio or the picture being shown in the video. All rights to Glassnote Records and Childish Gambino\n\nTracklist\nMe and Your Mama 0:00\nHave Some Love 6:39\nBoogieman 10:20\nZombies 13",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=HT4MgAtBbJA",
+      "title": "Childish Gambino - The Night Me and Your Mama Met ft. Gary Clark Jr. (Official Audio)",
+      "description": "From the new album \"Awaken, My Love!\" available now: http://smarturl.it/awakenmylove\n\nhttp://childishgambino.com\nhttp://facebook.com/donaldglover\nhttp://instagram.com/childishgambino\nhttp://twitter.com/donaldglover\n\nFeaturing Gary Clark Jr. on guitar\n\nMus",
+      "duration": 215,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=_hZCsgcKa-g",
+      "title": "Childish Gambino - Me and Your Mama (Official Audio)",
+      "description": "From the new album \"Awaken, My Love!\" available now: http://smarturl.it/awakenmylove\n\nhttp://childishgambino.com\nhttp://facebook.com/donaldglover\nhttp://instagram.com/childishgambino\nhttp://twitter.com/donaldglover\n \nMusic video by Childish Gambino perfor",
+      "duration": 379,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Kp7eSUU9oy8",
+      "title": "Childish Gambino - Redbone (Official Audio)",
+      "description": "From the new album \"Awaken, My Love!\" available now: http://smarturl.it/awakenmylove\n\nhttp://childishgambino.com\nhttp://facebook.com/donaldglover\nhttp://instagram.com/childishgambino\nhttp://twitter.com/donaldglover\n\nMusic video by Childish Gambino perform",
+      "duration": 327,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=XEGKUg7A2I8",
+      "title": "Zombies",
+      "description": "Provided to YouTube by Virgin Music Group\n\nZombies · Childish Gambino\n\n\"Awaken, My Love!\"\n\n℗ 2016 McDJ Entertainment under exclusive license to Glassnote Entertainment Group LLC\n\nReleased on: 2016-12-02\n\nComposer: Chris Hartz\nComposer: Donald Glover\nCompo",
+      "duration": 282,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Hip Hop",
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Rhythm & Blues"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Me And Your Mama",
+      "duration": "6:19"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Have Some Love",
+      "duration": "3:44"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Boogieman ",
+      "duration": "3:37"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Zombies ",
+      "duration": "4:42"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Riot",
+      "duration": "2:05"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Redbone ",
+      "duration": "5:27"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "California ",
+      "duration": "2:45"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Terrified ",
+      "duration": "4:15"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Baby Boy",
+      "duration": "6:22"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "The Night Me And Your Mama Met",
+      "duration": "3:34"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Stand Tall",
+      "duration": "6:11"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/NdyE8BMvT3vHRyJX34F5pwS9W2SvHZvQa_FH-l2ZZ7M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE3NTczMDIw/NjktODUyMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/NdyE8BMvT3vHRyJX34F5pwS9W2SvHZvQa_FH-l2ZZ7M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE3NTczMDIw/NjktODUyMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/OobrFaolIXtaS8zppSMAAiMEhgHWyUp48FAxQWH88v4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE3NTczMDIw/NjktODUyMy5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/u3RaSiM7J2TDGWnXB4xe-tsZVKgDe42OT4k1eZi6Y1o/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE2NDMzOTgz/NjQtMTg2Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/u3RaSiM7J2TDGWnXB4xe-tsZVKgDe42OT4k1eZi6Y1o/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE2NDMzOTgz/NjQtMTg2Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/7YD8-TrsiRbH3vVNSfuRAGx30NvKHc2VNKP8V7pJx_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE2NDMzOTgz/NjQtMTg2Mi5qcGVn.jpeg",
+      "width": 590,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/iE3ONWxhsh_UOpduHzoAtJpugWYpnX4y6NPVYKjE3N0/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE2NDM0MDg3/NzItMzI0MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/iE3ONWxhsh_UOpduHzoAtJpugWYpnX4y6NPVYKjE3N0/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE2NDM0MDg3/NzItMzI0MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/f6-rc7_JBEejuFT6TVf624bB6Dr_kaAfUlP9t2MK2-E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE2NDM0MDg3/NzItMzI0MC5qcGVn.jpeg",
+      "width": 595,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/sfhQBjhzWeHAEAcqo8rbDVN9lmm5MTotdRGp8adn1m4/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE2NDM0MDg3/NzItNDUxNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/sfhQBjhzWeHAEAcqo8rbDVN9lmm5MTotdRGp8adn1m4/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE2NDM0MDg3/NzItNDUxNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/X48uthF-lKoU7jJqqSl_1KUq81PN31DCnFGkGocCrzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE2NDM0MDg3/NzItNDUxNi5qcGVn.jpeg",
+      "width": 587,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/HLBS8satuLUcLqX23Srf8_kdSyrlCZ41cKw_me_mtRk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE2NDM0MDg5/MTYtNzc0MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/HLBS8satuLUcLqX23Srf8_kdSyrlCZ41cKw_me_mtRk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE2NDM0MDg5/MTYtNzc0MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/IImbTp1LDbgrA9kBY4-y9vUOhjoG-JtfN1R8Ym2cPos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE2NDM0MDg5/MTYtNzc0MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 595
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/fgi9PG_u7i_6Y8_PvyoQcRwNeQqo4kyugwMaGhs7nNk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE2NDM0MDg3/NzItNzY5OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/fgi9PG_u7i_6Y8_PvyoQcRwNeQqo4kyugwMaGhs7nNk/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE2NDM0MDg3/NzItNzY5OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/mHn62ECo2uQv558g2zdgxYBb3DUi3unJk8_6rcd85qE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE2NDM0MDg3/NzItNzY5OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/eVN9j_gpvqHGYOKXxF0jfcReOypbkKubxfpmnL-rqe0/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE2NDM0MDg3/NzMtNTQ3Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/eVN9j_gpvqHGYOKXxF0jfcReOypbkKubxfpmnL-rqe0/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE2NDM0MDg3/NzMtNTQ3Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/W0Svob5rrvJDjaNot1aM_TPMqDHt_Y966lsw7eEglPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE2NDM0MDg3/NzMtNTQ3Ny5qcGVn.jpeg",
+      "width": 588,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/VORRhYCMrBhRXiFagdRh_f5BmRfiOMS0OrPkPHuUyjk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE2NDMzOTgz/NzktMzMxMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/VORRhYCMrBhRXiFagdRh_f5BmRfiOMS0OrPkPHuUyjk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE2NDMzOTgz/NzktMzMxMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/dWUEcdWmMy8hEVXRfZ8OEyzZmvQD80gCk-vRbUJhL8A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE2NDMzOTgz/NzktMzMxMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 450
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/i9dsNX4OhV4fd-dj-NAUixqbmOjc8OVvuBOy-NZ9uR8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE2NDMzOTgz/NzUtMTgwNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/i9dsNX4OhV4fd-dj-NAUixqbmOjc8OVvuBOy-NZ9uR8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE2NDMzOTgz/NzUtMTgwNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/CoSOGIjeXFUgOl3Vlelsx13dYh2FbmN3uuO9J1lvdOM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE2NDMzOTgz/NzUtMTgwNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 450
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/usrJ-4G7IxMvveTYKVKrf1iTUEeXjer_yQk1JxyH5mY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE2NDM0MDg3/NzMtMzc4NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/usrJ-4G7IxMvveTYKVKrf1iTUEeXjer_yQk1JxyH5mY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE2NDM0MDg3/NzMtMzc4NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/MQ7LHcS00wwL4b3p4s3gRC6sbB_GLXsmaKFlHJnDjr8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE2NDM0MDg3/NzMtMzc4NC5qcGVn.jpeg",
+      "width": 598,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/OobrFaolIXtaS8zppSMAAiMEhgHWyUp48FAxQWH88v4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTMw/NDg0LTE3NTczMDIw/NjktODUyMy5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

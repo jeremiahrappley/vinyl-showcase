@@ -1,0 +1,672 @@
+{
+  "id": 23000420,
+  "status": "Accepted",
+  "year": 2022,
+  "resource_url": "https://api.discogs.com/releases/23000420",
+  "uri": "https://www.discogs.com/release/23000420-The-Weeknd-Dawn-FM",
+  "artists": [
+    {
+      "name": "The Weeknd",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 2171152,
+      "resource_url": "https://api.discogs.com/artists/2171152",
+      "thumbnail_url": "https://i.discogs.com/LtkvbtrtZxt0LY5IqGmt4KHX0-_QNv6xloFNdzy-i7Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxNzEx/NTItMTc2MDQ4MTA2/OS03NzM4LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Weeknd, The",
+  "labels": [
+    {
+      "name": "XO",
+      "catno": "B0035096-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 344571,
+      "resource_url": "https://api.discogs.com/labels/344571",
+      "thumbnail_url": "https://i.discogs.com/j9COP9wfWV1fEC4Yc9cxmJkrcRO3MF4eXbXxtg2sIjw/rs:fit/g:sm/q:90/h:600/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM0NDU3/MS0xNDg4ODM5NTYx/LTcwMjEucG5n.jpeg"
+    },
+    {
+      "name": "Republic Records",
+      "catno": "B0035096-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    },
+    {
+      "name": "Selecta Sound",
+      "catno": "B0035096-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 275945,
+      "resource_url": "https://api.discogs.com/labels/275945"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Universal Music Distribution",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 115478,
+      "resource_url": "https://api.discogs.com/labels/115478"
+    },
+    {
+      "name": "Republic Records",
+      "catno": "",
+      "entity_type": "8",
+      "entity_type_name": "Marketed By",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    },
+    {
+      "name": "The Weeknd XO, Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 567380,
+      "resource_url": "https://api.discogs.com/labels/567380",
+      "thumbnail_url": "https://i.discogs.com/6NPxod8LtvweA36YJ20nkT-wCfKtxYuBkQciDFN_fGo/rs:fit/g:sm/q:90/h:333/w:529/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU2NzM4/MC0xNjUxMTYyODQ0/LTE3MzguanBlZw.jpeg"
+    },
+    {
+      "name": "The Weeknd XO, Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 567380,
+      "resource_url": "https://api.discogs.com/labels/567380",
+      "thumbnail_url": "https://i.discogs.com/6NPxod8LtvweA36YJ20nkT-wCfKtxYuBkQciDFN_fGo/rs:fit/g:sm/q:90/h:333/w:529/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU2NzM4/MC0xNjUxMTYyODQ0/LTE3MzguanBlZw.jpeg"
+    },
+    {
+      "name": "MPO",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 56025,
+      "resource_url": "https://api.discogs.com/labels/56025",
+      "thumbnail_url": "https://i.discogs.com/ESRU3eTUmc1632Us6_7LBipnaQGV6lJe-D5nyFxssyw/rs:fit/g:sm/q:90/h:336/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU2MDI1/LTEzMTQ2OTg5ODQu/anBlZw.jpeg"
+    },
+    {
+      "name": "The Vinyl Room",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 268631,
+      "resource_url": "https://api.discogs.com/labels/268631",
+      "thumbnail_url": "https://i.discogs.com/ry5ucN9XLCIz0W2Vtkkb6aO2chTzQgYvaebg682h0XY/rs:fit/g:sm/q:90/h:100/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2ODYz/MS0xNjE2OTUwOTE1/LTY1MzguanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 17652,
+    "want": 2849,
+    "rating": {
+      "count": 1423,
+      "average": 4.61
+    },
+    "submitter": {
+      "username": "DaisyPurple",
+      "resource_url": "https://api.discogs.com/users/DaisyPurple"
+    },
+    "contributors": [
+      {
+        "username": "DaisyPurple",
+        "resource_url": "https://api.discogs.com/users/DaisyPurple"
+      },
+      {
+        "username": "Mr.Websta",
+        "resource_url": "https://api.discogs.com/users/Mr.Websta"
+      },
+      {
+        "username": "longgoneday1",
+        "resource_url": "https://api.discogs.com/users/longgoneday1"
+      },
+      {
+        "username": "_jules",
+        "resource_url": "https://api.discogs.com/users/_jules"
+      },
+      {
+        "username": "MalachiLui",
+        "resource_url": "https://api.discogs.com/users/MalachiLui"
+      },
+      {
+        "username": "remco2502",
+        "resource_url": "https://api.discogs.com/users/remco2502"
+      },
+      {
+        "username": "markus.parssinen",
+        "resource_url": "https://api.discogs.com/users/markus.parssinen"
+      },
+      {
+        "username": "AustinSimard",
+        "resource_url": "https://api.discogs.com/users/AustinSimard"
+      },
+      {
+        "username": "azzurro",
+        "resource_url": "https://api.discogs.com/users/azzurro"
+      },
+      {
+        "username": "cliffonthemoon",
+        "resource_url": "https://api.discogs.com/users/cliffonthemoon"
+      },
+      {
+        "username": "Quael",
+        "resource_url": "https://api.discogs.com/users/Quael"
+      },
+      {
+        "username": "acekenuhdee",
+        "resource_url": "https://api.discogs.com/users/acekenuhdee"
+      },
+      {
+        "username": "crudedrawing",
+        "resource_url": "https://api.discogs.com/users/crudedrawing"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2022-04-24T15:15:25-07:00",
+  "date_changed": "2025-04-05T21:05:11-07:00",
+  "num_for_sale": 230,
+  "lowest_price": 12.98,
+  "master_id": 2452996,
+  "master_url": "https://api.discogs.com/masters/2452996",
+  "title": "Dawn FM",
+  "country": "Worldwide",
+  "released": "2022-04-29",
+  "notes": "- Records shipped in polylined black inner sleeves\n- Housed in a direct-to-board gatefold jacket\n- Runouts are etched, MPO logo and job#s '22 XXXXXX' are stamped\n\nOn sticker:\nMade in France",
+  "released_formatted": "29 Apr 2022",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02445 40128 4",
+      "description": "Text"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0602445445097 A2 [MPO logo] 22 254639 -LVC-",
+      "description": "Side A runout, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0602445445097 B [MPO logo] 22 254377 -LVC-",
+      "description": "Side B runout, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0602445445403 A2 [MPO logo] 22 254421 -LvC-",
+      "description": "Side C runout, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0602445445103 B [MPO logo] 22 255300 -LVC-",
+      "description": "Side D runout, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0602445445097 A2 [MPO logo] 22 257815 -LVC-",
+      "description": "Side A runout, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0602445445097 B2 -LVC-",
+      "description": "Side B runout, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0602445445103 A2 [MPO logo] 22 257620 -LvC-",
+      "description": "Side C runout, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0602445445103 B2 [MPO logo] 22 257621 -LVC-",
+      "description": "Side D runout, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0602445445097 A [MPO logo] 22 275257 -LVC- M3",
+      "description": "Side A runout, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0602445445097 B [MPO logo] 22 275532 -LVC- M1",
+      "description": "Side B runout, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0602445445103 A2 [MPO logo] 22 278796 -LVC- P1M1",
+      "description": "Side C runout, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0602445445103 B2 [MPO logo] 22 279264 -LVC- M1",
+      "description": "Side D runout, variant 3"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=4FgDyABV0fA",
+      "title": "The Weeknd - Dawn FM | Full Album",
+      "description": "[00:00] 01. \n[01:36] 02. \n[05:08] 03. \n[08:42] 04. \n[14:21] 05. \n[17:30] 06. \n[19:06] 07. \n[22:40] 08. \n[26:10] 09. \n[28:54] 10. \n[32:13] 11. \n[34:41] 12. \n[37:28] 13. \n[40:53] 14. \n[45:17] 15. \n[48:49] 16. \n.\n.\n.\n.\n.\n.\n#DawnFM #위켄드\n #pop #popsong",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=rhTl_OyehF8",
+      "title": "The Weeknd - Take My Breath (Official Music Video)",
+      "description": "*****EPILEPSY WARNING ********\n*****EPILEPSY WARNING ********\n*****EPILEPSY WARNING ********\n \nOfficial music video for “Take My Breath” by The Weeknd. Song available now: http://theweeknd.co/tmb\n \n►Subscribe to The Weeknd on YouTube: http://theweeknd.co/",
+      "duration": 225,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=VafTMsrnSTU",
+      "title": "The Weeknd - Sacrifice",
+      "description": "*****EPILEPSY WARNING ********\n*****EPILEPSY WARNING ********\n*****EPILEPSY WARNING ********\n\nOfficial music video for The Weeknd “Sacrifice”. Available now, on ‘Dawn FM’: http://theweeknd.co/dawnfm\n\n►Subscribe to The Weeknd on YouTube: http://theweeknd.c",
+      "duration": 244,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=iOa7uE23qc4",
+      "title": "The Weeknd - Gasoline (Official Music Video)",
+      "description": "Official music video for The Weeknd “Gasoline”. Available now, on ‘Dawn FM’: http://theweeknd.co/dawnfm\n►Subscribe to The Weeknd on YouTube: http://theweeknd.co/subscribeYD \n\n►Get exclusive merch: shop.theweeknd.com\n►Follow The Weeknd:\nhttps://twitter.com",
+      "duration": 291,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=2fDzCWNS3ig",
+      "title": "The Weeknd - Out of Time (Official Video)",
+      "description": "Official music video for The Weeknd “Out Of Time”. Available now, on ‘Dawn FM’ - http://theweeknd.co/dawnfm\n\n►Get exclusive merch: http://shop.theweeknd.com\n\n►Subscribe on YouTube: http://theweeknd.co/subscribeYD\n\n►Connect with The Weeknd:\nhttps://twitter",
+      "duration": 234,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=1XqIWr_WqM4",
+      "title": "The Weeknd - Is There Someone Else?",
+      "description": "Official music video for The Weeknd “Is There Someone Else”, available everywhere here: http://theweeknd.co/dawnfm\n\nStarring Abel Tesfaye \n& Mackenzee Wilson \n\nDirected by Cliqua\nProduced by Roisín Audrey Moloney\nExecutive Producers Whitney Jackson, Tim N",
+      "duration": 255,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=VLMo0rthnoo",
+      "title": "The Weeknd - How Do I Make You Love Me? (Official Music Video)",
+      "description": "Official music video for The Weeknd “How Do I Make You Love Me”, available everywhere now: http://theweeknd.co/dawnfm\n\nAnimation directed by Jocelyn Charles \n \nCreative direction + concept by Cliqua\n \nStory by Abel Tesfaye, Cliqua, Jocelyn Charles \n \nProd",
+      "duration": 214,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=-ZuS0p2qRYo",
+      "title": "Take My Breath",
+      "description": "Provided to YouTube by Universal Music Group\n\nTake My Breath · The Weeknd\n\nDawn FM\n\n℗ 2022 The Weeknd XO, Inc., marketed by Republic Records, a division of UMG Recordings, Inc.\n\nReleased on: 2022-01-07\n\nProgrammer, Producer, Composer Lyricist: Max Martin\n",
+      "duration": 340,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=peLRPSCeppI",
+      "title": "Moth To A Flame",
+      "description": "Provided to YouTube by Universal Music Group\n\nMoth To A Flame · Swedish House Mafia · The Weeknd\n\nDawn FM\n\n℗ 2021 SSA Recording, LLP\n\nReleased on: 2022-01-07\n\nProducer, Drumprogrammer: Swedish House Mafia\nDrumprogrammer, Producer, Composer: Carl Nordström",
+      "duration": 234,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=DaPnuiSLZxE",
+      "title": "Sacrifice",
+      "description": "Provided to YouTube by Universal Music Group\n\nSacrifice · The Weeknd\n\nDawn FM\n\n℗ 2022 The Weeknd XO, Inc., marketed by Republic Records, a division of UMG Recordings, Inc.\n\nReleased on: 2022-01-07\n\nProducer: Swedish House Mafia\nComposer Lyricist, Producer",
+      "duration": 189,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=lu7lJ5okjyo",
+      "title": "The Weeknd, Swedish House Mafia - Sacrifice (Remix / Alternate World)",
+      "description": "Official music video for The Weeknd “Sacrifice” (Remix) feat. Swedish House Mafia (Alternate World) Available now, on ‘Dawn FM’: http://theweeknd.co/dawnfm\n\n►Subscribe to The Weeknd on YouTube: http://theweeknd.co/subscribeYD \n\n►Get exclusive merch: shop.",
+      "duration": 203,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=xulynscFILE",
+      "title": "Phantom Regret by Jim",
+      "description": "Provided to YouTube by Universal Music Group\n\nPhantom Regret by Jim · The Weeknd\n\nDawn FM\n\n℗ 2022 The Weeknd XO, Inc., marketed by Republic Records, a division of UMG Recordings, Inc.\n\nReleased on: 2022-01-07\n\nProgrammer, Producer: The Weeknd\nProducer, Pr",
+      "duration": 180,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=tZfN-yO96MM",
+      "title": "Starry Eyes",
+      "description": "Provided to YouTube by Universal Music Group\n\nStarry Eyes · The Weeknd\n\nDawn FM\n\n℗ 2022 The Weeknd XO, Inc., marketed by Republic Records, a division of UMG Recordings, Inc.\n\nReleased on: 2022-01-07\n\nProgrammer, Producer: The Weeknd\nProducer, Programmer: ",
+      "duration": 148,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=NubdUxGGYMQ",
+      "title": "Here We Go… Again",
+      "description": "Provided to YouTube by Universal Music Group\n\nHere We Go… Again · The Weeknd · Tyler, The Creator\n\nDawn FM\n\n℗ 2022 The Weeknd XO, Inc., marketed by Republic Records, a division of UMG Recordings, Inc.\n\nReleased on: 2022-01-07\n\nProgrammer, Producer, Compos",
+      "duration": 210,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=_Tn_I4GVwxg",
+      "title": "Dawn FM",
+      "description": "Provided to YouTube by Universal Music Group\n\nDawn FM · The Weeknd\n\nDawn FM\n\n℗ 2022 The Weeknd XO, Inc., marketed by Republic Records, a division of UMG Recordings, Inc.\n\nReleased on: 2022-01-07\n\nProducer, Programmer: The Weeknd\nProgrammer, Producer: OPN\n",
+      "duration": 97,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Nwb42SedlU8",
+      "title": "Every Angel is Terrifying",
+      "description": "Provided to YouTube by Universal Music Group\n\nEvery Angel is Terrifying · The Weeknd\n\nDawn FM\n\n℗ 2022 The Weeknd XO, Inc., marketed by Republic Records, a division of UMG Recordings, Inc.\n\nReleased on: 2022-01-07\n\nProgrammer, Producer: The Weeknd\nProducer",
+      "duration": 168,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=gpRxyIPqVDw",
+      "title": "Sacrifice",
+      "description": "Provided to YouTube by Universal Music Group\n\nSacrifice · The Weeknd\n\nDawn FM\n\n℗ 2022 The Weeknd XO, Inc., marketed by Republic Records, a division of UMG Recordings, Inc.\n\nReleased on: 2022-01-07\n\nProducer: Swedish House Mafia\nComposer Lyricist, Producer",
+      "duration": 189,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=yFZ4xptpa0s",
+      "title": "The Weeknd - Dawn FM | silver translucent vinyl #theweeknd #vinyl #dawnfm #vinylrecords #review",
+      "description": "",
+      "duration": 36,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=4FgDyABV0fA",
+      "title": "The Weeknd - Dawn FM | Full Album",
+      "description": "[00:00] 01. \n[01:36] 02. \n[05:08] 03. \n[08:42] 04. \n[14:21] 05. \n[17:30] 06. \n[19:06] 07. \n[22:40] 08. \n[26:10] 09. \n[28:54] 10. \n[32:13] 11. \n[34:41] 12. \n[37:28] 13. \n[40:53] 14. \n[45:17] 15. \n[48:49] 16. \n.\n.\n.\n.\n.\n.\n#DawnFM #위켄드\n #pop #popsong",
+      "duration": 0,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Contemporary R&B",
+    "Spoken Word",
+    "Disco",
+    "Synthwave",
+    "New Wave",
+    "Dance-pop",
+    "Synth-pop"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Dawn FM",
+      "extraartists": [
+        {
+          "name": "Jim Carrey",
+          "anv": "",
+          "join": "",
+          "role": "Voice [Uncredited]",
+          "tracks": "",
+          "id": 159072,
+          "resource_url": "https://api.discogs.com/artists/159072"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Gasoline ",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "How Do I Make You Love Me?",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Take My Breath",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Sacrifice",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "A Tale By Quincy",
+      "extraartists": [
+        {
+          "name": "Quincy Jones",
+          "anv": "",
+          "join": "",
+          "role": "Voice [Uncredited]",
+          "tracks": "",
+          "id": 17546,
+          "resource_url": "https://api.discogs.com/artists/17546"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Out of Time",
+      "extraartists": [
+        {
+          "name": "Jim Carrey",
+          "anv": "",
+          "join": "",
+          "role": "Voice [Uncredited]",
+          "tracks": "",
+          "id": 159072,
+          "resource_url": "https://api.discogs.com/artists/159072"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Here We Go...Again",
+      "extraartists": [
+        {
+          "name": "Tyler, The Creator",
+          "anv": "",
+          "join": "",
+          "role": "Featuring [Uncredited]",
+          "tracks": "",
+          "id": 1967268,
+          "resource_url": "https://api.discogs.com/artists/1967268"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Best Friends",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Is There Someone Else",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Starry Eyes",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "Every Angel Is Terrifying",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Don't Break My Heart",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "I Heard You're Married",
+      "extraartists": [
+        {
+          "name": "Lil Wayne",
+          "anv": "",
+          "join": "",
+          "role": "Featuring [Uncredited]",
+          "tracks": "",
+          "id": 1065010,
+          "resource_url": "https://api.discogs.com/artists/1065010"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Less Than Zero",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "title": "Phantom Regret By Jim",
+      "extraartists": [
+        {
+          "name": "Jim Carrey",
+          "anv": "",
+          "join": "",
+          "role": "Voice [Uncredited]",
+          "tracks": "",
+          "id": 159072,
+          "resource_url": "https://api.discogs.com/artists/159072"
+        }
+      ],
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Lex van Coeverden",
+      "anv": "LVC",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 53971,
+      "resource_url": "https://api.discogs.com/artists/53971"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/aKCcXvkKEy-516g0d0Ez0N1_SUBZEMcODKwuG_L3vQc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE3NDM5MTIy/MjktMTk5OC5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/aKCcXvkKEy-516g0d0Ez0N1_SUBZEMcODKwuG_L3vQc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE3NDM5MTIy/MjktMTk5OC5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/gOJ6W5wa12opTy6_52p4tM6HJe_G30uWxXuTT3vNbNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE3NDM5MTIy/MjktMTk5OC5wbmc.jpeg",
+      "width": 600,
+      "height": 594
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/vl1F1t2egkCx8k3G4FbSCYb0yNBwt5FD-Z5wm3XiWqc/rs:fit/g:sm/q:90/h:266/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE2NTA4Mzg1/NDItNDM1NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/vl1F1t2egkCx8k3G4FbSCYb0yNBwt5FD-Z5wm3XiWqc/rs:fit/g:sm/q:90/h:266/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE2NTA4Mzg1/NDItNDM1NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/LlheMHImYcUWDjYkozxz88QbeN6A2DFw047_IBFOat4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE2NTA4Mzg1/NDItNDM1NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 266
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/lngB92zTtjIs7dY91lfWejD__46Lr-WPm-ssnJ2-YPQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE3NDM5MTIy/MjktODA0NC5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/lngB92zTtjIs7dY91lfWejD__46Lr-WPm-ssnJ2-YPQ/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE3NDM5MTIy/MjktODA0NC5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/AxJv2j5GjMWIR9Rrbz5fReu3q93lmr9p5fXICqBxE7g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE3NDM5MTIy/MjktODA0NC5wbmc.jpeg",
+      "width": 600,
+      "height": 594
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ie7LVzRHHVFRK5XLxnDtTEjsb4-tl4KgvECHhEOnzZA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE2NTE2MTQ1/NDItNzM1MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ie7LVzRHHVFRK5XLxnDtTEjsb4-tl4KgvECHhEOnzZA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE2NTE2MTQ1/NDItNzM1MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/-bjZEEhIr2cPF_lPU6BZ2OyiABDWxyY8J4OpYI0P6gU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE2NTE2MTQ1/NDItNzM1MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/PHe0b0HAm7VgSZ_tHoQCdVA39puBOc9785BoRR-XmU4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE2NTE2MTQ1/NDItODEyNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/PHe0b0HAm7VgSZ_tHoQCdVA39puBOc9785BoRR-XmU4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE2NTE2MTQ1/NDItODEyNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/f5-WBEmpvcMSTF4cgIbIK8uBKDI-JFLiNIEiqCB1om0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE2NTE2MTQ1/NDItODEyNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/o6hWFyaoMSL6yGSV24dbvUqZi7YsOzJydFxt5-Ir9Uw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE2NTE2MTQ1/NDItODgxNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/o6hWFyaoMSL6yGSV24dbvUqZi7YsOzJydFxt5-Ir9Uw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE2NTE2MTQ1/NDItODgxNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/yoe8GvbOyBoY6Mr0ToUIpvh9pqn6nGhl1vU0XhvruOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE2NTE2MTQ1/NDItODgxNy5qcGVn.jpeg",
+      "width": 599,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/hgYSpkJVLRAi620Sy1vTTukXXJazbuk-kbHJxJ20Ezg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE2NTE2MTQ1/NDItNTIxNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/hgYSpkJVLRAi620Sy1vTTukXXJazbuk-kbHJxJ20Ezg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE2NTE2MTQ1/NDItNTIxNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/vPymjA67fvvyl5saM1hvA6TXXJjziu6ovjdgYSqNYtE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE2NTE2MTQ1/NDItNTIxNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/hjaXH1uTd1UHsgFEwkGBwdwQ7Osb9b6eMV6QH3j-qUM/rs:fit/g:sm/q:90/h:600/w:376/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE2NTE2MTQ1/NDMtMTczNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/hjaXH1uTd1UHsgFEwkGBwdwQ7Osb9b6eMV6QH3j-qUM/rs:fit/g:sm/q:90/h:600/w:376/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE2NTE2MTQ1/NDMtMTczNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/zfdunWwG-wchUuc-wQakJAFUPOK41y8YjGvTFpKza4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE2NTE2MTQ1/NDMtMTczNi5qcGVn.jpeg",
+      "width": 376,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/s47dtqUAAyPyTSacX1nf83BrALrmTd03ryYQ4kcA660/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE2NTE2MTQ1/NDMtMTc2OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/s47dtqUAAyPyTSacX1nf83BrALrmTd03ryYQ4kcA660/rs:fit/g:sm/q:90/h:577/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE2NTE2MTQ1/NDMtMTc2OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/jmxXiUR39bKgAkgPM82hFB_WeiAxmdCmE1hPxS-9Ul4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE2NTE2MTQ1/NDMtMTc2OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 577
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/VCoqI84ITWpyBVmOm3UGhOuxfqQUie9wk9VmpoU4MB4/rs:fit/g:sm/q:90/h:124/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE2NTA4Mzg1/NDYtMzExMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/VCoqI84ITWpyBVmOm3UGhOuxfqQUie9wk9VmpoU4MB4/rs:fit/g:sm/q:90/h:124/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE2NTA4Mzg1/NDYtMzExMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ny01pP-b8cy9M-qQ5pEQLx1_jsQEYRra_GRusGIR480/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE2NTA4Mzg1/NDYtMzExMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 124
+    }
+  ],
+  "thumb": "https://i.discogs.com/gOJ6W5wa12opTy6_52p4tM6HJe_G30uWxXuTT3vNbNw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDAw/NDIwLTE3NDM5MTIy/MjktMTk5OC5wbmc.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

@@ -1,0 +1,313 @@
+{
+  "id": 27695325,
+  "status": "Accepted",
+  "year": 2023,
+  "resource_url": "https://api.discogs.com/releases/27695325",
+  "uri": "https://www.discogs.com/release/27695325-Aaliyah-Aaliyah",
+  "artists": [
+    {
+      "name": "Aaliyah",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 13733,
+      "resource_url": "https://api.discogs.com/artists/13733",
+      "thumbnail_url": "https://i.discogs.com/gWb3Zg2P6iyVlhZSpg2mKnhAtEl2hrFkJ7Psz74CwRE/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzNzMz/LTE2OTkyMjYyOTAt/MjczMy5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "Aaliyah",
+  "labels": [
+    {
+      "name": "Blackground Records",
+      "catno": "ERE674",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 22430,
+      "resource_url": "https://api.discogs.com/labels/22430",
+      "thumbnail_url": "https://i.discogs.com/p45Bwv7JHgSh29hpLhW___sADB9ZE05DYlyxKjRj-24/rs:fit/g:sm/q:90/h:333/w:329/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIyNDMw/LTE2NDA1ODU5Njct/NzkzNC5qcGVn.jpeg"
+    },
+    {
+      "name": "Blackground Records",
+      "catno": "ERE714",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 22430,
+      "resource_url": "https://api.discogs.com/labels/22430",
+      "thumbnail_url": "https://i.discogs.com/p45Bwv7JHgSh29hpLhW___sADB9ZE05DYlyxKjRj-24/rs:fit/g:sm/q:90/h:333/w:329/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIyNDMw/LTE2NDA1ODU5Njct/NzkzNC5qcGVn.jpeg"
+    },
+    {
+      "name": "Blackground Records",
+      "catno": "ERE715",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 22430,
+      "resource_url": "https://api.discogs.com/labels/22430",
+      "thumbnail_url": "https://i.discogs.com/p45Bwv7JHgSh29hpLhW___sADB9ZE05DYlyxKjRj-24/rs:fit/g:sm/q:90/h:333/w:329/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIyNDMw/LTE2NDA1ODU5Njct/NzkzNC5qcGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 1215,
+    "want": 252,
+    "rating": {
+      "count": 79,
+      "average": 4.76
+    },
+    "submitter": {
+      "username": "hellomika",
+      "resource_url": "https://api.discogs.com/users/hellomika"
+    },
+    "contributors": [
+      {
+        "username": "hellomika",
+        "resource_url": "https://api.discogs.com/users/hellomika"
+      },
+      {
+        "username": "Azz-Izz-88",
+        "resource_url": "https://api.discogs.com/users/Azz-Izz-88"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2023-07-16T12:38:38-07:00",
+  "date_changed": "2026-06-14T09:36:28-07:00",
+  "num_for_sale": 12,
+  "lowest_price": 39.64,
+  "master_id": 35220,
+  "master_url": "https://api.discogs.com/masters/35220",
+  "title": "Aaliyah",
+  "country": "US",
+  "released": "2023-07-00",
+  "released_formatted": "Jul 2023",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "194690544262"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=WDwy_QrDP7A",
+      "title": "\"AALIYAH\" Behind The Scenes HQ [AaliyahPL]",
+      "description": "Aaliyah and her crew discuss ΛΛLIYΛH making process and songs. Including footages from \"We Need A Resolution\" video set and Aaliyah's visit in Paris (2000).",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=j578MlA87Gg",
+      "title": "AALIYAH EPK (2001)",
+      "description": "AALIYAH EPK (2001)\nListen & Download 'Aaliyah' album out 9/10 - https://aaliyah.ffm.to/aaliyah\nRemastered in 4K coming soon!\n\nPre-Save the Aaliyah Compilations now! - https://ffm.bio/aaliyah \n\nShop the Aaliyah Collection\nwww.blackgroundrecords.net/shop/co",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=mRJF-hZ6Gcs",
+      "title": "Aaliyah Anime Album Commercial (2001)",
+      "description": "Aaliyah Anime Album Commercial (2001) \nListen & Download 'Aaliyah' album out 9/10 - https://aaliyah.ffm.to/aaliyah\nRemastered in 4K coming soon!\n\nPre-Save the Aaliyah Compilations now! - https://ffm.bio/aaliyah \n\nShop the Aaliyah Collection\nwww.blackgroun",
+      "duration": 47,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KKSz4NE6PwY",
+      "title": "Aaliyah  - One In A Million (Original Video)",
+      "description": "Aaliyah - One In A Million \nListen & Download 'One In A Million' album out now - https://aaliyah.ffm.to/oneinamillion\nRemastered in 4K coming soon!\n\nLyrics - \n\n[Intro: Missy Elliott]\nLove it babe, love it babe, love it babe\nLove it babe, love it babe, lov",
+      "duration": 305,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=uTMuqL0qx08",
+      "title": "Aaliyah - Are You That Somebody (Original Video)",
+      "description": "Aaliyah - Are You That Somebody\nListen & Download 'Are You That Somebody' out now - https://aaliyah.ffm.to/areyouthatsomebody.oyd\nRemastered in 4K coming soon!\n\nLyrics - \n\n\n[Intro: Timbaland]\nDirty South, can y'all really feel me?\nEast Coast, feel me, Wes",
+      "duration": 264,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=rRwhm-B6yNI",
+      "title": "Aaliyah - Age Ain't Nothing But A Number (Official HD Video)",
+      "description": "\"Age Ain't Nothing But A Number\" by Aaliyah\r\nListen to Aaliyah: https://Aaliyah.lnk.to/listenYD\r\nWatch more Aaliyah videos: https://Aaliyah.lnk.to/listenYD/youtube\r\n\r\nSubscribe to the official Aaliyah YouTube channel: https://Aaliyah.lnk.to/subscribeYD\r\n\r",
+      "duration": 250,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=qTA0RuZoIxM",
+      "title": "Aaliyah -Try Again (Original Video)",
+      "description": "Aaliyah -Try Again\n\nListen & Download 'Romeo Must Die (Original Motion Picture Soundtrack)' out now - https://blackground.ffm.to/romeomustdie.oyd\nRemastered in 4K coming soon!\n\nLyrics - \n\n\n\n[Intro: Timbaland]\nIt's been a long time (Long time)\nWe shouldn't",
+      "duration": 232,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=78YDlgZfPus",
+      "title": "Aaliyah  - We Need A Resolution feat. Timbaland (Original Video)",
+      "description": "Aaliyah  - We Need A Resolution feat. Timbaland (Original Video)\nListen & Download 'Aaliyah' album out 9/10 - https://aaliyah.ffm.to/aaliyah\nRemastered in 4K\n\nPre-Save the Aaliyah Compilations now! - https://ffm.bio/aaliyah \n\nLyrics - \n\n[Intro: Timbaland]",
+      "duration": 246,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=3HSJU5fDg0A",
+      "title": "Aaliyah - Rock The Boat (Original Video)",
+      "description": "Aaliyah - Rock The Boat (Official Video)\nListen & Download 'Aaliyah' album out 9/10 - https://aaliyah.ffm.to/aaliyah\nRemastered in 4K Coming Soon!\n\nPre-Save the Aaliyah Compilations now! - https://ffm.bio/aaliyah \n\nLyrics - \n[Intro]\nMmm, yeah, hmm\nHuh-uh,",
+      "duration": 328,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Hip Hop",
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Contemporary R&B"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "We Need A Resolution",
+      "extraartists": [
+        {
+          "name": "Timbaland",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 35125,
+          "resource_url": "https://api.discogs.com/artists/35125"
+        }
+      ],
+      "duration": "4:02"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Loose Rap",
+      "extraartists": [
+        {
+          "name": "Static Major",
+          "anv": "Static",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1124616,
+          "resource_url": "https://api.discogs.com/artists/1124616"
+        }
+      ],
+      "duration": "3:50"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Rock The Boat",
+      "duration": "4:34"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "More Than A Woman",
+      "duration": "3:49"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Never No More",
+      "duration": "3:58"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "I Care 4 U",
+      "duration": "4:33"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Extra Smooth",
+      "duration": "3:55"
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Read Between The Lines",
+      "duration": "4:20"
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "U Got Nerve",
+      "duration": "3:43"
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "I Refuse",
+      "duration": "5:57"
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "It's Whatever",
+      "duration": "4:08"
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "I Can Be",
+      "duration": "2:59"
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Those Were The Days",
+      "duration": "3:24"
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "What If",
+      "duration": "4:25"
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "title": "Try Again",
+      "duration": "4:44"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/bJupEzpMalAKU3HHRpInDzpAW7SHWwRZIwZxGkTQoR8/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njk1/MzI1LTE2ODk1MzY2/MjMtNTQ4My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/bJupEzpMalAKU3HHRpInDzpAW7SHWwRZIwZxGkTQoR8/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njk1/MzI1LTE2ODk1MzY2/MjMtNTQ4My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/vb1fQU1VT5QDrNVxvcoD4gQXEDn-jbI6nFhtgMtRRRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njk1/MzI1LTE2ODk1MzY2/MjMtNTQ4My5qcGVn.jpeg",
+      "width": 600,
+      "height": 590
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/I4BkdjDhYHZDnbH-NCNeZytBMHTu78oDcbpjwiFQ4Dg/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njk1/MzI1LTE2ODk1MzY2/MjItNzA3NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/I4BkdjDhYHZDnbH-NCNeZytBMHTu78oDcbpjwiFQ4Dg/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njk1/MzI1LTE2ODk1MzY2/MjItNzA3NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/_Nmp8wt6k5gHX0-0mEuSsse4uAvQULy-VOEl3OE5F8k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njk1/MzI1LTE2ODk1MzY2/MjItNzA3NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 587
+    }
+  ],
+  "thumb": "https://i.discogs.com/vb1fQU1VT5QDrNVxvcoD4gQXEDn-jbI6nFhtgMtRRRg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3Njk1/MzI1LTE2ODk1MzY2/MjMtNTQ4My5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

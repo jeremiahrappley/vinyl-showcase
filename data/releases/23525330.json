@@ -1,0 +1,3644 @@
+{
+  "id": 23525330,
+  "status": "Accepted",
+  "year": 2022,
+  "resource_url": "https://api.discogs.com/releases/23525330",
+  "uri": "https://www.discogs.com/release/23525330-Doja-Cat-Planet-Her",
+  "artists": [
+    {
+      "name": "Doja Cat",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 3970719,
+      "resource_url": "https://api.discogs.com/artists/3970719",
+      "thumbnail_url": "https://i.discogs.com/uBatre2jA5by-3LXIHZiWV6-_TVhUDA3KOxEfuyIPwU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM5NzA3/MTktMTc2MDU0MTQx/MC03Njk3LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Doja Cat",
+  "labels": [
+    {
+      "name": "Kemosabe Records",
+      "catno": "19439-94568-1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 446960,
+      "resource_url": "https://api.discogs.com/labels/446960",
+      "thumbnail_url": "https://i.discogs.com/P1SqrNz4p50JFrafpxAIyb86is8EUT9WXwsRNnyBTQ8/rs:fit/g:sm/q:90/h:421/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQ0Njk2/MC0xMzU0MjA5ODM5/LTM1MjQuanBlZw.jpeg"
+    },
+    {
+      "name": "RCA",
+      "catno": "19439-94568-1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 895,
+      "resource_url": "https://api.discogs.com/labels/895",
+      "thumbnail_url": "https://i.discogs.com/q-zL2IXAAZL18V9Ova8MTy7NXCoGMloDEKM1yaHpays/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg5NS0x/NzY4MDgxMjYxLTMw/NDIuanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Sony Music Entertainment",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 29073,
+      "resource_url": "https://api.discogs.com/labels/29073",
+      "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+    },
+    {
+      "name": "RCA Records",
+      "catno": "",
+      "entity_type": "8",
+      "entity_type_name": "Marketed By",
+      "id": 29656,
+      "resource_url": "https://api.discogs.com/labels/29656",
+      "thumbnail_url": "https://i.discogs.com/EN9PpsplNgyWdRKTy1QohI1E5-1H-AkSgtzqej8WFu0/rs:fit/g:sm/q:90/h:94/w:283/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5NjU2/LTE0OTAwODk0MTQt/MjI5My5wbmc.jpeg"
+    },
+    {
+      "name": "RCA Records",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 29656,
+      "resource_url": "https://api.discogs.com/labels/29656",
+      "thumbnail_url": "https://i.discogs.com/EN9PpsplNgyWdRKTy1QohI1E5-1H-AkSgtzqej8WFu0/rs:fit/g:sm/q:90/h:94/w:283/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5NjU2/LTE0OTAwODk0MTQt/MjI5My5wbmc.jpeg"
+    },
+    {
+      "name": "Noiseland Industries",
+      "catno": "21-0700",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 49318,
+      "resource_url": "https://api.discogs.com/labels/49318",
+      "thumbnail_url": "https://i.discogs.com/u8xgTsH7li-xkNf9-w3FuNJ53Dg-_xvyYp5NVaUBxok/rs:fit/g:sm/q:90/h:557/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQ5MzE4/LTEzMzA0NDUyNzgu/anBlZw.jpeg"
+    },
+    {
+      "name": "Prescription Songs",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 345313,
+      "resource_url": "https://api.discogs.com/labels/345313",
+      "thumbnail_url": "https://i.discogs.com/xqKL4gwd8uN3SRO8_ywDHwY5wXJxh2JMbBZ8SH2sRXI/rs:fit/g:sm/q:90/h:230/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM0NTMx/My0xNTM1ODc5NzA0/LTQ1MzcuanBlZw.jpeg"
+    },
+    {
+      "name": "Kemosabe Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 446960,
+      "resource_url": "https://api.discogs.com/labels/446960",
+      "thumbnail_url": "https://i.discogs.com/P1SqrNz4p50JFrafpxAIyb86is8EUT9WXwsRNnyBTQ8/rs:fit/g:sm/q:90/h:421/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQ0Njk2/MC0xMzU0MjA5ODM5/LTM1MjQuanBlZw.jpeg"
+    },
+    {
+      "name": "Kemosabe Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 446960,
+      "resource_url": "https://api.discogs.com/labels/446960",
+      "thumbnail_url": "https://i.discogs.com/P1SqrNz4p50JFrafpxAIyb86is8EUT9WXwsRNnyBTQ8/rs:fit/g:sm/q:90/h:421/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQ0Njk2/MC0xMzU0MjA5ODM5/LTM1MjQuanBlZw.jpeg"
+    },
+    {
+      "name": "RCA Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 29656,
+      "resource_url": "https://api.discogs.com/labels/29656",
+      "thumbnail_url": "https://i.discogs.com/EN9PpsplNgyWdRKTy1QohI1E5-1H-AkSgtzqej8WFu0/rs:fit/g:sm/q:90/h:94/w:283/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5NjU2/LTE0OTAwODk0MTQt/MjI5My5wbmc.jpeg"
+    },
+    {
+      "name": "RCA Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 29656,
+      "resource_url": "https://api.discogs.com/labels/29656",
+      "thumbnail_url": "https://i.discogs.com/EN9PpsplNgyWdRKTy1QohI1E5-1H-AkSgtzqej8WFu0/rs:fit/g:sm/q:90/h:94/w:283/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5NjU2/LTE0OTAwODk0MTQt/MjI5My5wbmc.jpeg"
+    },
+    {
+      "name": "MPO",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 56025,
+      "resource_url": "https://api.discogs.com/labels/56025",
+      "thumbnail_url": "https://i.discogs.com/ESRU3eTUmc1632Us6_7LBipnaQGV6lJe-D5nyFxssyw/rs:fit/g:sm/q:90/h:336/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU2MDI1/LTEzMTQ2OTg5ODQu/anBlZw.jpeg"
+    },
+    {
+      "name": "Doja Cat Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2476264,
+      "resource_url": "https://api.discogs.com/labels/2476264"
+    },
+    {
+      "name": "Prescription Songs",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 345313,
+      "resource_url": "https://api.discogs.com/labels/345313",
+      "thumbnail_url": "https://i.discogs.com/xqKL4gwd8uN3SRO8_ywDHwY5wXJxh2JMbBZ8SH2sRXI/rs:fit/g:sm/q:90/h:230/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM0NTMx/My0xNTM1ODc5NzA0/LTQ1MzcuanBlZw.jpeg"
+    },
+    {
+      "name": "Yeti Yeti Yeti Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2476267,
+      "resource_url": "https://api.discogs.com/labels/2476267"
+    },
+    {
+      "name": "Wb Music Corp.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 131984,
+      "resource_url": "https://api.discogs.com/labels/131984",
+      "thumbnail_url": "https://i.discogs.com/eW6mLUR1nIwiKso3EmkA7ewTn_OYfDqfAqzGzZ91GSY/rs:fit/g:sm/q:90/h:82/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzMTk4/NC0xNDkyODM4Mzc3/LTc1MjcuanBlZw.jpeg"
+    },
+    {
+      "name": "Aaron Horn Publishing Designee",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2773496,
+      "resource_url": "https://api.discogs.com/labels/2773496"
+    },
+    {
+      "name": "Ainsley Jones Publishing Designee",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2476273,
+      "resource_url": "https://api.discogs.com/labels/2476273"
+    },
+    {
+      "name": "Linden Jay Publishing Designee",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2476276,
+      "resource_url": "https://api.discogs.com/labels/2476276"
+    },
+    {
+      "name": "Magic Chef Publishing",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2476279,
+      "resource_url": "https://api.discogs.com/labels/2476279"
+    },
+    {
+      "name": "Kurtis McKenzie Publishing Designee",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2476282,
+      "resource_url": "https://api.discogs.com/labels/2476282"
+    },
+    {
+      "name": "Songs Of Kobalt Music Publishing",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 374431,
+      "resource_url": "https://api.discogs.com/labels/374431"
+    },
+    {
+      "name": "Global Talent Publishing",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 291941,
+      "resource_url": "https://api.discogs.com/labels/291941"
+    },
+    {
+      "name": "Kobalt Songs Music Publishing",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 273706,
+      "resource_url": "https://api.discogs.com/labels/273706"
+    },
+    {
+      "name": "Erik Joons Publishing Designee",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2476285,
+      "resource_url": "https://api.discogs.com/labels/2476285"
+    },
+    {
+      "name": "Daniel Gustav Peter Tjaeder Publishing Designee",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2476288,
+      "resource_url": "https://api.discogs.com/labels/2476288"
+    },
+    {
+      "name": "Ari Starace Publishing Designee",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2476291,
+      "resource_url": "https://api.discogs.com/labels/2476291"
+    },
+    {
+      "name": "Where Da Kasz At",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 273707,
+      "resource_url": "https://api.discogs.com/labels/273707"
+    },
+    {
+      "name": "Young Stoner Life Publishing LLC",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 1582520,
+      "resource_url": "https://api.discogs.com/labels/1582520"
+    },
+    {
+      "name": "Atlantic Songs",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 651897,
+      "resource_url": "https://api.discogs.com/labels/651897"
+    },
+    {
+      "name": "Reservoir 416",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 1651747,
+      "resource_url": "https://api.discogs.com/labels/1651747"
+    },
+    {
+      "name": "Give Me All My Fuckin' Money Publishing",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2476294,
+      "resource_url": "https://api.discogs.com/labels/2476294"
+    },
+    {
+      "name": "Sony Songs",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 358656,
+      "resource_url": "https://api.discogs.com/labels/358656"
+    },
+    {
+      "name": "Kasz Money Publishing",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 345318,
+      "resource_url": "https://api.discogs.com/labels/345318"
+    },
+    {
+      "name": "GrandAriMusic",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 713804,
+      "resource_url": "https://api.discogs.com/labels/713804"
+    },
+    {
+      "name": "Universal Music Corp.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 277732,
+      "resource_url": "https://api.discogs.com/labels/277732"
+    },
+    {
+      "name": "Jamil Chammas Publishing",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 732970,
+      "resource_url": "https://api.discogs.com/labels/732970"
+    },
+    {
+      "name": "Cuts Of Reach",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 1759019,
+      "resource_url": "https://api.discogs.com/labels/1759019"
+    },
+    {
+      "name": "BMG Gold Songs",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 313913,
+      "resource_url": "https://api.discogs.com/labels/313913"
+    },
+    {
+      "name": "Khaled Publishing Designee",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2476297,
+      "resource_url": "https://api.discogs.com/labels/2476297"
+    },
+    {
+      "name": "Primary Wave Beats",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 732977,
+      "resource_url": "https://api.discogs.com/labels/732977"
+    },
+    {
+      "name": "Orange Factory Repertoire",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 732964,
+      "resource_url": "https://api.discogs.com/labels/732964"
+    },
+    {
+      "name": "BMG Chrysalis",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 250739,
+      "resource_url": "https://api.discogs.com/labels/250739",
+      "thumbnail_url": "https://i.discogs.com/cmGEU_46J2MAO2Q4ELUx9pXt0otsM6p8CSXp7h8U3Ks/rs:fit/g:sm/q:90/h:241/w:356/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1MDcz/OS0xNjM2ODc1ODAw/LTk2OTcuanBlZw.jpeg"
+    },
+    {
+      "name": "Primary Wave Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 284595,
+      "resource_url": "https://api.discogs.com/labels/284595",
+      "thumbnail_url": "https://i.discogs.com/Wa1M2LXq2OKoOzBAucDnDUu_YcsTphunSB1KtxHVK18/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4NDU5/NS0xNTA5OTk2NDIz/LTQ0NjUucG5n.jpeg"
+    },
+    {
+      "name": "Siddharth Mallick Publishing Designee",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2795414,
+      "resource_url": "https://api.discogs.com/labels/2795414"
+    },
+    {
+      "name": "Good As Gold (2)",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2599042,
+      "resource_url": "https://api.discogs.com/labels/2599042"
+    },
+    {
+      "name": "KMR Music Royalties II SCSP",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 1554030,
+      "resource_url": "https://api.discogs.com/labels/1554030"
+    },
+    {
+      "name": "Trism",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2476300,
+      "resource_url": "https://api.discogs.com/labels/2476300"
+    },
+    {
+      "name": "Aaron Bow Publishing Designee",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2476303,
+      "resource_url": "https://api.discogs.com/labels/2476303"
+    },
+    {
+      "name": "Big Pamplino Publishing, Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2476306,
+      "resource_url": "https://api.discogs.com/labels/2476306"
+    },
+    {
+      "name": "Sony/ATV Tunes LLC",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 268257,
+      "resource_url": "https://api.discogs.com/labels/268257"
+    },
+    {
+      "name": "Route Way LLC",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2168470,
+      "resource_url": "https://api.discogs.com/labels/2168470"
+    },
+    {
+      "name": "Wellhellothere Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 1589058,
+      "resource_url": "https://api.discogs.com/labels/1589058"
+    },
+    {
+      "name": "Mike Hector Publishing Designee",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2476309,
+      "resource_url": "https://api.discogs.com/labels/2476309"
+    },
+    {
+      "name": "Sony/ATV Songs LLC",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 303651,
+      "resource_url": "https://api.discogs.com/labels/303651",
+      "thumbnail_url": "https://i.discogs.com/_1RjD6n_UmQhwJSBpfM5RUbiSvkc2ZQVjJTtwZs2g6c/rs:fit/g:sm/q:90/h:60/w:314/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwMzY1/MS0xNTY4NzQyNTE0/LTM1MTkucG5n.jpeg"
+    },
+    {
+      "name": "Antwoine Collins Publishing Designee",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2795417,
+      "resource_url": "https://api.discogs.com/labels/2795417"
+    },
+    {
+      "name": "Geordan Reid-Campbell Publishing Designee",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2795420,
+      "resource_url": "https://api.discogs.com/labels/2795420"
+    },
+    {
+      "name": "Laura Roy Publishing Designee",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2795423,
+      "resource_url": "https://api.discogs.com/labels/2795423"
+    },
+    {
+      "name": "Carter Lang Publishing Designee",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2795426,
+      "resource_url": "https://api.discogs.com/labels/2795426"
+    },
+    {
+      "name": "Zuma Tuma LLC",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2476312,
+      "resource_url": "https://api.discogs.com/labels/2476312"
+    },
+    {
+      "name": "Warner-Tamerlane Publishing Corp.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 267941,
+      "resource_url": "https://api.discogs.com/labels/267941",
+      "thumbnail_url": "https://i.discogs.com/CHThcdWZ1r2HLX8olhbKfLbWWzp56K4KrhfJ_yxv8CQ/rs:fit/g:sm/q:90/h:347/w:516/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2Nzk0/MS0xNzQwMTkxNzg3/LTUxMDYuanBlZw.jpeg"
+    },
+    {
+      "name": "Solana Rowe Publishing Designee",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 1502345,
+      "resource_url": "https://api.discogs.com/labels/1502345"
+    },
+    {
+      "name": "Songs of Universal, Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 263955,
+      "resource_url": "https://api.discogs.com/labels/263955"
+    },
+    {
+      "name": "EMI April Music Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 264623,
+      "resource_url": "https://api.discogs.com/labels/264623",
+      "thumbnail_url": "https://i.discogs.com/6YZ9yNsvSzkXXtmAiAgG0HFyMo0ba1AIgfIuB88wqi4/rs:fit/g:sm/q:90/h:134/w:270/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDYy/My0xNTg4OTgwMTEw/LTc0MDUuanBlZw.jpeg"
+    },
+    {
+      "name": "Floating World Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 471701,
+      "resource_url": "https://api.discogs.com/labels/471701"
+    },
+    {
+      "name": "Stellar Songs Ltd.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 358627,
+      "resource_url": "https://api.discogs.com/labels/358627"
+    },
+    {
+      "name": "EMI Blackwood Music Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 269235,
+      "resource_url": "https://api.discogs.com/labels/269235",
+      "thumbnail_url": "https://i.discogs.com/31KJ3DJOR3mHnluFpNAUjTBPWQ-VB9wfp9e2V9Y16bQ/rs:fit/g:sm/q:90/h:92/w:314/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2OTIz/NS0xNTY4NzQyMTg4/LTY1NzYucG5n.jpeg"
+    },
+    {
+      "name": "Terminally Ill Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 520339,
+      "resource_url": "https://api.discogs.com/labels/520339"
+    },
+    {
+      "name": "Taneisha Damielle Jackson Publishing Designee",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2795429,
+      "resource_url": "https://api.discogs.com/labels/2795429"
+    },
+    {
+      "name": "Eve Jihan Jeffers Publishing Designee",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2795432,
+      "resource_url": "https://api.discogs.com/labels/2795432"
+    },
+    {
+      "name": "Eastpark Entertainment Publishing",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2599045,
+      "resource_url": "https://api.discogs.com/labels/2599045"
+    },
+    {
+      "name": "Gunna Music LLC",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 1582513,
+      "resource_url": "https://api.discogs.com/labels/1582513"
+    },
+    {
+      "name": "300 Rainwater Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 1582525,
+      "resource_url": "https://api.discogs.com/labels/1582525"
+    },
+    {
+      "name": "Westlake Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 268145,
+      "resource_url": "https://api.discogs.com/labels/268145",
+      "thumbnail_url": "https://i.discogs.com/RLUW3E9znm-I8W92JcHJO5W5m-pxjRrx_WgEzue6KHs/rs:fit/g:sm/q:90/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2ODE0/NS0xNjUyMzgyNjc2/LTQ3MDYuanBlZw.jpeg"
+    },
+    {
+      "name": "The Sound Factory",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 266876,
+      "resource_url": "https://api.discogs.com/labels/266876",
+      "thumbnail_url": "https://i.discogs.com/7Qn_BNzOIgVbGQHdyDHXrHtOBimVxKhRiDSjWp8CnII/rs:fit/g:sm/q:90/h:219/w:315/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2Njg3/Ni0xNTU4NzE0NzU2/LTgzMDAuanBlZw.jpeg"
+    },
+    {
+      "name": "Eightysevenfourteen Studios",
+      "catno": "",
+      "entity_type": "24",
+      "entity_type_name": "Engineered At",
+      "id": 283251,
+      "resource_url": "https://api.discogs.com/labels/283251"
+    },
+    {
+      "name": "Mixland, Los Angeles",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 2599051,
+      "resource_url": "https://api.discogs.com/labels/2599051"
+    },
+    {
+      "name": "Eastwest Studios",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 377835,
+      "resource_url": "https://api.discogs.com/labels/377835",
+      "thumbnail_url": "https://i.discogs.com/VZkcJjmqJYLxmzPV_1KmgupEeZZqpqrDcUEVjd8mrs8/rs:fit/g:sm/q:90/h:280/w:280/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM3Nzgz/NS0xNDQ5MjY2MjQ4/LTY1OTguanBlZw.jpeg"
+    },
+    {
+      "name": "MixStar Studios",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 263950,
+      "resource_url": "https://api.discogs.com/labels/263950",
+      "thumbnail_url": "https://i.discogs.com/qG6PaPI2ofn5JXPJA48pHQ0jtOf2mG-nOlLHuixaImk/rs:fit/g:sm/q:90/h:195/w:456/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2Mzk1/MC0xMzU0NDYzODcx/LTYzOTkuZ2lm.jpeg"
+    },
+    {
+      "name": "Three3One7",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 2193151,
+      "resource_url": "https://api.discogs.com/labels/2193151"
+    },
+    {
+      "name": "Bernie Grundman Mastering",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 263896,
+      "resource_url": "https://api.discogs.com/labels/263896",
+      "thumbnail_url": "https://i.discogs.com/nsGBKV1E7CmO2wHP4oMbHuOfMxw-5FIZjetOKyez7GU/rs:fit/g:sm/q:90/h:182/w:383/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2Mzg5/Ni0xMzE1MzQ3NDEy/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Bernie Becker Mastering",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 306694,
+      "resource_url": "https://api.discogs.com/labels/306694"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Deluxe Edition"
+      ],
+      "text": "MPO Pressing"
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 1997,
+    "want": 528,
+    "rating": {
+      "count": 123,
+      "average": 4.71
+    },
+    "submitter": {
+      "username": "dreamshop",
+      "resource_url": "https://api.discogs.com/users/dreamshop"
+    },
+    "contributors": [
+      {
+        "username": "dreamshop",
+        "resource_url": "https://api.discogs.com/users/dreamshop"
+      },
+      {
+        "username": "ShireenPeaches",
+        "resource_url": "https://api.discogs.com/users/ShireenPeaches"
+      },
+      {
+        "username": "timohanen",
+        "resource_url": "https://api.discogs.com/users/timohanen"
+      },
+      {
+        "username": "auboisdormant",
+        "resource_url": "https://api.discogs.com/users/auboisdormant"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2022-06-10T00:15:05-07:00",
+  "date_changed": "2026-07-08T12:00:52-07:00",
+  "num_for_sale": 22,
+  "lowest_price": 20,
+  "master_id": 2189101,
+  "master_url": "https://api.discogs.com/masters/2189101",
+  "title": "Planet Her",
+  "country": "US",
+  "released": "2022-05-27",
+  "notes": "See [r=23362880] for the Memphis Record Pressing edition.\n\nHoused in a full-color gatefold sleeve.\nIncludes double sided insert with credits.\n\nRelease uses the digital standard cover despite having the deluxe tracklist of the album.\nFBI anti-piracy warning on the back cover.\n\n℗ & © 2021 Kemosabe Records / RCA Records. Marketed and distributed by RCA Records, a division of Sony Music Entertainment, 25 Madison Avenue, New York, New York 10010.\n\nA1 \"Woman\"\nPublished by Doja Cat Music / Prescription Songs (BMI), Yeti Yeti Yeti Music / WB Music Corp. (ASCAP), Aaron Horn Publishing Designee (BMI), Ainsley Jones Publishing Designee (PRS), Linden Jay Publishing Designee (PRS), Magic Chef Publishing (BMI)\nRecorded [...] at Westlake Recording Studios, Los Angeles, CA\nMixed [...] at Mixland, Los Angeles, CA\nMastered [...] at Bernie Grundman Mastering, Hollywood, CA\nJidenna appears courtesy of Epic Records, a division of Sony Music Entertainment.\n\nA2 \"Naked\"\nPublished by Doja Cat Music / Prescription Songs (BMI), Kurtis McKenzie Publishing Designee (BMI) (adm. by Songs of Kobalt Music Publishing), Global Talent Publishing (PRS) (adm. by Kobalt Songs Music Publishing (ASCAP)), Erik Joons Publishing Designee (STIM), Daniel Gustav Peter Tjaeder Publishing Designee (STIM)\nRecorded [...] at Westlake Recording Studios, Los Angeles, CA\nMixed [...] at Mixland, Los Angeles, CA\nMastered [...] at Bernie Grundman Mastering, Hollywood, CA\nContains a sample from \"Here In Iowa\", written by Marcus Erik Joons and Daniel Gustav Peter Tjaeder, as performed by Korallreven.\n\nA3 \"Payday\"\nPublished by Doja Cat Music / Prescription Songs (BMI), Ari Starace Publishing Designee / Where Da Kasz At (BMI) (adm. by Songs Of Kobalt Music Publishing), Young Stoner Life Publishing / Atlantic Songs / Reservoir 416 (BMI)\nRecorded [...] at Sound Factory, Hollywood, CA\nMixed [...] at EastWest Studios, Los Angeles, CA\nMastered [...] at Becker Mastering, Pasadena, CA\nYoung Thug appears courtesy of 300 Entertainment / Atlantic Records.\n\nA4 \"Get Into It (Yuh)\"\nPublished by Doja Cat Music / Prescription Songs (BMI), Ari Starace Publishing Designee / Where Da Kasz At (BMI) (adm. by Songs Of Kobalt Music Publishing), Give Me All My Fuckin' Money Publishing / Sony Songs (BMI)\nMixed [...] at EastWest Studios, Los Angeles, CA\nMastered [...] at Becker Mastering, Pasadena, CA\n\nA5 \"Need To Know\"\nPublished by Doja Cat Music / Prescription Songs (BMI), Kasz Money Publishing (ASCAP)\nProduced [...] for Prescription Songs\nEngineered [...] at eightysevenfourteen Studios, Los Angeles, CA\nMixed [...] at MixStar Studios, Virginia Beach, VA\nMastered [...] at Bernie Grundman Mastering, Hollywood, CA\n\nB1 \"I Don't Do Drugs\"\nPublished by Doja Cat Music / Prescription Songs (BMI), Ari Starace Publishing Designee / Where Da Kasz At (BMI) (adm. by Songs Of Kobalt Music Publishing), Give Me All My Fuckin' Money Publishing / Sony Songs (BMI), GrandAriMusic / Universal Music Corporation (ASCAP)\nRecorded [...] at Sound Factory, Hollywood, CA\nMixed [...] at EastWest Studios, Los Angeles, CA\nMastered [...] at Becker Mastering, Pasadena, CA\nAriana Grande appears courtesy of Republic Records, a division of UMG Recordings, Inc.\n\nB2 \"Love To Dream\"\nPublished by Doja Cat Music / Prescription Songs (BMI), Kurtis McKenzie Publishing Designee (BMI) (adm. by Songs of Kobalt Music Publishing), Jamil Chammas Publishing / Cuts Of Reach (ASCAP) c/o BMG Gold Songs, Khaled Publishing Designee / Primary Wave Beats / Orange Factory Repertoire (BMI/APRA) (all rights adm. by BMG Chrysalis on behalf of Primary Wave Music), Siddharth Mallic Publishing Designee (APRA), Good As Gold (ASCAP) (adm. by Kobalt Songs Music Publishing)\nRecorded [...] at Westlake Recording Studios, Los Angeles, CA\nMixed [...] at EastWest Studios, Los Angeles, CA\nMastered [...] at Becker Mastering, Pasadena, CA\n\nB3 \"You Right\"\nPublished by Doja Cat Music / Prescription Songs (BMI), Kasz Money Publishing (ASCAP), KMR Music Royalties II SCSP (ASCAP) (adm. by Kobalt Songs Music Publishing)\nProduced [...] for Prescription Songs\nEngineered [...] at eightysevenfourteen Studios, Los Angeles, CA\nMixed [...] at MixStar Studios, Virginia Beach, VA\nMastered [...] at Bernie Grundman Mastering, Hollywood, CA\nThe Weeknd appears courtesy of Republic Records, a division of UMG Recordings, Inc.\n\nB4 \"Been Like This\"\nPublished by Doja Cat Music / Prescription Songs (BMI), Trism (ASCAP) (adm. by Kobalt Songs Music Publishing), Aaron Bow Publishing Designee, Yeti Yeti Yeti Music / WB Music Corp. (ASCAP)\nMixed [...] at three3one7 studios, Los Angeles, CA\nMastered [...] at Bernie Grundman Mastering, Hollywood, CA\n\nB5 \"Options\"\nPublished by Doja Cat Music / Prescription Songs (BMI), Ari Starace Publishing Designee / Where Da Kasz At (BMI) (adm. by Songs Of Kobalt Music Publishing), Big Pamplino Publishing, Inc. / Sony/ATV Tunes LLC (ASCAP), Route Way LLC / Reservoir 416 (BMI)\nMixed [...] at EastWest Studios, Los Angeles, CA\nMastered [...] at Becker Mastering, Pasadena, CA\nJID appears courtesy of Dreamville / Interscope Records.\n\nC1 \"Ain't S**t\"\nPublished by Doja Cat Music / Prescription Songs (BMI), Trism (ASCAP) (adm. by Kobalt Songs Music Publishing), wellhellothere music (BMI) (adm. by Songs Of Kobalt Music Publishing), Yeti Yeti Yeti Music / WB Music Corp. (ASCAP), Kurtis McKenzie Publishing Designee (BMI) (adm. by Songs of Kobalt Music Publishing)\nRecorded [...] at Sound Factory, Hollywood, CA\nMixed [...] for Roselle New Jersey\nMastered [...] at Bernie Grundman Mastering, Hollywood, CA\n\nC2 \"Imagine\"\nPublished by Doja Cat Music / Prescription Songs (BMI), Trism (ASCAP) (adm. by Kobalt Songs Music Publishing), Mike Hector Publishing Designee / Sony/ATV Songs LLC (BMI)\nRecorded [...] at Sound Factory, Hollywood, CA\nMixed [...] at EastWest Studios, Los Angeles, CA\nMastered [...] at Becker Mastering, Pasadena, CA\n\nC3 \"Alone\"\nPublished by Doja Cat Music / Prescription Songs (BMI), Yeti Yeti Yeti Music / WB Music Corp. (ASCAP), Linden Jay Publishing Designee (PRS), Antwoine Collins Publishing Designee / Sony/ATV Songs LLC (BMI), Geordan Reid-Campbell Publishing Designee, Laura Roy Publishing Designee\nRecorded [...] at Sound Factory, Hollywood, CA\nMixed [...] for Roselle New Jersey\nMastered [...] at Bernie Grundman Mastering, Hollywood, CA\n\nC4 \"Kiss Me More\"\nPublished by Doja Cat Music / Prescription Songs (BMI), Yeti Yeti Yeti Music / WB Music Corp. (ASCAP), wellhellothere music (BMI) (adm. by Songs Of Kobalt Music Publishing), Trism (ASCAP) (adm. by Kobalt Songs Music Publishing), Carter Lang Publishing Designee / Zuma Tuna LLC / Warner-Tamerlane Publishing Corp. (BMI) (all rights adm. by Warner-Tamerlane Publishing Corp.), Kasz Money Publishing (ASCAP), Solána Rowe Publishing Designee / Songs Of Universal, Inc. (BMI), EMI April Music, Inc. (ASCAP) Floating World Music (ASCAP)\nRecorded [...] at Sound Factory, Hollywood, CA\nSZA Vocals Recorded [...] at SZA's House (Hanalei Bay)\nMixed [...] at MixStar Studios, Virginia Beach, VA\nMastered [...] at Bernie Grundman Mastering, Hollywood, CA\nContains a portion of the composition \"Physical\", written by Terry Shaddick and Stephen Kipner.\nSZA appears courtesy of Top Dawg Entertainment / RCA Records.\n\nC5 \"You Right - Extended\"\nPublished by Doja Cat Music / Prescription Songs (BMI), Kasz Money Music Publishing (ASCAP), KMR Music Royalties II SCSP (ASCAP) (adm. by Kobalt Songs Music Publishing)\nMixed [...] at MixStar Studios, Virginia Beach, VA\nMastered [...] at Bernie Grundman Mastering, Hollywood, CA\nThe Weeknd appears courtesy of Republic Records, a division of UMG Recordings, Inc.\n\nD1 \"Up And Down\"\nPublished by Doja Cat Music / Prescription Songs (BMI), Kurtis McKenzie Publishing Designee (BMI) (adm. by Songs of Kobalt Music Publishing), Stellar Songs Limited / EMI Blackwood Music, Inc. (BMI), Good As Gold (ASCAP) (adm. by Kobalt Songs Music Publishing)\nMixed [...] at Mixland, Los Angeles, CA\nMastered [...] at Bernie Grundman Mastering, Hollywood, CA\n\nD2 \"Tonight\"\nPublished by Doja Cat Music / Prescription Songs (BMI), Kasz Money Publishing (ASCAP), Terminally Ill Music, Inc. / Sony/ATV Songs LLC (BMI), Taneisha Damielle Jackson Publishing Designee, Eve Jihan Jeffers Publishing Designee / Universal Music Corporation (ASCAP)\nProduced by Dr. Luke for Prescription Songs & Reef\nEngineered [...] at eightysevenfourteen Studios, Los Angeles, CA\nMixed [...] at three3one7 Studios, Los Angeles, CA\nMastered [...] at Bernie Grundman Mastering, Hollywood, CA\n\nD3 \"Ride\"\nPublished by Doja Cat Music / Prescription Songs (BMI), Yeti Yeti Yeti Music / WB Music Corp. (ASCAP), Eastpark Entertainment Publishing (ASCAP)\nMixed [...] at Mixland, Los Angeles, CA\nMastered [...] at Bernie Grundman Mastering, Hollywood, CA\n\nD4 \"Why Why\"\nPublished by Doja Cat Music / Prescription Songs (BMI), Ari Starace Publishing Designee / Where Da Kasz At (BMI) (adm. by Songs Of Kobalt Music Publishing), Gunna Music LLC / 300 Rainwater (BMI) (adm. by Warner-Tamerlane Publishing Corp.)\nMastered [...] at Bernie Grundman Mastering, Hollywood, CA\nGunna appears courtesy of Young Stoner Life Records / 300 Entertainment.",
+  "released_formatted": "27 May 2022",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "194399456811"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "[MPO logo]®21 241220 21-0700NL - 19439945681 - A NT",
+      "description": "Side A runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "[MPO logo]®22 253670 21-0700NL - 19439945681 - B NT",
+      "description": "Side B runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "[MPO logo]®22 253835 21-0700NL - 19439945681 - C NT",
+      "description": "Side C runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "[MPO logo]®22 253836 21-0700NL - 19439945681 - D NT",
+      "description": "Side D runout"
+    },
+    {
+      "type": "Rights Society",
+      "value": "BMI"
+    },
+    {
+      "type": "Rights Society",
+      "value": "ASCAP"
+    },
+    {
+      "type": "Rights Society",
+      "value": "PRS"
+    },
+    {
+      "type": "Rights Society",
+      "value": "STIM"
+    },
+    {
+      "type": "Rights Society",
+      "value": "APRA"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=dI3xkL7qUAc",
+      "title": "Doja Cat - Need To Know (Official Video)",
+      "description": "Doja Cat // Need To Know  // Out Now: https://smarturl.it/N2K \nPlanet Her // The New Album from Doja Cat // Available 6.25.21\nPre-Save/Add Now // https://smarturl.it/xPlanetHer\n\nHop onboard InterstellHER Air to meet Doja Cat at Planet Her! //\nhttps://smar",
+      "duration": 220,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=yxW5yuzVi8w",
+      "title": "Doja Cat - Woman (Official Video)",
+      "description": "Doja Cat // Woman (Official Video) \nPlanet Her // The New Album Out Now: https://smarturl.it/xPlanetHer \n🪐 Visit https://dojacode.com to unlock hidden features in an interactive experience 🪐\n\nHop onboard InterstellHER Air to meet Doja Cat at Planet Her! /",
+      "duration": 193,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=9Ko-nEYJ1GE",
+      "title": "Doja Cat - Get Into It (Yuh) (Official Video)",
+      "description": "Doja Cat // Get Into It (Yuh) [Official Video]\nPlanet Her // The New Album Out Now: https://smarturl.it/xPlanetHer \n\nHop onboard InterstellHER Air to meet Doja Cat at Planet Her! //\nhttps://smarturl.it/InterstellHerAir \n\nDirector: Mike Diva\nExecutive Prod",
+      "duration": 148,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=JXgV1rXUoME",
+      "title": "Doja Cat, The Weeknd - You Right (Official Video)",
+      "description": "Doja Cat // Planet Her // The New Album Out Now\nListen Here // https://smarturl.it/xPlanetHer \n\nHop on board InterstellHER Air to meet Doja Cat at Planet Her! //\nhttps://smarturl.it/InterstellHerAir \n\nWatch more official videos from Doja Cat:\n“Need To K",
+      "duration": 190,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=0EVVKs6DQLo",
+      "title": "Doja Cat - Kiss Me More (Official Video) ft. SZA",
+      "description": "Doja Cat // “Kiss Me More” ft. SZA\nOut Now // https://smarturl.it/xKMMx \n🎧 Put headphones on for a simulated 360 Reality Audio experience🎧\n\n“Kiss Me More” was mixed with an immersive #360RA experience in mind, use headphones for the full effect.\n \nStream ",
+      "duration": 316,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=NCx2N8VRXXo",
+      "title": "Doja Cat - Planet Her CD Unboxing",
+      "description": "In this video I show you the Planet Her CD by Doja Cat.\nI unbox the product completely for you and show you every content in detail.\n► You can buy the album here:\nCD: https://amzn.to/3HeEvrp\nVinyl: https://amzn.to/3uuDYtV\nDigital: https://amzn.to/3Y4zbgd\n",
+      "duration": 129,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Hip Hop",
+    "Pop"
+  ],
+  "styles": [
+    "Contemporary R&B",
+    "Dance-pop",
+    "Pop Rap",
+    "Trap"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3970719,
+          "resource_url": "https://api.discogs.com/artists/3970719"
+        }
+      ],
+      "title": "Woman",
+      "extraartists": [
+        {
+          "name": "Aynzli Jones",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 1091886,
+          "resource_url": "https://api.discogs.com/artists/1091886"
+        },
+        {
+          "name": "Jidenna",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 4390077,
+          "resource_url": "https://api.discogs.com/artists/4390077"
+        },
+        {
+          "name": "Aynzli Jones",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 1091886,
+          "resource_url": "https://api.discogs.com/artists/1091886"
+        },
+        {
+          "name": "Noah \"MixGiant\" Glassman",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix, Assisted By]",
+          "tracks": "",
+          "id": 10260091,
+          "resource_url": "https://api.discogs.com/artists/10260091"
+        },
+        {
+          "name": "Katrina Maria Ernster",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 10260094,
+          "resource_url": "https://api.discogs.com/artists/10260094"
+        },
+        {
+          "name": "Mike Bozzi",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 401309,
+          "resource_url": "https://api.discogs.com/artists/401309"
+        },
+        {
+          "name": "Jesse Ray Ernster",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 7085787,
+          "resource_url": "https://api.discogs.com/artists/7085787"
+        },
+        {
+          "name": "Crate Classics",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 8048535,
+          "resource_url": "https://api.discogs.com/artists/8048535"
+        },
+        {
+          "name": "Linden Jay",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3744150,
+          "resource_url": "https://api.discogs.com/artists/3744150"
+        },
+        {
+          "name": "Yeti Beats",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1610124,
+          "resource_url": "https://api.discogs.com/artists/1610124"
+        },
+        {
+          "name": "Rian Lewis",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 1672652,
+          "resource_url": "https://api.discogs.com/artists/1672652"
+        },
+        {
+          "name": "Aaron Horn",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1106981,
+          "resource_url": "https://api.discogs.com/artists/1106981"
+        },
+        {
+          "name": "Amala Zandile Dlamini",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7322515,
+          "resource_url": "https://api.discogs.com/artists/7322515"
+        },
+        {
+          "name": "Aynzli Jones",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1091886,
+          "resource_url": "https://api.discogs.com/artists/1091886"
+        },
+        {
+          "name": "David Sprecher",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3889696,
+          "resource_url": "https://api.discogs.com/artists/3889696"
+        },
+        {
+          "name": "Jidenna Mobisson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5546582,
+          "resource_url": "https://api.discogs.com/artists/5546582"
+        },
+        {
+          "name": "Linden Jay",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3744150,
+          "resource_url": "https://api.discogs.com/artists/3744150"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3970719,
+          "resource_url": "https://api.discogs.com/artists/3970719"
+        }
+      ],
+      "title": "Naked",
+      "extraartists": [
+        {
+          "name": "Noah \"MixGiant\" Glassman",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix, Assisted By]",
+          "tracks": "",
+          "id": 10260091,
+          "resource_url": "https://api.discogs.com/artists/10260091"
+        },
+        {
+          "name": "Katrina Maria Ernster",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 10260094,
+          "resource_url": "https://api.discogs.com/artists/10260094"
+        },
+        {
+          "name": "Mike Bozzi",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 401309,
+          "resource_url": "https://api.discogs.com/artists/401309"
+        },
+        {
+          "name": "Jesse Ray Ernster",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 7085787,
+          "resource_url": "https://api.discogs.com/artists/7085787"
+        },
+        {
+          "name": "Kurtis Mckenzie",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2779966,
+          "resource_url": "https://api.discogs.com/artists/2779966"
+        },
+        {
+          "name": "Shux",
+          "anv": "Al Shux",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 149091,
+          "resource_url": "https://api.discogs.com/artists/149091"
+        },
+        {
+          "name": "Rian Lewis",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 1672652,
+          "resource_url": "https://api.discogs.com/artists/1672652"
+        },
+        {
+          "name": "Alexander Shuckburgh",
+          "anv": "Al Shuckburgh",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1557577,
+          "resource_url": "https://api.discogs.com/artists/1557577"
+        },
+        {
+          "name": "Amala Zandile Dlamini",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7322515,
+          "resource_url": "https://api.discogs.com/artists/7322515"
+        },
+        {
+          "name": "Daniel Tjäder",
+          "anv": "Daniel Gustav Peter Tjaeder",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 660544,
+          "resource_url": "https://api.discogs.com/artists/660544"
+        },
+        {
+          "name": "Kurtis Mckenzie",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2779966,
+          "resource_url": "https://api.discogs.com/artists/2779966"
+        },
+        {
+          "name": "Marcus Erik Joons",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 10260097,
+          "resource_url": "https://api.discogs.com/artists/10260097"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3970719,
+          "resource_url": "https://api.discogs.com/artists/3970719"
+        }
+      ],
+      "title": "Payday",
+      "extraartists": [
+        {
+          "name": "Kayla Reagan",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 10074862,
+          "resource_url": "https://api.discogs.com/artists/10074862"
+        },
+        {
+          "name": "Young Thug (2)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3243777,
+          "resource_url": "https://api.discogs.com/artists/3243777"
+        },
+        {
+          "name": "Dale Becker",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 2149985,
+          "resource_url": "https://api.discogs.com/artists/2149985"
+        },
+        {
+          "name": "Connor Hedge",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By [Mastering Assistant]",
+          "tracks": "",
+          "id": 9752674,
+          "resource_url": "https://api.discogs.com/artists/9752674"
+        },
+        {
+          "name": "Fili Filizzola",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By [Mastering Assistant]",
+          "tracks": "",
+          "id": 8373630,
+          "resource_url": "https://api.discogs.com/artists/8373630"
+        },
+        {
+          "name": "Hector Vega",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By [Mastering Assistant]",
+          "tracks": "",
+          "id": 7067421,
+          "resource_url": "https://api.discogs.com/artists/7067421"
+        },
+        {
+          "name": "Jeff Ellis Worldwide",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 10074865,
+          "resource_url": "https://api.discogs.com/artists/10074865"
+        },
+        {
+          "name": "Y2K (11)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4566220,
+          "resource_url": "https://api.discogs.com/artists/4566220"
+        },
+        {
+          "name": "Rian Lewis",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 1672652,
+          "resource_url": "https://api.discogs.com/artists/1672652"
+        },
+        {
+          "name": "Rob Moreno (2)",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Assisted By]",
+          "tracks": "",
+          "id": 16741768,
+          "resource_url": "https://api.discogs.com/artists/16741768"
+        },
+        {
+          "name": "A. \"Bainz\" Bains",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Young Thug Vocals], Mixed By [Young Thug Vocals]",
+          "tracks": "",
+          "id": 17968014,
+          "resource_url": "https://api.discogs.com/artists/17968014"
+        },
+        {
+          "name": "Amala Zandile Dlamini",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7322515,
+          "resource_url": "https://api.discogs.com/artists/7322515"
+        },
+        {
+          "name": "Ari Starace",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7463329,
+          "resource_url": "https://api.discogs.com/artists/7463329"
+        },
+        {
+          "name": "Jeffrey Williams (3)",
+          "anv": "Jeffery Lamar Williams",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4089650,
+          "resource_url": "https://api.discogs.com/artists/4089650"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3970719,
+          "resource_url": "https://api.discogs.com/artists/3970719"
+        }
+      ],
+      "title": "Get Into It (Yuh)",
+      "extraartists": [
+        {
+          "name": "Kayla Reagan",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 10074862,
+          "resource_url": "https://api.discogs.com/artists/10074862"
+        },
+        {
+          "name": "Dale Becker",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 2149985,
+          "resource_url": "https://api.discogs.com/artists/2149985"
+        },
+        {
+          "name": "Connor Hedge",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By [Mastering Assistant]",
+          "tracks": "",
+          "id": 9752674,
+          "resource_url": "https://api.discogs.com/artists/9752674"
+        },
+        {
+          "name": "Fili Filizzola",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By [Mastering Assistant]",
+          "tracks": "",
+          "id": 8373630,
+          "resource_url": "https://api.discogs.com/artists/8373630"
+        },
+        {
+          "name": "Hector Vega",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By [Mastering Assistant]",
+          "tracks": "",
+          "id": 7067421,
+          "resource_url": "https://api.discogs.com/artists/7067421"
+        },
+        {
+          "name": "Jeff Ellis Worldwide",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 10074865,
+          "resource_url": "https://api.discogs.com/artists/10074865"
+        },
+        {
+          "name": "Sully (13)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 8263220,
+          "resource_url": "https://api.discogs.com/artists/8263220"
+        },
+        {
+          "name": "Y2K (11)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4566220,
+          "resource_url": "https://api.discogs.com/artists/4566220"
+        },
+        {
+          "name": "Amala Zandile Dlamini",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7322515,
+          "resource_url": "https://api.discogs.com/artists/7322515"
+        },
+        {
+          "name": "Ari Starace",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7463329,
+          "resource_url": "https://api.discogs.com/artists/7463329"
+        },
+        {
+          "name": "Sheldon Yu-Ting Cheung",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 10260100,
+          "resource_url": "https://api.discogs.com/artists/10260100"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3970719,
+          "resource_url": "https://api.discogs.com/artists/3970719"
+        }
+      ],
+      "title": "Need To Know",
+      "extraartists": [
+        {
+          "name": "Danielle Alvarez",
+          "anv": "",
+          "join": "",
+          "role": "Coordinator [Production Coordination]",
+          "tracks": "",
+          "id": 7385855,
+          "resource_url": "https://api.discogs.com/artists/7385855"
+        },
+        {
+          "name": "Kalani Thompson",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 5143121,
+          "resource_url": "https://api.discogs.com/artists/5143121"
+        },
+        {
+          "name": "Tyler Sheppard",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 5143122,
+          "resource_url": "https://api.discogs.com/artists/5143122"
+        },
+        {
+          "name": "Seth Ringo",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assisted By]",
+          "tracks": "",
+          "id": 7322517,
+          "resource_url": "https://api.discogs.com/artists/7322517"
+        },
+        {
+          "name": "John Hanes",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 210636,
+          "resource_url": "https://api.discogs.com/artists/210636"
+        },
+        {
+          "name": "Dr. Luke",
+          "anv": "",
+          "join": "",
+          "role": "Instruments, Programmed By",
+          "tracks": "",
+          "id": 28400,
+          "resource_url": "https://api.discogs.com/artists/28400"
+        },
+        {
+          "name": "Mike Bozzi",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 401309,
+          "resource_url": "https://api.discogs.com/artists/401309"
+        },
+        {
+          "name": "Serban Ghenea",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 105435,
+          "resource_url": "https://api.discogs.com/artists/105435"
+        },
+        {
+          "name": "Dr. Luke",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 28400,
+          "resource_url": "https://api.discogs.com/artists/28400"
+        },
+        {
+          "name": "Amala Zandile Dlamini",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7322515,
+          "resource_url": "https://api.discogs.com/artists/7322515"
+        },
+        {
+          "name": "Lukasz Gottwald",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 515687,
+          "resource_url": "https://api.discogs.com/artists/515687"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3970719,
+          "resource_url": "https://api.discogs.com/artists/3970719"
+        }
+      ],
+      "title": "I Don't Do Drugs",
+      "extraartists": [
+        {
+          "name": "Kayla Reagan",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 10074862,
+          "resource_url": "https://api.discogs.com/artists/10074862"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Dale Becker",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 2149985,
+          "resource_url": "https://api.discogs.com/artists/2149985"
+        },
+        {
+          "name": "Connor Hedge",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By [Mastering Assistant]",
+          "tracks": "",
+          "id": 9752674,
+          "resource_url": "https://api.discogs.com/artists/9752674"
+        },
+        {
+          "name": "Fili Filizzola",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By [Mastering Assistant]",
+          "tracks": "",
+          "id": 8373630,
+          "resource_url": "https://api.discogs.com/artists/8373630"
+        },
+        {
+          "name": "Hector Vega",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By [Mastering Assistant]",
+          "tracks": "",
+          "id": 7067421,
+          "resource_url": "https://api.discogs.com/artists/7067421"
+        },
+        {
+          "name": "Jeff Ellis Worldwide",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 10074865,
+          "resource_url": "https://api.discogs.com/artists/10074865"
+        },
+        {
+          "name": "Sully (13)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 8263220,
+          "resource_url": "https://api.discogs.com/artists/8263220"
+        },
+        {
+          "name": "Y2K (11)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4566220,
+          "resource_url": "https://api.discogs.com/artists/4566220"
+        },
+        {
+          "name": "Rian Lewis",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 1672652,
+          "resource_url": "https://api.discogs.com/artists/1672652"
+        },
+        {
+          "name": "Rob Moreno (2)",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Assisted By]",
+          "tracks": "",
+          "id": 16741768,
+          "resource_url": "https://api.discogs.com/artists/16741768"
+        },
+        {
+          "name": "Amala Zandile Dlamini",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7322515,
+          "resource_url": "https://api.discogs.com/artists/7322515"
+        },
+        {
+          "name": "Ari Starace",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7463329,
+          "resource_url": "https://api.discogs.com/artists/7463329"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Sheldon Yu-Ting Cheung",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 10260100,
+          "resource_url": "https://api.discogs.com/artists/10260100"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3970719,
+          "resource_url": "https://api.discogs.com/artists/3970719"
+        }
+      ],
+      "title": "Love To Dream",
+      "extraartists": [
+        {
+          "name": "Kayla Reagan",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 10074862,
+          "resource_url": "https://api.discogs.com/artists/10074862"
+        },
+        {
+          "name": "Dale Becker",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 2149985,
+          "resource_url": "https://api.discogs.com/artists/2149985"
+        },
+        {
+          "name": "Connor Hedge",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By [Mastering Assistant]",
+          "tracks": "",
+          "id": 9752674,
+          "resource_url": "https://api.discogs.com/artists/9752674"
+        },
+        {
+          "name": "Fili Filizzola",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By [Mastering Assistant]",
+          "tracks": "",
+          "id": 8373630,
+          "resource_url": "https://api.discogs.com/artists/8373630"
+        },
+        {
+          "name": "Hector Vega",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By [Mastering Assistant]",
+          "tracks": "",
+          "id": 7067421,
+          "resource_url": "https://api.discogs.com/artists/7067421"
+        },
+        {
+          "name": "Jeff Ellis Worldwide",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 10074865,
+          "resource_url": "https://api.discogs.com/artists/10074865"
+        },
+        {
+          "name": "Digi (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2805672,
+          "resource_url": "https://api.discogs.com/artists/2805672"
+        },
+        {
+          "name": "Khaled Rohaim",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2426617,
+          "resource_url": "https://api.discogs.com/artists/2426617"
+        },
+        {
+          "name": "Kurtis Mckenzie",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2779966,
+          "resource_url": "https://api.discogs.com/artists/2779966"
+        },
+        {
+          "name": "Rian Lewis",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 1672652,
+          "resource_url": "https://api.discogs.com/artists/1672652"
+        },
+        {
+          "name": "Amala Zandile Dlamini",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7322515,
+          "resource_url": "https://api.discogs.com/artists/7322515"
+        },
+        {
+          "name": "Jamil Chammas",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3401090,
+          "resource_url": "https://api.discogs.com/artists/3401090"
+        },
+        {
+          "name": "Khaled Rohaim",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2426617,
+          "resource_url": "https://api.discogs.com/artists/2426617"
+        },
+        {
+          "name": "Kurtis Mckenzie",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2779966,
+          "resource_url": "https://api.discogs.com/artists/2779966"
+        },
+        {
+          "name": "Maciej Margol-Gromada",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 10662793,
+          "resource_url": "https://api.discogs.com/artists/10662793"
+        },
+        {
+          "name": "Siddharth Mallick",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 10662796,
+          "resource_url": "https://api.discogs.com/artists/10662796"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "anv": "",
+          "join": "+",
+          "role": "",
+          "tracks": "",
+          "id": 3970719,
+          "resource_url": "https://api.discogs.com/artists/3970719"
+        },
+        {
+          "name": "The Weeknd",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 2171152,
+          "resource_url": "https://api.discogs.com/artists/2171152"
+        }
+      ],
+      "title": "You Right",
+      "extraartists": [
+        {
+          "name": "Danielle Alvarez",
+          "anv": "",
+          "join": "",
+          "role": "Coordinator [Production Coordination]",
+          "tracks": "",
+          "id": 7385855,
+          "resource_url": "https://api.discogs.com/artists/7385855"
+        },
+        {
+          "name": "Kalani Thompson",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 5143121,
+          "resource_url": "https://api.discogs.com/artists/5143121"
+        },
+        {
+          "name": "Tyler Sheppard",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 5143122,
+          "resource_url": "https://api.discogs.com/artists/5143122"
+        },
+        {
+          "name": "Seth Ringo",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assisted By]",
+          "tracks": "",
+          "id": 7322517,
+          "resource_url": "https://api.discogs.com/artists/7322517"
+        },
+        {
+          "name": "John Hanes",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 210636,
+          "resource_url": "https://api.discogs.com/artists/210636"
+        },
+        {
+          "name": "Dr. Luke",
+          "anv": "",
+          "join": "",
+          "role": "Instruments, Programmed By",
+          "tracks": "",
+          "id": 28400,
+          "resource_url": "https://api.discogs.com/artists/28400"
+        },
+        {
+          "name": "Mike Bozzi",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 401309,
+          "resource_url": "https://api.discogs.com/artists/401309"
+        },
+        {
+          "name": "Serban Ghenea",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 105435,
+          "resource_url": "https://api.discogs.com/artists/105435"
+        },
+        {
+          "name": "Dr. Luke",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 28400,
+          "resource_url": "https://api.discogs.com/artists/28400"
+        },
+        {
+          "name": "Jason Quenneville",
+          "anv": "Jason \"DaHeala\" Quenneville",
+          "join": "",
+          "role": "Producer [Vocal Production]",
+          "tracks": "",
+          "id": 2846474,
+          "resource_url": "https://api.discogs.com/artists/2846474"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abdel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Amala Zandile Dlamini",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7322515,
+          "resource_url": "https://api.discogs.com/artists/7322515"
+        },
+        {
+          "name": "Lukasz Gottwald",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 515687,
+          "resource_url": "https://api.discogs.com/artists/515687"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3970719,
+          "resource_url": "https://api.discogs.com/artists/3970719"
+        }
+      ],
+      "title": "Been Like This",
+      "extraartists": [
+        {
+          "name": "Mike Bozzi",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 401309,
+          "resource_url": "https://api.discogs.com/artists/401309"
+        },
+        {
+          "name": "Clint Gibbs",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 2174475,
+          "resource_url": "https://api.discogs.com/artists/2174475"
+        },
+        {
+          "name": "Aaron Bow",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5872584,
+          "resource_url": "https://api.discogs.com/artists/5872584"
+        },
+        {
+          "name": "Yeti Beats",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1610124,
+          "resource_url": "https://api.discogs.com/artists/1610124"
+        },
+        {
+          "name": "tizhimself",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 6029099,
+          "resource_url": "https://api.discogs.com/artists/6029099"
+        },
+        {
+          "name": "Aaron Bow",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5872584,
+          "resource_url": "https://api.discogs.com/artists/5872584"
+        },
+        {
+          "name": "Amala Zandile Dlamini",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7322515,
+          "resource_url": "https://api.discogs.com/artists/7322515"
+        },
+        {
+          "name": "David Sprecher",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3889696,
+          "resource_url": "https://api.discogs.com/artists/3889696"
+        },
+        {
+          "name": "Gerard A. Powell II",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7579252,
+          "resource_url": "https://api.discogs.com/artists/7579252"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3970719,
+          "resource_url": "https://api.discogs.com/artists/3970719"
+        }
+      ],
+      "title": "Options",
+      "extraartists": [
+        {
+          "name": "Kayla Reagan",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 10074862,
+          "resource_url": "https://api.discogs.com/artists/10074862"
+        },
+        {
+          "name": "J.I.D",
+          "anv": "JID",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 7246829,
+          "resource_url": "https://api.discogs.com/artists/7246829"
+        },
+        {
+          "name": "Dale Becker",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 2149985,
+          "resource_url": "https://api.discogs.com/artists/2149985"
+        },
+        {
+          "name": "Connor Hedge",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By [Mastering Assistant]",
+          "tracks": "",
+          "id": 9752674,
+          "resource_url": "https://api.discogs.com/artists/9752674"
+        },
+        {
+          "name": "Fili Filizzola",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By [Mastering Assistant]",
+          "tracks": "",
+          "id": 8373630,
+          "resource_url": "https://api.discogs.com/artists/8373630"
+        },
+        {
+          "name": "Hector Vega",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By [Mastering Assistant]",
+          "tracks": "",
+          "id": 7067421,
+          "resource_url": "https://api.discogs.com/artists/7067421"
+        },
+        {
+          "name": "Jeff Ellis Worldwide",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 10074865,
+          "resource_url": "https://api.discogs.com/artists/10074865"
+        },
+        {
+          "name": "Mayer Hawthorne",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1211550,
+          "resource_url": "https://api.discogs.com/artists/1211550"
+        },
+        {
+          "name": "Y2K (11)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4566220,
+          "resource_url": "https://api.discogs.com/artists/4566220"
+        },
+        {
+          "name": "Amala Zandile Dlamini",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7322515,
+          "resource_url": "https://api.discogs.com/artists/7322515"
+        },
+        {
+          "name": "Ari Starace",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7463329,
+          "resource_url": "https://api.discogs.com/artists/7463329"
+        },
+        {
+          "name": "Destin Route",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6827967,
+          "resource_url": "https://api.discogs.com/artists/6827967"
+        },
+        {
+          "name": "Mayer Hawthorne",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1211550,
+          "resource_url": "https://api.discogs.com/artists/1211550"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3970719,
+          "resource_url": "https://api.discogs.com/artists/3970719"
+        }
+      ],
+      "title": "Ain't S**t",
+      "extraartists": [
+        {
+          "name": "Mike Bozzi",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 401309,
+          "resource_url": "https://api.discogs.com/artists/401309"
+        },
+        {
+          "name": "Neal Pogue",
+          "anv": "NealHPogue",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 147027,
+          "resource_url": "https://api.discogs.com/artists/147027"
+        },
+        {
+          "name": "Kurtis Mckenzie",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2779966,
+          "resource_url": "https://api.discogs.com/artists/2779966"
+        },
+        {
+          "name": "Roget Chahayed",
+          "anv": "Rogét Chahayed",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4000693,
+          "resource_url": "https://api.discogs.com/artists/4000693"
+        },
+        {
+          "name": "Yeti Beats",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1610124,
+          "resource_url": "https://api.discogs.com/artists/1610124"
+        },
+        {
+          "name": "tizhimself",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 6029099,
+          "resource_url": "https://api.discogs.com/artists/6029099"
+        },
+        {
+          "name": "Rian Lewis",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 1672652,
+          "resource_url": "https://api.discogs.com/artists/1672652"
+        },
+        {
+          "name": "Rob Moreno (2)",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Assisted By]",
+          "tracks": "",
+          "id": 16741768,
+          "resource_url": "https://api.discogs.com/artists/16741768"
+        },
+        {
+          "name": "Amala Zandile Dlamini",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7322515,
+          "resource_url": "https://api.discogs.com/artists/7322515"
+        },
+        {
+          "name": "David Sprecher",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3889696,
+          "resource_url": "https://api.discogs.com/artists/3889696"
+        },
+        {
+          "name": "Gerard A. Powell II",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7579252,
+          "resource_url": "https://api.discogs.com/artists/7579252"
+        },
+        {
+          "name": "Kurtis Mckenzie",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2779966,
+          "resource_url": "https://api.discogs.com/artists/2779966"
+        },
+        {
+          "name": "Roget Chahayed",
+          "anv": "Rogét Chahayed",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4000693,
+          "resource_url": "https://api.discogs.com/artists/4000693"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3970719,
+          "resource_url": "https://api.discogs.com/artists/3970719"
+        }
+      ],
+      "title": "Imagine",
+      "extraartists": [
+        {
+          "name": "Kayla Reagan",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 10074862,
+          "resource_url": "https://api.discogs.com/artists/10074862"
+        },
+        {
+          "name": "Dale Becker",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 2149985,
+          "resource_url": "https://api.discogs.com/artists/2149985"
+        },
+        {
+          "name": "Connor Hedge",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By [Mastering Assistant]",
+          "tracks": "",
+          "id": 9752674,
+          "resource_url": "https://api.discogs.com/artists/9752674"
+        },
+        {
+          "name": "Fili Filizzola",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By [Mastering Assistant]",
+          "tracks": "",
+          "id": 8373630,
+          "resource_url": "https://api.discogs.com/artists/8373630"
+        },
+        {
+          "name": "Hector Vega",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By [Mastering Assistant]",
+          "tracks": "",
+          "id": 7067421,
+          "resource_url": "https://api.discogs.com/artists/7067421"
+        },
+        {
+          "name": "Jeff Ellis Worldwide",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 10074865,
+          "resource_url": "https://api.discogs.com/artists/10074865"
+        },
+        {
+          "name": "Mike Hector",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5689042,
+          "resource_url": "https://api.discogs.com/artists/5689042"
+        },
+        {
+          "name": "tizhimself",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 6029099,
+          "resource_url": "https://api.discogs.com/artists/6029099"
+        },
+        {
+          "name": "Rian Lewis",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 1672652,
+          "resource_url": "https://api.discogs.com/artists/1672652"
+        },
+        {
+          "name": "Davide Cinci",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Assisted By]",
+          "tracks": "",
+          "id": 7916311,
+          "resource_url": "https://api.discogs.com/artists/7916311"
+        },
+        {
+          "name": "Amala Zandile Dlamini",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7322515,
+          "resource_url": "https://api.discogs.com/artists/7322515"
+        },
+        {
+          "name": "Gerard A. Powell II",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7579252,
+          "resource_url": "https://api.discogs.com/artists/7579252"
+        },
+        {
+          "name": "Mike Hector",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5689042,
+          "resource_url": "https://api.discogs.com/artists/5689042"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3970719,
+          "resource_url": "https://api.discogs.com/artists/3970719"
+        }
+      ],
+      "title": "Alone",
+      "extraartists": [
+        {
+          "name": "Mike Bozzi",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 401309,
+          "resource_url": "https://api.discogs.com/artists/401309"
+        },
+        {
+          "name": "Neal Pogue",
+          "anv": "NealHPogue",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 147027,
+          "resource_url": "https://api.discogs.com/artists/147027"
+        },
+        {
+          "name": "Linden Jay",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3744150,
+          "resource_url": "https://api.discogs.com/artists/3744150"
+        },
+        {
+          "name": "Yeti Beats",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1610124,
+          "resource_url": "https://api.discogs.com/artists/1610124"
+        },
+        {
+          "name": "Troy Noka",
+          "anv": "Troy Nōka",
+          "join": "",
+          "role": "Producer [Additional Production]",
+          "tracks": "",
+          "id": 2683911,
+          "resource_url": "https://api.discogs.com/artists/2683911"
+        },
+        {
+          "name": "Rian Lewis",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 1672652,
+          "resource_url": "https://api.discogs.com/artists/1672652"
+        },
+        {
+          "name": "Davide Cinci",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Assisted By]",
+          "tracks": "",
+          "id": 7916311,
+          "resource_url": "https://api.discogs.com/artists/7916311"
+        },
+        {
+          "name": "Amala Zandile Dlamini",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7322515,
+          "resource_url": "https://api.discogs.com/artists/7322515"
+        },
+        {
+          "name": "Antwoine Collins",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1396803,
+          "resource_url": "https://api.discogs.com/artists/1396803"
+        },
+        {
+          "name": "David Sprecher",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3889696,
+          "resource_url": "https://api.discogs.com/artists/3889696"
+        },
+        {
+          "name": "Geordan Reid-Campbell",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3117994,
+          "resource_url": "https://api.discogs.com/artists/3117994"
+        },
+        {
+          "name": "Laura Roy",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3657939,
+          "resource_url": "https://api.discogs.com/artists/3657939"
+        },
+        {
+          "name": "Linden Jay",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3744150,
+          "resource_url": "https://api.discogs.com/artists/3744150"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3970719,
+          "resource_url": "https://api.discogs.com/artists/3970719"
+        }
+      ],
+      "title": "Kiss Me More",
+      "extraartists": [
+        {
+          "name": "John Hanes",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 210636,
+          "resource_url": "https://api.discogs.com/artists/210636"
+        },
+        {
+          "name": "SZA (2)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3272791,
+          "resource_url": "https://api.discogs.com/artists/3272791"
+        },
+        {
+          "name": "Mike Bozzi",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 401309,
+          "resource_url": "https://api.discogs.com/artists/401309"
+        },
+        {
+          "name": "Serban Ghenea",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 105435,
+          "resource_url": "https://api.discogs.com/artists/105435"
+        },
+        {
+          "name": "Joe Visciano",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [SZA Vocals]",
+          "tracks": "",
+          "id": 3339475,
+          "resource_url": "https://api.discogs.com/artists/3339475"
+        },
+        {
+          "name": "Roget Chahayed",
+          "anv": "Rogét Chahayed",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4000693,
+          "resource_url": "https://api.discogs.com/artists/4000693"
+        },
+        {
+          "name": "Yeti Beats",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1610124,
+          "resource_url": "https://api.discogs.com/artists/1610124"
+        },
+        {
+          "name": "tizhimself",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 6029099,
+          "resource_url": "https://api.discogs.com/artists/6029099"
+        },
+        {
+          "name": "Carter Lang",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Additional Production]",
+          "tracks": "",
+          "id": 3387002,
+          "resource_url": "https://api.discogs.com/artists/3387002"
+        },
+        {
+          "name": "Rian Lewis",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 1672652,
+          "resource_url": "https://api.discogs.com/artists/1672652"
+        },
+        {
+          "name": "Davide Cinci",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Assisted By]",
+          "tracks": "",
+          "id": 7916311,
+          "resource_url": "https://api.discogs.com/artists/7916311"
+        },
+        {
+          "name": "Rob Bisel",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [SZA Vocals]",
+          "tracks": "",
+          "id": 6146806,
+          "resource_url": "https://api.discogs.com/artists/6146806"
+        },
+        {
+          "name": "Amala Zandile Dlamini",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7322515,
+          "resource_url": "https://api.discogs.com/artists/7322515"
+        },
+        {
+          "name": "Carter Lang",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3387002,
+          "resource_url": "https://api.discogs.com/artists/3387002"
+        },
+        {
+          "name": "David Sprecher",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3889696,
+          "resource_url": "https://api.discogs.com/artists/3889696"
+        },
+        {
+          "name": "Gerard A. Powell II",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7579252,
+          "resource_url": "https://api.discogs.com/artists/7579252"
+        },
+        {
+          "name": "Lukasz Gottwald",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 515687,
+          "resource_url": "https://api.discogs.com/artists/515687"
+        },
+        {
+          "name": "Roget Chahayed",
+          "anv": "Rogét Chahayed",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4000693,
+          "resource_url": "https://api.discogs.com/artists/4000693"
+        },
+        {
+          "name": "Solana Rowe",
+          "anv": "Solána Rowe",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4851705,
+          "resource_url": "https://api.discogs.com/artists/4851705"
+        },
+        {
+          "name": "Steve Kipner",
+          "anv": "Stephen Kipner",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 126975,
+          "resource_url": "https://api.discogs.com/artists/126975"
+        },
+        {
+          "name": "Terry Shaddick",
+          "anv": "Shadick",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 527996,
+          "resource_url": "https://api.discogs.com/artists/527996"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "anv": "",
+          "join": "+",
+          "role": "",
+          "tracks": "",
+          "id": 3970719,
+          "resource_url": "https://api.discogs.com/artists/3970719"
+        },
+        {
+          "name": "The Weeknd",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 2171152,
+          "resource_url": "https://api.discogs.com/artists/2171152"
+        }
+      ],
+      "title": "You Right - Extended",
+      "extraartists": [
+        {
+          "name": "John Hanes",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 210636,
+          "resource_url": "https://api.discogs.com/artists/210636"
+        },
+        {
+          "name": "Dr. Luke",
+          "anv": "",
+          "join": "",
+          "role": "Instruments, Programmed By",
+          "tracks": "",
+          "id": 28400,
+          "resource_url": "https://api.discogs.com/artists/28400"
+        },
+        {
+          "name": "Mike Bozzi",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 401309,
+          "resource_url": "https://api.discogs.com/artists/401309"
+        },
+        {
+          "name": "Serban Ghenea",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 105435,
+          "resource_url": "https://api.discogs.com/artists/105435"
+        },
+        {
+          "name": "Dr. Luke",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 28400,
+          "resource_url": "https://api.discogs.com/artists/28400"
+        },
+        {
+          "name": "Jason Quenneville",
+          "anv": "Jason \"DaHeala\" Quenneville",
+          "join": "",
+          "role": "Producer [Vocal Production]",
+          "tracks": "",
+          "id": 2846474,
+          "resource_url": "https://api.discogs.com/artists/2846474"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abdel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Amala Zandile Dlamini",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7322515,
+          "resource_url": "https://api.discogs.com/artists/7322515"
+        },
+        {
+          "name": "Lukasz Gottwald",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 515687,
+          "resource_url": "https://api.discogs.com/artists/515687"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3970719,
+          "resource_url": "https://api.discogs.com/artists/3970719"
+        }
+      ],
+      "title": "Up And Down",
+      "extraartists": [
+        {
+          "name": "Noah \"MixGiant\" Glassman",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix, Assisted By]",
+          "tracks": "",
+          "id": 10260091,
+          "resource_url": "https://api.discogs.com/artists/10260091"
+        },
+        {
+          "name": "Katrina Maria Ernster",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 10260094,
+          "resource_url": "https://api.discogs.com/artists/10260094"
+        },
+        {
+          "name": "Mike Bozzi",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 401309,
+          "resource_url": "https://api.discogs.com/artists/401309"
+        },
+        {
+          "name": "Jesse Ray Ernster",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 7085787,
+          "resource_url": "https://api.discogs.com/artists/7085787"
+        },
+        {
+          "name": "Kurtis Mckenzie",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2779966,
+          "resource_url": "https://api.discogs.com/artists/2779966"
+        },
+        {
+          "name": "f a l l e n",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5060978,
+          "resource_url": "https://api.discogs.com/artists/5060978"
+        },
+        {
+          "name": "Amala Zandile Dlamini",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7322515,
+          "resource_url": "https://api.discogs.com/artists/7322515"
+        },
+        {
+          "name": "Kurtis Mckenzie",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2779966,
+          "resource_url": "https://api.discogs.com/artists/2779966"
+        },
+        {
+          "name": "Lee Stashenko",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5060976,
+          "resource_url": "https://api.discogs.com/artists/5060976"
+        },
+        {
+          "name": "Maciej Margol-Gromada",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 10662793,
+          "resource_url": "https://api.discogs.com/artists/10662793"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3970719,
+          "resource_url": "https://api.discogs.com/artists/3970719"
+        }
+      ],
+      "title": "Tonight",
+      "extraartists": [
+        {
+          "name": "Danielle Alvarez",
+          "anv": "",
+          "join": "",
+          "role": "Coordinator [Production Coordination]",
+          "tracks": "",
+          "id": 7385855,
+          "resource_url": "https://api.discogs.com/artists/7385855"
+        },
+        {
+          "name": "Kalani Thompson",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 5143121,
+          "resource_url": "https://api.discogs.com/artists/5143121"
+        },
+        {
+          "name": "Tyler Sheppard",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 5143122,
+          "resource_url": "https://api.discogs.com/artists/5143122"
+        },
+        {
+          "name": "Seth Ringo",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assisted By]",
+          "tracks": "",
+          "id": 7322517,
+          "resource_url": "https://api.discogs.com/artists/7322517"
+        },
+        {
+          "name": "Kalani Thompson",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 5143121,
+          "resource_url": "https://api.discogs.com/artists/5143121"
+        },
+        {
+          "name": "Eve (2)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 120826,
+          "resource_url": "https://api.discogs.com/artists/120826"
+        },
+        {
+          "name": "Dr. Luke",
+          "anv": "",
+          "join": "",
+          "role": "Instruments, Programmed By",
+          "tracks": "",
+          "id": 28400,
+          "resource_url": "https://api.discogs.com/artists/28400"
+        },
+        {
+          "name": "Mike Bozzi",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 401309,
+          "resource_url": "https://api.discogs.com/artists/401309"
+        },
+        {
+          "name": "Clint Gibbs",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 2174475,
+          "resource_url": "https://api.discogs.com/artists/2174475"
+        },
+        {
+          "name": "Dr. Luke",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 28400,
+          "resource_url": "https://api.discogs.com/artists/28400"
+        },
+        {
+          "name": "Reef (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 175214,
+          "resource_url": "https://api.discogs.com/artists/175214"
+        },
+        {
+          "name": "Amala Zandile Dlamini",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7322515,
+          "resource_url": "https://api.discogs.com/artists/7322515"
+        },
+        {
+          "name": "Eve Jeffers",
+          "anv": "Eve Jihan Jeffers",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1097204,
+          "resource_url": "https://api.discogs.com/artists/1097204"
+        },
+        {
+          "name": "Lukasz Gottwald",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 515687,
+          "resource_url": "https://api.discogs.com/artists/515687"
+        },
+        {
+          "name": "Rob \"Reef\" Tewlow",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 218431,
+          "resource_url": "https://api.discogs.com/artists/218431"
+        },
+        {
+          "name": "Taneisha Jackson",
+          "anv": "Taneisha Damielle Jackson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6366812,
+          "resource_url": "https://api.discogs.com/artists/6366812"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3970719,
+          "resource_url": "https://api.discogs.com/artists/3970719"
+        }
+      ],
+      "title": "Ride",
+      "extraartists": [
+        {
+          "name": "Noah \"MixGiant\" Glassman",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix, Assisted By]",
+          "tracks": "",
+          "id": 10260091,
+          "resource_url": "https://api.discogs.com/artists/10260091"
+        },
+        {
+          "name": "Katrina Maria Ernster",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 10260094,
+          "resource_url": "https://api.discogs.com/artists/10260094"
+        },
+        {
+          "name": "Mike Bozzi",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 401309,
+          "resource_url": "https://api.discogs.com/artists/401309"
+        },
+        {
+          "name": "Jesse Ray Ernster",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 7085787,
+          "resource_url": "https://api.discogs.com/artists/7085787"
+        },
+        {
+          "name": "Yeti Beats",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1610124,
+          "resource_url": "https://api.discogs.com/artists/1610124"
+        },
+        {
+          "name": "Amala Zandile Dlamini",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7322515,
+          "resource_url": "https://api.discogs.com/artists/7322515"
+        },
+        {
+          "name": "David Sprecher",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3889696,
+          "resource_url": "https://api.discogs.com/artists/3889696"
+        },
+        {
+          "name": "Ilana Armida",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 10662802,
+          "resource_url": "https://api.discogs.com/artists/10662802"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3970719,
+          "resource_url": "https://api.discogs.com/artists/3970719"
+        }
+      ],
+      "title": "Why Why",
+      "extraartists": [
+        {
+          "name": "Gunna",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1689451,
+          "resource_url": "https://api.discogs.com/artists/1689451"
+        },
+        {
+          "name": "Mike Bozzi",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 401309,
+          "resource_url": "https://api.discogs.com/artists/401309"
+        },
+        {
+          "name": "Y2K (11)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4566220,
+          "resource_url": "https://api.discogs.com/artists/4566220"
+        },
+        {
+          "name": "Amala Zandile Dlamini",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7322515,
+          "resource_url": "https://api.discogs.com/artists/7322515"
+        },
+        {
+          "name": "Ari Starace",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7463329,
+          "resource_url": "https://api.discogs.com/artists/7463329"
+        },
+        {
+          "name": "Sergio Kitchens",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6822928,
+          "resource_url": "https://api.discogs.com/artists/6822928"
+        }
+      ],
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Lydia Asrat",
+      "anv": "",
+      "join": "",
+      "role": "A&R",
+      "tracks": "",
+      "id": 7322516,
+      "resource_url": "https://api.discogs.com/artists/7322516"
+    },
+    {
+      "name": "Creative Artists Agency",
+      "anv": "CAA",
+      "join": "",
+      "role": "Booking",
+      "tracks": "",
+      "id": 2623597,
+      "resource_url": "https://api.discogs.com/artists/2623597"
+    },
+    {
+      "name": "Jenna Adler",
+      "anv": "",
+      "join": "",
+      "role": "Booking",
+      "tracks": "",
+      "id": 1922186,
+      "resource_url": "https://api.discogs.com/artists/1922186"
+    },
+    {
+      "name": "Brett Alan Nelson",
+      "anv": "",
+      "join": "",
+      "role": "Creative Director, Other [Styling]",
+      "tracks": "",
+      "id": 10638973,
+      "resource_url": "https://api.discogs.com/artists/10638973"
+    },
+    {
+      "name": "Gavin Taylor (3)",
+      "anv": "",
+      "join": "",
+      "role": "Design [Album Design]",
+      "tracks": "",
+      "id": 5603588,
+      "resource_url": "https://api.discogs.com/artists/5603588"
+    },
+    {
+      "name": "Doja Cat",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 3970719,
+      "resource_url": "https://api.discogs.com/artists/3970719"
+    },
+    {
+      "name": "Yeti Beats",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 1610124,
+      "resource_url": "https://api.discogs.com/artists/1610124"
+    },
+    {
+      "name": "Nick Townsend",
+      "anv": "NT",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 1506906,
+      "resource_url": "https://api.discogs.com/artists/1506906"
+    },
+    {
+      "name": "Josh Kaplan (2)",
+      "anv": "",
+      "join": "",
+      "role": "Legal",
+      "tracks": "",
+      "id": 10313086,
+      "resource_url": "https://api.discogs.com/artists/10313086"
+    },
+    {
+      "name": "Troglia Kaplan, LLC",
+      "anv": "",
+      "join": "",
+      "role": "Legal",
+      "tracks": "",
+      "id": 10313089,
+      "resource_url": "https://api.discogs.com/artists/10313089"
+    },
+    {
+      "name": "10Q LLC",
+      "anv": "10Q Management",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 10313092,
+      "resource_url": "https://api.discogs.com/artists/10313092"
+    },
+    {
+      "name": "SALXCO",
+      "anv": "SALXCO Management",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 10648048,
+      "resource_url": "https://api.discogs.com/artists/10648048"
+    },
+    {
+      "name": "J Stay Ready (Jared Henderson)",
+      "anv": "",
+      "join": "",
+      "role": "Other [Hair]",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Ernesto Casillas",
+      "anv": "",
+      "join": "",
+      "role": "Other [Make Up]",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Saccia Livingston",
+      "anv": "",
+      "join": "",
+      "role": "Other [Nails]",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "David LaChapelle",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 1572411,
+      "resource_url": "https://api.discogs.com/artists/1572411"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/KhCZM6JO-NYvBjkQGmcqMxWez3QGLKnx26LrbObXzhk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTktMTQzNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/KhCZM6JO-NYvBjkQGmcqMxWez3QGLKnx26LrbObXzhk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTktMTQzNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Q07C-6mnn0b80vyoKFFBDEcJlc6WBaM3057rKnPiG9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTktMTQzNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/JCuFLfP9Uu2L8Ou1CYtdEmp4Q_eOxDzKCf3yGF7_XZo/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTYtOTU1MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/JCuFLfP9Uu2L8Ou1CYtdEmp4Q_eOxDzKCf3yGF7_XZo/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTYtOTU1MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/nkN1oD1mEt3gE61wEu_4MiaS8MUN1rpSRvAuEJwVj1o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTYtOTU1MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 585
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/4ADlPaH1cdEDbqqGIkXWzJ4YswdHHELkyrafetRmu3E/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTYtNTIzMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/4ADlPaH1cdEDbqqGIkXWzJ4YswdHHELkyrafetRmu3E/rs:fit/g:sm/q:90/h:582/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTYtNTIzMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/JbzSAk9dcDzZrchdGH4r1ikM2W974B1WmjNLcIJYOGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTYtNTIzMC5qcGVn.jpeg",
+      "width": 600,
+      "height": 582
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/pv28-e-9HyWxPyiJd_teAdJkyvzEwrHQJh52iZEaD18/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTgtNzY3Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/pv28-e-9HyWxPyiJd_teAdJkyvzEwrHQJh52iZEaD18/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTgtNzY3Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Cu4mMciCRbkelG3JeQ3EQbM_GfKseAcW-6TUn14fHKk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTgtNzY3Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/5MyXl3eBSrXXKa4YAxhMimXpwNpIwdMNupcMVzbSC1s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTYtNzUxNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/5MyXl3eBSrXXKa4YAxhMimXpwNpIwdMNupcMVzbSC1s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTYtNzUxNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/9hF7wDSYJlszkCwf-450wCRfasp3eE9a1OLKIPO39U4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTYtNzUxNi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/RvQA-sD0tZAGKPtbLY-Jy4vTmrbQLWt0v_2LormmpOE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTYtMjgzMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/RvQA-sD0tZAGKPtbLY-Jy4vTmrbQLWt0v_2LormmpOE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTYtMjgzMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Zjz8C9FmxnjRDdjM9qLmNvz-47r7qhLgUtan9W0wQY8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTYtMjgzMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/L_IPOIciFIa2pD0-ATGMG3oi3Z0KLunlBX-Aj0G2_C8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTYtMjExNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/L_IPOIciFIa2pD0-ATGMG3oi3Z0KLunlBX-Aj0G2_C8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTYtMjExNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/d7iD8-mGmCxVTMPB-69IKbgM0uZMFoynJGnLsVq8niw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTYtMjExNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/rYg-IvGzUp5ao4jlyDRSArSlsQCRnniUOGTXcl-UDuA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTYtODIyMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/rYg-IvGzUp5ao4jlyDRSArSlsQCRnniUOGTXcl-UDuA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTYtODIyMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/EINiLkNZIwDNz2Hx9KMpPRE5JifOuniwq6KB2TaGufc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTYtODIyMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/vybmq94hbSpNv_ncV426hRWc3whoClzoI6s8isjF5Us/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTctNTU0OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/vybmq94hbSpNv_ncV426hRWc3whoClzoI6s8isjF5Us/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTctNTU0OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/mVDJvDMzkbbQ1yWnCEU_eoJzv2bIZpG868GOxUpIji8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTctNTU0OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/qTPeHf5aV7R3ANknr_IfV-KmQv63VnWE3J1j6si72VY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTgtMjEzNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/qTPeHf5aV7R3ANknr_IfV-KmQv63VnWE3J1j6si72VY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTgtMjEzNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/L5tH6dkkeqne75dmdHqgsxG0XUlrOVhen610lyjXjEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTgtMjEzNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/dY8NzDlaybSJYDeZQZtcxFF5OUs02XUi13KtzyxLX9U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTctMjE1NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/dY8NzDlaybSJYDeZQZtcxFF5OUs02XUi13KtzyxLX9U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTctMjE1NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ow1SGgCHfn2lJXgqj8_XZsXLjuRdnPifdZierUCjN68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTctMjE1NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/Q07C-6mnn0b80vyoKFFBDEcJlc6WBaM3057rKnPiG9M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTI1/MzMwLTE2NTQ5MzAz/NTktMTQzNC5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

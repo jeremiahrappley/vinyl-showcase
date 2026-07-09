@@ -1,0 +1,1442 @@
+{
+  "id": 1020679,
+  "status": "Accepted",
+  "year": 2007,
+  "resource_url": "https://api.discogs.com/releases/1020679",
+  "uri": "https://www.discogs.com/release/1020679-Amy-Winehouse-Back-To-Black",
+  "artists": [
+    {
+      "name": "Amy Winehouse",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 151223,
+      "resource_url": "https://api.discogs.com/artists/151223",
+      "thumbnail_url": "https://i.discogs.com/Ea_EHEQgQCnQgPqVDuz589TncOipC5jGEl8BBCIBkK8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE1MTIy/My0xNzYxNjA1NTU3/LTk0ODMuanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Amy Winehouse",
+  "labels": [
+    {
+      "name": "Universal Republic Records",
+      "catno": "B0008994-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 81846,
+      "resource_url": "https://api.discogs.com/labels/81846",
+      "thumbnail_url": "https://i.discogs.com/Mx0lzgg0AGiVTL-roO0C79EtHXC7ifP1MNi_utJ2iD8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgxODQ2/LTE0OTg2NzM5MzQt/MzE0My5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Instrument Zoo",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 271070,
+      "resource_url": "https://api.discogs.com/labels/271070"
+    },
+    {
+      "name": "Dapking Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 438989,
+      "resource_url": "https://api.discogs.com/labels/438989"
+    },
+    {
+      "name": "Chung King Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 280468,
+      "resource_url": "https://api.discogs.com/labels/280468",
+      "thumbnail_url": "https://i.discogs.com/tVhsp9L84Dc6IkBpzsuae0Tnk71KJ_9eKGBut_lmzMc/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4MDQ2/OC0xNTg4OTgwOTMw/LTc2OTkuanBlZw.jpeg"
+    },
+    {
+      "name": "Metropolis Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 265000,
+      "resource_url": "https://api.discogs.com/labels/265000",
+      "thumbnail_url": "https://i.discogs.com/I1lIoi6xVEM2p0oWKVZsJNhazSc21cHC2z35bdknhq8/rs:fit/g:sm/q:90/h:200/w:223/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTAw/MC0xMzQ3ODEzMzgz/LTIxMzcuanBlZw.jpeg"
+    },
+    {
+      "name": "Daptone Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 361462,
+      "resource_url": "https://api.discogs.com/labels/361462",
+      "thumbnail_url": "https://i.discogs.com/Z7zHon4-yrxwhGQobIp-6sNp0TnrRtrLZPWaKb7dORo/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM2MTQ2/Mi0xMzM0NTc1NTQ4/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Allido Sound",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 1408715,
+      "resource_url": "https://api.discogs.com/labels/1408715"
+    },
+    {
+      "name": "Circle House Studios",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 266977,
+      "resource_url": "https://api.discogs.com/labels/266977",
+      "thumbnail_url": "https://i.discogs.com/aQA6k8QyXoGbHerctO-YzcTeVFS1Zqc6Bm2nQW5aYBw/rs:fit/g:sm/q:90/h:86/w:188/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2Njk3/Ny0xMzY1MjY5MjI3/LTEwNDkucG5n.jpeg"
+    },
+    {
+      "name": "Free Barrabas!",
+      "catno": "",
+      "entity_type": "33",
+      "entity_type_name": "Designed At",
+      "id": 264144,
+      "resource_url": "https://api.discogs.com/labels/264144",
+      "thumbnail_url": "https://i.discogs.com/F5MYHgCbxlYpl6JicxFUnW49-GwkbZNKnOrW5se29bI/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDE0/NC0xNjE4NTEyOTkx/LTQyNTQuanBlZw.jpeg"
+    },
+    {
+      "name": "EMI Music Publishing Ltd.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 265460,
+      "resource_url": "https://api.discogs.com/labels/265460",
+      "thumbnail_url": "https://i.discogs.com/QUVURY3OB4iixKDJbWXcejxXVjfw64FEPr6tx2MyyFc/rs:fit/g:sm/q:90/h:192/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTQ2/MC0xNjE3MDIxMTM3/LTQxMjguanBlZw.jpeg"
+    },
+    {
+      "name": "Jobete Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 273030,
+      "resource_url": "https://api.discogs.com/labels/273030",
+      "thumbnail_url": "https://i.discogs.com/qfOoWEXzubRqX9UTGk7eVPvz14kk8NFyUCr3ZM4Z6yY/rs:fit/g:sm/q:90/h:200/w:539/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MzAz/MC0xNzMwOTU5MTg4/LTQ4OTEuanBlZw.jpeg"
+    },
+    {
+      "name": "EMI Music Ltd.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 268409,
+      "resource_url": "https://api.discogs.com/labels/268409",
+      "thumbnail_url": "https://i.discogs.com/MOi_qoq24FY34Smmd5Q-UWVkhUOY2cCKV_GFsXN2Uw8/rs:fit/g:sm/q:90/h:143/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2ODQw/OS0xNzYyMTE1MjMx/LTk4OTcuanBlZw.jpeg"
+    },
+    {
+      "name": "IQ Music Ltd.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 326961,
+      "resource_url": "https://api.discogs.com/labels/326961"
+    },
+    {
+      "name": "Jobete Music, Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 659365,
+      "resource_url": "https://api.discogs.com/labels/659365",
+      "thumbnail_url": "https://i.discogs.com/gF3NNSK7cVDmhAZbr2PpENxm5Dg6bNS9dV00ajQqbwo/rs:fit/g:sm/q:90/h:79/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY1OTM2/NS0xNzEwMTg1NDQ5/LTM3MjIuanBlZw.jpeg"
+    },
+    {
+      "name": "Jobete Music (UK) Ltd.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 172308,
+      "resource_url": "https://api.discogs.com/labels/172308",
+      "thumbnail_url": "https://i.discogs.com/eIN7raWBcOofeIqJEFFvnO-0jBaQphGtqeq0Zb7jVp0/rs:fit/g:sm/q:90/h:66/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE3MjMw/OC0xNDkwMzI2MDUz/LTUyNjkuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Repress",
+        "Stereo"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 8945,
+    "want": 1588,
+    "rating": {
+      "count": 693,
+      "average": 4.48
+    },
+    "submitter": {
+      "username": "streetpreacher",
+      "resource_url": "https://api.discogs.com/users/streetpreacher"
+    },
+    "contributors": [
+      {
+        "username": "streetpreacher",
+        "resource_url": "https://api.discogs.com/users/streetpreacher"
+      },
+      {
+        "username": "EKM",
+        "resource_url": "https://api.discogs.com/users/EKM"
+      },
+      {
+        "username": "trebor31",
+        "resource_url": "https://api.discogs.com/users/trebor31"
+      },
+      {
+        "username": "nikleve",
+        "resource_url": "https://api.discogs.com/users/nikleve"
+      },
+      {
+        "username": "fnord23",
+        "resource_url": "https://api.discogs.com/users/fnord23"
+      },
+      {
+        "username": "PabloPlato",
+        "resource_url": "https://api.discogs.com/users/PabloPlato"
+      },
+      {
+        "username": "jackholexxxx",
+        "resource_url": "https://api.discogs.com/users/jackholexxxx"
+      },
+      {
+        "username": "ostiarius",
+        "resource_url": "https://api.discogs.com/users/ostiarius"
+      },
+      {
+        "username": "gaga789",
+        "resource_url": "https://api.discogs.com/users/gaga789"
+      },
+      {
+        "username": "Timbo1962",
+        "resource_url": "https://api.discogs.com/users/Timbo1962"
+      },
+      {
+        "username": "audiophilly",
+        "resource_url": "https://api.discogs.com/users/audiophilly"
+      },
+      {
+        "username": "recordmule",
+        "resource_url": "https://api.discogs.com/users/recordmule"
+      },
+      {
+        "username": "patrickwe",
+        "resource_url": "https://api.discogs.com/users/patrickwe"
+      },
+      {
+        "username": "UNDERGROUNDSOUNDSMI",
+        "resource_url": "https://api.discogs.com/users/UNDERGROUNDSOUNDSMI"
+      },
+      {
+        "username": "silverhorn",
+        "resource_url": "https://api.discogs.com/users/silverhorn"
+      },
+      {
+        "username": "NLK",
+        "resource_url": "https://api.discogs.com/users/NLK"
+      },
+      {
+        "username": "Klass.Animal",
+        "resource_url": "https://api.discogs.com/users/Klass.Animal"
+      },
+      {
+        "username": "jweijde",
+        "resource_url": "https://api.discogs.com/users/jweijde"
+      },
+      {
+        "username": "MarcelMaria",
+        "resource_url": "https://api.discogs.com/users/MarcelMaria"
+      },
+      {
+        "username": "TReimer",
+        "resource_url": "https://api.discogs.com/users/TReimer"
+      },
+      {
+        "username": "pierreoitmann",
+        "resource_url": "https://api.discogs.com/users/pierreoitmann"
+      },
+      {
+        "username": "idratherbereading",
+        "resource_url": "https://api.discogs.com/users/idratherbereading"
+      },
+      {
+        "username": "izaneybraney",
+        "resource_url": "https://api.discogs.com/users/izaneybraney"
+      },
+      {
+        "username": "cyclotronic",
+        "resource_url": "https://api.discogs.com/users/cyclotronic"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2007-07-25T11:13:47-07:00",
+  "date_changed": "2025-06-05T07:25:16-07:00",
+  "num_for_sale": 18,
+  "lowest_price": 15.99,
+  "master_id": 51256,
+  "master_url": "https://api.discogs.com/masters/51256",
+  "title": "Back To Black",
+  "country": "US",
+  "released": "2007-05-21",
+  "notes": "Repress with Parental Advisory label on bottom left corner of the front cover\nThe [url=http://www.discogs.com/Amy-Winehouse-Back-To-Black/release/2848009]first US pressing[/url] has the Parental Advisory label on the bottom-right corner of the front cover. \n\nAll tracks published by EMI Music Publishing Ltd., except Side Two track 1 published by EMI Music Publishing Ltd., Jobete Music/EMI Music Ltd., Side Two track 4 published by EMI Music Publishing Ltd., IQ Music Ltd.\n\nSide One tracks, 1, 2, 5 & 6 and Side Two tracks 1, 2 & 4: Mixed by Tom Elmhirst for osOHso.\nSide One tracks 3 & 4 and Side Two tracks 1, 3 & 5: Produced by SALAAMREMI.COM. Recorded at Instrument Zoo, Miami, FL. Mixed at Circle House Studios, Miami, FL.\nSide One tracks 1, 2, 5 & 6 and Side Two track 2: Recorded at Dapking Studios, Chung King Studios and Metropolis Studios, London.\nSide Two track 1: Contains a sample interpolation of \"Ain't No Mountain High Enough\", published by Jobete Music Inc. and Jobete Music (UK) Ltd.\nSide Two track 4: Recorded at Daptone Studios by Gabriel Roth, Allido Studios by Vaughan Merrick and Derek Pacuk, and Metropolis Studios by Dom Morley and Matt Paul. Contains a sample interpolation of \"She's A Fox Now\", published by IQ Music Ltd.\n\nManagement: Raye Cosbert for Metropolis Music.\nTour Booking at Helter Skelter.\n\n",
+  "released_formatted": "21 May 2007",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02517 34129 6"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0008994-01A ",
+      "description": "Runout A, etched/Sterling stamped"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0008994-01B ",
+      "description": "Runout B, etched/Sterling stamped"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=b-I2s5zRbHg",
+      "title": "Amy Winehouse - You Know I'm No Good",
+      "description": "The official music video for You Know I'm No Good by Amy Winehouse, directed by Phil Griffin and released in November, 2006. This track is the second single from Back To Black and was nominated for the Ivor Novello Award for Best Song Musically and Lyrica",
+      "duration": 255,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=TJAfLE39ZZ8",
+      "title": "Amy Winehouse - Back To Black",
+      "description": "The official music video for Back To Black by Amy Winehouse, directed by Phil Griffin. This track is the third single from the Back To Black album and was released on 30th April 2007, reaching the top 10 in the UK charts and going on to be certified plati",
+      "duration": 248,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ojdbDYahiCQ",
+      "title": "Amy Winehouse - Tears Dry On Their Own",
+      "description": "The official music video for Tears Dry On Their Own by Amy Winehouse. This track was the fourth single from the album Back To Black and was released on 13th August 2007. The video was shot in Los Angeles and directed by David LaChapelle.\n\nhttps://amywineh",
+      "duration": 195,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KUmZp8pR1uc",
+      "title": "Amy Winehouse - Rehab",
+      "description": "The official music video for Rehab by Amy Winehouse, directed by Phil Griffin and released in September, 2006. This video was nominated for Video Of The Year at the 2007 MTV VMAs. The track itself won the Ivor Novello Award for Best Contemporary Song in M",
+      "duration": 222,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=nMO5Ko_77Hk",
+      "title": "Amy Winehouse - Love Is A Losing Game",
+      "description": "The official music video for Love Is A Losing Game by Amy Winehouse. This track was the fifth and final single from Back To Black, released on 10th December 2007.\n\nhttps://amywinehousefoundation.org\n\nExplore the music of Amy Winehouse: https://amywinehous",
+      "duration": 169,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=IvRnrIv3mpM",
+      "title": "Amy Winehouse - Just Friends",
+      "description": "The official video for Just Friends by Amy Winehouse. The track  featured on the album Back To Black, which was released on 27th October 2006.\n\nhttps://amywinehousefoundation.org\n\nExplore the music of Amy Winehouse: https://amywinehouse.lnk.to/streamingID",
+      "duration": 199,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=x_Rkxm3FeLg",
+      "title": "Back To Black (Deluxe album by Amy Winehouse)",
+      "description": "Amy Winehouse - Back To Black\nDeluxe Edition Album\nMore info of this release here:\nhttps://www.discogs.com/release/1278979-Amy-Winehouse-Back-To-Black\n\nInstagram: https://www.instagram.com/uncle_fallen/\n\nCheck THE Chart website:\nhttp://thechart-official.w",
+      "duration": 122,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Contemporary R&B",
+    "Soul"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Rehab",
+      "duration": "3:34"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "You Know I'm No Good",
+      "duration": "4:17"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Me & Mr Jones",
+      "duration": "2:33"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Just Friends",
+      "duration": "3:13"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Back To Black",
+      "extraartists": [
+        {
+          "name": "Mark Ronson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 151634,
+          "resource_url": "https://api.discogs.com/artists/151634"
+        }
+      ],
+      "duration": "4:01"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Love Is A Losing Game",
+      "duration": "2:35"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Tears Dry On Their Own",
+      "extraartists": [
+        {
+          "name": "Ashford & Simpson",
+          "anv": "Nickolas Ashford & Valerie Simpson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 15875,
+          "resource_url": "https://api.discogs.com/artists/15875"
+        }
+      ],
+      "duration": "3:06"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Wake Up Alone",
+      "extraartists": [
+        {
+          "name": "Paul Staveley O'Duffy",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 43152,
+          "resource_url": "https://api.discogs.com/artists/43152"
+        }
+      ],
+      "duration": "3:42"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Some Unholy War",
+      "duration": "2:22"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "He Can Only Hold Her",
+      "extraartists": [
+        {
+          "name": "Richard Poindexter",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 669649,
+          "resource_url": "https://api.discogs.com/artists/669649"
+        },
+        {
+          "name": "Robert Poindexter",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 669653,
+          "resource_url": "https://api.discogs.com/artists/669653"
+        }
+      ],
+      "duration": "2:48"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "You Know I'm No Good",
+      "extraartists": [
+        {
+          "name": "Ghostface Killah",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 44958,
+          "resource_url": "https://api.discogs.com/artists/44958"
+        }
+      ],
+      "duration": "3:22"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Andy Mackintosh",
+      "anv": "Andy Macintosh",
+      "join": "",
+      "role": "Alto Saxophone",
+      "tracks": "A1, A5, A6",
+      "id": 416253,
+      "resource_url": "https://api.discogs.com/artists/416253"
+    },
+    {
+      "name": "Chris Davis",
+      "anv": "Chris Davies",
+      "join": "",
+      "role": "Alto Saxophone",
+      "tracks": "A1, A5, A6",
+      "id": 39571,
+      "resource_url": "https://api.discogs.com/artists/39571"
+    },
+    {
+      "name": "Vincent Henry",
+      "anv": "",
+      "join": "",
+      "role": "Alto Saxophone, Flute, Clarinet, Celesta [Celeste]",
+      "tracks": "B1",
+      "id": 221266,
+      "resource_url": "https://api.discogs.com/artists/221266"
+    },
+    {
+      "name": "Gabriel Roth",
+      "anv": "",
+      "join": "",
+      "role": "Arranged By [All Band Arrangements]",
+      "tracks": "A1, A2, A5, A6, B2",
+      "id": 307881,
+      "resource_url": "https://api.discogs.com/artists/307881"
+    },
+    {
+      "name": "Mark Ronson",
+      "anv": "",
+      "join": "",
+      "role": "Arranged By [All Band Arrangements]",
+      "tracks": "A1, A2, A5, A6, B2",
+      "id": 151634,
+      "resource_url": "https://api.discogs.com/artists/151634"
+    },
+    {
+      "name": "Chris Elliott",
+      "anv": "",
+      "join": "",
+      "role": "Arranged By [Orchestra], Conductor [Orchestra]",
+      "tracks": "A1, A5, A6",
+      "id": 345341,
+      "resource_url": "https://api.discogs.com/artists/345341"
+    },
+    {
+      "name": "Amy Winehouse",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals [Background Vocals]",
+      "tracks": "A3, B1, B3, B5",
+      "id": 151223,
+      "resource_url": "https://api.discogs.com/artists/151223"
+    },
+    {
+      "name": "Cochemea Gastelum",
+      "anv": "",
+      "join": "",
+      "role": "Baritone Saxophone",
+      "tracks": "B4",
+      "id": 297831,
+      "resource_url": "https://api.discogs.com/artists/297831"
+    },
+    {
+      "name": "Dave Bishop",
+      "anv": "",
+      "join": "",
+      "role": "Baritone Saxophone",
+      "tracks": "A1, A5, A6",
+      "id": 338791,
+      "resource_url": "https://api.discogs.com/artists/338791"
+    },
+    {
+      "name": "Ian Hendrickson-Smith",
+      "anv": "",
+      "join": "",
+      "role": "Baritone Saxophone",
+      "tracks": "A1, A2",
+      "id": 649064,
+      "resource_url": "https://api.discogs.com/artists/649064"
+    },
+    {
+      "name": "Vincent Henry",
+      "anv": "",
+      "join": "",
+      "role": "Baritone Saxophone",
+      "tracks": "A3, B1",
+      "id": 221266,
+      "resource_url": "https://api.discogs.com/artists/221266"
+    },
+    {
+      "name": "Salaam Remi",
+      "anv": "",
+      "join": "",
+      "role": "Bass",
+      "tracks": "A4, B1, B3, B5",
+      "id": 10421,
+      "resource_url": "https://api.discogs.com/artists/10421"
+    },
+    {
+      "name": "Nick Movshon",
+      "anv": "",
+      "join": "",
+      "role": "Bass Guitar",
+      "tracks": "A1, A2, A5, A6, B2, B4",
+      "id": 308966,
+      "resource_url": "https://api.discogs.com/artists/308966"
+    },
+    {
+      "name": "Bruce Purse",
+      "anv": "",
+      "join": "",
+      "role": "Bass Trumpet, Flugelhorn",
+      "tracks": "A3, A4, B1, B5",
+      "id": 278648,
+      "resource_url": "https://api.discogs.com/artists/278648"
+    },
+    {
+      "name": "Anthony Pleeth",
+      "anv": "",
+      "join": "",
+      "role": "Cello",
+      "tracks": "A1, A5, A6",
+      "id": 338103,
+      "resource_url": "https://api.discogs.com/artists/338103"
+    },
+    {
+      "name": "Joely Koos",
+      "anv": "",
+      "join": "",
+      "role": "Cello",
+      "tracks": "A1, A5, A6",
+      "id": 796602,
+      "resource_url": "https://api.discogs.com/artists/796602"
+    },
+    {
+      "name": "John Heley",
+      "anv": "",
+      "join": "",
+      "role": "Cello",
+      "tracks": "A1, A5, A6",
+      "id": 496516,
+      "resource_url": "https://api.discogs.com/artists/496516"
+    },
+    {
+      "name": "Vincent Henry",
+      "anv": "",
+      "join": "",
+      "role": "Clarinet, Bass Clarinet, Guitar",
+      "tracks": "A4",
+      "id": 221266,
+      "resource_url": "https://api.discogs.com/artists/221266"
+    },
+    {
+      "name": "Isobel Griffiths",
+      "anv": "",
+      "join": "",
+      "role": "Contractor [Orchestra]",
+      "tracks": "A1, A5, A6",
+      "id": 334733,
+      "resource_url": "https://api.discogs.com/artists/334733"
+    },
+    {
+      "name": "Alex Hutchinson",
+      "anv": "",
+      "join": "",
+      "role": "Design",
+      "tracks": "",
+      "id": 1195869,
+      "resource_url": "https://api.discogs.com/artists/1195869"
+    },
+    {
+      "name": "Salaam Remi",
+      "anv": "",
+      "join": "",
+      "role": "Double Bass [Upright Bass]",
+      "tracks": "A3",
+      "id": 10421,
+      "resource_url": "https://api.discogs.com/artists/10421"
+    },
+    {
+      "name": "Homer Steinweiss",
+      "anv": "",
+      "join": "",
+      "role": "Drums",
+      "tracks": "A1, A2, A5, A6, B2, B4",
+      "id": 307876,
+      "resource_url": "https://api.discogs.com/artists/307876"
+    },
+    {
+      "name": "Salaam Remi",
+      "anv": "",
+      "join": "",
+      "role": "Drums",
+      "tracks": "A3, B3, B5",
+      "id": 10421,
+      "resource_url": "https://api.discogs.com/artists/10421"
+    },
+    {
+      "name": "Troy Auxilly-Wilson",
+      "anv": "",
+      "join": "",
+      "role": "Drums",
+      "tracks": "A4, B1, B5",
+      "id": 879304,
+      "resource_url": "https://api.discogs.com/artists/879304"
+    },
+    {
+      "name": "John F. Adams",
+      "anv": "John Adams",
+      "join": "",
+      "role": "Electric Piano [Rhodes]",
+      "tracks": "A4, B5",
+      "id": 698707,
+      "resource_url": "https://api.discogs.com/artists/698707"
+    },
+    {
+      "name": "Dom Morley",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant Recording]",
+      "tracks": "A1, A5, A6, B4",
+      "id": 280213,
+      "resource_url": "https://api.discogs.com/artists/280213"
+    },
+    {
+      "name": "Jesse Gladstone",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant]",
+      "tracks": "A1, A2, A5, A6, B2",
+      "id": 482258,
+      "resource_url": "https://api.discogs.com/artists/482258"
+    },
+    {
+      "name": "Mike Makowski",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant]",
+      "tracks": "A1, A2, A5, A6, B2",
+      "id": 680487,
+      "resource_url": "https://api.discogs.com/artists/680487"
+    },
+    {
+      "name": "Mark Ronson",
+      "anv": "",
+      "join": "",
+      "role": "Finger Snaps [Snaps]",
+      "tracks": "B4",
+      "id": 151634,
+      "resource_url": "https://api.discogs.com/artists/151634"
+    },
+    {
+      "name": "Amy Winehouse",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "A3, A4, B3, B5",
+      "id": 151223,
+      "resource_url": "https://api.discogs.com/artists/151223"
+    },
+    {
+      "name": "Binky Griptite",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "A1, A2, A5, A6, B2, B4",
+      "id": 307877,
+      "resource_url": "https://api.discogs.com/artists/307877"
+    },
+    {
+      "name": "Salaam Remi",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "B1, B3",
+      "id": 10421,
+      "resource_url": "https://api.discogs.com/artists/10421"
+    },
+    {
+      "name": "Thomas Brenneck",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "A1, A2, A5, A6, B2, B4",
+      "id": 392670,
+      "resource_url": "https://api.discogs.com/artists/392670"
+    },
+    {
+      "name": "Vincent Henry",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "A3, A4, B1",
+      "id": 221266,
+      "resource_url": "https://api.discogs.com/artists/221266"
+    },
+    {
+      "name": "Vincent Henry",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "B3",
+      "id": 221266,
+      "resource_url": "https://api.discogs.com/artists/221266"
+    },
+    {
+      "name": "Mark Ronson",
+      "anv": "",
+      "join": "",
+      "role": "Handclaps [Claps]",
+      "tracks": "A1",
+      "id": 151634,
+      "resource_url": "https://api.discogs.com/artists/151634"
+    },
+    {
+      "name": "Vaughan Merrick",
+      "anv": "",
+      "join": "",
+      "role": "Handclaps [Claps]",
+      "tracks": "A1",
+      "id": 456903,
+      "resource_url": "https://api.discogs.com/artists/456903"
+    },
+    {
+      "name": "Helen Tunstall",
+      "anv": "",
+      "join": "",
+      "role": "Harp",
+      "tracks": "A1, A6",
+      "id": 292742,
+      "resource_url": "https://api.discogs.com/artists/292742"
+    },
+    {
+      "name": "Perry Montague-Mason",
+      "anv": "",
+      "join": "",
+      "role": "Leader [Orchestra]",
+      "tracks": "A1, A5, A6",
+      "id": 274701,
+      "resource_url": "https://api.discogs.com/artists/274701"
+    },
+    {
+      "name": "Raye Cosbert",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 1766513,
+      "resource_url": "https://api.discogs.com/artists/1766513"
+    },
+    {
+      "name": "Paul Franklin (3)",
+      "anv": "",
+      "join": "",
+      "role": "Management [Tour Booking]",
+      "tracks": "",
+      "id": 2365543,
+      "resource_url": "https://api.discogs.com/artists/2365543"
+    },
+    {
+      "name": "Gary Noble",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "A3, A4, B3",
+      "id": 195856,
+      "resource_url": "https://api.discogs.com/artists/195856"
+    },
+    {
+      "name": "Gary Noble",
+      "anv": "Gary \"G Major\" Noble",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "A3, A4, B3, B5",
+      "id": 195856,
+      "resource_url": "https://api.discogs.com/artists/195856"
+    },
+    {
+      "name": "Tom Elmhirst",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "A1, A2, A5 to B2, B4, B5",
+      "id": 122559,
+      "resource_url": "https://api.discogs.com/artists/122559"
+    },
+    {
+      "name": "Tom Elmhirst",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "A1, A2, A5, A6, B1, B2, B4",
+      "id": 122559,
+      "resource_url": "https://api.discogs.com/artists/122559"
+    },
+    {
+      "name": "James Wisner",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By [Assisted By]",
+      "tracks": "A3, A4, B3, B5",
+      "id": 767291,
+      "resource_url": "https://api.discogs.com/artists/767291"
+    },
+    {
+      "name": "Matt Paul",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By [Assisted By]",
+      "tracks": "A1, A2, A5, A6, B1, B2, B4",
+      "id": 280212,
+      "resource_url": "https://api.discogs.com/artists/280212"
+    },
+    {
+      "name": "John F. Adams",
+      "anv": "John Adams",
+      "join": "",
+      "role": "Organ",
+      "tracks": "A5, B3, B5",
+      "id": 698707,
+      "resource_url": "https://api.discogs.com/artists/698707"
+    },
+    {
+      "name": "Victor Axelrod",
+      "anv": "",
+      "join": "",
+      "role": "Organ [Wurlitzer], Handclaps [Claps]",
+      "tracks": "A1, A2",
+      "id": 309992,
+      "resource_url": "https://api.discogs.com/artists/309992"
+    },
+    {
+      "name": "Frank Ricotti",
+      "anv": "",
+      "join": "",
+      "role": "Percussion",
+      "tracks": "A1, A5, A6",
+      "id": 81857,
+      "resource_url": "https://api.discogs.com/artists/81857"
+    },
+    {
+      "name": "Sam Koppelman",
+      "anv": "",
+      "join": "",
+      "role": "Percussion",
+      "tracks": "B4",
+      "id": 649079,
+      "resource_url": "https://api.discogs.com/artists/649079"
+    },
+    {
+      "name": "Mischa Richter",
+      "anv": "Mishca Richter",
+      "join": "",
+      "role": "Photography By [Cover, Inner Sleeve]",
+      "tracks": "",
+      "id": 2324074,
+      "resource_url": "https://api.discogs.com/artists/2324074"
+    },
+    {
+      "name": "Alex Lake",
+      "anv": "",
+      "join": "",
+      "role": "Photography By [Inner Sleeve]",
+      "tracks": "",
+      "id": 1832390,
+      "resource_url": "https://api.discogs.com/artists/1832390"
+    },
+    {
+      "name": "Harry Benson (2)",
+      "anv": "",
+      "join": "",
+      "role": "Photography By [Inner Sleeve]",
+      "tracks": "",
+      "id": 2365544,
+      "resource_url": "https://api.discogs.com/artists/2365544"
+    },
+    {
+      "name": "Salaam Remi",
+      "anv": "",
+      "join": "",
+      "role": "Piano",
+      "tracks": "A3, B1",
+      "id": 10421,
+      "resource_url": "https://api.discogs.com/artists/10421"
+    },
+    {
+      "name": "Victor Axelrod",
+      "anv": "",
+      "join": "",
+      "role": "Piano",
+      "tracks": "A1, A2, A5, A6, B2, B4",
+      "id": 309992,
+      "resource_url": "https://api.discogs.com/artists/309992"
+    },
+    {
+      "name": "Vincent Henry",
+      "anv": "",
+      "join": "",
+      "role": "Piano",
+      "tracks": "B1",
+      "id": 221266,
+      "resource_url": "https://api.discogs.com/artists/221266"
+    },
+    {
+      "name": "Mark Ronson",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "A1, A2, A5, A6, B2, B4",
+      "id": 151634,
+      "resource_url": "https://api.discogs.com/artists/151634"
+    },
+    {
+      "name": "Mark Ronson",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "A1, A2, A5, A6, B2, B4, B5",
+      "id": 151634,
+      "resource_url": "https://api.discogs.com/artists/151634"
+    },
+    {
+      "name": "Salaam Remi",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "A3, A4, B1, B3",
+      "id": 10421,
+      "resource_url": "https://api.discogs.com/artists/10421"
+    },
+    {
+      "name": "Salaam Remi",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "A3, A4, B1, B3, B5",
+      "id": 10421,
+      "resource_url": "https://api.discogs.com/artists/10421"
+    },
+    {
+      "name": "P*Nut",
+      "anv": "",
+      "join": "",
+      "role": "Producer [Original Demo]",
+      "tracks": "B4",
+      "id": 208039,
+      "resource_url": "https://api.discogs.com/artists/208039"
+    },
+    {
+      "name": "Derek Pacuk",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "B4",
+      "id": 495622,
+      "resource_url": "https://api.discogs.com/artists/495622"
+    },
+    {
+      "name": "Dom Morley",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "B4",
+      "id": 280213,
+      "resource_url": "https://api.discogs.com/artists/280213"
+    },
+    {
+      "name": "Franklin Socorro",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "A3, A4, B3, B5",
+      "id": 540009,
+      "resource_url": "https://api.discogs.com/artists/540009"
+    },
+    {
+      "name": "Gabriel Roth",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "B4",
+      "id": 307881,
+      "resource_url": "https://api.discogs.com/artists/307881"
+    },
+    {
+      "name": "Mark Ronson",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "A1, A5, A6, B2",
+      "id": 151634,
+      "resource_url": "https://api.discogs.com/artists/151634"
+    },
+    {
+      "name": "Matt Paul",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "B4",
+      "id": 280212,
+      "resource_url": "https://api.discogs.com/artists/280212"
+    },
+    {
+      "name": "Vaughan Merrick",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "A1, A5, A6, B2, B4",
+      "id": 456903,
+      "resource_url": "https://api.discogs.com/artists/456903"
+    },
+    {
+      "name": "Gleyder \"Gee\" Disla",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By [Assisted By]",
+      "tracks": "A3, A4, B1, B3, B5",
+      "id": 879302,
+      "resource_url": "https://api.discogs.com/artists/879302"
+    },
+    {
+      "name": "Shomari \"Sho\" Dillon",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By [Assisted By]",
+      "tracks": "A3, A4, B1, B3, B5",
+      "id": 879303,
+      "resource_url": "https://api.discogs.com/artists/879303"
+    },
+    {
+      "name": "Vincent Henry",
+      "anv": "",
+      "join": "",
+      "role": "Saxophone [Saxophones], Guitar [Guitars]",
+      "tracks": "B5",
+      "id": 221266,
+      "resource_url": "https://api.discogs.com/artists/221266"
+    },
+    {
+      "name": "Mark Ronson",
+      "anv": "",
+      "join": "",
+      "role": "Tambourine",
+      "tracks": "A5",
+      "id": 151634,
+      "resource_url": "https://api.discogs.com/artists/151634"
+    },
+    {
+      "name": "Troy Auxilly-Wilson",
+      "anv": "",
+      "join": "",
+      "role": "Tambourine",
+      "tracks": "B1",
+      "id": 879304,
+      "resource_url": "https://api.discogs.com/artists/879304"
+    },
+    {
+      "name": "Jamie Talbot",
+      "anv": "",
+      "join": "",
+      "role": "Tenor Saxophone",
+      "tracks": "A1, A5, A6",
+      "id": 264175,
+      "resource_url": "https://api.discogs.com/artists/264175"
+    },
+    {
+      "name": "Mike Smith (3)",
+      "anv": "",
+      "join": "",
+      "role": "Tenor Saxophone",
+      "tracks": "A1, A6",
+      "id": 343742,
+      "resource_url": "https://api.discogs.com/artists/343742"
+    },
+    {
+      "name": "Neal Sugarman",
+      "anv": "",
+      "join": "",
+      "role": "Tenor Saxophone",
+      "tracks": "A1, A2, B4",
+      "id": 307875,
+      "resource_url": "https://api.discogs.com/artists/307875"
+    },
+    {
+      "name": "Vincent Henry",
+      "anv": "",
+      "join": "",
+      "role": "Tenor Saxophone",
+      "tracks": "A3, B1",
+      "id": 221266,
+      "resource_url": "https://api.discogs.com/artists/221266"
+    },
+    {
+      "name": "Richard Edwards (2)",
+      "anv": "",
+      "join": "",
+      "role": "Tenor Trombone",
+      "tracks": "A1, A6",
+      "id": 263025,
+      "resource_url": "https://api.discogs.com/artists/263025"
+    },
+    {
+      "name": "Bruce Purse",
+      "anv": "",
+      "join": "",
+      "role": "Trumpet",
+      "tracks": "A4, B1, B5",
+      "id": 278648,
+      "resource_url": "https://api.discogs.com/artists/278648"
+    },
+    {
+      "name": "Dave Guy",
+      "anv": "",
+      "join": "",
+      "role": "Trumpet",
+      "tracks": "A1, A2, B4",
+      "id": 307872,
+      "resource_url": "https://api.discogs.com/artists/307872"
+    },
+    {
+      "name": "Steve Sidwell",
+      "anv": "",
+      "join": "",
+      "role": "Trumpet",
+      "tracks": "A1, A6",
+      "id": 112851,
+      "resource_url": "https://api.discogs.com/artists/112851"
+    },
+    {
+      "name": "Bruce White",
+      "anv": "",
+      "join": "",
+      "role": "Viola",
+      "tracks": "A1, A5, A6",
+      "id": 274521,
+      "resource_url": "https://api.discogs.com/artists/274521"
+    },
+    {
+      "name": "Jon Thorne (3)",
+      "anv": "",
+      "join": "",
+      "role": "Viola",
+      "tracks": "A1, A5, A6",
+      "id": 2132251,
+      "resource_url": "https://api.discogs.com/artists/2132251"
+    },
+    {
+      "name": "Katie Wilkinson",
+      "anv": "",
+      "join": "",
+      "role": "Viola",
+      "tracks": "A1, A5, A6",
+      "id": 359416,
+      "resource_url": "https://api.discogs.com/artists/359416"
+    },
+    {
+      "name": "Rachel Bolt",
+      "anv": "",
+      "join": "",
+      "role": "Viola",
+      "tracks": "A1, A5, A6",
+      "id": 447081,
+      "resource_url": "https://api.discogs.com/artists/447081"
+    },
+    {
+      "name": "Boguslaw Kostecki",
+      "anv": "",
+      "join": "",
+      "role": "Violin",
+      "tracks": "A1, A5, A6",
+      "id": 344538,
+      "resource_url": "https://api.discogs.com/artists/344538"
+    },
+    {
+      "name": "Chris Tombling",
+      "anv": "",
+      "join": "",
+      "role": "Violin",
+      "tracks": "A1, A5, A6",
+      "id": 274873,
+      "resource_url": "https://api.discogs.com/artists/274873"
+    },
+    {
+      "name": "Elizabeth Edwards",
+      "anv": "Liz Edwards",
+      "join": "",
+      "role": "Violin",
+      "tracks": "A1, A5, A6",
+      "id": 414920,
+      "resource_url": "https://api.discogs.com/artists/414920"
+    },
+    {
+      "name": "Everton Nelson",
+      "anv": "",
+      "join": "",
+      "role": "Violin",
+      "tracks": "A1, A5, A6",
+      "id": 136888,
+      "resource_url": "https://api.discogs.com/artists/136888"
+    },
+    {
+      "name": "Jonathan Rees",
+      "anv": "",
+      "join": "",
+      "role": "Violin",
+      "tracks": "A1, A5, A6",
+      "id": 304509,
+      "resource_url": "https://api.discogs.com/artists/304509"
+    },
+    {
+      "name": "Mark Berrow",
+      "anv": "",
+      "join": "",
+      "role": "Violin",
+      "tracks": "A1, A5, A6",
+      "id": 320693,
+      "resource_url": "https://api.discogs.com/artists/320693"
+    },
+    {
+      "name": "Perry Montague-Mason",
+      "anv": "",
+      "join": "",
+      "role": "Violin",
+      "tracks": "A1, A5, A6",
+      "id": 274701,
+      "resource_url": "https://api.discogs.com/artists/274701"
+    },
+    {
+      "name": "Peter Hanson",
+      "anv": "",
+      "join": "",
+      "role": "Violin",
+      "tracks": "A1, A5, A6",
+      "id": 499270,
+      "resource_url": "https://api.discogs.com/artists/499270"
+    },
+    {
+      "name": "Tom Pigott-Smith",
+      "anv": "",
+      "join": "",
+      "role": "Violin",
+      "tracks": "A1, A5, A6",
+      "id": 447074,
+      "resource_url": "https://api.discogs.com/artists/447074"
+    },
+    {
+      "name": "Warren Zielinski",
+      "anv": "",
+      "join": "",
+      "role": "Violin",
+      "tracks": "A1, A5, A6",
+      "id": 392335,
+      "resource_url": "https://api.discogs.com/artists/392335"
+    },
+    {
+      "name": "Amy Winehouse",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 151223,
+      "resource_url": "https://api.discogs.com/artists/151223"
+    },
+    {
+      "name": "Amy Winehouse",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 151223,
+      "resource_url": "https://api.discogs.com/artists/151223"
+    },
+    {
+      "name": "Ashford & Simpson",
+      "anv": "Nickolas Ashford & Valerie Simpson",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "B1",
+      "id": 15875,
+      "resource_url": "https://api.discogs.com/artists/15875"
+    },
+    {
+      "name": "Mark Ronson",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A5",
+      "id": 151634,
+      "resource_url": "https://api.discogs.com/artists/151634"
+    },
+    {
+      "name": "Paul Staveley O'Duffy",
+      "anv": "Paul O'Duffy",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "B2",
+      "id": 43152,
+      "resource_url": "https://api.discogs.com/artists/43152"
+    },
+    {
+      "name": "Richard Poindexter",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "B4",
+      "id": 669649,
+      "resource_url": "https://api.discogs.com/artists/669649"
+    },
+    {
+      "name": "Robert Poindexter",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "B4",
+      "id": 669653,
+      "resource_url": "https://api.discogs.com/artists/669653"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/KnnTUcODdZHdCjxzASPQU8v4f6jhaqu_pwmO8Lyl-Xk/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA2/NzktMTE4NDg2Nzkx/NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/KnnTUcODdZHdCjxzASPQU8v4f6jhaqu_pwmO8Lyl-Xk/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA2/NzktMTE4NDg2Nzkx/NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Z3W6cAIS11L1N_fmi3hbcdQ86Kn5WNbKJSTbxHweZf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA2/NzktMTE4NDg2Nzkx/NC5qcGVn.jpeg",
+      "width": 500,
+      "height": 500
+    }
+  ],
+  "thumb": "https://i.discogs.com/Z3W6cAIS11L1N_fmi3hbcdQ86Kn5WNbKJSTbxHweZf0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjA2/NzktMTE4NDg2Nzkx/NC5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

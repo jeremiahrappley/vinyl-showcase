@@ -1,0 +1,555 @@
+{
+  "id": 2519587,
+  "status": "Accepted",
+  "year": 2010,
+  "resource_url": "https://api.discogs.com/releases/2519587",
+  "uri": "https://www.discogs.com/release/2519587-Sade-Soldier-Of-Love",
+  "artists": [
+    {
+      "name": "Sade",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 19731,
+      "resource_url": "https://api.discogs.com/artists/19731",
+      "thumbnail_url": "https://i.discogs.com/EKLCzSBj-FM3OP9CM29QpcpTh5CBYXee5UsRvteoVNg/rs:fit/g:sm/q:90/h:432/w:537/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE5NzMx/LTEyMTc4NTg3MTcu/anBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Sade",
+  "labels": [
+    {
+      "name": "Music On Vinyl",
+      "catno": "MOVLP216",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 169635,
+      "resource_url": "https://api.discogs.com/labels/169635",
+      "thumbnail_url": "https://i.discogs.com/o8FdZbFylxlL4Mc91n3DX9UWRbDRrqvX1oW98w-DPXA/rs:fit/g:sm/q:90/h:54/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2OTYz/NS0xMjU3MzIyODA5/LmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Sony Music Entertainment",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 29073,
+      "resource_url": "https://api.discogs.com/labels/29073",
+      "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+    },
+    {
+      "name": "Sony Music Entertainment",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 29073,
+      "resource_url": "https://api.discogs.com/labels/29073",
+      "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+    },
+    {
+      "name": "Music On Vinyl B.V.",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 322260,
+      "resource_url": "https://api.discogs.com/labels/322260",
+      "thumbnail_url": "https://i.discogs.com/5FVoyZVu8PNihDy2GUHV60fxBeF2QnBUyrhpo4kbghQ/rs:fit/g:sm/q:90/h:52/w:329/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMyMjI2/MC0xNTkxMTk4NjM1/LTg5NDMuanBlZw.jpeg"
+    },
+    {
+      "name": "Music On Vinyl B.V.",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 322260,
+      "resource_url": "https://api.discogs.com/labels/322260",
+      "thumbnail_url": "https://i.discogs.com/5FVoyZVu8PNihDy2GUHV60fxBeF2QnBUyrhpo4kbghQ/rs:fit/g:sm/q:90/h:52/w:329/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMyMjI2/MC0xNTkxMTk4NjM1/LTg5NDMuanBlZw.jpeg"
+    },
+    {
+      "name": "Record Industry",
+      "catno": "87783",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 267164,
+      "resource_url": "https://api.discogs.com/labels/267164",
+      "thumbnail_url": "https://i.discogs.com/O-Hxe1Kov2i8WglqGPPH_MOH2tRwDR7PcnrGNdcFh7I/rs:fit/g:sm/q:90/h:596/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NzE2/NC0xNjQ4NzExMzM5/LTI1MDQuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue"
+      ]
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 1243,
+    "want": 749,
+    "rating": {
+      "count": 171,
+      "average": 4.63
+    },
+    "submitter": {
+      "username": "Azero_Records",
+      "resource_url": "https://api.discogs.com/users/Azero_Records"
+    },
+    "contributors": [
+      {
+        "username": "Azero_Records",
+        "resource_url": "https://api.discogs.com/users/Azero_Records"
+      },
+      {
+        "username": "Hubor72",
+        "resource_url": "https://api.discogs.com/users/Hubor72"
+      },
+      {
+        "username": "RUNOUT.GROOVE",
+        "resource_url": "https://api.discogs.com/users/RUNOUT.GROOVE"
+      },
+      {
+        "username": "hussar_records",
+        "resource_url": "https://api.discogs.com/users/hussar_records"
+      },
+      {
+        "username": "Silver-Tentacle",
+        "resource_url": "https://api.discogs.com/users/Silver-Tentacle"
+      },
+      {
+        "username": "degm",
+        "resource_url": "https://api.discogs.com/users/degm"
+      },
+      {
+        "username": "motosanta2011",
+        "resource_url": "https://api.discogs.com/users/motosanta2011"
+      },
+      {
+        "username": "William-Lee",
+        "resource_url": "https://api.discogs.com/users/William-Lee"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2010-10-30T11:33:35-07:00",
+  "date_changed": "2018-02-23T08:14:17-08:00",
+  "num_for_sale": 24,
+  "lowest_price": 37.19,
+  "master_id": 226924,
+  "master_url": "https://api.discogs.com/masters/226924",
+  "title": "Soldier Of Love",
+  "country": "Europe",
+  "released": "2010",
+  "notes": "180grs. vinyl\nGlossy gatefold sleeve\n",
+  "released_formatted": "2010",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "8713748980764"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "87783 1/A   MOVLP 216",
+      "description": "Side A runout, etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "87783 1 B   MOVLP 216",
+      "description": "Side B runout, etched"
+    },
+    {
+      "type": "Rights Society",
+      "value": "BIEM/STEMRA"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=IR5_rTCi-Bo",
+      "title": "Sade - Soldier Of Love (Official Music Video)",
+      "description": "Sade – Soldier Of Love (Official Video)\nListen on Spotify -http://smarturl.it/Sade_TopTracks\nListen on Apple Music -http://smarturl.it/SadeEssentials\nAmazon - http://smarturl.it/SadeUCAmz\n\nFollow Sade \nWebsite - http://www.sade.com/\nFacebook - https://w",
+      "duration": 300,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=XoHWjG6LUsA",
+      "title": "Sade - Babyfather (Official Music Video)",
+      "description": "Sade - Babyfather (Official Music Video)\nListen on Spotify -http://smarturl.it/Sade_TopTracks\nListen on Apple Music -http://smarturl.it/SadeEssentials\nAmazon - http://smarturl.it/SadeUCAmz\n\nFollow Sade \nWebsite - http://www.sade.com/\nFacebook - https://ww",
+      "duration": 250,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=WxBH-nJ3qKI",
+      "title": "In Another Time",
+      "description": "Provided to YouTube by RCA Records Label\n\nIn Another Time · Sade\n\nSoldier of Love\n\n℗ 2010 Sony Music Entertainment UK Limited\n\nReleased on: 2010-02-08\n\nProgrammer, Composer, Lyricist, Producer: Sade Adu\nKeyboards, Programmer, Composer, Lyricist: Andrew Ha",
+      "duration": 305,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=AI7rnhXc8jo",
+      "title": "SADE — SOLDIER OF LOVE『 2010・FULL ALBUM 』",
+      "description": "SADE — SOLDIER OF LOVE『 2010・FULL ALBUM 』\n00:00 SADE・THE MOON AND THE SKY\n04:27 SADE・SOLDIER OF LOVE\n10:24 SADE・MORNING BIRD\n14:18 SADE・BABYFATHER\n18:57 SADE・LONG HARD ROAD\n21:58 SADE・BE THAT EASY\n25:37 SADE・BRING ME HOME\n29:44 SADE・IN ANOTHER TIME\n34:49 ",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=XoHWjG6LUsA",
+      "title": "Sade - Babyfather - Official - 2010",
+      "description": "Sade - Babyfather \nDirector - Sophie Muller - May 2010\nThe official YouTube channel for the British iconic band Sade \n \nwww.sade.com\n \nSade (vocals)\nStuart Matthewman (saxophone / guitar)\nAndrew Hale (keyboards)\nPaul Spencer Denman (bass)\n \nSpotify  http:",
+      "duration": 250,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=RkIOm_q2FmA",
+      "title": "SADE ~ Long Hard Road",
+      "description": "Artist: Sade\nAlbum: Soldier of Love\nReleased: 2010\nGenres: Adult contemporary, Pop\nChoreographed and Performed by Harriet Waghorn and Troy Savic\nWritten and Directed by Rogerio Silva\n~\nHappiness is a personal decision.\nCry. Forgive. Learn. Move on. And ev",
+      "duration": 185,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Gjzhi6aHU74",
+      "title": "Sade - Morning Bird (Live 2011)",
+      "description": "Sade – Morning Bird (Live 2011)\nListen on Spotify -http://smarturl.it/Sade_TopTracks\nListen on Apple Music -http://smarturl.it/SadeEssentials\nAmazon - http://smarturl.it/SadeUCAmz\n\nFollow Sade \nWebsite - http://www.sade.com/\nFacebook - https://www.faceboo",
+      "duration": 280,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Soul"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "The Moon And The Sky",
+      "extraartists": [
+        {
+          "name": "Mark Stent",
+          "anv": "Mark 'Spike' Stent",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 211449,
+          "resource_url": "https://api.discogs.com/artists/211449"
+        }
+      ],
+      "duration": "4:28"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Soldier Of Love",
+      "extraartists": [
+        {
+          "name": "Paul S. Denman",
+          "anv": "P. Denman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 306864,
+          "resource_url": "https://api.discogs.com/artists/306864"
+        }
+      ],
+      "duration": "5:59"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Morning Bird",
+      "duration": "3:55"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Babyfather",
+      "extraartists": [
+        {
+          "name": "Mark Stent",
+          "anv": "Mark 'Spike' Stent",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 211449,
+          "resource_url": "https://api.discogs.com/artists/211449"
+        },
+        {
+          "name": "Andrew Nichols",
+          "anv": "Andrew Nicholls",
+          "join": "",
+          "role": "Producer [Additional Pre Production], Engineer",
+          "tracks": "",
+          "id": 389199,
+          "resource_url": "https://api.discogs.com/artists/389199"
+        },
+        {
+          "name": "Andrew Nichols",
+          "anv": "A. Nicholls",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 389199,
+          "resource_url": "https://api.discogs.com/artists/389199"
+        },
+        {
+          "name": "Juan Janes",
+          "anv": "J. Janes",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1714479,
+          "resource_url": "https://api.discogs.com/artists/1714479"
+        }
+      ],
+      "duration": "4:40"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Long Hard Road",
+      "extraartists": [
+        {
+          "name": "Juan Janes",
+          "anv": "J. Janes",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 1714479,
+          "resource_url": "https://api.discogs.com/artists/1714479"
+        },
+        {
+          "name": "Andrew Nichols",
+          "anv": "Andrew Nicholls",
+          "join": "",
+          "role": "Producer [Additional Pre Production], Engineer",
+          "tracks": "",
+          "id": 389199,
+          "resource_url": "https://api.discogs.com/artists/389199"
+        },
+        {
+          "name": "Andrew Nichols",
+          "anv": "A. Nicholls",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 389199,
+          "resource_url": "https://api.discogs.com/artists/389199"
+        },
+        {
+          "name": "Juan Janes",
+          "anv": "J. Janes",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1714479,
+          "resource_url": "https://api.discogs.com/artists/1714479"
+        }
+      ],
+      "duration": "3:03"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Be That Easy",
+      "duration": "3:41"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Bring Me Home",
+      "duration": "4:09"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "In Another Time",
+      "extraartists": [
+        {
+          "name": "Michael H. Brauer",
+          "anv": "Michael Brauer",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 154230,
+          "resource_url": "https://api.discogs.com/artists/154230"
+        }
+      ],
+      "duration": "5:06"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Skin",
+      "extraartists": [
+        {
+          "name": "Paul S. Denman",
+          "anv": "P. Denman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 306864,
+          "resource_url": "https://api.discogs.com/artists/306864"
+        }
+      ],
+      "duration": "4:13"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "The Safest Place",
+      "duration": "2:46"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Mike Pela",
+      "anv": "",
+      "join": "",
+      "role": "Co-producer, Engineer, Mixed By",
+      "tracks": "A2 ,A3, A5 to B2, B4 ,B5",
+      "id": 176429,
+      "resource_url": "https://api.discogs.com/artists/176429"
+    },
+    {
+      "name": "Tom Hingston Studio",
+      "anv": "",
+      "join": "",
+      "role": "Design",
+      "tracks": "",
+      "id": 1832523,
+      "resource_url": "https://api.discogs.com/artists/1832523"
+    },
+    {
+      "name": "Sade Adu",
+      "anv": "S. Adu",
+      "join": "",
+      "role": "Lyrics By, Written-By",
+      "tracks": "",
+      "id": 482893,
+      "resource_url": "https://api.discogs.com/artists/482893"
+    },
+    {
+      "name": "Roger Davies",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 313361,
+      "resource_url": "https://api.discogs.com/artists/313361"
+    },
+    {
+      "name": "John Davis (4)",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 366507,
+      "resource_url": "https://api.discogs.com/artists/366507"
+    },
+    {
+      "name": "Sophie Muller",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 347690,
+      "resource_url": "https://api.discogs.com/artists/347690"
+    },
+    {
+      "name": "Sade",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 19731,
+      "resource_url": "https://api.discogs.com/artists/19731"
+    },
+    {
+      "name": "Andrew Hale",
+      "anv": "A. Hale",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A1 to A3, B2 to B5",
+      "id": 209279,
+      "resource_url": "https://api.discogs.com/artists/209279"
+    },
+    {
+      "name": "Stuart Matthewman",
+      "anv": "S. Matthewman",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A1 to A4, B1 to B4",
+      "id": 9049,
+      "resource_url": "https://api.discogs.com/artists/9049"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/tHHg8WSLdwGC1OC1t8QUHjxoPZrtm7qVMjGh_MVhQCY/rs:fit/g:sm/q:90/h:420/w:415/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk1/ODctMTM2MjA3MDIx/MC03MDA4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/tHHg8WSLdwGC1OC1t8QUHjxoPZrtm7qVMjGh_MVhQCY/rs:fit/g:sm/q:90/h:420/w:415/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk1/ODctMTM2MjA3MDIx/MC03MDA4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/X8_pMLNe89wUq7a7l_slwMILVl_07wQQHA7L5S14LSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk1/ODctMTM2MjA3MDIx/MC03MDA4LmpwZWc.jpeg",
+      "width": 415,
+      "height": 420
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/3MIqYEqtsSvOlpa_1c_OfQD0Vs87JOlBFv9Iul_AhT8/rs:fit/g:sm/q:90/h:210/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk1/ODctMTM2MjA3MDIy/Ni0yMjA4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/3MIqYEqtsSvOlpa_1c_OfQD0Vs87JOlBFv9Iul_AhT8/rs:fit/g:sm/q:90/h:210/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk1/ODctMTM2MjA3MDIy/Ni0yMjA4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/oytFgpEgBHvMBz2ZvfjzzHmVCudiSVA4g2W2EfxoSwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk1/ODctMTM2MjA3MDIy/Ni0yMjA4LmpwZWc.jpeg",
+      "width": 420,
+      "height": 210
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/CN59vzPrwaqMsBgMGAa86OYqr2n9s0P-SZEarK7vRMg/rs:fit/g:sm/q:90/h:420/w:414/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk1/ODctMTM2MjA3MDIx/OS0xNTk5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/CN59vzPrwaqMsBgMGAa86OYqr2n9s0P-SZEarK7vRMg/rs:fit/g:sm/q:90/h:420/w:414/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk1/ODctMTM2MjA3MDIx/OS0xNTk5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/WQ93Y4_k27pRByczku_kcddszjrHgpJc2FKsZBWYa1I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk1/ODctMTM2MjA3MDIx/OS0xNTk5LmpwZWc.jpeg",
+      "width": 414,
+      "height": 420
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/5UhJXqrgcJ6fjraO2Eqcs1ZqahR0LzpJ6X38OVFa3F8/rs:fit/g:sm/q:90/h:412/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk1/ODctMTM2MjA3MDI0/OS05MjU4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/5UhJXqrgcJ6fjraO2Eqcs1ZqahR0LzpJ6X38OVFa3F8/rs:fit/g:sm/q:90/h:412/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk1/ODctMTM2MjA3MDI0/OS05MjU4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/aA_syN5pPN_4WGDL6Q9ArqAm13RLPidpnBWL-t9XKPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk1/ODctMTM2MjA3MDI0/OS05MjU4LmpwZWc.jpeg",
+      "width": 420,
+      "height": 412
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/QO23IuMWsJVi5Wgr4jyb21ZqNJEa8KxqyxBFGayU5uU/rs:fit/g:sm/q:90/h:420/w:411/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk1/ODctMTM2MjA3MDI1/Ni05MjQ2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/QO23IuMWsJVi5Wgr4jyb21ZqNJEa8KxqyxBFGayU5uU/rs:fit/g:sm/q:90/h:420/w:411/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk1/ODctMTM2MjA3MDI1/Ni05MjQ2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/2wS5AGEjSZNXZuMfBTAANUWJoPBenGGyhmIJp-gxAq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk1/ODctMTM2MjA3MDI1/Ni05MjQ2LmpwZWc.jpeg",
+      "width": 411,
+      "height": 420
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/9UWXfmSa-ARNInBCv-gTTLX5IWUd_CYSSZHgMemOnQk/rs:fit/g:sm/q:90/h:415/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk1/ODctMTM2MjA3MDIz/NC05OTQzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/9UWXfmSa-ARNInBCv-gTTLX5IWUd_CYSSZHgMemOnQk/rs:fit/g:sm/q:90/h:415/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk1/ODctMTM2MjA3MDIz/NC05OTQzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/Q_9An_4Dy0Bc2_Anb6j9QhWJuTq4qaeAPp_4V83XdZc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk1/ODctMTM2MjA3MDIz/NC05OTQzLmpwZWc.jpeg",
+      "width": 420,
+      "height": 415
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/WY8jnt5wI98gLzhJz6n2v9KrUtTs1my_Xd17VXIfIOM/rs:fit/g:sm/q:90/h:417/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk1/ODctMTM2MjA3MDI0/MS0yNTQ5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/WY8jnt5wI98gLzhJz6n2v9KrUtTs1my_Xd17VXIfIOM/rs:fit/g:sm/q:90/h:417/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk1/ODctMTM2MjA3MDI0/MS0yNTQ5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/b7Gw5UB52F1uCH0Z-b5ZYryXYvmGlIn75fx3NNH91uU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk1/ODctMTM2MjA3MDI0/MS0yNTQ5LmpwZWc.jpeg",
+      "width": 420,
+      "height": 417
+    }
+  ],
+  "thumb": "https://i.discogs.com/X8_pMLNe89wUq7a7l_slwMILVl_07wQQHA7L5S14LSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTk1/ODctMTM2MjA3MDIx/MC03MDA4LmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

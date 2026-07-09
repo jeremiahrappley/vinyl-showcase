@@ -1,0 +1,587 @@
+{
+  "id": 31770719,
+  "status": "Accepted",
+  "year": 2024,
+  "resource_url": "https://api.discogs.com/releases/31770719",
+  "uri": "https://www.discogs.com/release/31770719-Purple-Disco-Machine-Paradise",
+  "artists": [
+    {
+      "name": "Purple Disco Machine",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 2188903,
+      "resource_url": "https://api.discogs.com/artists/2188903",
+      "thumbnail_url": "https://i.discogs.com/5HknJ2AqkyiDdEPUZffWVg3kxAp0CuPgELpdacIDkEc/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxODg5/MDMtMTUwODc4OTIw/Ny03MjgzLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Purple Disco Machine",
+  "labels": [
+    {
+      "name": "Columbia",
+      "catno": "198028333412",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "text": "Transparent Purple, Signed Stamp"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 497,
+    "want": 112,
+    "rating": {
+      "count": 46,
+      "average": 4.74
+    },
+    "submitter": {
+      "username": "united-dj-team",
+      "resource_url": "https://api.discogs.com/users/united-dj-team"
+    },
+    "contributors": [
+      {
+        "username": "united-dj-team",
+        "resource_url": "https://api.discogs.com/users/united-dj-team"
+      },
+      {
+        "username": "TheVinylsMania",
+        "resource_url": "https://api.discogs.com/users/TheVinylsMania"
+      },
+      {
+        "username": "Father-Funk",
+        "resource_url": "https://api.discogs.com/users/Father-Funk"
+      },
+      {
+        "username": "giacomo271",
+        "resource_url": "https://api.discogs.com/users/giacomo271"
+      },
+      {
+        "username": "256Pi",
+        "resource_url": "https://api.discogs.com/users/256Pi"
+      },
+      {
+        "username": "donjorge",
+        "resource_url": "https://api.discogs.com/users/donjorge"
+      },
+      {
+        "username": "Tguis17",
+        "resource_url": "https://api.discogs.com/users/Tguis17"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2024-09-18T23:10:44-07:00",
+  "date_changed": "2025-04-22T09:15:36-07:00",
+  "num_for_sale": 15,
+  "lowest_price": 43.59,
+  "master_id": 3601907,
+  "master_url": "https://api.discogs.com/masters/3601907",
+  "title": "Paradise",
+  "country": "Europe",
+  "released": "2024-09-20",
+  "notes": "Sony Music Italy offers this version in its online store exclusively with autograph. This is a 12\" card with the cover of the album as an insert.\nAll versions come with 12 page booklet.",
+  "released_formatted": "20 Sep 2024",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "198028333412"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=Z_pqhk1DrqY",
+      "title": "Sophie and the Giants x Purple Disco Machine - Paradise (Official Music Video)",
+      "description": "Sophie and the Giants x Purple Disco Machine - Paradise (Official Music Video)\n► Click here to stream the new single: https://umg.lnk.tt/_Paradise_\n\n► Follow Sophie and the Giants: \nWebsite: https://www.sophieandthegiants.com/\nFacebook: https://www.facebo",
+      "duration": 200,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=RLak8zvRGaA",
+      "title": "Purple Disco Machine - Paradise - Behind The Album - Dirty Pleasures x Lorenz Rhode feat.Jake Shears",
+      "description": "\"Purple Disco Machine - Paradise - Behind The Album - Dirty Pleasures x Lorenz Rhode feat. Jake Shears\n\nSubscribe to Purple Disco Machine: https://pdm.lnk.to/Follow\nListen to Paradise here: http://pdm.link.to/Paradise\nWatch the visualizer here: https://ww",
+      "duration": 202,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=AtmbM9n057M",
+      "title": "Purple Disco Machine - Paradise - Behind The Album - W.T.P. with Metronomy",
+      "description": "\"Purple Disco Machine - Paradise - Behind The Album - W.T.P. with Metronomy\n\nSubscribe to Purple Disco Machine: https://pdm.lnk.to/Follow\nListen to Paradise here: http://pdm.link.to/Paradise\nWatch the visualizer for W.T.P. here: https://www.youtube.com/wa",
+      "duration": 218,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=mnmgsU_bpAs",
+      "title": "Purple Disco Machine - Paradise - Behind The Album - Beat Of Your Heart with ÁSDÍS",
+      "description": "\"Purple Disco Machine - Paradise - Behind The Album - Beat Of Your Heart with ÁSDÍS\n\nSubscribe to Purple Disco Machine: https://pdm.lnk.to/Follow\nListen to Paradise here: http://pdm.link.to/Paradise\nWatch the video for Beat Of Your Heart here: https://www",
+      "duration": 147,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=N41Fu9TUXaE",
+      "title": "PURPLE DISCO MACHINE - \"BEAT OF YOUR HEART\" - PURPLE GATEFOLD ALBUM 2024 - REMASTERED HQ AUDIO* - 4K",
+      "description": "If you enjoy what I do, you can say \"Thank you\" by buying me a coffee at the following link:\nhttps://buymeacoffee.com/noname.vinyl.recordings\nThank you so much 🤍\n\nReleased - 20. Sept. 2024 - Europe\nVinyl LP Gatefold Album Stereo - Vinyl 12`` - 30,48 CM (3",
+      "duration": 239,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Pop"
+  ],
+  "styles": [
+    "Disco",
+    "House"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "W.T.P.",
+      "extraartists": [
+        {
+          "name": "Metronomy",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 114350,
+          "resource_url": "https://api.discogs.com/artists/114350"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Beat Of Your Heart",
+      "extraartists": [
+        {
+          "name": "Ásdís María Viðarsdóttir",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 5025572,
+          "resource_url": "https://api.discogs.com/artists/5025572"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Dirty Pleasures",
+      "extraartists": [
+        {
+          "name": "Jake Shears",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 78572,
+          "resource_url": "https://api.discogs.com/artists/78572"
+        },
+        {
+          "name": "Lorenz Rhode",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 285220,
+          "resource_url": "https://api.discogs.com/artists/285220"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Honey Boy",
+      "extraartists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 5748741,
+          "resource_url": "https://api.discogs.com/artists/5748741"
+        },
+        {
+          "name": "Nile Rodgers",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 49758,
+          "resource_url": "https://api.discogs.com/artists/49758"
+        },
+        {
+          "name": "Shenseea",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 5560721,
+          "resource_url": "https://api.discogs.com/artists/5560721"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Paradisco",
+      "extraartists": [
+        {
+          "name": "Dabeull",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1613326,
+          "resource_url": "https://api.discogs.com/artists/1613326"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Paradise",
+      "extraartists": [
+        {
+          "name": "Sophie And The Giants",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 7947196,
+          "resource_url": "https://api.discogs.com/artists/7947196"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Bad Company",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Contact",
+      "extraartists": [
+        {
+          "name": "TOBi (74)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 7409520,
+          "resource_url": "https://api.discogs.com/artists/7409520"
+        },
+        {
+          "name": "Yung Bae",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 4015361,
+          "resource_url": "https://api.discogs.com/artists/4015361"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Can't Stop Loving You",
+      "extraartists": [
+        {
+          "name": "Morgan (91)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 7266747,
+          "resource_url": "https://api.discogs.com/artists/7266747"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Substitution",
+      "extraartists": [
+        {
+          "name": "Julian Perretta",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1881812,
+          "resource_url": "https://api.discogs.com/artists/1881812"
+        },
+        {
+          "name": "Kungs",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 4394625,
+          "resource_url": "https://api.discogs.com/artists/4394625"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Heartbreaker",
+      "extraartists": [
+        {
+          "name": "Chromeo",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 50655,
+          "resource_url": "https://api.discogs.com/artists/50655"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "Something On My Mind",
+      "extraartists": [
+        {
+          "name": "Duke Dumont",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 625833,
+          "resource_url": "https://api.discogs.com/artists/625833"
+        },
+        {
+          "name": "Nothing But Thieves",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 4234599,
+          "resource_url": "https://api.discogs.com/artists/4234599"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Higher Ground",
+      "extraartists": [
+        {
+          "name": "Roosevelt (4)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2929769,
+          "resource_url": "https://api.discogs.com/artists/2929769"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "All My Life",
+      "extraartists": [
+        {
+          "name": "The Magician (2)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 508472,
+          "resource_url": "https://api.discogs.com/artists/508472"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Die Maschine",
+      "extraartists": [
+        {
+          "name": "Friedrich Liechtenstein",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 481720,
+          "resource_url": "https://api.discogs.com/artists/481720"
+        }
+      ],
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/mi4VK1vNs3FvmrBsuijT4d4c9fV72ZfH7oyI9jgBA38/rs:fit/g:sm/q:90/h:590/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MzIzODUy/NzQtODQ2MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/mi4VK1vNs3FvmrBsuijT4d4c9fV72ZfH7oyI9jgBA38/rs:fit/g:sm/q:90/h:590/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MzIzODUy/NzQtODQ2MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/3NcPLJiumCGEEnc6vGBe-tQ_oKURYaIgY_g0iit0Npo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MzIzODUy/NzQtODQ2MS5qcGVn.jpeg",
+      "width": 585,
+      "height": 590
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/bkhWJtM63-1oPEt0L7pb1_T5YyH7yGgSTM1Z8l09c3M/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTIy/MjktMjU3OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/bkhWJtM63-1oPEt0L7pb1_T5YyH7yGgSTM1Z8l09c3M/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTIy/MjktMjU3OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/xeyYT-XWZvzzu1bBV2Es_qvatN3_RZ0Gw7Pyf1l-CGI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTIy/MjktMjU3OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/h4JZD93HQDoMt9N0IXKMRmbyLi_md9BnfhjGtzF245U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4OTMx/ODAtNjkxMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/h4JZD93HQDoMt9N0IXKMRmbyLi_md9BnfhjGtzF245U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4OTMx/ODAtNjkxMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/oDW5H4219KaK3X31QHVITkXAHESrA1OTU-XsUAqZlWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4OTMx/ODAtNjkxMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/xT5hGMOSjqo846FCDCjI1swECsUImRJOKyt76GqUVa8/rs:fit/g:sm/q:90/h:302/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MDYtNDQyMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/xT5hGMOSjqo846FCDCjI1swECsUImRJOKyt76GqUVa8/rs:fit/g:sm/q:90/h:302/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MDYtNDQyMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/6H-_MkLCvOaQe_-M1h_Yv1ySvPpAOfgJ8vl1YI68epA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MDYtNDQyMC5qcGVn.jpeg",
+      "width": 600,
+      "height": 302
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/m-_ic2waJ3sQy92mjx3SCHO_ZK-tPD52t4SJsr_nI7M/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MjAtNzQ2OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/m-_ic2waJ3sQy92mjx3SCHO_ZK-tPD52t4SJsr_nI7M/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MjAtNzQ2OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/-VNrJO-mg0CU0cq9QAesSQzEuztPPNTadJf1trCgoQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MjAtNzQ2OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 595
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/RvrzqdVuy-YUA7wt-lGaCszkHIpfXnRsL1G5sxTXUh8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MjMtOTk4MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/RvrzqdVuy-YUA7wt-lGaCszkHIpfXnRsL1G5sxTXUh8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MjMtOTk4MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/mGReBZubDHLxoZm6Vklnig3_L577zpP-J_jomuzPXG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MjMtOTk4MC5qcGVn.jpeg",
+      "width": 597,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/bPCWOc_v5ToY1gsGiga-wkrTj4qByWtfCOAeAx-XE6k/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MjQtMzU4Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/bPCWOc_v5ToY1gsGiga-wkrTj4qByWtfCOAeAx-XE6k/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MjQtMzU4Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/9eyvOIfEFi1hRhuQsN74lQHp_suWS-VFLFqV44apy-8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MjQtMzU4Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/2cKWhnMDUgrjsQa6vCq3t2y_i37P3HjPG10I5hIjtJA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MjYtODA0NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/2cKWhnMDUgrjsQa6vCq3t2y_i37P3HjPG10I5hIjtJA/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MjYtODA0NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/WI4YRmsFFnkHRvxO7RZn9oHZLkbHAUikHhiWRIZ9mts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MjYtODA0NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 595
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/wGqu_V0mbz2QTcT1DFjNVBQMVehbfoL8IHOz6hqUbvg/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MjgtOTk2MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/wGqu_V0mbz2QTcT1DFjNVBQMVehbfoL8IHOz6hqUbvg/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MjgtOTk2MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/fQshvuqbW1A_HHLVwNkaSxSIsuOlJNv0crRaWtdEgJU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MjgtOTk2MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 591
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/uBgnpRsGZSkvGXpplzIi_TqvVP9OWAkmhIEE39Yphxk/rs:fit/g:sm/q:90/h:305/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MzAtNTE5OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/uBgnpRsGZSkvGXpplzIi_TqvVP9OWAkmhIEE39Yphxk/rs:fit/g:sm/q:90/h:305/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MzAtNTE5OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/k7cLxvT5y44lZhu3ho0JhfDgNxyjk4zz8Nsg_lPd1LU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MzAtNTE5OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 305
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/czdnWcgO0aDAQpSbrGIC5XoKaOFHWNUhnK7hQLyC9dM/rs:fit/g:sm/q:90/h:288/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MzEtOTYxMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/czdnWcgO0aDAQpSbrGIC5XoKaOFHWNUhnK7hQLyC9dM/rs:fit/g:sm/q:90/h:288/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MzEtOTYxMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/mOwIdtEamYGPq-4X2d2dTZoPy1aRRZpOtICy9TN02Zc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MzEtOTYxMy5qcGVn.jpeg",
+      "width": 600,
+      "height": 288
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/CQTVvXBNiAvHjvNoytuuzFjVuCN5RTKbQURjMNlSJDY/rs:fit/g:sm/q:90/h:306/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MzMtNTQyMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/CQTVvXBNiAvHjvNoytuuzFjVuCN5RTKbQURjMNlSJDY/rs:fit/g:sm/q:90/h:306/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MzMtNTQyMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/oWjBXXIQzQ5LRRx1deiW1Am3hz5j9rnqElx7MnaAigU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MzMtNTQyMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 306
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/gytW-IEkpajuzbEMoGIblAvWH7W9bF9AhhmWQGfCgJo/rs:fit/g:sm/q:90/h:302/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MzQtODQxMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/gytW-IEkpajuzbEMoGIblAvWH7W9bF9AhhmWQGfCgJo/rs:fit/g:sm/q:90/h:302/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MzQtODQxMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/d9RsnBftNURwxrO0gyJfj3wwr29_Ih1Tmb7dU9g9g-s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MzQtODQxMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 302
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/B5-frah222iZAN4Nt2HjpzDyBWI7kY6P0jPzGvRJbvE/rs:fit/g:sm/q:90/h:301/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MzUtMzI1Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/B5-frah222iZAN4Nt2HjpzDyBWI7kY6P0jPzGvRJbvE/rs:fit/g:sm/q:90/h:301/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MzUtMzI1Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/2VbVuNZ6rTn4t4bQz5-bH8Wq9NW6lk4c7b6HHVN1zUA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MzUtMzI1Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 301
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/kNE16mMBJcQPokEe9kEXt4pWy_vpxWAVaAQ5pZ391wE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MzctMTc0OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/kNE16mMBJcQPokEe9kEXt4pWy_vpxWAVaAQ5pZ391wE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MzctMTc0OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/S46TFJsNFKQCwmDutztUdvonnpvX9b3gcLxS90KvMG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTM4/MzctMTc0OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/3Tw-v9F-q159_9K04rrAy0uVfZ-UacJE1OVyLtbZPKU/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTI5/NjctMjkxOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/3Tw-v9F-q159_9K04rrAy0uVfZ-UacJE1OVyLtbZPKU/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTI5/NjctMjkxOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/2C7n9SGXMmMgTMCBOPb100KabW6iJc9fN06K-z1zyUc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MjY4NTI5/NjctMjkxOC5qcGVn.jpeg",
+      "width": 450,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/3NcPLJiumCGEEnc6vGBe-tQ_oKURYaIgY_g0iit0Npo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzcw/NzE5LTE3MzIzODUy/NzQtODQ2MS5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

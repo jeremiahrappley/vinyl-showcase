@@ -1,0 +1,347 @@
+{
+  "id": 35381431,
+  "status": "Accepted",
+  "year": 2025,
+  "resource_url": "https://api.discogs.com/releases/35381431",
+  "uri": "https://www.discogs.com/release/35381431-Tame-Impala-Deadbeat",
+  "artists": [
+    {
+      "name": "Tame Impala",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 1245513,
+      "resource_url": "https://api.discogs.com/artists/1245513",
+      "thumbnail_url": "https://i.discogs.com/_pZNESCaPzf9bTXRrZjabJO9w0spkDk0q2XRaSnihXY/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyNDU1/MTMtMTQ2NjQ5MTkz/OC04NDAxLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Tame Impala",
+  "labels": [
+    {
+      "name": "Columbia",
+      "catno": "19802956001",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Tame Impala",
+      "catno": "",
+      "entity_type": "6",
+      "entity_type_name": "Licensed From",
+      "id": 4201540,
+      "resource_url": "https://api.discogs.com/labels/4201540"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Sony Music Entertainment",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 29073,
+      "resource_url": "https://api.discogs.com/labels/29073",
+      "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Stereo"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 2725,
+    "want": 625,
+    "rating": {
+      "count": 434,
+      "average": 4.59
+    },
+    "submitter": {
+      "username": "piou-73",
+      "resource_url": "https://api.discogs.com/users/piou-73"
+    },
+    "contributors": [
+      {
+        "username": "piou-73",
+        "resource_url": "https://api.discogs.com/users/piou-73"
+      },
+      {
+        "username": "PetrusM",
+        "resource_url": "https://api.discogs.com/users/PetrusM"
+      },
+      {
+        "username": "idratherbereading",
+        "resource_url": "https://api.discogs.com/users/idratherbereading"
+      },
+      {
+        "username": "J.Ohm",
+        "resource_url": "https://api.discogs.com/users/J.Ohm"
+      },
+      {
+        "username": "BahaMan69",
+        "resource_url": "https://api.discogs.com/users/BahaMan69"
+      },
+      {
+        "username": "Gurinsan",
+        "resource_url": "https://api.discogs.com/users/Gurinsan"
+      },
+      {
+        "username": "teejayniu",
+        "resource_url": "https://api.discogs.com/users/teejayniu"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2025-10-15T06:32:13-07:00",
+  "date_changed": "2025-12-23T12:39:21-08:00",
+  "num_for_sale": 57,
+  "lowest_price": 26.88,
+  "master_id": 4004494,
+  "master_url": "https://api.discogs.com/masters/4004494",
+  "title": "Deadbeat",
+  "country": "US",
+  "released": "2025-10-17",
+  "notes": "Regular black",
+  "released_formatted": "17 Oct 2025",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "198029560015",
+      "description": "Sticker"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "19802956001 A1 = MATT @ METROPOLIS = STEREO DEADBEAT SOUND",
+      "description": "Side A (Etched)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "19802956001 B1",
+      "description": "Side B (Etched)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "19802956001 C1 = MATT @ METROPOLIS =",
+      "description": "Side C (Etched)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "19802956001 D1",
+      "description": "Side D (Etched)"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=xnP7qKxwzjg",
+      "title": "Tame Impala - Dracula (Official Video)",
+      "description": "Music video by Tame Impala performing Dracula (Official Video).(C) 2025 Columbia Records, a Division of Sony Music Entertainment, under exclusive license from Tame Impala",
+      "duration": 234,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=s3a4OQR-10M",
+      "title": "Tame Impala - Loser (Official Video)",
+      "description": "Official video for “Loser” by Tame Impala out now: https://tameimpala.lnk.to/Loser\n \nDirected & Edited by Sam Kristofski\nCreative Direction by Imogene Strauss\nProduced by Screens, Iconoclast, & Good World Creative\n \nFollow Tame Impala\nInstagram - https://",
+      "duration": 268,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ulkdUfItyxI",
+      "title": "Tame Impala - End Of Summer (Official Video)",
+      "description": "Official video for “End of Summer” by Tame Impala out now: https://tameimpala.lnk.to/endofsummer\n \nThis video includes flashing imagery that may affect photosensitive viewers\n \nDirected & Edited by Julian Klincewicz\nCreative Direction by Imogene Strauss\nT",
+      "duration": 568,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=xnP7qKxwzjg",
+      "title": "Tame Impala - Dracula (Official Video)",
+      "description": "Music video by Tame Impala performing Dracula (Official Video).(C) 2025 Columbia Records, a Division of Sony Music Entertainment, under exclusive license from Tame Impala",
+      "duration": 234,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=s3a4OQR-10M",
+      "title": "Tame Impala - Loser (Official Video)",
+      "description": "Official video for “Loser” by Tame Impala out now: https://tameimpala.lnk.to/Loser\n \nDirected & Edited by Sam Kristofski\nCreative Direction by Imogene Strauss\nProduced by Screens, Iconoclast, & Good World Creative\n \nFollow Tame Impala\nInstagram - https://",
+      "duration": 268,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ulkdUfItyxI",
+      "title": "Tame Impala - End Of Summer (Official Video)",
+      "description": "Official video for “End of Summer” by Tame Impala out now: https://tameimpala.lnk.to/endofsummer\n \nThis video includes flashing imagery that may affect photosensitive viewers\n \nDirected & Edited by Julian Klincewicz\nCreative Direction by Imogene Strauss\nT",
+      "duration": 568,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=6HXfFiPuCkw",
+      "title": "Tame Impala - Deadbeat CD Unboxing",
+      "description": "In this video I show you the Deadbeat CD by Tame Impala.\nI unbox the product completely for you and show you every content in detail.\n► You can buy the album here:\nCD: https://amzn.to/4osWz3G\nVinyl: https://amzn.to/3WaptcM\nDigital: https://amzn.to/4nfY5oF",
+      "duration": 125,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Pop"
+  ],
+  "styles": [
+    "House",
+    "Dance-pop",
+    "Tech House",
+    "Alt-Pop"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "My Old Ways",
+      "duration": "4:58"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "No Reply",
+      "duration": "3:35"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Dracula",
+      "duration": "3:25"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Loser",
+      "duration": "3:43"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Oblivion",
+      "duration": "4:28"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Not My World",
+      "duration": "4:14"
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Piece Of Heaven",
+      "duration": "4:44"
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Obsolete",
+      "duration": "4:23"
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Ethereal Connection",
+      "duration": "7:42"
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "See You On Monday (You're Lost)",
+      "duration": "3:34"
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Afterthought",
+      "duration": "4:01"
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "End Of Summer",
+      "duration": "7:14"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/oT6_ibmej2-ZbikiW-mO2RChK5YrpJRhIYYrpQp5Lw4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzgx/NDMxLTE3NjA3Mzgx/MjQtNTc0My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/oT6_ibmej2-ZbikiW-mO2RChK5YrpJRhIYYrpQp5Lw4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzgx/NDMxLTE3NjA3Mzgx/MjQtNTc0My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/CWARhCrqZAhPOxKDJCy728RdR697Nq5rV1baH8ORMr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzgx/NDMxLTE3NjA3Mzgx/MjQtNTc0My5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/WTQ1Ly4pI2nP-0sHmNFY5UmmUzT41-agUehJVnPq93Q/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzgx/NDMxLTE3NjA3Mzgx/MjQtNTU5Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/WTQ1Ly4pI2nP-0sHmNFY5UmmUzT41-agUehJVnPq93Q/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzgx/NDMxLTE3NjA3Mzgx/MjQtNTU5Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/BONN3FGJY57gBYefHW0F1GBr-KQltmNQnxdx-yTw5VM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzgx/NDMxLTE3NjA3Mzgx/MjQtNTU5Ny5qcGVn.jpeg",
+      "width": 599,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/aHIB4gE718pC6FyMD1KUkfZWiorSGIak8YshNJSkKGI/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzgx/NDMxLTE3NjA3Mzgx/MjUtMTUyOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/aHIB4gE718pC6FyMD1KUkfZWiorSGIak8YshNJSkKGI/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzgx/NDMxLTE3NjA3Mzgx/MjUtMTUyOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/1RMRZwr5Oxii22QC_DJjIiUcq8c7V_9RBzkXHvBjadM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzgx/NDMxLTE3NjA3Mzgx/MjUtMTUyOS5qcGVn.jpeg",
+      "width": 450,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/CWARhCrqZAhPOxKDJCy728RdR697Nq5rV1baH8ORMr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Mzgx/NDMxLTE3NjA3Mzgx/MjQtNTc0My5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

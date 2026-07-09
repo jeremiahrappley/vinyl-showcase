@@ -1,0 +1,2497 @@
+{
+  "id": 10090446,
+  "status": "Accepted",
+  "year": 2017,
+  "resource_url": "https://api.discogs.com/releases/10090446",
+  "uri": "https://www.discogs.com/release/10090446-Rihanna-Unapologetic",
+  "artists": [
+    {
+      "name": "Rihanna",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 321128,
+      "resource_url": "https://api.discogs.com/artists/321128",
+      "thumbnail_url": "https://i.discogs.com/TCuNTls49Gi4KG2y5-ZmMLOkiEHeX29kpHW7_vWJ1MM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMyMTEy/OC0xNzYwNDgxNzY0/LTYyNjguanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Rihanna",
+  "labels": [
+    {
+      "name": "Def Jam Recordings",
+      "catno": "B0025457-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 4241,
+      "resource_url": "https://api.discogs.com/labels/4241",
+      "thumbnail_url": "https://i.discogs.com/zueTHMMGjUzQWjoHJgHWCKAjf4hiKsUjdiYuj4mXCbs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQyNDEt/MTYwNDY3ODAzMi0y/NzA3LnBuZw.jpeg"
+    },
+    {
+      "name": "SRP Records",
+      "catno": "B0025457-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 118632,
+      "resource_url": "https://api.discogs.com/labels/118632",
+      "thumbnail_url": "https://i.discogs.com/eth1VkpR4a1mbQb0HuJb9sGGd-rP0Mvy77-PooQHv-A/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExODYz/Mi0xNTAzNDE1NDM3/LTE5MTkucG5n.jpeg"
+    },
+    {
+      "name": "Roc Nation",
+      "catno": "B0025457-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 286913,
+      "resource_url": "https://api.discogs.com/labels/286913",
+      "thumbnail_url": "https://i.discogs.com/1lWAu5gO6aXldghELFDi_AJCJlBsb36sVu0X0ZzLxos/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4Njkx/My0xNzUxMzEyMTkw/LTQ5NjEuanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Def Jam Recordings",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 4241,
+      "resource_url": "https://api.discogs.com/labels/4241",
+      "thumbnail_url": "https://i.discogs.com/zueTHMMGjUzQWjoHJgHWCKAjf4hiKsUjdiYuj4mXCbs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQyNDEt/MTYwNDY3ODAzMi0y/NzA3LnBuZw.jpeg"
+    },
+    {
+      "name": "Def Jam Recordings",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 4241,
+      "resource_url": "https://api.discogs.com/labels/4241",
+      "thumbnail_url": "https://i.discogs.com/zueTHMMGjUzQWjoHJgHWCKAjf4hiKsUjdiYuj4mXCbs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQyNDEt/MTYwNDY3ODAzMi0y/NzA3LnBuZw.jpeg"
+    },
+    {
+      "name": "Universal Music Distribution",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 115478,
+      "resource_url": "https://api.discogs.com/labels/115478"
+    },
+    {
+      "name": "Rainbo Records",
+      "catno": "S-98353",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 100643,
+      "resource_url": "https://api.discogs.com/labels/100643",
+      "thumbnail_url": "https://i.discogs.com/GDxBM719av0V7oyemxiMhYGX5m9qoMvtuwrtIvyLlS4/rs:fit/g:sm/q:90/h:141/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDY0/My0xNDk2ODM3MzMz/LTYxMTAuanBlZw.jpeg"
+    },
+    {
+      "name": "Rainbo Records",
+      "catno": "S-98354",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 100643,
+      "resource_url": "https://api.discogs.com/labels/100643",
+      "thumbnail_url": "https://i.discogs.com/GDxBM719av0V7oyemxiMhYGX5m9qoMvtuwrtIvyLlS4/rs:fit/g:sm/q:90/h:141/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDY0/My0xNDk2ODM3MzMz/LTYxMTAuanBlZw.jpeg"
+    },
+    {
+      "name": "Rainbo Records",
+      "catno": "S-98355",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 100643,
+      "resource_url": "https://api.discogs.com/labels/100643",
+      "thumbnail_url": "https://i.discogs.com/GDxBM719av0V7oyemxiMhYGX5m9qoMvtuwrtIvyLlS4/rs:fit/g:sm/q:90/h:141/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDY0/My0xNDk2ODM3MzMz/LTYxMTAuanBlZw.jpeg"
+    },
+    {
+      "name": "Rainbo Records",
+      "catno": "S-98356",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 100643,
+      "resource_url": "https://api.discogs.com/labels/100643",
+      "thumbnail_url": "https://i.discogs.com/GDxBM719av0V7oyemxiMhYGX5m9qoMvtuwrtIvyLlS4/rs:fit/g:sm/q:90/h:141/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDY0/My0xNDk2ODM3MzMz/LTYxMTAuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 3409,
+    "want": 1129,
+    "rating": {
+      "count": 179,
+      "average": 4.52
+    },
+    "submitter": {
+      "username": "CD_WAREHOUSE_817",
+      "resource_url": "https://api.discogs.com/users/CD_WAREHOUSE_817"
+    },
+    "contributors": [
+      {
+        "username": "CD_WAREHOUSE_817",
+        "resource_url": "https://api.discogs.com/users/CD_WAREHOUSE_817"
+      },
+      {
+        "username": "movceo",
+        "resource_url": "https://api.discogs.com/users/movceo"
+      },
+      {
+        "username": "S2A4",
+        "resource_url": "https://api.discogs.com/users/S2A4"
+      },
+      {
+        "username": "MannerHeikki",
+        "resource_url": "https://api.discogs.com/users/MannerHeikki"
+      },
+      {
+        "username": "booker-t",
+        "resource_url": "https://api.discogs.com/users/booker-t"
+      },
+      {
+        "username": "topgunn",
+        "resource_url": "https://api.discogs.com/users/topgunn"
+      },
+      {
+        "username": ".SLCOOLJ.",
+        "resource_url": "https://api.discogs.com/users/.SLCOOLJ."
+      },
+      {
+        "username": "Britney-Spears",
+        "resource_url": "https://api.discogs.com/users/Britney-Spears"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2017-04-05T14:38:45-07:00",
+  "date_changed": "2023-08-23T01:53:36-07:00",
+  "num_for_sale": 28,
+  "lowest_price": 24.5,
+  "master_id": 493452,
+  "master_url": "https://api.discogs.com/masters/493452",
+  "title": "Unapologetic",
+  "country": "US",
+  "released": "2017-04-07",
+  "notes": "Comes with an insert. Housed in a gatefold sleeve.",
+  "released_formatted": "07 Apr 2017",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "602557079838",
+      "description": "Scanned"
+    },
+    {
+      "type": "Barcode",
+      "value": "6 02557 07983 8",
+      "description": "Text"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "S-98353 00602557079838/B0025457-01-A CB",
+      "description": "Runout, side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "S-98354 00602557079838/B0025457-01-B CB",
+      "description": "Runout, side B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "S-98355 00602557079838/B0025457-01-C CB",
+      "description": "Runout, side C"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "S-98356 00602557079838/B0025457-01-D CB",
+      "description": "Runout, side D"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=Ks2CXd9ZCRA",
+      "title": "Rihanna The Journey To Unapologetic: Behind The Scenes HD",
+      "description": "Go behind the scenes with Rihanna on her 7th album 'Unapologetic' in stores everywhere Monday, November 19th.",
+      "duration": 155,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=lWA2pjMjpBs",
+      "title": "Rihanna - Diamonds",
+      "description": "Get Rihanna’s eighth studio album ANTI now:\nDownload on TIDAL: http://smarturl.it/downloadANTI\nStream on TIDAL: http://smarturl.it/streamANTIdlx\nDownload on iTunes: http://smarturl.it/dlxANTI\nDownload on Google Play: http://smarturl.it/ANTIdlxgp\nDownload ",
+      "duration": 283,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Hip Hop",
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Contemporary R&B",
+    "Dubstep"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Fresh Off The Runway",
+      "extraartists": [
+        {
+          "name": "MJ (16)",
+          "anv": "",
+          "join": "",
+          "role": "Drum Programming [Additional], Mixed By",
+          "tracks": "",
+          "id": 3016325,
+          "resource_url": "https://api.discogs.com/artists/3016325"
+        },
+        {
+          "name": "Joel Peters",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Recording Engineer]",
+          "tracks": "",
+          "id": 2822985,
+          "resource_url": "https://api.discogs.com/artists/2822985"
+        },
+        {
+          "name": "Ben Rhodes",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1769630,
+          "resource_url": "https://api.discogs.com/artists/1769630"
+        },
+        {
+          "name": "Tom Hough",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 762897,
+          "resource_url": "https://api.discogs.com/artists/762897"
+        },
+        {
+          "name": "Josh Campbell",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Recording Engineer]",
+          "tracks": "",
+          "id": 3016321,
+          "resource_url": "https://api.discogs.com/artists/3016321"
+        },
+        {
+          "name": "Jaycen Joshua",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 285031,
+          "resource_url": "https://api.discogs.com/artists/285031"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "David Guetta",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Instruments, Programmed By",
+          "tracks": "",
+          "id": 36527,
+          "resource_url": "https://api.discogs.com/artists/36527"
+        },
+        {
+          "name": "Giorgio Tuinfort",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Instruments, Programmed By",
+          "tracks": "",
+          "id": 318065,
+          "resource_url": "https://api.discogs.com/artists/318065"
+        },
+        {
+          "name": "Terius Nash",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Instruments, Programmed By",
+          "tracks": "",
+          "id": 1074646,
+          "resource_url": "https://api.discogs.com/artists/1074646"
+        },
+        {
+          "name": "Bart Schoudel",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Additional]",
+          "tracks": "",
+          "id": 2096235,
+          "resource_url": "https://api.discogs.com/artists/2096235"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Marcos Tovar",
+          "anv": "Marvos Tovar",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "David Guetta",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 36527,
+          "resource_url": "https://api.discogs.com/artists/36527"
+        },
+        {
+          "name": "Giorgio Tuinfort",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 318065,
+          "resource_url": "https://api.discogs.com/artists/318065"
+        },
+        {
+          "name": "Terius Nash",
+          "anv": "Terius Youngdell Nash",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1074646,
+          "resource_url": "https://api.discogs.com/artists/1074646"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Diamonds",
+      "extraartists": [
+        {
+          "name": "Daniela Rivera",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additional & Assistant]",
+          "tracks": "",
+          "id": 2733123,
+          "resource_url": "https://api.discogs.com/artists/2733123"
+        },
+        {
+          "name": "Blake Mares",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 3016323,
+          "resource_url": "https://api.discogs.com/artists/3016323"
+        },
+        {
+          "name": "Robert Cohen (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 2960496,
+          "resource_url": "https://api.discogs.com/artists/2960496"
+        },
+        {
+          "name": "Benny Blanco (3)",
+          "anv": "",
+          "join": "",
+          "role": "Instruments, Programmed By",
+          "tracks": "",
+          "id": 461142,
+          "resource_url": "https://api.discogs.com/artists/461142"
+        },
+        {
+          "name": "Mikkel S. Eriksen",
+          "anv": "Mikkel S Eriksen",
+          "join": "",
+          "role": "Instruments, Programmed By",
+          "tracks": "",
+          "id": 88563,
+          "resource_url": "https://api.discogs.com/artists/88563"
+        },
+        {
+          "name": "Tor Erik Hermansen",
+          "anv": "",
+          "join": "",
+          "role": "Instruments, Programmed By",
+          "tracks": "",
+          "id": 390381,
+          "resource_url": "https://api.discogs.com/artists/390381"
+        },
+        {
+          "name": "Phil Tan",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 94953,
+          "resource_url": "https://api.discogs.com/artists/94953"
+        },
+        {
+          "name": "Benny Blanco (3)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 461142,
+          "resource_url": "https://api.discogs.com/artists/461142"
+        },
+        {
+          "name": "StarGate (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 79704,
+          "resource_url": "https://api.discogs.com/artists/79704"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Mikkel S. Eriksen",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 88563,
+          "resource_url": "https://api.discogs.com/artists/88563"
+        },
+        {
+          "name": "Miles Walker",
+          "anv": "Miles. VWalker",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 1279366,
+          "resource_url": "https://api.discogs.com/artists/1279366"
+        },
+        {
+          "name": "Andrew Luftman",
+          "anv": "Andrew \"Muffman\" Luftman",
+          "join": "",
+          "role": "Recorded By [Assistant]",
+          "tracks": "",
+          "id": 2240232,
+          "resource_url": "https://api.discogs.com/artists/2240232"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Marcos Tovar",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "Benjamin Levin",
+          "anv": "B. Levin",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1388566,
+          "resource_url": "https://api.discogs.com/artists/1388566"
+        },
+        {
+          "name": "Mikkel S. Eriksen",
+          "anv": "M.S. Eriksen",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 88563,
+          "resource_url": "https://api.discogs.com/artists/88563"
+        },
+        {
+          "name": "Sia Furler",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 44758,
+          "resource_url": "https://api.discogs.com/artists/44758"
+        },
+        {
+          "name": "Tor Erik Hermansen",
+          "anv": "T.E. Hermansen",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 390381,
+          "resource_url": "https://api.discogs.com/artists/390381"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Numb",
+      "extraartists": [
+        {
+          "name": "Sam Dew",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 3016533,
+          "resource_url": "https://api.discogs.com/artists/3016533"
+        },
+        {
+          "name": "Donnie Meadows",
+          "anv": "",
+          "join": "",
+          "role": "Coordinator [Production Coordination]",
+          "tracks": "",
+          "id": 2178852,
+          "resource_url": "https://api.discogs.com/artists/2178852"
+        },
+        {
+          "name": "Tanisha Broadwater",
+          "anv": "",
+          "join": "",
+          "role": "Coordinator [Production Coordination]",
+          "tracks": "",
+          "id": 2178851,
+          "resource_url": "https://api.discogs.com/artists/2178851"
+        },
+        {
+          "name": "Aamir Yaqub",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 3016532,
+          "resource_url": "https://api.discogs.com/artists/3016532"
+        },
+        {
+          "name": "Blake Mares",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 3016323,
+          "resource_url": "https://api.discogs.com/artists/3016323"
+        },
+        {
+          "name": "Liam Nolan",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1632630,
+          "resource_url": "https://api.discogs.com/artists/1632630"
+        },
+        {
+          "name": "Robert Cohen (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 2960496,
+          "resource_url": "https://api.discogs.com/artists/2960496"
+        },
+        {
+          "name": "Eminem",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 38661,
+          "resource_url": "https://api.discogs.com/artists/38661"
+        },
+        {
+          "name": "Manny Marroquin",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 67636,
+          "resource_url": "https://api.discogs.com/artists/67636"
+        },
+        {
+          "name": "Oak (6)",
+          "anv": "@Oakwud",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 909084,
+          "resource_url": "https://api.discogs.com/artists/909084"
+        },
+        {
+          "name": "Ronald \"Flip\" Colson",
+          "anv": "@Flippa 123",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3016497,
+          "resource_url": "https://api.discogs.com/artists/3016497"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Xavier Stephenson",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Additional]",
+          "tracks": "",
+          "id": 1256250,
+          "resource_url": "https://api.discogs.com/artists/1256250"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Marcos Tovar",
+          "anv": "Marvos Tovar",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "Aldrin Davis",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 659200,
+          "resource_url": "https://api.discogs.com/artists/659200"
+        },
+        {
+          "name": "Andrew Wansel",
+          "anv": "@Pop Wansel",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2024786,
+          "resource_url": "https://api.discogs.com/artists/2024786"
+        },
+        {
+          "name": "Connie Mitchell",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 484649,
+          "resource_url": "https://api.discogs.com/artists/484649"
+        },
+        {
+          "name": "Kanye West",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 137880,
+          "resource_url": "https://api.discogs.com/artists/137880"
+        },
+        {
+          "name": "Marshall Mathers",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 644153,
+          "resource_url": "https://api.discogs.com/artists/644153"
+        },
+        {
+          "name": "Ronald \"Flip\" Colson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3016497,
+          "resource_url": "https://api.discogs.com/artists/3016497"
+        },
+        {
+          "name": "Sam Dew",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3016533,
+          "resource_url": "https://api.discogs.com/artists/3016533"
+        },
+        {
+          "name": "Warren Felder",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 991629,
+          "resource_url": "https://api.discogs.com/artists/991629"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Pour It Up",
+      "extraartists": [
+        {
+          "name": "J-Bo (3)",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 3272523,
+          "resource_url": "https://api.discogs.com/artists/3272523"
+        },
+        {
+          "name": "J-Bo (3)",
+          "anv": "",
+          "join": "",
+          "role": "Instruments, Programmed By",
+          "tracks": "",
+          "id": 3272523,
+          "resource_url": "https://api.discogs.com/artists/3272523"
+        },
+        {
+          "name": "Mike Will Made It",
+          "anv": "Mike Will",
+          "join": "",
+          "role": "Instruments, Programmed By",
+          "tracks": "",
+          "id": 3269862,
+          "resource_url": "https://api.discogs.com/artists/3269862"
+        },
+        {
+          "name": "Manny Marroquin",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 67636,
+          "resource_url": "https://api.discogs.com/artists/67636"
+        },
+        {
+          "name": "Mike Will Made It",
+          "anv": "Mike Will Made-It",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3269862,
+          "resource_url": "https://api.discogs.com/artists/3269862"
+        },
+        {
+          "name": "Alejandro Barajas",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Music]",
+          "tracks": "",
+          "id": 2490813,
+          "resource_url": "https://api.discogs.com/artists/2490813"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Marcos Tovar",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "Mike Will Made It",
+          "anv": "Mike Will",
+          "join": "",
+          "role": "Vocals [Additional]",
+          "tracks": "",
+          "id": 3269862,
+          "resource_url": "https://api.discogs.com/artists/3269862"
+        },
+        {
+          "name": "Michael Williams (28)",
+          "anv": "Micheal Williams",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3269861,
+          "resource_url": "https://api.discogs.com/artists/3269861"
+        },
+        {
+          "name": "Theron Thomas",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 767676,
+          "resource_url": "https://api.discogs.com/artists/767676"
+        },
+        {
+          "name": "Timothy Thomas",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 767678,
+          "resource_url": "https://api.discogs.com/artists/767678"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Loveeeeeee Song",
+      "extraartists": [
+        {
+          "name": "Robert Cohen (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 2960496,
+          "resource_url": "https://api.discogs.com/artists/2960496"
+        },
+        {
+          "name": "Future (4)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring, Producer, Instruments, Programmed By",
+          "tracks": "",
+          "id": 221673,
+          "resource_url": "https://api.discogs.com/artists/221673"
+        },
+        {
+          "name": "Manny Marroquin",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 67636,
+          "resource_url": "https://api.discogs.com/artists/67636"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Seth Firkins",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Music And Future Vocals]",
+          "tracks": "",
+          "id": 959026,
+          "resource_url": "https://api.discogs.com/artists/959026"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Marcos Tovar",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "Denisia Andrews",
+          "anv": "Denisea \"Blu June\" Andrews",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5217066,
+          "resource_url": "https://api.discogs.com/artists/5217066"
+        },
+        {
+          "name": "Nayvadius Wilburn",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2584199,
+          "resource_url": "https://api.discogs.com/artists/2584199"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Jump",
+      "extraartists": [
+        {
+          "name": "Daniela Rivera",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additional/Assistant]",
+          "tracks": "",
+          "id": 2733123,
+          "resource_url": "https://api.discogs.com/artists/2733123"
+        },
+        {
+          "name": "Aamir Yaqub",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 3016532,
+          "resource_url": "https://api.discogs.com/artists/3016532"
+        },
+        {
+          "name": "Chase & Status",
+          "anv": "",
+          "join": "",
+          "role": "Instruments, Programmed By",
+          "tracks": "",
+          "id": 138585,
+          "resource_url": "https://api.discogs.com/artists/138585"
+        },
+        {
+          "name": "Mikey Mike (2)",
+          "anv": "",
+          "join": "",
+          "role": "Instruments, Programmed By",
+          "tracks": "",
+          "id": 1512729,
+          "resource_url": "https://api.discogs.com/artists/1512729"
+        },
+        {
+          "name": "Mikkel S. Eriksen",
+          "anv": "",
+          "join": "",
+          "role": "Instruments, Programmed By",
+          "tracks": "",
+          "id": 88563,
+          "resource_url": "https://api.discogs.com/artists/88563"
+        },
+        {
+          "name": "Tor Erik Hermansen",
+          "anv": "",
+          "join": "",
+          "role": "Instruments, Programmed By",
+          "tracks": "",
+          "id": 390381,
+          "resource_url": "https://api.discogs.com/artists/390381"
+        },
+        {
+          "name": "Phil Tan",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 94953,
+          "resource_url": "https://api.discogs.com/artists/94953"
+        },
+        {
+          "name": "Chase & Status",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 138585,
+          "resource_url": "https://api.discogs.com/artists/138585"
+        },
+        {
+          "name": "Mikey Mike (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1512729,
+          "resource_url": "https://api.discogs.com/artists/1512729"
+        },
+        {
+          "name": "StarGate (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 79704,
+          "resource_url": "https://api.discogs.com/artists/79704"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Mikkel S. Eriksen",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 88563,
+          "resource_url": "https://api.discogs.com/artists/88563"
+        },
+        {
+          "name": "Miles Walker",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 1279366,
+          "resource_url": "https://api.discogs.com/artists/1279366"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Marcos Tovar",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "Kevin Cossom",
+          "anv": "Kevin \"KC\" Cossum",
+          "join": "",
+          "role": "Vocals [Additional]",
+          "tracks": "",
+          "id": 1279195,
+          "resource_url": "https://api.discogs.com/artists/1279195"
+        },
+        {
+          "name": "Elgin Lumpkin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 645354,
+          "resource_url": "https://api.discogs.com/artists/645354"
+        },
+        {
+          "name": "Kevin Cossom",
+          "anv": "Kevin Cossum",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1279195,
+          "resource_url": "https://api.discogs.com/artists/1279195"
+        },
+        {
+          "name": "M. B. Williams",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3016534,
+          "resource_url": "https://api.discogs.com/artists/3016534"
+        },
+        {
+          "name": "Mikkel S. Eriksen",
+          "anv": "M. S. Eriksen",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 88563,
+          "resource_url": "https://api.discogs.com/artists/88563"
+        },
+        {
+          "name": "Saul Milton",
+          "anv": "S. Milton",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 560663,
+          "resource_url": "https://api.discogs.com/artists/560663"
+        },
+        {
+          "name": "Stephen Garrett",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 665920,
+          "resource_url": "https://api.discogs.com/artists/665920"
+        },
+        {
+          "name": "Timothy Mosley",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 610304,
+          "resource_url": "https://api.discogs.com/artists/610304"
+        },
+        {
+          "name": "Tor Erik Hermansen",
+          "anv": "T. E. Hermansen",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 390381,
+          "resource_url": "https://api.discogs.com/artists/390381"
+        },
+        {
+          "name": "Will Kennard",
+          "anv": "W. Kennard",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 560662,
+          "resource_url": "https://api.discogs.com/artists/560662"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Right Now",
+      "extraartists": [
+        {
+          "name": "Daniela Rivera",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additional & Assistant Engineering]",
+          "tracks": "",
+          "id": 2733123,
+          "resource_url": "https://api.discogs.com/artists/2733123"
+        },
+        {
+          "name": "Xavier Stephenson",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1256250,
+          "resource_url": "https://api.discogs.com/artists/1256250"
+        },
+        {
+          "name": "Aamir Yaqub",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Recording]",
+          "tracks": "",
+          "id": 3016532,
+          "resource_url": "https://api.discogs.com/artists/3016532"
+        },
+        {
+          "name": "Paul Norris",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Recording]",
+          "tracks": "",
+          "id": 3019413,
+          "resource_url": "https://api.discogs.com/artists/3019413"
+        },
+        {
+          "name": "David Guetta",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 36527,
+          "resource_url": "https://api.discogs.com/artists/36527"
+        },
+        {
+          "name": "Benny Blanco (3)",
+          "anv": "",
+          "join": "",
+          "role": "Instruments [All], Programmed By",
+          "tracks": "",
+          "id": 461142,
+          "resource_url": "https://api.discogs.com/artists/461142"
+        },
+        {
+          "name": "David Guetta",
+          "anv": "",
+          "join": "",
+          "role": "Instruments [All], Programmed By",
+          "tracks": "",
+          "id": 36527,
+          "resource_url": "https://api.discogs.com/artists/36527"
+        },
+        {
+          "name": "Giorgio Tuinfort",
+          "anv": "",
+          "join": "",
+          "role": "Instruments [All], Programmed By",
+          "tracks": "",
+          "id": 318065,
+          "resource_url": "https://api.discogs.com/artists/318065"
+        },
+        {
+          "name": "Mikkel S. Eriksen",
+          "anv": "",
+          "join": "",
+          "role": "Instruments [All], Programmed By",
+          "tracks": "",
+          "id": 88563,
+          "resource_url": "https://api.discogs.com/artists/88563"
+        },
+        {
+          "name": "Nicky Romero",
+          "anv": "",
+          "join": "",
+          "role": "Instruments [All], Programmed By",
+          "tracks": "",
+          "id": 1229555,
+          "resource_url": "https://api.discogs.com/artists/1229555"
+        },
+        {
+          "name": "Tor Erik Hermansen",
+          "anv": "",
+          "join": "",
+          "role": "Instruments [All], Programmed By",
+          "tracks": "",
+          "id": 390381,
+          "resource_url": "https://api.discogs.com/artists/390381"
+        },
+        {
+          "name": "Nicky Romero",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 1229555,
+          "resource_url": "https://api.discogs.com/artists/1229555"
+        },
+        {
+          "name": "Phil Tan",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Vocals]",
+          "tracks": "",
+          "id": 94953,
+          "resource_url": "https://api.discogs.com/artists/94953"
+        },
+        {
+          "name": "David Guetta",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 36527,
+          "resource_url": "https://api.discogs.com/artists/36527"
+        },
+        {
+          "name": "Giorgio Tuinfort",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 318065,
+          "resource_url": "https://api.discogs.com/artists/318065"
+        },
+        {
+          "name": "Nicky Romero",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1229555,
+          "resource_url": "https://api.discogs.com/artists/1229555"
+        },
+        {
+          "name": "StarGate (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 79704,
+          "resource_url": "https://api.discogs.com/artists/79704"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals Produced By]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Marcos Tovar",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "David Guetta",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 36527,
+          "resource_url": "https://api.discogs.com/artists/36527"
+        },
+        {
+          "name": "Ester Dean",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1550260,
+          "resource_url": "https://api.discogs.com/artists/1550260"
+        },
+        {
+          "name": "Giorgio Tuinfort",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 318065,
+          "resource_url": "https://api.discogs.com/artists/318065"
+        },
+        {
+          "name": "Mikkel S. Eriksen",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 88563,
+          "resource_url": "https://api.discogs.com/artists/88563"
+        },
+        {
+          "name": "Nick Rotteveel",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2247735,
+          "resource_url": "https://api.discogs.com/artists/2247735"
+        },
+        {
+          "name": "Shaffer Smith",
+          "anv": "Shaffer Chimere Smith",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 479950,
+          "resource_url": "https://api.discogs.com/artists/479950"
+        },
+        {
+          "name": "Tor Erik Hermansen",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 390381,
+          "resource_url": "https://api.discogs.com/artists/390381"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "What Now",
+      "extraartists": [
+        {
+          "name": "Nathan Cassells",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 3019411,
+          "resource_url": "https://api.discogs.com/artists/3019411"
+        },
+        {
+          "name": "Daniela Rivera",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additional & Assistant Engineering]",
+          "tracks": "",
+          "id": 2733123,
+          "resource_url": "https://api.discogs.com/artists/2733123"
+        },
+        {
+          "name": "Blake Mares",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineering]",
+          "tracks": "",
+          "id": 3016323,
+          "resource_url": "https://api.discogs.com/artists/3016323"
+        },
+        {
+          "name": "Paul Norris",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineering]",
+          "tracks": "",
+          "id": 3019413,
+          "resource_url": "https://api.discogs.com/artists/3019413"
+        },
+        {
+          "name": "Robert Cohen (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineering]",
+          "tracks": "",
+          "id": 2960496,
+          "resource_url": "https://api.discogs.com/artists/2960496"
+        },
+        {
+          "name": "Nathan Cassells",
+          "anv": "",
+          "join": "",
+          "role": "Instruments [All], Programmed By",
+          "tracks": "",
+          "id": 3019411,
+          "resource_url": "https://api.discogs.com/artists/3019411"
+        },
+        {
+          "name": "Parker Ighile",
+          "anv": "",
+          "join": "",
+          "role": "Instruments [All], Programmed By",
+          "tracks": "",
+          "id": 1689953,
+          "resource_url": "https://api.discogs.com/artists/1689953"
+        },
+        {
+          "name": "Phil Tan",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 94953,
+          "resource_url": "https://api.discogs.com/artists/94953"
+        },
+        {
+          "name": "Parker Ighile",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1689953,
+          "resource_url": "https://api.discogs.com/artists/1689953"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals Produced By]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Marcos Tovar",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Addition Recording By]",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "Nathan Cassells",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Music]",
+          "tracks": "",
+          "id": 3019411,
+          "resource_url": "https://api.discogs.com/artists/3019411"
+        },
+        {
+          "name": "Parker Ighile",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Music]",
+          "tracks": "",
+          "id": 1689953,
+          "resource_url": "https://api.discogs.com/artists/1689953"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Marcos Tovar",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "Nathan Cassells",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3019411,
+          "resource_url": "https://api.discogs.com/artists/3019411"
+        },
+        {
+          "name": "Olivia Waithe",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1474896,
+          "resource_url": "https://api.discogs.com/artists/1474896"
+        },
+        {
+          "name": "Parker Ighile",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1689953,
+          "resource_url": "https://api.discogs.com/artists/1689953"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Stay",
+      "extraartists": [
+        {
+          "name": "Justin Parker",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 2431626,
+          "resource_url": "https://api.discogs.com/artists/2431626"
+        },
+        {
+          "name": "Mikky Ekko",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 2001096,
+          "resource_url": "https://api.discogs.com/artists/2001096"
+        },
+        {
+          "name": "Blake Mares",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineering]",
+          "tracks": "",
+          "id": 3016323,
+          "resource_url": "https://api.discogs.com/artists/3016323"
+        },
+        {
+          "name": "Robert Cohen (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineering]",
+          "tracks": "",
+          "id": 2960496,
+          "resource_url": "https://api.discogs.com/artists/2960496"
+        },
+        {
+          "name": "Mikky Ekko",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2001096,
+          "resource_url": "https://api.discogs.com/artists/2001096"
+        },
+        {
+          "name": "Phil Tan",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 94953,
+          "resource_url": "https://api.discogs.com/artists/94953"
+        },
+        {
+          "name": "Justin Parker",
+          "anv": "",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 2431626,
+          "resource_url": "https://api.discogs.com/artists/2431626"
+        },
+        {
+          "name": "Elof Loelv",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 967728,
+          "resource_url": "https://api.discogs.com/artists/967728"
+        },
+        {
+          "name": "Justin Parker",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2431626,
+          "resource_url": "https://api.discogs.com/artists/2431626"
+        },
+        {
+          "name": "Mikky Ekko",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2001096,
+          "resource_url": "https://api.discogs.com/artists/2001096"
+        },
+        {
+          "name": "Elof Loelv",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Additional Production/Landscape]",
+          "tracks": "",
+          "id": 967728,
+          "resource_url": "https://api.discogs.com/artists/967728"
+        },
+        {
+          "name": "Mikky Ekko",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Additional Production/Landscape]",
+          "tracks": "",
+          "id": 2001096,
+          "resource_url": "https://api.discogs.com/artists/2001096"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals Produced By]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Marcos Tovar",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "Mike Gaydusek",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals], Engineer [Vocals]",
+          "tracks": "",
+          "id": 3019412,
+          "resource_url": "https://api.discogs.com/artists/3019412"
+        },
+        {
+          "name": "Elof Loelv",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 967728,
+          "resource_url": "https://api.discogs.com/artists/967728"
+        },
+        {
+          "name": "Justin Parker",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2431626,
+          "resource_url": "https://api.discogs.com/artists/2431626"
+        },
+        {
+          "name": "Mikky Ekko",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2001096,
+          "resource_url": "https://api.discogs.com/artists/2001096"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Nobody's Business",
+      "extraartists": [
+        {
+          "name": "Blake Mares",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineering]",
+          "tracks": "",
+          "id": 3016323,
+          "resource_url": "https://api.discogs.com/artists/3016323"
+        },
+        {
+          "name": "Robert Cohen (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineering]",
+          "tracks": "",
+          "id": 2960496,
+          "resource_url": "https://api.discogs.com/artists/2960496"
+        },
+        {
+          "name": "Chris Brown (4)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 357753,
+          "resource_url": "https://api.discogs.com/artists/357753"
+        },
+        {
+          "name": "Manny Marroquin",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 67636,
+          "resource_url": "https://api.discogs.com/artists/67636"
+        },
+        {
+          "name": "Carlos McKinney",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 326035,
+          "resource_url": "https://api.discogs.com/artists/326035"
+        },
+        {
+          "name": "The-Dream",
+          "anv": "Dream, The",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1008036,
+          "resource_url": "https://api.discogs.com/artists/1008036"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals Produced By]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Bart Schoudel",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [All Music]",
+          "tracks": "",
+          "id": 2096235,
+          "resource_url": "https://api.discogs.com/artists/2096235"
+        },
+        {
+          "name": "Carlos McKinney",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 326035,
+          "resource_url": "https://api.discogs.com/artists/326035"
+        },
+        {
+          "name": "Terius Nash",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1074646,
+          "resource_url": "https://api.discogs.com/artists/1074646"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Love Without Tragedy / Mother Mary",
+      "extraartists": [
+        {
+          "name": "Blake Mares",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineering By]",
+          "tracks": "",
+          "id": 3016323,
+          "resource_url": "https://api.discogs.com/artists/3016323"
+        },
+        {
+          "name": "Robert Cohen (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineering By]",
+          "tracks": "",
+          "id": 2960496,
+          "resource_url": "https://api.discogs.com/artists/2960496"
+        },
+        {
+          "name": "Jaycen Joshua",
+          "anv": "Jayson Joshua",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 285031,
+          "resource_url": "https://api.discogs.com/artists/285031"
+        },
+        {
+          "name": "Carlos McKinney",
+          "anv": "Carlos \"Los\" McKinney",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 326035,
+          "resource_url": "https://api.discogs.com/artists/326035"
+        },
+        {
+          "name": "Terius Nash",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1074646,
+          "resource_url": "https://api.discogs.com/artists/1074646"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals Produced By]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Bart Schoudel",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [All Music]",
+          "tracks": "",
+          "id": 2096235,
+          "resource_url": "https://api.discogs.com/artists/2096235"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Marcos Tovar",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "Carlos McKinney",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 326035,
+          "resource_url": "https://api.discogs.com/artists/326035"
+        },
+        {
+          "name": "Terius Nash",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1074646,
+          "resource_url": "https://api.discogs.com/artists/1074646"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Get It Over With",
+      "extraartists": [
+        {
+          "name": "Blake Mares",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineering]",
+          "tracks": "",
+          "id": 3016323,
+          "resource_url": "https://api.discogs.com/artists/3016323"
+        },
+        {
+          "name": "Paul Norris",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineering]",
+          "tracks": "",
+          "id": 3019413,
+          "resource_url": "https://api.discogs.com/artists/3019413"
+        },
+        {
+          "name": "Robert Cohen (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineering]",
+          "tracks": "",
+          "id": 2960496,
+          "resource_url": "https://api.discogs.com/artists/2960496"
+        },
+        {
+          "name": "Brian Kennedy (4)",
+          "anv": "",
+          "join": "",
+          "role": "Instruments [All], Programmed By",
+          "tracks": "",
+          "id": 755559,
+          "resource_url": "https://api.discogs.com/artists/755559"
+        },
+        {
+          "name": "Brian Kennedy (4)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 755559,
+          "resource_url": "https://api.discogs.com/artists/755559"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals Produced By]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Marcos Tovar",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Music]",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Marcos Tovar",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "Brian Seals",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1188650,
+          "resource_url": "https://api.discogs.com/artists/1188650"
+        },
+        {
+          "name": "James Fauntleroy II",
+          "anv": "James Fauntleroy",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 737282,
+          "resource_url": "https://api.discogs.com/artists/737282"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "No Love Allowed",
+      "extraartists": [
+        {
+          "name": "Rob Kinelski",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additional Engineering]",
+          "tracks": "",
+          "id": 595965,
+          "resource_url": "https://api.discogs.com/artists/595965"
+        },
+        {
+          "name": "Anna Ugarte",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineering By]",
+          "tracks": "",
+          "id": 2796299,
+          "resource_url": "https://api.discogs.com/artists/2796299"
+        },
+        {
+          "name": "Blake Mares",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineering]",
+          "tracks": "",
+          "id": 3016323,
+          "resource_url": "https://api.discogs.com/artists/3016323"
+        },
+        {
+          "name": "Liam Nolan",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineering]",
+          "tracks": "",
+          "id": 1632630,
+          "resource_url": "https://api.discogs.com/artists/1632630"
+        },
+        {
+          "name": "Paul Norris",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineering]",
+          "tracks": "",
+          "id": 3019413,
+          "resource_url": "https://api.discogs.com/artists/3019413"
+        },
+        {
+          "name": "Steve Wyreman",
+          "anv": "",
+          "join": "",
+          "role": "Guitar, Bass",
+          "tracks": "",
+          "id": 709061,
+          "resource_url": "https://api.discogs.com/artists/709061"
+        },
+        {
+          "name": "James Poyser",
+          "anv": "",
+          "join": "",
+          "role": "Keyboards",
+          "tracks": "",
+          "id": 21363,
+          "resource_url": "https://api.discogs.com/artists/21363"
+        },
+        {
+          "name": "Manny Marroquin",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 67636,
+          "resource_url": "https://api.discogs.com/artists/67636"
+        },
+        {
+          "name": "No I.D.",
+          "anv": "No ID",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 108618,
+          "resource_url": "https://api.discogs.com/artists/108618"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals Produced By]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Marcos Tovar",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Addition Recording By]",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "Donnie Scantz",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Music]",
+          "tracks": "",
+          "id": 261281,
+          "resource_url": "https://api.discogs.com/artists/261281"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Marcos Tovar",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "Alexander Izquierdo",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3019414,
+          "resource_url": "https://api.discogs.com/artists/3019414"
+        },
+        {
+          "name": "Ernest Wilson (2)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 701315,
+          "resource_url": "https://api.discogs.com/artists/701315"
+        },
+        {
+          "name": "Sean Fenton",
+          "anv": "Sean \"Elijah Blake\" Fenton",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1763377,
+          "resource_url": "https://api.discogs.com/artists/1763377"
+        },
+        {
+          "name": "Steve Wyreman",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 709061,
+          "resource_url": "https://api.discogs.com/artists/709061"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Lost In Paradise",
+      "extraartists": [
+        {
+          "name": "Blake Mares",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineering]",
+          "tracks": "",
+          "id": 3016323,
+          "resource_url": "https://api.discogs.com/artists/3016323"
+        },
+        {
+          "name": "Robert Cohen (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineering]",
+          "tracks": "",
+          "id": 2960496,
+          "resource_url": "https://api.discogs.com/artists/2960496"
+        },
+        {
+          "name": "Phil Tan",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 94953,
+          "resource_url": "https://api.discogs.com/artists/94953"
+        },
+        {
+          "name": "Labrinth",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1154116,
+          "resource_url": "https://api.discogs.com/artists/1154116"
+        },
+        {
+          "name": "Stargate (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 79704,
+          "resource_url": "https://api.discogs.com/artists/79704"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals Produced By]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Marcos Tovar",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "Ester Dean",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1550260,
+          "resource_url": "https://api.discogs.com/artists/1550260"
+        },
+        {
+          "name": "Mikkel S. Eriksen",
+          "anv": "M.S. Eriksen",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 88563,
+          "resource_url": "https://api.discogs.com/artists/88563"
+        },
+        {
+          "name": "Tor Erik Hermansen",
+          "anv": "T.E. Hermansen",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 390381,
+          "resource_url": "https://api.discogs.com/artists/390381"
+        }
+      ],
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/uHl1Xhv1k0ybH8Sq8EXF_Es34YcU7qT4xkABphev83c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/MDYtMTY1MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/uHl1Xhv1k0ybH8Sq8EXF_Es34YcU7qT4xkABphev83c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/MDYtMTY1MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/F854DDSRLv2iSalCxB_R0mGQloiyRuMMYHjUiZ9NbpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/MDYtMTY1MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/vmSA7QbQtql4vb7hW9hQ6ESUHbltJqkl3qCWUzldsbY/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/MTYtMzM4NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/vmSA7QbQtql4vb7hW9hQ6ESUHbltJqkl3qCWUzldsbY/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/MTYtMzM4NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/qkLqGj-G3GOF_75SOREsWozIBfwRG3UnrRtvObAVccE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/MTYtMzM4NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 300
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/0kPxyRv_20ylPe92ne_AsUh14MMv4PRLLVdU21vviDw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/NDgtNjYyNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/0kPxyRv_20ylPe92ne_AsUh14MMv4PRLLVdU21vviDw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/NDgtNjYyNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/yG00C2K6Pkuo6I8axrZevc1Ne7wNJeG8DMH_UUuBX-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/NDgtNjYyNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/-OeR6pITDa2ICyaYxnGqpCeok9pfjx_AcbIHbzesjco/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/NDItNzA4My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/-OeR6pITDa2ICyaYxnGqpCeok9pfjx_AcbIHbzesjco/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/NDItNzA4My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Iz09W4wYqiGorLqzJezZSOF5pJRLukwJOrkPg2gdsxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/NDItNzA4My5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/A9S_C1qJvhJu17tnvOw0IfmKbQ4YMmcasCSs6V3cX5Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/MTMtMTk1OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/A9S_C1qJvhJu17tnvOw0IfmKbQ4YMmcasCSs6V3cX5Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/MTMtMTk1OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/bO7NPkQmfwPJiHwXNLSzKE3ayM7UTkzAQ6m9wqWAPlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/MTMtMTk1OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/I-4y5bLOYybD7yvHHTaiespci8gnT7Oy96vjJwfvS5E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/NDEtNDgwNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/I-4y5bLOYybD7yvHHTaiespci8gnT7Oy96vjJwfvS5E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/NDEtNDgwNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/5kEJbM1byOU3IRXLLtyp2HL7_7pSC6q3ueY0WwhJKD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/NDEtNDgwNi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/PcjS-XTwqiNfRwrFKFrvavXJ4Ky_g5Lti6eZmTAVRVA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/NTctODE4MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/PcjS-XTwqiNfRwrFKFrvavXJ4Ky_g5Lti6eZmTAVRVA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/NTctODE4MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/LtxCEXuD84a8IRQjj8pWobHQccakiiQTAKm6KSmMvOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/NTctODE4MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/z-OTCnJKvgxzhgX9tmHP7nLkNFl_mptpucSI7iOWxjU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/NTYtOTQ0OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/z-OTCnJKvgxzhgX9tmHP7nLkNFl_mptpucSI7iOWxjU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/NTYtOTQ0OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/C0QYwPHP07NZXznpgmXwcOJLtPDR3k9DL4asWXp45iw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/NTYtOTQ0OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/PlX1e3Ndb8LrmDjtiuqgokEWbKaBx3FaJgluwAYMU80/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/NjAtNjU4NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/PlX1e3Ndb8LrmDjtiuqgokEWbKaBx3FaJgluwAYMU80/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/NjAtNjU4NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/3P7mWRYRHuvtouiFSHy4wCtuyTzRdPOBtL70n-5SUxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/NjAtNjU4NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/F854DDSRLv2iSalCxB_R0mGQloiyRuMMYHjUiZ9NbpE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDkw/NDQ2LTE0OTU5NTk3/MDYtMTY1MS5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

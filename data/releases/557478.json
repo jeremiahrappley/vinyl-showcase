@@ -1,0 +1,398 @@
+{
+  "id": 557478,
+  "status": "Accepted",
+  "year": 1986,
+  "resource_url": "https://api.discogs.com/releases/557478",
+  "uri": "https://www.discogs.com/release/557478-Sade-Never-As-Good-As-The-First-Time",
+  "artists": [
+    {
+      "name": "Sade",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 19731,
+      "resource_url": "https://api.discogs.com/artists/19731",
+      "thumbnail_url": "https://i.discogs.com/EKLCzSBj-FM3OP9CM29QpcpTh5CBYXee5UsRvteoVNg/rs:fit/g:sm/q:90/h:432/w:537/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE5NzMx/LTEyMTc4NTg3MTcu/anBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Sade",
+  "labels": [
+    {
+      "name": "Portrait",
+      "catno": "4R9 05375",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 5056,
+      "resource_url": "https://api.discogs.com/labels/5056",
+      "thumbnail_url": "https://i.discogs.com/Al4qnpadz-6ZKaicORstcbFUnKc117CNQcvRcndlg60/rs:fit/g:sm/q:90/h:192/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUwNTYt/MTcwODAzNzA3Ny01/MDcxLmpwZWc.jpeg"
+    },
+    {
+      "name": "Portrait",
+      "catno": "4R9-05375",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 5056,
+      "resource_url": "https://api.discogs.com/labels/5056",
+      "thumbnail_url": "https://i.discogs.com/Al4qnpadz-6ZKaicORstcbFUnKc117CNQcvRcndlg60/rs:fit/g:sm/q:90/h:192/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUwNTYt/MTcwODAzNzA3Ny01/MDcxLmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "CBS Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 19936,
+      "resource_url": "https://api.discogs.com/labels/19936",
+      "thumbnail_url": "https://i.discogs.com/SaMj-8Lf2hSdztEzV8bVbntzoC8mSP105LGUjsUL91o/rs:fit/g:sm/q:90/h:72/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5OTM2/LTE3NjY5MjIzNzMt/OTkyNy5qcGVn.jpeg"
+    },
+    {
+      "name": "CBS Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 19936,
+      "resource_url": "https://api.discogs.com/labels/19936",
+      "thumbnail_url": "https://i.discogs.com/SaMj-8Lf2hSdztEzV8bVbntzoC8mSP105LGUjsUL91o/rs:fit/g:sm/q:90/h:72/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5OTM2/LTE3NjY5MjIzNzMt/OTkyNy5qcGVn.jpeg"
+    },
+    {
+      "name": "Portrait Records (4)",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 365528,
+      "resource_url": "https://api.discogs.com/labels/365528"
+    },
+    {
+      "name": "Frankford/Wayne Mastering Labs",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 199325,
+      "resource_url": "https://api.discogs.com/labels/199325",
+      "thumbnail_url": "https://i.discogs.com/HDnR6W2DaHBbVKqQpAiIPrI9supkUsjLZSQtVQRnj2o/rs:fit/g:sm/q:90/h:242/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5OTMy/NS0xNDUyNTk3Nzcy/LTU1MjAuanBlZw.jpeg"
+    },
+    {
+      "name": "Customatrix",
+      "catno": "",
+      "entity_type": "44",
+      "entity_type_name": "Plated At",
+      "id": 586613,
+      "resource_url": "https://api.discogs.com/labels/586613",
+      "thumbnail_url": "https://i.discogs.com/LiE-B7ojg3c5y6MjWhT1mxNVst27bYOmGZyVCBx8Ljo/rs:fit/g:sm/q:90/h:203/w:176/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU4NjYx/My0xNzYwNTM1MzEw/LTk2NTAuanBlZw.jpeg"
+    },
+    {
+      "name": "Columbia Records Pressing Plant, Pitman",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 447694,
+      "resource_url": "https://api.discogs.com/labels/447694",
+      "thumbnail_url": "https://i.discogs.com/wBWbBFOUkrSdKRV0SZ5BnJd4BHbnh6JtHDUy3MT6h4s/rs:fit/g:sm/q:90/h:216/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQ0NzY5/NC0xMzk1MzQzMzg3/LTU3NDguanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "12\"",
+        "33 ⅓ RPM",
+        "Stereo"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 792,
+    "want": 353,
+    "rating": {
+      "count": 51,
+      "average": 4.8
+    },
+    "submitter": {
+      "username": "data_boy",
+      "resource_url": "https://api.discogs.com/users/data_boy"
+    },
+    "contributors": [
+      {
+        "username": "data_boy",
+        "resource_url": "https://api.discogs.com/users/data_boy"
+      },
+      {
+        "username": "Xaman",
+        "resource_url": "https://api.discogs.com/users/Xaman"
+      },
+      {
+        "username": "Fuse1",
+        "resource_url": "https://api.discogs.com/users/Fuse1"
+      },
+      {
+        "username": "osommers",
+        "resource_url": "https://api.discogs.com/users/osommers"
+      },
+      {
+        "username": "audio_man",
+        "resource_url": "https://api.discogs.com/users/audio_man"
+      },
+      {
+        "username": "sejo",
+        "resource_url": "https://api.discogs.com/users/sejo"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2005-11-07T01:03:43-08:00",
+  "date_changed": "2026-04-12T12:30:23-07:00",
+  "num_for_sale": 25,
+  "lowest_price": 4,
+  "master_id": 110932,
+  "master_url": "https://api.discogs.com/masters/110932",
+  "title": "Never As Good As The First Time",
+  "country": "US",
+  "released": "1986",
+  "notes": "Track A. Special version from the Portrait Lp: 'Promise' FR 40263\n\n[labels]\nSide A. ℗ 1985 CBS Records\nSide B. ℗ 1986 CBS Records\n\n[sleeve]\n© 1985 CBS Records / ℗ 1985 CBS Records / Manufactured by Portrait Records\n",
+  "released_formatted": "1986",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "074640537516",
+      "description": "Scanned"
+    },
+    {
+      "type": "Barcode",
+      "value": "0 7464-05375-1",
+      "description": "Text on sleeve"
+    },
+    {
+      "type": "Barcode",
+      "value": "7464-05375-1",
+      "description": "Text on labels"
+    },
+    {
+      "type": "Pressing Plant ID",
+      "value": "P",
+      "description": "Etched in runouts, sides A & B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "XSS 175068",
+      "description": "Side A label"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "XSS 175069",
+      "description": "Side B label"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "P (AP) o XSS-175068-1A  1  2  MASTERING BY FRANKFORD/WAYNE NEW YORK HERbIE JR :<)",
+      "description": "Runout side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "P (AP) XSS-175069-1B  1  A  o  MASTERING BY FRANKFORD/WAYNE NEW YORK HERbIE JR :<) ",
+      "description": "Runout side B"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=UfzmVUrZplw",
+      "title": "Sade - Never As Good As The First Time - Official - 1986",
+      "description": "Sade – Never As Good As The First Time \nDirector - Brian Ward – March 1986\nThe official YouTube channel for the British iconic band Sade \n \nwww.sade.com\n \nSade (vocals)\nStuart Matthewman (saxophone / guitar)\nAndrew Hale (keyboards)\nPaul Spencer Denman (ba",
+      "duration": 235,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=8ht1iqGp3Ws",
+      "title": "sade ' never as good as the first time ) extended remix  1985",
+      "description": "",
+      "duration": 309,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=UfzmVUrZplw",
+      "title": "Sade - Never As Good As The First Time - Official - 1986",
+      "description": "Sade – Never As Good As The First Time \nDirector - Brian Ward – March 1986\nThe official YouTube channel for the British iconic band Sade \n \nwww.sade.com\n \nSade (vocals)\nStuart Matthewman (saxophone / guitar)\nAndrew Hale (keyboards)\nPaul Spencer Denman (ba",
+      "duration": 235,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=-yWZnXZoQls",
+      "title": "Keep Hanging On (Live Instrumental) / Sade",
+      "description": "Lebel : Portrait ‎– RAS 2293\nFormat : Vinyl, 12\", Promo, 33 ⅓ RPM \nCountry : US\nRelease : 1985\nGenre : Electronic, Jazz\nStyle : Soul-Jazz, Downtempo\n\n\n#UC30mFTmkW7TIR_6iO135Ckw #SADE #Portrait",
+      "duration": 170,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Jazz"
+  ],
+  "styles": [
+    "Soul-Jazz",
+    "Downtempo"
+  ],
+  "tracklist": [
+    {
+      "position": "A",
+      "type_": "track",
+      "title": "Never As Good As The First Time (Extended Remix)",
+      "extraartists": [
+        {
+          "name": "Sade Adu",
+          "anv": "Adu",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 482893,
+          "resource_url": "https://api.discogs.com/artists/482893"
+        },
+        {
+          "name": "Stuart Matthewman",
+          "anv": "Matthewman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 9049,
+          "resource_url": "https://api.discogs.com/artists/9049"
+        }
+      ],
+      "duration": "5:12"
+    },
+    {
+      "position": "B",
+      "type_": "track",
+      "title": "Keep Hanging On (Live Instrumental)",
+      "extraartists": [
+        {
+          "name": "Andrew Hale",
+          "anv": "Hale",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 209279,
+          "resource_url": "https://api.discogs.com/artists/209279"
+        },
+        {
+          "name": "Gordon Hunte",
+          "anv": "Hunte",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 396315,
+          "resource_url": "https://api.discogs.com/artists/396315"
+        },
+        {
+          "name": "Sade Adu",
+          "anv": "Adu",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 482893,
+          "resource_url": "https://api.discogs.com/artists/482893"
+        },
+        {
+          "name": "Stuart Matthewman",
+          "anv": "Matthewman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 9049,
+          "resource_url": "https://api.discogs.com/artists/9049"
+        }
+      ],
+      "duration": "2:59"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Herb Powers Jr.",
+      "anv": "Herbie Jr",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 59453,
+      "resource_url": "https://api.discogs.com/artists/59453"
+    },
+    {
+      "name": "Ben Rogan",
+      "anv": "",
+      "join": "",
+      "role": "Producer, Engineer",
+      "tracks": "",
+      "id": 217689,
+      "resource_url": "https://api.discogs.com/artists/217689"
+    },
+    {
+      "name": "Mike Pela",
+      "anv": "",
+      "join": "",
+      "role": "Producer, Engineer",
+      "tracks": "",
+      "id": 176429,
+      "resource_url": "https://api.discogs.com/artists/176429"
+    },
+    {
+      "name": "Ben Rogan",
+      "anv": "Rogan",
+      "join": "",
+      "role": "Remix",
+      "tracks": "",
+      "id": 217689,
+      "resource_url": "https://api.discogs.com/artists/217689"
+    },
+    {
+      "name": "Mike Pela",
+      "anv": "Pela",
+      "join": "",
+      "role": "Remix",
+      "tracks": "",
+      "id": 176429,
+      "resource_url": "https://api.discogs.com/artists/176429"
+    },
+    {
+      "name": "Sade",
+      "anv": "",
+      "join": "",
+      "role": "Remix",
+      "tracks": "",
+      "id": 19731,
+      "resource_url": "https://api.discogs.com/artists/19731"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/Kvt6QdDV6RFYK5wq0GQ3CaYOOzVb-oJDefFW0DMxe5M/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NzQ3/OC0xMTQ3MjYyNTUw/LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/Kvt6QdDV6RFYK5wq0GQ3CaYOOzVb-oJDefFW0DMxe5M/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NzQ3/OC0xMTQ3MjYyNTUw/LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/X7lEi5KHT7NW5KjFTefkQUOsGspiAVIlMr__ViA0C-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NzQ3/OC0xMTQ3MjYyNTUw/LmpwZWc.jpeg",
+      "width": 589,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/rA8bwDHD1mBGtlLHXbBUkFvTulYi440QeNMhZ3Sl4Kk/rs:fit/g:sm/q:90/h:496/w:495/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NzQ3/OC0xMjI3MjI1NzUx/LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/rA8bwDHD1mBGtlLHXbBUkFvTulYi440QeNMhZ3Sl4Kk/rs:fit/g:sm/q:90/h:496/w:495/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NzQ3/OC0xMjI3MjI1NzUx/LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/VvIOOj1429GyVcFAEMQgH0zQwubcl0tP85jDJScpve8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NzQ3/OC0xMjI3MjI1NzUx/LmpwZWc.jpeg",
+      "width": 495,
+      "height": 496
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/7JZonxEdtylNQP5OkbqEDKiPefUqvS_J2cNUPoBo7CE/rs:fit/g:sm/q:90/h:496/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NzQ3/OC0xMjI3MjI1NzYx/LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/7JZonxEdtylNQP5OkbqEDKiPefUqvS_J2cNUPoBo7CE/rs:fit/g:sm/q:90/h:496/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NzQ3/OC0xMjI3MjI1NzYx/LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/o3QLiTVF_hSzfSWY5b7gff3g7TpiMa3-4ZvPFbJ7aZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NzQ3/OC0xMjI3MjI1NzYx/LmpwZWc.jpeg",
+      "width": 498,
+      "height": 496
+    }
+  ],
+  "thumb": "https://i.discogs.com/X7lEi5KHT7NW5KjFTefkQUOsGspiAVIlMr__ViA0C-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU1NzQ3/OC0xMTQ3MjYyNTUw/LmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

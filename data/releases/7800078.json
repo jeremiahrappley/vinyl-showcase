@@ -1,0 +1,2793 @@
+{
+  "id": 7800078,
+  "status": "Accepted",
+  "year": 2015,
+  "resource_url": "https://api.discogs.com/releases/7800078",
+  "uri": "https://www.discogs.com/release/7800078-The-Weeknd-Beauty-Behind-The-Madness",
+  "artists": [
+    {
+      "name": "The Weeknd",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 2171152,
+      "resource_url": "https://api.discogs.com/artists/2171152",
+      "thumbnail_url": "https://i.discogs.com/LtkvbtrtZxt0LY5IqGmt4KHX0-_QNv6xloFNdzy-i7Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxNzEx/NTItMTc2MDQ4MTA2/OS03NzM4LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Weeknd, The",
+  "labels": [
+    {
+      "name": "Republic Records",
+      "catno": "B0023767-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    },
+    {
+      "name": "XO",
+      "catno": "B0023767-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 344571,
+      "resource_url": "https://api.discogs.com/labels/344571",
+      "thumbnail_url": "https://i.discogs.com/j9COP9wfWV1fEC4Yc9cxmJkrcRO3MF4eXbXxtg2sIjw/rs:fit/g:sm/q:90/h:600/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM0NDU3/MS0xNDg4ODM5NTYx/LTcwMjEucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Republic Records",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    },
+    {
+      "name": "Republic Records",
+      "catno": "",
+      "entity_type": "8",
+      "entity_type_name": "Marketed By",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    },
+    {
+      "name": "The Weeknd XO, Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 567380,
+      "resource_url": "https://api.discogs.com/labels/567380",
+      "thumbnail_url": "https://i.discogs.com/6NPxod8LtvweA36YJ20nkT-wCfKtxYuBkQciDFN_fGo/rs:fit/g:sm/q:90/h:333/w:529/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU2NzM4/MC0xNjUxMTYyODQ0/LTE3MzguanBlZw.jpeg"
+    },
+    {
+      "name": "The Weeknd XO, Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 567380,
+      "resource_url": "https://api.discogs.com/labels/567380",
+      "thumbnail_url": "https://i.discogs.com/6NPxod8LtvweA36YJ20nkT-wCfKtxYuBkQciDFN_fGo/rs:fit/g:sm/q:90/h:333/w:529/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU2NzM4/MC0xNjUxMTYyODQ0/LTE3MzguanBlZw.jpeg"
+    },
+    {
+      "name": "Maison de Musique, Los Angeles",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 889476,
+      "resource_url": "https://api.discogs.com/labels/889476"
+    },
+    {
+      "name": "Maison de Musique, Los Angeles",
+      "catno": "",
+      "entity_type": "24",
+      "entity_type_name": "Engineered At",
+      "id": 889476,
+      "resource_url": "https://api.discogs.com/labels/889476"
+    },
+    {
+      "name": "Westlake Studios",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 268145,
+      "resource_url": "https://api.discogs.com/labels/268145",
+      "thumbnail_url": "https://i.discogs.com/RLUW3E9znm-I8W92JcHJO5W5m-pxjRrx_WgEzue6KHs/rs:fit/g:sm/q:90/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2ODE0/NS0xNjUyMzgyNjc2/LTQ3MDYuanBlZw.jpeg"
+    },
+    {
+      "name": "Conway Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 265937,
+      "resource_url": "https://api.discogs.com/labels/265937",
+      "thumbnail_url": "https://i.discogs.com/yH8pXOLciN257RutJRe8Zk3ogg-Rd-ER5dMZsM1atsg/rs:fit/g:sm/q:90/h:243/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTkz/Ny0xNDQ4ODkxNDU3/LTIzMzAuanBlZw.jpeg"
+    },
+    {
+      "name": "Conway Studios",
+      "catno": "",
+      "entity_type": "24",
+      "entity_type_name": "Engineered At",
+      "id": 265937,
+      "resource_url": "https://api.discogs.com/labels/265937",
+      "thumbnail_url": "https://i.discogs.com/yH8pXOLciN257RutJRe8Zk3ogg-Rd-ER5dMZsM1atsg/rs:fit/g:sm/q:90/h:243/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTkz/Ny0xNDQ4ODkxNDU3/LTIzMzAuanBlZw.jpeg"
+    },
+    {
+      "name": "The Lab",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 44132,
+      "resource_url": "https://api.discogs.com/labels/44132",
+      "thumbnail_url": "https://i.discogs.com/qmSPIxLwcwHIkC1Vu2ikUlMVVGeBkgt8lwlzaRZ9eBQ/rs:fit/g:sm/q:90/h:244/w:417/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQ0MTMy/LTE0MzEzMjAxNzkt/OTY5MC5qcGVn.jpeg"
+    },
+    {
+      "name": "Conway Studios",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 265937,
+      "resource_url": "https://api.discogs.com/labels/265937",
+      "thumbnail_url": "https://i.discogs.com/yH8pXOLciN257RutJRe8Zk3ogg-Rd-ER5dMZsM1atsg/rs:fit/g:sm/q:90/h:243/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTkz/Ny0xNDQ4ODkxNDU3/LTIzMzAuanBlZw.jpeg"
+    },
+    {
+      "name": "Daheala & Co. Moblie Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 889551,
+      "resource_url": "https://api.discogs.com/labels/889551"
+    },
+    {
+      "name": "Daheala & Co. Moblie Studios",
+      "catno": "",
+      "entity_type": "24",
+      "entity_type_name": "Engineered At",
+      "id": 889551,
+      "resource_url": "https://api.discogs.com/labels/889551"
+    },
+    {
+      "name": "No Name Studios, CA",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 889547,
+      "resource_url": "https://api.discogs.com/labels/889547"
+    },
+    {
+      "name": "No Name Studios, CA",
+      "catno": "",
+      "entity_type": "24",
+      "entity_type_name": "Engineered At",
+      "id": 889547,
+      "resource_url": "https://api.discogs.com/labels/889547"
+    },
+    {
+      "name": "Bota Studios, Toronto",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 889549,
+      "resource_url": "https://api.discogs.com/labels/889549"
+    },
+    {
+      "name": "Bota Studios, Toronto",
+      "catno": "",
+      "entity_type": "24",
+      "entity_type_name": "Engineered At",
+      "id": 889549,
+      "resource_url": "https://api.discogs.com/labels/889549"
+    },
+    {
+      "name": "The Nook",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 385354,
+      "resource_url": "https://api.discogs.com/labels/385354",
+      "thumbnail_url": "https://i.discogs.com/kElNZZd5IiIYntyoupEaHM83ctO9Ky2kPWehlkHO8GQ/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4NTM1/NC0xMzQ1MzYwOTMy/LTgxMDYuanBlZw.jpeg"
+    },
+    {
+      "name": "Jungle City Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 358620,
+      "resource_url": "https://api.discogs.com/labels/358620",
+      "thumbnail_url": "https://i.discogs.com/1lTIVGWtRPqpaJ-349BnEFbjxnMZMMxlABFAl3aCjCc/rs:fit/g:sm/q:90/h:366/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM1ODYy/MC0xMzQ2NjMzMzA1/LTg3MTAucG5n.jpeg"
+    },
+    {
+      "name": "Jungle City Studios",
+      "catno": "",
+      "entity_type": "24",
+      "entity_type_name": "Engineered At",
+      "id": 358620,
+      "resource_url": "https://api.discogs.com/labels/358620",
+      "thumbnail_url": "https://i.discogs.com/1lTIVGWtRPqpaJ-349BnEFbjxnMZMMxlABFAl3aCjCc/rs:fit/g:sm/q:90/h:366/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM1ODYy/MC0xMzQ2NjMzMzA1/LTg3MTAucG5n.jpeg"
+    },
+    {
+      "name": "MXM Studios, Los Angeles",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 889550,
+      "resource_url": "https://api.discogs.com/labels/889550"
+    },
+    {
+      "name": "MXM Studios, Los Angeles",
+      "catno": "",
+      "entity_type": "24",
+      "entity_type_name": "Engineered At",
+      "id": 889550,
+      "resource_url": "https://api.discogs.com/labels/889550"
+    },
+    {
+      "name": "Wolf Cousins Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 731678,
+      "resource_url": "https://api.discogs.com/labels/731678",
+      "thumbnail_url": "https://i.discogs.com/t9Kdt2dQUpnTTTUnTdlJ7zcoWlWEdQSOT6zgjspZGMA/rs:fit/g:sm/q:90/h:190/w:456/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTczMTY3/OC0xNDA5ODM2MzE1/LTc0MjUuanBlZw.jpeg"
+    },
+    {
+      "name": "Wolf Cousins Studios",
+      "catno": "",
+      "entity_type": "24",
+      "entity_type_name": "Engineered At",
+      "id": 731678,
+      "resource_url": "https://api.discogs.com/labels/731678",
+      "thumbnail_url": "https://i.discogs.com/t9Kdt2dQUpnTTTUnTdlJ7zcoWlWEdQSOT6zgjspZGMA/rs:fit/g:sm/q:90/h:190/w:456/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTczMTY3/OC0xNDA5ODM2MzE1/LTc0MjUuanBlZw.jpeg"
+    },
+    {
+      "name": "MixStar Studios",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 263950,
+      "resource_url": "https://api.discogs.com/labels/263950",
+      "thumbnail_url": "https://i.discogs.com/qG6PaPI2ofn5JXPJA48pHQ0jtOf2mG-nOlLHuixaImk/rs:fit/g:sm/q:90/h:195/w:456/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2Mzk1/MC0xMzU0NDYzODcx/LTYzOTkuZ2lm.jpeg"
+    },
+    {
+      "name": "Studio Red Room",
+      "catno": "",
+      "entity_type": "39",
+      "entity_type_name": "Recorded By",
+      "id": 889548,
+      "resource_url": "https://api.discogs.com/labels/889548"
+    },
+    {
+      "name": "Studio Red Room",
+      "catno": "",
+      "entity_type": "36",
+      "entity_type_name": "Edited At",
+      "id": 889548,
+      "resource_url": "https://api.discogs.com/labels/889548"
+    },
+    {
+      "name": "Sterling Sound",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 264060,
+      "resource_url": "https://api.discogs.com/labels/264060",
+      "thumbnail_url": "https://i.discogs.com/Z8f0gMBrt5jLL4TAcCYDGXmMPOLi9V0UW593WXP6BUU/rs:fit/g:sm/q:90/h:118/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDA2/MC0xNTAwMjgzMzYy/LTMyMTguanBlZw.jpeg"
+    },
+    {
+      "name": "United Record Pressing",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 238322,
+      "resource_url": "https://api.discogs.com/labels/238322",
+      "thumbnail_url": "https://i.discogs.com/wXejTcaBZif0vNl1Wx8ZmvUBcAwkQ21T3AduA-BjUg8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzODMy/Mi0xNDk3Nzk0Njg4/LTg0MzAucG5n.jpeg"
+    },
+    {
+      "name": "Sterling Sound",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 264060,
+      "resource_url": "https://api.discogs.com/labels/264060",
+      "thumbnail_url": "https://i.discogs.com/Z8f0gMBrt5jLL4TAcCYDGXmMPOLi9V0UW593WXP6BUU/rs:fit/g:sm/q:90/h:118/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDA2/MC0xNTAwMjgzMzYy/LTMyMTguanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album"
+      ],
+      "text": "150 gram"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 9251,
+    "want": 3918,
+    "rating": {
+      "count": 492,
+      "average": 4.46
+    },
+    "submitter": {
+      "username": "HyperSoul",
+      "resource_url": "https://api.discogs.com/users/HyperSoul"
+    },
+    "contributors": [
+      {
+        "username": "HyperSoul",
+        "resource_url": "https://api.discogs.com/users/HyperSoul"
+      },
+      {
+        "username": "CD_WAREHOUSE_817",
+        "resource_url": "https://api.discogs.com/users/CD_WAREHOUSE_817"
+      },
+      {
+        "username": "movceo",
+        "resource_url": "https://api.discogs.com/users/movceo"
+      },
+      {
+        "username": "Mikuti",
+        "resource_url": "https://api.discogs.com/users/Mikuti"
+      },
+      {
+        "username": "DAVE-I.D.",
+        "resource_url": "https://api.discogs.com/users/DAVE-I.D."
+      },
+      {
+        "username": "Ioveless",
+        "resource_url": "https://api.discogs.com/users/Ioveless"
+      },
+      {
+        "username": "degm",
+        "resource_url": "https://api.discogs.com/users/degm"
+      },
+      {
+        "username": "test-rock",
+        "resource_url": "https://api.discogs.com/users/test-rock"
+      },
+      {
+        "username": "_jules",
+        "resource_url": "https://api.discogs.com/users/_jules"
+      },
+      {
+        "username": "chhincapie",
+        "resource_url": "https://api.discogs.com/users/chhincapie"
+      },
+      {
+        "username": "Opdiner",
+        "resource_url": "https://api.discogs.com/users/Opdiner"
+      },
+      {
+        "username": "vrp_pdx",
+        "resource_url": "https://api.discogs.com/users/vrp_pdx"
+      },
+      {
+        "username": "somebetterplace",
+        "resource_url": "https://api.discogs.com/users/somebetterplace"
+      },
+      {
+        "username": "AustinSimard",
+        "resource_url": "https://api.discogs.com/users/AustinSimard"
+      },
+      {
+        "username": "Audioear",
+        "resource_url": "https://api.discogs.com/users/Audioear"
+      },
+      {
+        "username": "PokemonBlueVersion",
+        "resource_url": "https://api.discogs.com/users/PokemonBlueVersion"
+      },
+      {
+        "username": "Xmipod",
+        "resource_url": "https://api.discogs.com/users/Xmipod"
+      },
+      {
+        "username": "0xA7X",
+        "resource_url": "https://api.discogs.com/users/0xA7X"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2015-12-01T19:53:34-08:00",
+  "date_changed": "2024-02-14T07:04:22-08:00",
+  "num_for_sale": 38,
+  "lowest_price": 24,
+  "master_id": 877638,
+  "master_url": "https://api.discogs.com/masters/877638",
+  "title": "Beauty Behind The Madness",
+  "country": "US",
+  "released": "2015-12-01",
+  "notes": "Released in a gatefold jacket.\nLabels indicate records weight to be 150 grams each.\n\nNot to be confused with the [url=https://www.discogs.com/release/28334494-The-Weeknd-Beauty-Behind-The-Madness]2023 reissue manufactured in Mexico[/url].",
+  "released_formatted": "01 Dec 2015",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02547 50336 7",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "602547503367",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0023767-01 LP1A RJ STERLING ⓤ",
+      "description": "Side A runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0023767-01 LP1B RJ STERLING ⓤ",
+      "description": "Side B runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0023767-01 LP2A RJ STERLING ⓤ",
+      "description": "Side C runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0023767-01 LP2B RJ STERLING ⓤ",
+      "description": "Side D runout"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=yzTuBuRdAyA",
+      "title": "The Weeknd - The Hills (Official Video)",
+      "description": "The Weeknd - The Hills (Official Video)\nDownload Song: http://theweeknd.co/BeautyBehindTheMadness \nTaken from the new album Beauty Behind The Madness\n \nStream/Share on Spotify: https://open.spotify.com/track/2HNcNd5RPZ7DSRNbIl6JsP \n \nConnect with The Week",
+      "duration": 235,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KEI4qSrkPAs",
+      "title": "The Weeknd - Can't Feel My Face (Official Video)",
+      "description": "The Weeknd – Can’t Feel My Face (Official Video)\nDownload Song: http://theweeknd.co/BeautyBehindTheMadness \nTaken from the new album Beauty Behind The Madness\n \nStream/Share on Spotify: https://open.spotify.com/track/6FXNfYIY6iEeCKuIeSYWgg \n \nConnect ",
+      "duration": 219,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=waU75jdUnYw",
+      "title": "The Weeknd - Earned It (from Fifty Shades Of Grey) (Official Video - Explicit)",
+      "description": "Receive “Earned It” instantly when you pre-order the Fifty Shades of Grey (Original Motion Picture Soundtrack) here: http://smarturl.it/FiftyShadesSndtk \nStream/Share “Earned It” on Spotify: http://smarturl.it/TheWeekndEarnedItSP \n\nThe global phen",
+      "duration": 276,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=JPIhUaONiLU",
+      "title": "The Weeknd - Often (NSFW) (Official Video)",
+      "description": "The Weeknd - Often (NFSW Official Video)\nDownload Song: http://theweeknd.co/BeautyBehindTheMadness \nTaken from the new album Beauty Behind The Madness\n \nStream/Share on Spotify: https://open.spotify.com/track/4AILWMTyKIlicSfDVNtZQD \n \nConnect with The Wee",
+      "duration": 250,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=gdk0nTindZc",
+      "title": "Shameless",
+      "description": "Provided to YouTube by Universal Music Group\n\nShameless · The Weeknd\n\nBeauty Behind The Madness\n\n℗ 2015 The Weeknd XO, Inc., Manufactured and Marketed by Republic Records, a Division of UMG Recordings, Inc.\n\nReleased on: 2015-08-28\n\nProducer: Ali Payam",
+      "duration": 254,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=x0bRHmTQEsE",
+      "title": "Prisoner",
+      "description": "Provided to YouTube by Universal Music Group\n\nPrisoner · The Weeknd · Lana Del Rey\n\nBeauty Behind The Madness\n\n℗ 2015 The Weeknd XO, Inc., Manufactured and Marketed by Republic Records, a Division of UMG Recordings, Inc.\n\nReleased on: 2015-08-28\n\nMixing E",
+      "duration": 275,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=yzTuBuRdAyA",
+      "title": "The Weeknd - The Hills",
+      "description": "The Weeknd - The Hills (Official Video)\nDownload Song: http://theweeknd.co/BeautyBehindTheMadness \nTaken from the new album Beauty Behind The Madness\n \nStream/Share on Spotify: https://open.spotify.com/track/2HNcNd5RPZ7DSRNbIl6JsP \n \nConnect with The Week",
+      "duration": 235,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KEI4qSrkPAs",
+      "title": "The Weeknd - Can't Feel My Face (Official Video)",
+      "description": "The Weeknd – Can’t Feel My Face (Official Video)\nDownload Song: http://theweeknd.co/BeautyBehindTheMadness \nTaken from the new album Beauty Behind The Madness\n \nStream/Share on Spotify: https://open.spotify.com/track/6FXNfYIY6iEeCKuIeSYWgg \n \nConnect ",
+      "duration": 219,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=2iFa5We6zqw",
+      "title": "The Weeknd - In The Night (Official Video)",
+      "description": "In The Night (Official Video)\nSong available on the new album Beauty Behind The Madness\nhttp://theweeknd.co/BeautyBehindTheMadness \n\nStream/Share “In The Night” on Spotify:   https://open.spotify.com/track/7fPHfBCyKE3aVCBjE4DAvl           \n\nConnect wi",
+      "duration": 388,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Hip Hop",
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Contemporary R&B",
+    "Soul"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Real Life",
+      "extraartists": [
+        {
+          "name": "Abel Tesfaye",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals [Background]",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Stephan Moccio",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals [Background]",
+          "tracks": "",
+          "id": 567104,
+          "resource_url": "https://api.discogs.com/artists/567104"
+        },
+        {
+          "name": "Paul Bushnell",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 247858,
+          "resource_url": "https://api.discogs.com/artists/247858"
+        },
+        {
+          "name": "Vanessa Freebairn-Smith",
+          "anv": "",
+          "join": "",
+          "role": "Cello",
+          "tracks": "",
+          "id": 322644,
+          "resource_url": "https://api.discogs.com/artists/322644"
+        },
+        {
+          "name": "Jonathan Berry",
+          "anv": "Jonathan Martin Berry",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 1698862,
+          "resource_url": "https://api.discogs.com/artists/1698862"
+        },
+        {
+          "name": "Jay Paul Bicknell",
+          "anv": "",
+          "join": "",
+          "role": "Keyboards",
+          "tracks": "",
+          "id": 4344929,
+          "resource_url": "https://api.discogs.com/artists/4344929"
+        },
+        {
+          "name": "Stephan Moccio",
+          "anv": "",
+          "join": "",
+          "role": "Keyboards",
+          "tracks": "",
+          "id": 567104,
+          "resource_url": "https://api.discogs.com/artists/567104"
+        },
+        {
+          "name": "David Reitzas",
+          "anv": "Dave Reitzas",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 84841,
+          "resource_url": "https://api.discogs.com/artists/84841"
+        },
+        {
+          "name": "Greg Eliason",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Mixing Assistant]",
+          "tracks": "",
+          "id": 3886803,
+          "resource_url": "https://api.discogs.com/artists/3886803"
+        },
+        {
+          "name": "Stephan Moccio",
+          "anv": "",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 567104,
+          "resource_url": "https://api.discogs.com/artists/567104"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Jason Quenneville",
+          "anv": "Jason \"Daheala\" Quenneville",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2846474,
+          "resource_url": "https://api.discogs.com/artists/2846474"
+        },
+        {
+          "name": "Stephan Moccio",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 567104,
+          "resource_url": "https://api.discogs.com/artists/567104"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Programmed By",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Jason Quenneville",
+          "anv": "",
+          "join": "",
+          "role": "Programmed By",
+          "tracks": "",
+          "id": 2846474,
+          "resource_url": "https://api.discogs.com/artists/2846474"
+        },
+        {
+          "name": "Jay Paul Bicknell",
+          "anv": "",
+          "join": "",
+          "role": "Programmed By",
+          "tracks": "",
+          "id": 4344929,
+          "resource_url": "https://api.discogs.com/artists/4344929"
+        },
+        {
+          "name": "Stephan Moccio",
+          "anv": "",
+          "join": "",
+          "role": "Programmed By",
+          "tracks": "",
+          "id": 567104,
+          "resource_url": "https://api.discogs.com/artists/567104"
+        },
+        {
+          "name": "Jay Paul Bicknell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By, Engineer",
+          "tracks": "",
+          "id": 4344929,
+          "resource_url": "https://api.discogs.com/artists/4344929"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Jason Quenneville",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2846474,
+          "resource_url": "https://api.discogs.com/artists/2846474"
+        },
+        {
+          "name": "Stephan Moccio",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 567104,
+          "resource_url": "https://api.discogs.com/artists/567104"
+        }
+      ],
+      "duration": "3:43"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Losers",
+      "extraartists": [
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Joshua Smith",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additional Engineering]",
+          "tracks": "",
+          "id": 443760,
+          "resource_url": "https://api.discogs.com/artists/443760"
+        },
+        {
+          "name": "Labrinth",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1154116,
+          "resource_url": "https://api.discogs.com/artists/1154116"
+        },
+        {
+          "name": "Carlo Montagnese",
+          "anv": "Carlo \"Illangelo\" Montagnese",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 3016171,
+          "resource_url": "https://api.discogs.com/artists/3016171"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Carlo Montagnese",
+          "anv": "Carlo \"Illangelo\" Montagnese",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3016171,
+          "resource_url": "https://api.discogs.com/artists/3016171"
+        },
+        {
+          "name": "Labrinth",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1154116,
+          "resource_url": "https://api.discogs.com/artists/1154116"
+        },
+        {
+          "name": "Labrinth",
+          "anv": "",
+          "join": "",
+          "role": "Programmed By, Instrumentation By",
+          "tracks": "",
+          "id": 1154116,
+          "resource_url": "https://api.discogs.com/artists/1154116"
+        },
+        {
+          "name": "Jason Quenneville",
+          "anv": "Jason \"Daheala\" Quenneville",
+          "join": "",
+          "role": "Recorded By, Engineer",
+          "tracks": "",
+          "id": 2846474,
+          "resource_url": "https://api.discogs.com/artists/2846474"
+        },
+        {
+          "name": "Labrinth",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 1154116,
+          "resource_url": "https://api.discogs.com/artists/1154116"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Carlo Montagnese",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3016171,
+          "resource_url": "https://api.discogs.com/artists/3016171"
+        },
+        {
+          "name": "Timothy McKenzie",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1568579,
+          "resource_url": "https://api.discogs.com/artists/1568579"
+        }
+      ],
+      "duration": "4:41"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Tell Your Friends",
+      "extraartists": [
+        {
+          "name": "Kanye West",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals [Back Up]",
+          "tracks": "",
+          "id": 137880,
+          "resource_url": "https://api.discogs.com/artists/137880"
+        },
+        {
+          "name": "Carlo Montagnese",
+          "anv": "Carlo \"Illangelo\" Montagnese",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 3016171,
+          "resource_url": "https://api.discogs.com/artists/3016171"
+        },
+        {
+          "name": "Mike Dean",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 101883,
+          "resource_url": "https://api.discogs.com/artists/101883"
+        },
+        {
+          "name": "Joshua Smith",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additional Engineering]",
+          "tracks": "",
+          "id": 443760,
+          "resource_url": "https://api.discogs.com/artists/443760"
+        },
+        {
+          "name": "Mike Dean",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 101883,
+          "resource_url": "https://api.discogs.com/artists/101883"
+        },
+        {
+          "name": "Carlo Montagnese",
+          "anv": "Carlo \"Illangelo\" Montagnese",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 3016171,
+          "resource_url": "https://api.discogs.com/artists/3016171"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Che Pope",
+          "anv": "The Pope",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 563861,
+          "resource_url": "https://api.discogs.com/artists/563861"
+        },
+        {
+          "name": "Kanye West",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 137880,
+          "resource_url": "https://api.discogs.com/artists/137880"
+        },
+        {
+          "name": "Noah Goldstein",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Additional Production]",
+          "tracks": "",
+          "id": 521195,
+          "resource_url": "https://api.discogs.com/artists/521195"
+        },
+        {
+          "name": "Omar Riad",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Additional Production]",
+          "tracks": "",
+          "id": 3374234,
+          "resource_url": "https://api.discogs.com/artists/3374234"
+        },
+        {
+          "name": "Carlo Montagnese",
+          "anv": "Carlo \"Illangelo\" Montagnese",
+          "join": "",
+          "role": "Recorded By, Engineer",
+          "tracks": "",
+          "id": 3016171,
+          "resource_url": "https://api.discogs.com/artists/3016171"
+        },
+        {
+          "name": "Jason Quenneville",
+          "anv": "Jason \"Deheala\" Quenneville",
+          "join": "",
+          "role": "Recorded By, Engineer",
+          "tracks": "",
+          "id": 2846474,
+          "resource_url": "https://api.discogs.com/artists/2846474"
+        },
+        {
+          "name": "Noah Goldstein",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By, Engineer",
+          "tracks": "",
+          "id": 521195,
+          "resource_url": "https://api.discogs.com/artists/521195"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Carl Marshall",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 466449,
+          "resource_url": "https://api.discogs.com/artists/466449"
+        },
+        {
+          "name": "Carlo Montagnese",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3016171,
+          "resource_url": "https://api.discogs.com/artists/3016171"
+        },
+        {
+          "name": "Che Pope",
+          "anv": "Christopher \"Che\" Pope",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 563861,
+          "resource_url": "https://api.discogs.com/artists/563861"
+        },
+        {
+          "name": "Kanye West",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 137880,
+          "resource_url": "https://api.discogs.com/artists/137880"
+        },
+        {
+          "name": "Mike Dean",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 101883,
+          "resource_url": "https://api.discogs.com/artists/101883"
+        },
+        {
+          "name": "Robert Holmes",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 328204,
+          "resource_url": "https://api.discogs.com/artists/328204"
+        }
+      ],
+      "duration": "5:34"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Often",
+      "extraartists": [
+        {
+          "name": "Jason Quenneville",
+          "anv": "Jason \"Daheala\" Quenneville",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 2846474,
+          "resource_url": "https://api.discogs.com/artists/2846474"
+        },
+        {
+          "name": "Brandon \"Bizzy\" Hollemon",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 987551,
+          "resource_url": "https://api.discogs.com/artists/987551"
+        },
+        {
+          "name": "Dave Kutch",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 410696,
+          "resource_url": "https://api.discogs.com/artists/410696"
+        },
+        {
+          "name": "Jean-Marie Horvat",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 132883,
+          "resource_url": "https://api.discogs.com/artists/132883"
+        },
+        {
+          "name": "Andy Barnes (2)",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assisted By]",
+          "tracks": "",
+          "id": 4035052,
+          "resource_url": "https://api.discogs.com/artists/4035052"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Ben Billion$",
+          "anv": "Ben Billions",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3399658,
+          "resource_url": "https://api.discogs.com/artists/3399658"
+        },
+        {
+          "name": "Jason Quenneville",
+          "anv": "Jason \"Daheala\" Quenneville",
+          "join": "",
+          "role": "Recorded By, Engineer",
+          "tracks": "",
+          "id": 2846474,
+          "resource_url": "https://api.discogs.com/artists/2846474"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Ahmad Balshe",
+          "anv": "Ahmad \"Belly\" Balshe",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1518059,
+          "resource_url": "https://api.discogs.com/artists/1518059"
+        },
+        {
+          "name": "Ali Kocatepe",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 939199,
+          "resource_url": "https://api.discogs.com/artists/939199"
+        },
+        {
+          "name": "Ben Diehl",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1268301,
+          "resource_url": "https://api.discogs.com/artists/1268301"
+        },
+        {
+          "name": "Danny \"styles\" Schofield",
+          "anv": "Danny Schofield",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1112179,
+          "resource_url": "https://api.discogs.com/artists/1112179"
+        },
+        {
+          "name": "Jason Quenneville",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2846474,
+          "resource_url": "https://api.discogs.com/artists/2846474"
+        },
+        {
+          "name": "Osman İşmen",
+          "anv": "Osman Ismen",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 939315,
+          "resource_url": "https://api.discogs.com/artists/939315"
+        },
+        {
+          "name": "Sabahattin Ali",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 939329,
+          "resource_url": "https://api.discogs.com/artists/939329"
+        }
+      ],
+      "duration": "4:09"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "The Hills",
+      "extraartists": [
+        {
+          "name": "Carlo Montagnese",
+          "anv": "Carlo \"Illangelo\" Montagnese",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3016171,
+          "resource_url": "https://api.discogs.com/artists/3016171"
+        },
+        {
+          "name": "Million Dollar Mano",
+          "anv": "Mano",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1016080,
+          "resource_url": "https://api.discogs.com/artists/1016080"
+        },
+        {
+          "name": "Carlo Montagnese",
+          "anv": "Carlo \"Illangelo\" Montagnese",
+          "join": "",
+          "role": "Recorded By, Engineer, Mixed By",
+          "tracks": "",
+          "id": 3016171,
+          "resource_url": "https://api.discogs.com/artists/3016171"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Ahmad Balshe",
+          "anv": "Ahmad \"Belly\" Balshe",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1518059,
+          "resource_url": "https://api.discogs.com/artists/1518059"
+        },
+        {
+          "name": "Carlo Montagnese",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3016171,
+          "resource_url": "https://api.discogs.com/artists/3016171"
+        },
+        {
+          "name": "Emmanuel Nickerson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1571047,
+          "resource_url": "https://api.discogs.com/artists/1571047"
+        }
+      ],
+      "duration": "4:02"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Acquainted",
+      "extraartists": [
+        {
+          "name": "Carlo Montagnese",
+          "anv": "Carlo \"Illangelo\" Montagnese",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 3016171,
+          "resource_url": "https://api.discogs.com/artists/3016171"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Ben Billion$",
+          "anv": "Ben Billions",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3399658,
+          "resource_url": "https://api.discogs.com/artists/3399658"
+        },
+        {
+          "name": "Carlo Montagnese",
+          "anv": "Carlo \"Illangelo\" Montagnese",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3016171,
+          "resource_url": "https://api.discogs.com/artists/3016171"
+        },
+        {
+          "name": "Dannyboystyles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3547417,
+          "resource_url": "https://api.discogs.com/artists/3547417"
+        },
+        {
+          "name": "Jason Quenneville",
+          "anv": "Jason \"Deheala\" Quenneville",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2846474,
+          "resource_url": "https://api.discogs.com/artists/2846474"
+        },
+        {
+          "name": "Carlo Montagnese",
+          "anv": "Carlo \"Illangelo\" Montagnese",
+          "join": "",
+          "role": "Recorded By, Engineer",
+          "tracks": "",
+          "id": 3016171,
+          "resource_url": "https://api.discogs.com/artists/3016171"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Ben Diehl",
+          "anv": "Benjamin Diehl",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1268301,
+          "resource_url": "https://api.discogs.com/artists/1268301"
+        },
+        {
+          "name": "Carlo Montagnese",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3016171,
+          "resource_url": "https://api.discogs.com/artists/3016171"
+        },
+        {
+          "name": "Danny \"styles\" Schofield",
+          "anv": "Danny Schofield",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1112179,
+          "resource_url": "https://api.discogs.com/artists/1112179"
+        },
+        {
+          "name": "Jason Quenneville",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2846474,
+          "resource_url": "https://api.discogs.com/artists/2846474"
+        }
+      ],
+      "duration": "5:48"
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Can't Feel My Face",
+      "extraartists": [
+        {
+          "name": "Peter Carlsson (3)",
+          "anv": "",
+          "join": "",
+          "role": "Edited By [Vocal Editing]",
+          "tracks": "",
+          "id": 3518182,
+          "resource_url": "https://api.discogs.com/artists/3518182"
+        },
+        {
+          "name": "Cory Bice",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineered]",
+          "tracks": "",
+          "id": 3395926,
+          "resource_url": "https://api.discogs.com/artists/3395926"
+        },
+        {
+          "name": "Jeremy Lertola",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineered]",
+          "tracks": "",
+          "id": 4470807,
+          "resource_url": "https://api.discogs.com/artists/4470807"
+        },
+        {
+          "name": "John Hanes",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Engineered For Mix By]",
+          "tracks": "",
+          "id": 210636,
+          "resource_url": "https://api.discogs.com/artists/210636"
+        },
+        {
+          "name": "Peter Svensson",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 256765,
+          "resource_url": "https://api.discogs.com/artists/256765"
+        },
+        {
+          "name": "Peter Svensson",
+          "anv": "",
+          "join": "",
+          "role": "Keyboards [Additional Keys]",
+          "tracks": "",
+          "id": 256765,
+          "resource_url": "https://api.discogs.com/artists/256765"
+        },
+        {
+          "name": "Serban Ghenea",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 105435,
+          "resource_url": "https://api.discogs.com/artists/105435"
+        },
+        {
+          "name": "Ali Payami",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 281132,
+          "resource_url": "https://api.discogs.com/artists/281132"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Programmed By [Additional Programming]",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        },
+        {
+          "name": "Ali Payami",
+          "anv": "",
+          "join": "",
+          "role": "Programmed By, Drums, Synth, Keyboards [Keys], Bass",
+          "tracks": "",
+          "id": 281132,
+          "resource_url": "https://api.discogs.com/artists/281132"
+        },
+        {
+          "name": "Sam Holland",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By, Engineer",
+          "tracks": "",
+          "id": 516338,
+          "resource_url": "https://api.discogs.com/artists/516338"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Ali Payami",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 281132,
+          "resource_url": "https://api.discogs.com/artists/281132"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        },
+        {
+          "name": "Peter Svensson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 256765,
+          "resource_url": "https://api.discogs.com/artists/256765"
+        },
+        {
+          "name": "Savan Kotecha",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 392547,
+          "resource_url": "https://api.discogs.com/artists/392547"
+        }
+      ],
+      "duration": "3:33"
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Shameless",
+      "extraartists": [
+        {
+          "name": "Peter Svensson",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar, Keyboards [Keys]",
+          "tracks": "",
+          "id": 256765,
+          "resource_url": "https://api.discogs.com/artists/256765"
+        },
+        {
+          "name": "Mattias Bylund",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [Strings]",
+          "tracks": "",
+          "id": 392307,
+          "resource_url": "https://api.discogs.com/artists/392307"
+        },
+        {
+          "name": "David Bukovinszky",
+          "anv": "",
+          "join": "",
+          "role": "Cello",
+          "tracks": "",
+          "id": 725150,
+          "resource_url": "https://api.discogs.com/artists/725150"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Peter Carlsson (3)",
+          "anv": "",
+          "join": "",
+          "role": "Edited By [Vocal Editing]",
+          "tracks": "",
+          "id": 3518182,
+          "resource_url": "https://api.discogs.com/artists/3518182"
+        },
+        {
+          "name": "Cory Bice",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineered]",
+          "tracks": "",
+          "id": 3395926,
+          "resource_url": "https://api.discogs.com/artists/3395926"
+        },
+        {
+          "name": "Jeremy Lertola",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineered]",
+          "tracks": "",
+          "id": 4470807,
+          "resource_url": "https://api.discogs.com/artists/4470807"
+        },
+        {
+          "name": "John Hanes",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Engineered For Mix By]",
+          "tracks": "",
+          "id": 210636,
+          "resource_url": "https://api.discogs.com/artists/210636"
+        },
+        {
+          "name": "Klas Ålund",
+          "anv": "",
+          "join": "",
+          "role": "Guitar Synthesizer [Synth Guitar Solo]",
+          "tracks": "",
+          "id": 4580231,
+          "resource_url": "https://api.discogs.com/artists/4580231"
+        },
+        {
+          "name": "Serban Ghenea",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 105435,
+          "resource_url": "https://api.discogs.com/artists/105435"
+        },
+        {
+          "name": "Ali Payami",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 281132,
+          "resource_url": "https://api.discogs.com/artists/281132"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        },
+        {
+          "name": "Peter Svensson",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 256765,
+          "resource_url": "https://api.discogs.com/artists/256765"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Programmed By [Additional Programming]",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        },
+        {
+          "name": "Ali Payami",
+          "anv": "",
+          "join": "",
+          "role": "Programmed By, Drums, Synth, Keyboards [Keys], Bass",
+          "tracks": "",
+          "id": 281132,
+          "resource_url": "https://api.discogs.com/artists/281132"
+        },
+        {
+          "name": "Mattias Bylund",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Strings], Edited By [Strings]",
+          "tracks": "",
+          "id": 392307,
+          "resource_url": "https://api.discogs.com/artists/392307"
+        },
+        {
+          "name": "Sam Holland",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By, Engineer",
+          "tracks": "",
+          "id": 516338,
+          "resource_url": "https://api.discogs.com/artists/516338"
+        },
+        {
+          "name": "Mattias Johansson",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 452588,
+          "resource_url": "https://api.discogs.com/artists/452588"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Ahmad Balshe",
+          "anv": "Ahmad \"Belly' Balshe",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1518059,
+          "resource_url": "https://api.discogs.com/artists/1518059"
+        },
+        {
+          "name": "Ali Payami",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 281132,
+          "resource_url": "https://api.discogs.com/artists/281132"
+        },
+        {
+          "name": "Peter Svensson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 256765,
+          "resource_url": "https://api.discogs.com/artists/256765"
+        },
+        {
+          "name": "Savan Kotecha",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 392547,
+          "resource_url": "https://api.discogs.com/artists/392547"
+        }
+      ],
+      "duration": "4:13"
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Earned It (Fifty Shades Of Grey)",
+      "extraartists": [
+        {
+          "name": "Stephan Moccio",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 567104,
+          "resource_url": "https://api.discogs.com/artists/567104"
+        },
+        {
+          "name": "Paul Bushnell",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 247858,
+          "resource_url": "https://api.discogs.com/artists/247858"
+        },
+        {
+          "name": "Evin O'Cleary",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineering]",
+          "tracks": "",
+          "id": 3886809,
+          "resource_url": "https://api.discogs.com/artists/3886809"
+        },
+        {
+          "name": "Jonathan Berry",
+          "anv": "Jonathan Martin Berry",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 1698862,
+          "resource_url": "https://api.discogs.com/artists/1698862"
+        },
+        {
+          "name": "David Reitzas",
+          "anv": "Dave Reitzas",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 84841,
+          "resource_url": "https://api.discogs.com/artists/84841"
+        },
+        {
+          "name": "Stephan Moccio",
+          "anv": "",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 567104,
+          "resource_url": "https://api.discogs.com/artists/567104"
+        },
+        {
+          "name": "Jason Quenneville",
+          "anv": "Jason \"Daheala\" Quenneville",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2846474,
+          "resource_url": "https://api.discogs.com/artists/2846474"
+        },
+        {
+          "name": "Stephan Moccio",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 567104,
+          "resource_url": "https://api.discogs.com/artists/567104"
+        },
+        {
+          "name": "Stephan Moccio",
+          "anv": "",
+          "join": "",
+          "role": "Programmed By",
+          "tracks": "",
+          "id": 567104,
+          "resource_url": "https://api.discogs.com/artists/567104"
+        },
+        {
+          "name": "David Reitzas",
+          "anv": "Dave Reitzas",
+          "join": "",
+          "role": "Programmed By [Additional]",
+          "tracks": "",
+          "id": 84841,
+          "resource_url": "https://api.discogs.com/artists/84841"
+        },
+        {
+          "name": "Jay Paul Bicknell",
+          "anv": "",
+          "join": "",
+          "role": "Programmed By [Additional]",
+          "tracks": "",
+          "id": 4344929,
+          "resource_url": "https://api.discogs.com/artists/4344929"
+        },
+        {
+          "name": "Jason Quenneville",
+          "anv": "Jason \"Daheala\" Quenneville",
+          "join": "",
+          "role": "Recorded By [Additional Vocals]",
+          "tracks": "",
+          "id": 2846474,
+          "resource_url": "https://api.discogs.com/artists/2846474"
+        },
+        {
+          "name": "Jay Paul Bicknell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By, Engineer",
+          "tracks": "",
+          "id": 4344929,
+          "resource_url": "https://api.discogs.com/artists/4344929"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Ahmad Balshe",
+          "anv": "Ahmad \"Belly' Balshe",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1518059,
+          "resource_url": "https://api.discogs.com/artists/1518059"
+        },
+        {
+          "name": "Jason Quenneville",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2846474,
+          "resource_url": "https://api.discogs.com/artists/2846474"
+        },
+        {
+          "name": "Stephan Moccio",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 567104,
+          "resource_url": "https://api.discogs.com/artists/567104"
+        }
+      ],
+      "duration": "4:37"
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "In The Night",
+      "extraartists": [
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Peter Carlsson (3)",
+          "anv": "",
+          "join": "",
+          "role": "Edited By [Vocal Editing]",
+          "tracks": "",
+          "id": 3518182,
+          "resource_url": "https://api.discogs.com/artists/3518182"
+        },
+        {
+          "name": "Corey Bice",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 3886808,
+          "resource_url": "https://api.discogs.com/artists/3886808"
+        },
+        {
+          "name": "Jeremy Lertola",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 4470807,
+          "resource_url": "https://api.discogs.com/artists/4470807"
+        },
+        {
+          "name": "John Hanes",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Engineered For Mix By]",
+          "tracks": "",
+          "id": 210636,
+          "resource_url": "https://api.discogs.com/artists/210636"
+        },
+        {
+          "name": "Serban Ghenea",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 105435,
+          "resource_url": "https://api.discogs.com/artists/105435"
+        },
+        {
+          "name": "Ali Payami",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 281132,
+          "resource_url": "https://api.discogs.com/artists/281132"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Programmed By [Additional Programming]",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        },
+        {
+          "name": "Ali Payami",
+          "anv": "",
+          "join": "",
+          "role": "Programmed By, Drums, Synth, Keyboards [Keys], Bass",
+          "tracks": "",
+          "id": 281132,
+          "resource_url": "https://api.discogs.com/artists/281132"
+        },
+        {
+          "name": "Sam Holland",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By, Engineer",
+          "tracks": "",
+          "id": 516338,
+          "resource_url": "https://api.discogs.com/artists/516338"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Ahmad Balshe",
+          "anv": "Ahmad \"Belly' Balshe",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1518059,
+          "resource_url": "https://api.discogs.com/artists/1518059"
+        },
+        {
+          "name": "Ali Payami",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 281132,
+          "resource_url": "https://api.discogs.com/artists/281132"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        },
+        {
+          "name": "Peter Svensson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 256765,
+          "resource_url": "https://api.discogs.com/artists/256765"
+        },
+        {
+          "name": "Savan Kotecha",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 392547,
+          "resource_url": "https://api.discogs.com/artists/392547"
+        }
+      ],
+      "duration": "3:55"
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "As You Are",
+      "extraartists": [
+        {
+          "name": "Joshua Smith",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additional Engineering]",
+          "tracks": "",
+          "id": 443760,
+          "resource_url": "https://api.discogs.com/artists/443760"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Ben Billion$",
+          "anv": "Ben Billions",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3399658,
+          "resource_url": "https://api.discogs.com/artists/3399658"
+        },
+        {
+          "name": "Carlo Montagnese",
+          "anv": "Carlo \"Illangelo\" Montagnese",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3016171,
+          "resource_url": "https://api.discogs.com/artists/3016171"
+        },
+        {
+          "name": "Dannyboystyles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3547417,
+          "resource_url": "https://api.discogs.com/artists/3547417"
+        },
+        {
+          "name": "Jason Quenneville",
+          "anv": "Jason \"Daheala\" Quenneville",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2846474,
+          "resource_url": "https://api.discogs.com/artists/2846474"
+        },
+        {
+          "name": "Carlo Montagnese",
+          "anv": "Carlo \"Illangelo\" Montagnese",
+          "join": "",
+          "role": "Recorded By, Engineer, Mixed By",
+          "tracks": "",
+          "id": 3016171,
+          "resource_url": "https://api.discogs.com/artists/3016171"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Ahmad Balshe",
+          "anv": "Ahmad \"Belly' Balshe",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1518059,
+          "resource_url": "https://api.discogs.com/artists/1518059"
+        },
+        {
+          "name": "Carlo Montagnese",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3016171,
+          "resource_url": "https://api.discogs.com/artists/3016171"
+        },
+        {
+          "name": "Danny \"styles\" Schofield",
+          "anv": "Danny Schofield",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1112179,
+          "resource_url": "https://api.discogs.com/artists/1112179"
+        },
+        {
+          "name": "Jason Quenneville",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2846474,
+          "resource_url": "https://api.discogs.com/artists/2846474"
+        }
+      ],
+      "duration": "5:40"
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Dark Times",
+      "extraartists": [
+        {
+          "name": "Joshua Smith",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additional Engineering]",
+          "tracks": "",
+          "id": 443760,
+          "resource_url": "https://api.discogs.com/artists/443760"
+        },
+        {
+          "name": "Ed Sheeran",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2184482,
+          "resource_url": "https://api.discogs.com/artists/2184482"
+        },
+        {
+          "name": "Carlo Montagnese",
+          "anv": "Carlo \"Illangelo\" Montagnese",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 3016171,
+          "resource_url": "https://api.discogs.com/artists/3016171"
+        },
+        {
+          "name": "Carlo Montagnese",
+          "anv": "Carlo \"Illangelo\" Montagnese",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3016171,
+          "resource_url": "https://api.discogs.com/artists/3016171"
+        },
+        {
+          "name": "Carlo Montagnese",
+          "anv": "Carlo \"Illangelo\" Montagnese",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 3016171,
+          "resource_url": "https://api.discogs.com/artists/3016171"
+        },
+        {
+          "name": "Jason Quenneville",
+          "anv": "Jason \"Daheala\" Quenneville",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 2846474,
+          "resource_url": "https://api.discogs.com/artists/2846474"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Ed Sheeran",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2184482,
+          "resource_url": "https://api.discogs.com/artists/2184482"
+        },
+        {
+          "name": "Jason Quenneville",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2846474,
+          "resource_url": "https://api.discogs.com/artists/2846474"
+        }
+      ],
+      "duration": "4:20"
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Prisoner",
+      "extraartists": [
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Joshua Smith",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additional Engineering]",
+          "tracks": "",
+          "id": 443760,
+          "resource_url": "https://api.discogs.com/artists/443760"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Carlo Montagnese",
+          "anv": "Carlo \"Illangelo\" Montagnese",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3016171,
+          "resource_url": "https://api.discogs.com/artists/3016171"
+        },
+        {
+          "name": "Carlo Montagnese",
+          "anv": "Carlo \"Illangelo\" Montagnese",
+          "join": "",
+          "role": "Recorded By, Engineer, Mixed By",
+          "tracks": "",
+          "id": 3016171,
+          "resource_url": "https://api.discogs.com/artists/3016171"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Carlo Montagnese",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3016171,
+          "resource_url": "https://api.discogs.com/artists/3016171"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        }
+      ],
+      "duration": "4:34"
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "title": "Angel",
+      "extraartists": [
+        {
+          "name": "Abel Tesfaye",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals [Background]",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Maty Noyes",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals [Background]",
+          "tracks": "",
+          "id": 4580006,
+          "resource_url": "https://api.discogs.com/artists/4580006"
+        },
+        {
+          "name": "Stephan Moccio",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals [Background]",
+          "tracks": "",
+          "id": 567104,
+          "resource_url": "https://api.discogs.com/artists/567104"
+        },
+        {
+          "name": "Paul Bushnell",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 247858,
+          "resource_url": "https://api.discogs.com/artists/247858"
+        },
+        {
+          "name": "Aria Gunn",
+          "anv": "",
+          "join": "",
+          "role": "Choir [Children's Choir]",
+          "tracks": "",
+          "id": 4580009,
+          "resource_url": "https://api.discogs.com/artists/4580009"
+        },
+        {
+          "name": "Christopher Bradford (2)",
+          "anv": "",
+          "join": "",
+          "role": "Choir [Children's Choir]",
+          "tracks": "",
+          "id": 4580010,
+          "resource_url": "https://api.discogs.com/artists/4580010"
+        },
+        {
+          "name": "Claira Titman",
+          "anv": "",
+          "join": "",
+          "role": "Choir [Children's Choir]",
+          "tracks": "",
+          "id": 3863228,
+          "resource_url": "https://api.discogs.com/artists/3863228"
+        },
+        {
+          "name": "Elle Moccio",
+          "anv": "",
+          "join": "",
+          "role": "Choir [Children's Choir]",
+          "tracks": "",
+          "id": 4580007,
+          "resource_url": "https://api.discogs.com/artists/4580007"
+        },
+        {
+          "name": "Emily May Titman",
+          "anv": "Emily Titman",
+          "join": "",
+          "role": "Choir [Children's Choir]",
+          "tracks": "",
+          "id": 3863220,
+          "resource_url": "https://api.discogs.com/artists/3863220"
+        },
+        {
+          "name": "Joe Matthews (4)",
+          "anv": "",
+          "join": "",
+          "role": "Choir [Children's Choir]",
+          "tracks": "",
+          "id": 4580004,
+          "resource_url": "https://api.discogs.com/artists/4580004"
+        },
+        {
+          "name": "Karissa Lee",
+          "anv": "",
+          "join": "",
+          "role": "Choir [Children's Choir]",
+          "tracks": "",
+          "id": 3863227,
+          "resource_url": "https://api.discogs.com/artists/3863227"
+        },
+        {
+          "name": "Levi Gunn",
+          "anv": "",
+          "join": "",
+          "role": "Choir [Children's Choir]",
+          "tracks": "",
+          "id": 4580008,
+          "resource_url": "https://api.discogs.com/artists/4580008"
+        },
+        {
+          "name": "Micah Lee",
+          "anv": "",
+          "join": "",
+          "role": "Choir [Children's Choir]",
+          "tracks": "",
+          "id": 3863224,
+          "resource_url": "https://api.discogs.com/artists/3863224"
+        },
+        {
+          "name": "Shane Lee (2)",
+          "anv": "",
+          "join": "",
+          "role": "Choir [Children's Choir]",
+          "tracks": "",
+          "id": 3863225,
+          "resource_url": "https://api.discogs.com/artists/3863225"
+        },
+        {
+          "name": "Zola Odessa",
+          "anv": "",
+          "join": "",
+          "role": "Choir [Children's Choir]",
+          "tracks": "",
+          "id": 4580005,
+          "resource_url": "https://api.discogs.com/artists/4580005"
+        },
+        {
+          "name": "Edie Lehmann Boddicker",
+          "anv": "",
+          "join": "",
+          "role": "Directed By",
+          "tracks": "",
+          "id": 915534,
+          "resource_url": "https://api.discogs.com/artists/915534"
+        },
+        {
+          "name": "Kyle Gaffney",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 3226623,
+          "resource_url": "https://api.discogs.com/artists/3226623"
+        },
+        {
+          "name": "Maty Noyes",
+          "anv": "",
+          "join": "",
+          "role": "Guest [Guest Artist], Vocals",
+          "tracks": "",
+          "id": 4580006,
+          "resource_url": "https://api.discogs.com/artists/4580006"
+        },
+        {
+          "name": "Jonathan Berry",
+          "anv": "Jonathan Martin Berry",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 1698862,
+          "resource_url": "https://api.discogs.com/artists/1698862"
+        },
+        {
+          "name": "Jay Paul Bicknell",
+          "anv": "",
+          "join": "",
+          "role": "Keyboards",
+          "tracks": "",
+          "id": 4344929,
+          "resource_url": "https://api.discogs.com/artists/4344929"
+        },
+        {
+          "name": "Stephan Moccio",
+          "anv": "",
+          "join": "",
+          "role": "Keyboards",
+          "tracks": "",
+          "id": 567104,
+          "resource_url": "https://api.discogs.com/artists/567104"
+        },
+        {
+          "name": "David Reitzas",
+          "anv": "Dave Reitzas",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 84841,
+          "resource_url": "https://api.discogs.com/artists/84841"
+        },
+        {
+          "name": "Greg Eliason",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Mixing Assistant]",
+          "tracks": "",
+          "id": 3886803,
+          "resource_url": "https://api.discogs.com/artists/3886803"
+        },
+        {
+          "name": "Vinnie Colaiuta",
+          "anv": "",
+          "join": "",
+          "role": "Percussion [Additional]",
+          "tracks": "",
+          "id": 19696,
+          "resource_url": "https://api.discogs.com/artists/19696"
+        },
+        {
+          "name": "Stephan Moccio",
+          "anv": "",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 567104,
+          "resource_url": "https://api.discogs.com/artists/567104"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Stephan Moccio",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 567104,
+          "resource_url": "https://api.discogs.com/artists/567104"
+        },
+        {
+          "name": "Jay Paul Bicknell",
+          "anv": "",
+          "join": "",
+          "role": "Programmed By",
+          "tracks": "",
+          "id": 4344929,
+          "resource_url": "https://api.discogs.com/artists/4344929"
+        },
+        {
+          "name": "Stephan Moccio",
+          "anv": "",
+          "join": "",
+          "role": "Programmed By",
+          "tracks": "",
+          "id": 567104,
+          "resource_url": "https://api.discogs.com/artists/567104"
+        },
+        {
+          "name": "Jay Paul Bicknell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By, Engineer",
+          "tracks": "",
+          "id": 4344929,
+          "resource_url": "https://api.discogs.com/artists/4344929"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "Abel \"The Weeknd\" Tesfaye",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Ben Diehl",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1268301,
+          "resource_url": "https://api.discogs.com/artists/1268301"
+        },
+        {
+          "name": "Danny \"styles\" Schofield",
+          "anv": "Danny Schofield",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1112179,
+          "resource_url": "https://api.discogs.com/artists/1112179"
+        },
+        {
+          "name": "Stephan Moccio",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 567104,
+          "resource_url": "https://api.discogs.com/artists/567104"
+        }
+      ],
+      "duration": "6:17"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Abel Tesfaye",
+      "anv": "Abel \"The Weeknd\" Tesfaye",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 2838279,
+      "resource_url": "https://api.discogs.com/artists/2838279"
+    },
+    {
+      "name": "Carlo Montagnese",
+      "anv": "Carlo \"Illangelo\" Montagnese",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 3016171,
+      "resource_url": "https://api.discogs.com/artists/3016171"
+    },
+    {
+      "name": "Jason Quenneville",
+      "anv": "Jason \"Daheala\" Quenneville",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 2846474,
+      "resource_url": "https://api.discogs.com/artists/2846474"
+    },
+    {
+      "name": "Ray Janos",
+      "anv": "RJ",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 339229,
+      "resource_url": "https://api.discogs.com/artists/339229"
+    },
+    {
+      "name": "Tom Coyne",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "A1 to A3, B2 to D4",
+      "id": 272899,
+      "resource_url": "https://api.discogs.com/artists/272899"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/34u7LOISccoSy3gTGNQmmDxvCKhc3Rvw6nq72LGfwWA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDAw/NzgtMTQ0OTAyOTkw/My03ODIwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/34u7LOISccoSy3gTGNQmmDxvCKhc3Rvw6nq72LGfwWA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDAw/NzgtMTQ0OTAyOTkw/My03ODIwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/qJNX5yy5YoTEhXLGQUvbGHHGIqD0G9DGqmeAqT4fRuA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDAw/NzgtMTQ0OTAyOTkw/My03ODIwLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/n7Kix9BJWGRfkvfAeOhw_GzN_6Kp9Dexh_66rLSnR30/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDAw/NzgtMTQ0OTAzMDE1/Mi02MDExLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/n7Kix9BJWGRfkvfAeOhw_GzN_6Kp9Dexh_66rLSnR30/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDAw/NzgtMTQ0OTAzMDE1/Mi02MDExLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/Z40K2SGROzZhf39ozwGjJpcXRpTazICyoU1gTd_0kp8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDAw/NzgtMTQ0OTAzMDE1/Mi02MDExLmpwZWc.jpeg",
+      "width": 600,
+      "height": 297
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/-Ghh_xcP2nCkC4tESGViEAwjLAX0hsKghlBY4zsxKO8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDAw/NzgtMTQ0OTAzMDE1/OC0zNzUwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/-Ghh_xcP2nCkC4tESGViEAwjLAX0hsKghlBY4zsxKO8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDAw/NzgtMTQ0OTAzMDE1/OC0zNzUwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/CM0d-GgzZVnFKGA7w1DT_NcVx6ZNn7R5TcyFhujPRwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDAw/NzgtMTQ0OTAzMDE1/OC0zNzUwLmpwZWc.jpeg",
+      "width": 597,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/RKztqAu4ZLtPwUr05wlQLoJ2V5wTmrVxB6C1EGjgbTM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDAw/NzgtMTY2OTU4ODMy/MC03NTQ3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/RKztqAu4ZLtPwUr05wlQLoJ2V5wTmrVxB6C1EGjgbTM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDAw/NzgtMTY2OTU4ODMy/MC03NTQ3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/bKgoIqpKm-ELNVfiublBorb8AZvaGOKhoOm2W1HF5co/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDAw/NzgtMTY2OTU4ODMy/MC03NTQ3LmpwZWc.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ZYnhrYqSyes3WWavca8YfB-Jy1L_RpkaYCLY78M_DVM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDAw/NzgtMTY2OTU4ODMy/Ni04Nzg3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/ZYnhrYqSyes3WWavca8YfB-Jy1L_RpkaYCLY78M_DVM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDAw/NzgtMTY2OTU4ODMy/Ni04Nzg3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/ux54N_fYZio6Xq0XDVZtM5U2ndtUbjcHQJtJDMz3ZZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDAw/NzgtMTY2OTU4ODMy/Ni04Nzg3LmpwZWc.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/XH2ZSaWGuQ9i4VP8c3sGbrTMeOWyNmfkQBWEA75Qh-M/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDAw/NzgtMTY2OTU4ODMy/Ny05NDU5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/XH2ZSaWGuQ9i4VP8c3sGbrTMeOWyNmfkQBWEA75Qh-M/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDAw/NzgtMTY2OTU4ODMy/Ny05NDU5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/SiJsMMK7KUDGZEQvlv-W571TYvMk9UzRahIe48yARWs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDAw/NzgtMTY2OTU4ODMy/Ny05NDU5LmpwZWc.jpeg",
+      "width": 596,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Q2J9ClV2OZ3fGfcArj9JH41TL1D1d9LKOFy6m2ILafY/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDAw/NzgtMTY2OTU4ODMy/OC02NTU3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/Q2J9ClV2OZ3fGfcArj9JH41TL1D1d9LKOFy6m2ILafY/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDAw/NzgtMTY2OTU4ODMy/OC02NTU3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/0yu8An2Gfbbx6FjPa8d0JgHxEiG-le6CdX2dw7fkDLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDAw/NzgtMTY2OTU4ODMy/OC02NTU3LmpwZWc.jpeg",
+      "width": 599,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Smv4wrjlBSvdf1U3KYzf7mtZQ_o2BqhYznLqA-JRLq4/rs:fit/g:sm/q:90/h:600/w:385/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDAw/NzgtMTYzMjY5NTEy/OC05ODAyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/Smv4wrjlBSvdf1U3KYzf7mtZQ_o2BqhYznLqA-JRLq4/rs:fit/g:sm/q:90/h:600/w:385/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDAw/NzgtMTYzMjY5NTEy/OC05ODAyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/mAlTox9qVs01dU7NIZQT4Jd9mDn_gFg_LGPNb4vWAkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDAw/NzgtMTYzMjY5NTEy/OC05ODAyLmpwZWc.jpeg",
+      "width": 385,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/qJNX5yy5YoTEhXLGQUvbGHHGIqD0G9DGqmeAqT4fRuA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MDAw/NzgtMTQ0OTAyOTkw/My03ODIwLmpwZWc.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

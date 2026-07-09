@@ -1,0 +1,1241 @@
+{
+  "id": 16488198,
+  "status": "Accepted",
+  "year": 2020,
+  "resource_url": "https://api.discogs.com/releases/16488198",
+  "uri": "https://www.discogs.com/release/16488198-Dominic-Fike-What-Could-Possibly-Go-Wrong",
+  "artists": [
+    {
+      "name": "Dominic Fike",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 7087947,
+      "resource_url": "https://api.discogs.com/artists/7087947",
+      "thumbnail_url": "https://i.discogs.com/n2lImtwzWl3IttNz1AX4QNf49vZ5FNQkP7DMLwaJWRw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTcwODc5/NDctMTc3NTMyNjU0/MC01NTIzLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Dominic Fike",
+  "labels": [
+    {
+      "name": "Columbia",
+      "catno": "19439781531",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Sandy Boys, LLC",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 1766937,
+      "resource_url": "https://api.discogs.com/labels/1766937"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Stereo"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 3116,
+    "want": 1150,
+    "rating": {
+      "count": 235,
+      "average": 4.63
+    },
+    "submitter": {
+      "username": "austinmaple",
+      "resource_url": "https://api.discogs.com/users/austinmaple"
+    },
+    "contributors": [
+      {
+        "username": "austinmaple",
+        "resource_url": "https://api.discogs.com/users/austinmaple"
+      },
+      {
+        "username": "Shawzee",
+        "resource_url": "https://api.discogs.com/users/Shawzee"
+      },
+      {
+        "username": "alexisakers_",
+        "resource_url": "https://api.discogs.com/users/alexisakers_"
+      },
+      {
+        "username": "ATLRecordBoy",
+        "resource_url": "https://api.discogs.com/users/ATLRecordBoy"
+      },
+      {
+        "username": "mattsherbert",
+        "resource_url": "https://api.discogs.com/users/mattsherbert"
+      },
+      {
+        "username": "zionsgate",
+        "resource_url": "https://api.discogs.com/users/zionsgate"
+      },
+      {
+        "username": "EddyRock239",
+        "resource_url": "https://api.discogs.com/users/EddyRock239"
+      },
+      {
+        "username": "rca76",
+        "resource_url": "https://api.discogs.com/users/rca76"
+      },
+      {
+        "username": "riddimrecord",
+        "resource_url": "https://api.discogs.com/users/riddimrecord"
+      },
+      {
+        "username": "mhdj14",
+        "resource_url": "https://api.discogs.com/users/mhdj14"
+      },
+      {
+        "username": "Xmipod",
+        "resource_url": "https://api.discogs.com/users/Xmipod"
+      },
+      {
+        "username": "waitforyurluv",
+        "resource_url": "https://api.discogs.com/users/waitforyurluv"
+      },
+      {
+        "username": "baldorr",
+        "resource_url": "https://api.discogs.com/users/baldorr"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2020-12-15T08:27:31-08:00",
+  "date_changed": "2025-05-21T18:39:07-07:00",
+  "num_for_sale": 27,
+  "lowest_price": 25.99,
+  "master_id": 1871646,
+  "master_url": "https://api.discogs.com/masters/1871646",
+  "title": "What Could Possibly Go Wrong",
+  "country": "US",
+  "released": "2020-07-31",
+  "notes": "Comes with a leaflet with album credits.",
+  "released_formatted": "31 Jul 2020",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "194397815313"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=mVhJ-F-TF14",
+      "title": "Dominic Fike - Superstar Sh*t (Official Audio)",
+      "description": "Stream/download Dominic Fike’s ‘What Could Possibly Go Wrong?’ here: https://DominicFike.lnk.to/WCPGWID \n\nFollow Dominic Fike:\nTwitter: https://twitter.com/dominicfike \nInstagram: https://www.instagram.com/dominicfike \nSoundcloud: https://soundcloud",
+      "duration": 128,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Wza-JZHx7ho",
+      "title": "Dominic Fike - Come Here (Official Audio)",
+      "description": "Stream/download Dominic Fike’s ‘What Could Possibly Go Wrong?’ here: https://DominicFike.lnk.to/WCPGWID \n\nFollow Dominic Fike:\nTwitter: https://twitter.com/dominicfike \nInstagram: https://www.instagram.com/dominicfike \nSoundcloud: https://soundcloud",
+      "duration": 79,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5mILqcNQ5hE",
+      "title": "Dominic Fike - Why (Official Audio)",
+      "description": "Stream/download Dominic Fike’s ‘What Could Possibly Go Wrong?’ here: https://DominicFike.lnk.to/WCPGWID \n\nFollow Dominic Fike:\nTwitter: https://twitter.com/dominicfike \nInstagram: https://www.instagram.com/dominicfike \nSoundcloud: https://soundcloud",
+      "duration": 141,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=mVhJ-F-TF14",
+      "title": "Dominic Fike - Superstar Sh*t (Official Audio)",
+      "description": "Stream/download Dominic Fike’s ‘What Could Possibly Go Wrong?’ here: https://DominicFike.lnk.to/WCPGWID \n\nFollow Dominic Fike:\nTwitter: https://twitter.com/dominicfike \nInstagram: https://www.instagram.com/dominicfike \nSoundcloud: https://soundcloud",
+      "duration": 128,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Wza-JZHx7ho",
+      "title": "Dominic Fike - Come Here (Official Audio)",
+      "description": "Stream/download Dominic Fike’s ‘What Could Possibly Go Wrong?’ here: https://DominicFike.lnk.to/WCPGWID \n\nFollow Dominic Fike:\nTwitter: https://twitter.com/dominicfike \nInstagram: https://www.instagram.com/dominicfike \nSoundcloud: https://soundcloud",
+      "duration": 79,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5mILqcNQ5hE",
+      "title": "Dominic Fike - Why (Official Audio)",
+      "description": "Stream/download Dominic Fike’s ‘What Could Possibly Go Wrong?’ here: https://DominicFike.lnk.to/WCPGWID \n\nFollow Dominic Fike:\nTwitter: https://twitter.com/dominicfike \nInstagram: https://www.instagram.com/dominicfike \nSoundcloud: https://soundcloud",
+      "duration": 141,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Hip Hop",
+    "Rock",
+    "Pop"
+  ],
+  "styles": [
+    "Alternative Rock",
+    "Indie Pop"
+  ],
+  "tracklist": [
+    {
+      "position": "1",
+      "type_": "track",
+      "title": "Come Here",
+      "extraartists": [
+        {
+          "name": "The Roommates (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Misc. Prod.]",
+          "tracks": "",
+          "id": 7126077,
+          "resource_url": "https://api.discogs.com/artists/7126077"
+        },
+        {
+          "name": "Dominic Fike",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By, Guitar",
+          "tracks": "",
+          "id": 7087947,
+          "resource_url": "https://api.discogs.com/artists/7087947"
+        },
+        {
+          "name": "Jonathan Wienner",
+          "anv": "Jon Wienner",
+          "join": "",
+          "role": "Written-By, Lyrics By",
+          "tracks": "",
+          "id": 7420936,
+          "resource_url": "https://api.discogs.com/artists/7420936"
+        },
+        {
+          "name": "Sam Homaee",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Lyrics By",
+          "tracks": "",
+          "id": 7420937,
+          "resource_url": "https://api.discogs.com/artists/7420937"
+        }
+      ],
+      "duration": "1:17"
+    },
+    {
+      "position": "2",
+      "type_": "track",
+      "title": "Double Negative (Skeleton Milkshake)",
+      "extraartists": [
+        {
+          "name": "Cary Singer (2)",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 7472093,
+          "resource_url": "https://api.discogs.com/artists/7472093"
+        },
+        {
+          "name": "Westerns",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 7872025,
+          "resource_url": "https://api.discogs.com/artists/7872025"
+        },
+        {
+          "name": "Tom Elmhirst",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By, Programmed By",
+          "tracks": "",
+          "id": 122559,
+          "resource_url": "https://api.discogs.com/artists/122559"
+        },
+        {
+          "name": "Jim-E Stack",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2109859,
+          "resource_url": "https://api.discogs.com/artists/2109859"
+        },
+        {
+          "name": "Julian Cruz",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Written-By, Lyrics By",
+          "tracks": "",
+          "id": 3088733,
+          "resource_url": "https://api.discogs.com/artists/3088733"
+        },
+        {
+          "name": "Dominic Fike",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By, Guitar",
+          "tracks": "",
+          "id": 7087947,
+          "resource_url": "https://api.discogs.com/artists/7087947"
+        },
+        {
+          "name": "Jim-E Stack",
+          "anv": "James Harmon Stack",
+          "join": "",
+          "role": "Written-By, Lyrics By",
+          "tracks": "",
+          "id": 2109859,
+          "resource_url": "https://api.discogs.com/artists/2109859"
+        }
+      ],
+      "duration": "2:06"
+    },
+    {
+      "position": "3",
+      "type_": "track",
+      "title": "Cancel Me",
+      "extraartists": [
+        {
+          "name": "Robin Florent",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 4864753,
+          "resource_url": "https://api.discogs.com/artists/4864753"
+        },
+        {
+          "name": "Chris Galland",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1608079,
+          "resource_url": "https://api.discogs.com/artists/1608079"
+        },
+        {
+          "name": "Jeremie Inhaber",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 7264380,
+          "resource_url": "https://api.discogs.com/artists/7264380"
+        },
+        {
+          "name": "Dominic Fike",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 7087947,
+          "resource_url": "https://api.discogs.com/artists/7087947"
+        },
+        {
+          "name": "Yasmeen",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 141714,
+          "resource_url": "https://api.discogs.com/artists/141714"
+        },
+        {
+          "name": "Manny Marroquin",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 67636,
+          "resource_url": "https://api.discogs.com/artists/67636"
+        },
+        {
+          "name": "The Roommates (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 7126077,
+          "resource_url": "https://api.discogs.com/artists/7126077"
+        },
+        {
+          "name": "Jonathan Wienner",
+          "anv": "Jon Wienner",
+          "join": "",
+          "role": "Written-By, Lyrics By, Recorded By",
+          "tracks": "",
+          "id": 7420936,
+          "resource_url": "https://api.discogs.com/artists/7420936"
+        },
+        {
+          "name": "Sam Homaee",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Lyrics By, Recorded By",
+          "tracks": "",
+          "id": 7420937,
+          "resource_url": "https://api.discogs.com/artists/7420937"
+        }
+      ],
+      "duration": "2:17"
+    },
+    {
+      "position": "4",
+      "type_": "track",
+      "title": "10x Stronger",
+      "extraartists": [
+        {
+          "name": "Dominic Fike",
+          "anv": "",
+          "join": "",
+          "role": "Guitar, Recorded By",
+          "tracks": "",
+          "id": 7087947,
+          "resource_url": "https://api.discogs.com/artists/7087947"
+        },
+        {
+          "name": "The Roommates (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 7126077,
+          "resource_url": "https://api.discogs.com/artists/7126077"
+        },
+        {
+          "name": "Julian Cruz",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Written By, Lyrics By, Recorded By",
+          "tracks": "",
+          "id": 3088733,
+          "resource_url": "https://api.discogs.com/artists/3088733"
+        },
+        {
+          "name": "Maria Im",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 3177975,
+          "resource_url": "https://api.discogs.com/artists/3177975"
+        },
+        {
+          "name": "Jonathan Wienner",
+          "anv": "Jon Wienner",
+          "join": "",
+          "role": "Written-By, Lyrics By, Recorded By",
+          "tracks": "",
+          "id": 7420936,
+          "resource_url": "https://api.discogs.com/artists/7420936"
+        },
+        {
+          "name": "Sam Homaee",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Lyrics By, Recorded By",
+          "tracks": "",
+          "id": 7420937,
+          "resource_url": "https://api.discogs.com/artists/7420937"
+        }
+      ],
+      "duration": "1:15"
+    },
+    {
+      "position": "5",
+      "type_": "track",
+      "title": "Good Game",
+      "extraartists": [
+        {
+          "name": "Dominic Fike",
+          "anv": "",
+          "join": "",
+          "role": "Guitar, Recorded By",
+          "tracks": "",
+          "id": 7087947,
+          "resource_url": "https://api.discogs.com/artists/7087947"
+        },
+        {
+          "name": "Julian Cruz",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 3088733,
+          "resource_url": "https://api.discogs.com/artists/3088733"
+        }
+      ],
+      "duration": "2:27"
+    },
+    {
+      "position": "6",
+      "type_": "track",
+      "title": "Why",
+      "extraartists": [
+        {
+          "name": "Ryan Raines",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 8048227,
+          "resource_url": "https://api.discogs.com/artists/8048227"
+        },
+        {
+          "name": "Greg Eliason",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 3886803,
+          "resource_url": "https://api.discogs.com/artists/3886803"
+        },
+        {
+          "name": "Nick Booth (2)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 7801457,
+          "resource_url": "https://api.discogs.com/artists/7801457"
+        },
+        {
+          "name": "Dominic Fike",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 7087947,
+          "resource_url": "https://api.discogs.com/artists/7087947"
+        },
+        {
+          "name": "The Roommates (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Misc. Prod.]",
+          "tracks": "",
+          "id": 7126077,
+          "resource_url": "https://api.discogs.com/artists/7126077"
+        },
+        {
+          "name": "Julian Cruz",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Misc. Prod.], Written-By, Lyrics By, Recorded By",
+          "tracks": "",
+          "id": 3088733,
+          "resource_url": "https://api.discogs.com/artists/3088733"
+        },
+        {
+          "name": "Jonathan Wienner",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Lyrics By, Recorded By",
+          "tracks": "",
+          "id": 7420936,
+          "resource_url": "https://api.discogs.com/artists/7420936"
+        },
+        {
+          "name": "Sam Homaee",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Lyrics By, Recorded By",
+          "tracks": "",
+          "id": 7420937,
+          "resource_url": "https://api.discogs.com/artists/7420937"
+        }
+      ],
+      "duration": "2:19"
+    },
+    {
+      "position": "7",
+      "type_": "track",
+      "title": "Chicken Tenders",
+      "extraartists": [
+        {
+          "name": "Manny Marroquin",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 67636,
+          "resource_url": "https://api.discogs.com/artists/67636"
+        },
+        {
+          "name": "Capi (7)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 7618792,
+          "resource_url": "https://api.discogs.com/artists/7618792"
+        },
+        {
+          "name": "The Roommates (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 7126077,
+          "resource_url": "https://api.discogs.com/artists/7126077"
+        },
+        {
+          "name": "Julian Cruz",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Recorded By, Written-By, Lyrics By",
+          "tracks": "",
+          "id": 3088733,
+          "resource_url": "https://api.discogs.com/artists/3088733"
+        },
+        {
+          "name": "Phil Nageon De Lestang",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Written-By, Lyrics By, Guitar",
+          "tracks": "",
+          "id": 7979937,
+          "resource_url": "https://api.discogs.com/artists/7979937"
+        },
+        {
+          "name": "Eddy Rock",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 7511776,
+          "resource_url": "https://api.discogs.com/artists/7511776"
+        },
+        {
+          "name": "Jonathan Wienner",
+          "anv": "Jon Wienner",
+          "join": "",
+          "role": "Written-By, Lyrics By",
+          "tracks": "",
+          "id": 7420936,
+          "resource_url": "https://api.discogs.com/artists/7420936"
+        },
+        {
+          "name": "Kevin Anthony Carbo",
+          "anv": "Kevin Carbo",
+          "join": "",
+          "role": "Written-By, Lyrics By",
+          "tracks": "",
+          "id": 5912485,
+          "resource_url": "https://api.discogs.com/artists/5912485"
+        },
+        {
+          "name": "Sam Homaee",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Lyrics By",
+          "tracks": "",
+          "id": 7420937,
+          "resource_url": "https://api.discogs.com/artists/7420937"
+        }
+      ],
+      "duration": "2:50"
+    },
+    {
+      "position": "8",
+      "type_": "track",
+      "title": "Whats For Dinner?",
+      "extraartists": [
+        {
+          "name": "The Roommates (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 7126077,
+          "resource_url": "https://api.discogs.com/artists/7126077"
+        },
+        {
+          "name": "Julian Cruz",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Misc. Prod.], Written-By, Lyrics By, Recorded By",
+          "tracks": "",
+          "id": 3088733,
+          "resource_url": "https://api.discogs.com/artists/3088733"
+        },
+        {
+          "name": "Jimmy McCracklin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Lyrics By",
+          "tracks": "",
+          "id": 395851,
+          "resource_url": "https://api.discogs.com/artists/395851"
+        },
+        {
+          "name": "Lowell Fulson",
+          "anv": "Lowell Fulsom",
+          "join": "",
+          "role": "Written-By, Lyrics By",
+          "tracks": "",
+          "id": 136158,
+          "resource_url": "https://api.discogs.com/artists/136158"
+        },
+        {
+          "name": "Jonathan Wienner",
+          "anv": "Jon Wienner",
+          "join": "",
+          "role": "Written-By, Lyrics By, Recorded By",
+          "tracks": "",
+          "id": 7420936,
+          "resource_url": "https://api.discogs.com/artists/7420936"
+        },
+        {
+          "name": "Sam Homaee",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Lyrics By, Recorded By",
+          "tracks": "",
+          "id": 7420937,
+          "resource_url": "https://api.discogs.com/artists/7420937"
+        }
+      ],
+      "duration": "2:18"
+    },
+    {
+      "position": "9",
+      "type_": "track",
+      "title": "Vampire",
+      "extraartists": [
+        {
+          "name": "Robin Florent",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 4864753,
+          "resource_url": "https://api.discogs.com/artists/4864753"
+        },
+        {
+          "name": "Chris Galland",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1608079,
+          "resource_url": "https://api.discogs.com/artists/1608079"
+        },
+        {
+          "name": "Jeremie Inhaber",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 7264380,
+          "resource_url": "https://api.discogs.com/artists/7264380"
+        },
+        {
+          "name": "Dominic Fike",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 7087947,
+          "resource_url": "https://api.discogs.com/artists/7087947"
+        },
+        {
+          "name": "Todd Prichard",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 8048228,
+          "resource_url": "https://api.discogs.com/artists/8048228"
+        },
+        {
+          "name": "Manny Marroquin",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 67636,
+          "resource_url": "https://api.discogs.com/artists/67636"
+        },
+        {
+          "name": "The Roommates (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 7126077,
+          "resource_url": "https://api.discogs.com/artists/7126077"
+        },
+        {
+          "name": "Julian Cruz",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Written-By, Lyrics By, Recorded By",
+          "tracks": "",
+          "id": 3088733,
+          "resource_url": "https://api.discogs.com/artists/3088733"
+        },
+        {
+          "name": "Jonathan Wienner",
+          "anv": "Jon Wienner",
+          "join": "",
+          "role": "Written-By, Lyrics By, Recorded By",
+          "tracks": "",
+          "id": 7420936,
+          "resource_url": "https://api.discogs.com/artists/7420936"
+        },
+        {
+          "name": "Sam Homaee",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Lyrics By, Recorded By",
+          "tracks": "",
+          "id": 7420937,
+          "resource_url": "https://api.discogs.com/artists/7420937"
+        }
+      ],
+      "duration": "3:06"
+    },
+    {
+      "position": "10",
+      "type_": "track",
+      "title": "Superstar Sh*t",
+      "extraartists": [
+        {
+          "name": "Sean Sobash",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 7391433,
+          "resource_url": "https://api.discogs.com/artists/7391433"
+        },
+        {
+          "name": "The Roommates (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 7126077,
+          "resource_url": "https://api.discogs.com/artists/7126077"
+        },
+        {
+          "name": "Julian Cruz",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Misc. Prod.], Written-By, Lyrics By",
+          "tracks": "",
+          "id": 3088733,
+          "resource_url": "https://api.discogs.com/artists/3088733"
+        },
+        {
+          "name": "Jonathan Wienner",
+          "anv": "Jon Wienner",
+          "join": "",
+          "role": "Written-By, Lyrics By, Recorded By",
+          "tracks": "",
+          "id": 7420936,
+          "resource_url": "https://api.discogs.com/artists/7420936"
+        },
+        {
+          "name": "Sam Homaee",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Lyrics By, Recorded By",
+          "tracks": "",
+          "id": 7420937,
+          "resource_url": "https://api.discogs.com/artists/7420937"
+        }
+      ],
+      "duration": "2:07"
+    },
+    {
+      "position": "11",
+      "type_": "track",
+      "title": "Politics & Violence",
+      "extraartists": [
+        {
+          "name": "Katie Capp",
+          "anv": "",
+          "join": "",
+          "role": "Cello, Strings",
+          "tracks": "",
+          "id": 7979929,
+          "resource_url": "https://api.discogs.com/artists/7979929"
+        },
+        {
+          "name": "The Roommates (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Recorded By",
+          "tracks": "",
+          "id": 7126077,
+          "resource_url": "https://api.discogs.com/artists/7126077"
+        },
+        {
+          "name": "Julian Cruz",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Written-By, Lyrics By, Strings",
+          "tracks": "",
+          "id": 3088733,
+          "resource_url": "https://api.discogs.com/artists/3088733"
+        },
+        {
+          "name": "Brianna Rhodes",
+          "anv": "",
+          "join": "",
+          "role": "Violin, Strings",
+          "tracks": "",
+          "id": 7979930,
+          "resource_url": "https://api.discogs.com/artists/7979930"
+        },
+        {
+          "name": "Jonathan Wienner",
+          "anv": "Jon Wienner",
+          "join": "",
+          "role": "Written-By, Lyrics By, Recorded By",
+          "tracks": "",
+          "id": 7420936,
+          "resource_url": "https://api.discogs.com/artists/7420936"
+        },
+        {
+          "name": "Sam Homaee",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Lyrics By, Recorded By",
+          "tracks": "",
+          "id": 7420937,
+          "resource_url": "https://api.discogs.com/artists/7420937"
+        }
+      ],
+      "duration": "3:17"
+    },
+    {
+      "position": "12",
+      "type_": "track",
+      "title": "Joe Blazey",
+      "extraartists": [
+        {
+          "name": "Jonathan Wienner",
+          "anv": "Jon Wienner",
+          "join": "",
+          "role": "Producer [Misc. Prod.], Written-By, Lyrics By, Recorded By, Strings",
+          "tracks": "",
+          "id": 7420936,
+          "resource_url": "https://api.discogs.com/artists/7420936"
+        },
+        {
+          "name": "Sam Homaee",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Misc. Prod.], Written-By, Lyrics By, Recorded By, Strings",
+          "tracks": "",
+          "id": 7420937,
+          "resource_url": "https://api.discogs.com/artists/7420937"
+        },
+        {
+          "name": "Dominic Fike",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 7087947,
+          "resource_url": "https://api.discogs.com/artists/7087947"
+        },
+        {
+          "name": "Maria (141)",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 8048229,
+          "resource_url": "https://api.discogs.com/artists/8048229"
+        },
+        {
+          "name": "Julian Cruz",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Lyrics By, Recorded By, Co-producer, Strings",
+          "tracks": "",
+          "id": 3088733,
+          "resource_url": "https://api.discogs.com/artists/3088733"
+        }
+      ],
+      "duration": "2:42"
+    },
+    {
+      "position": "13",
+      "type_": "track",
+      "title": "Wurli",
+      "extraartists": [
+        {
+          "name": "Ryan Raines",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 8048227,
+          "resource_url": "https://api.discogs.com/artists/8048227"
+        },
+        {
+          "name": "Greg Eliason",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 3886803,
+          "resource_url": "https://api.discogs.com/artists/3886803"
+        },
+        {
+          "name": "Nick Booth (2)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 7801457,
+          "resource_url": "https://api.discogs.com/artists/7801457"
+        },
+        {
+          "name": "The Roommates (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Recorded By",
+          "tracks": "",
+          "id": 7126077,
+          "resource_url": "https://api.discogs.com/artists/7126077"
+        },
+        {
+          "name": "Julian Cruz",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Written-By, Lyrics By, Recorded By",
+          "tracks": "",
+          "id": 3088733,
+          "resource_url": "https://api.discogs.com/artists/3088733"
+        },
+        {
+          "name": "Tom Elmhirst",
+          "anv": "",
+          "join": "",
+          "role": "Programmed By",
+          "tracks": "",
+          "id": 122559,
+          "resource_url": "https://api.discogs.com/artists/122559"
+        },
+        {
+          "name": "Yasmeen",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 141714,
+          "resource_url": "https://api.discogs.com/artists/141714"
+        },
+        {
+          "name": "Jonathan Wienner",
+          "anv": "Jon Wienner",
+          "join": "",
+          "role": "Written-By, Lyrics By",
+          "tracks": "",
+          "id": 7420936,
+          "resource_url": "https://api.discogs.com/artists/7420936"
+        },
+        {
+          "name": "Sam Homaee",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Lyrics By",
+          "tracks": "",
+          "id": 7420937,
+          "resource_url": "https://api.discogs.com/artists/7420937"
+        }
+      ],
+      "duration": "2:30"
+    },
+    {
+      "position": "14",
+      "type_": "track",
+      "title": "Florida",
+      "extraartists": [
+        {
+          "name": "Dominic Fike",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 7087947,
+          "resource_url": "https://api.discogs.com/artists/7087947"
+        },
+        {
+          "name": "Kenny Beats",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Recorded By",
+          "tracks": "",
+          "id": 2409774,
+          "resource_url": "https://api.discogs.com/artists/2409774"
+        },
+        {
+          "name": "Tom Elmhirst",
+          "anv": "",
+          "join": "",
+          "role": "Programmed By",
+          "tracks": "",
+          "id": 122559,
+          "resource_url": "https://api.discogs.com/artists/122559"
+        },
+        {
+          "name": "Kenneth Blume",
+          "anv": "Kenneth Charles Blume III",
+          "join": "",
+          "role": "Written-By, Lyrics By",
+          "tracks": "",
+          "id": 8019028,
+          "resource_url": "https://api.discogs.com/artists/8019028"
+        }
+      ],
+      "duration": "3:47"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Claybourne Bujorian",
+      "anv": "",
+      "join": "",
+      "role": "Artwork",
+      "tracks": "",
+      "id": 6362257,
+      "resource_url": "https://api.discogs.com/artists/6362257"
+    },
+    {
+      "name": "Reed Bennett",
+      "anv": "",
+      "join": "",
+      "role": "Artwork",
+      "tracks": "",
+      "id": 6982996,
+      "resource_url": "https://api.discogs.com/artists/6982996"
+    },
+    {
+      "name": "Samm McAlear",
+      "anv": "",
+      "join": "",
+      "role": "Artwork",
+      "tracks": "",
+      "id": 3812168,
+      "resource_url": "https://api.discogs.com/artists/3812168"
+    },
+    {
+      "name": "Matt Scatchell",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant]",
+      "tracks": "1, 2, 4, 6 to 8, 10 to 14",
+      "id": 7595952,
+      "resource_url": "https://api.discogs.com/artists/7595952"
+    },
+    {
+      "name": "Ryan Dulude",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant]",
+      "tracks": "1, 3, 6, 7, 9, 11, 13",
+      "id": 7444747,
+      "resource_url": "https://api.discogs.com/artists/7444747"
+    },
+    {
+      "name": "Randy Merrill",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 1485708,
+      "resource_url": "https://api.discogs.com/artists/1485708"
+    },
+    {
+      "name": "Tom Elmhirst",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "1, 2, 4, 6, 8, 10 to 14",
+      "id": 122559,
+      "resource_url": "https://api.discogs.com/artists/122559"
+    },
+    {
+      "name": "Dominic Fike",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "1 to 6, 8, 9, 12, 13",
+      "id": 7087947,
+      "resource_url": "https://api.discogs.com/artists/7087947"
+    },
+    {
+      "name": "Dominic Fike",
+      "anv": "",
+      "join": "",
+      "role": "Written-By, Lyrics By",
+      "tracks": "",
+      "id": 7087947,
+      "resource_url": "https://api.discogs.com/artists/7087947"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/7vJ7XjPy2T3j2FhKNCLDqkDnM9BX8ilhkjvbXjNYJRI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDg4/MTk4LTE2MDgwNTAz/NjgtNDE2Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/7vJ7XjPy2T3j2FhKNCLDqkDnM9BX8ilhkjvbXjNYJRI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDg4/MTk4LTE2MDgwNTAz/NjgtNDE2Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/msjg0mb4GB3Z-ItpuTjXQgZe3t-JfA8TGs6gbwBsaW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDg4/MTk4LTE2MDgwNTAz/NjgtNDE2Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/msjg0mb4GB3Z-ItpuTjXQgZe3t-JfA8TGs6gbwBsaW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NDg4/MTk4LTE2MDgwNTAz/NjgtNDE2Mi5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

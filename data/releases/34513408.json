@@ -1,0 +1,577 @@
+{
+  "id": 34513408,
+  "status": "Accepted",
+  "year": 2025,
+  "resource_url": "https://api.discogs.com/releases/34513408",
+  "uri": "https://www.discogs.com/release/34513408-Cannons-5-Shadows",
+  "artists": [
+    {
+      "name": "Cannons (5)",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 7928121,
+      "resource_url": "https://api.discogs.com/artists/7928121",
+      "thumbnail_url": "https://i.discogs.com/7RFg58giLdLFIyeWSinWw7JE3AQBeteAGwtIdAx3-ao/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc5Mjgx/MjEtMTcyODg3Mzcw/Ny02NDIwLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Cannons (5)",
+  "labels": [
+    {
+      "name": "Columbia",
+      "catno": "19802927411S1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    },
+    {
+      "name": "Legacy",
+      "catno": "19802927411S1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 15491,
+      "resource_url": "https://api.discogs.com/labels/15491",
+      "thumbnail_url": "https://i.discogs.com/jk2im_GXsDlf_1qNdX0KOoZUX6ivAIvgJH0TEBVW7ck/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1NDkx/LTE0OTg4MzQ3MDgt/NzQwOS5wbmc.jpeg"
+    },
+    {
+      "name": "Columbia",
+      "catno": "19802927411",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    },
+    {
+      "name": "Legacy",
+      "catno": "19802927411",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 15491,
+      "resource_url": "https://api.discogs.com/labels/15491",
+      "thumbnail_url": "https://i.discogs.com/jk2im_GXsDlf_1qNdX0KOoZUX6ivAIvgJH0TEBVW7ck/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1NDkx/LTE0OTg4MzQ3MDgt/NzQwOS5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "GZ Media",
+      "catno": "301031E",
+      "entity_type": "44",
+      "entity_type_name": "Plated At",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    },
+    {
+      "name": "Memphis Record Pressing",
+      "catno": "MRP6968",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 833505,
+      "resource_url": "https://api.discogs.com/labels/833505",
+      "thumbnail_url": "https://i.discogs.com/gScAekIZLcU8IXU0jHeomyKqbZCh5q_xSsYTWDC2k4A/rs:fit/g:sm/q:90/h:550/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgzMzUw/NS0xNDY0NDU1NjQ1/LTg5MzIuanBlZw.jpeg"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Sony Music Entertainment",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 29073,
+      "resource_url": "https://api.discogs.com/labels/29073",
+      "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+    },
+    {
+      "name": "Sony Music Entertainment",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 29073,
+      "resource_url": "https://api.discogs.com/labels/29073",
+      "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+    },
+    {
+      "name": "Cannons The Band Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 3513496,
+      "resource_url": "https://api.discogs.com/labels/3513496"
+    },
+    {
+      "name": "Cannons (5)",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 3513493,
+      "resource_url": "https://api.discogs.com/labels/3513493"
+    },
+    {
+      "name": "Cannons (5)",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 3513493,
+      "resource_url": "https://api.discogs.com/labels/3513493"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue",
+        "Special Edition"
+      ],
+      "text": "Pink [Ethereal Pink]"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 1013,
+    "want": 147,
+    "rating": {
+      "count": 116,
+      "average": 4.79
+    },
+    "submitter": {
+      "username": "Astertious",
+      "resource_url": "https://api.discogs.com/users/Astertious"
+    },
+    "contributors": [
+      {
+        "username": "Astertious",
+        "resource_url": "https://api.discogs.com/users/Astertious"
+      },
+      {
+        "username": "pirate303",
+        "resource_url": "https://api.discogs.com/users/pirate303"
+      },
+      {
+        "username": "Lot.Of.Music",
+        "resource_url": "https://api.discogs.com/users/Lot.Of.Music"
+      },
+      {
+        "username": "Tim.Dukes",
+        "resource_url": "https://api.discogs.com/users/Tim.Dukes"
+      },
+      {
+        "username": "marytime85",
+        "resource_url": "https://api.discogs.com/users/marytime85"
+      },
+      {
+        "username": "TwistedMister",
+        "resource_url": "https://api.discogs.com/users/TwistedMister"
+      },
+      {
+        "username": "randellgreer",
+        "resource_url": "https://api.discogs.com/users/randellgreer"
+      },
+      {
+        "username": "societysfinest86",
+        "resource_url": "https://api.discogs.com/users/societysfinest86"
+      },
+      {
+        "username": "justinsgaines",
+        "resource_url": "https://api.discogs.com/users/justinsgaines"
+      },
+      {
+        "username": "lob0to",
+        "resource_url": "https://api.discogs.com/users/lob0to"
+      },
+      {
+        "username": "cliffonthemoon",
+        "resource_url": "https://api.discogs.com/users/cliffonthemoon"
+      },
+      {
+        "username": "B-RAD24",
+        "resource_url": "https://api.discogs.com/users/B-RAD24"
+      },
+      {
+        "username": "BAnho65",
+        "resource_url": "https://api.discogs.com/users/BAnho65"
+      },
+      {
+        "username": "Showbiz_Kid",
+        "resource_url": "https://api.discogs.com/users/Showbiz_Kid"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2025-07-11T11:19:01-07:00",
+  "date_changed": "2026-06-03T08:33:56-07:00",
+  "num_for_sale": 18,
+  "lowest_price": 24,
+  "master_id": 3703746,
+  "master_url": "https://api.discogs.com/masters/3703746",
+  "title": "Shadows",
+  "country": "US",
+  "released": "2025-08-22",
+  "notes": "All runout matrices are stamped, except for the hand etched '#1' on variant 2\n\nCatalogue number on hype sticker is 19802927411S1\nCatalogue number on rear sleeve, spine and labels is 19802927411\nVinyl is housed in a white paper poly-lined sleeve.\n\n℗ & © 2019, 2025 Cannons, under exclusive license to Columbia Records",
+  "released_formatted": "22 Aug 2025",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "0198029274110"
+    },
+    {
+      "type": "Barcode",
+      "value": "1 98029 27411 0",
+      "description": "Text"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "19802927411-A",
+      "description": "Label A side"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "19802927411-B",
+      "description": "Label B side"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MRP6968/19802927411-A 301031E1/A 02273696",
+      "description": "Runout side A, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MRP6968/19802927411-B 301031E2/A 02273230",
+      "description": "Runout side B, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MRP6968 / 19802927411 - A 301031E1/A #1 02237182",
+      "description": "Runout side A, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MRP6968 / 19802927411 - B 301031E2/A #1 02237258",
+      "description": "Runout side B, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MRP6968/19802927411-A 301031E1/A 02293966",
+      "description": "Runout side A, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MRP6968/19802927411-B 301031E2/A 02296297",
+      "description": "Runout side B, variant 3"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=tlbuHr3-U3M",
+      "title": "Baby",
+      "description": "Provided to YouTube by Ingrooves\n\nBaby · Cannons\n\nShadows\n\n℗ 2019 AntiFragile Music\n\nReleased on: 2019-07-12\n\nComposer, Writer: Michelle Lewis\nComposer, Writer: Paul Davis\nComposer, Writer: Ryan Clapham\n\nAuto-generated by YouTube.",
+      "duration": 196,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Azq2Bmz-8ks",
+      "title": "Fire For You",
+      "description": "Provided to YouTube by Ingrooves\n\nFire For You · Cannons\n\nFire For You\n\n℗ 2019 AntiFragile Music\n\nReleased on: 2019-04-19\n\nComposer, Writer: Michelle Lewis\nComposer, Writer: Paul Davis\nComposer, Writer: Ryan Clapham\n\nAuto-generated by YouTube.",
+      "duration": 232,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=SXF-Eu8XwC8",
+      "title": "Cannons - Talk Talk (Official Video)",
+      "description": "Directed by: Easton Schirra\nhttps://cannonstheband.com/\nhttps://www.facebook.com/cannonstheband/\nhttps://www.instagram.com/cannonstheband/",
+      "duration": 237,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=F0_JRMANeGk",
+      "title": "Love Chained",
+      "description": "Provided to YouTube by Ingrooves\n\nLove Chained · Cannons\n\nShadows\n\n℗ 2019 AntiFragile Music\n\nReleased on: 2019-07-12\n\nComposer, Writer: Michelle Lewis\nComposer, Writer: Paul Davis\nComposer, Writer: Ryan Clapham\n\nAuto-generated by YouTube.",
+      "duration": 205,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=FYmW_fHEvo8",
+      "title": "Bright Lights",
+      "description": "Provided to YouTube by Ingrooves\n\nBright Lights · Cannons\n\nShadows\n\n℗ 2019 AntiFragile Music\n\nReleased on: 2019-07-12\n\nComposer, Writer: Michelle Lewis\nComposer, Writer: Paul Davis\nComposer, Writer: Ryan Clapham\n\nAuto-generated by YouTube.",
+      "duration": 207,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Z9haVuTMehk",
+      "title": "Shadows",
+      "description": "Provided to YouTube by Ingrooves\n\nShadows · Cannons\n\nShadows\n\n℗ 2019 AntiFragile Music\n\nReleased on: 2019-07-12\n\nComposer, Writer: Michelle Lewis\nComposer, Writer: Paul Davis\nComposer, Writer: Ryan Clapham\n\nAuto-generated by YouTube.",
+      "duration": 236,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=dvsndIAYxJI",
+      "title": "Love on the Ground",
+      "description": "Provided to YouTube by Ingrooves\n\nLove on the Ground · Cannons\n\nShadows\n\n℗ 2019 AntiFragile Music\n\nReleased on: 2019-07-12\n\nComposer, Writer: Michelle Lewis\nComposer, Writer: Paul Davis\nComposer, Writer: Ryan Clapham\n\nAuto-generated by YouTube.",
+      "duration": 223,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=3EskKDQTkVA",
+      "title": "Cannons - Fire for You (Midnight Version - Official Lyric Video)",
+      "description": "Official Lyric Video for \"Fire For You (Midnight Version)\" by Cannons\n\nListen to Cannons: https://Cannons.lnk.to/_ListenID\nSubscribe to the official Cannons YouTube channel: https://Cannons.lnk.to/SubscribeID\nWatch more Cannons videos: https://Cannons.lnk",
+      "duration": 211,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=4YgWNuR0Nmc",
+      "title": "Cannons - Shadows (Dark Wave Mix - Official Audio)",
+      "description": "Official Audio for \"Shadows (Dark Wave)\" by Cannons\n\nListen to Cannons: https://Cannons.lnk.to/_ListenID\nSubscribe to the official Cannons YouTube channel: https://Cannons.lnk.to/SubscribeID\nWatch more Cannons videos: https://Cannons.lnk.to/_ListenID/yout",
+      "duration": 217,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=mkGqR7PE09o",
+      "title": "Cannons - Talk Talk (Dub Mix - Official Audio)",
+      "description": "Official Audio for \"Talk Talk (Dub Mix)\" by Cannons\n\nListen to Cannons: https://Cannons.lnk.to/_ListenID\nSubscribe to the official Cannons YouTube channel: https://Cannons.lnk.to/SubscribeID\nWatch more Cannons videos: https://Cannons.lnk.to/_ListenID/yout",
+      "duration": 201,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Rock",
+    "Pop"
+  ],
+  "styles": [
+    "Chillwave",
+    "Downtempo"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Baby",
+      "duration": "3:15"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Fire For You",
+      "duration": "3:51"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Talk Talk",
+      "extraartists": [
+        {
+          "name": "Caleb Shreve",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 333187,
+          "resource_url": "https://api.discogs.com/artists/333187"
+        },
+        {
+          "name": "Jon Siebels",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 404179,
+          "resource_url": "https://api.discogs.com/artists/404179"
+        }
+      ],
+      "duration": "3:35"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Love Chained",
+      "duration": "3:24"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Bright Lights",
+      "duration": "3:25"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Shadows",
+      "duration": "3:55"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Love On The Ground",
+      "duration": "3:42"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Easton Schirra",
+      "anv": "",
+      "join": "",
+      "role": "Artwork [Cover Art By]",
+      "tracks": "",
+      "id": 16717060,
+      "resource_url": "https://api.discogs.com/artists/16717060"
+    },
+    {
+      "name": "Paul Davis (60)",
+      "anv": "",
+      "join": "",
+      "role": "Bass, Keyboards, Drums, Recorded By, Mixed By",
+      "tracks": "",
+      "id": 13071333,
+      "resource_url": "https://api.discogs.com/artists/13071333"
+    },
+    {
+      "name": "Ryan Clapham",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "",
+      "id": 13071336,
+      "resource_url": "https://api.discogs.com/artists/13071336"
+    },
+    {
+      "name": "Paul Davis (60)",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By [Originally Mastered By]",
+      "tracks": "",
+      "id": 13071333,
+      "resource_url": "https://api.discogs.com/artists/13071333"
+    },
+    {
+      "name": "Cannons (5)",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 7928121,
+      "resource_url": "https://api.discogs.com/artists/7928121"
+    },
+    {
+      "name": "Michelle Lewis (3)",
+      "anv": "",
+      "join": "",
+      "role": "Vocals",
+      "tracks": "",
+      "id": 2133481,
+      "resource_url": "https://api.discogs.com/artists/2133481"
+    },
+    {
+      "name": "Michelle Lewis (3)",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 2133481,
+      "resource_url": "https://api.discogs.com/artists/2133481"
+    },
+    {
+      "name": "Paul Davis (60)",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 13071333,
+      "resource_url": "https://api.discogs.com/artists/13071333"
+    },
+    {
+      "name": "Ryan Clapham",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 13071336,
+      "resource_url": "https://api.discogs.com/artists/13071336"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/FzUGF-byH0O15twEs66-0UzchNdFfXw7uCa7Z4DNaWs/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTEz/NDA4LTE3NTU4OTU2/NjktNTQ0NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/FzUGF-byH0O15twEs66-0UzchNdFfXw7uCa7Z4DNaWs/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTEz/NDA4LTE3NTU4OTU2/NjktNTQ0NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/kOclZuOW3-Qa2EZ89aTK0o2eolS0-O9WS1LO03JeayE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTEz/NDA4LTE3NTU4OTU2/NjktNTQ0NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 594
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/StYkeZ1aOVnCVt_AeLlTNP-43H5MBXxF7XFGVLn0PLA/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTEz/NDA4LTE3NTU4OTU2/ODItNjUxMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/StYkeZ1aOVnCVt_AeLlTNP-43H5MBXxF7XFGVLn0PLA/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTEz/NDA4LTE3NTU4OTU2/ODItNjUxMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/GwQ7vlAN4SQj_80p4T_oXOyFAzCpUuy-OXN_3vfxx5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTEz/NDA4LTE3NTU4OTU2/ODItNjUxMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 532
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ihl54KwWyzWiPrmk0ywSP0BrcGCX01anhQ0lGdHWGmI/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTEz/NDA4LTE3NTU4OTU2/NzMtNDQ5NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ihl54KwWyzWiPrmk0ywSP0BrcGCX01anhQ0lGdHWGmI/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTEz/NDA4LTE3NTU4OTU2/NzMtNDQ5NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/r3DDHLKkrvmI5KNVbeXQEcgNZGWB7yQdQO_ipYqkCFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTEz/NDA4LTE3NTU4OTU2/NzMtNDQ5NS5qcGVn.jpeg",
+      "width": 592,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/y-0NAggU7Pm_-UfBl3TLOknXx4gQPxywHLO0Z0hKIi8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTEz/NDA4LTE3NTU5NDU1/NzMtNTY4My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/y-0NAggU7Pm_-UfBl3TLOknXx4gQPxywHLO0Z0hKIi8/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTEz/NDA4LTE3NTU5NDU1/NzMtNTY4My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/yNTep38eeRH2tVQXP8qZq15VMN17JOWZf5LncEirYAU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTEz/NDA4LTE3NTU5NDU1/NzMtNTY4My5qcGVn.jpeg",
+      "width": 597,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/jM8Eabo5SwIO3EwPsc5DsuvSc7caXM2jFns4vOdjC1I/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTEz/NDA4LTE3NTU5NDU1/NzUtMjg2Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/jM8Eabo5SwIO3EwPsc5DsuvSc7caXM2jFns4vOdjC1I/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTEz/NDA4LTE3NTU5NDU1/NzUtMjg2Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Cgnqt5yS0G4Ro_Q9p_LsADLyjUsbT1HjvcFU-TMx3zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTEz/NDA4LTE3NTU5NDU1/NzUtMjg2Mi5qcGVn.jpeg",
+      "width": 597,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/n7F_5OZ6LDCd87zp598mOebWqMUWBuvIgkDtN0z6CpY/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTEz/NDA4LTE3NTU4OTU3/MTgtODMxNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/n7F_5OZ6LDCd87zp598mOebWqMUWBuvIgkDtN0z6CpY/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTEz/NDA4LTE3NTU4OTU3/MTgtODMxNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/j3Q1CasVEDBw3RBlIaDoK4l54lE9cPeW3oaaizU-OFY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTEz/NDA4LTE3NTU4OTU3/MTgtODMxNS5qcGVn.jpeg",
+      "width": 579,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/_Ff72768GBluwvaykxnxa2cmoKwtSASyve4ry5toyaQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTEz/NDA4LTE3NjM4NDE1/ODgtOTUyOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/_Ff72768GBluwvaykxnxa2cmoKwtSASyve4ry5toyaQ/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTEz/NDA4LTE3NjM4NDE1/ODgtOTUyOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/kkPeS91taRkWwaK7U7O8YcatNuaFXXGnTG3gA80pF6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTEz/NDA4LTE3NjM4NDE1/ODgtOTUyOS5qcGVn.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/FE3-7cLowaXLpmRE5Y5tnsg2gNQ7xGv62lv-Mxll_t4/rs:fit/g:sm/q:90/h:304/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTEz/NDA4LTE3NjM4NDE1/ODktODIwNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/FE3-7cLowaXLpmRE5Y5tnsg2gNQ7xGv62lv-Mxll_t4/rs:fit/g:sm/q:90/h:304/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTEz/NDA4LTE3NjM4NDE1/ODktODIwNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ArtAyQDapJ-Nn7KDUwiy4nO_W47--BjWT8rfXuUj5Uo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTEz/NDA4LTE3NjM4NDE1/ODktODIwNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 304
+    }
+  ],
+  "thumb": "https://i.discogs.com/kOclZuOW3-Qa2EZ89aTK0o2eolS0-O9WS1LO03JeayE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NTEz/NDA4LTE3NTU4OTU2/NjktNTQ0NS5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

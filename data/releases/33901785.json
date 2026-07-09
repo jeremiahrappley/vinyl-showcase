@@ -1,0 +1,368 @@
+{
+  "id": 33901785,
+  "status": "Accepted",
+  "year": 0,
+  "resource_url": "https://api.discogs.com/releases/33901785",
+  "uri": "https://www.discogs.com/release/33901785-Lady-Gaga-Born-This-Way",
+  "artists": [
+    {
+      "name": "Lady Gaga",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 1103159,
+      "resource_url": "https://api.discogs.com/artists/1103159",
+      "thumbnail_url": "https://i.discogs.com/7fKI9gTLk8SjvmEoazkFu1QC-bSmKRvC3gc0seURp0g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTExMDMx/NTktMTc0MTUyMTky/MS03NzU0LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Lady Gaga",
+  "labels": [
+    {
+      "name": "Streamline Records",
+      "catno": "0602527641263",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 122077,
+      "resource_url": "https://api.discogs.com/labels/122077",
+      "thumbnail_url": "https://i.discogs.com/iQymr-QO9BXL4y2lTJf5KpgRnUz2W4wkDCgEpeeql6A/rs:fit/g:sm/q:90/h:111/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMjA3/Ny0xMzE3MTQyNDMz/LnBuZw.jpeg"
+    },
+    {
+      "name": "Interscope Records",
+      "catno": "0602527641263",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 2311,
+      "resource_url": "https://api.discogs.com/labels/2311",
+      "thumbnail_url": "https://i.discogs.com/58MHEZ0kBRytN0Ivvqvnirp57RFfiqWh1YGJLsn62ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTEt/MTUxNzAxMTEyMy00/NjEwLmpwZWc.jpeg"
+    },
+    {
+      "name": "Konlive",
+      "catno": "0602527641263",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 122078,
+      "resource_url": "https://api.discogs.com/labels/122078",
+      "thumbnail_url": "https://i.discogs.com/zxtjMCbj0LDEDmHr4oWu8rI6bnxBIHQIVrIN2sPwI8U/rs:fit/g:sm/q:90/h:270/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMjA3/OC0xNjIwNTE1NjEw/LTYyNzIuZ2lm.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 1049,
+    "want": 79,
+    "rating": {
+      "count": 220,
+      "average": 4.85
+    },
+    "submitter": {
+      "username": "DeadPirateRoberts",
+      "resource_url": "https://api.discogs.com/users/DeadPirateRoberts"
+    },
+    "contributors": [
+      {
+        "username": "DeadPirateRoberts",
+        "resource_url": "https://api.discogs.com/users/DeadPirateRoberts"
+      },
+      {
+        "username": "GabiB",
+        "resource_url": "https://api.discogs.com/users/GabiB"
+      },
+      {
+        "username": "vinylzzzz",
+        "resource_url": "https://api.discogs.com/users/vinylzzzz"
+      },
+      {
+        "username": "leonardoaraujo",
+        "resource_url": "https://api.discogs.com/users/leonardoaraujo"
+      },
+      {
+        "username": "rginn2003",
+        "resource_url": "https://api.discogs.com/users/rginn2003"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2025-05-05T15:00:02-07:00",
+  "date_changed": "2025-07-01T14:30:09-07:00",
+  "num_for_sale": 7,
+  "lowest_price": 30,
+  "master_id": 338175,
+  "master_url": "https://api.discogs.com/masters/338175",
+  "title": "Born This Way",
+  "country": "US",
+  "notes": "2 discs in red sleeves, inscribed \"THIS ALBUM IS FOR Ü\".\n\nSide 1\n2764126-A\n\nSide 2\n2764126-B\n\nSide 3\n15174SE3/E\n2764126-C\n\nSide 4\n2764126-D",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "602527641263"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=wV1FrqwZyKw",
+      "title": "Lady Gaga - Born This Way (Official Music Video)",
+      "description": "MAYHEM OUT NOW\nhttp://ladygaga.com \n \nFollow Lady Gaga:\nFacebook: https://www.facebook.com/ladygaga \nInstagram: https://www.instagram.com/ladygaga \nTikTok: https://www.tiktok.com/@ladygaga \nTwitter: https://twitter.com/ladygaga \nYouTube: https://www.youtu",
+      "duration": 440,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=wagn8Wrmzuc",
+      "title": "Lady Gaga - Judas (Official Music Video)",
+      "description": "MAYHEM OUT NOW\nhttp://ladygaga.com \n \nFollow Lady Gaga:\nFacebook: https://www.facebook.com/ladygaga \nInstagram: https://www.instagram.com/ladygaga \nTikTok: https://www.tiktok.com/@ladygaga \nTwitter: https://twitter.com/ladygaga \nYouTube: https://www.youtu",
+      "duration": 335,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Okq8xHrIZ8I",
+      "title": "Lady Gaga - Hair (Official Audio)",
+      "description": "Follow Lady Gaga, buy the album on iTunes, and more http://bit.ly/m5Dr70",
+      "duration": 309,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=QeWBS0JBNzQ",
+      "title": "Lady Gaga - The Edge Of Glory",
+      "description": "MAYHEM OUT NOW\nhttp://ladygaga.com \n \nFollow Lady Gaga:\nFacebook: https://www.facebook.com/ladygaga \nInstagram: https://www.instagram.com/ladygaga \nTikTok: https://www.tiktok.com/@ladygaga \nTwitter: https://twitter.com/ladygaga \nYouTube: https://www.youtu",
+      "duration": 328,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=0-DM_c0wqvE",
+      "title": "Born This Way (Limited Edition USB by Lady GaGa)",
+      "description": "Lady GaGa - Born This Way\nLimited Edition USB Album\nMore info of this release here:\nhttps://www.discogs.com/release/3140350-Lady-Gaga-Born-This-Way\n\nInstagram: https://www.instagram.com/uncle_fallen/\n\nThe Chart is a tribute-driven platform celebrating ico",
+      "duration": 128,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Pop"
+  ],
+  "styles": [
+    "Synth-pop"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Marry The Night",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Born This Way",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Government Hooker",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Judas",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Americano",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Hair",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Scheiße",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Bloody Mary",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Black Jesus † Amen Fashion",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Bad Kids",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Fashion Of His Love",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Highway Unicorn (Road To Love)",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "Heavy Metal Lover",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Electric Chapel",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "The Queen",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Yoü And I",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "title": "The Edge Of Glory",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Vincent Herbert",
+      "anv": "",
+      "join": "",
+      "role": "A&R",
+      "tracks": "",
+      "id": 52534,
+      "resource_url": "https://api.discogs.com/artists/52534"
+    },
+    {
+      "name": "Vincent Herbert",
+      "anv": "",
+      "join": "",
+      "role": "Executive Producer",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Atom Factory",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 4021058,
+      "resource_url": "https://api.discogs.com/artists/4021058"
+    },
+    {
+      "name": "Atom Factory",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 4021058,
+      "resource_url": "https://api.discogs.com/artists/4021058"
+    },
+    {
+      "name": "Troy Carter (2)",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 1637972,
+      "resource_url": "https://api.discogs.com/artists/1637972"
+    },
+    {
+      "name": "Wendi Morris",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 1964401,
+      "resource_url": "https://api.discogs.com/artists/1964401"
+    },
+    {
+      "name": "Atom Digital",
+      "anv": "",
+      "join": "",
+      "role": "Marketing",
+      "tracks": "",
+      "id": 13414236,
+      "resource_url": "https://api.discogs.com/artists/13414236"
+    },
+    {
+      "name": "Atom Factory",
+      "anv": "",
+      "join": "",
+      "role": "Marketing",
+      "tracks": "",
+      "id": 4021058,
+      "resource_url": "https://api.discogs.com/artists/4021058"
+    },
+    {
+      "name": "Gretchen Anderson",
+      "anv": "",
+      "join": "",
+      "role": "Production Manager",
+      "tracks": "",
+      "id": 195505,
+      "resource_url": "https://api.discogs.com/artists/195505"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/VyLvOTO5qXslM124f6lpH9XvFw1C9L_x0191BLRDCME/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTAx/Nzg1LTE3NTEyNDI1/ODktMTY2OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/VyLvOTO5qXslM124f6lpH9XvFw1C9L_x0191BLRDCME/rs:fit/g:sm/q:90/h:600/w:576/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTAx/Nzg1LTE3NTEyNDI1/ODktMTY2OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Aw5c4JGjLdNrhS8Lql5QYdtLT-ycQHHnH9Grbc3mugk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTAx/Nzg1LTE3NTEyNDI1/ODktMTY2OS5qcGVn.jpeg",
+      "width": 576,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/-hvwMq2JOWhfQj5wkslEcA3zjVK7Ypa2BbpTunaUjx4/rs:fit/g:sm/q:90/h:600/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTAx/Nzg1LTE3NTEyNDI1/ODktOTMyMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/-hvwMq2JOWhfQj5wkslEcA3zjVK7Ypa2BbpTunaUjx4/rs:fit/g:sm/q:90/h:600/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTAx/Nzg1LTE3NTEyNDI1/ODktOTMyMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/jRWHk9-0XVp_h66zVE63imhwzb1bf8lx-vZcF58dyAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTAx/Nzg1LTE3NTEyNDI1/ODktOTMyMy5qcGVn.jpeg",
+      "width": 570,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/Aw5c4JGjLdNrhS8Lql5QYdtLT-ycQHHnH9Grbc3mugk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTAx/Nzg1LTE3NTEyNDI1/ODktMTY2OS5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

@@ -1,0 +1,2583 @@
+{
+  "id": 11150838,
+  "status": "Accepted",
+  "year": 2017,
+  "resource_url": "https://api.discogs.com/releases/11150838",
+  "uri": "https://www.discogs.com/release/11150838-SZA-2-Ctrl",
+  "artists": [
+    {
+      "name": "SZA (2)",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 3272791,
+      "resource_url": "https://api.discogs.com/artists/3272791",
+      "thumbnail_url": "https://i.discogs.com/V_Tf4jG7uTvCbq3JtPYeGAAqKpM-rQ6GvgDZvwlM-wM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMyNzI3/OTEtMTc4MTY1NjE0/NC02MjM2LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "SZA (2)",
+  "labels": [
+    {
+      "name": "Top Dawg Entertainment",
+      "catno": "8985-44919-1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 255292,
+      "resource_url": "https://api.discogs.com/labels/255292",
+      "thumbnail_url": "https://i.discogs.com/KIAcsLn_ssNYjMUz9JZJBbq814PX-Eb9a04KDaULLIs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NTI5/Mi0xNDA1NzU3NDA4/LTQzMDcuanBlZw.jpeg"
+    },
+    {
+      "name": "RCA",
+      "catno": "88985-44919-1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 895,
+      "resource_url": "https://api.discogs.com/labels/895",
+      "thumbnail_url": "https://i.discogs.com/q-zL2IXAAZL18V9Ova8MTy7NXCoGMloDEKM1yaHpays/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg5NS0x/NzY4MDgxMjYxLTMw/NDIuanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "1500 Or Nothin Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 934325,
+      "resource_url": "https://api.discogs.com/labels/934325"
+    },
+    {
+      "name": "Engineears Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 1378943,
+      "resource_url": "https://api.discogs.com/labels/1378943"
+    },
+    {
+      "name": "Lakehouse Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 525123,
+      "resource_url": "https://api.discogs.com/labels/525123"
+    },
+    {
+      "name": "No Excuses Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 283254,
+      "resource_url": "https://api.discogs.com/labels/283254"
+    },
+    {
+      "name": "Platinum Sound Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 266512,
+      "resource_url": "https://api.discogs.com/labels/266512",
+      "thumbnail_url": "https://i.discogs.com/aphMjsku7MEdPlK07PWzRiiIjoD29JIa-gzPzz6KSv8/rs:fit/g:sm/q:90/h:397/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NjUx/Mi0xMzQ1MjEzNzk3/LTk5MDkuanBlZw.jpeg"
+    },
+    {
+      "name": "Top Dawg House Of Pain",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 1378944,
+      "resource_url": "https://api.discogs.com/labels/1378944"
+    },
+    {
+      "name": "Windmark Studios (2)",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 814036,
+      "resource_url": "https://api.discogs.com/labels/814036",
+      "thumbnail_url": "https://i.discogs.com/sHuGEuJppFQdtnU2qZydR5ZS85zpneAVFfzXgY9AXfI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgxNDAz/Ni0xNjE3NzY3MjM2/LTMwNjUuanBlZw.jpeg"
+    },
+    {
+      "name": "Arts & Crafts Music, Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 1378942,
+      "resource_url": "https://api.discogs.com/labels/1378942"
+    },
+    {
+      "name": "CLR, Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 175230,
+      "resource_url": "https://api.discogs.com/labels/175230"
+    },
+    {
+      "name": "Danjahandz Muzik",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 283245,
+      "resource_url": "https://api.discogs.com/labels/283245"
+    },
+    {
+      "name": "Dayna's Day Publishing",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 735211,
+      "resource_url": "https://api.discogs.com/labels/735211",
+      "thumbnail_url": "https://i.discogs.com/7TinRTOO-5MWjwYF4CxDwovl5LEjcEpu68D3gNALa9A/rs:fit/g:sm/q:90/h:51/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTczNTIx/MS0xNTg5MzIzMTMx/LTE3NjguanBlZw.jpeg"
+    },
+    {
+      "name": "E.P.H.C.Y. Publishing",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 1004754,
+      "resource_url": "https://api.discogs.com/labels/1004754"
+    },
+    {
+      "name": "EMI April Music Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 264623,
+      "resource_url": "https://api.discogs.com/labels/264623",
+      "thumbnail_url": "https://i.discogs.com/6YZ9yNsvSzkXXtmAiAgG0HFyMo0ba1AIgfIuB88wqi4/rs:fit/g:sm/q:90/h:134/w:270/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDYy/My0xNTg4OTgwMTEw/LTc0MDUuanBlZw.jpeg"
+    },
+    {
+      "name": "EMI Music Publishing Ltd.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 265460,
+      "resource_url": "https://api.discogs.com/labels/265460",
+      "thumbnail_url": "https://i.discogs.com/QUVURY3OB4iixKDJbWXcejxXVjfw64FEPr6tx2MyyFc/rs:fit/g:sm/q:90/h:192/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTQ2/MC0xNjE3MDIxMTM3/LTQxMjguanBlZw.jpeg"
+    },
+    {
+      "name": "Funky Noble Productions Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 305875,
+      "resource_url": "https://api.discogs.com/labels/305875"
+    },
+    {
+      "name": "GalleryAC Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 711335,
+      "resource_url": "https://api.discogs.com/labels/711335"
+    },
+    {
+      "name": "Kobalt Music Publishing",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 277877,
+      "resource_url": "https://api.discogs.com/labels/277877",
+      "thumbnail_url": "https://i.discogs.com/zztcCwR14SeD3Zxjlwvh7-TGHqcptGLfQoI7dcslUZ8/rs:fit/g:sm/q:90/h:412/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Nzg3/Ny0xNjQyNTY3MzQw/LTY0MjkuanBlZw.jpeg"
+    },
+    {
+      "name": "Nyankingmusic",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 1370288,
+      "resource_url": "https://api.discogs.com/labels/1370288"
+    },
+    {
+      "name": "Ole Virginia Beach Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 1401358,
+      "resource_url": "https://api.discogs.com/labels/1401358"
+    },
+    {
+      "name": "Sweet Summer Night Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 272829,
+      "resource_url": "https://api.discogs.com/labels/272829",
+      "thumbnail_url": "https://i.discogs.com/_fyPYKjSR69lM8JPEstXul2UP-VbfQTpQgelZBetfkg/rs:fit/g:sm/q:90/h:58/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Mjgy/OS0xNDkyODQ3OTgx/LTExODAuanBlZw.jpeg"
+    },
+    {
+      "name": "T'Ziah's Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 346544,
+      "resource_url": "https://api.discogs.com/labels/346544",
+      "thumbnail_url": "https://i.discogs.com/NpVtk3XV2L9NpzaEF-VPavRUoIM-f6Om5UlG5Pt4aX8/rs:fit/g:sm/q:90/h:39/w:228/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM0NjU0/NC0xNTkwMjM1NDQ3/LTk3OTYuanBlZw.jpeg"
+    },
+    {
+      "name": "Tennman Tunes",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 277712,
+      "resource_url": "https://api.discogs.com/labels/277712"
+    },
+    {
+      "name": "Universal - Polygram International Publishing, Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 388553,
+      "resource_url": "https://api.discogs.com/labels/388553"
+    },
+    {
+      "name": "Universal Music - Z Tunes LLC",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 376922,
+      "resource_url": "https://api.discogs.com/labels/376922"
+    },
+    {
+      "name": "Warner-Tamerlane Publishing Corp.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 267941,
+      "resource_url": "https://api.discogs.com/labels/267941",
+      "thumbnail_url": "https://i.discogs.com/CHThcdWZ1r2HLX8olhbKfLbWWzp56K4KrhfJ_yxv8CQ/rs:fit/g:sm/q:90/h:347/w:516/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2Nzk0/MS0xNzQwMTkxNzg3/LTUxMDYuanBlZw.jpeg"
+    },
+    {
+      "name": "WB Music Corp.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 131984,
+      "resource_url": "https://api.discogs.com/labels/131984",
+      "thumbnail_url": "https://i.discogs.com/eW6mLUR1nIwiKso3EmkA7ewTn_OYfDqfAqzGzZ91GSY/rs:fit/g:sm/q:90/h:82/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzMTk4/NC0xNDkyODM4Mzc3/LTc1MjcuanBlZw.jpeg"
+    },
+    {
+      "name": "W.B.M. Music Corp.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 283248,
+      "resource_url": "https://api.discogs.com/labels/283248"
+    },
+    {
+      "name": "Bernie Grundman Mastering",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 263896,
+      "resource_url": "https://api.discogs.com/labels/263896",
+      "thumbnail_url": "https://i.discogs.com/nsGBKV1E7CmO2wHP4oMbHuOfMxw-5FIZjetOKyez7GU/rs:fit/g:sm/q:90/h:182/w:383/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2Mzg5/Ni0xMzE1MzQ3NDEy/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Top Dawg Entertainment",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 255292,
+      "resource_url": "https://api.discogs.com/labels/255292",
+      "thumbnail_url": "https://i.discogs.com/KIAcsLn_ssNYjMUz9JZJBbq814PX-Eb9a04KDaULLIs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NTI5/Mi0xNDA1NzU3NDA4/LTQzMDcuanBlZw.jpeg"
+    },
+    {
+      "name": "Top Dawg Entertainment",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 255292,
+      "resource_url": "https://api.discogs.com/labels/255292",
+      "thumbnail_url": "https://i.discogs.com/KIAcsLn_ssNYjMUz9JZJBbq814PX-Eb9a04KDaULLIs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NTI5/Mi0xNDA1NzU3NDA4/LTQzMDcuanBlZw.jpeg"
+    },
+    {
+      "name": "RCA Records",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 29656,
+      "resource_url": "https://api.discogs.com/labels/29656",
+      "thumbnail_url": "https://i.discogs.com/EN9PpsplNgyWdRKTy1QohI1E5-1H-AkSgtzqej8WFu0/rs:fit/g:sm/q:90/h:94/w:283/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5NjU2/LTE0OTAwODk0MTQt/MjI5My5wbmc.jpeg"
+    },
+    {
+      "name": "Sony Music Entertainment",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 29073,
+      "resource_url": "https://api.discogs.com/labels/29073",
+      "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+    },
+    {
+      "name": "Sony Music Entertainment",
+      "catno": "",
+      "entity_type": "8",
+      "entity_type_name": "Marketed By",
+      "id": 29073,
+      "resource_url": "https://api.discogs.com/labels/29073",
+      "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+    },
+    {
+      "name": "Sony Music Entertainment",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 29073,
+      "resource_url": "https://api.discogs.com/labels/29073",
+      "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+    },
+    {
+      "name": "Record Technology Incorporated",
+      "catno": "28289",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 66254,
+      "resource_url": "https://api.discogs.com/labels/66254",
+      "thumbnail_url": "https://i.discogs.com/NZIJOUdgmVHURy9AfZAXM0L0OB6S3lijFX4CZ_-nWh4/rs:fit/g:sm/q:90/h:240/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY2MjU0/LTE1MTYyOTg3NDIt/NDQxMS5wbmc.jpeg"
+    },
+    {
+      "name": "Record Technology Incorporated",
+      "catno": "28333",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 66254,
+      "resource_url": "https://api.discogs.com/labels/66254",
+      "thumbnail_url": "https://i.discogs.com/NZIJOUdgmVHURy9AfZAXM0L0OB6S3lijFX4CZ_-nWh4/rs:fit/g:sm/q:90/h:240/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY2MjU0/LTE1MTYyOTg3NDIt/NDQxMS5wbmc.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album"
+      ],
+      "text": "Green Translucent"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 28639,
+    "want": 6212,
+    "rating": {
+      "count": 1682,
+      "average": 4.67
+    },
+    "submitter": {
+      "username": "CD_WAREHOUSE_817",
+      "resource_url": "https://api.discogs.com/users/CD_WAREHOUSE_817"
+    },
+    "contributors": [
+      {
+        "username": "CD_WAREHOUSE_817",
+        "resource_url": "https://api.discogs.com/users/CD_WAREHOUSE_817"
+      },
+      {
+        "username": "plastichag",
+        "resource_url": "https://api.discogs.com/users/plastichag"
+      },
+      {
+        "username": "dfdrasberries",
+        "resource_url": "https://api.discogs.com/users/dfdrasberries"
+      },
+      {
+        "username": "MrsJarvisCocker",
+        "resource_url": "https://api.discogs.com/users/MrsJarvisCocker"
+      },
+      {
+        "username": "TReimer",
+        "resource_url": "https://api.discogs.com/users/TReimer"
+      },
+      {
+        "username": "kittycollection",
+        "resource_url": "https://api.discogs.com/users/kittycollection"
+      },
+      {
+        "username": "Bshikari",
+        "resource_url": "https://api.discogs.com/users/Bshikari"
+      },
+      {
+        "username": "michael_c",
+        "resource_url": "https://api.discogs.com/users/michael_c"
+      },
+      {
+        "username": "berothbr",
+        "resource_url": "https://api.discogs.com/users/berothbr"
+      },
+      {
+        "username": "stay_zapped",
+        "resource_url": "https://api.discogs.com/users/stay_zapped"
+      },
+      {
+        "username": "nasaow",
+        "resource_url": "https://api.discogs.com/users/nasaow"
+      },
+      {
+        "username": "GentleSenator",
+        "resource_url": "https://api.discogs.com/users/GentleSenator"
+      },
+      {
+        "username": "Treasure_InThe_Attic",
+        "resource_url": "https://api.discogs.com/users/Treasure_InThe_Attic"
+      },
+      {
+        "username": "ShireenPeaches",
+        "resource_url": "https://api.discogs.com/users/ShireenPeaches"
+      },
+      {
+        "username": "baldorr",
+        "resource_url": "https://api.discogs.com/users/baldorr"
+      },
+      {
+        "username": "myvinyldiscography",
+        "resource_url": "https://api.discogs.com/users/myvinyldiscography"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2017-11-15T14:31:13-08:00",
+  "date_changed": "2024-11-05T12:59:23-08:00",
+  "num_for_sale": 81,
+  "lowest_price": 15.99,
+  "master_id": 1193369,
+  "master_url": "https://api.discogs.com/masters/1193369",
+  "title": "Ctrl",
+  "country": "US",
+  "released": "2017-11-17",
+  "notes": "Gatefold sleeve. Includes an 8-page booklet. Download code printed on the booklet.\n\nSupermodel:\nRecorded at No Excuses\n\nLove Galore:\nTravis Scott / Recorded by Blake Harden at home studio & Windmark Recording, Santa Monica, CA\nRecorded at The Lake House in Michigan\n\nDoves In The Wind:\nKendrick Lemar / Recorded [...] at No Excuses\nRecorded at No Excuses\nContains a sample of the recording \"Let's Get Dirty (I Can't Get In Da Club)\" written by Reggie Noble, John Bowman and Dana Stinson as performed by Redman, published by Warner-Tamerlane Publishing Corp. (BMI), Dayna's Day Publishing (BMI), WB Music Corp. (ASCAP), Funky Noble Productions, Inc. (ASCAP) & CLR, Inc. (ASCAP). All rights administered by Warner-Tamerlane Publishing Corp. (BMI) and WB Music Corp. (ASCAP) courtesy of Def Jam Recordings, a division of UMG Recordings, Inc. Under license from Universal Music Enterprises.\nContains an interpolation from \"Turn Me Up Some\" written by Trevor Smith and James Yancey, published by Universal Polygram International Publishing, Inc. O/B/O itself and E.P.H.C.Y. Publishing (ASCAP)/Kobalt Music Publishing/T'Ziah Music (BMI).\n\nDrew Barrymore:\nRecorded at Engineears Studios\n\nProm:\nRecorded at Engineears Studios\n\nThe Weekend:\nRecorded at Platinum Sounds Studios\nContains elements of \"Set The Mood (Prelude)\" written by Justin Timberlake, Timothy Mosely and Floyd Hills as performed by Justin Timberlake, published by W.B.M. Music Corp. (SESAC) and Danjahandz Muzik (SESAC). All rights administered by W.B.M. Music Corp. (SESAC)/Universal Music - Z Tunes LLC O/B/O Tennman Tunes (ASCAP)/Ole Virginia Beach Music (ASCAP).\n\nGo Gina:\nRecorded at No Excuses\n\nGarden (Say It Like Dat):\nRecorded at No Excuses\n\nBroken Clocks:\nRecorded at The Lake House in Michigan\nThis composition embodies portions of \"West\" written by Thomas Paxton-Beesley, Adam Feeney and Ashton Simmons as performed by River Tiber, published by EMI April Music, Inc. (ASCAP)/EMI Music Publishing Ltd., Nyankingmusic/Arts & Crafts Music, Inc. D/B/A Galleryac Music\n\nAnything:\nRecorded at Top Dawg House Of Pain\nContains a sample of the recording \"Spring Affair\" written by Georgio Moroder, Peter Bellotte and Donna Summer as performed by Donna Summer, published by WB Music Corp./Sweet Summer Nights Music (ASCAP) courtesy of Universal Music Enterprises, a division of UMG Recordings, Inc.\n\nWavy (Interlude):\nJames Fauntleroy / Recorded [...] at 1500 Or Nothin' Studios\n\nNormal Girl:\nRecorded at No Excuses\n\nPretty Little Birds:\nIsaiah Rashad / Recorded by Josef Leimberg at Josef's studio\nRecorded at Josef's studio\n\n20 Something:\nRecorded at Windmark Recording, Santa Monica, CA\n\n℗ & © 2017 Top Dawg Entertainment under exlcusive license to RCA Records, a division of Sony Music Entertainment \nMarketed and distributed by Sony Music Entertainment, 25 Madison Avenue, New York, New York 10010-8601.\n",
+  "released_formatted": "17 Nov 2017",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "889854491918",
+      "description": "Printed, spaces removed"
+    },
+    {
+      "type": "Barcode",
+      "value": "8 8985-44919-1 8",
+      "description": "Text"
+    },
+    {
+      "type": "Rights Society",
+      "value": "ASCAP"
+    },
+    {
+      "type": "Rights Society",
+      "value": "BMI"
+    },
+    {
+      "type": "Rights Society",
+      "value": "SESAC"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "88985-44919-1 A SS 28289.1(3)...",
+      "description": "Side A runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "88985-44919-1 B3 SS 28333.2(3)...",
+      "description": "Side B runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "88985-44919-1 C SS 28289.3(3)...",
+      "description": "Side C runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "88985-44919-1 D SS 28289.4(3)...",
+      "description": "Side D runout"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=Tiixq9rT_J0",
+      "title": "SZA - Supermodel (Official Video)",
+      "description": "SZA's \"CTRL\" available on:\nApple Music - http://smarturl.it/iCTRL\nSpotify - http://smarturl.it/sCTRL\nSoundcloud - http://smarturl.it/scCTRL\nTidal - http://smarturl.it/tCTRL\nAmazon Music - http://smarturl.it/aCTRL\nGoogle Play - http://smarturl.it/gCTRL\n\nFo",
+      "duration": 190,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=zVc-K1kKkVk",
+      "title": "SZA - Broken Clocks",
+      "description": "SZA's \"Broken Clocks\" available on:\nApple Music - http://smarturl.it/iBrokenClocks\nSpotify - http://smarturl.it/sBrokenClocks\nAmazon - http://smarturl.it/aBrokenClocks\nGoogle Play - http://smarturl.it/gBrokenClocks\nTidal - http://smarturl.it/tBrokenClocks",
+      "duration": 304,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=hHXfCOjb3fk",
+      "title": "SZA - Love Galore (Official Video) ft. Travis Scott",
+      "description": "SZA's \"Love Galore\" ft. Travis Scott now available on:\nApple Music - http://smarturl.it/iLoveGalore \nSpotify - http://smarturl.it/sLoveGalore \nSoundcloud - http://smarturl.it/scLoveGalore \nTidal - http://smarturl.it/tLoveGalore \nAmazon Music - http://smar",
+      "duration": 284,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=dp45V_M4Akw",
+      "title": "SZA - Drew Barrymore (Official Video)",
+      "description": "Official video for \"Drew Barrymore\" by SZA\nListen to SZA: https://SZA.lnk.to/listenYD\nWatch more videos by SZA: https://SZA.lnk.to/listenYD/youtube\n \nSubscribe to SZA on YouTube: https://SZA.lnk.to/subscribeYD\n \nFollow SZA:\nInstagram: https://SZA.lnk.to/f",
+      "duration": 240,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=cMD63TwzB1o",
+      "title": "SZA - The Weekend (Official Video)",
+      "description": "SZA's \"CTRL\" available on:\nApple Music - http://smarturl.it/iCTRL\nSpotify - http://smarturl.it/sCTRL\nSoundcloud - http://smarturl.it/scCTRL\nTidal - http://smarturl.it/tCTRL\nAmazon Music - http://smarturl.it/aCTRL\nGoogle Play - http://smarturl.it/gCTRL\n\nFo",
+      "duration": 249,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=DpSWgZVIfi8",
+      "title": "SZA - Go Gina (Stripped) (Vevo LIFT)",
+      "description": "#VevoLIFT\nSZA - Go Gina (Stripped LIFT)\n\nSZA is enjoying a big blast of acclaim for 'Ctrl,' one of 2017's most inventive albums. Our newest LIFT artist performs \"Go Gina\" accompanied only by a bassist in an outdoor setting, and it almost more fierce than ",
+      "duration": 160,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Zg165-mZ7x8",
+      "title": "SZA - Doves In The Wind (Official Video) ft. Kendrick Lamar",
+      "description": "Watch the official video for \"Doves In the Wind\" by SZA featuring Kendrick Lamar\nListen to SZA: https://SZA.lnk.to/listenYD\nWatch more videos by SZA: https://SZA.lnk.to/listenYD/youtube\n \nSubscribe to SZA on YouTube: https://SZA.lnk.to/subscribeYD\n \nFollo",
+      "duration": 270,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=pcJo0tIWybY",
+      "title": "SZA - Garden (Say It Like Dat) (Official Video)",
+      "description": "SZA's \"CTRL\" available on:\nApple Music - http://smarturl.it/iCTRL\nSpotify - http://smarturl.it/sCTRL\nSoundcloud - http://smarturl.it/scCTRL\nTidal - http://smarturl.it/tCTRL\nAmazon Music - http://smarturl.it/aCTRL\nGoogle Play - http://smarturl.it/gCTRL\n\nFo",
+      "duration": 245,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Contemporary R&B"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Supermodel",
+      "extraartists": [
+        {
+          "name": "Stix (18)",
+          "anv": "",
+          "join": "",
+          "role": "Drums [Additional Drums]",
+          "tracks": "",
+          "id": 6022971,
+          "resource_url": "https://api.discogs.com/artists/6022971"
+        },
+        {
+          "name": "Ray Charles Brown Jr.",
+          "anv": "Ray Charles Brown",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 12113368,
+          "resource_url": "https://api.discogs.com/artists/12113368"
+        },
+        {
+          "name": "Derek \"MixedByAli\" Ali",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 14682252,
+          "resource_url": "https://api.discogs.com/artists/14682252"
+        },
+        {
+          "name": "Scum (42)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 6146907,
+          "resource_url": "https://api.discogs.com/artists/6146907"
+        },
+        {
+          "name": "Pharrell Williams",
+          "anv": "",
+          "join": "",
+          "role": "Vocals [Additional Vocals]",
+          "tracks": "",
+          "id": 90037,
+          "resource_url": "https://api.discogs.com/artists/90037"
+        },
+        {
+          "name": "Mommy (7)",
+          "anv": "",
+          "join": "",
+          "role": "Voice [Skit]",
+          "tracks": "",
+          "id": 6022967,
+          "resource_url": "https://api.discogs.com/artists/6022967"
+        },
+        {
+          "name": "Carter Lang",
+          "anv": "C. Lang",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3387002,
+          "resource_url": "https://api.discogs.com/artists/3387002"
+        },
+        {
+          "name": "Greg Landfair Jr.",
+          "anv": "G. Landfair, Jr.",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3276854,
+          "resource_url": "https://api.discogs.com/artists/3276854"
+        },
+        {
+          "name": "Solana Rowe",
+          "anv": "S. Rowe",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4851705,
+          "resource_url": "https://api.discogs.com/artists/4851705"
+        },
+        {
+          "name": "Terrence Henderson",
+          "anv": "T. Henderson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1809637,
+          "resource_url": "https://api.discogs.com/artists/1809637"
+        },
+        {
+          "name": "Tyran Donaldson",
+          "anv": "T. Donaldson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4851700,
+          "resource_url": "https://api.discogs.com/artists/4851700"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Love Galore",
+      "extraartists": [
+        {
+          "name": "Chris Classick",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 3282931,
+          "resource_url": "https://api.discogs.com/artists/3282931"
+        },
+        {
+          "name": "Tristan Bott",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineered At Windmark By]",
+          "tracks": "",
+          "id": 3542917,
+          "resource_url": "https://api.discogs.com/artists/3542917"
+        },
+        {
+          "name": "Travis Scott (2)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2742944,
+          "resource_url": "https://api.discogs.com/artists/2742944"
+        },
+        {
+          "name": "Derek \"MixedByAli\" Ali",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 14682252,
+          "resource_url": "https://api.discogs.com/artists/14682252"
+        },
+        {
+          "name": "Carter Lang",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3387002,
+          "resource_url": "https://api.discogs.com/artists/3387002"
+        },
+        {
+          "name": "ThankGod4Cody",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4970834,
+          "resource_url": "https://api.discogs.com/artists/4970834"
+        },
+        {
+          "name": "Blake Harden",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Travis Scott Recorded By]",
+          "tracks": "",
+          "id": 3763103,
+          "resource_url": "https://api.discogs.com/artists/3763103"
+        },
+        {
+          "name": "Carter Lang",
+          "anv": "C. Lang",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3387002,
+          "resource_url": "https://api.discogs.com/artists/3387002"
+        },
+        {
+          "name": "Cody Fayne",
+          "anv": "C. Fayne",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6022979,
+          "resource_url": "https://api.discogs.com/artists/6022979"
+        },
+        {
+          "name": "Jacques Webster",
+          "anv": "J. Webster",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3360315,
+          "resource_url": "https://api.discogs.com/artists/3360315"
+        },
+        {
+          "name": "Solana Rowe",
+          "anv": "S. Rowe",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4851705,
+          "resource_url": "https://api.discogs.com/artists/4851705"
+        },
+        {
+          "name": "Terrence Henderson",
+          "anv": "T. Henderson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1809637,
+          "resource_url": "https://api.discogs.com/artists/1809637"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Doves In the Wind",
+      "extraartists": [
+        {
+          "name": "Prophit (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 6022968,
+          "resource_url": "https://api.discogs.com/artists/6022968"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1778977,
+          "resource_url": "https://api.discogs.com/artists/1778977"
+        },
+        {
+          "name": "Derek \"MixedByAli\" Ali",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 14682252,
+          "resource_url": "https://api.discogs.com/artists/14682252"
+        },
+        {
+          "name": "Redman",
+          "anv": "",
+          "join": "",
+          "role": "Performer [\"Let's Get Dirty (I Can't Get In Da Club)\" Sample]",
+          "tracks": "",
+          "id": 14743,
+          "resource_url": "https://api.discogs.com/artists/14743"
+        },
+        {
+          "name": "Redman",
+          "anv": "",
+          "join": "",
+          "role": "Performer [Sample]",
+          "tracks": "",
+          "id": 14743,
+          "resource_url": "https://api.discogs.com/artists/14743"
+        },
+        {
+          "name": "Cam O'bi",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4454785,
+          "resource_url": "https://api.discogs.com/artists/4454785"
+        },
+        {
+          "name": "Matt Schaeffer",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Kendrick Lamar Recorded By]",
+          "tracks": "",
+          "id": 3890928,
+          "resource_url": "https://api.discogs.com/artists/3890928"
+        },
+        {
+          "name": "Granny (8)",
+          "anv": "",
+          "join": "",
+          "role": "Voice [Skit]",
+          "tracks": "",
+          "id": 6022972,
+          "resource_url": "https://api.discogs.com/artists/6022972"
+        },
+        {
+          "name": "Cameron Osteen",
+          "anv": "C. Osteen",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4225360,
+          "resource_url": "https://api.discogs.com/artists/4225360"
+        },
+        {
+          "name": "Dana Stinson",
+          "anv": "D. Stinson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 674240,
+          "resource_url": "https://api.discogs.com/artists/674240"
+        },
+        {
+          "name": "James Yancey",
+          "anv": "J. Yancey",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 246270,
+          "resource_url": "https://api.discogs.com/artists/246270"
+        },
+        {
+          "name": "John Bowman",
+          "anv": "J. Bowman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 693168,
+          "resource_url": "https://api.discogs.com/artists/693168"
+        },
+        {
+          "name": "Kendrick Duckworth",
+          "anv": "K. Duckworth",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3062364,
+          "resource_url": "https://api.discogs.com/artists/3062364"
+        },
+        {
+          "name": "Reggie Noble",
+          "anv": "R. Noble",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 157653,
+          "resource_url": "https://api.discogs.com/artists/157653"
+        },
+        {
+          "name": "Solana Rowe",
+          "anv": "S. Rowe",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4851705,
+          "resource_url": "https://api.discogs.com/artists/4851705"
+        },
+        {
+          "name": "Trevor Smith (4)",
+          "anv": "T. Smith",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 640089,
+          "resource_url": "https://api.discogs.com/artists/640089"
+        },
+        {
+          "name": "Dana Stinson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By [\"Let's Get Dirty (I Can't Get In Da Club)\"]",
+          "tracks": "",
+          "id": 674240,
+          "resource_url": "https://api.discogs.com/artists/674240"
+        },
+        {
+          "name": "John Bowman",
+          "anv": "",
+          "join": "",
+          "role": "Written-By [\"Let's Get Dirty (I Can't Get In Da Club)\"]",
+          "tracks": "",
+          "id": 693168,
+          "resource_url": "https://api.discogs.com/artists/693168"
+        },
+        {
+          "name": "Reggie Noble",
+          "anv": "",
+          "join": "",
+          "role": "Written-By [\"Let's Get Dirty (I Can't Get In Da Club)\"]",
+          "tracks": "",
+          "id": 157653,
+          "resource_url": "https://api.discogs.com/artists/157653"
+        },
+        {
+          "name": "James Yancey",
+          "anv": "",
+          "join": "",
+          "role": "Written-By [\"Turn Me Up Some\"]",
+          "tracks": "",
+          "id": 246270,
+          "resource_url": "https://api.discogs.com/artists/246270"
+        },
+        {
+          "name": "Trevor Smith (4)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By [\"Turn Me Up Some\"]",
+          "tracks": "",
+          "id": 640089,
+          "resource_url": "https://api.discogs.com/artists/640089"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Drew Barrymore",
+      "extraartists": [
+        {
+          "name": "Prophit (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 6022968,
+          "resource_url": "https://api.discogs.com/artists/6022968"
+        },
+        {
+          "name": "Derek \"MixedByAli\" Ali",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 14682252,
+          "resource_url": "https://api.discogs.com/artists/14682252"
+        },
+        {
+          "name": "Carter Lang",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3387002,
+          "resource_url": "https://api.discogs.com/artists/3387002"
+        },
+        {
+          "name": "Scum (42)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 6146907,
+          "resource_url": "https://api.discogs.com/artists/6146907"
+        },
+        {
+          "name": "Macie Stewart",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 3276907,
+          "resource_url": "https://api.discogs.com/artists/3276907"
+        },
+        {
+          "name": "Mommy (7)",
+          "anv": "",
+          "join": "",
+          "role": "Voice [Skit]",
+          "tracks": "",
+          "id": 6022967,
+          "resource_url": "https://api.discogs.com/artists/6022967"
+        },
+        {
+          "name": "Carter Lang",
+          "anv": "C. Lang",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3387002,
+          "resource_url": "https://api.discogs.com/artists/3387002"
+        },
+        {
+          "name": "Macie Stewart",
+          "anv": "M. Stewart",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3276907,
+          "resource_url": "https://api.discogs.com/artists/3276907"
+        },
+        {
+          "name": "Solana Rowe",
+          "anv": "S. Rowe",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4851705,
+          "resource_url": "https://api.discogs.com/artists/4851705"
+        },
+        {
+          "name": "Terrence Henderson",
+          "anv": "T. Henderson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1809637,
+          "resource_url": "https://api.discogs.com/artists/1809637"
+        },
+        {
+          "name": "Tyran Donaldson",
+          "anv": "T. Donaldson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4851700,
+          "resource_url": "https://api.discogs.com/artists/4851700"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Prom",
+      "extraartists": [
+        {
+          "name": "Prophit (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 6022968,
+          "resource_url": "https://api.discogs.com/artists/6022968"
+        },
+        {
+          "name": "Derek \"MixedByAli\" Ali",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 14682252,
+          "resource_url": "https://api.discogs.com/artists/14682252"
+        },
+        {
+          "name": "Scum (42)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 6146907,
+          "resource_url": "https://api.discogs.com/artists/6146907"
+        },
+        {
+          "name": "Carter Lang",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Additional Production]",
+          "tracks": "",
+          "id": 3387002,
+          "resource_url": "https://api.discogs.com/artists/3387002"
+        },
+        {
+          "name": "Carter Lang",
+          "anv": "C. Lang",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3387002,
+          "resource_url": "https://api.discogs.com/artists/3387002"
+        },
+        {
+          "name": "Solana Rowe",
+          "anv": "S. Rowe",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4851705,
+          "resource_url": "https://api.discogs.com/artists/4851705"
+        },
+        {
+          "name": "Tyran Donaldson",
+          "anv": "T. Donaldson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4851700,
+          "resource_url": "https://api.discogs.com/artists/4851700"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "The Weekend",
+      "extraartists": [
+        {
+          "name": "Chris Classick",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 3282931,
+          "resource_url": "https://api.discogs.com/artists/3282931"
+        },
+        {
+          "name": "Derek \"MixedByAli\" Ali",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 14682252,
+          "resource_url": "https://api.discogs.com/artists/14682252"
+        },
+        {
+          "name": "Justin Timberlake",
+          "anv": "",
+          "join": "",
+          "role": "Performer [\"Set The Mood (Prelude)\" Elements]",
+          "tracks": "",
+          "id": 66824,
+          "resource_url": "https://api.discogs.com/artists/66824"
+        },
+        {
+          "name": "Justin Timberlake",
+          "anv": "",
+          "join": "",
+          "role": "Performer [Elements]",
+          "tracks": "",
+          "id": 66824,
+          "resource_url": "https://api.discogs.com/artists/66824"
+        },
+        {
+          "name": "ThankGod4Cody",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4970834,
+          "resource_url": "https://api.discogs.com/artists/4970834"
+        },
+        {
+          "name": "Cody Fayne",
+          "anv": "C. Fayne",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6022979,
+          "resource_url": "https://api.discogs.com/artists/6022979"
+        },
+        {
+          "name": "Justin Timberlake",
+          "anv": "J. Timberlake",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 66824,
+          "resource_url": "https://api.discogs.com/artists/66824"
+        },
+        {
+          "name": "Nate Hills",
+          "anv": "F. Hills",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 262770,
+          "resource_url": "https://api.discogs.com/artists/262770"
+        },
+        {
+          "name": "Solana Rowe",
+          "anv": "S. Rowe",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4851705,
+          "resource_url": "https://api.discogs.com/artists/4851705"
+        },
+        {
+          "name": "Timothy Mosley",
+          "anv": "T. Mosley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 610304,
+          "resource_url": "https://api.discogs.com/artists/610304"
+        },
+        {
+          "name": "Justin Timberlake",
+          "anv": "",
+          "join": "",
+          "role": "Written-By [\"Set The Mood (Prelude)\"]",
+          "tracks": "",
+          "id": 66824,
+          "resource_url": "https://api.discogs.com/artists/66824"
+        },
+        {
+          "name": "Nate Hills",
+          "anv": "Floyd Hills",
+          "join": "",
+          "role": "Written-By [\"Set The Mood (Prelude)\"]",
+          "tracks": "",
+          "id": 262770,
+          "resource_url": "https://api.discogs.com/artists/262770"
+        },
+        {
+          "name": "Timothy Mosley",
+          "anv": "",
+          "join": "",
+          "role": "Written-By [\"Set The Mood (Prelude)\"]",
+          "tracks": "",
+          "id": 610304,
+          "resource_url": "https://api.discogs.com/artists/610304"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Go Gina",
+      "extraartists": [
+        {
+          "name": "Juan Carlos (24)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 6022980,
+          "resource_url": "https://api.discogs.com/artists/6022980"
+        },
+        {
+          "name": "Derek \"MixedByAli\" Ali",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 14682252,
+          "resource_url": "https://api.discogs.com/artists/14682252"
+        },
+        {
+          "name": "Carter Lang",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3387002,
+          "resource_url": "https://api.discogs.com/artists/3387002"
+        },
+        {
+          "name": "Scum (42)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 6146907,
+          "resource_url": "https://api.discogs.com/artists/6146907"
+        },
+        {
+          "name": "Frank Dukes",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Additional Production]",
+          "tracks": "",
+          "id": 610329,
+          "resource_url": "https://api.discogs.com/artists/610329"
+        },
+        {
+          "name": "Adam Feeney",
+          "anv": "A. Feeney",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2128160,
+          "resource_url": "https://api.discogs.com/artists/2128160"
+        },
+        {
+          "name": "Carter Lang",
+          "anv": "C. Lang",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3387002,
+          "resource_url": "https://api.discogs.com/artists/3387002"
+        },
+        {
+          "name": "Solana Rowe",
+          "anv": "S. Rowe",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4851705,
+          "resource_url": "https://api.discogs.com/artists/4851705"
+        },
+        {
+          "name": "Tyran Donaldson",
+          "anv": "T. Donaldson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4851700,
+          "resource_url": "https://api.discogs.com/artists/4851700"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Garden (Say It Like Dat)",
+      "extraartists": [
+        {
+          "name": "Bēkon",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 5689043,
+          "resource_url": "https://api.discogs.com/artists/5689043"
+        },
+        {
+          "name": "Hector Castro (5)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 6022978,
+          "resource_url": "https://api.discogs.com/artists/6022978"
+        },
+        {
+          "name": "Derek \"MixedByAli\" Ali",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 14682252,
+          "resource_url": "https://api.discogs.com/artists/14682252"
+        },
+        {
+          "name": "Hector Castro (5)",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 6022978,
+          "resource_url": "https://api.discogs.com/artists/6022978"
+        },
+        {
+          "name": "Bēkon",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5689043,
+          "resource_url": "https://api.discogs.com/artists/5689043"
+        },
+        {
+          "name": "Craig Balmoris",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Additional Production]",
+          "tracks": "",
+          "id": 1638792,
+          "resource_url": "https://api.discogs.com/artists/1638792"
+        },
+        {
+          "name": "The Donuts (5)",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Additional Production]",
+          "tracks": "",
+          "id": 6022984,
+          "resource_url": "https://api.discogs.com/artists/6022984"
+        },
+        {
+          "name": "Craig Balmoris",
+          "anv": "C.Balmoris",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1638792,
+          "resource_url": "https://api.discogs.com/artists/1638792"
+        },
+        {
+          "name": "Daniel Tannenbaum",
+          "anv": "D. Tannenbaum",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1612507,
+          "resource_url": "https://api.discogs.com/artists/1612507"
+        },
+        {
+          "name": "Solana Rowe",
+          "anv": "S. Rowe",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4851705,
+          "resource_url": "https://api.discogs.com/artists/4851705"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Broken Clocks",
+      "extraartists": [
+        {
+          "name": "Chris Classick",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 3282931,
+          "resource_url": "https://api.discogs.com/artists/3282931"
+        },
+        {
+          "name": "Derek \"MixedByAli\" Ali",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 14682252,
+          "resource_url": "https://api.discogs.com/artists/14682252"
+        },
+        {
+          "name": "River Tiber",
+          "anv": "",
+          "join": "",
+          "role": "Performer [\"West\" Portions]",
+          "tracks": "",
+          "id": 4747047,
+          "resource_url": "https://api.discogs.com/artists/4747047"
+        },
+        {
+          "name": "ThankGod4Cody",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4970834,
+          "resource_url": "https://api.discogs.com/artists/4970834"
+        },
+        {
+          "name": "Adam Feeney",
+          "anv": "A. Feeney",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2128160,
+          "resource_url": "https://api.discogs.com/artists/2128160"
+        },
+        {
+          "name": "Ashton Simmonds",
+          "anv": "A. Simmons",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5829181,
+          "resource_url": "https://api.discogs.com/artists/5829181"
+        },
+        {
+          "name": "Cody Fayne",
+          "anv": "C.Fayne",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6022979,
+          "resource_url": "https://api.discogs.com/artists/6022979"
+        },
+        {
+          "name": "Solana Rowe",
+          "anv": "S. Rowe",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4851705,
+          "resource_url": "https://api.discogs.com/artists/4851705"
+        },
+        {
+          "name": "Tommy Paxton-Beesley",
+          "anv": "T. Paxton-Beesley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4257274,
+          "resource_url": "https://api.discogs.com/artists/4257274"
+        },
+        {
+          "name": "Adam Feeney",
+          "anv": "",
+          "join": "",
+          "role": "Written-By [\"West\"]",
+          "tracks": "",
+          "id": 2128160,
+          "resource_url": "https://api.discogs.com/artists/2128160"
+        },
+        {
+          "name": "Ashton Simmonds",
+          "anv": "Ashton Simmons",
+          "join": "",
+          "role": "Written-By [\"West\"]",
+          "tracks": "",
+          "id": 5829181,
+          "resource_url": "https://api.discogs.com/artists/5829181"
+        },
+        {
+          "name": "Tommy Paxton-Beesley",
+          "anv": "T. Paxton-Beesley",
+          "join": "",
+          "role": "Written-By [\"West\"]",
+          "tracks": "",
+          "id": 4257274,
+          "resource_url": "https://api.discogs.com/artists/4257274"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Anything",
+      "extraartists": [
+        {
+          "name": "Peter Cottontale",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 3268578,
+          "resource_url": "https://api.discogs.com/artists/3268578"
+        },
+        {
+          "name": "Scum (42)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 6146907,
+          "resource_url": "https://api.discogs.com/artists/6146907"
+        },
+        {
+          "name": "Derek \"MixedByAli\" Ali",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 14682252,
+          "resource_url": "https://api.discogs.com/artists/14682252"
+        },
+        {
+          "name": "Donna Summer",
+          "anv": "",
+          "join": "",
+          "role": "Performer [\"Spring Affair\" Sample]",
+          "tracks": "",
+          "id": 6270,
+          "resource_url": "https://api.discogs.com/artists/6270"
+        },
+        {
+          "name": "Scum (42)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 6146907,
+          "resource_url": "https://api.discogs.com/artists/6146907"
+        },
+        {
+          "name": "Carter Lang",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Additional Production]",
+          "tracks": "",
+          "id": 3387002,
+          "resource_url": "https://api.discogs.com/artists/3387002"
+        },
+        {
+          "name": "Carter Lang",
+          "anv": "C. Lang",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3387002,
+          "resource_url": "https://api.discogs.com/artists/3387002"
+        },
+        {
+          "name": "Donna Summer",
+          "anv": "D. Summer",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6270,
+          "resource_url": "https://api.discogs.com/artists/6270"
+        },
+        {
+          "name": "Giorgio Moroder",
+          "anv": "G. Moroder",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4205,
+          "resource_url": "https://api.discogs.com/artists/4205"
+        },
+        {
+          "name": "Pete Bellotte",
+          "anv": "P. Bellotte",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 41085,
+          "resource_url": "https://api.discogs.com/artists/41085"
+        },
+        {
+          "name": "Peter Wilkins (2)",
+          "anv": "P. Wilkins",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6022977,
+          "resource_url": "https://api.discogs.com/artists/6022977"
+        },
+        {
+          "name": "Solana Rowe",
+          "anv": "S. Rowe",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4851705,
+          "resource_url": "https://api.discogs.com/artists/4851705"
+        },
+        {
+          "name": "Tyran Donaldson",
+          "anv": "T.Donaldson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4851700,
+          "resource_url": "https://api.discogs.com/artists/4851700"
+        },
+        {
+          "name": "Donna Summer",
+          "anv": "",
+          "join": "",
+          "role": "Written-By [\"Spring Affair\"]",
+          "tracks": "",
+          "id": 6270,
+          "resource_url": "https://api.discogs.com/artists/6270"
+        },
+        {
+          "name": "Giorgio Moroder",
+          "anv": "",
+          "join": "",
+          "role": "Written-By [\"Spring Affair\"]",
+          "tracks": "",
+          "id": 4205,
+          "resource_url": "https://api.discogs.com/artists/4205"
+        },
+        {
+          "name": "Pete Bellotte",
+          "anv": "Peter Bellotte",
+          "join": "",
+          "role": "Written-By [\"Spring Affair\"]",
+          "tracks": "",
+          "id": 41085,
+          "resource_url": "https://api.discogs.com/artists/41085"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Wavy (Interlude)",
+      "extraartists": [
+        {
+          "name": "Blake Harden",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 3763103,
+          "resource_url": "https://api.discogs.com/artists/3763103"
+        },
+        {
+          "name": "Prophit (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 6022968,
+          "resource_url": "https://api.discogs.com/artists/6022968"
+        },
+        {
+          "name": "Brandon Wood",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineered By]",
+          "tracks": "",
+          "id": 4208159,
+          "resource_url": "https://api.discogs.com/artists/4208159"
+        },
+        {
+          "name": "James Fauntleroy II",
+          "anv": "James Fauntleroy",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 737282,
+          "resource_url": "https://api.discogs.com/artists/737282"
+        },
+        {
+          "name": "Derek \"MixedByAli\" Ali",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 14682252,
+          "resource_url": "https://api.discogs.com/artists/14682252"
+        },
+        {
+          "name": "Prophit (3)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 6022968,
+          "resource_url": "https://api.discogs.com/artists/6022968"
+        },
+        {
+          "name": "ThankGod4Cody",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4970834,
+          "resource_url": "https://api.discogs.com/artists/4970834"
+        },
+        {
+          "name": "Prophit (3)",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [James Fauntleroy Recorded By]",
+          "tracks": "",
+          "id": 6022968,
+          "resource_url": "https://api.discogs.com/artists/6022968"
+        },
+        {
+          "name": "Cody Fayne",
+          "anv": "C. Fayne",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6022979,
+          "resource_url": "https://api.discogs.com/artists/6022979"
+        },
+        {
+          "name": "James Fauntleroy II",
+          "anv": "J. Fauntleroy",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 737282,
+          "resource_url": "https://api.discogs.com/artists/737282"
+        },
+        {
+          "name": "Lukasz Plas",
+          "anv": "L. Plas",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6022981,
+          "resource_url": "https://api.discogs.com/artists/6022981"
+        },
+        {
+          "name": "Solana Rowe",
+          "anv": "S. Rowe",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4851705,
+          "resource_url": "https://api.discogs.com/artists/4851705"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Normal Girl",
+      "extraartists": [
+        {
+          "name": "JT (39)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 5921521,
+          "resource_url": "https://api.discogs.com/artists/5921521"
+        },
+        {
+          "name": "Derek \"MixedByAli\" Ali",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 14682252,
+          "resource_url": "https://api.discogs.com/artists/14682252"
+        },
+        {
+          "name": "Carter Lang",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3387002,
+          "resource_url": "https://api.discogs.com/artists/3387002"
+        },
+        {
+          "name": "Carter Lang",
+          "anv": "C. Lang",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3387002,
+          "resource_url": "https://api.discogs.com/artists/3387002"
+        },
+        {
+          "name": "Solana Rowe",
+          "anv": "S. Rowe",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4851705,
+          "resource_url": "https://api.discogs.com/artists/4851705"
+        },
+        {
+          "name": "Terrence Henderson",
+          "anv": "T. Henderson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1809637,
+          "resource_url": "https://api.discogs.com/artists/1809637"
+        },
+        {
+          "name": "Tyran Donaldson",
+          "anv": "T. Donaldson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4851700,
+          "resource_url": "https://api.discogs.com/artists/4851700"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Pretty Little Birds ",
+      "extraartists": [
+        {
+          "name": "Prophit (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 6022968,
+          "resource_url": "https://api.discogs.com/artists/6022968"
+        },
+        {
+          "name": "Isaiah Rashad",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3662798,
+          "resource_url": "https://api.discogs.com/artists/3662798"
+        },
+        {
+          "name": "Derek \"MixedByAli\" Ali",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 14682252,
+          "resource_url": "https://api.discogs.com/artists/14682252"
+        },
+        {
+          "name": "Carter Lang",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3387002,
+          "resource_url": "https://api.discogs.com/artists/3387002"
+        },
+        {
+          "name": "Josef Leimberg",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 175286,
+          "resource_url": "https://api.discogs.com/artists/175286"
+        },
+        {
+          "name": "Scum (42)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 6146907,
+          "resource_url": "https://api.discogs.com/artists/6146907"
+        },
+        {
+          "name": "Josef Leimberg",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Isaiah Rashad Recorded By]",
+          "tracks": "",
+          "id": 175286,
+          "resource_url": "https://api.discogs.com/artists/175286"
+        },
+        {
+          "name": "Carter Lang",
+          "anv": "C. Lang",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3387002,
+          "resource_url": "https://api.discogs.com/artists/3387002"
+        },
+        {
+          "name": "Isaiah McClain",
+          "anv": "I. McClain",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6022973,
+          "resource_url": "https://api.discogs.com/artists/6022973"
+        },
+        {
+          "name": "Josef Leimberg",
+          "anv": "J.Leimberg",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 175286,
+          "resource_url": "https://api.discogs.com/artists/175286"
+        },
+        {
+          "name": "Solana Rowe",
+          "anv": "S. Rowe",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4851705,
+          "resource_url": "https://api.discogs.com/artists/4851705"
+        },
+        {
+          "name": "Tyran Donaldson",
+          "anv": "T. Donaldson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4851700,
+          "resource_url": "https://api.discogs.com/artists/4851700"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "20 Something",
+      "extraartists": [
+        {
+          "name": "Blake Harden",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 3763103,
+          "resource_url": "https://api.discogs.com/artists/3763103"
+        },
+        {
+          "name": "Derek \"MixedByAli\" Ali",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 14682252,
+          "resource_url": "https://api.discogs.com/artists/14682252"
+        },
+        {
+          "name": "Carter Lang",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3387002,
+          "resource_url": "https://api.discogs.com/artists/3387002"
+        },
+        {
+          "name": "Scum (42)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 6146907,
+          "resource_url": "https://api.discogs.com/artists/6146907"
+        },
+        {
+          "name": "Mommy (7)",
+          "anv": "",
+          "join": "",
+          "role": "Voice [Skit]",
+          "tracks": "",
+          "id": 6022967,
+          "resource_url": "https://api.discogs.com/artists/6022967"
+        },
+        {
+          "name": "Carter Lang",
+          "anv": "C. Lang",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3387002,
+          "resource_url": "https://api.discogs.com/artists/3387002"
+        },
+        {
+          "name": "Solana Rowe",
+          "anv": "S. Rowe",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4851705,
+          "resource_url": "https://api.discogs.com/artists/4851705"
+        },
+        {
+          "name": "Tyran Donaldson",
+          "anv": "T. Donaldson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4851700,
+          "resource_url": "https://api.discogs.com/artists/4851700"
+        }
+      ],
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "SZA (2)",
+      "anv": "",
+      "join": "",
+      "role": "A&R",
+      "tracks": "",
+      "id": 3272791,
+      "resource_url": "https://api.discogs.com/artists/3272791"
+    },
+    {
+      "name": "Terrence Henderson",
+      "anv": "Terrence 'Punch' Henderson",
+      "join": "",
+      "role": "A&R",
+      "tracks": "",
+      "id": 1809637,
+      "resource_url": "https://api.discogs.com/artists/1809637"
+    },
+    {
+      "name": "Joshua Patrick",
+      "anv": "",
+      "join": "",
+      "role": "Coordinator [A&R Coordinator], A&R [A&R Coordinator]",
+      "tracks": "",
+      "id": 6022966,
+      "resource_url": "https://api.discogs.com/artists/6022966"
+    },
+    {
+      "name": "SZA (2)",
+      "anv": "",
+      "join": "",
+      "role": "Creative Director [Creative Direction]",
+      "tracks": "",
+      "id": 3272791,
+      "resource_url": "https://api.discogs.com/artists/3272791"
+    },
+    {
+      "name": "Terrence Henderson",
+      "anv": "Terrence 'Punch' Henderson",
+      "join": "",
+      "role": "Creative Director [Creative Direction]",
+      "tracks": "",
+      "id": 1809637,
+      "resource_url": "https://api.discogs.com/artists/1809637"
+    },
+    {
+      "name": "SZA (2)",
+      "anv": "",
+      "join": "",
+      "role": "Creative Director [Visual Direction]",
+      "tracks": "",
+      "id": 3272791,
+      "resource_url": "https://api.discogs.com/artists/3272791"
+    },
+    {
+      "name": "Sage Adams",
+      "anv": "",
+      "join": "",
+      "role": "Creative Director [Visual Direction]",
+      "tracks": "",
+      "id": 5937850,
+      "resource_url": "https://api.discogs.com/artists/5937850"
+    },
+    {
+      "name": "Robert Reyes",
+      "anv": "Robert 'Ret One' Reyes",
+      "join": "",
+      "role": "Design [Graphic Design & Packaging]",
+      "tracks": "",
+      "id": 1606503,
+      "resource_url": "https://api.discogs.com/artists/1606503"
+    },
+    {
+      "name": "Vlad Sepetov",
+      "anv": "",
+      "join": "",
+      "role": "Design [Graphic Design & Packaging]",
+      "tracks": "",
+      "id": 3890926,
+      "resource_url": "https://api.discogs.com/artists/3890926"
+    },
+    {
+      "name": "Anthony Tiffith",
+      "anv": "Anthony 'Top Dawg' Tiffith",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 3368939,
+      "resource_url": "https://api.discogs.com/artists/3368939"
+    },
+    {
+      "name": "Dave Free",
+      "anv": "Dave 'Miyatola' Free",
+      "join": "",
+      "role": "Executive-Producer [Associate Producers]",
+      "tracks": "",
+      "id": 2596320,
+      "resource_url": "https://api.discogs.com/artists/2596320"
+    },
+    {
+      "name": "Terrence Henderson",
+      "anv": "Terrence 'Punch' Henderson",
+      "join": "",
+      "role": "Executive-Producer [Associate Producers]",
+      "tracks": "",
+      "id": 1809637,
+      "resource_url": "https://api.discogs.com/artists/1809637"
+    },
+    {
+      "name": "Joshua P. Binder, Esq.",
+      "anv": "Joshua Binder",
+      "join": "",
+      "role": "Legal",
+      "tracks": "",
+      "id": 4319591,
+      "resource_url": "https://api.discogs.com/artists/4319591"
+    },
+    {
+      "name": "Miyatola",
+      "anv": "",
+      "join": "",
+      "role": "Management [TDE Management]",
+      "tracks": "",
+      "id": 6022970,
+      "resource_url": "https://api.discogs.com/artists/6022970"
+    },
+    {
+      "name": "Moosa",
+      "anv": "",
+      "join": "",
+      "role": "Management [TDE Management]",
+      "tracks": "",
+      "id": 3116116,
+      "resource_url": "https://api.discogs.com/artists/3116116"
+    },
+    {
+      "name": "Punch (16)",
+      "anv": "",
+      "join": "",
+      "role": "Management [TDE Management]",
+      "tracks": "",
+      "id": 3116114,
+      "resource_url": "https://api.discogs.com/artists/3116114"
+    },
+    {
+      "name": "Ret One",
+      "anv": "",
+      "join": "",
+      "role": "Management [TDE Management]",
+      "tracks": "",
+      "id": 3116117,
+      "resource_url": "https://api.discogs.com/artists/3116117"
+    },
+    {
+      "name": "Mike Bozzi",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 401309,
+      "resource_url": "https://api.discogs.com/artists/401309"
+    },
+    {
+      "name": "Christopher Parsons (2)",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 6022975,
+      "resource_url": "https://api.discogs.com/artists/6022975"
+    },
+    {
+      "name": "Jason Chandler (3)",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 6022969,
+      "resource_url": "https://api.discogs.com/artists/6022969"
+    },
+    {
+      "name": "Sage Adams",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 5937850,
+      "resource_url": "https://api.discogs.com/artists/5937850"
+    },
+    {
+      "name": "42West Publicity",
+      "anv": "42West",
+      "join": "",
+      "role": "Public Relations [Publicity]",
+      "tracks": "",
+      "id": 4068878,
+      "resource_url": "https://api.discogs.com/artists/4068878"
+    },
+    {
+      "name": "Blake Harden",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "",
+      "id": 3763103,
+      "resource_url": "https://api.discogs.com/artists/3763103"
+    },
+    {
+      "name": "Chris Classick",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "",
+      "id": 3282931,
+      "resource_url": "https://api.discogs.com/artists/3282931"
+    },
+    {
+      "name": "Cyrus Taghipour",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "",
+      "id": 5689046,
+      "resource_url": "https://api.discogs.com/artists/5689046"
+    },
+    {
+      "name": "Hector Castro (5)",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "",
+      "id": 6022978,
+      "resource_url": "https://api.discogs.com/artists/6022978"
+    },
+    {
+      "name": "Ivan Corpening",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "",
+      "id": 6022974,
+      "resource_url": "https://api.discogs.com/artists/6022974"
+    },
+    {
+      "name": "James Hunt (7)",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "",
+      "id": 2983562,
+      "resource_url": "https://api.discogs.com/artists/2983562"
+    },
+    {
+      "name": "Jared Gagarin",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "",
+      "id": 6022976,
+      "resource_url": "https://api.discogs.com/artists/6022976"
+    },
+    {
+      "name": "Juan Corales",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "",
+      "id": 6022982,
+      "resource_url": "https://api.discogs.com/artists/6022982"
+    },
+    {
+      "name": "Lukasz Plas",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "",
+      "id": 6022981,
+      "resource_url": "https://api.discogs.com/artists/6022981"
+    },
+    {
+      "name": "Tyler Page",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "",
+      "id": 5689048,
+      "resource_url": "https://api.discogs.com/artists/5689048"
+    },
+    {
+      "name": "Dianne Garcia",
+      "anv": "",
+      "join": "",
+      "role": "Stylist",
+      "tracks": "",
+      "id": 5620704,
+      "resource_url": "https://api.discogs.com/artists/5620704"
+    },
+    {
+      "name": "SZA (2)",
+      "anv": "",
+      "join": "",
+      "role": "Stylist",
+      "tracks": "",
+      "id": 3272791,
+      "resource_url": "https://api.discogs.com/artists/3272791"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/hR5dMnSuucmoGS4S5UL-J3sKSCMeTLiRVArI-MZTWdw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg1/OTMtMzQ3NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/hR5dMnSuucmoGS4S5UL-J3sKSCMeTLiRVArI-MZTWdw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg1/OTMtMzQ3NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/MsJdp9SVImXg3MOmkMC4Mff0DtUtCN1uHaUxXG61q_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg1/OTMtMzQ3NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 595
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/C14lJOTY2AwQ9zHPuS2Gi5rmx4hETnXEU3RVmeEB7TA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg1/OTUtNTUzMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/C14lJOTY2AwQ9zHPuS2Gi5rmx4hETnXEU3RVmeEB7TA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg1/OTUtNTUzMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/jtvsnDIBTT8t0zVhvKJeqnlrkraZDO86W7BBFEfHrZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg1/OTUtNTUzMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Ll2PTuSHi6gCEPLw11v8X_vNhAoZXgS6sRiZUbPpSaE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg1/OTctNjQzNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Ll2PTuSHi6gCEPLw11v8X_vNhAoZXgS6sRiZUbPpSaE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg1/OTctNjQzNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/k_fDwoPTD3ebidwekd2XWc_wTYe_41MFXpd-iv-y3I4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg1/OTctNjQzNi5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/JdVXDT5eaAIqdq4B2HcGO3dC-vLV3OoL_HE1SDbsvlE/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTE1MjU0/MTItNTUwNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/JdVXDT5eaAIqdq4B2HcGO3dC-vLV3OoL_HE1SDbsvlE/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTE1MjU0/MTItNTUwNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/4XMeHgDY5vJD1ayzMQlzmqvi9YVIujuGs7_seHVHji4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTE1MjU0/MTItNTUwNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 294
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/DeCoks6v9wRG4MGL92loHJWyqaPA6K2zhCwLLhMYm7A/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MDAtODQyNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/DeCoks6v9wRG4MGL92loHJWyqaPA6K2zhCwLLhMYm7A/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MDAtODQyNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/AA_lrempQxd-0wwnoxQEn-36nLbR1Rr9HUfbdbqpttk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MDAtODQyNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 597
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/r73wOG6PlSwsoHhKpIG59d4go29h6TtDNaVAUs7UERM/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MDItOTk1OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/r73wOG6PlSwsoHhKpIG59d4go29h6TtDNaVAUs7UERM/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MDItOTk1OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Q_S_NFV6V4NYilO0twcTEwebvoGGnFFomX7D0LW_qCw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MDItOTk1OS5qcGVn.jpeg",
+      "width": 598,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/qamw0wC_MDAiaRoZEZBw22WWLM48fnlRlz4fpt7AP5U/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MDQtNDgwMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/qamw0wC_MDAiaRoZEZBw22WWLM48fnlRlz4fpt7AP5U/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MDQtNDgwMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/g1FRCDdGdXVUCbfz_H4hajytHvP7thxITVWY5eTBtOA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MDQtNDgwMC5qcGVn.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/3oqKqszBIcU2g-CfQrDN3fCzBTIOOk3g7Np2FUP3k1k/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MDUtMjEyNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/3oqKqszBIcU2g-CfQrDN3fCzBTIOOk3g7Np2FUP3k1k/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MDUtMjEyNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/-m1yqYjZ_wonvzYv3A54-G2YpgPNSKBCucXGsUmaB7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MDUtMjEyNi5qcGVn.jpeg",
+      "width": 598,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/hs-RcdBfWUdK8K73kyzp00eep34S_DXeP4_j5_3Ky8I/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MDctNjIyNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/hs-RcdBfWUdK8K73kyzp00eep34S_DXeP4_j5_3Ky8I/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MDctNjIyNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/xBiq1PWq8QDfPtRTqUuWPXyornos-KGqQbhjdqQdM0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MDctNjIyNi5qcGVn.jpeg",
+      "width": 598,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/-yus7jcuRYoZYCMOycQoQFXExhMH9jWebcVJlAAsbBc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MTAtMTI0OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/-yus7jcuRYoZYCMOycQoQFXExhMH9jWebcVJlAAsbBc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MTAtMTI0OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ZEkAn5ovHg31VLykEJSIEB7IfW8JtIQzJtQBvNWJdN0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MTAtMTI0OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/yv9YE07hr4jeRBh4JMnelP6n0wnJMie4iAu-oHTsdcA/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MTItNTk4MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/yv9YE07hr4jeRBh4JMnelP6n0wnJMie4iAu-oHTsdcA/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MTItNTk4MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/rmrdCjnRcNAjSGgMpNlpXTgoTdrz3ehAYYUvKYCrzaQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MTItNTk4MS5qcGVn.jpeg",
+      "width": 591,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/UfYLPEY4j4h0F6Xi7Zbz_M2gYCQEN1ppx_5pXJdzy0Y/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MTMtMTgyMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/UfYLPEY4j4h0F6Xi7Zbz_M2gYCQEN1ppx_5pXJdzy0Y/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MTMtMTgyMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/fNdLpP3yoi8CFeaz5MrypJsyXl2U7-fSbgR2efOvKpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MTMtMTgyMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/PJd33K1vY05FMRNejnOkeDptKOJf0QkOwvUvYC_pB_k/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MTUtMTIyNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/PJd33K1vY05FMRNejnOkeDptKOJf0QkOwvUvYC_pB_k/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MTUtMTIyNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/dEIA6vIuIcKS5I3rdJKHHMCO9MaEzl3ZbYVoxsWjWjw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MTUtMTIyNy5qcGVn.jpeg",
+      "width": 592,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/RLDP9NzVbG30dkJ86JjhYTvfEkki0Z3VUuGB3tOq-w4/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MTctMzQyNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/RLDP9NzVbG30dkJ86JjhYTvfEkki0Z3VUuGB3tOq-w4/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MTctMzQyNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/X1zbfkBBQA5JCuK9a_ze4eQj4k-y9WJE1AZ0AfK8ptM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MTctMzQyNi5qcGVn.jpeg",
+      "width": 598,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/RqrJMeYYiFqlrxh3pcY8iV_EiCpK4PvkRgyb-jAZZeY/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MTktMzEwNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/RqrJMeYYiFqlrxh3pcY8iV_EiCpK4PvkRgyb-jAZZeY/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MTktMzEwNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/r7moaXkS76Cz-46C84iwKEc_VWzA6XUNlo5HencWLzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MTktMzEwNy5qcGVn.jpeg",
+      "width": 596,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/cw4CxoTXvLD0z_BFf4kH-lUdALH7JtmJAK9a76iVyhY/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MjAtNDYwNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/cw4CxoTXvLD0z_BFf4kH-lUdALH7JtmJAK9a76iVyhY/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MjAtNDYwNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/WzQoH2hR9b_Qxr6P1klAYZBYT1S7LyizX61YDYCaF48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MjAtNDYwNC5qcGVn.jpeg",
+      "width": 585,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/OBgvH-u82gT8-UmVMHTAxmvsm3YbqRGKehkvc3r4fqA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MjItMTg5OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/OBgvH-u82gT8-UmVMHTAxmvsm3YbqRGKehkvc3r4fqA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MjItMTg5OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/o9uiWN4IMcQVBd3VlQTfAYLQos3vyPmoh_EC_vPh4L0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg2/MjItMTg5OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/RyU7dZlTK2JIRyAzXc-Z4_Qr6Jof0rnL2_kRl9sinY8/rs:fit/g:sm/q:90/h:600/w:342/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTA3ODUz/MDUtNTc5Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/RyU7dZlTK2JIRyAzXc-Z4_Qr6Jof0rnL2_kRl9sinY8/rs:fit/g:sm/q:90/h:600/w:342/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTA3ODUz/MDUtNTc5Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/WG0WSnf0T-FtTcXOBczacq0zktaT8KuQObfiSjQR1J0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTA3ODUz/MDUtNTc5Mi5qcGVn.jpeg",
+      "width": 342,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/MsJdp9SVImXg3MOmkMC4Mff0DtUtCN1uHaUxXG61q_Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMTUw/ODM4LTE1MTU3Nzg1/OTMtMzQ3NS5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

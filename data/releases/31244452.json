@@ -1,0 +1,506 @@
+{
+  "id": 31244452,
+  "status": "Accepted",
+  "year": 2024,
+  "resource_url": "https://api.discogs.com/releases/31244452",
+  "uri": "https://www.discogs.com/release/31244452-Salute-6-True-Magic",
+  "artists": [
+    {
+      "name": "Salute (6)",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 4679378,
+      "resource_url": "https://api.discogs.com/artists/4679378",
+      "thumbnail_url": "https://i.discogs.com/ucDOM3UHfnPxryI8gvxpcFh18veap-JhvoSu8fcA3mo/rs:fit/g:sm/q:90/h:600/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ2Nzkz/NzgtMTQ1MTkzODUy/MS03MjMwLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Salute (6)",
+  "labels": [
+    {
+      "name": "Ninja Tune",
+      "catno": "ZEN305X",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 109,
+      "resource_url": "https://api.discogs.com/labels/109",
+      "thumbnail_url": "https://i.discogs.com/6Ak_MtJpsdovwj3vv2S8TG6AL8JuDVxNBa13-k-TvlM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwOS0x/NTY1MDE5MDc0LTU2/NjcucG5n.jpeg"
+    },
+    {
+      "name": "Ninja Tune",
+      "catno": "ZEN305",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 109,
+      "resource_url": "https://api.discogs.com/labels/109",
+      "thumbnail_url": "https://i.discogs.com/6Ak_MtJpsdovwj3vv2S8TG6AL8JuDVxNBa13-k-TvlM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwOS0x/NTY1MDE5MDc0LTU2/NjcucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Ninja Tune",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 109,
+      "resource_url": "https://api.discogs.com/labels/109",
+      "thumbnail_url": "https://i.discogs.com/6Ak_MtJpsdovwj3vv2S8TG6AL8JuDVxNBa13-k-TvlM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwOS0x/NTY1MDE5MDc0LTU2/NjcucG5n.jpeg"
+    },
+    {
+      "name": "Ninja Tune",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 109,
+      "resource_url": "https://api.discogs.com/labels/109",
+      "thumbnail_url": "https://i.discogs.com/6Ak_MtJpsdovwj3vv2S8TG6AL8JuDVxNBa13-k-TvlM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwOS0x/NTY1MDE5MDc0LTU2/NjcucG5n.jpeg"
+    },
+    {
+      "name": "MPO",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 56025,
+      "resource_url": "https://api.discogs.com/labels/56025",
+      "thumbnail_url": "https://i.discogs.com/ESRU3eTUmc1632Us6_7LBipnaQGV6lJe-D5nyFxssyw/rs:fit/g:sm/q:90/h:336/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU2MDI1/LTEzMTQ2OTg5ODQu/anBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "text": "Yellow"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 311,
+    "want": 83,
+    "rating": {
+      "count": 34,
+      "average": 4.44
+    },
+    "submitter": {
+      "username": "rapandsoul",
+      "resource_url": "https://api.discogs.com/users/rapandsoul"
+    },
+    "contributors": [
+      {
+        "username": "rapandsoul",
+        "resource_url": "https://api.discogs.com/users/rapandsoul"
+      },
+      {
+        "username": "MergPlatelip",
+        "resource_url": "https://api.discogs.com/users/MergPlatelip"
+      },
+      {
+        "username": ".SLCOOLJ.",
+        "resource_url": "https://api.discogs.com/users/.SLCOOLJ."
+      },
+      {
+        "username": "paulmchambers",
+        "resource_url": "https://api.discogs.com/users/paulmchambers"
+      },
+      {
+        "username": "minimumplatinum",
+        "resource_url": "https://api.discogs.com/users/minimumplatinum"
+      },
+      {
+        "username": "Super-Pangolin",
+        "resource_url": "https://api.discogs.com/users/Super-Pangolin"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2024-07-17T02:36:20-07:00",
+  "date_changed": "2025-04-24T22:33:42-07:00",
+  "num_for_sale": 21,
+  "lowest_price": 35.56,
+  "master_id": 3544333,
+  "master_url": "https://api.discogs.com/masters/3544333",
+  "title": "True Magic",
+  "country": "UK & Europe",
+  "released": "2024",
+  "notes": "Made in EU. Released as opaque yellow vinyl with a subtle smoke/marble effect.\n\nHype sticker on shrinkwrap lists catalog number as ZEN305X, while it's simply ZEN305 on sleeve rear & spine.",
+  "released_formatted": "2024",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "5054429193794",
+      "description": "Printed, shinkwrap hype sticker"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "ZEN305 A",
+      "description": "Side A, hand-etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "[MPO logo]® 24 340214",
+      "description": "Side A, laser-etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "ZEN305 B",
+      "description": "Side B, hand-etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "[MPO logo]® 24 340215",
+      "description": "Side B, laser-etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "ZEN305 C",
+      "description": "Side C, hand-etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "[MPO logo]® 24 340212",
+      "description": "Side C, laser-etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "ZEN305 D",
+      "description": "Side D, hand-etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "[MPO logo]® 24 340213",
+      "description": "Side D, laser-etched"
+    },
+    {
+      "type": "Label Code",
+      "value": "LC-12885"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=GK62LRAeb7Q",
+      "title": "salute - 'system' (Official Visualiser)",
+      "description": "Taken from the album 'TRUE MAGIC', released July 12, 2024 on @ninjatune. Pre-order here:  https://salute.lnk.to/true-magicYo \n\n'system', out now on @ninjatune: https://salute.lnk.to/systemYo\nSubscribe: https://found.ee/salute-ys\n\nCreative Director: Jocely",
+      "duration": 228,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=LvpQ2SBG-ug",
+      "title": "salute - 'luv stuck (with piri)' (Official Visualiser)",
+      "description": "Taken from the album 'TRUE MAGIC', released July 12, 2024 on @ninjatune: https://salute.lnk.to/true-magicYo\nSubscribe: https://found.ee/salute-ys\n\nFollow salute -\nSpotify: https://found.ee/salute-sp\nApple Music: https://found.ee/salute-am\nYouTube: https:/",
+      "duration": 173,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=N0pIiwLzhDI",
+      "title": "salute - 'perfect (with LEILAH)' (Official Audio)",
+      "description": "'TRUE MAGIC', out now on Ninja Tune: https://salute.lnk.to/true-magicYo\nSubscribe: https://found.ee/salute-ys\n\nFollow salute -\nSpotify: https://found.ee/salute-sp\nApple Music: https://found.ee/salute-am\nAmazon Music: https://found.ee/salute-aa\nYouTube: ht",
+      "duration": 261,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=NClvgEkhIcw",
+      "title": "salute - 'move faster…' (Official Audio)",
+      "description": "'TRUE MAGIC', out now on Ninja Tune: https://salute.lnk.to/true-magicYo\nSubscribe: https://found.ee/salute-ys\n\nFollow salute -\nSpotify: https://found.ee/salute-sp\nApple Music: https://found.ee/salute-am\nAmazon Music: https://found.ee/salute-aa\nYouTube: ht",
+      "duration": 275,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=BvBEAk_RccM",
+      "title": "salute - 'softly (with Léa Sen)' (Official Audio)",
+      "description": "'TRUE MAGIC', out now on Ninja Tune: https://salute.lnk.to/true-magicYo\nSubscribe: https://found.ee/salute-ys\n\nFollow salute -\nSpotify: https://found.ee/salute-sp\nApple Music: https://found.ee/salute-am\nAmazon Music: https://found.ee/salute-aa\nYouTube: ht",
+      "duration": 214,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=A_H_4sq-u9k",
+      "title": "salute - 'go! (with なかむらみなみ)' (Official Audio)",
+      "description": "'TRUE MAGIC', out now on Ninja Tune: https://salute.lnk.to/true-magicYo\nSubscribe: https://found.ee/salute-ys\n\nFollow salute -\nSpotify: https://found.ee/salute-sp\nApple Music: https://found.ee/salute-am\nAmazon Music: https://found.ee/salute-aa\nYouTube: ht",
+      "duration": 133,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=it90q-qhksA",
+      "title": "salute - 'one of those nights (with Empress Of)' (Official Audio)",
+      "description": "'TRUE MAGIC', out now on Ninja Tune: https://salute.lnk.to/true-magicYo\nSubscribe: https://found.ee/salute-ys\n\nFollow salute -\nSpotify: https://found.ee/salute-sp\nApple Music: https://found.ee/salute-am\nAmazon Music: https://found.ee/salute-aa\nYouTube: ht",
+      "duration": 189,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=wlyOfD5nq8w",
+      "title": "salute - 'true magic, bonus round' (Official Audio)",
+      "description": "'TRUE MAGIC', out now on Ninja Tune: https://salute.lnk.to/true-magicYo\nSubscribe: https://found.ee/salute-ys\n\nFollow salute -\nSpotify: https://found.ee/salute-sp\nApple Music: https://found.ee/salute-am\nAmazon Music: https://found.ee/salute-aa\nYouTube: ht",
+      "duration": 68,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=cuxbfFCyk2g",
+      "title": "salute - 'start' (Official Audio)",
+      "description": "'TRUE MAGIC', out now on Ninja Tune: https://salute.lnk.to/true-magicYo\nSubscribe: https://found.ee/salute-ys\n\nFollow salute -\nSpotify: https://found.ee/salute-sp\nApple Music: https://found.ee/salute-am\nAmazon Music: https://found.ee/salute-aa\nYouTube: ht",
+      "duration": 31,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=t-t5IyLws8c",
+      "title": "salute - 'reason (with Karma Kid)' (Official Audio)",
+      "description": "'TRUE MAGIC', out now on Ninja Tune: https://salute.lnk.to/true-magicYo\nSubscribe: https://found.ee/salute-ys\n\nFollow salute -\nSpotify: https://found.ee/salute-sp\nApple Music: https://found.ee/salute-am\nAmazon Music: https://found.ee/salute-aa\nYouTube: ht",
+      "duration": 231,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=vxNVuky-kac",
+      "title": "salute - 'maybe it's u (with Sam Gellaitry)' (Official Audio)",
+      "description": "Taken from the album 'TRUE MAGIC', released July 12, 2024 on @ninjatune: https://salute.lnk.to/true-magicYo\nSubscribe: https://found.ee/salute-ys\n\nFollow salute -\nSpotify: https://found.ee/salute-sp\nApple Music: https://found.ee/salute-am\nYouTube: https:/",
+      "duration": 239,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=4LOnHdjQwNY",
+      "title": "salute - 'lift off! (with Disclosure)' (Official Audio)",
+      "description": "Taken from the album 'TRUE MAGIC', released July 12, 2024 on @ninjatune: https://salute.lnk.to/true-magicYo\nSubscribe: https://found.ee/salute-ys\n\nFollow salute -\nSpotify: https://found.ee/salute-sp\nApple Music: https://found.ee/salute-am\nYouTube: https:/",
+      "duration": 216,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=G353KFZrjTo",
+      "title": "salute - 'saving flowers (with Rina Sawayama)' (Official Video)",
+      "description": "Taken from the album 'TRUE MAGIC', released July 12, 2024 on Ninja Tune. Pre-order here:  https://salute.lnk.to/true-magicYo\n\nSubscribe: https://found.ee/salute-ys\n\nFollow salute -\nSpotify: https://found.ee/salute-sp\nApple Music: https://found.ee/salute-a",
+      "duration": 211,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic"
+  ],
+  "styles": [
+    "Deep House",
+    "Garage House",
+    "French House",
+    "Dance-pop"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Start",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Saving Flowers",
+      "extraartists": [
+        {
+          "name": "Rina Sawayama",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3371472,
+          "resource_url": "https://api.discogs.com/artists/3371472"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Reason",
+      "extraartists": [
+        {
+          "name": "Karma Kid",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2925117,
+          "resource_url": "https://api.discogs.com/artists/2925117"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Lift Off!",
+      "extraartists": [
+        {
+          "name": "Disclosure (3)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2330068,
+          "resource_url": "https://api.discogs.com/artists/2330068"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Maybe It's U ",
+      "extraartists": [
+        {
+          "name": "Sam Gellaitry",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3991736,
+          "resource_url": "https://api.discogs.com/artists/3991736"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Go!",
+      "extraartists": [
+        {
+          "name": "なかむらみなみ",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 15278127,
+          "resource_url": "https://api.discogs.com/artists/15278127"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "True Magic, Bonus Round",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "One Of Those Nights",
+      "extraartists": [
+        {
+          "name": "Empress Of",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2986678,
+          "resource_url": "https://api.discogs.com/artists/2986678"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Move Faster...",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "System",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "Softly",
+      "extraartists": [
+        {
+          "name": "Léa Sen",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 9448771,
+          "resource_url": "https://api.discogs.com/artists/9448771"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Luv Stuck",
+      "extraartists": [
+        {
+          "name": "Piri (9)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 12005227,
+          "resource_url": "https://api.discogs.com/artists/12005227"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Perfect ",
+      "extraartists": [
+        {
+          "name": "Leilah (2)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 15278130,
+          "resource_url": "https://api.discogs.com/artists/15278130"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Drive",
+      "extraartists": [
+        {
+          "name": "Leilah (2)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 15278130,
+          "resource_url": "https://api.discogs.com/artists/15278130"
+        }
+      ],
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/cW49A9yQe5FRXqHn6thtz1onQPSKMU8dojyQ6wkmpX8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ0/NDUyLTE3MjEzOTkx/NjUtODQ3Ny5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/cW49A9yQe5FRXqHn6thtz1onQPSKMU8dojyQ6wkmpX8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ0/NDUyLTE3MjEzOTkx/NjUtODQ3Ny5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/YF2MA7kt3f6IpNi9-eACUYC-3Q_1zRTo3k-hO-iVIAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ0/NDUyLTE3MjEzOTkx/NjUtODQ3Ny5wbmc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/AYnYBbdyjNo3AvsDDhvLOCuU-BLYX4g6CWO3xbeQzwk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ0/NDUyLTE3MjEzOTk2/NDQtMzEzOS5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/AYnYBbdyjNo3AvsDDhvLOCuU-BLYX4g6CWO3xbeQzwk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ0/NDUyLTE3MjEzOTk2/NDQtMzEzOS5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/q8xQLOEMsbNC6GDRFY7wLnAFtdZRS6yijoepxQgEFGE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ0/NDUyLTE3MjEzOTk2/NDQtMzEzOS5wbmc.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/YF2MA7kt3f6IpNi9-eACUYC-3Q_1zRTo3k-hO-iVIAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ0/NDUyLTE3MjEzOTkx/NjUtODQ3Ny5wbmc.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

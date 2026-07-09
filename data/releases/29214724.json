@@ -1,0 +1,725 @@
+{
+  "id": 29214724,
+  "status": "Accepted",
+  "year": 2023,
+  "resource_url": "https://api.discogs.com/releases/29214724",
+  "uri": "https://www.discogs.com/release/29214724-Cannons-5-Heartbeat-Highway",
+  "artists": [
+    {
+      "name": "Cannons (5)",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 7928121,
+      "resource_url": "https://api.discogs.com/artists/7928121",
+      "thumbnail_url": "https://i.discogs.com/7RFg58giLdLFIyeWSinWw7JE3AQBeteAGwtIdAx3-ao/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc5Mjgx/MjEtMTcyODg3Mzcw/Ny02NDIwLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Cannons (5)",
+  "labels": [
+    {
+      "name": "Columbia",
+      "catno": "19658866051",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    },
+    {
+      "name": "Columbia",
+      "catno": "C-327246",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    },
+    {
+      "name": "Columbia",
+      "catno": "19658866051S1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Sony Music Entertainment",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 29073,
+      "resource_url": "https://api.discogs.com/labels/29073",
+      "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Cannons (5)",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 3513493,
+      "resource_url": "https://api.discogs.com/labels/3513493"
+    },
+    {
+      "name": "Cannons (5)",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 3513493,
+      "resource_url": "https://api.discogs.com/labels/3513493"
+    },
+    {
+      "name": "Portia Street Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 3336897,
+      "resource_url": "https://api.discogs.com/labels/3336897"
+    },
+    {
+      "name": "Chumba Meadows",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 1106154,
+      "resource_url": "https://api.discogs.com/labels/1106154"
+    },
+    {
+      "name": "Phantom Studios, Gallatin TN",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 2125969,
+      "resource_url": "https://api.discogs.com/labels/2125969"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "The Fortress of Amplitude",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 851145,
+      "resource_url": "https://api.discogs.com/labels/851145"
+    },
+    {
+      "name": "SLS Studios (2)",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 3404365,
+      "resource_url": "https://api.discogs.com/labels/3404365"
+    },
+    {
+      "name": "Nashville Record Productions",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 301710,
+      "resource_url": "https://api.discogs.com/labels/301710",
+      "thumbnail_url": "https://i.discogs.com/IcalAteMbdmR9J0RZL7DNIgwoUFgumvzbzqKsx9Rve4/rs:fit/g:sm/q:90/h:253/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwMTcx/MC0xNjQwMzg4MTcx/LTYwMzAuanBlZw.jpeg"
+    },
+    {
+      "name": "United Record Pressing",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 238322,
+      "resource_url": "https://api.discogs.com/labels/238322",
+      "thumbnail_url": "https://i.discogs.com/wXejTcaBZif0vNl1Wx8ZmvUBcAwkQ21T3AduA-BjUg8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzODMy/Mi0xNDk3Nzk0Njg4/LTg0MzAucG5n.jpeg"
+    },
+    {
+      "name": "Cannons The Band Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 3513496,
+      "resource_url": "https://api.discogs.com/labels/3513496"
+    },
+    {
+      "name": "Fake And Jaded Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 737094,
+      "resource_url": "https://api.discogs.com/labels/737094"
+    },
+    {
+      "name": "Big Tall Guy Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2683529,
+      "resource_url": "https://api.discogs.com/labels/2683529"
+    },
+    {
+      "name": "One Stop Pop Shop",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 3216155,
+      "resource_url": "https://api.discogs.com/labels/3216155"
+    },
+    {
+      "name": "Downtown Music Publishing",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 296647,
+      "resource_url": "https://api.discogs.com/labels/296647",
+      "thumbnail_url": "https://i.discogs.com/7F-bQZw1nFbG75E0kMRbURpwD8XJts-A1ASwM7YFiPg/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5NjY0/Ny0xNDgyMzQwNTcy/LTgzMDQuanBlZw.jpeg"
+    },
+    {
+      "name": "Sony/ATV Songs LLC",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 303651,
+      "resource_url": "https://api.discogs.com/labels/303651",
+      "thumbnail_url": "https://i.discogs.com/_1RjD6n_UmQhwJSBpfM5RUbiSvkc2ZQVjJTtwZs2g6c/rs:fit/g:sm/q:90/h:60/w:314/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwMzY1/MS0xNTY4NzQyNTE0/LTM1MTkucG5n.jpeg"
+    },
+    {
+      "name": "Good Kings Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 941690,
+      "resource_url": "https://api.discogs.com/labels/941690"
+    },
+    {
+      "name": "Barb & Al Publishing",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 1430989,
+      "resource_url": "https://api.discogs.com/labels/1430989"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Stereo"
+      ],
+      "text": "Metallic Gold"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 1273,
+    "want": 225,
+    "rating": {
+      "count": 102,
+      "average": 4.61
+    },
+    "submitter": {
+      "username": "forthale",
+      "resource_url": "https://api.discogs.com/users/forthale"
+    },
+    "contributors": [
+      {
+        "username": "forthale",
+        "resource_url": "https://api.discogs.com/users/forthale"
+      },
+      {
+        "username": "Audioear",
+        "resource_url": "https://api.discogs.com/users/Audioear"
+      },
+      {
+        "username": "lob0to",
+        "resource_url": "https://api.discogs.com/users/lob0to"
+      },
+      {
+        "username": "rui.novais",
+        "resource_url": "https://api.discogs.com/users/rui.novais"
+      },
+      {
+        "username": "Showbiz_Kid",
+        "resource_url": "https://api.discogs.com/users/Showbiz_Kid"
+      },
+      {
+        "username": "cliffonthemoon",
+        "resource_url": "https://api.discogs.com/users/cliffonthemoon"
+      },
+      {
+        "username": "randellgreer",
+        "resource_url": "https://api.discogs.com/users/randellgreer"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2023-12-15T19:37:40-08:00",
+  "date_changed": "2025-01-02T12:03:09-08:00",
+  "num_for_sale": 21,
+  "lowest_price": 16.86,
+  "master_id": 3337198,
+  "master_url": "https://api.discogs.com/masters/3337198",
+  "title": "Heartbeat Highway",
+  "country": "US",
+  "released": "2023-12-15",
+  "notes": "Limited to 2500 copies. Includes credit/lyric sheet. \n\nCatalog number on the jacket spine is: 19658866051\nCatalog numbers on record labels are: C-327246\nCatalog number on hype sticker: 19658866051S1",
+  "released_formatted": "15 Dec 2023",
+  "identifiers": [
+    {
+      "type": "Pressing Plant ID",
+      "value": "Ⓤ",
+      "description": "Runouts"
+    },
+    {
+      "type": "Barcode",
+      "value": "1 96588 66051 1",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "196588660511",
+      "description": "Scanned, UPC_A"
+    },
+    {
+      "type": "Rights Society",
+      "value": "BMI / ASCAP"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL19658866051",
+      "description": "Label A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BL19658866051",
+      "description": "Label B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "19658-86605-1-A NRP Ⓤ",
+      "description": "Runout A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "19658-86605-1-B NRP Ⓤ",
+      "description": "Runout B"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=LRph0S_E9-g",
+      "title": "Cannons - Heartbeat Highway (Official Video)",
+      "description": "Official Video for “Heartbeat Highway” by Cannons\n \nListen to & Download “Heartbeat Highway” out now: https://cannons.lnk.to/HeartbeatHighway\n \nAmazon Music: https://cannons.lnk.to/HeartbeatHighway/AmazonMusic\nApple Music: https://cannons.lnk.to/Heartbeat",
+      "duration": 219,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Xl-P5juNyNo",
+      "title": "Cannons - Sweeter (Official Lyric Video)",
+      "description": "Official Lyric Video for “Sweeter” by Cannons\n \nListen to & Download “Heartbeat Highway” out now: https://cannons.lnk.to/HeartbeatHighway\n \nAmazon Music: https://cannons.lnk.to/HeartbeatHighway/AmazonMusic\nApple Music: https://cannons.lnk.to/HeartbeatHigh",
+      "duration": 209,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=0QaefDV7cb8",
+      "title": "Cannons - Loving You (Official Video)",
+      "description": "Official Video for “Loving You” by Cannons\n \nListen to & Download “Loving You” out now: https://cannons.lnk.to/LovingYou\n \nAmazon Music: https://cannons.lnk.to/LovingYou/AmazonMusic\nApple Music: https://cannons.lnk.to/LovingYou/AppleMusic\niTunes: https://",
+      "duration": 201,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=LRph0S_E9-g",
+      "title": "Cannons - Heartbeat Highway (Official Video)",
+      "description": "Official Video for “Heartbeat Highway” by Cannons\n \nListen to & Download “Heartbeat Highway” out now: https://cannons.lnk.to/HeartbeatHighway\n \nAmazon Music: https://cannons.lnk.to/HeartbeatHighway/AmazonMusic\nApple Music: https://cannons.lnk.to/Heartbeat",
+      "duration": 219,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Xl-P5juNyNo",
+      "title": "Cannons - Sweeter (Official Lyric Video)",
+      "description": "Official Lyric Video for “Sweeter” by Cannons\n \nListen to & Download “Heartbeat Highway” out now: https://cannons.lnk.to/HeartbeatHighway\n \nAmazon Music: https://cannons.lnk.to/HeartbeatHighway/AmazonMusic\nApple Music: https://cannons.lnk.to/HeartbeatHigh",
+      "duration": 209,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic"
+  ],
+  "styles": [
+    "Synth-pop"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Heartbeat Highway",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Crush ",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Metal Heart",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Sweeter",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Loving You",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Bad Tattoo",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Desire",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Can You Feel My Heart",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Always Will",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Cry Baby",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "You",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Dancing In The Moonlight",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Jack Crossing",
+      "anv": "",
+      "join": "",
+      "role": "Artwork",
+      "tracks": "",
+      "id": 4519077,
+      "resource_url": "https://api.discogs.com/artists/4519077"
+    },
+    {
+      "name": "Paul Davis (60)",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 13071333,
+      "resource_url": "https://api.discogs.com/artists/13071333"
+    },
+    {
+      "name": "Eric Lagg",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 6797662,
+      "resource_url": "https://api.discogs.com/artists/6797662"
+    },
+    {
+      "name": "Mark Stent",
+      "anv": "Mark \"Spike\" Stent",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "A6",
+      "id": 211449,
+      "resource_url": "https://api.discogs.com/artists/211449"
+    },
+    {
+      "name": "Rob Kinelski",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "A1-A5, B1-B6",
+      "id": 595965,
+      "resource_url": "https://api.discogs.com/artists/595965"
+    },
+    {
+      "name": "Eli Heisler",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By [Assistant]",
+      "tracks": "A1-A5, B1-B6",
+      "id": 7661196,
+      "resource_url": "https://api.discogs.com/artists/7661196"
+    },
+    {
+      "name": "Cannons (5)",
+      "anv": "",
+      "join": "",
+      "role": "Performer",
+      "tracks": "",
+      "id": 7928121,
+      "resource_url": "https://api.discogs.com/artists/7928121"
+    },
+    {
+      "name": "Cannons (5)",
+      "anv": "",
+      "join": "",
+      "role": "Producer, Recorded By",
+      "tracks": "A1-A5, B1-B6",
+      "id": 7928121,
+      "resource_url": "https://api.discogs.com/artists/7928121"
+    },
+    {
+      "name": "Alex Wilder (3)",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "A6",
+      "id": 10360123,
+      "resource_url": "https://api.discogs.com/artists/10360123"
+    },
+    {
+      "name": "Jackson Rau",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "A2",
+      "id": 6616888,
+      "resource_url": "https://api.discogs.com/artists/6616888"
+    },
+    {
+      "name": "Max Collins",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A1",
+      "id": 404177,
+      "resource_url": "https://api.discogs.com/artists/404177"
+    },
+    {
+      "name": "Michelle Lewis (3)",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A1-B5",
+      "id": 2133481,
+      "resource_url": "https://api.discogs.com/artists/2133481"
+    },
+    {
+      "name": "Mikky Ekko",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A6",
+      "id": 2001096,
+      "resource_url": "https://api.discogs.com/artists/2001096"
+    },
+    {
+      "name": "Paul Davis (60)",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A1-B5",
+      "id": 13071333,
+      "resource_url": "https://api.discogs.com/artists/13071333"
+    },
+    {
+      "name": "Phil Lynott",
+      "anv": "Philip Parris Lynott",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "B6",
+      "id": 281068,
+      "resource_url": "https://api.discogs.com/artists/281068"
+    },
+    {
+      "name": "Ryan Clapham",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A1-B5",
+      "id": 13071336,
+      "resource_url": "https://api.discogs.com/artists/13071336"
+    },
+    {
+      "name": "Tyler Spry",
+      "anv": "",
+      "join": "",
+      "role": "Written-By, Acoustic Guitar, Backing Vocals, Whistling, Recorded By",
+      "tracks": "A5",
+      "id": 5316438,
+      "resource_url": "https://api.discogs.com/artists/5316438"
+    },
+    {
+      "name": "Mike Elizondo",
+      "anv": "",
+      "join": "",
+      "role": "Written-By, Producer, Bass [Synth Bass], Keyboards [Collaborator], Drum Programming [Collaborator]",
+      "tracks": "A6",
+      "id": 182316,
+      "resource_url": "https://api.discogs.com/artists/182316"
+    },
+    {
+      "name": "Jason Evigan",
+      "anv": "",
+      "join": "",
+      "role": "Written-By, Producer, Bass, Drums [Collaborator], Synth [Collaborator], Recorded By",
+      "tracks": "A2",
+      "id": 2692453,
+      "resource_url": "https://api.discogs.com/artists/2692453"
+    },
+    {
+      "name": "Jennifer Decilveo",
+      "anv": "",
+      "join": "",
+      "role": "Written-By, Producer, Synth, Drum Programming, Arranged By",
+      "tracks": "B4",
+      "id": 3357247,
+      "resource_url": "https://api.discogs.com/artists/3357247"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/IeSEMxvveFDlzSSRGFyhShHGBt6MF2747fQBfhED5Wg/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MTU0MzQ1/NDYtNzgzNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/IeSEMxvveFDlzSSRGFyhShHGBt6MF2747fQBfhED5Wg/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MTU0MzQ1/NDYtNzgzNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/TEcF6Sfh5iQ1H-NKV8JTtNhrElMoYbGE4wtuaKMqFHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MTU0MzQ1/NDYtNzgzNi5qcGVn.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/2Cuu9qoPch43tzByhrBttImvo_2dm4NCcBy1q_PPz0s/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MTE3NDY2/ODEtNDA4NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/2Cuu9qoPch43tzByhrBttImvo_2dm4NCcBy1q_PPz0s/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MTE3NDY2/ODEtNDA4NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/TZeYBzUG-tR5JlnucE4brrUJR5BrwsCDaNDxImzCpn8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MTE3NDY2/ODEtNDA4NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 597
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/HImxYZWdcKzdejmJG4uG_4X64m80DKoenZIxUayHX9A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MDI3MTI1/MDctNDA4Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/HImxYZWdcKzdejmJG4uG_4X64m80DKoenZIxUayHX9A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MDI3MTI1/MDctNDA4Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/CU-XrP57OXg75TCTo47PbdR-hE_Ei8r1xE1yGpbUC_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MDI3MTI1/MDctNDA4Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/-K_68ytCCxLasnWM0I5-owkHhZakKHsSm7vWWHt9qTc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MDI3MTI1/MjQtMzg4OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/-K_68ytCCxLasnWM0I5-owkHhZakKHsSm7vWWHt9qTc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MDI3MTI1/MjQtMzg4OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/-9RrgnhUHnE4ioOSyYDf_3kcrXGGQlsA2wK5nRkNOlM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MDI3MTI1/MjQtMzg4OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/FVUzHX9gw4NPYgVXgoJErBB6SEOxmpoFYNBNAKuckl8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MDI3MTI1/MjQtMTczMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/FVUzHX9gw4NPYgVXgoJErBB6SEOxmpoFYNBNAKuckl8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MDI3MTI1/MjQtMTczMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/l2YOeC7mRqoyk0hLOQ8siDQov7DB1_MiWGi9TIEh2Sk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MDI3MTI1/MjQtMTczMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/2ooe8-CmtBR2WwWBSdJbNeiXaPY3K2FBf7rV8ftwN1M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MDI3MTI0/OTYtMzM4NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/2ooe8-CmtBR2WwWBSdJbNeiXaPY3K2FBf7rV8ftwN1M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MDI3MTI0/OTYtMzM4NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/zBF5vJ3ydkgeTjPWOAT4bLwJft4a8I6Tiu9C1k6ug7I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MDI3MTI0/OTYtMzM4NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/xwJ6YNb82MRiULWtz5WjmSOH76AlzRIFrx7Qtca4UtY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MTE3NDY3/NDQtMzY1OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/xwJ6YNb82MRiULWtz5WjmSOH76AlzRIFrx7Qtca4UtY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MTE3NDY3/NDQtMzY1OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/6K33975cSyIPGhYyFK33QCYrgjbPNTtBMuBI5wN0q6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MTE3NDY3/NDQtMzY1OS5qcGVn.jpeg",
+      "width": 598,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/zF_xnreQ-buybI-zY3LW8IpVRVhXsJP0bi5WX0Cm8_8/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MTE3NDY3/NzYtNDczMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/zF_xnreQ-buybI-zY3LW8IpVRVhXsJP0bi5WX0Cm8_8/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MTE3NDY3/NzYtNDczMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/vlADwKtpOXEcNVunjOMZRjAKo_hNWj8TEUhXO4ramQY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MTE3NDY3/NzYtNDczMC5qcGVn.jpeg",
+      "width": 595,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/f-evF-ktUOtkXYgp-CeDwzdOllxbW3OtMGx0cJLhU6E/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MTE3NDY3/OTQtMTAzNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/f-evF-ktUOtkXYgp-CeDwzdOllxbW3OtMGx0cJLhU6E/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MTE3NDY3/OTQtMTAzNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/q-oMwcpWvooriv903aFKZTMIgf3Fb34yyli9YpUMe6s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MTE3NDY3/OTQtMTAzNS5qcGVn.jpeg",
+      "width": 599,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/TEcF6Sfh5iQ1H-NKV8JTtNhrElMoYbGE4wtuaKMqFHE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE0/NzI0LTE3MTU0MzQ1/NDYtNzgzNi5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

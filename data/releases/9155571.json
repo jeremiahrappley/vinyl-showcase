@@ -1,0 +1,505 @@
+{
+  "id": 9155571,
+  "status": "Accepted",
+  "year": 2016,
+  "resource_url": "https://api.discogs.com/releases/9155571",
+  "uri": "https://www.discogs.com/release/9155571-Rihanna-Anti",
+  "artists": [
+    {
+      "name": "Rihanna",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 321128,
+      "resource_url": "https://api.discogs.com/artists/321128",
+      "thumbnail_url": "https://i.discogs.com/TCuNTls49Gi4KG2y5-ZmMLOkiEHeX29kpHW7_vWJ1MM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMyMTEy/OC0xNzYwNDgxNzY0/LTYyNjguanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Rihanna",
+  "labels": [
+    {
+      "name": "Def Jam Recordings",
+      "catno": "B0025134-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 4241,
+      "resource_url": "https://api.discogs.com/labels/4241",
+      "thumbnail_url": "https://i.discogs.com/zueTHMMGjUzQWjoHJgHWCKAjf4hiKsUjdiYuj4mXCbs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQyNDEt/MTYwNDY3ODAzMi0y/NzA3LnBuZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Westbury Road Entertainment, LLC",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 819941,
+      "resource_url": "https://api.discogs.com/labels/819941"
+    },
+    {
+      "name": "Roc Nation Records",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 794548,
+      "resource_url": "https://api.discogs.com/labels/794548"
+    },
+    {
+      "name": "Sterling Sound",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 264060,
+      "resource_url": "https://api.discogs.com/labels/264060",
+      "thumbnail_url": "https://i.discogs.com/Z8f0gMBrt5jLL4TAcCYDGXmMPOLi9V0UW593WXP6BUU/rs:fit/g:sm/q:90/h:118/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDA2/MC0xNTAwMjgzMzYy/LTMyMTguanBlZw.jpeg"
+    },
+    {
+      "name": "Rainbo Records",
+      "catno": "S-98577",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 100643,
+      "resource_url": "https://api.discogs.com/labels/100643",
+      "thumbnail_url": "https://i.discogs.com/GDxBM719av0V7oyemxiMhYGX5m9qoMvtuwrtIvyLlS4/rs:fit/g:sm/q:90/h:141/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDY0/My0xNDk2ODM3MzMz/LTYxMTAuanBlZw.jpeg"
+    },
+    {
+      "name": "Rainbo Records",
+      "catno": "S-98578",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 100643,
+      "resource_url": "https://api.discogs.com/labels/100643",
+      "thumbnail_url": "https://i.discogs.com/GDxBM719av0V7oyemxiMhYGX5m9qoMvtuwrtIvyLlS4/rs:fit/g:sm/q:90/h:141/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDY0/My0xNDk2ODM3MzMz/LTYxMTAuanBlZw.jpeg"
+    },
+    {
+      "name": "Rainbo Records",
+      "catno": "S-98579",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 100643,
+      "resource_url": "https://api.discogs.com/labels/100643",
+      "thumbnail_url": "https://i.discogs.com/GDxBM719av0V7oyemxiMhYGX5m9qoMvtuwrtIvyLlS4/rs:fit/g:sm/q:90/h:141/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDY0/My0xNDk2ODM3MzMz/LTYxMTAuanBlZw.jpeg"
+    },
+    {
+      "name": "Rainbo Records",
+      "catno": "S-98580",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 100643,
+      "resource_url": "https://api.discogs.com/labels/100643",
+      "thumbnail_url": "https://i.discogs.com/GDxBM719av0V7oyemxiMhYGX5m9qoMvtuwrtIvyLlS4/rs:fit/g:sm/q:90/h:141/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDY0/My0xNDk2ODM3MzMz/LTYxMTAuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 2251,
+    "want": 1911,
+    "rating": {
+      "count": 174,
+      "average": 4.67
+    },
+    "submitter": {
+      "username": "wernermariawerner",
+      "resource_url": "https://api.discogs.com/users/wernermariawerner"
+    },
+    "contributors": [
+      {
+        "username": "wernermariawerner",
+        "resource_url": "https://api.discogs.com/users/wernermariawerner"
+      },
+      {
+        "username": "vagdim",
+        "resource_url": "https://api.discogs.com/users/vagdim"
+      },
+      {
+        "username": "michael_c",
+        "resource_url": "https://api.discogs.com/users/michael_c"
+      },
+      {
+        "username": "erik7778910",
+        "resource_url": "https://api.discogs.com/users/erik7778910"
+      },
+      {
+        "username": "zevulon",
+        "resource_url": "https://api.discogs.com/users/zevulon"
+      },
+      {
+        "username": "JoJuJim",
+        "resource_url": "https://api.discogs.com/users/JoJuJim"
+      },
+      {
+        "username": "Music_Shroom",
+        "resource_url": "https://api.discogs.com/users/Music_Shroom"
+      },
+      {
+        "username": "TReimer",
+        "resource_url": "https://api.discogs.com/users/TReimer"
+      },
+      {
+        "username": "booker-t",
+        "resource_url": "https://api.discogs.com/users/booker-t"
+      },
+      {
+        "username": "Moxie.93",
+        "resource_url": "https://api.discogs.com/users/Moxie.93"
+      },
+      {
+        "username": "JG82",
+        "resource_url": "https://api.discogs.com/users/JG82"
+      },
+      {
+        "username": "djset13",
+        "resource_url": "https://api.discogs.com/users/djset13"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2016-10-06T06:33:56-07:00",
+  "date_changed": "2026-03-17T15:39:40-07:00",
+  "num_for_sale": 21,
+  "lowest_price": 58.12,
+  "master_id": 950545,
+  "master_url": "https://api.discogs.com/masters/950545",
+  "title": "Anti",
+  "country": "US",
+  "released": "2016-10-07",
+  "notes": "Artist & Title do not appear on release, there is letter \"R\" (in Braille on mid spine).\nTri-fold cover with embossed braille. Includes five lithographs.\nTrack order runs in a sequential manner.\nTrack durations do not appear on release.\n\nTranslation of the Braille:\n\nFront Cover:\nI sometimes fear that I am misunderstood.\nIt is simply because what I want to say,\nwhat I need to say, won’t be heard.\nHeard in a way I so rightfully deserve.\nWhat I choose to say is of so much substance\nThat people just won’t understand the depth of my message.\nSo my voice is not my weakness,\nIt is the opposite of what others are afraid of…\n\nBack Cover:\nMy voice is my suit and armor,\nMy shield, and all that I am.\nI will comfortably breath in it, until I find the moment to be silent.\nI live loudly in my mind, so many hours of the day.\nThe world is pin drop sound compared to the boom\nThat thumps and bumps against the walls of my cranium.\nI live it and love it and despise it and I am entrapped in it.\nSo being misunderstood, I am not offended by the gesture, but honored.\nIf they let us\n\nLeft Frame:\nFalling fast backwards into deep water.\nAs my eyes opened I knew that I was naked.\nFloating on the waters surface.\nAlone with the reflections of myself.\n\n\nMiddle Frame:\nMy face in deep shadows.\nDreams and ideas beyond limits.\nThe future is all I have to look forward to.\nI turn myself inside out.\nOnly then am I whole.\n\n\nRight Frame:\nClouds replace the sunlight.\nExpanding into the darkness.\nThe shoreline covered with night.\nBackward strokes,\nDeep breaths, salt air.\n\nRight Flap:\nR\n",
+  "released_formatted": "07 Oct 2016",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "851365006950",
+      "description": "String"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0025134-01-LP1A S-98577 RJ STERLING",
+      "description": "Runout side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0025134-01-LP1B S-98578 RJ STERLING",
+      "description": "Runout side B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0025134-01-LP2A S-98579 RJ STERLING",
+      "description": "Runout side C"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0025134-01-LP2B RJ STERLING S-98580",
+      "description": "Runout side D"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=HL1UzIK-flA",
+      "title": "Rihanna - Work (Explicit) ft. Drake",
+      "description": "Get Rihanna’s eighth studio album ANTI now:\nDownload on TIDAL: http://smarturl.it/downloadANTI\nDownload on iTunes: http://smarturl.it/i_dlx_ANTI\nDownload on Google Play: http://smarturl.it/ANTIdlxgp\nDownload on Amazon: http://geni.us/amzANTI \nStream on ",
+      "duration": 455,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=49lY0HqqUVc",
+      "title": "Rihanna - Kiss It Better (Explicit)",
+      "description": "“Kiss It Better” from Rihanna’s eighth studio album ANTI, available now:\nDownload on TIDAL: http://smarturl.it/downloadANTI\nDownload on iTunes: http://smarturl.it/i_dlx_ANTI\nDownload on Google Play: http://smarturl.it/ANTIdlxgp\nDownload on Amazon: h",
+      "duration": 249,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=wfN4PVaOU5Q",
+      "title": "Rihanna - Needed Me",
+      "description": "\"Needed Me\" from Rihanna’s eighth studio album ANTI, available now:\nDownload on TIDAL: http://smarturl.it/downloadANTI\nDownload on iTunes: http://smarturl.it/i_dlx_ANTI\nDownload on Google Play: http://smarturl.it/ANTIdlxgp\nDownload on Amazon: http://gen",
+      "duration": 194,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Hip Hop",
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Contemporary R&B",
+    "Pop Rap"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Consideration",
+      "extraartists": [
+        {
+          "name": "SZA (2)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3272791,
+          "resource_url": "https://api.discogs.com/artists/3272791"
+        }
+      ],
+      "duration": "2:41"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "James Joint",
+      "duration": "1:12"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Kiss It Better",
+      "duration": "4:13"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Work",
+      "extraartists": [
+        {
+          "name": "Drake",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 151199,
+          "resource_url": "https://api.discogs.com/artists/151199"
+        }
+      ],
+      "duration": "3:39"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Desperado",
+      "duration": "3:06"
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Woo",
+      "duration": "3:56"
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "title": "Needed Me",
+      "duration": "3:12"
+    },
+    {
+      "position": "B8",
+      "type_": "track",
+      "title": "Yeah, I Said It",
+      "duration": "2:13"
+    },
+    {
+      "position": "C9",
+      "type_": "track",
+      "title": "Same Ol Mistakes",
+      "duration": "6:37"
+    },
+    {
+      "position": "C10",
+      "type_": "track",
+      "title": "Never Ending",
+      "duration": "3:23"
+    },
+    {
+      "position": "C11",
+      "type_": "track",
+      "title": "Love On The Brain",
+      "duration": "3:44"
+    },
+    {
+      "position": "D12",
+      "type_": "track",
+      "title": "Higher",
+      "duration": "2:01"
+    },
+    {
+      "position": "D13",
+      "type_": "track",
+      "title": "Close To You",
+      "duration": "3:58"
+    },
+    {
+      "position": "D14",
+      "type_": "track",
+      "title": "Goodnight Gotham",
+      "duration": "1:28"
+    },
+    {
+      "position": "D15",
+      "type_": "track",
+      "title": "Pose",
+      "duration": "2:24"
+    },
+    {
+      "position": "D16",
+      "type_": "track",
+      "title": "Sex With Me",
+      "duration": "3:26"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Ray Janos",
+      "anv": "RJ",
+      "join": "",
+      "role": "Mastered By [Vinyl]",
+      "tracks": "",
+      "id": 339229,
+      "resource_url": "https://api.discogs.com/artists/339229"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/NXlaQObl6o_WlEOZuerShJGuf9u-exAVcC5JuzrHDCw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNTk5/MC0yOTM1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/NXlaQObl6o_WlEOZuerShJGuf9u-exAVcC5JuzrHDCw/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNTk5/MC0yOTM1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/ri9SIqjLLeJr8G9PMUJZbU-LKehMBYhZHxXJzW5K2RM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNTk5/MC0yOTM1LmpwZWc.jpeg",
+      "width": 600,
+      "height": 595
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/0t-0RXJj8csy1neHyPcT1dXHRFiaLoLbKKmh7fFapzA/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNTk5/Mi0xODE1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/0t-0RXJj8csy1neHyPcT1dXHRFiaLoLbKKmh7fFapzA/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNTk5/Mi0xODE1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/YWKdtyYNpMbMMQCBkKd2GScXvzc4SMPIJpIYa3GI6tA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNTk5/Mi0xODE1LmpwZWc.jpeg",
+      "width": 600,
+      "height": 584
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/j_zaJ2HYm2aSFiB0gNXHPLEdjzaASq37sNB4RUqh-6g/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNTk5/NC03NTM1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/j_zaJ2HYm2aSFiB0gNXHPLEdjzaASq37sNB4RUqh-6g/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNTk5/NC03NTM1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/tOZHyx9azgcMcFgQRKAn-zEOWIa1VlOfxfCaF8xmass/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNTk5/NC03NTM1LmpwZWc.jpeg",
+      "width": 595,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/_G8CVNL_jyXTwBXGIkyzVRK5vtaCKHECEG0-lMHulPU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNTk5/Ni0xODEyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/_G8CVNL_jyXTwBXGIkyzVRK5vtaCKHECEG0-lMHulPU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNTk5/Ni0xODEyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/VMu1FqDpVFsGsHRVq1BsjwLd3zdi-jThOeclSdy-GQ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNTk5/Ni0xODEyLmpwZWc.jpeg",
+      "width": 600,
+      "height": 597
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/KR8y-NcHF00rEjZ7NQBBIQnECtsuvk7w1eMjCMsYjEA/rs:fit/g:sm/q:90/h:209/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTYyNDE2MzE5/Ni01MTEzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/KR8y-NcHF00rEjZ7NQBBIQnECtsuvk7w1eMjCMsYjEA/rs:fit/g:sm/q:90/h:209/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTYyNDE2MzE5/Ni01MTEzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/3dQrA_AiV-5nPgLc3ecRH4eQN_0CRRVFrN2IOQJ70aw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTYyNDE2MzE5/Ni01MTEzLmpwZWc.jpeg",
+      "width": 600,
+      "height": 209
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/sA1uTj0z91mthnk0g9X64aIepe88yPfDh2GcjLBgrZQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNTk5/OS02OTk2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/sA1uTj0z91mthnk0g9X64aIepe88yPfDh2GcjLBgrZQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNTk5/OS02OTk2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/LuhPn-3gk1rkS6JBtlEn0cvN8FEc5DgfXcGJbry4h7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNTk5/OS02OTk2LmpwZWc.jpeg",
+      "width": 597,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/LWXDQjeEIcr3DDqXbFKikbTcaMlwFyEjDNPfK6ln-wg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAw/MC0yMjgxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/LWXDQjeEIcr3DDqXbFKikbTcaMlwFyEjDNPfK6ln-wg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAw/MC0yMjgxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/LbKGgFWmvUG7Ywwl3GPXawavik5w17kG4_e4eauS1dI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAw/MC0yMjgxLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/xfpZvD4kdeLX9paWVwjTQFrzs1vTvd00I9E8auEhlU4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAw/Mi0xNTA2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/xfpZvD4kdeLX9paWVwjTQFrzs1vTvd00I9E8auEhlU4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAw/Mi0xNTA2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/C5ZeHaGk1w_HKuyDkJ4GFzlXNJcc6McUR04_V9ZtKQ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAw/Mi0xNTA2LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/073sDZfMcvRTDTEbc9MKcelGZ0eXDKIfwJv0tV_PQ14/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAw/My03MDUwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/073sDZfMcvRTDTEbc9MKcelGZ0eXDKIfwJv0tV_PQ14/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAw/My03MDUwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/T1qE4jhjuWGg_kMeIAOgThoRvD-ECaY3Ve9alXyenLw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAw/My03MDUwLmpwZWc.jpeg",
+      "width": 598,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/opn5OBPQVfOrzjb_HzD4DCfo2uX7YkVVLuVcjJVguqU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAw/NS0yNjIxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/opn5OBPQVfOrzjb_HzD4DCfo2uX7YkVVLuVcjJVguqU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAw/NS0yNjIxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/9cbCU8v6uQNTWn9o6ZmiROJ_ryOsHA5WtfKw7M-T-_A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAw/NS0yNjIxLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/_52An0CHs2EY9DR6LS8yi_0GIJzqOYaiEA7HhlJEIoc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAw/OC05ODM0LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/_52An0CHs2EY9DR6LS8yi_0GIJzqOYaiEA7HhlJEIoc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAw/OC05ODM0LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/2EFugR9inviOvBh_8utgkrE_QFQxLIZr4lwG2IOgh68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAw/OC05ODM0LmpwZWc.jpeg",
+      "width": 599,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/hymPqgElbPa-FYniZ6wXnxTigl-7JlpUs9miEMRFpWo/rs:fit/g:sm/q:90/h:600/w:501/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAx/NC02MzU5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/hymPqgElbPa-FYniZ6wXnxTigl-7JlpUs9miEMRFpWo/rs:fit/g:sm/q:90/h:600/w:501/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAx/NC02MzU5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/EetTnqR1ynFd-gvEiAnmxJDoGgsJlj1RjidV1VvhJVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAx/NC02MzU5LmpwZWc.jpeg",
+      "width": 501,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/KDJP6pvyyON4VgnZ1MakDIfwOebJ_AIiXQBuH0w-rJo/rs:fit/g:sm/q:90/h:600/w:504/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAx/MC0yOTk2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/KDJP6pvyyON4VgnZ1MakDIfwOebJ_AIiXQBuH0w-rJo/rs:fit/g:sm/q:90/h:600/w:504/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAx/MC0yOTk2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/9zmYsfG8sqbdO4B2piPt3L1Rzr0fX3xOVCKZedMp7ao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAx/MC0yOTk2LmpwZWc.jpeg",
+      "width": 504,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Jjy9swjcChplsohd0sloWqdASTsrGMF8OgJAxbJiQxo/rs:fit/g:sm/q:90/h:600/w:502/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAx/Mi0xMjkyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/Jjy9swjcChplsohd0sloWqdASTsrGMF8OgJAxbJiQxo/rs:fit/g:sm/q:90/h:600/w:502/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAx/Mi0xMjkyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/o-KY2GYQrELIgEDI_GAA9vmAluk9UEG8R8IXdHSkir8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAx/Mi0xMjkyLmpwZWc.jpeg",
+      "width": 502,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/F4lNcBoBsOfDrc9zyG6tXvyRg0fmh1N2-TTyW41yJaA/rs:fit/g:sm/q:90/h:600/w:504/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAx/Ni03OTAwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/F4lNcBoBsOfDrc9zyG6tXvyRg0fmh1N2-TTyW41yJaA/rs:fit/g:sm/q:90/h:600/w:504/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAx/Ni03OTAwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/yJ-3NWTnCTqHI5yRugjTNg56SoJDdgC5_6_NqqAnjkg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAx/Ni03OTAwLmpwZWc.jpeg",
+      "width": 504,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/XN4nQaBQVCegdYpaoCGLRRO8qEhmlNKg2_DzzRhaIDg/rs:fit/g:sm/q:90/h:501/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAx/OS00MjAzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/XN4nQaBQVCegdYpaoCGLRRO8qEhmlNKg2_DzzRhaIDg/rs:fit/g:sm/q:90/h:501/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAx/OS00MjAzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/mc5U4U875ZrsmJLIKmykKhdIPLPiVSnzj7QuKgEv2yg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNjAx/OS00MjAzLmpwZWc.jpeg",
+      "width": 600,
+      "height": 501
+    }
+  ],
+  "thumb": "https://i.discogs.com/ri9SIqjLLeJr8G9PMUJZbU-LKehMBYhZHxXJzW5K2RM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkxNTU1/NzEtMTQ4NDQxNTk5/MC0yOTM1LmpwZWc.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

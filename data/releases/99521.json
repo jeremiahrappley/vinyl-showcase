@@ -1,0 +1,749 @@
+{
+  "id": 99521,
+  "status": "Accepted",
+  "year": 1992,
+  "resource_url": "https://api.discogs.com/releases/99521",
+  "uri": "https://www.discogs.com/release/99521-RuPaul-Supermodel-You-Better-Work-House-Of-Love",
+  "artists": [
+    {
+      "name": "RuPaul",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 24188,
+      "resource_url": "https://api.discogs.com/artists/24188",
+      "thumbnail_url": "https://i.discogs.com/o7BYT4SSIdCY78jdBpi_RDh5W_J5kICSbsPWs8EPYEk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI0MTg4/LTE1NDgxODE2MjUt/MTczOC5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "RuPaul",
+  "labels": [
+    {
+      "name": "Tommy Boy",
+      "catno": "TB 542",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 26011,
+      "resource_url": "https://api.discogs.com/labels/26011",
+      "thumbnail_url": "https://i.discogs.com/tF70WtpYNAjxBywWbB0nb4EWKDg5bq4rlESFA29P7oM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2MDEx/LTE0ODQ1NjE1OTUt/Mzg0MC5qcGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Tommy Boy Music, Inc.",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 75020,
+      "resource_url": "https://api.discogs.com/labels/75020",
+      "thumbnail_url": "https://i.discogs.com/z8i7W_7lQE0ZQikJDCqIE8uPcSTghKPlCVIE101fLkw/rs:fit/g:sm/q:90/h:258/w:382/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MDIw/LTE1OTExMDQ0MzQt/OTQ5MS5qcGVn.jpeg"
+    },
+    {
+      "name": "Tommy Boy Music, Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 75020,
+      "resource_url": "https://api.discogs.com/labels/75020",
+      "thumbnail_url": "https://i.discogs.com/z8i7W_7lQE0ZQikJDCqIE8uPcSTghKPlCVIE101fLkw/rs:fit/g:sm/q:90/h:258/w:382/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MDIw/LTE1OTExMDQ0MzQt/OTQ5MS5qcGVn.jpeg"
+    },
+    {
+      "name": "Tommy Boy Music, Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 75020,
+      "resource_url": "https://api.discogs.com/labels/75020",
+      "thumbnail_url": "https://i.discogs.com/z8i7W_7lQE0ZQikJDCqIE8uPcSTghKPlCVIE101fLkw/rs:fit/g:sm/q:90/h:258/w:382/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MDIw/LTE1OTExMDQ0MzQt/OTQ5MS5qcGVn.jpeg"
+    },
+    {
+      "name": "Specialty Records Corporation",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 27576,
+      "resource_url": "https://api.discogs.com/labels/27576",
+      "thumbnail_url": "https://i.discogs.com/IQROIH8NzDpc0CjYKMj534Emj2givhq6a7joL2TKf5I/rs:fit/g:sm/q:90/h:375/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3NTc2/LTEzMzk0OTkzMDUt/MTI0NS5qcGVn.jpeg"
+    },
+    {
+      "name": "T-Boy Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 316741,
+      "resource_url": "https://api.discogs.com/labels/316741"
+    },
+    {
+      "name": "Whorga Musica",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 297562,
+      "resource_url": "https://api.discogs.com/labels/297562"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "12\"",
+        "33 ⅓ RPM"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 713,
+    "want": 322,
+    "rating": {
+      "count": 62,
+      "average": 4.19
+    },
+    "submitter": {
+      "username": "PatrickHH",
+      "resource_url": "https://api.discogs.com/users/PatrickHH"
+    },
+    "contributors": [
+      {
+        "username": "PatrickHH",
+        "resource_url": "https://api.discogs.com/users/PatrickHH"
+      },
+      {
+        "username": "Vinylized2023",
+        "resource_url": "https://api.discogs.com/users/Vinylized2023"
+      },
+      {
+        "username": "SirTweak",
+        "resource_url": "https://api.discogs.com/users/SirTweak"
+      },
+      {
+        "username": "Djbowl718",
+        "resource_url": "https://api.discogs.com/users/Djbowl718"
+      },
+      {
+        "username": "trancer78",
+        "resource_url": "https://api.discogs.com/users/trancer78"
+      },
+      {
+        "username": "pjpm",
+        "resource_url": "https://api.discogs.com/users/pjpm"
+      },
+      {
+        "username": "hipnogger",
+        "resource_url": "https://api.discogs.com/users/hipnogger"
+      },
+      {
+        "username": "MaximusMCX",
+        "resource_url": "https://api.discogs.com/users/MaximusMCX"
+      },
+      {
+        "username": "cocktailmix",
+        "resource_url": "https://api.discogs.com/users/cocktailmix"
+      },
+      {
+        "username": "DiscogsUpdateBot",
+        "resource_url": "https://api.discogs.com/users/DiscogsUpdateBot"
+      },
+      {
+        "username": "DJGreek",
+        "resource_url": "https://api.discogs.com/users/DJGreek"
+      },
+      {
+        "username": "photoguy",
+        "resource_url": "https://api.discogs.com/users/photoguy"
+      },
+      {
+        "username": "Richgatkow",
+        "resource_url": "https://api.discogs.com/users/Richgatkow"
+      },
+      {
+        "username": "Honkelkonkel",
+        "resource_url": "https://api.discogs.com/users/Honkelkonkel"
+      },
+      {
+        "username": "TheHouseOfMedia",
+        "resource_url": "https://api.discogs.com/users/TheHouseOfMedia"
+      },
+      {
+        "username": "ClubMixRemix",
+        "resource_url": "https://api.discogs.com/users/ClubMixRemix"
+      },
+      {
+        "username": "michael.polimeno",
+        "resource_url": "https://api.discogs.com/users/michael.polimeno"
+      },
+      {
+        "username": "Djazitup",
+        "resource_url": "https://api.discogs.com/users/Djazitup"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2003-01-25T05:55:09-08:00",
+  "date_changed": "2023-06-10T11:41:50-07:00",
+  "num_for_sale": 36,
+  "lowest_price": 5.99,
+  "master_id": 79881,
+  "master_url": "https://api.discogs.com/masters/79881",
+  "title": "Supermodel (You Better Work) / House Of Love",
+  "country": "US",
+  "released": "1992",
+  "notes": "Also released as a promo with the same catalog number.",
+  "released_formatted": "1992",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "0 16998-0542-0 8",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "016998054208",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "I-542-A-DMM SPI - I",
+      "description": "Runout Side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "I-542-B2 REI-DMM SPI-",
+      "description": "Runout Side B"
+    },
+    {
+      "type": "Rights Society",
+      "value": "ASCAP"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=4nTl4Rmf6AI",
+      "title": "RuPaul - Supermodel (You Better Work) [Official Music Video]",
+      "description": "Download/Stream: https://tommyboyrecords.lnk.to/RuPaul_SupermodelWE\nMake this song your Ringtone: https://itunes.apple.com/us/album/supermodel-you-better-work/1625424565?app=itunes\n\n************************************ \n\nTommy Boy Records is a legendary H",
+      "duration": 249,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=rIzPFE-1c50",
+      "title": "RuPaul - Supermodel (You Better Work) (Official Music Video) [HD]",
+      "description": "Download/Stream: https://tommyboyrecords.lnk.to/RuPaul_SupermodelWE\n\n************************************ \n\nTommy Boy Records is a legendary Hip Hop & Electronic record label founded in New York City in 1981. The label is credited with launching the caree",
+      "duration": 249,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=g2KdI4OhEp4",
+      "title": "House of Love (7” Radio Version)",
+      "description": "Provided to YouTube by Reservoir Media Management, Inc.\n\nHouse of Love (7” Radio Version) · RuPaul\n\nSupermodel (You Better Work)/House of Love\n\n℗ 1992 Tommy Boy Music, LLC\n\nReleased on: 1992-01-07\n\nMusic  Publisher: Rupaul Charles Music (SESAC)\nMusic  Pub",
+      "duration": 193,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=C_dFBOtwIJ0",
+      "title": "House of Love (12\" Version)",
+      "description": "Provided to YouTube by Reservoir Media Management, Inc.\n\nHouse of Love (12\" Version) · RuPaul\n\nSupermodel (You Better Work)/House of Love\n\n℗ 1992 Tommy Boy Music, LLC\n\nReleased on: 1992-01-07\n\nMusic  Publisher: Whorga Musica (ASCAP)\nMusic  Publisher: Rupa",
+      "duration": 367,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=x2qY71eS9HI",
+      "title": "House of Love (Dub)",
+      "description": "Provided to YouTube by Reservoir Media Management, Inc.\n\nHouse of Love (Dub) · RuPaul\n\nSupermodel (You Better Work)/House of Love\n\n℗ 1992 Tommy Boy Music, LLC\n\nReleased on: 1992-01-07\n\nMusic  Publisher: Whorga Musica (ASCAP)\nMusic  Publisher: Rupaul Charl",
+      "duration": 326,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=s-MLQq9G_7w",
+      "title": "RuPaul - House Of Love (7\" Radio Version)",
+      "description": "House (USA, 1992)\n\nル•ポール　ハウス•オブ•ラヴ",
+      "duration": 193,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=edwfj-uO_nA",
+      "title": "Rupaul - House of Love (Eric Kupper 12 inch Mix)",
+      "description": "Rupaul - House of Love (Eric Kupper 12 inch Mix) - 1994 - www.freestylebeatbrazil.com",
+      "duration": 370,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ayzIB6t2oUg",
+      "title": "RuPaul - House Of Love (Eric Kupper 12\" Mix)",
+      "description": "(c) Tommy Boy Music 1993",
+      "duration": 370,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=zXdKZ8pK0us",
+      "title": "RuPaul 'House Of Love' (T-empo's Kitsch Bitch Club Mix)",
+      "description": "Early organ house...",
+      "duration": 364,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=OmgVTQnM7k4",
+      "title": "RuPaul | House Of Love (Remastered) 30th Anniversary",
+      "description": "by JaviFer Productions Ltd.\n\nNo tengo ganancias con los videos que hago, lo hago porque me gusta hacer videomixes y remixes sin lucrarme. Los derechos de las imágenes, vídeos y voces que aparecen, correspondes a sus respectivos productores, escritores y c",
+      "duration": 205,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=kjeuO5Cz09A",
+      "title": "RuPaul House Of Love (Live 1994, New York)",
+      "description": "From \"Wigstock : The Movie\"\n\n\"Wigstock: The Movie\" is a 1995 documentary film focusing on Wigstock, the annual drag music festival that had been held New York City's East Village through the 1980s and 1990s. The film presents a number of performances from",
+      "duration": 190,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=RmVoeCimKFw",
+      "title": "RuPaul: 1993-1996 performances (live vocals)",
+      "description": "Tracklist\n\n00:00 Supermodel - Live at the 1993 Gay & Lesbian March on Washington\n04:05 Supermodel - Live at Arsenio\n08:24 Supermodel - Live at 1993 Spring Break\n12:16 A Shade Shady - Live at Inside World 1993\n16:03 Back to my Roots - Live in Denver 1994\n1",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=nsGZSa-WlKY",
+      "title": "Supermodel You Better Work, Rupaul, 1993",
+      "description": "",
+      "duration": 250,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=pdCxI-63sL4",
+      "title": "RuPaul   Supermodel You Better Work Official Music Video",
+      "description": "Supermodel (You Better Work)\" is a 1992 song by American dance music singer and drag queen RuPaul. It was released as the third single (but first major label single) from his debut album, Supermodel of the World. The song was a dance club anthem that, tho",
+      "duration": 249,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=0M2hd9gWpVU",
+      "title": "RuPaul Supermodel You Better Work Video",
+      "description": "RuPaul Supermodel You Better Work Video\n\nPromotional Use Only\nNo Copyright Infringement Intended",
+      "duration": 233,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KI8bC6U8Bsc",
+      "title": "RuPaul - Supermodel (You Better Work)",
+      "description": "",
+      "duration": 230,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=edj7SeHulAA",
+      "title": "RuPaul SuperModel 2006",
+      "description": "RuPaul SuperModel 2006\n\nWatch more of RuPaul's NEW Show ▶ https://www.youtube.com/playlist?list...\n\nSubscribe HERE: https://www.youtube.com/user/rutube?s...\n\nFollow RuPaul:\nhttps://www.facebook.com/RuPaul/\nhttps://twitter.com/RuPaul\nhttps://www.instagram.",
+      "duration": 189,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=rZOOvc6i1J4",
+      "title": "Supermodel (You Better Work)",
+      "description": "Provided to YouTube by Reservoir Media Management, Inc.\n\nSupermodel (You Better Work) · RuPaul\n\nSupermodel (You Better Work)/House of Love\n\n℗ 1992 Tommy Boy Music, LLC\n\nReleased on: 1992-01-07\n\nMusic  Publisher: Love Machine Music (ASCAP)\nMusic  Publisher",
+      "duration": 377,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=owJEf_5BYdA",
+      "title": "Supermodel (You Better Work)",
+      "description": "Provided to YouTube by Reservoir Media Management, Inc.\n\nSupermodel (You Better Work) · RuPaul\n\nSupermodel (You Better Work)/House of Love\n\n℗ 1992 Tommy Boy Music, LLC\n\nReleased on: 1992-01-07\n\nMusic  Publisher: Rupaul Charles Music (SESAC)\nMusic  Publish",
+      "duration": 227,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=t0qFpmpSj2Q",
+      "title": "Supermodel (You Better Work)",
+      "description": "Provided to YouTube by Reservoir Media Management, Inc.\n\nSupermodel (You Better Work) · RuPaul\n\nSupermodel (You Better Work)/House of Love\n\n℗ 1992 Tommy Boy Music, LLC\n\nReleased on: 1992-01-07\n\nMusic  Publisher: Rupaul Charles Music (SESAC)\nMusic  Publish",
+      "duration": 242,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=dQN3fUQqexY",
+      "title": "Supermodel (You Better Work)",
+      "description": "Provided to YouTube by Reservoir Media Management, Inc.\n\nSupermodel (You Better Work) · RuPaul\n\nSupermodel (You Better Work)/House of Love\n\n℗ 1992 Tommy Boy Music, LLC\n\nReleased on: 1992-01-07\n\nMusic  Publisher: Rupaul Charles Music (SESAC)\nMusic  Publish",
+      "duration": 119,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=XI2t7hqgCKg",
+      "title": "RuPaul - Supermodel (Power House Version)",
+      "description": "No copyright infringement intended.\r\nFor promotional and entertainment purposes only.\r\nThe \"Power House\" edit of this 90's club hit.\r\nIssue #16\r\nEdit by Markus \"The Slice\" Schulz.",
+      "duration": 400,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=6u7z7mq6KQ4",
+      "title": "RuPaul - Supermodel (You Better Work) [Couture Mix]",
+      "description": "(c) Tommy Boy Records 1992",
+      "duration": 385,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=BC8Ha0zClDo",
+      "title": "Rupaul - House Of Love (12'' Mix)",
+      "description": "Rupaul's House Of Love\nRupaul's Supermodel (You Better Work) - Soon\n\nNO Copyright Infringement intended for entertainment purposes only. The music And Songs belonged to the Rightful Owner",
+      "duration": 369,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=GQD_aOXf6mQ",
+      "title": "Rupaul \"Supermodel\" (MTV Spring Break 1993)",
+      "description": "\"Supermodel (You Better Work)\" is a song by American dance music singer and drag queen RuPaul. It was released in November 1993 as the third single (but first major label single) from his debut album, Supermodel of the World (1993). The song was a dance c",
+      "duration": 277,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=A-9JeFW1KK4",
+      "title": "RuPaul \"You Better Work /Supermodel\" on Arsenio",
+      "description": "Let Peace Begin With Me  https://youtu.be/igfVHYPZM2A\npass this inspirational performance on, we need this now more than ever!!\nWelcome!  These musical clips are from a large video collection that is now being converted from VHS/Beta to digital.  There is",
+      "duration": 260,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=WdCgfq8VdO4",
+      "title": "The RuPaul Show (1997) - Opening clip \"Supermodel (You Better Work)\"",
+      "description": "\"Don't let the smooth taste fool ya!\"\n\nLike! Comment! Share! Subscribe!!!\nTip your waitress!\nTip your bartender!\nTip your drag queen!\nTip your YouTuber....how....by SUBSCRIBING!!!!!\n\nHelp me get to 10,000 subscribers....and it won't cost you anything...it",
+      "duration": 32,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=4yhjtSlarQQ",
+      "title": "Ru Paul ‎– Supermodel (You Better Work) (Couture Mix) VINYL COLLECTION",
+      "description": "Ru Paul* ‎– Supermodel (You Better Work) / House Of Love\nSello:\nBlanco Y Negro (2) ‎– MX - 373\nFormato:\nVinyl, 12\", 33 ⅓ RPM \nPaís:\nSpain\nFecha:\n1993\nGénero:\nElectronic\nEstilo:\nHouse, Dance-pop #VINYL #DISCOCLUB #THEVINYLCLUB",
+      "duration": 385,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=mgx4ZrvC-v4",
+      "title": "Rupaul - Supermodel (Alternate Version)",
+      "description": "Rupaul - Supermodel (Alternate Version)",
+      "duration": 393,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=jUaPxdMOjTw",
+      "title": "RuPaul - House of Love",
+      "description": "Download/Stream - http://smarturl.it/SupermodelToTheWorld\n\nEnjoy the lyrics. Let us know about corrections in the comments!\n\nLyrics:\n\n[Intro]\nHouse of love\nCome a come, come a come on in, come a come on in\nCome a come, come a come on in\nH.O.U.S.E. of my L",
+      "duration": 212,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ayzIB6t2oUg",
+      "title": "RuPaul - House Of Love (Eric Kupper 12\" Mix)",
+      "description": "(c) Tommy Boy Music 1993",
+      "duration": 371,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=kjeuO5Cz09A",
+      "title": "RuPaul House Of Love (Live 1994, New York)",
+      "description": "From \"Wigstock : The Movie\"\n\n\"Wigstock: The Movie\" is a 1995 documentary film focusing on Wigstock, the annual drag music festival that had been held New York City's East Village through the 1980s and 1990s. The film presents a number of performances from",
+      "duration": 190,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=J4DMuSTiXNk",
+      "title": "Rupaul - House of love / BIG Ninja Choreography",
+      "description": "IP Dance Skool SS\n台北市松山區基隆路一段8號14樓\n\n■報名專線：(02) 3765-3699\n■17Fit 訂課系統：\nhttps://17fit.com/ipdanceskool/songsh...\n■ IP 松山館 粉絲專頁：\nhttps://goo.gl/pmKlqG\n■ IP 松山館 YouTube：\nhttps://goo",
+      "duration": 88,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=um-Tcl3H3Do",
+      "title": "RuPaul - House Of Love (feat. Matt Pop & Ellis Miah)",
+      "description": "Remember Me: Essential Vol. 1 by RuPaul: https://itunes.apple.com/gb/album/remember-me-essential-vol.-1/id1201352014\nReleased February 3, 2017. Tracks Mighty Love and House Of Love produced by Matt Pop. \nhttp://www.rupaul.com",
+      "duration": 92,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=jUaPxdMOjTw",
+      "title": "RuPaul - House of Love",
+      "description": "Download/Stream - http://smarturl.it/SupermodelToTheWorld\n\nEnjoy the lyrics. Let us know about corrections in the comments!\n\nLyrics:\n\n[Intro]\nHouse of love\nCome a come, come a come on in, come a come on in\nCome a come, come a come on in\nH.O.U.S.E. of my L",
+      "duration": 212,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=A0uVtfotC0c",
+      "title": "RuPaul - Supermodel (You Better Work)",
+      "description": "Download/Stream - https://tommyboy.lnk.to/RuPaul_SupermodelID\n \nFollow Our Official Spotify Playlist: https://tommyboy.lnk.to/PlaylistSpotify\n \nListen to More Tommy Boy Classics: https://VA.lnk.to/TommyBoyClassics\n \n************************************\n \n",
+      "duration": 240,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ayzIB6t2oUg",
+      "title": "RuPaul - House Of Love (Eric Kupper 12\" Mix)",
+      "description": "(c) Tommy Boy Music 1993",
+      "duration": 371,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=VanYfs6mhDg",
+      "title": "RuPaul - SuperModel (You Better Work) [Couture Mix] 1992",
+      "description": "\"Supermodel (You Better Work)\" is a 1992 song by the dance music singer and drag queen RuPaul. It was the third single (but first major label single) from his album Supermodel of the World.\n\nThe music video for \"Supermodel (You Better Work)\" was directed ",
+      "duration": 405,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=LSoHkm2Okg0",
+      "title": "RuPaul - House of Love (feat. Matt Pop & Ellis Miah)",
+      "description": "\"House of Love\" from the album \"Remember Me\" available on iTunes\n\nhttps://itunes.apple.com/us/album/remember-me-essential-vol.-1/id1201352014",
+      "duration": 224,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=s-MLQq9G_7w",
+      "title": "RuPaul - House Of Love (7\" Radio Version)",
+      "description": "House (USA, 1992)\n\nル•ポール　ハウス•オブ•ラヴ",
+      "duration": 193,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=4yhjtSlarQQ",
+      "title": "Ru Paul ‎– Supermodel (You Better Work) (Couture Mix) VINYL COLLECTION",
+      "description": "Ru Paul* ‎– Supermodel (You Better Work) / House Of Love\nSello:\nBlanco Y Negro (2) ‎– MX - 373\nFormato:\nVinyl, 12\", 33 ⅓ RPM \nPaís:\nSpain\nFecha:\n1993\nGénero:\nElectronic\nEstilo:\nHouse, Dance-pop #VINYL #DISCOCLUB #THEVINYLCLUB",
+      "duration": 385,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Aw8ZWsIt5g8",
+      "title": "RuPaul - House Of Love (Come On In Re Edit)",
+      "description": "A highlight from RuPaul's early recording career, produced by Eric Kupper. My extended edit of \"House Of Love\" is based on the original 12\" version and dub...\n\nCopyright disclaimer: I do NOT own this music or the images featured in the video. All rights b",
+      "duration": 545,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Cf2PlQl_KrE",
+      "title": "\"House of Love\" performed by RuPaul",
+      "description": "RuPaul came to Las Vegas on November 15, 2008 to perform at Krave Nightclub for thier 4 year anniversary. Thanks RuPaul! You were fierce!!",
+      "duration": 122,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=qGZ_lngGFA4",
+      "title": "House of Love (feat. Matt Pop & Ellis Miah)",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nHouse of Love (feat. Matt Pop & Ellis Miah) · Matt Pop · Ellis Miah · RuPaul\n\nRemember Me: Essential, Vol. 1\n\n℗ 2017 RuCo, Inc.\n\nReleased on: 2017-02-03\n\nMusic Publisher: Say Love Music\nMusic Publisher:",
+      "duration": 224,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic"
+  ],
+  "styles": [
+    "House"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Supermodel (You Better Work) (Couture Mix)",
+      "duration": "6:14"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Supermodel (You Better Work) (Ready To Wear Mix)",
+      "duration": "3:59"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Supermodel (You Better Work) (Alternate Version)",
+      "duration": "6:26"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Supermodel (You Better Work) (La Wanda In Your Face)",
+      "duration": "1:57"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "House Of Love (12\" Version)",
+      "duration": "6:04"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "House Of Love (7\" Radio Version)",
+      "duration": "3:10"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "House Of Love (Dub)",
+      "duration": "5:25"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Erwin Gorostiza",
+      "anv": "",
+      "join": "",
+      "role": "Art Direction",
+      "tracks": "",
+      "id": 1829923,
+      "resource_url": "https://api.discogs.com/artists/1829923"
+    },
+    {
+      "name": "Carole Sylvan",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "B1 to B3",
+      "id": 29362,
+      "resource_url": "https://api.discogs.com/artists/29362"
+    },
+    {
+      "name": "Karen Bernod",
+      "anv": "Karen Berno'd",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "B1 to B3",
+      "id": 85314,
+      "resource_url": "https://api.discogs.com/artists/85314"
+    },
+    {
+      "name": "Lan Yin",
+      "anv": "",
+      "join": "",
+      "role": "Design [Logo & Design]",
+      "tracks": "",
+      "id": 1940513,
+      "resource_url": "https://api.discogs.com/artists/1940513"
+    },
+    {
+      "name": "Fenton Bailey",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 284168,
+      "resource_url": "https://api.discogs.com/artists/284168"
+    },
+    {
+      "name": "Randy Barbato",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 284167,
+      "resource_url": "https://api.discogs.com/artists/284167"
+    },
+    {
+      "name": "La Wanda Page",
+      "anv": "",
+      "join": "",
+      "role": "Guest",
+      "tracks": "",
+      "id": 66171,
+      "resource_url": "https://api.discogs.com/artists/66171"
+    },
+    {
+      "name": "Uptown Horns",
+      "anv": "The Uptown Horns",
+      "join": "",
+      "role": "Horns",
+      "tracks": "B1 to B3",
+      "id": 278198,
+      "resource_url": "https://api.discogs.com/artists/278198"
+    },
+    {
+      "name": "Mark Contratto",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 2303813,
+      "resource_url": "https://api.discogs.com/artists/2303813"
+    },
+    {
+      "name": "Eric Kupper",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 1812,
+      "resource_url": "https://api.discogs.com/artists/1812"
+    },
+    {
+      "name": "Jimmy Harry",
+      "anv": "",
+      "join": "",
+      "role": "Producer [Vocal And Horn Production]",
+      "tracks": "B1 to B3",
+      "id": 80368,
+      "resource_url": "https://api.discogs.com/artists/80368"
+    },
+    {
+      "name": "Jimmy Harry",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 80368,
+      "resource_url": "https://api.discogs.com/artists/80368"
+    },
+    {
+      "name": "Larry Tee",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A1 to A4",
+      "id": 60567,
+      "resource_url": "https://api.discogs.com/artists/60567"
+    },
+    {
+      "name": "RuPaul",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 24188,
+      "resource_url": "https://api.discogs.com/artists/24188"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/NbFGW3BJWy-CeS4LStiqnlfqv6Vf0YiORsDuyFIMBQA/rs:fit/g:sm/q:90/h:474/w:474/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTIx/LTE1OTE3ODQzMjkt/NzgxNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/NbFGW3BJWy-CeS4LStiqnlfqv6Vf0YiORsDuyFIMBQA/rs:fit/g:sm/q:90/h:474/w:474/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTIx/LTE1OTE3ODQzMjkt/NzgxNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/0H41o2nSEw7xrrpyk46nfFo6qK-jqURxM0soK1MRyxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTIx/LTE1OTE3ODQzMjkt/NzgxNy5qcGVn.jpeg",
+      "width": 474,
+      "height": 474
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/9CA4lU3a5ZHyIkI_Rvoo0gD5DRViNwz3DOtNea2i4B4/rs:fit/g:sm/q:90/h:474/w:474/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTIx/LTE1OTE3ODQzMjkt/NTMwMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/9CA4lU3a5ZHyIkI_Rvoo0gD5DRViNwz3DOtNea2i4B4/rs:fit/g:sm/q:90/h:474/w:474/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTIx/LTE1OTE3ODQzMjkt/NTMwMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/e1tTheV-1OEmbvhG5c-HWRJCCBa8XvQ_muACN48ZasI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTIx/LTE1OTE3ODQzMjkt/NTMwMS5qcGVn.jpeg",
+      "width": 474,
+      "height": 474
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/qJt2UlwAEtRFSMNm2WiXNy5CL5pvS5BiPzT1mwtNdvE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTIx/LTEzNjk5NDE1NTgt/MTgxMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/qJt2UlwAEtRFSMNm2WiXNy5CL5pvS5BiPzT1mwtNdvE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTIx/LTEzNjk5NDE1NTgt/MTgxMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/eg2__ZG52zLQCseoCWxcZ9LxU2ptyaB66baY61bqznY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTIx/LTEzNjk5NDE1NTgt/MTgxMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/GYt57wLVDD1KpYvAuBdhJp-KyyNmNsn1PQ_eIEzDZgc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTIx/LTEzNjk5NDE1NjIt/OTM1OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/GYt57wLVDD1KpYvAuBdhJp-KyyNmNsn1PQ_eIEzDZgc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTIx/LTEzNjk5NDE1NjIt/OTM1OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/z1VUcCxODn3F4TBHlQ3d-ywnWO_nEnVFBCgNRc99oJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTIx/LTEzNjk5NDE1NjIt/OTM1OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/0H41o2nSEw7xrrpyk46nfFo6qK-jqURxM0soK1MRyxo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk5NTIx/LTE1OTE3ODQzMjkt/NzgxNy5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

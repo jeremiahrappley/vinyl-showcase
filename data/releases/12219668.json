@@ -1,0 +1,1591 @@
+{
+  "id": 12219668,
+  "status": "Draft",
+  "year": 2017,
+  "resource_url": "https://api.discogs.com/releases/12219668",
+  "uri": "https://www.discogs.com/release/12219668-Dua-Lipa-Dua-Lipa",
+  "artists": [
+    {
+      "name": "Dua Lipa",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 4357593,
+      "resource_url": "https://api.discogs.com/artists/4357593",
+      "thumbnail_url": "https://i.discogs.com/PL96BG_DAKBammFFry8dlfxbtu4YiHQsFPl3WRjaTNM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQzNTc1/OTMtMTc3NTMyNjYz/MC00MjU1LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Dua Lipa",
+  "labels": [
+    {
+      "name": "Warner Bros. Records",
+      "catno": "0190295908874",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1000,
+      "resource_url": "https://api.discogs.com/labels/1000",
+      "thumbnail_url": "https://i.discogs.com/GO-baqlieZvkZypxRJOHC9sgGPzAinoiWBc7_LwuZ10/rs:fit/g:sm/q:90/h:358/w:380/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDAt/MTY0NDg3NDIwMS01/ODI0LmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Dua Lipa Limited",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 950847,
+      "resource_url": "https://api.discogs.com/labels/950847"
+    },
+    {
+      "name": "Dua Lipa Limited",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 950847,
+      "resource_url": "https://api.discogs.com/labels/950847"
+    },
+    {
+      "name": "Warner Music UK Ltd.",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 22328,
+      "resource_url": "https://api.discogs.com/labels/22328",
+      "thumbnail_url": "https://i.discogs.com/nWDwupZCLnkCwVs_ixgEnHIEanasSny8CjbDuDg_ep4/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIyMzI4/LTE1MTkyNDA3NDAt/MTExMS5qcGVn.jpeg"
+    },
+    {
+      "name": "Warner Music UK Ltd.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 22328,
+      "resource_url": "https://api.discogs.com/labels/22328",
+      "thumbnail_url": "https://i.discogs.com/nWDwupZCLnkCwVs_ixgEnHIEanasSny8CjbDuDg_ep4/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIyMzI4/LTE1MTkyNDA3NDAt/MTExMS5qcGVn.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album"
+      ]
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 399,
+    "want": 33,
+    "rating": {
+      "count": 17,
+      "average": 4.41
+    },
+    "submitter": {
+      "username": "cndypaints",
+      "resource_url": "https://api.discogs.com/users/cndypaints"
+    },
+    "contributors": [
+      {
+        "username": "cndypaints",
+        "resource_url": "https://api.discogs.com/users/cndypaints"
+      },
+      {
+        "username": "littleislander",
+        "resource_url": "https://api.discogs.com/users/littleislander"
+      },
+      {
+        "username": "gubarenko",
+        "resource_url": "https://api.discogs.com/users/gubarenko"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Draft"
+  },
+  "format_quantity": 1,
+  "date_added": "2018-07-04T18:02:55-07:00",
+  "date_changed": "2018-07-17T13:18:40-07:00",
+  "num_for_sale": 0,
+  "lowest_price": null,
+  "title": "Dua Lipa",
+  "country": "US",
+  "released": "2017-06-02",
+  "notes": "℗ & © 2017 Dua Lipa Limited under exclusive licence to Warner Music UK Limited.\nTracks A3, A6, B1, B2, B3 ℗ 2016 Warner Music UK Limited\nTrack A4 ℗ 2015 Warner Music UK Limited",
+  "released_formatted": "02 Jun 2017",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "0190295908874"
+    },
+    {
+      "type": "Label Code",
+      "value": "LC14666"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    "Electronic",
+    "Hip Hop",
+    "Pop"
+  ],
+  "styles": [
+    "Synth-pop",
+    "RnB/Swing",
+    "Ballad"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Genesis",
+      "extraartists": [
+        {
+          "name": "Jeff Gunnell",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 4433510,
+          "resource_url": "https://api.discogs.com/artists/4433510"
+        },
+        {
+          "name": "Leroy Clampitt",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 2311499,
+          "resource_url": "https://api.discogs.com/artists/2311499"
+        },
+        {
+          "name": "Andreas Schuller",
+          "anv": "",
+          "join": "",
+          "role": "Keyboards, Percussion",
+          "tracks": "",
+          "id": 3354958,
+          "resource_url": "https://api.discogs.com/artists/3354958"
+        },
+        {
+          "name": "John Davis (4)",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 366507,
+          "resource_url": "https://api.discogs.com/artists/366507"
+        },
+        {
+          "name": "Tim Burns",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 368507,
+          "resource_url": "https://api.discogs.com/artists/368507"
+        },
+        {
+          "name": "Axident",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2455833,
+          "resource_url": "https://api.discogs.com/artists/2455833"
+        },
+        {
+          "name": "Big Taste",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Additional]",
+          "tracks": "",
+          "id": 4716722,
+          "resource_url": "https://api.discogs.com/artists/4716722"
+        },
+        {
+          "name": "Cameron Gower-Poole",
+          "anv": "Cameron Gower Poole",
+          "join": "",
+          "role": "Producer [Vocals, Additional]",
+          "tracks": "",
+          "id": 3603590,
+          "resource_url": "https://api.discogs.com/artists/3603590"
+        },
+        {
+          "name": "Lorna Blackwood",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals, Additional]",
+          "tracks": "",
+          "id": 1772048,
+          "resource_url": "https://api.discogs.com/artists/1772048"
+        },
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        },
+        {
+          "name": "Andreas Schuller",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3354958,
+          "resource_url": "https://api.discogs.com/artists/3354958"
+        },
+        {
+          "name": "Clarence Coffee Jr.",
+          "anv": "Coffee",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2360055,
+          "resource_url": "https://api.discogs.com/artists/2360055"
+        },
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        },
+        {
+          "name": "Sarah Hudson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 764606,
+          "resource_url": "https://api.discogs.com/artists/764606"
+        }
+      ],
+      "duration": "3:27"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Lost In Your Light",
+      "extraartists": [
+        {
+          "name": "Dean Reid",
+          "anv": "",
+          "join": "",
+          "role": "Bass [Synth Bass]",
+          "tracks": "",
+          "id": 705458,
+          "resource_url": "https://api.discogs.com/artists/705458"
+        },
+        {
+          "name": "Miguel (67)",
+          "anv": "",
+          "join": "",
+          "role": "Bass, Featuring",
+          "tracks": "",
+          "id": 3213389,
+          "resource_url": "https://api.discogs.com/artists/3213389"
+        },
+        {
+          "name": "Miguel (67)",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 3213389,
+          "resource_url": "https://api.discogs.com/artists/3213389"
+        },
+        {
+          "name": "Stephen Kozmeniuk",
+          "anv": "Stephen \"Koz\" Kozmeniuk",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 1937157,
+          "resource_url": "https://api.discogs.com/artists/1937157"
+        },
+        {
+          "name": "Mighty Mike",
+          "anv": "",
+          "join": "",
+          "role": "Drums [Live]",
+          "tracks": "",
+          "id": 146109,
+          "resource_url": "https://api.discogs.com/artists/146109"
+        },
+        {
+          "name": "Dean Reid",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar, Keyboards",
+          "tracks": "",
+          "id": 705458,
+          "resource_url": "https://api.discogs.com/artists/705458"
+        },
+        {
+          "name": "Rick Nowels",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar, Keyboards",
+          "tracks": "",
+          "id": 67614,
+          "resource_url": "https://api.discogs.com/artists/67614"
+        },
+        {
+          "name": "Chris Garcia (5)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 2904686,
+          "resource_url": "https://api.discogs.com/artists/2904686"
+        },
+        {
+          "name": "Dean Reid",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 705458,
+          "resource_url": "https://api.discogs.com/artists/705458"
+        },
+        {
+          "name": "Kieron Menzies",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 410860,
+          "resource_url": "https://api.discogs.com/artists/410860"
+        },
+        {
+          "name": "Trevor Yasuda",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 2735866,
+          "resource_url": "https://api.discogs.com/artists/2735866"
+        },
+        {
+          "name": "Jeff Jackson (7)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Mix, Assistant]",
+          "tracks": "",
+          "id": 4311890,
+          "resource_url": "https://api.discogs.com/artists/4311890"
+        },
+        {
+          "name": "Robin Florent",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Mix, Assistant]",
+          "tracks": "",
+          "id": 4864753,
+          "resource_url": "https://api.discogs.com/artists/4864753"
+        },
+        {
+          "name": "Chris Galland",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Mix]",
+          "tracks": "",
+          "id": 1608079,
+          "resource_url": "https://api.discogs.com/artists/1608079"
+        },
+        {
+          "name": "Stephen Kozmeniuk",
+          "anv": "Stephen \"Koz\" Kozmeniuk",
+          "join": "",
+          "role": "Guitar, Synth",
+          "tracks": "",
+          "id": 1937157,
+          "resource_url": "https://api.discogs.com/artists/1937157"
+        },
+        {
+          "name": "Chris Gehringer",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 326440,
+          "resource_url": "https://api.discogs.com/artists/326440"
+        },
+        {
+          "name": "Manny Marroquin",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 67636,
+          "resource_url": "https://api.discogs.com/artists/67636"
+        },
+        {
+          "name": "Dean Reid",
+          "anv": "",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 705458,
+          "resource_url": "https://api.discogs.com/artists/705458"
+        },
+        {
+          "name": "Miguel (67)",
+          "anv": "",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 3213389,
+          "resource_url": "https://api.discogs.com/artists/3213389"
+        },
+        {
+          "name": "Zac Rae",
+          "anv": "",
+          "join": "",
+          "role": "Piano, Synthesizer",
+          "tracks": "",
+          "id": 339639,
+          "resource_url": "https://api.discogs.com/artists/339639"
+        },
+        {
+          "name": "Miguel (67)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3213389,
+          "resource_url": "https://api.discogs.com/artists/3213389"
+        },
+        {
+          "name": "Stephen Kozmeniuk",
+          "anv": "Stephen \"Koz\" Kozmeniuk",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1937157,
+          "resource_url": "https://api.discogs.com/artists/1937157"
+        },
+        {
+          "name": "Lorna Blackwood",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals]",
+          "tracks": "",
+          "id": 1772048,
+          "resource_url": "https://api.discogs.com/artists/1772048"
+        },
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        },
+        {
+          "name": "Miguel (67)",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 3213389,
+          "resource_url": "https://api.discogs.com/artists/3213389"
+        },
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        },
+        {
+          "name": "Miguel (67)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3213389,
+          "resource_url": "https://api.discogs.com/artists/3213389"
+        },
+        {
+          "name": "Rick Nowels",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 67614,
+          "resource_url": "https://api.discogs.com/artists/67614"
+        }
+      ],
+      "duration": "3:24"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Hotter Than Hell",
+      "extraartists": [
+        {
+          "name": "Aadin Church",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 5852477,
+          "resource_url": "https://api.discogs.com/artists/5852477"
+        },
+        {
+          "name": "Talay Riley",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 1689956,
+          "resource_url": "https://api.discogs.com/artists/1689956"
+        },
+        {
+          "name": "Stephen Kozmeniuk",
+          "anv": "Stephen \"Koz\" Kozmeniuk",
+          "join": "",
+          "role": "Drums, Keyboards, Producer",
+          "tracks": "",
+          "id": 1937157,
+          "resource_url": "https://api.discogs.com/artists/1937157"
+        },
+        {
+          "name": "Michael Sonnier",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 5852478,
+          "resource_url": "https://api.discogs.com/artists/5852478"
+        },
+        {
+          "name": "John Hanes",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 210636,
+          "resource_url": "https://api.discogs.com/artists/210636"
+        },
+        {
+          "name": "Jay Reynolds",
+          "anv": "",
+          "join": "",
+          "role": "Keyboards [Additional], Producer [Additional]",
+          "tracks": "",
+          "id": 224437,
+          "resource_url": "https://api.discogs.com/artists/224437"
+        },
+        {
+          "name": "John Davis (4)",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 366507,
+          "resource_url": "https://api.discogs.com/artists/366507"
+        },
+        {
+          "name": "Serban Ghenea",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 105435,
+          "resource_url": "https://api.discogs.com/artists/105435"
+        },
+        {
+          "name": "Tom Neville",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals]",
+          "tracks": "",
+          "id": 15339,
+          "resource_url": "https://api.discogs.com/artists/15339"
+        },
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        },
+        {
+          "name": "Adam M",
+          "anv": "Adam Midgley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 71845,
+          "resource_url": "https://api.discogs.com/artists/71845"
+        },
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        },
+        {
+          "name": "Gerard O'Connell",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1736258,
+          "resource_url": "https://api.discogs.com/artists/1736258"
+        },
+        {
+          "name": "Tommy Baxter",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2277135,
+          "resource_url": "https://api.discogs.com/artists/2277135"
+        }
+      ],
+      "duration": "3:10"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Be The One",
+      "extraartists": [
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        },
+        {
+          "name": "Lucy Taylor (3)",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 2562119,
+          "resource_url": "https://api.discogs.com/artists/2562119"
+        },
+        {
+          "name": "John Hanes",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 210636,
+          "resource_url": "https://api.discogs.com/artists/210636"
+        },
+        {
+          "name": "Jack Tarrant",
+          "anv": "",
+          "join": "",
+          "role": "Guitar, Producer [Vocals]",
+          "tracks": "",
+          "id": 3268612,
+          "resource_url": "https://api.discogs.com/artists/3268612"
+        },
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "Lead Vocals",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        },
+        {
+          "name": "John Davis (4)",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 366507,
+          "resource_url": "https://api.discogs.com/artists/366507"
+        },
+        {
+          "name": "Serban Ghenea",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 105435,
+          "resource_url": "https://api.discogs.com/artists/105435"
+        },
+        {
+          "name": "Digital Farm Animals",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3639070,
+          "resource_url": "https://api.discogs.com/artists/3639070"
+        },
+        {
+          "name": "Digital Farm Animals",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3639070,
+          "resource_url": "https://api.discogs.com/artists/3639070"
+        },
+        {
+          "name": "Jack Tarrant",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3268612,
+          "resource_url": "https://api.discogs.com/artists/3268612"
+        },
+        {
+          "name": "Lucy Taylor (3)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2562119,
+          "resource_url": "https://api.discogs.com/artists/2562119"
+        }
+      ],
+      "duration": "3:25"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "IDGAF",
+      "extraartists": [
+        {
+          "name": "MNEK",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals [Additional]",
+          "tracks": "",
+          "id": 1542273,
+          "resource_url": "https://api.discogs.com/artists/1542273"
+        },
+        {
+          "name": "Todd Clark",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals [Additional]",
+          "tracks": "",
+          "id": 1372085,
+          "resource_url": "https://api.discogs.com/artists/1372085"
+        },
+        {
+          "name": "Stephen Kozmeniuk",
+          "anv": "Stephen \"Koz\" Kozmeniuk",
+          "join": "",
+          "role": "Bass, Drums, Piano, Producer, Synth",
+          "tracks": "",
+          "id": 1937157,
+          "resource_url": "https://api.discogs.com/artists/1937157"
+        },
+        {
+          "name": "Larzz Principato",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer, Guitar",
+          "tracks": "",
+          "id": 4561725,
+          "resource_url": "https://api.discogs.com/artists/4561725"
+        },
+        {
+          "name": "Joel Peters",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 2822985,
+          "resource_url": "https://api.discogs.com/artists/2822985"
+        },
+        {
+          "name": "Jeff Gunnell",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 4433510,
+          "resource_url": "https://api.discogs.com/artists/4433510"
+        },
+        {
+          "name": "John Davis (4)",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 366507,
+          "resource_url": "https://api.discogs.com/artists/366507"
+        },
+        {
+          "name": "Josh Gudwin",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 1321813,
+          "resource_url": "https://api.discogs.com/artists/1321813"
+        },
+        {
+          "name": "Lorna Blackwood",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals]",
+          "tracks": "",
+          "id": 1772048,
+          "resource_url": "https://api.discogs.com/artists/1772048"
+        },
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        },
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        },
+        {
+          "name": "Larzz Principato",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4561725,
+          "resource_url": "https://api.discogs.com/artists/4561725"
+        },
+        {
+          "name": "MNEK",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1542273,
+          "resource_url": "https://api.discogs.com/artists/1542273"
+        },
+        {
+          "name": "Skyler Stonestreet",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3576089,
+          "resource_url": "https://api.discogs.com/artists/3576089"
+        },
+        {
+          "name": "Whiskey Waters",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5466403,
+          "resource_url": "https://api.discogs.com/artists/5466403"
+        }
+      ],
+      "duration": "3:38"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Blow Your Mind (Mwah)",
+      "extraartists": [
+        {
+          "name": "Jon Levine",
+          "anv": "",
+          "join": "",
+          "role": "Bass, Drum Programming, Electric Piano [Rhodes], Engineer, Guitar, Keyboards, Producer",
+          "tracks": "",
+          "id": 454190,
+          "resource_url": "https://api.discogs.com/artists/454190"
+        },
+        {
+          "name": "John Hanes",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 210636,
+          "resource_url": "https://api.discogs.com/artists/210636"
+        },
+        {
+          "name": "Chris Gehringer",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 326440,
+          "resource_url": "https://api.discogs.com/artists/326440"
+        },
+        {
+          "name": "Serban Ghenea",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 105435,
+          "resource_url": "https://api.discogs.com/artists/105435"
+        },
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        },
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        },
+        {
+          "name": "Jon Levine",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 454190,
+          "resource_url": "https://api.discogs.com/artists/454190"
+        },
+        {
+          "name": "Lauren Christy",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 311503,
+          "resource_url": "https://api.discogs.com/artists/311503"
+        }
+      ],
+      "duration": "2:59"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Garden",
+      "extraartists": [
+        {
+          "name": "Greg Wells",
+          "anv": "",
+          "join": "",
+          "role": "Bass, Drums, Engineer, Piano, Synth",
+          "tracks": "",
+          "id": 230625,
+          "resource_url": "https://api.discogs.com/artists/230625"
+        },
+        {
+          "name": "John Davis (4)",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 366507,
+          "resource_url": "https://api.discogs.com/artists/366507"
+        },
+        {
+          "name": "Jay Reynolds",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 224437,
+          "resource_url": "https://api.discogs.com/artists/224437"
+        },
+        {
+          "name": "Greg Wells",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 230625,
+          "resource_url": "https://api.discogs.com/artists/230625"
+        },
+        {
+          "name": "Stephen Kozmeniuk",
+          "anv": "Stephen \"Koz\" Kozmeniuk",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1937157,
+          "resource_url": "https://api.discogs.com/artists/1937157"
+        },
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        },
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        },
+        {
+          "name": "Greg Wells",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 230625,
+          "resource_url": "https://api.discogs.com/artists/230625"
+        },
+        {
+          "name": "Sean Douglas (3)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3483596,
+          "resource_url": "https://api.discogs.com/artists/3483596"
+        }
+      ],
+      "duration": "3:48"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "No Goodbyes",
+      "extraartists": [
+        {
+          "name": "Stephen Kozmeniuk",
+          "anv": "Stephen \"Koz\" Kozmeniuk",
+          "join": "",
+          "role": "Bass, Producer",
+          "tracks": "",
+          "id": 1937157,
+          "resource_url": "https://api.discogs.com/artists/1937157"
+        },
+        {
+          "name": "GRADES",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer, Programmed By, Recorded By [Vocals]",
+          "tracks": "",
+          "id": 3892069,
+          "resource_url": "https://api.discogs.com/artists/3892069"
+        },
+        {
+          "name": "GRADES",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Keyboards",
+          "tracks": "",
+          "id": 3892069,
+          "resource_url": "https://api.discogs.com/artists/3892069"
+        },
+        {
+          "name": "Stephen Kozmeniuk",
+          "anv": "Stephen \"Koz\" Kozmeniuk",
+          "join": "",
+          "role": "Drums, Keyboards",
+          "tracks": "",
+          "id": 1937157,
+          "resource_url": "https://api.discogs.com/artists/1937157"
+        },
+        {
+          "name": "Michael Sonnier",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 5852478,
+          "resource_url": "https://api.discogs.com/artists/5852478"
+        },
+        {
+          "name": "John Davis (4)",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 366507,
+          "resource_url": "https://api.discogs.com/artists/366507"
+        },
+        {
+          "name": "Matty Green (2)",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 673305,
+          "resource_url": "https://api.discogs.com/artists/673305"
+        },
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        },
+        {
+          "name": "Daniel Traynor",
+          "anv": "Dan Traynor",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2796169,
+          "resource_url": "https://api.discogs.com/artists/2796169"
+        },
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        },
+        {
+          "name": "Ilsey Juber",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2292310,
+          "resource_url": "https://api.discogs.com/artists/2292310"
+        },
+        {
+          "name": "Lindy Robbins",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 423885,
+          "resource_url": "https://api.discogs.com/artists/423885"
+        }
+      ],
+      "duration": "3:36"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Thinking 'Bout You",
+      "extraartists": [
+        {
+          "name": "Stephen Kozmeniuk",
+          "anv": "Stephen \"Koz\" Kozmeniuk",
+          "join": "",
+          "role": "Bass, Drums, Producer, Synth",
+          "tracks": "",
+          "id": 1937157,
+          "resource_url": "https://api.discogs.com/artists/1937157"
+        },
+        {
+          "name": "Cameron Gower-Poole",
+          "anv": "Cameron Gower Poole",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 3603590,
+          "resource_url": "https://api.discogs.com/artists/3603590"
+        },
+        {
+          "name": "Olly Thompson",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 5852475,
+          "resource_url": "https://api.discogs.com/artists/5852475"
+        },
+        {
+          "name": "Adam Argyle",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 994438,
+          "resource_url": "https://api.discogs.com/artists/994438"
+        },
+        {
+          "name": "Matty Green (2)",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By, Mixed By",
+          "tracks": "",
+          "id": 673305,
+          "resource_url": "https://api.discogs.com/artists/673305"
+        },
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        },
+        {
+          "name": "Adam Argyle",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 994438,
+          "resource_url": "https://api.discogs.com/artists/994438"
+        },
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        }
+      ],
+      "duration": "2:53"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "New Rules",
+      "extraartists": [
+        {
+          "name": "Ian Kirkpatrick",
+          "anv": "",
+          "join": "",
+          "role": "Engineer, Producer, Producer [Vocals], Programmed By",
+          "tracks": "",
+          "id": 1796807,
+          "resource_url": "https://api.discogs.com/artists/1796807"
+        },
+        {
+          "name": "Chris Gehringer",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 326440,
+          "resource_url": "https://api.discogs.com/artists/326440"
+        },
+        {
+          "name": "Josh Gudwin",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 1321813,
+          "resource_url": "https://api.discogs.com/artists/1321813"
+        },
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        },
+        {
+          "name": "Caroline Ailin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4244632,
+          "resource_url": "https://api.discogs.com/artists/4244632"
+        },
+        {
+          "name": "Emily Warren",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3750649,
+          "resource_url": "https://api.discogs.com/artists/3750649"
+        },
+        {
+          "name": "Ian Kirkpatrick",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1796807,
+          "resource_url": "https://api.discogs.com/artists/1796807"
+        }
+      ],
+      "duration": "3:32"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Begging",
+      "extraartists": [
+        {
+          "name": "Cara Salimando",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 2796176,
+          "resource_url": "https://api.discogs.com/artists/2796176"
+        },
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        },
+        {
+          "name": "Stephen Kozmeniuk",
+          "anv": "Stephen \"Koz\" Kozmeniuk",
+          "join": "",
+          "role": "Bass, Drums [Additional], Producer [Additional], Programmed By [Synth]",
+          "tracks": "",
+          "id": 1937157,
+          "resource_url": "https://api.discogs.com/artists/1937157"
+        },
+        {
+          "name": "Matt Deutchman",
+          "anv": "",
+          "join": "",
+          "role": "Coordinator [Production]",
+          "tracks": "",
+          "id": 5852476,
+          "resource_url": "https://api.discogs.com/artists/5852476"
+        },
+        {
+          "name": "James Flannigan",
+          "anv": "",
+          "join": "",
+          "role": "Drum Programming, Drums, Percussion, Piano, Producer, Synth [Synth Strings]",
+          "tracks": "",
+          "id": 2961690,
+          "resource_url": "https://api.discogs.com/artists/2961690"
+        },
+        {
+          "name": "John Davis (4)",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 366507,
+          "resource_url": "https://api.discogs.com/artists/366507"
+        },
+        {
+          "name": "Josh Gudwin",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 1321813,
+          "resource_url": "https://api.discogs.com/artists/1321813"
+        },
+        {
+          "name": "Suzy Shinn",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals, Additional]",
+          "tracks": "",
+          "id": 3127377,
+          "resource_url": "https://api.discogs.com/artists/3127377"
+        },
+        {
+          "name": "James Flannigan",
+          "anv": "",
+          "join": "",
+          "role": "Programmed By",
+          "tracks": "",
+          "id": 2961690,
+          "resource_url": "https://api.discogs.com/artists/2961690"
+        },
+        {
+          "name": "Stephen Kozmeniuk",
+          "anv": "Stephen \"Koz\" Kozmeniuk",
+          "join": "",
+          "role": "Programmed By",
+          "tracks": "",
+          "id": 1937157,
+          "resource_url": "https://api.discogs.com/artists/1937157"
+        },
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        },
+        {
+          "name": "Cara Salimando",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2796176,
+          "resource_url": "https://api.discogs.com/artists/2796176"
+        },
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        },
+        {
+          "name": "Gabe Simon (2)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5052967,
+          "resource_url": "https://api.discogs.com/artists/5052967"
+        },
+        {
+          "name": "James Flannigan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2961690,
+          "resource_url": "https://api.discogs.com/artists/2961690"
+        }
+      ],
+      "duration": "3:14"
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Homesick",
+      "extraartists": [
+        {
+          "name": "Aleks Von Korff",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 3932770,
+          "resource_url": "https://api.discogs.com/artists/3932770"
+        },
+        {
+          "name": "Bill Rahko",
+          "anv": "",
+          "join": "",
+          "role": "Engineer, Producer",
+          "tracks": "",
+          "id": 3260099,
+          "resource_url": "https://api.discogs.com/artists/3260099"
+        },
+        {
+          "name": "John Davis (4)",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 366507,
+          "resource_url": "https://api.discogs.com/artists/366507"
+        },
+        {
+          "name": "Jordan Young",
+          "anv": "Jordan \"DJ Swivel\" Young",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 963011,
+          "resource_url": "https://api.discogs.com/artists/963011"
+        },
+        {
+          "name": "Chris Martin",
+          "anv": "",
+          "join": "",
+          "role": "Piano, Vocals [Additional]",
+          "tracks": "",
+          "id": 42610,
+          "resource_url": "https://api.discogs.com/artists/42610"
+        },
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        },
+        {
+          "name": "Chris Martin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 42610,
+          "resource_url": "https://api.discogs.com/artists/42610"
+        },
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        }
+      ],
+      "duration": "3:50"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/DbYNgHrJThTbU0Lm6l2SAn2q8IJztVMdFuRkZhYatqg/rs:fit/g:sm/q:90/h:220/w:220/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjE5/NjY4LTE1MzA3NTI4/NTQtMzYzMC5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/DbYNgHrJThTbU0Lm6l2SAn2q8IJztVMdFuRkZhYatqg/rs:fit/g:sm/q:90/h:220/w:220/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjE5/NjY4LTE1MzA3NTI4/NTQtMzYzMC5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/byVNSPIoFU2zD0b4GBrVb6FfMArgJ963-JJsTlOirsg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjE5/NjY4LTE1MzA3NTI4/NTQtMzYzMC5wbmc.jpeg",
+      "width": 220,
+      "height": 220
+    }
+  ],
+  "thumb": "https://i.discogs.com/byVNSPIoFU2zD0b4GBrVb6FfMArgJ963-JJsTlOirsg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjE5/NjY4LTE1MzA3NTI4/NTQtMzYzMC5wbmc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

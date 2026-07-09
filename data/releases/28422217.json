@@ -1,0 +1,795 @@
+{
+  "id": 28422217,
+  "status": "Accepted",
+  "year": 2023,
+  "resource_url": "https://api.discogs.com/releases/28422217",
+  "uri": "https://www.discogs.com/release/28422217-Miley-Cyrus-Bangerz",
+  "artists": [
+    {
+      "name": "Miley Cyrus",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 676432,
+      "resource_url": "https://api.discogs.com/artists/676432",
+      "thumbnail_url": "https://i.discogs.com/GYN5C-C_AUUEbySInzMTahicQh6vrEaVJChxjIp37eU/rs:fit/g:sm/q:90/h:600/w:405/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY3NjQz/Mi0xNzc3NDEwNjg1/LTQ1MDQuanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Miley Cyrus",
+  "labels": [
+    {
+      "name": "RCA",
+      "catno": "19658764381",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 895,
+      "resource_url": "https://api.discogs.com/labels/895",
+      "thumbnail_url": "https://i.discogs.com/q-zL2IXAAZL18V9Ova8MTy7NXCoGMloDEKM1yaHpays/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg5NS0x/NzY4MDgxMjYxLTMw/NDIuanBlZw.jpeg"
+    },
+    {
+      "name": "Legacy",
+      "catno": "19658764381",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 15491,
+      "resource_url": "https://api.discogs.com/labels/15491",
+      "thumbnail_url": "https://i.discogs.com/jk2im_GXsDlf_1qNdX0KOoZUX6ivAIvgJH0TEBVW7ck/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1NDkx/LTE0OTg4MzQ3MDgt/NzQwOS5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "GZ Media",
+      "catno": "263927E",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    },
+    {
+      "name": "Memphis Record Pressing",
+      "catno": "MRP4179",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 833505,
+      "resource_url": "https://api.discogs.com/labels/833505",
+      "thumbnail_url": "https://i.discogs.com/gScAekIZLcU8IXU0jHeomyKqbZCh5q_xSsYTWDC2k4A/rs:fit/g:sm/q:90/h:550/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgzMzUw/NS0xNDY0NDU1NjQ1/LTg5MzIuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 2590,
+    "want": 280,
+    "rating": {
+      "count": 137,
+      "average": 4.67
+    },
+    "submitter": {
+      "username": "ripyouwhores",
+      "resource_url": "https://api.discogs.com/users/ripyouwhores"
+    },
+    "contributors": [
+      {
+        "username": "ripyouwhores",
+        "resource_url": "https://api.discogs.com/users/ripyouwhores"
+      },
+      {
+        "username": "HoliestKaty",
+        "resource_url": "https://api.discogs.com/users/HoliestKaty"
+      },
+      {
+        "username": "leonardoaraujo",
+        "resource_url": "https://api.discogs.com/users/leonardoaraujo"
+      },
+      {
+        "username": ".SLCOOLJ.",
+        "resource_url": "https://api.discogs.com/users/.SLCOOLJ."
+      },
+      {
+        "username": "WolfXCIX",
+        "resource_url": "https://api.discogs.com/users/WolfXCIX"
+      },
+      {
+        "username": "PonyHorse51",
+        "resource_url": "https://api.discogs.com/users/PonyHorse51"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2023-09-28T02:42:07-07:00",
+  "date_changed": "2023-10-03T15:49:14-07:00",
+  "num_for_sale": 43,
+  "lowest_price": 13.97,
+  "master_id": 605084,
+  "master_url": "https://api.discogs.com/masters/605084",
+  "title": "Bangerz",
+  "country": "US",
+  "released": "2023-09-29",
+  "notes": "Standard black pressing\n\n10th anniversary edition with updated packaging featuring never before seen photos and the bonus track \"23\" with Mike WiLL Made-It. ",
+  "released_formatted": "29 Sep 2023",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "1 96587 64381 2",
+      "description": "Text"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MRP4179 / 19658764381-A 263927E1/A # 19",
+      "description": "Side A runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MRP4179 / 19658764381-B 263927E2/A # 19",
+      "description": "Side B runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MRP4179 / 19658764381-C 263927E3/A #10",
+      "description": "Side C runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MRP4179 / 19658764381-D 263927E4/A #10",
+      "description": "Side D runout"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=W1tzURKYFNs",
+      "title": "Miley Cyrus - Adore You (Official Video)",
+      "description": "Miley’s New Album Plastic Hearts is Available Now: https://mileyl.ink/PlasticHearts                           \n\nMusic video by Miley Cyrus performing Adore You (C) 2013 RCA Records, a division of Sony Music Entertainment",
+      "duration": 278,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=LrUvu1mlWco",
+      "title": "Miley Cyrus - We Can't Stop (Official Video)",
+      "description": "Official Video for “We Can't Stop” by Miley Cyrus\nListen to Miley Cyrus: https://Miley.lnk.to/listenYD\nSubscribe to the official Miley Cyrus YouTube Channel: https://Miley.lnk.to/subscribeYD\n\nWatch more of Miley Cyrus music videos: https://Miley.lnk.to/li",
+      "duration": 213,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=bxLs_7G3djo",
+      "title": "SMS (Bangerz)",
+      "description": "Provided to YouTube by RCA Records Label\n\nSMS (Bangerz) · Miley Cyrus · Britney Spears\n\nBangerz (Deluxe Version)\n\n℗ 2013 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2013-10-04\n\nAssociated Performer: Miley Cyrus feat. Britney Spears\nC",
+      "duration": 170,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=YmSOxfATWWQ",
+      "title": "4x4",
+      "description": "Provided to YouTube by RCA Records Label\n\n4x4 · Miley Cyrus · Nelly\n\nBangerz (Deluxe Version)\n\n℗ 2013 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2013-10-04\n\nAssociated Performer: Miley Cyrus feat. Nelly\nComposer, Lyricist, Producer:",
+      "duration": 192,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=OwN_mtT1bMM",
+      "title": "My Darlin'",
+      "description": "Provided to YouTube by RCA Records Label\n\nMy Darlin' · Miley Cyrus · Future\n\nBangerz (Deluxe Version)\n\n℗ 2013 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2013-10-04\n\nAssociated Performer: Miley Cyrus feat. Future\nComposer, Lyricist: ",
+      "duration": 244,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=My2FRPA3Gf8",
+      "title": "Miley Cyrus - Wrecking Ball (Official Video)",
+      "description": "Miley Cyrus' official music video for 'Wrecking Ball'. Click to listen to Miley Cyrus on Spotify: http://smarturl.it/MCSpot?IQid=MCWB\n\nAs featured on Bangerz. Click to buy the track or album via iTunes: http://smarturl.it/MCBAiTunes?IQid=MCWB\nGoogle Play:",
+      "duration": 222,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=iDQ88a_2sA8",
+      "title": "Love Money Party",
+      "description": "Provided to YouTube by RCA Records Label\n\nLove Money Party · Miley Cyrus · Big Sean\n\nBangerz (Deluxe Version)\n\n℗ 2013 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2013-10-04\n\nAssociated Performer: Miley Cyrus feat. Big Sean\nComposer, ",
+      "duration": 220,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=29XVikknSps",
+      "title": "#GETITRIGHT",
+      "description": "Provided to YouTube by RCA Records Label\n\n#GETITRIGHT · Miley Cyrus\n\nBangerz (Deluxe Version)\n\n℗ 2013 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2013-10-04\n\nComposer, Lyricist, Producer: Pharrell Williams\nGuitar, Whistles: Chad Hugo",
+      "duration": 265,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=pdCCFjiFXOM",
+      "title": "Drive",
+      "description": "Provided to YouTube by RCA Records Label\n\nDrive · Miley Cyrus\n\nBangerz (Deluxe Version)\n\n℗ 2013 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2013-10-04\n\nComposer, Lyricist: Mike L. Williams II\nProducer: Mike WiLL Made-It\nComposer, Lyr",
+      "duration": 256,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=DRQEq1dbXl8",
+      "title": "FU",
+      "description": "Provided to YouTube by RCA Records Label\n\nFU · Miley Cyrus · French Montana\n\nBangerz (Deluxe Version)\n\n℗ 2013 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2013-10-04\n\nAssociated Performer: Miley Cyrus feat. French Montana\nAll Instrume",
+      "duration": 230,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=jtE6Dlpwh3c",
+      "title": "Do My Thang",
+      "description": "Provided to YouTube by RCA Records Label\n\nDo My Thang · Miley Cyrus\n\nBangerz (Deluxe Version)\n\n℗ 2013 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2013-10-04\n\nProducer: Mike McHenry\nProducer: Kyle \"Micky Park\" Edwards\nComposer, Lyrici",
+      "duration": 226,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KP2Z9i8yUhY",
+      "title": "Maybe You're Right",
+      "description": "Provided to YouTube by RCA Records Label\n\nMaybe You're Right · Miley Cyrus\n\nBangerz (Deluxe Version)\n\n℗ 2013 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2013-10-04\n\nComposer, Lyricist: Mike L. Williams II\nProducer: Mike WiLL Made-It\n",
+      "duration": 214,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=00sgRyZxmoc",
+      "title": "Someone Else",
+      "description": "Provided to YouTube by RCA Records Label\n\nSomeone Else · Miley Cyrus\n\nBangerz (Deluxe Version)\n\n℗ 2013 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2013-10-04\n\nComposer, Lyricist: Mike L. Williams II\nProducer: Mike WiLL Made-It\nCompos",
+      "duration": 289,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=advVRRwoQMU",
+      "title": "Rooting for My Baby",
+      "description": "Provided to YouTube by RCA Records Label\n\nRooting for My Baby · Miley Cyrus\n\nBangerz (Deluxe Version)\n\n℗ 2013 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2013-10-04\n\nComposer, Lyricist, Producer: Pharrell Williams\nGuitar: Cris Cab\nEd",
+      "duration": 201,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=TVfwqEqpGxo",
+      "title": "On My Own",
+      "description": "Provided to YouTube by RCA Records Label\n\nOn My Own · Miley Cyrus\n\nBangerz (Deluxe Version)\n\n℗ 2013 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2013-10-04\n\nComposer, Lyricist, Producer: Pharrell Williams\nArranger, Editor: Andrew Cole",
+      "duration": 233,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=i3z-MvIxeIo",
+      "title": "Hands in the Air",
+      "description": "Provided to YouTube by RCA Records Label\n\nHands in the Air · Miley Cyrus · Ludacris\n\nBangerz (Deluxe Version)\n\n℗ 2013 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2013-10-04\n\nAssociated Performer: Miley Cyrus feat. Ludacris\nComposer, ",
+      "duration": 203,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=-YICuUtkjlg",
+      "title": "Miley Cyrus - Wrecking Ball (Director's Cut)",
+      "description": "Download the album \"\"Bangerz\"\" on iTunes: http://smarturl.it/bangerz?Iqid=yt  Music video by Miley Cyrus performing Wrecking Ball (Director’s Cut). (C) 2013 RCA Records, a division of Sony Music Entertainment\n\nFollow Miley Cyrus\nWebsite: https://mileycyru",
+      "duration": 236,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KzKLd9p4x3w",
+      "title": "Miley Cyrus - We Can’t Stop (Director’s Cut)",
+      "description": "Download the album \"Bangerz\" on iTunes: http://smarturl.it/bangerz?Iqid=yt\n\nMusic video by Miley Cyrus performing We Can’t Stop (Director’s Cut). (C) 2013 RCA Records, a division of Sony Music Entertainment",
+      "duration": 232,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Hip Hop",
+    "Pop"
+  ],
+  "styles": [],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        }
+      ],
+      "title": "Adore You",
+      "duration": "4:38"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        }
+      ],
+      "title": "We Can't Stop",
+      "duration": "3:51"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        }
+      ],
+      "title": "SMS (Bangerz)",
+      "extraartists": [
+        {
+          "name": "Britney Spears",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 15687,
+          "resource_url": "https://api.discogs.com/artists/15687"
+        }
+      ],
+      "duration": "2:49"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        }
+      ],
+      "title": "4x4",
+      "extraartists": [
+        {
+          "name": "Nelly",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 51368,
+          "resource_url": "https://api.discogs.com/artists/51368"
+        }
+      ],
+      "duration": "3:11"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        }
+      ],
+      "title": "My Darlin'",
+      "extraartists": [
+        {
+          "name": "Future (4)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 221673,
+          "resource_url": "https://api.discogs.com/artists/221673"
+        }
+      ],
+      "duration": "4:03"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        }
+      ],
+      "title": "Wrecking Ball",
+      "duration": "3:41"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        }
+      ],
+      "title": "Love Money Party",
+      "extraartists": [
+        {
+          "name": "Big Sean",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1201210,
+          "resource_url": "https://api.discogs.com/artists/1201210"
+        }
+      ],
+      "duration": "3:39"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        }
+      ],
+      "title": "#GETITRIGHT",
+      "duration": "4:24"
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        }
+      ],
+      "title": "Drive",
+      "duration": "4:15"
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        }
+      ],
+      "title": "FU",
+      "extraartists": [
+        {
+          "name": "French Montana",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1527592,
+          "resource_url": "https://api.discogs.com/artists/1527592"
+        }
+      ],
+      "duration": "3:51"
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        }
+      ],
+      "title": "Do My Thang",
+      "duration": "3:45"
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        }
+      ],
+      "title": "Maybe You're Right",
+      "duration": "3:33"
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        }
+      ],
+      "title": "Someone Else",
+      "duration": "4:48"
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        }
+      ],
+      "title": "Rooting For My Baby",
+      "duration": "3:20"
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        }
+      ],
+      "title": "On My Own",
+      "duration": "3:52"
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        }
+      ],
+      "title": "Hands In The Air",
+      "extraartists": [
+        {
+          "name": "Ludacris",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 36100,
+          "resource_url": "https://api.discogs.com/artists/36100"
+        }
+      ],
+      "duration": "3:22"
+    },
+    {
+      "position": "",
+      "type_": "heading",
+      "title": "Bonus Track",
+      "duration": ""
+    },
+    {
+      "position": "D5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Mike WiLL Made It",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3269862,
+          "resource_url": "https://api.discogs.com/artists/3269862"
+        }
+      ],
+      "title": "23",
+      "extraartists": [
+        {
+          "name": "Juicy J",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 376312,
+          "resource_url": "https://api.discogs.com/artists/376312"
+        },
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 614963,
+          "resource_url": "https://api.discogs.com/artists/614963"
+        }
+      ],
+      "duration": "4:12"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/sKpucvT4qn9GUFbeW94fhR5kS9Ne-PsvdwTDe8oI_98/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MDYtNjkzNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/sKpucvT4qn9GUFbeW94fhR5kS9Ne-PsvdwTDe8oI_98/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MDYtNjkzNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/6zixmz5uSFPNY2dvPkZXC00_9ZKmJdftMNW321RiXKk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MDYtNjkzNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/1M_qFkBA85pMUHe9j2vFnrFBMK8RpW7e78prASLD-E0/rs:fit/g:sm/q:90/h:600/w:572/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MDYtNjk5My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/1M_qFkBA85pMUHe9j2vFnrFBMK8RpW7e78prASLD-E0/rs:fit/g:sm/q:90/h:600/w:572/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MDYtNjk5My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/OArqFhTyHkE3r2JttMIKvBO-2F11zRmI1PgR5Z2CQqc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MDYtNjk5My5qcGVn.jpeg",
+      "width": 572,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/mhduMNAsDgtoF9AkORJQxN5OggWwkCNvaovhZu515kw/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MTYtMjI0Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/mhduMNAsDgtoF9AkORJQxN5OggWwkCNvaovhZu515kw/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MTYtMjI0Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/qCf_xtuM1P6bA5ihfb6-LmOjQY66PpXjfHIiunCBvD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MTYtMjI0Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 591
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/L4AfXe-y1ASCAqd8kAIIWRAUqDg-ORXewreRYl2Drr0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MTctODQwNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/L4AfXe-y1ASCAqd8kAIIWRAUqDg-ORXewreRYl2Drr0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MTctODQwNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/jrIz0pAFs4OxuIerI9GoRvwpg1edLhU0k-wV2eHKz14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MTctODQwNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/5oxv_wdC7t266GPn3WPMN5Tp3YqR4jRXYlHVe1gakBk/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MTctNzA2NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/5oxv_wdC7t266GPn3WPMN5Tp3YqR4jRXYlHVe1gakBk/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MTctNzA2NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Q5IRxsIIZ_tmFonSIleT1wPsZLViRd-JN1eBDR2vBOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MTctNzA2NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 593
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/EPJO8n83r5yZKE5rV5SuyfufYkhwAOB66dNLUGD1sNI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MTctMjAwMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/EPJO8n83r5yZKE5rV5SuyfufYkhwAOB66dNLUGD1sNI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MTctMjAwMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/eDpYGar0MKIGKazqZCKL7LVY_f9EOhC6sPykI9gpb_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MTctMjAwMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/3WNedZjzt7vfID0Anq5OCdCzPEivWdFayVHacV03xa0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MjktOTIyMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/3WNedZjzt7vfID0Anq5OCdCzPEivWdFayVHacV03xa0/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MjktOTIyMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/LZJyylXoCw6ZVjhdebc8QM8Q36Rg-1G8SAP_zB7YhBE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MjktOTIyMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/T6SI_wOpvwnIWNtCn5Az2QGnhxB-Q2mMjkhI1duWUfY/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MzAtNjcyOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/T6SI_wOpvwnIWNtCn5Az2QGnhxB-Q2mMjkhI1duWUfY/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MzAtNjcyOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/2Eo8mqxEUrWDw2udG4oYy2YZeG-OKI--xNParFio7ps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MzAtNjcyOS5qcGVn.jpeg",
+      "width": 600,
+      "height": 595
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/jM1tTZfJmMxmDryn4vVi-Rrk0prDpy-orZSg5xJMfZo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MjktODg4Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/jM1tTZfJmMxmDryn4vVi-Rrk0prDpy-orZSg5xJMfZo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MjktODg4Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/NAerSqTtHB3OUojGi83443XO_PaMEpZklB-P13_0kTI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MjktODg4Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/T8C5xstVUwzAvLKcmozkkAUxfR0WY_GqKjwOnzA2DRg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MzAtNDA5MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/T8C5xstVUwzAvLKcmozkkAUxfR0WY_GqKjwOnzA2DRg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MzAtNDA5MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/KjJYlKFuElq-KXUwjgDhTUjlgvutjdCOKeRWp2MweFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MzAtNDA5MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/3f9uO_yiawmSNXiVG3C-beMqJFpUrnob67iHMwnrRYg/rs:fit/g:sm/q:90/h:469/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MzYtNjMzNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/3f9uO_yiawmSNXiVG3C-beMqJFpUrnob67iHMwnrRYg/rs:fit/g:sm/q:90/h:469/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MzYtNjMzNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/yzbHdIBQ32N0J1WYVBFz_xBKGbCixpIWTHYwyMAatmw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MzYtNjMzNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 469
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ZalMlUkkRtj6NCCUWtDjSDJMAyyDGWlOEisT3BfuD9w/rs:fit/g:sm/q:90/h:308/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI2/NTQtNDk0MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ZalMlUkkRtj6NCCUWtDjSDJMAyyDGWlOEisT3BfuD9w/rs:fit/g:sm/q:90/h:308/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI2/NTQtNDk0MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/EjWFIL4pTWC17Sa6MdZh-RrUmIWFkJI5SjJc-p0mh9o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI2/NTQtNDk0MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 308
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/KYzdMylY9zQTCYsTd51P-MfiZk7xEcM-JdjelX6Wwcg/rs:fit/g:sm/q:90/h:163/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI3/MDctOTU2Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/KYzdMylY9zQTCYsTd51P-MfiZk7xEcM-JdjelX6Wwcg/rs:fit/g:sm/q:90/h:163/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI3/MDctOTU2Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/cqh6Z31RLgRuFhwV99AOr9N0BLLvXeztywTVGcHtDy8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI3/MDctOTU2Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 163
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/x-RJiSuWblrphApb8izUpoORgp4c26RiS6hpuKAKNVg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/NDItMTIwNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/x-RJiSuWblrphApb8izUpoORgp4c26RiS6hpuKAKNVg/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/NDItMTIwNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Ggkz0bibr2uGDjWmbfrIeXU7-fETDbsrRUR_HV_eiqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/NDItMTIwNy5qcGVn.jpeg",
+      "width": 599,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/6zixmz5uSFPNY2dvPkZXC00_9ZKmJdftMNW321RiXKk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NDIy/MjE3LTE2OTYwOTI1/MDYtNjkzNC5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

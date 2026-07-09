@@ -1,0 +1,615 @@
+{
+  "id": 28085317,
+  "status": "Accepted",
+  "year": 2023,
+  "resource_url": "https://api.discogs.com/releases/28085317",
+  "uri": "https://www.discogs.com/release/28085317-Shania-Twain-Come-On-Over-25th-Anniversary-Diamond-Edition",
+  "artists": [
+    {
+      "name": "Shania Twain",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 130060,
+      "resource_url": "https://api.discogs.com/artists/130060",
+      "thumbnail_url": "https://i.discogs.com/ajKtsmiLStt1nH6R0bgAFnvzYCJLkmmofoC3cpee6Bg/rs:fit/g:sm/q:90/h:552/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzMDA2/MC0xNDczMTExNjk5/LTY4OTEuanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Shania Twain",
+  "labels": [
+    {
+      "name": "Mercury Nashville",
+      "catno": "B0037898-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 115661,
+      "resource_url": "https://api.discogs.com/labels/115661",
+      "thumbnail_url": "https://i.discogs.com/J1azRBBJVMJ_1yLyLNHDrzqVI9mSJGaPyTWuNC7b_eI/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExNTY2/MS0xMzAwODg5Mzg4/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Mercury Nashville",
+      "catno": "B0037893-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 115661,
+      "resource_url": "https://api.discogs.com/labels/115661",
+      "thumbnail_url": "https://i.discogs.com/J1azRBBJVMJ_1yLyLNHDrzqVI9mSJGaPyTWuNC7b_eI/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExNTY2/MS0xMzAwODg5Mzg4/LmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Walmart",
+      "catno": "",
+      "entity_type": "42",
+      "entity_type_name": "Exclusive Retailer",
+      "id": 818363,
+      "resource_url": "https://api.discogs.com/labels/818363",
+      "thumbnail_url": "https://i.discogs.com/qyqHlc-iyWL5AF3xvjQtgEOgBrP3bxs2_ZljcGz2wxI/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgxODM2/My0xNzQxNDU1Mzk2/LTM5NDEucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue",
+        "Remastered"
+      ],
+      "text": "180g, Red"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 768,
+    "want": 260,
+    "rating": {
+      "count": 45,
+      "average": 4.62
+    },
+    "submitter": {
+      "username": "ryanisbttrthanu",
+      "resource_url": "https://api.discogs.com/users/ryanisbttrthanu"
+    },
+    "contributors": [
+      {
+        "username": "ryanisbttrthanu",
+        "resource_url": "https://api.discogs.com/users/ryanisbttrthanu"
+      },
+      {
+        "username": "kai81",
+        "resource_url": "https://api.discogs.com/users/kai81"
+      },
+      {
+        "username": "rvdbrugg",
+        "resource_url": "https://api.discogs.com/users/rvdbrugg"
+      },
+      {
+        "username": "XiangDongdong",
+        "resource_url": "https://api.discogs.com/users/XiangDongdong"
+      },
+      {
+        "username": "PokemonBlueVersion",
+        "resource_url": "https://api.discogs.com/users/PokemonBlueVersion"
+      },
+      {
+        "username": "Xmipod",
+        "resource_url": "https://api.discogs.com/users/Xmipod"
+      },
+      {
+        "username": "joeybowie1980",
+        "resource_url": "https://api.discogs.com/users/joeybowie1980"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2023-08-26T11:13:34-07:00",
+  "date_changed": "2023-10-03T17:26:39-07:00",
+  "num_for_sale": 11,
+  "lowest_price": 42.48,
+  "master_id": 132556,
+  "master_url": "https://api.discogs.com/masters/132556",
+  "title": "Come On Over (25th Anniversary Diamond Edition)",
+  "country": "US",
+  "released": "2023-08-25",
+  "notes": "Walmart exclusive on two 180-gram solid Red vinyl discs, housed in a gatefold cover sleeve.\n\nHype sticker reads:\n\"25th Anniversary Diamond Edition\nThe top-selling country album and highest-sold female album of all time!\nRemastered from the original analog tapes for the first time!\nPressed on 2 x 180-gram red vinyl!\nB0037898-01\"\n",
+  "released_formatted": "25 Aug 2023",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "602455654755"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "10-94722 / B003789301-A 266085E1/B",
+      "description": "Runout, Side A - Laser Stamped"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "10-94722 / B003789301-B 266085E2/D",
+      "description": "Runout, Side B - Laser Stamped"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "10-94722 / B003789301-C 266085E3/A",
+      "description": "Runout, Side C - Laser Stamped"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "10-94722 / B003789301-D 266085E4/A",
+      "description": "Runout, Side D - Laser Stamped"
+    },
+    {
+      "type": "Other",
+      "value": "MADE IN CANADA 010801212",
+      "description": "Dot Matrix stamp on shrinkwrap"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=ZJL4UGSbeFg",
+      "title": "Shania Twain - Man! I Feel Like A Woman (Official Music Video)",
+      "description": "The 25th anniversary The Woman In Me: Diamond Edition is out October 2nd, get your copy: https://shaniatwain.lnk.to/TheWomanInMeDiamond\n\nWatch the official music video for \"Man! I Feel Like A Woman\" performed by Shania Twain\n\nMusic video by Shania Twain p",
+      "duration": 237,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Us3rfFg2JXI",
+      "title": "Shania Twain - I'm Holdin' On To Love (To Save My Life) (Audio)",
+      "description": "Official Audio for I’m Holdin’ on to Love (to Save My Life) performed by Shania Twain.\nFollow Shania Twain:\n\nWebsite: http://shaniatwain.com\nFacebook: https://facebook.com/ShaniaTwain\nInstagram: http://instagram.com/ShaniaTwain\nTikTok: https://tiktok.com/",
+      "duration": 207,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=0FxygSMDZMk",
+      "title": "Shania Twain - Love Gets Me Every Time (Official Music Video)",
+      "description": "Tickets to my Let’s Go! Vegas Residency are on sale now! Dates through June 2020 https://www.shaniatwain.com/vegas   \n\nMusic video by Shania Twain performing Love Gets Me Every Time. (C) 1997 Mercury Records, a Division of UMG Recordings, Inc.\n\nLyrics: ",
+      "duration": 217,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=C7iplInGW8U",
+      "title": "Shania Twain - Don't Be Stupid (You Know I Love You) (Audio)",
+      "description": "Official Audio for Don’t Be Stupid (You Know I Love You) performed by Shania Twain.\nFollow Shania Twain:\n\nWebsite: http://shaniatwain.com\nFacebook: https://facebook.com/ShaniaTwain\nInstagram: http://instagram.com/ShaniaTwain\nTikTok: https://tiktok.com/@sh",
+      "duration": 215,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=a-Lp2uC_1lg",
+      "title": "Shania Twain - From This Moment On (Official Music Video)",
+      "description": "Tickets to my Let’s Go! Vegas Residency are on sale now! Dates through December 2020 https://www.shaniatwain.com/vegas \n\nWatch the official music video for \"From This Moment On\" performed by Shania Twain\nMusic video by Shania Twain performing From This ",
+      "duration": 237,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=VK_biRGXVms",
+      "title": "Shania Twain - Come On Over (Audio)",
+      "description": "Official Audio for Come On Over performed by Shania Twain.\nFollow Shania Twain:\n\nWebsite: http://shaniatwain.com\nFacebook: https://facebook.com/ShaniaTwain\nInstagram: http://instagram.com/ShaniaTwain\nTikTok: https://tiktok.com/@shaniatwain\nTwitter: https:",
+      "duration": 174,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=gH7VoJJh84k",
+      "title": "Shania Twain - When (Official Music Video)",
+      "description": "Tickets to my Let’s Go! Vegas Residency are on sale now! Dates through December 2020 https://www.shaniatwain.com/vegas   \n\nMusic video by Shania Twain performing When. (C) 1998 Mercury Records, a Division of UMG Recordings, Inc.\n\nLyrics: \nIf elephants c",
+      "duration": 224,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=xCr4LINrRDo",
+      "title": "Shania Twain - Whatever You Do! Don't! (Audio)",
+      "description": "Official Audio for Whatever You Do! Don’t! performed by Shania Twain.\nFollow Shania Twain:\n\nWebsite: http://shaniatwain.com\nFacebook: https://facebook.com/ShaniaTwain\nInstagram: http://instagram.com/ShaniaTwain\nTikTok: https://tiktok.com/@shaniatwain\nTwit",
+      "duration": 229,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=kwvcvDlj7_s",
+      "title": "Shania Twain - If You Wanna Touch Her, Ask! (Audio)",
+      "description": "Official Audio for If You Wanna Touch Her, Ask! performed by Shania Twain.\nFollow Shania Twain:\n\nWebsite: http://shaniatwain.com\nFacebook: https://facebook.com/ShaniaTwain\nInstagram: http://instagram.com/ShaniaTwain\nTikTok: https://tiktok.com/@shaniatwain",
+      "duration": 244,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KNZH-emehxA",
+      "title": "Shania Twain - You’re Still The One (Official Music Video)",
+      "description": "The 25th anniversary The Woman In Me: Diamond Edition is out October 2nd, get your copy: https://shaniatwain.lnk.to/TheWomanInMeDiamond\n\nWatch the official music video for \"You're Still The One\" performed by Shania Twain\n\nMusic video by Shania Twain perfo",
+      "duration": 202,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=v03geslz0sY",
+      "title": "Shania Twain - Honey, I'm Home (Audio)",
+      "description": "Official Audio for Honey, I’m Home performed by Shania Twain.\nFollow Shania Twain:\n\nWebsite: http://shaniatwain.com\nFacebook: https://facebook.com/ShaniaTwain\nInstagram: http://instagram.com/ShaniaTwain\nTikTok: https://tiktok.com/@shaniatwain\nTwitter: htt",
+      "duration": 215,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=mqFLXayD6e8",
+      "title": "Shania Twain - That Don't Impress Me Much (Official Music Video)",
+      "description": "The 25th anniversary The Woman In Me: Diamond Edition is out October 2nd, get your copy: https://shaniatwain.lnk.to/TheWomanInMeDiamond\n\nWatch the official music video for \"That Don’t Impress Me Much\" performed by Shania Twain\n\nMusic video by Shania Twa",
+      "duration": 227,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=QBlefx0pz5g",
+      "title": "Shania Twain - Black Eyes, Blue Tears (Audio)",
+      "description": "Official Audio for Black Eyes, Blue Tears performed by Shania Twain.\nFollow Shania Twain:\n\nWebsite: http://shaniatwain.com\nFacebook: https://facebook.com/ShaniaTwain\nInstagram: http://instagram.com/ShaniaTwain\nTikTok: https://tiktok.com/@shaniatwain\nTwitt",
+      "duration": 220,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=StdKJFPcDZg",
+      "title": "Shania Twain - I Won't Leave You Lonely (Audio)",
+      "description": "Official Audio for I Won’t Leave You Lonely performed by Shania Twain.\nFollow Shania Twain:\n\nWebsite: http://shaniatwain.com\nFacebook: https://facebook.com/ShaniaTwain\nInstagram: http://instagram.com/ShaniaTwain\nTikTok: https://tiktok.com/@shaniatwain\nTwi",
+      "duration": 253,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ddI1_JUJjaI",
+      "title": "Shania Twain - Rock This Country! (Audio)",
+      "description": "Official Audio for Rock This Country! performed by Shania Twain.\nFollow Shania Twain:\n\nWebsite: http://shaniatwain.com\nFacebook: https://facebook.com/ShaniaTwain\nInstagram: http://instagram.com/ShaniaTwain\nTikTok: https://tiktok.com/@shaniatwain\nTwitter: ",
+      "duration": 263,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=3ehmqFw2sh4",
+      "title": "Shania Twain - You've Got A Way (Audio)",
+      "description": "Official Audio for You’ve Got a Way performed by Shania Twain.\nFollow Shania Twain:\n\nWebsite: http://shaniatwain.com\nFacebook: https://facebook.com/ShaniaTwain\nInstagram: http://instagram.com/ShaniaTwain\nTikTok: https://tiktok.com/@shaniatwain\nTwitter: ht",
+      "duration": 212,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Cytj0nrLaCs",
+      "title": "Shania Twain - You’ve Got A Way (Official Music Video)",
+      "description": "Tickets to my Let’s Go! Vegas Residency are on sale now! Dates through December 2020 https://www.shaniatwain.com/vegas   \n\nWatch the official music video for \"I’m Gonna Getcha Good!\" performed by Shania Twain\n\nMusic video by Shania Twain performing Yo",
+      "duration": 210,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=llKIxXvoRQ4",
+      "title": "You're Still The One (International Mix)",
+      "description": "Provided to YouTube by Universal Music Group\n\nYou're Still The One (International Mix) · Shania Twain\n\nCome On Over\n\n℗ A Mercury Nashville Release; ℗ 1997 UMG Recordings, Inc.\n\nReleased on: 1997-11-04\n\nProducer: Robert John \"Mutt\" Lange\nStudio  Personnel,",
+      "duration": 212,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=wCg7tl4t1-0",
+      "title": "When (International Mix Radio Edit)",
+      "description": "Provided to YouTube by Universal Music Group\n\nWhen (International Mix Radio Edit) · Shania Twain\n\nWhen\n\n℗ A Mercury Nashville Release; ℗ 1997 UMG Recordings, Inc.\n\nReleased on: 1998-06-01\n\nProducer, Associated  Performer, Background  Vocalist: Robert John",
+      "duration": 211,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=POwJPrn_2WA",
+      "title": "From This Moment On (International Mix)",
+      "description": "Provided to YouTube by Universal Music Group\n\nFrom This Moment On (International Mix) · Shania Twain · Bryan White\n\nCome On Over\n\n℗ A Mercury Nashville Release; ℗ 1997 UMG Recordings, Inc.\n\nReleased on: 1997-11-04\n\nProducer: Robert John \"Mutt\" Lange\nAssoc",
+      "duration": 292,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=eMLPhgOwsxQ",
+      "title": "Black Eyes, Blue Tears (International Mix)",
+      "description": "Provided to YouTube by Universal Music Group\n\nBlack Eyes, Blue Tears (International Mix) · Shania Twain\n\nCome On Over\n\n℗ A Mercury Nashville Release; ℗ 1997 UMG Recordings, Inc.\n\nReleased on: 1997-11-04\n\nProducer: Robert John \"Mutt\" Lange\nAssociated  Perf",
+      "duration": 218,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=mBzYag2r9Y8",
+      "title": "I Won't Leave You Lonely (International Mix)",
+      "description": "Provided to YouTube by Universal Music Group\n\nI Won't Leave You Lonely (International Mix) · Shania Twain\n\nCome On Over\n\n℗ A Mercury Nashville Release; ℗ 1997 UMG Recordings, Inc.\n\nReleased on: 1997-11-04\n\nProducer: Robert John \"Mutt\" Lange\nComposer  Lyri",
+      "duration": 246,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=TaThrYZy7tA",
+      "title": "I'm Holdin' On To Love (To Save My Life) (International Mix)",
+      "description": "Provided to YouTube by Universal Music Group\n\nI'm Holdin' On To Love (To Save My Life) (International Mix) · Shania Twain\n\nCome On Over\n\n℗ A Mercury Nashville Release; ℗ 1997 UMG Recordings, Inc.\n\nReleased on: 1997-11-04\n\nProducer: Robert John \"Mutt\" Lang",
+      "duration": 207,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=jwYuwGJyZ88",
+      "title": "Come On Over (International Mix)",
+      "description": "Provided to YouTube by Universal Music Group\n\nCome On Over (International Mix) · Shania Twain\n\nCome On Over\n\n℗ A Mercury Nashville Release; ℗ 1997 UMG Recordings, Inc.\n\nReleased on: 1997-11-04\n\nProducer: Robert John \"Mutt\" Lange\nStudio  Personnel, Recordi",
+      "duration": 174,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=hpYQhdjX2W8",
+      "title": "You've Got A Way (International Mix)",
+      "description": "Provided to YouTube by Universal Music Group\n\nYou've Got A Way (International Mix) · Shania Twain\n\nCome On Over\n\n℗ A Mercury Nashville Release; ℗ 1997 UMG Recordings, Inc.\n\nReleased on: 1997-11-04\n\nProducer: Robert John \"Mutt\" Lange\nAssociated  Performer,",
+      "duration": 200,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=rJyKmXmeifE",
+      "title": "Whatever You Do! Don't! (International Mix)",
+      "description": "Provided to YouTube by Universal Music Group\n\nWhatever You Do! Don't! (International Mix) · Shania Twain\n\nCome On Over\n\n℗ A Mercury Nashville Release; ℗ 1997 UMG Recordings, Inc.\n\nReleased on: 1997-11-04\n\nProducer: Robert John \"Mutt\" Lange\nAssociated  Per",
+      "duration": 229,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=LgZoOEkLMX0",
+      "title": "Man! I Feel Like A Woman! (International Mix)",
+      "description": "Provided to YouTube by Universal Music Group\n\nMan! I Feel Like A Woman! (International Mix) · Shania Twain\n\nCome On Over\n\n℗ A Mercury Nashville Release; ℗ 1997 UMG Recordings, Inc.\n\nReleased on: 1997-11-04\n\nProducer, Associated  Performer, Background  Voc",
+      "duration": 234,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Y6oVdxsXuVI",
+      "title": "Love Gets Me Every Time (International Mix)",
+      "description": "Provided to YouTube by Universal Music Group\n\nLove Gets Me Every Time (International Mix) · Shania Twain\n\nCome On Over\n\n℗ A Mercury Nashville Release; ℗ 1997 UMG Recordings, Inc.\n\nReleased on: 1997-11-04\n\nProducer: Robert John \"Mutt\" Lange\nStudio  Personn",
+      "duration": 213,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=eVvjKA22MYs",
+      "title": "Shania Twain - Don’t Be Stupid (You Know I Love You) (Official Music Video)",
+      "description": "Tickets to my Let’s Go! Vegas Residency are on sale now! Dates through December 2020 https://www.shaniatwain.com/vegas   \n\nWatch the official music video for \"Don’t Be Stupid (You Know I Love You)” performed by Shania Twain  \n\nMusic video by Shania ",
+      "duration": 218,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=omLm5DAwd88",
+      "title": "That Don't Impress Me Much (International Mix)",
+      "description": "Provided to YouTube by Universal Music Group\n\nThat Don't Impress Me Much (International Mix) · Shania Twain\n\nCome On Over\n\n℗ A Mercury Nashville Release; ℗ 1997 UMG Recordings, Inc.\n\nReleased on: 1997-11-04\n\nProducer: Robert John \"Mutt\" Lange\nStudio  Pers",
+      "duration": 239,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=1EPNx3mFisU",
+      "title": "Honey, I'm Home (International Mix)",
+      "description": "Provided to YouTube by Universal Music Group\n\nHoney, I'm Home (International Mix) · Shania Twain\n\nCome On Over\n\n℗ A Mercury Nashville Release; ℗ 1997 UMG Recordings, Inc.\n\nReleased on: 1997-11-04\n\nProducer: Robert John \"Mutt\" Lange\nAssociated  Performer, ",
+      "duration": 214,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=S1skaZUQ94Q",
+      "title": "If You Wanna Touch Her, Ask! (International Mix)",
+      "description": "Provided to YouTube by Universal Music Group\n\nIf You Wanna Touch Her, Ask! (International Mix) · Shania Twain\n\nCome On Over\n\n℗ A Mercury Nashville Release; ℗ 1997 UMG Recordings, Inc.\n\nReleased on: 1997-11-04\n\nProducer: Robert John \"Mutt\" Lange\nAssociated",
+      "duration": 254,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=k2vePCrpC5o",
+      "title": "Rock This Country!",
+      "description": "Provided to YouTube by Universal Music Group\n\nRock This Country! · Shania Twain\n\nCome On Over\n\n℗ 1998 UMG Recordings, Inc.\n\nReleased on: 1999-11-09\n\nProducer: Robert John \"Mutt\" Lange\nComposer  Lyricist: Robert John \"Mutt\" Lange\nComposer  Lyricist: Shania",
+      "duration": 267,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Pop",
+    "Folk, World, & Country"
+  ],
+  "styles": [
+    "Country"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Man! I Feel Like A Woman!",
+      "duration": "3:53"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "I'm Holdin' On To Love (To Save My Life)",
+      "duration": "3:30"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Love Gets Me Every Time",
+      "duration": "3:33"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Don't Be Stupid (You Know I Love You)",
+      "duration": "3:35"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "From This Moment On",
+      "extraartists": [
+        {
+          "name": "Bryan White",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 296474,
+          "resource_url": "https://api.discogs.com/artists/296474"
+        }
+      ],
+      "duration": "4:43"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Come On Over",
+      "duration": "2:55"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "When",
+      "duration": "3:39"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Whatever You Do! Don't!",
+      "duration": "4:04"
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "If You Wanna Touch Her, Ask!",
+      "duration": "4:04"
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "You're Still The One",
+      "duration": "3:34"
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Honey, I'm Home",
+      "duration": "3:39"
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "That Don't Impress Me Much",
+      "duration": "3:38"
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Black Eyes, Blue Tears",
+      "duration": "3:39"
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "I Won't Leave You Lonely",
+      "duration": "4:13"
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Rock This Country!",
+      "duration": "4:23"
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "title": "You've Got A Way",
+      "duration": "3:24"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Shania Twain",
+      "anv": "",
+      "join": "",
+      "role": "Lead Vocals",
+      "tracks": "",
+      "id": 130060,
+      "resource_url": "https://api.discogs.com/artists/130060"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/y1bBFovW-81fRLfBqHd_tWO47Y64O_vX8vSGXFu6jZs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDgtNjQ1OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/y1bBFovW-81fRLfBqHd_tWO47Y64O_vX8vSGXFu6jZs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDgtNjQ1OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/IM7Q8Ju0kdbQWTkqxnC1w4ygmoJ5chmkjDqeN7NoRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDgtNjQ1OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/dxREWt9dKICNF8I4mLB7EdvuwQSdL9m0X_JwtsU6TBY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDktODc0Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/dxREWt9dKICNF8I4mLB7EdvuwQSdL9m0X_JwtsU6TBY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDktODc0Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/CIbwo_Tjx1lfHW9YcYM_Ic42Tub4J209g1ZZ7J6ldyQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDktODc0Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/EIyu-NR3zkHLzSx47UQB54K_Wy2ijVXjpQuqwndOTjI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDgtNzc1Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/EIyu-NR3zkHLzSx47UQB54K_Wy2ijVXjpQuqwndOTjI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDgtNzc1Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/95wKjpigZRO6dO3mUeCjC13fwWG1ItcISO6QecEMDjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDgtNzc1Mi5qcGVn.jpeg",
+      "width": 599,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/eHCtJ2x8AkE3X0JToxxj2nIa-t_A8SQK7plOW4ntnh0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDYtMzU1Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/eHCtJ2x8AkE3X0JToxxj2nIa-t_A8SQK7plOW4ntnh0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDYtMzU1Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/aDlADzS4x4htGkI8MLtA_Nr4Z0t1guExHcRq8oVlvzs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDYtMzU1Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/hfnHkfqoPr4kxmsPALJJAhYsk1a99IMHHTL8_0bPaiQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDUtOTk1Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/hfnHkfqoPr4kxmsPALJJAhYsk1a99IMHHTL8_0bPaiQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDUtOTk1Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/6bOgw-MiQGLBRWYmsJQUQXLnTnFEeXhPbthWjawv824/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDUtOTk1Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/pWA1f8JTgQDIj5yWo4czPx_8Zj5NTln77SRSCgYI4rY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDctODA2NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/pWA1f8JTgQDIj5yWo4czPx_8Zj5NTln77SRSCgYI4rY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDctODA2NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/IU9W9E-B8TqCzkbYswPR8xFu2vmwBZTrsYZj5emF-Xg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDctODA2NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/JRHDDrcKZns6_k_Ucdg2_2bz3LmOZO3M_d60jgV_8c0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDYtODc1Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/JRHDDrcKZns6_k_Ucdg2_2bz3LmOZO3M_d60jgV_8c0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDYtODc1Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/kXCZiDgGrYHQELkcVJXk5WUQPg4_pK1wiGDk0M1rFR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDYtODc1Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/eZHgfg6ecBPNrQQH6ow-8v0mfnrwcOs9FZS4iKzs7HY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDgtMzQ0MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/eZHgfg6ecBPNrQQH6ow-8v0mfnrwcOs9FZS4iKzs7HY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDgtMzQ0MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/HzqLV0IG_VjPF6hg7LZYRpzoZTBd9gTD2U71RaHXfP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDgtMzQ0MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/wKgmSWMYoaTvsdQgXbc729ly-Y0PLQZSzVND5UbjDyA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDQtNDc0MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/wKgmSWMYoaTvsdQgXbc729ly-Y0PLQZSzVND5UbjDyA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDQtNDc0MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/XGohiFAJ1gWfBB9zd6doPw0mne2OlUkJ0nkxMnuiVIg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDQtNDc0MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/2DDkI1cd7bPE9746JIYBztow7MCMAj8bJw88mQQAo8Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDktNzUwOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/2DDkI1cd7bPE9746JIYBztow7MCMAj8bJw88mQQAo8Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDktNzUwOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Rvn0YWgSsILbosxsfo7s25Ojb4n4HGS4aNYrbTOs8Gs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDktNzUwOC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/QoHASotq7RC5oMwwomWd2V3P2pWNpOniM6YXShOSRGc/rs:fit/g:sm/q:90/h:600/w:401/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM4/OTgtNjczOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/QoHASotq7RC5oMwwomWd2V3P2pWNpOniM6YXShOSRGc/rs:fit/g:sm/q:90/h:600/w:401/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM4/OTgtNjczOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/SykOWhmRxSh2uOZ7UNSNCMA_CErW5beB1eJ6rxy-CIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM4/OTgtNjczOC5qcGVn.jpeg",
+      "width": 401,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/InjaCqw8hAqJ35TCZkJHOu4E1L8Ed7ZFChlj_R4T7g8/rs:fit/g:sm/q:90/h:385/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDQtODQyNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/InjaCqw8hAqJ35TCZkJHOu4E1L8Ed7ZFChlj_R4T7g8/rs:fit/g:sm/q:90/h:385/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDQtODQyNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/4JvxpxVzNDQEhL5L0frt9UJ2twUGtOVaIA3Bk4JYGqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDQtODQyNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 385
+    }
+  ],
+  "thumb": "https://i.discogs.com/IM7Q8Ju0kdbQWTkqxnC1w4ygmoJ5chmkjDqeN7NoRMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MDg1/MzE3LTE2OTMxNDM5/MDgtNjQ1OS5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

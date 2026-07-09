@@ -1,0 +1,506 @@
+{
+  "id": 15730599,
+  "status": "Accepted",
+  "year": 2020,
+  "resource_url": "https://api.discogs.com/releases/15730599",
+  "uri": "https://www.discogs.com/release/15730599-Washed-Out-Purple-Noon",
+  "artists": [
+    {
+      "name": "Washed Out",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 1575877,
+      "resource_url": "https://api.discogs.com/artists/1575877",
+      "thumbnail_url": "https://i.discogs.com/hvnFXL6_56_eU6E7luFDDmHZIMtLkzrp-x9YdCJTTro/rs:fit/g:sm/q:90/h:584/w:459/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE1NzU4/NzctMTcxOTY5MTU0/MC02MTQ0LnBuZw.jpeg"
+    }
+  ],
+  "artists_sort": "Washed Out",
+  "labels": [
+    {
+      "name": "Sub Pop",
+      "catno": "SP1365",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 77343,
+      "resource_url": "https://api.discogs.com/labels/77343",
+      "thumbnail_url": "https://i.discogs.com/YcKuQsbfZYLesLodt2DTlAX3HmCCOJSZsmEjaQ7DCd0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc3MzQz/LTE0OTk4ODY3MDMt/MTMxNy5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Sub Pop Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 5131,
+      "resource_url": "https://api.discogs.com/labels/5131"
+    },
+    {
+      "name": "Sub Pop Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 5131,
+      "resource_url": "https://api.discogs.com/labels/5131"
+    },
+    {
+      "name": "Payne City Publishing",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 312281,
+      "resource_url": "https://api.discogs.com/labels/312281"
+    },
+    {
+      "name": "Sterling Sound",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 264060,
+      "resource_url": "https://api.discogs.com/labels/264060",
+      "thumbnail_url": "https://i.discogs.com/Z8f0gMBrt5jLL4TAcCYDGXmMPOLi9V0UW593WXP6BUU/rs:fit/g:sm/q:90/h:118/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDA2/MC0xNTAwMjgzMzYy/LTMyMTguanBlZw.jpeg"
+    },
+    {
+      "name": "Record Technology Incorporated",
+      "catno": "35255",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 66254,
+      "resource_url": "https://api.discogs.com/labels/66254",
+      "thumbnail_url": "https://i.discogs.com/NZIJOUdgmVHURy9AfZAXM0L0OB6S3lijFX4CZ_-nWh4/rs:fit/g:sm/q:90/h:240/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY2MjU0/LTE1MTYyOTg3NDIt/NDQxMS5wbmc.jpeg"
+    },
+    {
+      "name": "Cascade Record Pressing",
+      "catno": "20-0104",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 910395,
+      "resource_url": "https://api.discogs.com/labels/910395",
+      "thumbnail_url": "https://i.discogs.com/2IdX2tasM1nLE9jnrdxiXso3KqZNY_XLMDP8ajrrPIs/rs:fit/g:sm/q:90/h:236/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkxMDM5/NS0xNDU0NjEzNTUx/LTI3NzMucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 1510,
+    "want": 155,
+    "rating": {
+      "count": 92,
+      "average": 4.5
+    },
+    "submitter": {
+      "username": "1234gorecords",
+      "resource_url": "https://api.discogs.com/users/1234gorecords"
+    },
+    "contributors": [
+      {
+        "username": "1234gorecords",
+        "resource_url": "https://api.discogs.com/users/1234gorecords"
+      },
+      {
+        "username": "dasmfa",
+        "resource_url": "https://api.discogs.com/users/dasmfa"
+      },
+      {
+        "username": "mr_mando",
+        "resource_url": "https://api.discogs.com/users/mr_mando"
+      },
+      {
+        "username": "Same.Old.Me",
+        "resource_url": "https://api.discogs.com/users/Same.Old.Me"
+      },
+      {
+        "username": "KillThyKing",
+        "resource_url": "https://api.discogs.com/users/KillThyKing"
+      },
+      {
+        "username": "tractorsrevenge",
+        "resource_url": "https://api.discogs.com/users/tractorsrevenge"
+      },
+      {
+        "username": "Audioear",
+        "resource_url": "https://api.discogs.com/users/Audioear"
+      },
+      {
+        "username": "AustinSimard",
+        "resource_url": "https://api.discogs.com/users/AustinSimard"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2020-08-06T10:17:32-07:00",
+  "date_changed": "2024-07-14T10:05:09-07:00",
+  "num_for_sale": 57,
+  "lowest_price": 17.76,
+  "master_id": 1784244,
+  "master_url": "https://api.discogs.com/masters/1784244",
+  "title": "Purple Noon",
+  "country": "US",
+  "released": "2020-08-07",
+  "notes": "Black vinyl. Standard edition. Comes with digital download code.",
+  "released_formatted": "07 Aug 2020",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "0 98787 13651 7",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "098787136517",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "SP1365-A 35255.1 (3). JN-H STERLING CP20-0104",
+      "description": "Side A runout etched, STERLING stamped"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "SP1365-B 35255.2 (3).1  CP20-0104 JN-H STERLING",
+      "description": "Side B runout etched, STERLING stamped"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=rbbNqQBwHVM",
+      "title": "Washed Out - Too Late [LYRIC VIDEO Spanish/English] Subtitulado Español",
+      "description": "\"Too Late\" by @realwashedout from the album Purple Noon (Release Date: August 7, 2020)\n\nPurchase/Listen to Purple Noon\nhttps://smarturl.it/WashedOut_PN\n\nWashed Out -  https://washedout.net/ \nFacebook -  https://www.facebook.com/washed.out\nInstagram - http",
+      "duration": 253,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=zO7E-D4yTS4",
+      "title": "Washed Out - Time to Walk Away [OFFICIAL VIDEO]",
+      "description": "\"Time to Walk Away\" by Washed Out from the album Purple Noon (Release Date: 8/07/2020 on @Sub Pop)\n\nhttps://smarturl.it/WashedOut_PN\n\nWashed Out -  https://washedout.net/ \nFacebook -  https://www.facebook.com/washed.out\nInstagram - https://www.instagram.c",
+      "duration": 257,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=rbbNqQBwHVM",
+      "title": "Washed Out - Too Late [LYRIC VIDEO Spanish/English] Subtitulado Español",
+      "description": "\"Too Late\" by @realwashedout from the album Purple Noon (Release Date: August 7, 2020)\n\nPurchase/Listen to Purple Noon\nhttps://smarturl.it/WashedOut_PN\n\nWashed Out -  https://washedout.net/ \nFacebook -  https://www.facebook.com/washed.out\nInstagram - http",
+      "duration": 253,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Pop"
+  ],
+  "styles": [
+    "Chillwave",
+    "Synth-pop",
+    "Indie Pop",
+    "Dream Pop"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Too Late",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Face Up",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Time To Walk Away",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Paralyzed",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Reckless Desires",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Game Of Chance",
+      "extraartists": [
+        {
+          "name": "Dylan Lee",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar",
+          "tracks": "",
+          "id": 4656317,
+          "resource_url": "https://api.discogs.com/artists/4656317"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Leave You Behind",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Don't Go",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Hide",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Haunt",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Lanning Sally",
+      "anv": "",
+      "join": "",
+      "role": "Design",
+      "tracks": "",
+      "id": 7483790,
+      "resource_url": "https://api.discogs.com/artists/7483790"
+    },
+    {
+      "name": "Harold Brown",
+      "anv": "Harold \"HB\" Brown",
+      "join": "",
+      "role": "Drums",
+      "tracks": "A1, A3, A4, B2, B3",
+      "id": 401128,
+      "resource_url": "https://api.discogs.com/artists/401128"
+    },
+    {
+      "name": "Ben Etter",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 4694121,
+      "resource_url": "https://api.discogs.com/artists/4694121"
+    },
+    {
+      "name": "Duncan Albert",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Studio Assistance]",
+      "tracks": "",
+      "id": 8061233,
+      "resource_url": "https://api.discogs.com/artists/8061233"
+    },
+    {
+      "name": "Ian Horrocks",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Studio Assistance]",
+      "tracks": "",
+      "id": 4905367,
+      "resource_url": "https://api.discogs.com/artists/4905367"
+    },
+    {
+      "name": "Parker Bradford",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Studio Assistance]",
+      "tracks": "",
+      "id": 7289936,
+      "resource_url": "https://api.discogs.com/artists/7289936"
+    },
+    {
+      "name": "Rafael Rojas (4)",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Studio Assistance]",
+      "tracks": "",
+      "id": 5810315,
+      "resource_url": "https://api.discogs.com/artists/5810315"
+    },
+    {
+      "name": "Royal Teague",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Studio Assistance]",
+      "tracks": "",
+      "id": 8061234,
+      "resource_url": "https://api.discogs.com/artists/8061234"
+    },
+    {
+      "name": "Joe Nino-Hernes",
+      "anv": "JN-H",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 6012918,
+      "resource_url": "https://api.discogs.com/artists/6012918"
+    },
+    {
+      "name": "Constant Artists",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 3900324,
+      "resource_url": "https://api.discogs.com/artists/3900324"
+    },
+    {
+      "name": "Randy Merrill",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 1485708,
+      "resource_url": "https://api.discogs.com/artists/1485708"
+    },
+    {
+      "name": "Ben H. Allen",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By, Producer [Additional Production By]",
+      "tracks": "",
+      "id": 305938,
+      "resource_url": "https://api.discogs.com/artists/305938"
+    },
+    {
+      "name": "Blair Greene",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 8061235,
+      "resource_url": "https://api.discogs.com/artists/8061235"
+    },
+    {
+      "name": "Ernest Greene",
+      "anv": "",
+      "join": "",
+      "role": "Written-By, Producer, Performer, Art Direction",
+      "tracks": "",
+      "id": 1575878,
+      "resource_url": "https://api.discogs.com/artists/1575878"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/cdwVCxeZKuXZOvafGUI5cEfjzW8R4qohobWAitYV3-c/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE1OTczNDk5/NjctMTYwMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/cdwVCxeZKuXZOvafGUI5cEfjzW8R4qohobWAitYV3-c/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE1OTczNDk5/NjctMTYwMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Kek-c6ykUF2bbkldoNIalOUU2wTcXjO_YqUbSg3Rl2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE1OTczNDk5/NjctMTYwMC5qcGVn.jpeg",
+      "width": 578,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ohiUvJjXhN4dl1qtsihCAMnB2UhNx-yYk_pIYhQMOT8/rs:fit/g:sm/q:90/h:593/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE2MDg5NTEy/OTYtNjMxMS5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/ohiUvJjXhN4dl1qtsihCAMnB2UhNx-yYk_pIYhQMOT8/rs:fit/g:sm/q:90/h:593/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE2MDg5NTEy/OTYtNjMxMS5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/zsx_wc2K_t3hcCCDCIhnWya6HPtH874mLROUNPNaT5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE2MDg5NTEy/OTYtNjMxMS5wbmc.jpeg",
+      "width": 593,
+      "height": 593
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/CpwVVXyElTDPPgslCWujBZDhDu8kNxmK-jMftffLqrY/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE2Njk1ODA1/MDgtODA4Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/CpwVVXyElTDPPgslCWujBZDhDu8kNxmK-jMftffLqrY/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE2Njk1ODA1/MDgtODA4Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/aV3DfIT7ALeMbZIgDXrp5C0ZofOJSfWSVo5dk0JQ7NA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE2Njk1ODA1/MDgtODA4Mi5qcGVn.jpeg",
+      "width": 596,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/poFjlJRjN_8cNCNVz3tDBz1XaKkNp5VHWtJ1uyUfuOo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE2Njk1ODA1/MTEtMjQ5NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/poFjlJRjN_8cNCNVz3tDBz1XaKkNp5VHWtJ1uyUfuOo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE2Njk1ODA1/MTEtMjQ5NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/iyPEAyRhM2koJwVAxfQh02yhnG5dzzo6yvKRgV5MCtw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE2Njk1ODA1/MTEtMjQ5NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/fzjnVpM8sRrdYCuU69l-0v-lp7b-ZC15OvSTA2a3Fgo/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE1OTczNDk5/NzctNzExMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/fzjnVpM8sRrdYCuU69l-0v-lp7b-ZC15OvSTA2a3Fgo/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE1OTczNDk5/NzctNzExMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/CBgUt6zmpd--GYDYHsgIxTqLOx_Ur9TiF_XOgqq6WGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE1OTczNDk5/NzctNzExMS5qcGVn.jpeg",
+      "width": 597,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/fjcS-GWRE_dt_u_208d0C0Un_pRk_G8vxX7bE3u4tG4/rs:fit/g:sm/q:90/h:592/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE2MDg5NTEy/OTktNzAwNi5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/fjcS-GWRE_dt_u_208d0C0Un_pRk_G8vxX7bE3u4tG4/rs:fit/g:sm/q:90/h:592/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE2MDg5NTEy/OTktNzAwNi5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/t8WpRQ1jZPCxE9tUeLKj7tm0JdnC7HOqp5zLAoiwH94/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE2MDg5NTEy/OTktNzAwNi5wbmc.jpeg",
+      "width": 597,
+      "height": 592
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/4TCBv4_Xv3XkOEVYvPxa8jpQW8hzGidZgpa42kAkUss/rs:fit/g:sm/q:90/h:584/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE2MDg5NTEz/MDMtODI2NS5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/4TCBv4_Xv3XkOEVYvPxa8jpQW8hzGidZgpa42kAkUss/rs:fit/g:sm/q:90/h:584/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE2MDg5NTEz/MDMtODI2NS5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/sTDljpTMkRWVrDwNtxiOm9M5I2FHkQo4lMqFRkzOaEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE2MDg5NTEz/MDMtODI2NS5wbmc.jpeg",
+      "width": 593,
+      "height": 584
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/hOGqdmcgx6z1lYoSFl3Skqv-5oKkTAPYJFqdM3s9IaQ/rs:fit/g:sm/q:90/h:600/w:344/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE2MDg5NTEz/MDctNTAwMC5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/hOGqdmcgx6z1lYoSFl3Skqv-5oKkTAPYJFqdM3s9IaQ/rs:fit/g:sm/q:90/h:600/w:344/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE2MDg5NTEz/MDctNTAwMC5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/X6pL0tGBDCEG-L99qUn0f8JNX0QD_TIt7UhNbPdY2UE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE2MDg5NTEz/MDctNTAwMC5wbmc.jpeg",
+      "width": 344,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/lIy62WJMvETfseQn7O3Gn6pYm95vdUIwLx4ooLTriQ4/rs:fit/g:sm/q:90/h:207/w:344/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE2MDg5NTE0/NDktNjMzMS5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/lIy62WJMvETfseQn7O3Gn6pYm95vdUIwLx4ooLTriQ4/rs:fit/g:sm/q:90/h:207/w:344/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE2MDg5NTE0/NDktNjMzMS5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/TNbWPA-DU3GtXax4aSpbhdMvHetfLwFj08BIj3aVijw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE2MDg5NTE0/NDktNjMzMS5wbmc.jpeg",
+      "width": 344,
+      "height": 207
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ZK1kCsW2G_ak-VNAW3_V9hjZeISbfn7YNHw3QtwO6S8/rs:fit/g:sm/q:90/h:337/w:518/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE2MDg5NTE2/NzUtODEyMy5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/ZK1kCsW2G_ak-VNAW3_V9hjZeISbfn7YNHw3QtwO6S8/rs:fit/g:sm/q:90/h:337/w:518/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE2MDg5NTE2/NzUtODEyMy5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/ZoSKacSBBb5jJi11IcroBAvUtT2Tm2buWrUw9jFOQQA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE2MDg5NTE2/NzUtODEyMy5wbmc.jpeg",
+      "width": 518,
+      "height": 337
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/UJoaTbE2EcXbni0Xir0VKgt4AfdXuUKhdLz4i59QBW4/rs:fit/g:sm/q:90/h:330/w:517/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE2MDg5NTE2/ODAtNDE0OS5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/UJoaTbE2EcXbni0Xir0VKgt4AfdXuUKhdLz4i59QBW4/rs:fit/g:sm/q:90/h:330/w:517/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE2MDg5NTE2/ODAtNDE0OS5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/egjCW3vQRyR0F3iZEtZdZmpBD7slty1ROsC-E8bhDV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE2MDg5NTE2/ODAtNDE0OS5wbmc.jpeg",
+      "width": 517,
+      "height": 330
+    }
+  ],
+  "thumb": "https://i.discogs.com/Kek-c6ykUF2bbkldoNIalOUU2wTcXjO_YqUbSg3Rl2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMw/NTk5LTE1OTczNDk5/NjctMTYwMC5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

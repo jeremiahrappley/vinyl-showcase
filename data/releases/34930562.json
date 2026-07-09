@@ -1,0 +1,333 @@
+{
+  "id": 34930562,
+  "status": "Accepted",
+  "year": 2025,
+  "resource_url": "https://api.discogs.com/releases/34930562",
+  "uri": "https://www.discogs.com/release/34930562-dvsn-2-Sept-5th",
+  "artists": [
+    {
+      "name": "dvsn (2)",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 4965698,
+      "resource_url": "https://api.discogs.com/artists/4965698",
+      "thumbnail_url": "https://i.discogs.com/vy560YHU2OGc8gtViBoEtejqexjPcX4Wq8JTWFskbmg/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ5NjU2/OTgtMTY1NTQwMzUy/NC0yNjU4LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "dvsn (2)",
+  "labels": [
+    {
+      "name": "OVO Sound",
+      "catno": "93624882848",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 719678,
+      "resource_url": "https://api.discogs.com/labels/719678",
+      "thumbnail_url": "https://i.discogs.com/qjT-wueE7BGgkkRpRCpopjsJJG_Aw7m1UQU2HGO88zU/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTcxOTY3/OC0xNDg4OTE5NjQy/LTg2MjEucG5n.jpeg"
+    },
+    {
+      "name": "Warner Records",
+      "catno": "93624882848",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 134882,
+      "resource_url": "https://api.discogs.com/labels/134882",
+      "thumbnail_url": "https://i.discogs.com/VXe1252-kjlsKC8ahwKwRSTBIYAEwTInthD7CiS8BLE/rs:fit/g:sm/q:90/h:216/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzNDg4/Mi0xNTYzNDU4NDI5/LTk2NjguanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Record Industry",
+      "catno": "8 16400 1A",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 267164,
+      "resource_url": "https://api.discogs.com/labels/267164",
+      "thumbnail_url": "https://i.discogs.com/O-Hxe1Kov2i8WglqGPPH_MOH2tRwDR7PcnrGNdcFh7I/rs:fit/g:sm/q:90/h:596/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NzE2/NC0xNjQ4NzExMzM5/LTI1MDQuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Reissue",
+        "Stereo"
+      ],
+      "text": "Purple"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 128,
+    "want": 16,
+    "rating": {
+      "count": 21,
+      "average": 4.76
+    },
+    "submitter": {
+      "username": "motoroboto",
+      "resource_url": "https://api.discogs.com/users/motoroboto"
+    },
+    "contributors": [
+      {
+        "username": "motoroboto",
+        "resource_url": "https://api.discogs.com/users/motoroboto"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2025-08-26T12:05:28-07:00",
+  "date_changed": "2025-08-26T12:25:44-07:00",
+  "num_for_sale": 3,
+  "lowest_price": 39.62,
+  "master_id": 1006373,
+  "master_url": "https://api.discogs.com/masters/1006373",
+  "title": "Sept 5th",
+  "country": "US",
+  "released": "2025-08-15",
+  "notes": "OVO webstore lists release as limited edition translucent purple vinyl. Vinyl is not translucent though, it is solid/opaque purple. \"Limited Edition\" pressing size is not given.",
+  "released_formatted": "15 Aug 2025",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "8 08391 26609 4"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "80839-12660-9-A-RE-3",
+      "description": "Side A runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "80839-12660-9-B-RE-3",
+      "description": "Side B runout"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=gDVufnezUAs",
+      "title": "dvsn - Hallucinations (Official Music Video)",
+      "description": "Sept 5th on:\niTunes: https://smarturl.it/dvsn\nSpotify: http://tinyurl.com/dvsnSpotify\n\nHALLUCINATIONS\nDirected by LeSean Harris",
+      "duration": 266,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=x9wX6fZ65q0",
+      "title": "dvsn - Too Deep (Official Music Video)",
+      "description": "Sept 5th on:\niTunes: https://smarturl.it/dvsn\nSpotify: http://tinyurl.com/dvsnSpotify\n\nTOO DEEP \nDirected by Rohan Blair-Mangat",
+      "duration": 140,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=wB3OH0f-6hA",
+      "title": "dvsn - With Me/Do It Well (Official Music Video)",
+      "description": "Sept 5th on:\niTunes: https://smarturl.it/dvsn\nSpotify: http://tinyurl.com/dvsnSpotify\n\nWith Me & Do It Well\nDirected by Jon Riera & LeSean Harris\n\nProduced by Mad Ruk Entertainment\n\n\n\n\n\nProduced with the financial assistance of MuchFACT, a division of Bel",
+      "duration": 222,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=N7LBse25QP8",
+      "title": "dvsn - Too Deep (Official Audio)",
+      "description": "http://smarturl.it/dvsn",
+      "duration": 201,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=xFbK3bJW54Y",
+      "title": "dvsn - The Line (Official Audio)",
+      "description": "https://smarturl.it/dvsn",
+      "duration": 434,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Contemporary R&B"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "With Me",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Too Deep",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Try / Effortless",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Do It Well",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "In + Out",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Sept 5th",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Hallucinations",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Another One",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Angela",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "The Line",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Bryan Brock",
+      "anv": "",
+      "join": "",
+      "role": "Art Direction",
+      "tracks": "",
+      "id": 653298,
+      "resource_url": "https://api.discogs.com/artists/653298"
+    },
+    {
+      "name": "Matthew Bronson",
+      "anv": "",
+      "join": "",
+      "role": "Art Direction",
+      "tracks": "",
+      "id": 1843491,
+      "resource_url": "https://api.discogs.com/artists/1843491"
+    },
+    {
+      "name": "The Line (6)",
+      "anv": "",
+      "join": "",
+      "role": "Creative Director",
+      "tracks": "",
+      "id": 5989769,
+      "resource_url": "https://api.discogs.com/artists/5989769"
+    },
+    {
+      "name": "Noah Shebib",
+      "anv": "",
+      "join": "",
+      "role": "Executive Producer",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Paul Jefferies",
+      "anv": "",
+      "join": "",
+      "role": "Executive Producer",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Michael Cirelli",
+      "anv": "",
+      "join": "",
+      "role": "Legal",
+      "tracks": "",
+      "id": 365760,
+      "resource_url": "https://api.discogs.com/artists/365760"
+    },
+    {
+      "name": "M3 Entertainment INC.",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 5985464,
+      "resource_url": "https://api.discogs.com/artists/5985464"
+    },
+    {
+      "name": "Lesean Harris",
+      "anv": "",
+      "join": "",
+      "role": "Photography",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Yasin Osman",
+      "anv": "",
+      "join": "",
+      "role": "Photography",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/paGi3LahBclRKtVTMJ5zF-dFeCvwZ5s1RR79rHa5vII/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMw/NTYyLTE3NTYyMzU1/NTktNzg0MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/paGi3LahBclRKtVTMJ5zF-dFeCvwZ5s1RR79rHa5vII/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMw/NTYyLTE3NTYyMzU1/NTktNzg0MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/hlUdgRldD-F_GHkQwpg2jVQAy8ozG8BqeTwSNekU8VE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMw/NTYyLTE3NTYyMzU1/NTktNzg0MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ZxPLUsw9g9-jyU_FBtdpceRVe8ryy7nJ7KzZdjtJul0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMw/NTYyLTE3NTYyMzU1/NjAtNDM4OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ZxPLUsw9g9-jyU_FBtdpceRVe8ryy7nJ7KzZdjtJul0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMw/NTYyLTE3NTYyMzU1/NjAtNDM4OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/y8rjkRdH8aEgFhe01FkgGCWZShw0iJKYgmOgkRuHyjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMw/NTYyLTE3NTYyMzU1/NjAtNDM4OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/MvQ47_syTktp9X3v2H-tqr2oF6cIzLw4i_wb8byAgkA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMw/NTYyLTE3NTYyMzU1/NTktMTA5NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/MvQ47_syTktp9X3v2H-tqr2oF6cIzLw4i_wb8byAgkA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMw/NTYyLTE3NTYyMzU1/NTktMTA5NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/SYWqxUw0dmPmif85bBVhPd0I83gEBARNPfpf6I5aPME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMw/NTYyLTE3NTYyMzU1/NTktMTA5NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/hlUdgRldD-F_GHkQwpg2jVQAy8ozG8BqeTwSNekU8VE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0OTMw/NTYyLTE3NTYyMzU1/NTktNzg0MS5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

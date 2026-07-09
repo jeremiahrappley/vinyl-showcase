@@ -1,0 +1,1082 @@
+{
+  "id": 22806698,
+  "status": "Accepted",
+  "year": 2022,
+  "resource_url": "https://api.discogs.com/releases/22806698",
+  "uri": "https://www.discogs.com/release/22806698-Tame-Impala-The-Slow-Rush",
+  "artists": [
+    {
+      "name": "Tame Impala",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 1245513,
+      "resource_url": "https://api.discogs.com/artists/1245513",
+      "thumbnail_url": "https://i.discogs.com/_pZNESCaPzf9bTXRrZjabJO9w0spkDk0q2XRaSnihXY/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyNDU1/MTMtMTQ2NjQ5MTkz/OC04NDAxLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Tame Impala",
+  "labels": [
+    {
+      "name": "Fiction Records",
+      "catno": "3853987",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 5810,
+      "resource_url": "https://api.discogs.com/labels/5810",
+      "thumbnail_url": "https://i.discogs.com/O4V0SZZJFuTzHyqOsP-H3LKmYY3K7UDUzHEtV58TeHw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU4MTAt/MTQ5NzE4MjUwNy02/MTExLmpwZWc.jpeg"
+    },
+    {
+      "name": "Virgin",
+      "catno": "3853987",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 750,
+      "resource_url": "https://api.discogs.com/labels/750",
+      "thumbnail_url": "https://i.discogs.com/l7MqdVik3dZV0Vxh1EPMGDz95ydeYSmjPKQjdwDc7uA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MC0x/NjE1MDQyNjg5LTc3/NDMucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "text": "Red (Translucent)"
+    },
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "12\"",
+        "Stereo"
+      ],
+      "text": "Remixes"
+    },
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "12\"",
+        "Stereo"
+      ],
+      "text": "One More Year / Patience"
+    },
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "7\"",
+        "45 RPM",
+        "Stereo"
+      ],
+      "text": "Bonus Tracks"
+    },
+    {
+      "name": "Box Set",
+      "qty": "1",
+      "descriptions": []
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 2354,
+    "want": 1507,
+    "rating": {
+      "count": 215,
+      "average": 4.76
+    },
+    "submitter": {
+      "username": "QfromLille",
+      "resource_url": "https://api.discogs.com/users/QfromLille"
+    },
+    "contributors": [
+      {
+        "username": "QfromLille",
+        "resource_url": "https://api.discogs.com/users/QfromLille"
+      },
+      {
+        "username": "J.Ohm",
+        "resource_url": "https://api.discogs.com/users/J.Ohm"
+      },
+      {
+        "username": "jlegrand",
+        "resource_url": "https://api.discogs.com/users/jlegrand"
+      },
+      {
+        "username": "poptones93",
+        "resource_url": "https://api.discogs.com/users/poptones93"
+      },
+      {
+        "username": "hflofgren",
+        "resource_url": "https://api.discogs.com/users/hflofgren"
+      },
+      {
+        "username": "NinerVinyl",
+        "resource_url": "https://api.discogs.com/users/NinerVinyl"
+      },
+      {
+        "username": "goodtiming",
+        "resource_url": "https://api.discogs.com/users/goodtiming"
+      },
+      {
+        "username": "GentleSenator",
+        "resource_url": "https://api.discogs.com/users/GentleSenator"
+      },
+      {
+        "username": "whitecatofdoom",
+        "resource_url": "https://api.discogs.com/users/whitecatofdoom"
+      },
+      {
+        "username": "rpmzine",
+        "resource_url": "https://api.discogs.com/users/rpmzine"
+      },
+      {
+        "username": "AlexCDandVinyl",
+        "resource_url": "https://api.discogs.com/users/AlexCDandVinyl"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 6,
+  "date_added": "2022-04-08T05:31:44-07:00",
+  "date_changed": "2024-07-17T12:19:28-07:00",
+  "num_for_sale": 37,
+  "lowest_price": 97.78,
+  "master_id": 1681919,
+  "master_url": "https://api.discogs.com/masters/1681919",
+  "title": "The Slow Rush",
+  "country": "Worldwide",
+  "released": "2022-04-08",
+  "notes": "The Box-Set also features a Deluxe Booklet including imagery from The Slow Rush photoshoot & opening notes, as well as The Slow Rush 2050 Calendar. ",
+  "released_formatted": "08 Apr 2022",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "0602438539871"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MPO® 21 2353566 -<LC- 0602438607822 A",
+      "description": "\"7 Side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MPO® 21 235367 -<LC- 0602438607822 B",
+      "description": "\"7 Side B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MPO® 21 235567 2LC- 0602438607808 A",
+      "description": "\"12 One More Year and Patience Side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MPO® 21 235377 2LC- 0602438607808 B",
+      "description": "\"12 One More Year and Patience Side B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MPO® 21 233668 -<LC- 0602438607815 A",
+      "description": "\"12 Remixes Side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MPO® 21 233683 -2LC- 0602438607815 B",
+      "description": "\"12 Remixes Side B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "JN-H STERLING MPO® 21 235587 00602438607761-A Do you remember we were standing here a year ago?",
+      "description": "Album Side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "JN-H STERLING MPO® 21 235588 00602438607761-B",
+      "description": "Album Side B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "JN-H STERLING MPO® 21 233675 0̶0̶6̶0̶2̶4̶3̶8̶6̶0̶7̶7̶6̶1̶-̶C̶ 00602638607785 A",
+      "description": "Album Side C"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "JN-H STERLING MPO® 21 233725 0̶0̶6̶0̶2̶4̶3̶8̶6̶0̶7̶7̶6̶1̶-̶D̶ 00602438607785 B",
+      "description": "Album Side D"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=j706aSetFbI",
+      "title": "Tame Impala - The Boat I Row (Official Audio)",
+      "description": "‘The Slow Rush Deluxe’: https://TameImpala.lnk.to/Deluxe-TheSlowRushID\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID\nSee Tame Impala on Tour: https://official.tameimpala.com/\nSubscribe to Tame Impala’s YouTube channel: https://TameImp",
+      "duration": 239,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=m8rMFXG-T64",
+      "title": "Tame Impala - No Choice (Official Audio)",
+      "description": "Pre-order ‘The Slow Rush Deluxe’: https://TameImpala.lnk.to/Deluxe-TheSlowRushID\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID\nSee Tame Impala on Tour: https://official.tameimpala.com/\nSubscribe to Tame Impala’s YouTube channel: https",
+      "duration": 222,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=kHcvlsuXfgg",
+      "title": "Tame Impala - The Slow Rush CD Unboxing",
+      "description": "In this video I show you the The Slow Rush CD by Tame Impala.\nI unbox the product completely for you and show you every content in detail.\n► You can buy the album here:\nCD: https://amzn.to/40zcKzW\nVinyl: https://amzn.to/3Vn4u5j\nDigital: https://amzn.to/3H",
+      "duration": 166,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=bMLq3QQK6a8",
+      "title": "Tame Impala - One More Year (Official Audio)",
+      "description": "Listen to ‘The Slow Rush’ now: https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://tameimpalalive.com/\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaYD\nSubscribe to Tame Impala’s YouTube channel: https://TameIm",
+      "duration": 323,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=hWtY1t_8Y_M",
+      "title": "Tame Impala - Instant Destiny (Official Audio)",
+      "description": "Listen to ‘The Slow Rush’ now: https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://tameimpalalive.com/\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaYD\nSubscribe to Tame Impala’s YouTube channel: https://TameIm",
+      "duration": 194,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=2g5xkLqIElU",
+      "title": "Tame Impala - Borderline (Official Audio)",
+      "description": "Listen to ‘The Slow Rush’ now: https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://tameimpalalive.com/\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaYD\nSubscribe to Tame Impala’s YouTube channel: https://TameIm",
+      "duration": 238,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=44lWO3qhQMk",
+      "title": "Tame Impala - Posthumous Forgiveness (Official Audio)",
+      "description": "Listen to Posthumous Forgiveness: https://TameImpala.lnk.to/Posthumous_ForgivenessYD\nListen to ‘The Slow Rush’ now: https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://tameimpalalive.com/\nListen to more Tame Impala: https://TameIm",
+      "duration": 367,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=gs-MtItyOFc",
+      "title": "Tame Impala - Breathe Deeper (Official Audio)",
+      "description": "Listen to ‘The Slow Rush’ now: https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://tameimpalalive.com/\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaYD\nSubscribe to Tame Impala’s YouTube channel: https://TameIm",
+      "duration": 373,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=NUdPieYQ6OA",
+      "title": "Tame Impala - Tomorrow's Dust (Official Audio)",
+      "description": "Listen to ‘The Slow Rush’ now: https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://tameimpalalive.com/\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaYD\nSubscribe to Tame Impala’s YouTube channel: https://TameIm",
+      "duration": 327,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=XlmpIRFeI8I",
+      "title": "Tame Impala - On Track (Official Audio)",
+      "description": "Listen to ‘The Slow Rush’ now: https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://tameimpalalive.com/\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaYD\nSubscribe to Tame Impala’s YouTube channel: https://TameIm",
+      "duration": 302,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=utCjuKDXQsE",
+      "title": "Tame Impala - Lost in Yesterday (Official Video)",
+      "description": "Official Music Video for Lost in Yesterday by Tame Impala.\nListen to Lost in Yesterday: https://TameImpala.lnk.to/LostInYesterdayYD\nPre-order The Slow Rush (out February 14, 2020): https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://t",
+      "duration": 260,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=qLGwIHjhboA",
+      "title": "Tame Impala - Is It True (Official Audio)",
+      "description": "Listen to ‘The Slow Rush’ now: https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://tameimpalalive.com/\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaYD\nSubscribe to Tame Impala’s YouTube channel: https://TameIm",
+      "duration": 239,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=4hZ_wTx_kWg",
+      "title": "Tame Impala - It Might Be Time (Official Audio)",
+      "description": "Listen to ‘It Might Be Time’: https://tameimpala.lnk.to/ItMightBeTimeYD\nPre-order The Slow Rush (out February 14, 2020): https://TameImpala.lnk.to/TheSlowRushYD\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaYD\nSubscribe to Tame Impal",
+      "duration": 275,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KsfxIgOtROk",
+      "title": "Tame Impala - Glimmer (Official Audio)",
+      "description": "Listen to ‘The Slow Rush’ now: https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://tameimpalalive.com/\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaYD\nSubscribe to Tame Impala’s YouTube channel: https://TameIm",
+      "duration": 129,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Y0U6u2D8cMU",
+      "title": "Tame Impala - One More Hour (Official Audio)",
+      "description": "Listen to ‘The Slow Rush’ now: https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://tameimpalalive.com/\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaYD\nSubscribe to Tame Impala’s YouTube channel: https://TameIm",
+      "duration": 434,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=rUmV-MorIKc",
+      "title": "Tame Impala - Patience (Official Audio)",
+      "description": "Listen to Patience: https://TameImpala.lnk.to/PatienceYD\nListen to ‘The Slow Rush’ now: https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://tameimpalalive.com/\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaYD\nSub",
+      "duration": 293,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=sR9d5doziDs",
+      "title": "THE SLOW RUSH",
+      "description": "Listen to ‘The Slow Rush’ now: https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://tameimpalalive.com/\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaYD\nSubscribe to Tame Impala’s YouTube channel: https://TameIm",
+      "duration": 99,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=I-dvJGbVQQ4",
+      "title": "Tame Impala, Lil Yachty - Breathe Deeper (Lil Yachty Remix) (Official Video)",
+      "description": "WARNING: CONTAINS FLASHING IMAGES.\nPre-order ‘The Slow Rush Deluxe’: https://TameImpala.lnk.to/Deluxe-TheSlowRushID\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID\nSee Tame Impala on Tour: https://official.tameimpala.com/\nSubscribe to T",
+      "duration": 289,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=gSe3RcqWX40",
+      "title": "One More Year (NTS Version)",
+      "description": "Provided to YouTube by Universal Music Group\n\nOne More Year (NTS Version) · Tame Impala\n\nThe Slow Rush B-Sides & Remixes\n\n℗ An Island Records Australia release; ℗ 2021 Modular Recordings Pty Ltd\n\nReleased on: 2022-02-18\n\nAssociated  Performer, Vocals: Kev",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=RHYERYTHazc",
+      "title": "Is It True (Four Tet Remix)",
+      "description": "Provided to YouTube by Universal Music Group\n\nIs It True (Four Tet Remix) · Tame Impala\n\nThe Slow Rush B-Sides & Remixes\n\n℗ An Island Records Australia release; ℗ 2020 Modular Recordings Pty Ltd\n\nReleased on: 2022-02-18\n\nProducer, Studio  Personnel, Mixer",
+      "duration": 326,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=m8rMFXG-T64",
+      "title": "Tame Impala - No Choice (Official Audio)",
+      "description": "Pre-order ‘The Slow Rush Deluxe’: https://TameImpala.lnk.to/Deluxe-TheSlowRushID\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID\nSee Tame Impala on Tour: https://official.tameimpala.com/\nSubscribe to Tame Impala’s YouTube channel: https",
+      "duration": 222,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=j706aSetFbI",
+      "title": "Tame Impala - The Boat I Row (Official Audio)",
+      "description": "‘The Slow Rush Deluxe’: https://TameImpala.lnk.to/Deluxe-TheSlowRushID\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID\nSee Tame Impala on Tour: https://official.tameimpala.com/\nSubscribe to Tame Impala’s YouTube channel: https://TameImp",
+      "duration": 239,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=SK-kLeNJ5V4",
+      "title": "Tame Impala - Patience (Maurice Fulton Remix) (Official Audio)",
+      "description": "‘The Slow Rush Deluxe’: https://TameImpala.lnk.to/Deluxe-TheSlowRushID\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID\nSee Tame Impala on Tour: https://official.tameimpala.com/\nSubscribe to Tame Impala’s YouTube channel: https://TameImp",
+      "duration": 362,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=6NB8wVFgK5Q",
+      "title": "Tame Impala - Borderline (Blood Orange Remix / Official Audio)",
+      "description": "Listen to ‘The Slow Rush’ now: https://TameImpala.lnk.to/TheSlowRushID \nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID \nSee Tame Impala on Tour: https://tameimpalalive.com/ \nSubscribe to Tame Impala’s YouTube channel: https://TameImpal",
+      "duration": 440,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=j706aSetFbI",
+      "title": "Tame Impala - The Boat I Row (Official Audio)",
+      "description": "‘The Slow Rush Deluxe’: https://TameImpala.lnk.to/Deluxe-TheSlowRushID\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID\nSee Tame Impala on Tour: https://official.tameimpala.com/\nSubscribe to Tame Impala’s YouTube channel: https://TameImp",
+      "duration": 239,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=m8rMFXG-T64",
+      "title": "Tame Impala - No Choice (Official Audio)",
+      "description": "Pre-order ‘The Slow Rush Deluxe’: https://TameImpala.lnk.to/Deluxe-TheSlowRushID\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID\nSee Tame Impala on Tour: https://official.tameimpala.com/\nSubscribe to Tame Impala’s YouTube channel: https",
+      "duration": 222,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Rock",
+    "Pop"
+  ],
+  "styles": [
+    "Psychedelic Rock",
+    "Alternative Rock",
+    "Indie Pop",
+    "Indie Rock"
+  ],
+  "tracklist": [
+    {
+      "position": "",
+      "type_": "heading",
+      "title": "The Slow Rush 2xLP Album",
+      "duration": ""
+    },
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "One More Year",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Instant Destiny",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Borderline",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Posthumous Forgiveness",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Breathe Deeper",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Tomorrow's Dust",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "On Track",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Lost In Yesterday",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Is It True",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "It Might Be Time",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Glimmer",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "One More Hour",
+      "duration": ""
+    },
+    {
+      "position": "",
+      "type_": "heading",
+      "title": "Remixes 12\"",
+      "duration": ""
+    },
+    {
+      "position": "A",
+      "type_": "track",
+      "title": "Is It True",
+      "extraartists": [
+        {
+          "name": "Four Tet",
+          "anv": "",
+          "join": "",
+          "role": "Remix",
+          "tracks": "",
+          "id": 3543,
+          "resource_url": "https://api.discogs.com/artists/3543"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Breathe Deeper",
+      "extraartists": [
+        {
+          "name": "Lil Yachty",
+          "anv": "",
+          "join": "",
+          "role": "Remix",
+          "tracks": "",
+          "id": 4938476,
+          "resource_url": "https://api.discogs.com/artists/4938476"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Borderline",
+      "extraartists": [
+        {
+          "name": "Blood Orange (2)",
+          "anv": "",
+          "join": "",
+          "role": "Remix",
+          "tracks": "",
+          "id": 2372814,
+          "resource_url": "https://api.discogs.com/artists/2372814"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "",
+      "type_": "heading",
+      "title": "One More Year / Patience 12\"",
+      "duration": ""
+    },
+    {
+      "position": "A",
+      "type_": "track",
+      "title": "One More Year (NTS Version)",
+      "extraartists": [
+        {
+          "name": "Tame Impala",
+          "anv": "",
+          "join": "",
+          "role": "Remix",
+          "tracks": "",
+          "id": 1245513,
+          "resource_url": "https://api.discogs.com/artists/1245513"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Patience",
+      "extraartists": [
+        {
+          "name": "Maurice Fulton",
+          "anv": "",
+          "join": "",
+          "role": "Remix",
+          "tracks": "",
+          "id": 4594,
+          "resource_url": "https://api.discogs.com/artists/4594"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Patience",
+      "duration": ""
+    },
+    {
+      "position": "",
+      "type_": "heading",
+      "title": "B-Sides 7\"",
+      "duration": ""
+    },
+    {
+      "position": "A",
+      "type_": "track",
+      "title": "The Boat I Row",
+      "duration": ""
+    },
+    {
+      "position": "B",
+      "type_": "track",
+      "title": "No Choice",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/hJaESn9i6NXtxr6rPrKFJKvoT-JEE5gTAqPSWf3TmSM/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjYtMjAyMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/hJaESn9i6NXtxr6rPrKFJKvoT-JEE5gTAqPSWf3TmSM/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjYtMjAyMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/7cOw3eSN6BJs4roactUMKxUPHouCFeENuev-Oe9_LS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjYtMjAyMy5qcGVn.jpeg",
+      "width": 597,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/uPqbnVj-jR0F7Ari9RdInUd-UgLzIkULRypwx3bbXTQ/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NDYtNjU0OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/uPqbnVj-jR0F7Ari9RdInUd-UgLzIkULRypwx3bbXTQ/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NDYtNjU0OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/xDkc_tEWPuiCMM325Xg4aMYELnfSxCpcq1TLs2ofiN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NDYtNjU0OS5qcGVn.jpeg",
+      "width": 595,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/aiHMPsJp1U7ERgBVnnx5BWQ30-1dgd2rIEroRCCxM6g/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjMtNTM5NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/aiHMPsJp1U7ERgBVnnx5BWQ30-1dgd2rIEroRCCxM6g/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjMtNTM5NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/1OpGaIfk_J0Bah4S8Zb-Ixz8OxbSOfCbuL7wdTjti2I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjMtNTM5NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/GbBIIsAnAC0b-YxgxV2iLq4A3eafD3dfTVjDqSOsKlc/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjYtNDcxOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/GbBIIsAnAC0b-YxgxV2iLq4A3eafD3dfTVjDqSOsKlc/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjYtNDcxOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Y9XsYfCf9DOG6mKfyZH3DJYa5QKSLWQ2fuIB9CG_nJw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjYtNDcxOC5qcGVn.jpeg",
+      "width": 600,
+      "height": 590
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/QaEC6sDhTRaPClcmD5EPs2189xXFwKf09NXNUue6Llc/rs:fit/g:sm/q:90/h:291/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjMtODMxNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/QaEC6sDhTRaPClcmD5EPs2189xXFwKf09NXNUue6Llc/rs:fit/g:sm/q:90/h:291/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjMtODMxNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/dNH9z3nJI8Qyx0eGO8u_QSD1Jh5OiuX1W4nhHcXULWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjMtODMxNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 291
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/nEMzgzj7dJ--e8fT_au7YhJ126-irmfFDMZK2B35vGM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjUtMTc4MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/nEMzgzj7dJ--e8fT_au7YhJ126-irmfFDMZK2B35vGM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjUtMTc4MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/pH2q7l5WVImYPAUCNLQZeGZje6-ttpUfuyYaTdbcO2Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjUtMTc4MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 593
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/AwkwGrxaXUiKc2XHMriAe6F_XF4soGdH_fNyXxlt2Ec/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjUtNDg3Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/AwkwGrxaXUiKc2XHMriAe6F_XF4soGdH_fNyXxlt2Ec/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjUtNDg3Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/9WyvRVA3VxTXw-tsXDM_ycVstP7ysa2Ou6zbHmzEdqQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjUtNDg3Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 541
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/X_z4oar3pNzye_7nFjW4WEyK_9wU8JtcN3KfJtCAlpA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NzEtODcxNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/X_z4oar3pNzye_7nFjW4WEyK_9wU8JtcN3KfJtCAlpA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NzEtODcxNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/AG2YFFpSj16VwH07LKrbjbJbnqCqMIkBkmeRAgAjGxE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NzEtODcxNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/RUrO60tGwqOyO9xr5qvgQhZMiZ4fhtE_V7U9X8qTnco/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NzAtMjg4NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/RUrO60tGwqOyO9xr5qvgQhZMiZ4fhtE_V7U9X8qTnco/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NzAtMjg4NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/J3XF3_bHp2Tac_Yz9Zb2015bZxabj3Zi6HiB3pzr5so/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NzAtMjg4NS5qcGVn.jpeg",
+      "width": 597,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ZdSmNkZKflccQmR4I_JFtVx92y49hjKhyck3KkDAkek/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjYtOTk5Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ZdSmNkZKflccQmR4I_JFtVx92y49hjKhyck3KkDAkek/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjYtOTk5Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/08TLtxveZF9CkEpqrSq_pWzaUydoIobTEyfRq9-M1gs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjYtOTk5Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 597
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Hk2TunuuebyzeRsO333e15-ggMzlkVuNeFfL_ioOGaM/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjgtOTIxMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Hk2TunuuebyzeRsO333e15-ggMzlkVuNeFfL_ioOGaM/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjgtOTIxMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/xMszt3_SdzJQfG8KIE6Y0P4yj5LzX7oRQLiw9TpqmIo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjgtOTIxMy5qcGVn.jpeg",
+      "width": 597,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/PzWEeBviZhPVccYuGITNHZwK8_1IveODXF0P4ABvbXI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjYtOTY5Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/PzWEeBviZhPVccYuGITNHZwK8_1IveODXF0P4ABvbXI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjYtOTY5Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/jrEZB_RwR1TEzq8Atcr2WJYvYi3t5IrqCMAxi5N8Eps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjYtOTY5Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 595
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/lWKv3lJkksqyKOL5OOQMH2CSv4JK-8XKqTHlLgFxnXI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjctMjQ2OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/lWKv3lJkksqyKOL5OOQMH2CSv4JK-8XKqTHlLgFxnXI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjctMjQ2OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/tV4J8tQe2pfRCUNhLIywNunxZLH5YwOcpshf1HdXjwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjctMjQ2OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/RC38uQBvsXOi6l8s3WvLtZpiPsrgRO_I-pNdW_HRdIs/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjQtNzQyMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/RC38uQBvsXOi6l8s3WvLtZpiPsrgRO_I-pNdW_HRdIs/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjQtNzQyMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ijgBnjjcAsNnKL3FpjADCXl0uu5Bqca5t7Tg5Xzx_Kk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjQtNzQyMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 595
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/SubffFdLgYR6pQDnv6Yp-XW-o3Vl5vSOlG0oW42GpsA/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjMtNTkxNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/SubffFdLgYR6pQDnv6Yp-XW-o3Vl5vSOlG0oW42GpsA/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjMtNTkxNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/5hqlR9MkZzFx37BKp8BrptB4ILP1p2QU3mtYT2n9c-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjMtNTkxNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 597
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/kK4-LKreJZEkuGF7wskmsjlLY80hSeVdlAlSBJuzeLQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjYtMjU5My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/kK4-LKreJZEkuGF7wskmsjlLY80hSeVdlAlSBJuzeLQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjYtMjU5My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/1jvdv7wea08C2zKP3IFg9dEWhOUy_0IwXAa3KDdDXyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjYtMjU5My5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/rJrcha_mz--upnxIKXCvdqSGwbSFscuPgfdSPqKkVtk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjctMjc5MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/rJrcha_mz--upnxIKXCvdqSGwbSFscuPgfdSPqKkVtk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjctMjc5MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/rCKniWSBNoWsj6Mr1pQs-pxWElQahyyiCz446b-pUO4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjctMjc5MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 591
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/DtHwoSXKPecjHBk49AP-Sljx7NnNiiV7SyGs7Os5uDg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NTQtMzA1MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/DtHwoSXKPecjHBk49AP-Sljx7NnNiiV7SyGs7Os5uDg/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NTQtMzA1MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/gK2ARmJJGYRLVe-IwIjIRY1uu8YF-CE3lB7Eg6xBsFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NTQtMzA1MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/fhNIOtqZGUQ5dIxw33K1DiQ5qAYUxM5llzl5UXFns-o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjgtMzIyMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/fhNIOtqZGUQ5dIxw33K1DiQ5qAYUxM5llzl5UXFns-o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjgtMzIyMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Dv-IqFKqxTnPcdUDX3sCOQhvvvMWaG4Oq_XOH-dnlk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjgtMzIyMy5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/8IPx5G5tNKwYnjqmUcNKih5hf2E8W9Np6DqdttrgdoE/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjMtMTAwMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/8IPx5G5tNKwYnjqmUcNKih5hf2E8W9Np6DqdttrgdoE/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjMtMTAwMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/kKo3cg68Hz3TcmNHILPvJsTHJkjP7IRHunkTJOf1gME/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjMtMTAwMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 587
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ZRguALaatBs3XCT06_e5LzYhrRryVvWdf1UMJtZkZbY/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjAtNDQwMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ZRguALaatBs3XCT06_e5LzYhrRryVvWdf1UMJtZkZbY/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjAtNDQwMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Sj7i23JZHGqrQ6Xx-mxN9GnS73XkRCKk3jDIebX-9m0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjAtNDQwMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 581
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ACu_9DePryPI_s1Fz1OnTv6oHP93eoOEcXERRfc94u8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/ODQtNDc4MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ACu_9DePryPI_s1Fz1OnTv6oHP93eoOEcXERRfc94u8/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/ODQtNDc4MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/UCssLopTf9UlzWNh1fpXBn5oyL_KBx2c9Y3e0Reqgp4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/ODQtNDc4MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 597
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/QEkXIsuwZU4415YhJR9W_YUjiuSUPDvTgAaGPBDHzBE/rs:fit/g:sm/q:90/h:600/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/ODUtNDEwMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/QEkXIsuwZU4415YhJR9W_YUjiuSUPDvTgAaGPBDHzBE/rs:fit/g:sm/q:90/h:600/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/ODUtNDEwMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/K_P2JQtAiTVPBeCVlUsez1-kA4QWB2WRCqjYkmgW75Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/ODUtNDEwMi5qcGVn.jpeg",
+      "width": 300,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/7dEPrZ3J9UlvBVh0M2uGxHI1bITYz8A-P8tblo8N6A0/rs:fit/g:sm/q:90/h:600/w:302/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/ODEtMzIxMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/7dEPrZ3J9UlvBVh0M2uGxHI1bITYz8A-P8tblo8N6A0/rs:fit/g:sm/q:90/h:600/w:302/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/ODEtMzIxMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/6vQQH_IFgw6kgaH3N8dkY0JYS-3T6X8bgUB2C5zPGyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/ODEtMzIxMi5qcGVn.jpeg",
+      "width": 302,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/gcS5EFAqBhCFBHqB4RZpIitU_f6opo4qkm-sBV1gTaI/rs:fit/g:sm/q:90/h:600/w:298/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/ODctOTA4MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/gcS5EFAqBhCFBHqB4RZpIitU_f6opo4qkm-sBV1gTaI/rs:fit/g:sm/q:90/h:600/w:298/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/ODctOTA4MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/cHudNYxjOy4wkiJKYYXviq5586_7tvUTA3SK9Xhp42E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/ODctOTA4MS5qcGVn.jpeg",
+      "width": 298,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/3AQEC2u2ci6rNsBaXtub-XmO9sD8XTuADomRL-k5Y8I/rs:fit/g:sm/q:90/h:600/w:306/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/ODctNzAxNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/3AQEC2u2ci6rNsBaXtub-XmO9sD8XTuADomRL-k5Y8I/rs:fit/g:sm/q:90/h:600/w:306/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/ODctNzAxNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/vU1Ziq7dLhCNXrKqnC_ewt_T9xhCE0wwYSnxISq1C9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/ODctNzAxNy5qcGVn.jpeg",
+      "width": 306,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/GwjB1etGq8ubIpwYzaweyFI2Xj91Mmr4TpdDyoOkgx0/rs:fit/g:sm/q:90/h:600/w:301/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/NzktNzcyNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/GwjB1etGq8ubIpwYzaweyFI2Xj91Mmr4TpdDyoOkgx0/rs:fit/g:sm/q:90/h:600/w:301/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/NzktNzcyNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/bPUG5tAbwcuND_R2ct1R7l9ETnWoL9Ky6wTXlcZtUsg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/NzktNzcyNi5qcGVn.jpeg",
+      "width": 301,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/85rDhySuJxykRMUGiPfQnijQ80pyrWP2untNYpsnN8o/rs:fit/g:sm/q:90/h:600/w:303/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/ODEtNTk2Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/85rDhySuJxykRMUGiPfQnijQ80pyrWP2untNYpsnN8o/rs:fit/g:sm/q:90/h:600/w:303/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/ODEtNTk2Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/BUmCNnbNBO-vhoUYNlXnQNy89CTGV7b8EcyUOaOmo08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/ODEtNTk2Mi5qcGVn.jpeg",
+      "width": 303,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/mlHytv_We7hwvbmWwm1i0xKsPAr4u2lvLwJEL5mrgjc/rs:fit/g:sm/q:90/h:600/w:305/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/ODUtNDM5Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/mlHytv_We7hwvbmWwm1i0xKsPAr4u2lvLwJEL5mrgjc/rs:fit/g:sm/q:90/h:600/w:305/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/ODUtNDM5Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/lmxUjgVi6ijm0fiG7Xmm_jfypvu3fMQf54bZuIhvvL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/ODUtNDM5Mi5qcGVn.jpeg",
+      "width": 305,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/qVKVnj_eIHktF14dB0uJncw200ZvbXMO6KQ1-EEcg_E/rs:fit/g:sm/q:90/h:600/w:301/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/OTAtODAxMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/qVKVnj_eIHktF14dB0uJncw200ZvbXMO6KQ1-EEcg_E/rs:fit/g:sm/q:90/h:600/w:301/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/OTAtODAxMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/_py7kcRI3FZWL1JBgSNgz8gprj4Bnbk3r8Uc3Xconks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/OTAtODAxMi5qcGVn.jpeg",
+      "width": 301,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/TMYySUZBaktGjqNlqdlhnzpQ1nRfTg1QYkwidRy7z98/rs:fit/g:sm/q:90/h:600/w:303/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/OTAtNzMzMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/TMYySUZBaktGjqNlqdlhnzpQ1nRfTg1QYkwidRy7z98/rs:fit/g:sm/q:90/h:600/w:303/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/OTAtNzMzMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/sB_ZV3tJiv85qz2tbFey44akxm71_bdzvp1TQvXjmiE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/OTAtNzMzMi5qcGVn.jpeg",
+      "width": 303,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/JYo0oKZPuSwfEZnuFreC4KKOv7J6E4GYYWzAYMRNa4g/rs:fit/g:sm/q:90/h:600/w:307/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/OTEtMjIxNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/JYo0oKZPuSwfEZnuFreC4KKOv7J6E4GYYWzAYMRNa4g/rs:fit/g:sm/q:90/h:600/w:307/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/OTEtMjIxNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/hb06v9z6J1axV8yhFpR_nk60uvsuLWPwK5eC03wXmJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/OTEtMjIxNS5qcGVn.jpeg",
+      "width": 307,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/a1qrX9CBpkksOtQkOZVjFduB0QtE52wPrb4FpF4ew8I/rs:fit/g:sm/q:90/h:600/w:302/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/OTEtMTY2OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/a1qrX9CBpkksOtQkOZVjFduB0QtE52wPrb4FpF4ew8I/rs:fit/g:sm/q:90/h:600/w:302/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/OTEtMTY2OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/yFO4puULzSwq8WolLep9MMBS2X0K7q4JVVyeiByvGR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/OTEtMTY2OS5qcGVn.jpeg",
+      "width": 302,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/HOBOkfPwV2oTibp7qow4QoXNu_ChHhnkPVSCmVCo_RA/rs:fit/g:sm/q:90/h:600/w:306/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/OTEtNTgxNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/HOBOkfPwV2oTibp7qow4QoXNu_ChHhnkPVSCmVCo_RA/rs:fit/g:sm/q:90/h:600/w:306/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/OTEtNTgxNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/LX8Nqg6sE-0wh8MZ4ctm2l8bHDqgJuSldFG4E_GusaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/OTEtNTgxNS5qcGVn.jpeg",
+      "width": 306,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/u5QyFxgoKmOZDRMgwktxVeDEk0Ii6e-h6m9nDk2oQaQ/rs:fit/g:sm/q:90/h:600/w:301/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/ODktNjE4Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/u5QyFxgoKmOZDRMgwktxVeDEk0Ii6e-h6m9nDk2oQaQ/rs:fit/g:sm/q:90/h:600/w:301/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/ODktNjE4Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/wLWgZiscxlq5m8kAVyHsmAmTgAs6aeQ-vyAHtBWoDlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/ODktNjE4Mi5qcGVn.jpeg",
+      "width": 301,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/LRMbpK__62IMk-j4UAAueAz3r4TkhHo1fLlyqX_5Cqc/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/ODYtMTM2NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/LRMbpK__62IMk-j4UAAueAz3r4TkhHo1fLlyqX_5Cqc/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/ODYtMTM2NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/vQViXh2-goTA5K-1M96fkDjedikBoy7w7Dsb1BhqrtA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcx/ODYtMTM2NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 589
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/texW-oDSUMJ5YSp6DCGximULPLTPntRKFcYmY4v_j6U/rs:fit/g:sm/q:90/h:600/w:439/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MDYtNjg3MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/texW-oDSUMJ5YSp6DCGximULPLTPntRKFcYmY4v_j6U/rs:fit/g:sm/q:90/h:600/w:439/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MDYtNjg3MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/nko3EtG-XTCL_vHdFCNLveiU17pRh_0kMMZtxhHNz4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MDYtNjg3MS5qcGVn.jpeg",
+      "width": 439,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/xQMp8hx6L1FAi2cVq6bzxxYNQD0nt9F7QKzIw6fiFhw/rs:fit/g:sm/q:90/h:394/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzgtNTg2NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/xQMp8hx6L1FAi2cVq6bzxxYNQD0nt9F7QKzIw6fiFhw/rs:fit/g:sm/q:90/h:394/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzgtNTg2NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/yLymYQv64X1PqYJSei_pprvnZfykA7IWRFQeITEnJvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzgtNTg2NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 394
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/RmqKXtc6wgatfGfgKZW4I3Yjj9R8nDbLF5WPmInN4pE/rs:fit/g:sm/q:90/h:409/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzctMTI1OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/RmqKXtc6wgatfGfgKZW4I3Yjj9R8nDbLF5WPmInN4pE/rs:fit/g:sm/q:90/h:409/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzctMTI1OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Dl-a3iqbLL7-L22u9N8BrFEy9ae-SkDRTlst0YssI9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzctMTI1OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 409
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/yA8uztQhn8RH73_fgUEEljJWzOJm6O6E_5wInLSS4R4/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MjYtODA1NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/yA8uztQhn8RH73_fgUEEljJWzOJm6O6E_5wInLSS4R4/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MjYtODA1NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/qd_7OD6E9g8rnhQOYAK-hp8KGRglhOToyz5vKmpjjA8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MjYtODA1NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 400
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/PBfIbfkMG9Ey0iNUeewxAgljvk-Qo55P4jTvSi9GIws/rs:fit/g:sm/q:90/h:406/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MjgtMTkwMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/PBfIbfkMG9Ey0iNUeewxAgljvk-Qo55P4jTvSi9GIws/rs:fit/g:sm/q:90/h:406/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MjgtMTkwMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/77EQExULNJjbqkI3goNPshR3ar0eqz_ZYpAEzcCXguM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MjgtMTkwMy5qcGVn.jpeg",
+      "width": 600,
+      "height": 406
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/c5Zwwh9ef4jfn1g8LrTkJuDNPQoabPECTnmCXJVaOgI/rs:fit/g:sm/q:90/h:403/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzctNjUyOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/c5Zwwh9ef4jfn1g8LrTkJuDNPQoabPECTnmCXJVaOgI/rs:fit/g:sm/q:90/h:403/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzctNjUyOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/y1PSFr3WAsb-SnIZaaM6-gYNQ6KryxLNqtprJ1zVCKk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzctNjUyOS5qcGVn.jpeg",
+      "width": 600,
+      "height": 403
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/aMohozu_GCLkCdnLnpURHqsVB2VaJSQ_20fDDkxlHc8/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzUtMjk1NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/aMohozu_GCLkCdnLnpURHqsVB2VaJSQ_20fDDkxlHc8/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzUtMjk1NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/mUQg_B09gjBMBhSlmK9JZdqVvxgU1FceL12WX3Iu5lA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzUtMjk1NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 399
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/I1kn20d6qulKmAXWPA-K7w9nsPTtUn2e56unaYYr-ho/rs:fit/g:sm/q:90/h:401/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzctMzI1OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/I1kn20d6qulKmAXWPA-K7w9nsPTtUn2e56unaYYr-ho/rs:fit/g:sm/q:90/h:401/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzctMzI1OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/V0tPOJsiosv0fBMTLhIO6YH6_Uh_sSA2214AoGulXTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzctMzI1OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 401
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/DykUurNfWafnvcu-laLSXMEDahA2y6Pj6n24wmNdmSI/rs:fit/g:sm/q:90/h:396/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzYtNzExNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/DykUurNfWafnvcu-laLSXMEDahA2y6Pj6n24wmNdmSI/rs:fit/g:sm/q:90/h:396/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzYtNzExNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/yALmUfDcM2jrjJBh5EzgvBiSaQnLJ7ayIipz5BnyVZc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzYtNzExNi5qcGVn.jpeg",
+      "width": 600,
+      "height": 396
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/VMsqSHwdjm7vUu0UkKVnKQ0QySqMsu-GQaHZipuVc5A/rs:fit/g:sm/q:90/h:405/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzYtNjMwNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/VMsqSHwdjm7vUu0UkKVnKQ0QySqMsu-GQaHZipuVc5A/rs:fit/g:sm/q:90/h:405/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzYtNjMwNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/2Jta5bYYuRhDfqN_v4IKtvrOnmj4MxPnB2tNYar0agc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzYtNjMwNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 405
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/dhUuzTqgh_qKpDFkJYUvDlEzb4dXgn6_9GWMdMISDU8/rs:fit/g:sm/q:90/h:402/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzYtNjQ5NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/dhUuzTqgh_qKpDFkJYUvDlEzb4dXgn6_9GWMdMISDU8/rs:fit/g:sm/q:90/h:402/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzYtNjQ5NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Aa44P0G3Waoj_1lq3xwimKJeGdXMoq_YGhQi9V2FxO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzYtNjQ5NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 402
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/40yby0cVvDs1zuFOck3BsLJDUjWJaVZTTCZDe541WS0/rs:fit/g:sm/q:90/h:406/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/NDYtMjUwOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/40yby0cVvDs1zuFOck3BsLJDUjWJaVZTTCZDe541WS0/rs:fit/g:sm/q:90/h:406/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/NDYtMjUwOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Gl3gIZ1VBVLOYHn9QFwsMy_l-Fp_9wcr0S84qd284uI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/NDYtMjUwOC5qcGVn.jpeg",
+      "width": 600,
+      "height": 406
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/HKnQvaYg18LzGbcVN_1teoHoOmXiIC29m1GRrBzz80E/rs:fit/g:sm/q:90/h:405/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzYtOTQxNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/HKnQvaYg18LzGbcVN_1teoHoOmXiIC29m1GRrBzz80E/rs:fit/g:sm/q:90/h:405/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzYtOTQxNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/NRg4djGuWlc6zTbd4YUB2BAU0Ut5I94jvVCshcEAv9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzYtOTQxNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 405
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/wAMrQtZfY7mZYf7SM-sMpvKIpGxGH0K1HwKXmztAVBY/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzUtOTg4My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/wAMrQtZfY7mZYf7SM-sMpvKIpGxGH0K1HwKXmztAVBY/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzUtOTg4My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/C6R79cD9DpSE1sun0wl42gqGsOnQc4KEswMobyHmMCo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzUtOTg4My5qcGVn.jpeg",
+      "width": 600,
+      "height": 399
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/d1v9fCFhOGxudEHg-p_VrG17nkOc68tJp17AJuavX_I/rs:fit/g:sm/q:90/h:406/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzgtODkzNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/d1v9fCFhOGxudEHg-p_VrG17nkOc68tJp17AJuavX_I/rs:fit/g:sm/q:90/h:406/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzgtODkzNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ASLiA5kKftzIbqaUJPCvISWJ8JvDSx3Kxh7j3qm6TH8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzgtODkzNi5qcGVn.jpeg",
+      "width": 600,
+      "height": 406
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/PuZahlmkJbhVBPVi-b9GWmUbZ-UjL8VbTiOqKjBPefY/rs:fit/g:sm/q:90/h:405/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/NDYtNDc3My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/PuZahlmkJbhVBPVi-b9GWmUbZ-UjL8VbTiOqKjBPefY/rs:fit/g:sm/q:90/h:405/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/NDYtNDc3My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/6c0mkm5m2vV5LTB9Skj3j-uX6DmGmDolVJxBwEr8d24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/NDYtNDc3My5qcGVn.jpeg",
+      "width": 600,
+      "height": 405
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/p-1lgwXVrZyTzhTicenzhUozfQnA0D_SyZGL9T0rlj4/rs:fit/g:sm/q:90/h:403/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/NDQtNDk0My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/p-1lgwXVrZyTzhTicenzhUozfQnA0D_SyZGL9T0rlj4/rs:fit/g:sm/q:90/h:403/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/NDQtNDk0My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/8ktLqjw4NcP979MHIrSLqj3Ghuwzs6s9jw2zV-PKUHo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/NDQtNDk0My5qcGVn.jpeg",
+      "width": 600,
+      "height": 403
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/AINyaKcHicTAZYvGYI0GrTaXk2fb7Dys7Tq20RkHVFM/rs:fit/g:sm/q:90/h:412/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzgtMTI0NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/AINyaKcHicTAZYvGYI0GrTaXk2fb7Dys7Tq20RkHVFM/rs:fit/g:sm/q:90/h:412/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzgtMTI0NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/lXKRM1nEI0m1O762bzNcPr_oTMnKKpjHjZ1Nra6Q4pc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MzgtMTI0NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 412
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/pzOI5TljEjsqm8aIeHCeR3PzN344Z56K7JPJJa-onkg/rs:fit/g:sm/q:90/h:408/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MDYtNTk0NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/pzOI5TljEjsqm8aIeHCeR3PzN344Z56K7JPJJa-onkg/rs:fit/g:sm/q:90/h:408/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MDYtNTk0NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/mJiId7Nm8uXaZX6kRVB9TDV-OIIUZokJJb7Gdg-ONJE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/MDYtNTk0NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 408
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/xcocXIyaRme4R42pAHK6L7jXuhxOIF-GyHLXUlM79OE/rs:fit/g:sm/q:90/h:402/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/NDUtNDc4My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/xcocXIyaRme4R42pAHK6L7jXuhxOIF-GyHLXUlM79OE/rs:fit/g:sm/q:90/h:402/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/NDUtNDc4My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/bNr3Chm-HemHfIDsgoAmtlEpd4F7hkTRGzoIWiZTK7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/NDUtNDc4My5qcGVn.jpeg",
+      "width": 600,
+      "height": 402
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/QG0lJirbe_uYPc7ogcylFRzFma-EkWZ06y4VrI3hAdM/rs:fit/g:sm/q:90/h:600/w:435/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/NDMtODcxMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/QG0lJirbe_uYPc7ogcylFRzFma-EkWZ06y4VrI3hAdM/rs:fit/g:sm/q:90/h:600/w:435/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/NDMtODcxMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/9Blx-aMxpvEF5zW5VHft6-e8-e1eDAjVA0Jr2BcZFik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/NDMtODcxMi5qcGVn.jpeg",
+      "width": 435,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/3q2tK-qgsLfk4q4rcES95XPNqcON2wi7_4ytGQdOT70/rs:fit/g:sm/q:90/h:392/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/NDYtOTQzOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/3q2tK-qgsLfk4q4rcES95XPNqcON2wi7_4ytGQdOT70/rs:fit/g:sm/q:90/h:392/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/NDYtOTQzOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/b3oUmjq1lXw-HDcR8wxCGp3eIQploRQqU_b0SM_ZnZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODc0/NDYtOTQzOS5qcGVn.jpeg",
+      "width": 600,
+      "height": 392
+    }
+  ],
+  "thumb": "https://i.discogs.com/7cOw3eSN6BJs4roactUMKxUPHouCFeENuev-Oe9_LS0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODA2/Njk4LTE2Njg3ODcw/NjYtMjAyMy5qcGVn.jpeg",
+  "estimated_weight": 1150,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

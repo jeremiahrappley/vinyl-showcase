@@ -1,0 +1,1836 @@
+{
+  "id": 33539967,
+  "status": "Accepted",
+  "year": 2025,
+  "resource_url": "https://api.discogs.com/releases/33539967",
+  "uri": "https://www.discogs.com/release/33539967-Ariana-Grande-Eternal-Sunshine-Deluxe-Brighter-Days-Ahead",
+  "artists": [
+    {
+      "name": "Ariana Grande",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 3310737,
+      "resource_url": "https://api.discogs.com/artists/3310737",
+      "thumbnail_url": "https://i.discogs.com/ns2Lr4_vKieO-26rNH1Uzj5CreZtJlFsHv_Y4ebasps/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMzMTA3/MzctMTc3OTAzOTgw/NS0yMDQ1LnBuZw.jpeg"
+    }
+  ],
+  "artists_sort": "Ariana Grande",
+  "labels": [
+    {
+      "name": "Republic Records",
+      "catno": "602468076469",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Republic Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    },
+    {
+      "name": "Republic Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    },
+    {
+      "name": "UMG Recordings, Inc.",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 272782,
+      "resource_url": "https://api.discogs.com/labels/272782",
+      "thumbnail_url": "https://i.discogs.com/WX78Ss6rJPzD8aWRj-wynSuGlTwtQLp2QLnUFGDI3Pg/rs:fit/g:sm/q:90/h:80/w:534/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Mjc4/Mi0xNDU3MDEyNDAw/LTExMzYuanBlZw.jpeg"
+    },
+    {
+      "name": "UMG Commercial Services",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 1419182,
+      "resource_url": "https://api.discogs.com/labels/1419182"
+    },
+    {
+      "name": "GZ Media",
+      "catno": "292576E",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    },
+    {
+      "name": "Sterling Sound Nashville",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 1524469,
+      "resource_url": "https://api.discogs.com/labels/1524469",
+      "thumbnail_url": "https://i.discogs.com/vvvZti0YxdLBHed8OuOZXwJO1_0Xmf2CKhCW4jYOIcs/rs:fit/g:sm/q:90/h:190/w:265/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1MjQ0/NjktMTU4OTk4NzE4/OS0yNDc2LmpwZWc.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Deluxe Edition"
+      ],
+      "text": "Translucent Marble"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 8051,
+    "want": 1454,
+    "rating": {
+      "count": 1162,
+      "average": 4.88
+    },
+    "submitter": {
+      "username": "kellymarie11",
+      "resource_url": "https://api.discogs.com/users/kellymarie11"
+    },
+    "contributors": [
+      {
+        "username": "kellymarie11",
+        "resource_url": "https://api.discogs.com/users/kellymarie11"
+      },
+      {
+        "username": "myvinyldiscography",
+        "resource_url": "https://api.discogs.com/users/myvinyldiscography"
+      },
+      {
+        "username": "idratherbereading",
+        "resource_url": "https://api.discogs.com/users/idratherbereading"
+      },
+      {
+        "username": "cursedoracles",
+        "resource_url": "https://api.discogs.com/users/cursedoracles"
+      },
+      {
+        "username": "eryktx",
+        "resource_url": "https://api.discogs.com/users/eryktx"
+      },
+      {
+        "username": "SP_Vinyl",
+        "resource_url": "https://api.discogs.com/users/SP_Vinyl"
+      },
+      {
+        "username": "MusicHideaway",
+        "resource_url": "https://api.discogs.com/users/MusicHideaway"
+      },
+      {
+        "username": "mmbird027",
+        "resource_url": "https://api.discogs.com/users/mmbird027"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2025-03-28T09:43:28-07:00",
+  "date_changed": "2025-06-30T22:00:02-07:00",
+  "num_for_sale": 17,
+  "lowest_price": 29.99,
+  "master_id": 3418216,
+  "master_url": "https://api.discogs.com/masters/3418216",
+  "title": "Eternal Sunshine Deluxe: Brighter Days Ahead",
+  "country": "US",
+  "released": "2025-03-28",
+  "notes": "Issued in a gatefold jacket with 24-page booklet featuring lyrics and new photos.\n\nAll tracks are stylized in lowercase, except for track A4, \"Saturn Returns Interlude\", and track D22, \"Hampstead\".\nAll tracks are listed sequentially, regardless of side.\n\nNot to be confused with the [url=https://www.discogs.com/release/33538773]EU release[/url].",
+  "released_formatted": "28 Mar 2025",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02468 07646 9",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "602468076469",
+      "description": "Scanned"
+    },
+    {
+      "type": "Other",
+      "value": "602468076469-A.1",
+      "description": "Side A label"
+    },
+    {
+      "type": "Other",
+      "value": "602468076469-B.1",
+      "description": "Side B label"
+    },
+    {
+      "type": "Other",
+      "value": "602468076469-C.1",
+      "description": "Side C label"
+    },
+    {
+      "type": "Other",
+      "value": "602468076469-D.1",
+      "description": "Side D label"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "602468076469-A 292576E1 02159528 2157500 602468076469-A (1) JN-H STERLING",
+      "description": "Side A runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "602468076469-B 292576E2 02162750 2093347 602468076469-B (1) JN-H STERLING ",
+      "description": "Side B runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "602468076469-C 292576E3 02163898 2157490 602468076469-C (1) JN-H STERLING",
+      "description": "Side C runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "602468076469-D 2157497 292576E4 02163843 602468076469-D (1) JN-H STERLING",
+      "description": "Side D runout"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=p7jATa6Soag",
+      "title": "Ariana Grande - intro (end of the world) (lyric visualizer)",
+      "description": "Music video by Ariana Grande performing intro (end of the world) (Lyric Video).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 93,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=dS_HLHozs1E",
+      "title": "Ariana Grande - eternal sunshine (lyric visualizer)",
+      "description": "Music video by Ariana Grande performing eternal sunshine (Lyric Video).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 211,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=PlaiDnJyabE",
+      "title": "Ariana Grande - bye (lyric visualizer)",
+      "description": "Music video by Ariana Grande performing bye (Lyric Video).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 166,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=_ZSuyl3BZHY",
+      "title": "Ariana Grande - don't wanna break up again (lyric visualizer)",
+      "description": "Music video by Ariana Grande performing don't wanna break up again (Lyric Video).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 175,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=f68Og1FPFfw",
+      "title": "Ariana Grande - Saturn Returns Interlude (lyric visualizer)",
+      "description": "Music video by Ariana Grande performing Saturn Returns Interlude (Lyric Video).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 43,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=hKwizc5nsWY",
+      "title": "Ariana Grande - supernatural (official music video)",
+      "description": "Music video by Ariana Grande performing supernatural.© 2025 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 167,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=6FEvblq6jzA",
+      "title": "Ariana Grande - true story (lyric visualizer)",
+      "description": "Music video by Ariana Grande performing true story (Lyric Video).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 164,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KwRxeZ9Ro24",
+      "title": "Ariana Grande - the boy is mine (Official Music Video)",
+      "description": "Music video by Ariana Grande performing the boy is mine.© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 377,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=eB6txyhHFG4",
+      "title": "Ariana Grande - yes, and? (official music video)",
+      "description": "Music video by Ariana Grande performing yes, and?.© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 275,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KNtJGQkC-WI",
+      "title": "Ariana Grande - we can't be friends (wait for your love) (official music video)",
+      "description": "Music video by Ariana Grande performing we can't be friends (wait for your love).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 284,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=T5k2-0yRzKc",
+      "title": "Ariana Grande - i wish i hated you (lyric visualizer)",
+      "description": "Music video by Ariana Grande performing i wish i hated you (Lyric Video).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 155,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=VtQorLzzbQw",
+      "title": "Ariana Grande - imperfect for you (lyric visualizer)",
+      "description": "Music video by Ariana Grande performing imperfect for you (Lyric Video).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 183,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=6XWMiMlZHfA",
+      "title": "Ariana Grande - ordinary things (lyric visualizer) ft. Nonna",
+      "description": "Music video by Ariana Grande performing ordinary things (Lyric Video).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 169,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5pt2rIhsFtk",
+      "title": "Ariana Grande - supernatural (lyric visualizer) ft. Troye Sivan",
+      "description": "Music video by Ariana Grande performing supernatural (Lyric Video).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 164,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=TaanS28Ea80",
+      "title": "Ariana Grande - imperfect for you (acoustic) (lyric visualizer)",
+      "description": "Music video by Ariana Grande performing imperfect for you (acoustic / Lyric Video).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 184,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=zJWZDa2uxtA",
+      "title": "Ariana Grande - true story (a cappella) (lyric visualizer)",
+      "description": "The official “true story” (a cappella) lyric visualizer by Ariana Grande. \n \nListen & download here: https://arianagrande.lnk.to/slightlydeluxe\n\n►Subscribe to Ariana Grande: http://arianagrande.lnk.to/subscribe\n \n►Follow Ariana Grande\nInstagram: https://w",
+      "duration": 164,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=r6vz9ym3Qso",
+      "title": "Ariana Grande, Mariah Carey - yes, and? (Lyric Video)",
+      "description": "Music video by Ariana Grande, Mariah Carey performing yes, and? (Lyric Video).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 214,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=j69AZ7mfPlU",
+      "title": "Ariana Grande, Brandy, Monica - the boy is mine (Remix) (Official Lyric Video)",
+      "description": "directed by: @katiatemkin\nanimated by : @sofianinova\nproduced by: @themorganrussell\n\nMusic video by Ariana Grande, Brandy, Monica performing the boy is mine (Remix / Lyric Video).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 213,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=9IAIFUwMQOY",
+      "title": "Ariana Grande - intro (end of the world) (live version)",
+      "description": "Music video by Ariana Grande performing intro (end of the world) (live version).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 106,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=7Rfiggb6_YQ",
+      "title": "Ariana Grande - don’t wanna break up again (live version)",
+      "description": "The official performance of “don’t wanna break up again” (live version) by Ariana Grande. Listen to & download the ‘eternal sunshine (slightly deluxe and also live)’ album here: https://arianagrande.lnk.to/slightlydeluxeandlive \n\n►Shop Merch: https://aria",
+      "duration": 172,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=zFwrArDXHkE",
+      "title": "Ariana Grande - eternal sunshine (live version)",
+      "description": "The official performance of “eternal sunshine (live version)” by Ariana Grande. Listen to & download the ‘eternal sunshine (slightly deluxe and also live)’ album here: https://arianagrande.lnk.to/slightlydeluxeandlive \n\n►Shop Merch: https://arianagrande.l",
+      "duration": 209,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=1Oz9rEpcBH0",
+      "title": "Ariana Grande - supernatural (live version)",
+      "description": "Music video by Ariana Grande performing supernatural (live version).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 166,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=-ZA9EqbHzbE",
+      "title": "Ariana Grande - yes, and? (live version)",
+      "description": "The official performance of “yes, and?” (live version) by Ariana Grande. Listen to & download the ‘eternal sunshine (slightly deluxe and also live)’ album here: https://arianagrande.lnk.to/slightlydeluxeandlive \n\n►Shop Merch: https://arianagrande.lnk.to/s",
+      "duration": 199,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=cZTlRmNgJz4",
+      "title": "Ariana Grande - we can’t be friends (wait for your love) (live version)",
+      "description": "The official performance of “we can't be friends (wait for your love)” (live version) by Ariana Grande. Listen to & download the ‘eternal sunshine (slightly deluxe and also live)’ album here: https://arianagrande.lnk.to/slightlydeluxeandlive \n\n►Shop Merch",
+      "duration": 204,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=e0JhRAxlQ1I",
+      "title": "Ariana Grande - imperfect for you (live version)",
+      "description": "Music video by Ariana Grande performing imperfect for you (live version).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 184,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=3w4r9TxcG8s",
+      "title": "Ariana Grande - Hampstead",
+      "description": "Music video by Ariana Grande performing Hampstead.© 2025 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 395,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ztotaQ79eek",
+      "title": "Ariana Grande - intro (end of the world) (extended) (lyric visualizer)",
+      "description": "The official “intro (end of the world) - extended” official lyric visualizer by Ariana Grande. \n \nListen to & download ‘eternal sunshine deluxe: brighter days ahead’: https://arianagrande.lnk.to/esdeluxe\n \n►Subscribe to Ariana Grande: http://ArianaGrande.",
+      "duration": 162,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=x1XIJM6spaE",
+      "title": "Ariana Grande - twilight zone (Official Lyric Video)",
+      "description": "The official “twilight zone” official lyric video by Ariana Grande. \n \nListen to & download ‘eternal sunshine deluxe: brighter days ahead’: https://arianagrande.lnk.to/esdeluxe\n \n►Subscribe to Ariana Grande: http://ArianaGrande.lnk.to/subscribe\n \n►Follow ",
+      "duration": 203,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=u_JNpPN7Dfo",
+      "title": "Ariana Grande - warm (lyric visualizer)",
+      "description": "Music video by Ariana Grande performing warm (Lyric Video).© 2025 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 202,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=qN4nWpW1UMA",
+      "title": "Ariana Grande - dandelion (lyric visualizer)",
+      "description": "The official “dandelion” official lyric visualizer by Ariana Grande. \n \nListen to & download ‘eternal sunshine deluxe: brighter days ahead’: https://arianagrande.lnk.to/esdeluxe\n \n►Subscribe to Ariana Grande: http://ArianaGrande.lnk.to/subscribe\n \n►Follow",
+      "duration": 205,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=vPY97B24nC4",
+      "title": "Ariana Grande - past life (lyric visualizer)",
+      "description": "The official “past life” official lyric visualizer by Ariana Grande. \n \nListen to & download ‘eternal sunshine deluxe: brighter days ahead’: https://arianagrande.lnk.to/esdeluxe\n \n►Subscribe to Ariana Grande: http://ArianaGrande.lnk.to/subscribe\n \n►Follow",
+      "duration": 216,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Pop"
+  ],
+  "styles": [
+    "Contemporary R&B",
+    "Trap",
+    "Dance-pop"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Intro (End Of The World)",
+      "extraartists": [
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Aaron Paris",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 5978845,
+          "resource_url": "https://api.discogs.com/artists/5978845"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Nick Lee (13)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 8247255,
+          "resource_url": "https://api.discogs.com/artists/8247255"
+        },
+        {
+          "name": "Shintaro Yasuda",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 9139873,
+          "resource_url": "https://api.discogs.com/artists/9139873"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Bye",
+      "extraartists": [
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Ilya Salmanzadeh",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 2363686,
+          "resource_url": "https://api.discogs.com/artists/2363686"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Don't Wanna Break Up Again",
+      "extraartists": [
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Ilya Salmanzadeh",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 2363686,
+          "resource_url": "https://api.discogs.com/artists/2363686"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Saturn Returns Interlude",
+      "extraartists": [
+        {
+          "name": "Diana Garland",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 14280187,
+          "resource_url": "https://api.discogs.com/artists/14280187"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Ilya Salmanzadeh",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 2363686,
+          "resource_url": "https://api.discogs.com/artists/2363686"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        },
+        {
+          "name": "Will Loftis",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 14280190,
+          "resource_url": "https://api.discogs.com/artists/14280190"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Eternal Sunshine",
+      "extraartists": [
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Davidior",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 6186947,
+          "resource_url": "https://api.discogs.com/artists/6186947"
+        },
+        {
+          "name": "Ilya Salmanzadeh",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 2363686,
+          "resource_url": "https://api.discogs.com/artists/2363686"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        },
+        {
+          "name": "Shintaro Yasuda",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 9139873,
+          "resource_url": "https://api.discogs.com/artists/9139873"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Supernatural",
+      "extraartists": [
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        },
+        {
+          "name": "Oscar Görres",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 1082368,
+          "resource_url": "https://api.discogs.com/artists/1082368"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "title": "True Story",
+      "extraartists": [
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Ilya Salmanzadeh",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 2363686,
+          "resource_url": "https://api.discogs.com/artists/2363686"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B8",
+      "type_": "track",
+      "title": "The Boy Is Mine",
+      "extraartists": [
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Davidior",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 6186947,
+          "resource_url": "https://api.discogs.com/artists/6186947"
+        },
+        {
+          "name": "Ilya Salmanzadeh",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 2363686,
+          "resource_url": "https://api.discogs.com/artists/2363686"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        },
+        {
+          "name": "Shintaro Yasuda",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 9139873,
+          "resource_url": "https://api.discogs.com/artists/9139873"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B9",
+      "type_": "track",
+      "title": "Yes, And?",
+      "extraartists": [
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Ilya Salmanzadeh",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 2363686,
+          "resource_url": "https://api.discogs.com/artists/2363686"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B10",
+      "type_": "track",
+      "title": "We Can't Be Friends (Wait For Your Love)",
+      "extraartists": [
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Ilya Salmanzadeh",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 2363686,
+          "resource_url": "https://api.discogs.com/artists/2363686"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B11",
+      "type_": "track",
+      "title": "I Wish I Hated You",
+      "extraartists": [
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Ilya Salmanzadeh",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 2363686,
+          "resource_url": "https://api.discogs.com/artists/2363686"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B12",
+      "type_": "track",
+      "title": "Imperfect For You",
+      "extraartists": [
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Ilya Salmanzadeh",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 2363686,
+          "resource_url": "https://api.discogs.com/artists/2363686"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        },
+        {
+          "name": "Peter Kahm",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 404557,
+          "resource_url": "https://api.discogs.com/artists/404557"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B13",
+      "type_": "track",
+      "title": "Ordinary Things",
+      "extraartists": [
+        {
+          "name": "Marjorie Grande",
+          "anv": "Nonna",
+          "join": "",
+          "role": "Featuring [Feat.]",
+          "tracks": "",
+          "id": 6995316,
+          "resource_url": "https://api.discogs.com/artists/6995316"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Marjorie Grande",
+          "anv": "Nonna",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 6995316,
+          "resource_url": "https://api.discogs.com/artists/6995316"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Luka Kloser",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 6899382,
+          "resource_url": "https://api.discogs.com/artists/6899382"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        },
+        {
+          "name": "Nick Lee (13)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 8247255,
+          "resource_url": "https://api.discogs.com/artists/8247255"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C14",
+      "type_": "track",
+      "title": "Intro (End Of The World) (Extended)",
+      "extraartists": [
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Aaron Paris",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 5978845,
+          "resource_url": "https://api.discogs.com/artists/5978845"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Nick Lee (13)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 8247255,
+          "resource_url": "https://api.discogs.com/artists/8247255"
+        },
+        {
+          "name": "Shintaro Yasuda",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 9139873,
+          "resource_url": "https://api.discogs.com/artists/9139873"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C15",
+      "type_": "track",
+      "title": "Yes, And? (Remix)",
+      "extraartists": [
+        {
+          "name": "Mariah Carey",
+          "anv": "",
+          "join": "",
+          "role": "Featuring [With]",
+          "tracks": "",
+          "id": 33534,
+          "resource_url": "https://api.discogs.com/artists/33534"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Mariah Carey",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 33534,
+          "resource_url": "https://api.discogs.com/artists/33534"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Ilya Salmanzadeh",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 2363686,
+          "resource_url": "https://api.discogs.com/artists/2363686"
+        },
+        {
+          "name": "Mariah Carey",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 33534,
+          "resource_url": "https://api.discogs.com/artists/33534"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C16",
+      "type_": "track",
+      "title": "Supernatural (Remix)",
+      "extraartists": [
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Featuring [With]",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Brett McLaughlin",
+          "anv": "Brett Leland McLaughlin",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 3192001,
+          "resource_url": "https://api.discogs.com/artists/3192001"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        },
+        {
+          "name": "Oscar Görres",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 1082368,
+          "resource_url": "https://api.discogs.com/artists/1082368"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C17",
+      "type_": "track",
+      "title": "The Boy Is Mine (Remix)",
+      "extraartists": [
+        {
+          "name": "Brandy (2)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring [With]",
+          "tracks": "",
+          "id": 31751,
+          "resource_url": "https://api.discogs.com/artists/31751"
+        },
+        {
+          "name": "Monica",
+          "anv": "",
+          "join": "",
+          "role": "Featuring [With]",
+          "tracks": "",
+          "id": 41922,
+          "resource_url": "https://api.discogs.com/artists/41922"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Brandy Norwood",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 1212570,
+          "resource_url": "https://api.discogs.com/artists/1212570"
+        },
+        {
+          "name": "Davidior",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 6186947,
+          "resource_url": "https://api.discogs.com/artists/6186947"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        },
+        {
+          "name": "Monica Arnold",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 1176627,
+          "resource_url": "https://api.discogs.com/artists/1176627"
+        },
+        {
+          "name": "Shintaro Yasuda",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 9139873,
+          "resource_url": "https://api.discogs.com/artists/9139873"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D18",
+      "type_": "track",
+      "title": "Twilight Zone",
+      "extraartists": [
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Ilya Salmanzadeh",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 2363686,
+          "resource_url": "https://api.discogs.com/artists/2363686"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D19",
+      "type_": "track",
+      "title": "Warm",
+      "extraartists": [
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        },
+        {
+          "name": "Oscar Görres",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 1082368,
+          "resource_url": "https://api.discogs.com/artists/1082368"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D20",
+      "type_": "track",
+      "title": "Dandelion",
+      "extraartists": [
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Ilya Salmanzadeh",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 2363686,
+          "resource_url": "https://api.discogs.com/artists/2363686"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D21",
+      "type_": "track",
+      "title": "Past Life",
+      "extraartists": [
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Ilya Salmanzadeh",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 2363686,
+          "resource_url": "https://api.discogs.com/artists/2363686"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D22",
+      "type_": "track",
+      "title": "Hampstead",
+      "extraartists": [
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        },
+        {
+          "name": "Ilya Salmanzadeh",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 2363686,
+          "resource_url": "https://api.discogs.com/artists/2363686"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        }
+      ],
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Joe Nino-Hernes",
+      "anv": "JN-H",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 6012918,
+      "resource_url": "https://api.discogs.com/artists/6012918"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/qf8ndgzdAG_rBmIwEtZ08uv5z5JVSX5xo9a-pz7S8Zc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg1/OTQtMTIxMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/qf8ndgzdAG_rBmIwEtZ08uv5z5JVSX5xo9a-pz7S8Zc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg1/OTQtMTIxMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/xgiz3KTP3ZwwiwmvALIUPs4trneK4cQ9Q6voMryfPiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg1/OTQtMTIxMC5qcGVn.jpeg",
+      "width": 600,
+      "height": 597
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/WQfkxjd0CPJTDCwi_qsfY4MG4A9yRLPfaAmudCskps8/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDEtMTA0NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/WQfkxjd0CPJTDCwi_qsfY4MG4A9yRLPfaAmudCskps8/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDEtMTA0NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/dFsT96iuMu6M0tUtp3ivLpbQlUmio7k8PArY3dAKaxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDEtMTA0NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 287
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/8voH8Td7LVgqI8RRjmCSVOmCuKzWQcXL54ljzy68hZo/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg1/OTktNDI4OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/8voH8Td7LVgqI8RRjmCSVOmCuKzWQcXL54ljzy68hZo/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg1/OTktNDI4OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/d5yf5IbxGg9zum4EWMwQsa_B-sOtT3T76provtkHDKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg1/OTktNDI4OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 591
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Qs38dfughG3ZIUNHtJMwPFrHfvSlY7hElBcmW2TY0x4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDMtMzI4My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Qs38dfughG3ZIUNHtJMwPFrHfvSlY7hElBcmW2TY0x4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDMtMzI4My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/kA9GxcEh6FfwkAOaaz_qKiAirJmmAYMULeOB9vOFMFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDMtMzI4My5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/V3EgX17ar-R8aeTcBHjgczxYxe1f9BiQbSoI6ZuWWGE/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDAtMjYxNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/V3EgX17ar-R8aeTcBHjgczxYxe1f9BiQbSoI6ZuWWGE/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDAtMjYxNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/moTcwf_0KcUy64tTZPplT0VlHE5KjrKyNa7EoSa9q3Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDAtMjYxNC5qcGVn.jpeg",
+      "width": 598,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/tse35J7-DA75fIU07yh0iycM8GJn26exf7mLXR7WjiI/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg1/OTgtNTYyMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/tse35J7-DA75fIU07yh0iycM8GJn26exf7mLXR7WjiI/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg1/OTgtNTYyMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/LiqPPWRoTuXdXQghlZJ-Vx6LDHOohfICHfBvYcGu_BY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg1/OTgtNTYyMS5qcGVn.jpeg",
+      "width": 596,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/UdEiHmgIhPFatcqMWGDljPXL1zVe9d_BfGtAvsLT_YE/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDMtMzY3Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/UdEiHmgIhPFatcqMWGDljPXL1zVe9d_BfGtAvsLT_YE/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDMtMzY3Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/1xP4LIe2mf8sfW42y7OnSx4u0Ag3dHFDIriPWDp-vD8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDMtMzY3Mi5qcGVn.jpeg",
+      "width": 586,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/eL9RWsu99_xwMEU3Lsg-vhBxuzXPv6_uiRH77DymmsE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg1/OTgtNTMwMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/eL9RWsu99_xwMEU3Lsg-vhBxuzXPv6_uiRH77DymmsE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg1/OTgtNTMwMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/mVS2FiNrTpXViACEf1IDrB3rfmfYY1zVA659GgovwYk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg1/OTgtNTMwMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/OFSzFHRf-CEXqIhFaIfy6JR9jt2onsD5cfF2tKwgSnw/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg1/OTQtODQ2OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/OFSzFHRf-CEXqIhFaIfy6JR9jt2onsD5cfF2tKwgSnw/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg1/OTQtODQ2OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/-MDAyIvVxDYf4J1vG3imTSYD119uUX4irCKpx1Ozmmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg1/OTQtODQ2OC5qcGVn.jpeg",
+      "width": 592,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/rg9GrlFuPJlw0_cwLx_UKTzhd-R9BBHwqegn1t02L3A/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg1/OTEtNDE4NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/rg9GrlFuPJlw0_cwLx_UKTzhd-R9BBHwqegn1t02L3A/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg1/OTEtNDE4NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Oh2wh7yaKDIe1AUP2Ku9L4YeAWwaJCzPfhK8QkUXU74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg1/OTEtNDE4NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 298
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/G9rRuyjl2GFFG_upEA1hRGDNwOJBEFkYvOTKdSMd6ks/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDMtMzI0OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/G9rRuyjl2GFFG_upEA1hRGDNwOJBEFkYvOTKdSMd6ks/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDMtMzI0OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/gzQ5TYRiOuNFvXT27n8_2Fv2d7Akhf-cViGgQXa9y7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDMtMzI0OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 298
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/WGgxG6pTlQ07cZ-cumwzZAVVWiCigK0kOyn3nqR4ngg/rs:fit/g:sm/q:90/h:301/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDQtMzYxNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/WGgxG6pTlQ07cZ-cumwzZAVVWiCigK0kOyn3nqR4ngg/rs:fit/g:sm/q:90/h:301/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDQtMzYxNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/iVsLj9_et_-Th0NVD_I875DMY4dyhMyAJ9CAnCI4oO0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDQtMzYxNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 301
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/K3J0l8H9reNEj37Ug6AgEhtce4_HTEWlaIKUv81J5qs/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDMtMjgxMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/K3J0l8H9reNEj37Ug6AgEhtce4_HTEWlaIKUv81J5qs/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDMtMjgxMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/IEOFluSig-tpEVeVDUxkg5ROWGVaZ5W3BUmxzW0DimQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDMtMjgxMC5qcGVn.jpeg",
+      "width": 600,
+      "height": 300
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/1LchOtWO2gYZUSUv9QrT8jE_OzTn3RiJ6NGHsPkboGA/rs:fit/g:sm/q:90/h:304/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDItOTUxMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/1LchOtWO2gYZUSUv9QrT8jE_OzTn3RiJ6NGHsPkboGA/rs:fit/g:sm/q:90/h:304/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDItOTUxMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/AjhDB16jG_otRE_L0e_zLToYZZKV10_JIFCdXpQ9T7c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDItOTUxMC5qcGVn.jpeg",
+      "width": 600,
+      "height": 304
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Dpmfcw78zOIv-kFINDzEll6ozfzxPfLn7exV3eEGyj0/rs:fit/g:sm/q:90/h:302/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDAtMTcwNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Dpmfcw78zOIv-kFINDzEll6ozfzxPfLn7exV3eEGyj0/rs:fit/g:sm/q:90/h:302/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDAtMTcwNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/CcAeWlAMLpE-pd5NVExZgpx4a5GhjbJbtxrNmpnSs0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDAtMTcwNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 302
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/FNWZ6wY5klRdRiQwIPQgJ8D89N7s19UcaEMAy8MnvF4/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDItMTQ2OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/FNWZ6wY5klRdRiQwIPQgJ8D89N7s19UcaEMAy8MnvF4/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDItMTQ2OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/F-dK22PxevgBZ0u-oin-OXuQg4MpsEWy7Vwocnxi5LU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDItMTQ2OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 297
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/jDRlGX_YcjdIxRIjQt8l3tp9UxYKNzryCHZsN5Xqrh8/rs:fit/g:sm/q:90/h:302/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDMtNDE2OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/jDRlGX_YcjdIxRIjQt8l3tp9UxYKNzryCHZsN5Xqrh8/rs:fit/g:sm/q:90/h:302/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDMtNDE2OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/lZQHubtaJppAq_GbwssVG0ZjWdKL-eIzDNHTpJAm6PQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDMtNDE2OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 302
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/IpXgZtXUZ-PjADhfaxGefyNH8x_hcVVBwk4FYxvjAHw/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDQtOTk2My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/IpXgZtXUZ-PjADhfaxGefyNH8x_hcVVBwk4FYxvjAHw/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDQtOTk2My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/wcRshwzrTuztCyz_mJZohraZMIWIwaCieK_Y3FusTiw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDQtOTk2My5qcGVn.jpeg",
+      "width": 600,
+      "height": 296
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/8qEbYFuRt-uS_S55DqPeBHdmGUsaMwE07m5UZHwUJAY/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg1/OTMtNDU1MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/8qEbYFuRt-uS_S55DqPeBHdmGUsaMwE07m5UZHwUJAY/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg1/OTMtNDU1MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/HbsPWdx1fSB4I2hV7_6F-W2ddloP4UNcBBhrkghKSb0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg1/OTMtNDU1MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 296
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/h_1hpeKfcDSBzxmRcI2pmdwRTv6XiO-CaUa-8e_4Si8/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDItNzM1MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/h_1hpeKfcDSBzxmRcI2pmdwRTv6XiO-CaUa-8e_4Si8/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDItNzM1MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ZZNqZZgrJ7IrWmIuAgInNeMcafKCYN62yJMgCvnu5fM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/MDItNzM1MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 297
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/hCBsPqUOUL4GpFlI5hn8PGOeYlQGUPihRPpAohGUIVA/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg1/OTktNjM2NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/hCBsPqUOUL4GpFlI5hn8PGOeYlQGUPihRPpAohGUIVA/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg1/OTktNjM2NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/6qT4loBGtfOVKoKM7W5oKrNcIyqFXHavg9EMST3JwYg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg1/OTktNjM2NS5qcGVn.jpeg",
+      "width": 599,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/0NYF4BHyIGiFeE0Xy0hC23sEuNmUagTPzCkNd6zTB4E/rs:fit/g:sm/q:90/h:415/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/ODMtNTk2Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/0NYF4BHyIGiFeE0Xy0hC23sEuNmUagTPzCkNd6zTB4E/rs:fit/g:sm/q:90/h:415/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/ODMtNTk2Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/hh_m8wFuUIdbzSdbL10brLapp64h9e5Ht3KtBc0KKYY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg2/ODMtNTk2Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 415
+    }
+  ],
+  "thumb": "https://i.discogs.com/xgiz3KTP3ZwwiwmvALIUPs4trneK4cQ9Q6voMryfPiA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzNTM5/OTY3LTE3NDM3Mjg1/OTQtMTIxMC5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

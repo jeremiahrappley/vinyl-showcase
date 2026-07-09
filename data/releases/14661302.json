@@ -1,0 +1,395 @@
+{
+  "id": 14661302,
+  "status": "Accepted",
+  "year": 2020,
+  "resource_url": "https://api.discogs.com/releases/14661302",
+  "uri": "https://www.discogs.com/release/14661302-Summer-Walker-Over-It",
+  "artists": [
+    {
+      "name": "Summer Walker",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 1396401,
+      "resource_url": "https://api.discogs.com/artists/1396401",
+      "thumbnail_url": "https://i.discogs.com/KoKymvUFvv6KZb1pNZDnvLlWB9uME7EIcoSDilTxyLI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzOTY0/MDEtMTczNjM3MjE4/NC03NjU5LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Summer Walker",
+  "labels": [
+    {
+      "name": "Interscope Records",
+      "catno": "B0031339-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 2311,
+      "resource_url": "https://api.discogs.com/labels/2311",
+      "thumbnail_url": "https://i.discogs.com/58MHEZ0kBRytN0Ivvqvnirp57RFfiqWh1YGJLsn62ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTEt/MTUxNzAxMTEyMy00/NjEwLmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "GZ Media",
+      "catno": "199603E",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    },
+    {
+      "name": "Precision Record Pressing",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 523699,
+      "resource_url": "https://api.discogs.com/labels/523699",
+      "thumbnail_url": "https://i.discogs.com/DfWvGCw34Q127_Eqz8MBLNwe-7lZqvAuM3xxalopIBo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUyMzY5/OS0xNjk5MzgyMzgz/LTIwNDYucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 2137,
+    "want": 588,
+    "rating": {
+      "count": 101,
+      "average": 4.62
+    },
+    "submitter": {
+      "username": "parkblvdrecords",
+      "resource_url": "https://api.discogs.com/users/parkblvdrecords"
+    },
+    "contributors": [
+      {
+        "username": "parkblvdrecords",
+        "resource_url": "https://api.discogs.com/users/parkblvdrecords"
+      },
+      {
+        "username": "35mmFreddy",
+        "resource_url": "https://api.discogs.com/users/35mmFreddy"
+      },
+      {
+        "username": "movceo",
+        "resource_url": "https://api.discogs.com/users/movceo"
+      },
+      {
+        "username": "vrp_pdx",
+        "resource_url": "https://api.discogs.com/users/vrp_pdx"
+      },
+      {
+        "username": "teeyuhkorea",
+        "resource_url": "https://api.discogs.com/users/teeyuhkorea"
+      },
+      {
+        "username": "BotsOverThots",
+        "resource_url": "https://api.discogs.com/users/BotsOverThots"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2020-01-15T12:16:43-08:00",
+  "date_changed": "2024-12-06T14:57:35-08:00",
+  "num_for_sale": 22,
+  "lowest_price": 19.95,
+  "master_id": 1667750,
+  "master_url": "https://api.discogs.com/masters/1667750",
+  "title": "Over It",
+  "country": "USA & Canada",
+  "released": "2020-01-10",
+  "released_formatted": "10 Jan 2020",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "602508377969"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B003133901 199603E1/A B0031339-01-A RE1 KB ",
+      "description": "Side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B003133901 199603E2/A B0031339-01-B RE1 KB ",
+      "description": "Side B"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=PY9HTSBXE8s",
+      "title": "Summer Walker - Body [Official Music Video]",
+      "description": "Summer Walker - Body\nListen: https://smarturl.it/OverItSW\nSpotify: https://smarturl.it/OverItSW/spotify\nApple Music: https://smarturl.it/OverItSW/applemusic\n\nConnect:\nhttp://www.instagram.com/SummerWalker\nhttp://www.facebook.com/SummerWalkerOfficial\nhttp:",
+      "duration": 206,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=SDSXLkD74KE",
+      "title": "Summer Walker - Playing Games (with Bryson Tiller) [Official Music Video]",
+      "description": "Summer Walker - Playing Games (with Bryson Tiller)\n\nNew merch on sale now: https://smarturl.it/shopsummerwalker\n\nSee Summer live on The First and Last Tour tickets on sale now: https://www.summerwalkermusic.com\n\n\"Over It\" out now: https://smarturl.it/Over",
+      "duration": 147,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=BOaJloEPUCg",
+      "title": "Summer Walker - Come Thru (with Usher) [Official Music Video]",
+      "description": "Summer Walker - Come Thru (with Usher)\n\"Over It\" out now: https://smarturl.it/OverItSW\n\nDirected by Lacey Duke\n\nListen: https://smarturl.it/OverItSW\nApple: https://smarturl.it/OverItSW/applemusic\nSpotify: https://smarturl.it/OverItSW/spotify\niTunes: https",
+      "duration": 196,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=w98GE4kHJzM",
+      "title": "Summer Walker - Stretch You Out ft. A Boogie wit da Hoodie (Official Music Video)",
+      "description": "Summer Walker (feat. A Boogie wit da Hoodie) - Stretch You Out \n\nSummer Walker's debut Album Over It, out now: https://smarturl.it/OverItSW\n\nListen: https://smarturl.it/StretchYouOut \nSpotify: https://smarturl.it/StretchYouOut/spo...\nApple Music: https://",
+      "duration": 149,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=DhfDiuNudJ0",
+      "title": "Summer Walker - Body (Live)",
+      "description": "Summer Walker – Body [Live From The Tonight Show With Jimmy Fallon]\n“Over It” Out Now: https://smarturl.it/OverItSW\nSpotify: https://smarturl.it/OverItSW/spotify\nApple Music: https://smarturl.it/OverItSW/applemusic\n\nSubscribe to Summer Walker - http://sma",
+      "duration": 198,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=inrh4wRS5c4",
+      "title": "Summer Walker, Usher - Session 32/Come Thru (Live)",
+      "description": "\"Session 32\"\nListen: http://smarturl.it/Session32\nSpotify: http://smarturl.it/Session32/spotify\nApple Music: http://smarturl.it/Session32/applemusic\n\n\"Come Thru\"\nListen: https://smarturl.it/SWComeThru\nSpotify: https://smarturl.it/SWComeThru/spotify\nApple ",
+      "duration": 242,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Hip Hop",
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Contemporary R&B"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Over It",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Body",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Playing Games (Extended Version)",
+      "extraartists": [
+        {
+          "name": "Bryson Tiller",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 4186500,
+          "resource_url": "https://api.discogs.com/artists/4186500"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Drunk Dialing...LODT",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Come Thru",
+      "extraartists": [
+        {
+          "name": "Usher",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 97139,
+          "resource_url": "https://api.discogs.com/artists/97139"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Potential",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "title": "Fun Girl",
+      "duration": ""
+    },
+    {
+      "position": "A8",
+      "type_": "track",
+      "title": "Tonight",
+      "duration": ""
+    },
+    {
+      "position": "A9",
+      "type_": "track",
+      "title": "Me",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Like It",
+      "extraartists": [
+        {
+          "name": "6lack",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 4561700,
+          "resource_url": "https://api.discogs.com/artists/4561700"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Just Might",
+      "extraartists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3554300,
+          "resource_url": "https://api.discogs.com/artists/3554300"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Stretch You Out",
+      "extraartists": [
+        {
+          "name": "A Boogie Wit Da Hoodie",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 5690322,
+          "resource_url": "https://api.discogs.com/artists/5690322"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Off Of You",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Anna Mae",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "I'll Kill You",
+      "extraartists": [
+        {
+          "name": "Jhené Aiko",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3588219,
+          "resource_url": "https://api.discogs.com/artists/3588219"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "title": "Nobody Else",
+      "duration": ""
+    },
+    {
+      "position": "B8",
+      "type_": "track",
+      "title": "Playing Games (Bonus)",
+      "duration": ""
+    },
+    {
+      "position": "B9",
+      "type_": "track",
+      "title": "Girls Need Love Remix X Drake (Bonus)",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/d17_8cIrZsPtJF8bN6Yl1nszRv3pAFAY56UTcd2dYVw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjYx/MzAyLTE2NDMwNDcw/MTItNTIzNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/d17_8cIrZsPtJF8bN6Yl1nszRv3pAFAY56UTcd2dYVw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjYx/MzAyLTE2NDMwNDcw/MTItNTIzNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/tSI8bn-KAO5Jl0xUsXtDpdj23xqNaUzCqqypq3YMMes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjYx/MzAyLTE2NDMwNDcw/MTItNTIzNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Lt4Z4hrZK-uCAbC8r1gXV1fmYnmy3ztXhYFwhgqbTm8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjYx/MzAyLTE2NDMwNDcw/MTItOTYxOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Lt4Z4hrZK-uCAbC8r1gXV1fmYnmy3ztXhYFwhgqbTm8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjYx/MzAyLTE2NDMwNDcw/MTItOTYxOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/m8WF16oenNl76ny8IncwgnTjiMFgjGe3bWKYs7jpGwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjYx/MzAyLTE2NDMwNDcw/MTItOTYxOS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/-ddzQOWEXUmUYeVro-MT_-mr7Uu4F_lP1gnVyx93cyM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjYx/MzAyLTE2NDMwNDcw/MTYtNTY2My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/-ddzQOWEXUmUYeVro-MT_-mr7Uu4F_lP1gnVyx93cyM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjYx/MzAyLTE2NDMwNDcw/MTYtNTY2My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/aqcJZqtOREVJSQuOvBmj0L11bKQK5KfsNin0pPHwqWI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjYx/MzAyLTE2NDMwNDcw/MTYtNTY2My5qcGVn.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/f5oOtKJlO-Vu9A-hw7X4sAVQIyAy2J6TRS2f506fCP4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjYx/MzAyLTE2NDMwNDcw/MTYtODUwNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/f5oOtKJlO-Vu9A-hw7X4sAVQIyAy2J6TRS2f506fCP4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjYx/MzAyLTE2NDMwNDcw/MTYtODUwNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/4D0XK-ZZm56lMIVyeWQBol_i3gWp2p2tFrfn2ec7Ews/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjYx/MzAyLTE2NDMwNDcw/MTYtODUwNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    }
+  ],
+  "thumb": "https://i.discogs.com/tSI8bn-KAO5Jl0xUsXtDpdj23xqNaUzCqqypq3YMMes/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjYx/MzAyLTE2NDMwNDcw/MTItNTIzNC5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

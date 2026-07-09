@@ -1,0 +1,1006 @@
+{
+  "id": 371621,
+  "status": "Accepted",
+  "year": 2004,
+  "resource_url": "https://api.discogs.com/releases/371621",
+  "uri": "https://www.discogs.com/release/371621-Norah-Jones-Come-Away-With-Me",
+  "artists": [
+    {
+      "name": "Norah Jones",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 147031,
+      "resource_url": "https://api.discogs.com/artists/147031",
+      "thumbnail_url": "https://i.discogs.com/z4FhPsFQiEPDqiixytk66imUW68p0PNY8wuPLj-fyuM/rs:fit/g:sm/q:90/h:588/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE0NzAz/MS0xNzMwMTEwNTU1/LTQ4ODIuanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Norah Jones",
+  "labels": [
+    {
+      "name": "Blue Note",
+      "catno": "7243 5 32088 1 3",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 281,
+      "resource_url": "https://api.discogs.com/labels/281",
+      "thumbnail_url": "https://i.discogs.com/3HpIGTTfcLBKDF0WKsdSygbdfgirR7shFM3kGhgArBI/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4MS0x/NTAyNjQwNjY3LTQ4/MzMucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Caroline Distribution",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 145028,
+      "resource_url": "https://api.discogs.com/labels/145028",
+      "thumbnail_url": "https://i.discogs.com/k2020L1Nkdhfs_HwWMJwpCSZEOMBLbcjLnAhmeXHzdo/rs:fit/g:sm/q:90/h:89/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE0NTAy/OC0xMzM4ODIyOTM2/LTMxMjcuZ2lm.jpeg"
+    },
+    {
+      "name": "Hit Factory Mastering",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 279096,
+      "resource_url": "https://api.discogs.com/labels/279096",
+      "thumbnail_url": "https://i.discogs.com/W7VNFqkz98Sy2lNuCoQX0VRiUDT7LD-czy1PRcI7iUw/rs:fit/g:sm/q:90/h:600/w:459/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3OTA5/Ni0xNDM2MTE0NDgz/LTcwMTQuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 7493,
+    "want": 1618,
+    "rating": {
+      "count": 603,
+      "average": 4.5
+    },
+    "submitter": {
+      "username": "wlwlwl",
+      "resource_url": "https://api.discogs.com/users/wlwlwl"
+    },
+    "contributors": [
+      {
+        "username": "wlwlwl",
+        "resource_url": "https://api.discogs.com/users/wlwlwl"
+      },
+      {
+        "username": "baalofconfusion",
+        "resource_url": "https://api.discogs.com/users/baalofconfusion"
+      },
+      {
+        "username": "auboisdormant",
+        "resource_url": "https://api.discogs.com/users/auboisdormant"
+      },
+      {
+        "username": "z-music",
+        "resource_url": "https://api.discogs.com/users/z-music"
+      },
+      {
+        "username": "cajandro",
+        "resource_url": "https://api.discogs.com/users/cajandro"
+      },
+      {
+        "username": "Chemielaborant",
+        "resource_url": "https://api.discogs.com/users/Chemielaborant"
+      },
+      {
+        "username": "RootsRecords",
+        "resource_url": "https://api.discogs.com/users/RootsRecords"
+      },
+      {
+        "username": "MedozK",
+        "resource_url": "https://api.discogs.com/users/MedozK"
+      },
+      {
+        "username": "MarLuis",
+        "resource_url": "https://api.discogs.com/users/MarLuis"
+      },
+      {
+        "username": "funky_tomate",
+        "resource_url": "https://api.discogs.com/users/funky_tomate"
+      },
+      {
+        "username": "Ioveless",
+        "resource_url": "https://api.discogs.com/users/Ioveless"
+      },
+      {
+        "username": "kkuenz56",
+        "resource_url": "https://api.discogs.com/users/kkuenz56"
+      },
+      {
+        "username": "Same.Old.Me",
+        "resource_url": "https://api.discogs.com/users/Same.Old.Me"
+      },
+      {
+        "username": "Pospisij",
+        "resource_url": "https://api.discogs.com/users/Pospisij"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2005-01-20T05:32:03-08:00",
+  "date_changed": "2026-03-08T03:26:17-07:00",
+  "num_for_sale": 15,
+  "lowest_price": 39,
+  "master_id": 102288,
+  "master_url": "https://api.discogs.com/masters/102288",
+  "title": "Come Away With Me",
+  "country": "US",
+  "released": "2004",
+  "notes": "Recorded at Sorcerer Sound, New York City and Allaire Studios, Shokan, NY.\r\nMixed at Sear Sound, New York City.\r\nMastered at Sterling Sound.\r\n\r\nManufactured By Caroline Distribution, 104 W. 29th Street, New York, NY 10001\r\n\r\nSpine and labels report BTE 32088 as first identifier. \r\nSpine also shows a \"Music from EMI\", \r\n\r\non scale, vinyl only: 125g",
+  "released_formatted": "2004",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "724353208813",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BTE-32088-1 A RE1 THFM J.Y.",
+      "description": "Side A etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BTE-32088-1 B RE1",
+      "description": "Side B etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BTE-32088-1 A RE1 THFM J.Y.  S-64484",
+      "description": "Side A etched Variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BTE-32088-1 B RE1 S-64485",
+      "description": "Side B etched Variant 2"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=JRHTXFIKfFs",
+      "title": "Norah Jones- Come away with me *lyrics*",
+      "description": "My first video..enjoy it..",
+      "duration": 201,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=BqqPgA-yuuc",
+      "title": "Norah Jones Come Away With Me Lyrics",
+      "description": "Angela Kelman's \"5 point Singing System\".Click here: http://howtosing.bestreviewb4youbuy.com/the-5-point-singing-system-review.html\n\nOnline Singing Course: Click here for more info: http://howtosing.bestreviewb4youbuy.com/superior-singing-method-online-si",
+      "duration": 196,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=aULwhWQxBrs",
+      "title": "Norah Jones - \"Come Away With Me\" [Live from Austin, TX]",
+      "description": "From the Norah Jones DVD 'Live from Austin, TX' available now: \nhttps://www.livefromaustintx.com/ \n\nAlso available at Amazon: \nDVD:http://amzn.to/2sBj261",
+      "duration": 278,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=l1Za5YHLyJ0",
+      "title": "Norah Jones : \"Come away with me\"",
+      "description": "Chanson mise en image",
+      "duration": 187,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=CcM_SaTUIME",
+      "title": "N.o.r.a.h J.o.n.e.s Greatest Hits ~ Top 100 Artists To Listen in 2023",
+      "description": "N.o.r.a.h J.o.n.e.s Greatest Hits ~ Top 100 Artists To Listen in 2023\n\n[00:00:00] - 01. C̲o̲̲me̲̲ A̲̲̲wa̲̲y W̲i̲̲th M̲e̲̲\n[00:03:12] - 02. S̲u̲̲nri̲̲se̲̲\n[00:06:38] - 03. D̲o̲̲n't K̲no̲̲w W̲hy\n[00:09:39] - 04. T̲ho̲̲se̲̲ S̲we̲̲e̲̲t W̲o̲̲rds\n[00:13:00] - 0",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=QKEuOO0lQPc",
+      "title": "norah jones - come away with me excellent HD HQ audio sound",
+      "description": "Norah Jones - come away with me in the night HD. With Youtubes excellent High Quality Audio Sound. High Definition HD 1080p.\nBuy the full album from Amazon: https://amzn.to/2wdbibf",
+      "duration": 192,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Nak9KWACujA",
+      "title": "Come Away With Me (Alternate Version)",
+      "description": "Provided to YouTube by Universal Music Group\n\nCome Away With Me (Alternate Version) · Norah Jones\n\nCome Away With Me\n\n℗ 2002 Capitol Records, LLC\n\nReleased on: 2022-02-25\n\nComposer Lyricist, Vocalist: Norah Jones\nProducer: Eli Wolf\nProducer: Craig Street\n",
+      "duration": 207,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=lbjZPFBD6JU",
+      "title": "Norah Jones - Come Away With Me (Official Music Video)",
+      "description": "REMASTERED IN HD!\nMusic video by Norah Jones performing Come Away With Me. \nSee Norah live: http://www.norahjones.com/tour\n \nConnect with Norah:\nhttp://www.norahjones.com/\nhttps://www.instagram.com/norahjones/\nhttps://www.facebook.com/norahjones/\nhttps://",
+      "duration": 195,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=3Xtscufftes",
+      "title": "Feelin' The Same Way",
+      "description": "Provided to YouTube by Universal Music Group\n\nFeelin' The Same Way · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2002 Capitol Records, LLC\n\nReleased on: 2002-01-01\n\nAssociated  Performer, Piano, Vocals, Keyboards, Producer: Norah",
+      "duration": 178,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=kwUtA8bUS30",
+      "title": "Turn Me On",
+      "description": "Provided to YouTube by Universal Music Group\n\nTurn Me On · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2001 Capitol Records, LLC\n\nReleased on: 2002-01-01\n\nProducer, Associated  Performer, Vocals, Piano: Norah Jones\nProducer: Jay ",
+      "duration": 155,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=tO4dxvguQDk",
+      "title": "Norah Jones - Don't Know Why",
+      "description": "REMASTERED IN HD!\nMusic video by Norah Jones performing Don't Know Why. \nSee Norah live: http://www.norahjones.com/tour\n \nConnect with Norah:\nhttp://www.norahjones.com/\nhttps://www.instagram.com/norahjones/\nhttps://www.facebook.com/norahjones/\nhttps://twi",
+      "duration": 183,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=GtOcxj3NDBI",
+      "title": "Don't Know Why",
+      "description": "Provided to YouTube by Universal Music Group\n\nDon't Know Why · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2001 Capitol Records, LLC\n\nReleased on: 2002-01-01\n\nProducer, Associated  Performer, Vocals, Piano: Norah Jones\nProducer: ",
+      "duration": 187,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=zwcMlP9ZMZg",
+      "title": "Seven Years",
+      "description": "Provided to YouTube by Universal Music Group\n\nSeven Years · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2002 Capitol Records, LLC\n\nReleased on: 2002-01-01\n\nProducer, Associated  Performer, Vocals: Norah Jones\nAssociated  Performe",
+      "duration": 146,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=z17dLepWyp8",
+      "title": "Cold Cold Heart",
+      "description": "Provided to YouTube by Universal Music Group\n\nCold Cold Heart · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2002 Capitol Records, LLC\n\nReleased on: 2002-01-01\n\nProducer, Studio  Personnel, Mixer, Associated  Performer, Horn  Arra",
+      "duration": 219,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=mvLDrx3YQ4Q",
+      "title": "Come Away With Me",
+      "description": "Provided to YouTube by Universal Music Group\n\nCome Away With Me · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2002 Capitol Records, LLC\n\nReleased on: 2002-01-01\n\nProducer, Studio  Personnel, Mixer: Arif Mardin\nAssociated  Performer, V",
+      "duration": 199,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=jlJX_9FMbp8",
+      "title": "Shoot The Moon",
+      "description": "Provided to YouTube by Universal Music Group\n\nShoot The Moon · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2002 Capitol Records, LLC\n\nReleased on: 2002-01-01\n\nAssociated  Performer, Piano, Vocals: Norah Jones\nAssociated  Performe",
+      "duration": 238,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5njC9Bv955E",
+      "title": "Lonestar",
+      "description": "Provided to YouTube by Universal Music Group\n\nLonestar · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2002 Capitol Records, LLC\n\nReleased on: 2002-01-01\n\nProducer, Studio  Personnel, Mixer: Arif Mardin\nAssociated  Performer, Piano",
+      "duration": 187,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=G2tEWFck_c0",
+      "title": "I've Got To See You Again",
+      "description": "Provided to YouTube by Universal Music Group\n\nI've Got To See You Again · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2002 Capitol Records, LLC\n\nReleased on: 2002-01-01\n\nAssociated  Performer, Piano, Vocals: Norah Jones\nAssociate",
+      "duration": 254,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=c7mgVp_vL2s",
+      "title": "Painter Song",
+      "description": "Provided to YouTube by Universal Music Group\n\nPainter Song · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2002 Capitol Records, LLC\n\nReleased on: 2002-01-01\n\nAssociated  Performer, Piano, Vocals: Norah Jones\nAssociated  Performer,",
+      "duration": 163,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=qjvEJqZeg00",
+      "title": "One Flight Down",
+      "description": "Provided to YouTube by Universal Music Group\n\nOne Flight Down · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2002 Capitol Records, LLC\n\nReleased on: 2002-01-01\n\nAssociated  Performer, Piano, Vocals: Norah Jones\nAssociated  Perform",
+      "duration": 186,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=TuyP5LyMyi0",
+      "title": "Nightingale",
+      "description": "Provided to YouTube by Universal Music Group\n\nNightingale · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2002 Capitol Records, LLC\n\nReleased on: 2002-01-01\n\nAssociated  Performer, Piano, Vocals: Norah Jones\nAssociated  Performer, ",
+      "duration": 253,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=tYWyKa21_Ek",
+      "title": "The Long Day Is Over",
+      "description": "Provided to YouTube by Universal Music Group\n\nThe Long Day Is Over · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2002 Capitol Records, LLC\n\nReleased on: 2002-01-01\n\nProducer, Associated  Performer, Piano: Norah Jones\nProducer, St",
+      "duration": 165,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=hsczuCzyUs4",
+      "title": "The Nearness Of You",
+      "description": "Provided to YouTube by Universal Music Group\n\nThe Nearness Of You · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2002 Capitol Records, LLC\n\nReleased on: 2002-01-01\n\nProducer, Studio  Personnel, Mixer: Arif Mardin\nAssociated  Perfo",
+      "duration": 188,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=BdMiesPNihM",
+      "title": "Spring Can Really Hang You Up The Most (Demo)",
+      "description": "Provided to YouTube by Universal Music Group\n\nSpring Can Really Hang You Up The Most (Demo) · Norah Jones\n\nSpring Can Really Hang You Up The Most\n\n℗ A Blue Note Records release; ℗ 2022 Capitol Records, LLC\n\nReleased on: 2022-03-18\n\nAssociated  Performer, ",
+      "duration": 229,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=gb0UsuUiQLA",
+      "title": "Walkin' My Baby Back Home (Demo)",
+      "description": "Provided to YouTube by Universal Music Group\n\nWalkin' My Baby Back Home (Demo) · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2022 Capitol Records, LLC\n\nReleased on: 2002-02-26\n\nAssociated  Performer, Vocals, Piano: Norah Jones\nProduce",
+      "duration": 218,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=TVq5CFKcgJw",
+      "title": "World Of Trouble (Demo)",
+      "description": "Provided to YouTube by Universal Music Group\n\nWorld Of Trouble (Demo) · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2022 Capitol Records, LLC\n\nReleased on: 2002-02-26\n\nAssociated  Performer, Vocals, Piano: Norah Jones\nProducer: Eli Wo",
+      "duration": 286,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=PCc4UZlMxQg",
+      "title": "The Only Time (First Sessions Outtake)",
+      "description": "Provided to YouTube by Universal Music Group\n\nThe Only Time (First Sessions Outtake) · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2022 Capitol Records, LLC\n\nReleased on: 2002-02-26\n\nAssociated  Performer, Vocals, Piano: Norah Jones\nP",
+      "duration": 273,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=nlq7vGIWuHg",
+      "title": "I Didn't Know About You (First Sessions Outtake)",
+      "description": "Provided to YouTube by Universal Music Group\n\nI Didn't Know About You (First Sessions Outtake) · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2022 Capitol Records, LLC\n\nReleased on: 2002-02-26\n\nAssociated  Performer, Vocals: Norah Jone",
+      "duration": 153,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Mjv2k9eo90c",
+      "title": "Something Is Calling You (First Sessions Outtake / Tabla Version)",
+      "description": "Provided to YouTube by Universal Music Group\n\nSomething Is Calling You (First Sessions Outtake / Tabla Version) · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2022 Capitol Records, LLC\n\nReleased on: 2002-02-26\n\nAssociated  Performer, V",
+      "duration": 203,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=cBINrREtU3g",
+      "title": "Just Like A Dream Today (First Sessions Outtake)",
+      "description": "Provided to YouTube by Universal Music Group\n\nJust Like A Dream Today (First Sessions Outtake) · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2022 Capitol Records, LLC\n\nReleased on: 2002-02-26\n\nAssociated  Performer, Vocals: Norah Jone",
+      "duration": 189,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=572dYwVvx94",
+      "title": "When Sunny Gets Blue (First Sessions Outtake)",
+      "description": "Provided to YouTube by Universal Music Group\n\nWhen Sunny Gets Blue (First Sessions Outtake) · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2022 Capitol Records, LLC\n\nReleased on: 2002-02-26\n\nAssociated  Performer, Vocals, Piano: Norah ",
+      "duration": 190,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=nQw0jx4RpDI",
+      "title": "What Am I To You (First Sessions Outtake)",
+      "description": "Provided to YouTube by Universal Music Group\n\nWhat Am I To You (First Sessions Outtake) · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2022 Capitol Records, LLC\n\nReleased on: 2002-02-26\n\nAssociated  Performer, Vocals, Piano: Norah Jone",
+      "duration": 211,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=WcN0eZu5yHk",
+      "title": "Hallelujah, I Love Him So (First Sessions Outtake)",
+      "description": "Provided to YouTube by Universal Music Group\n\nHallelujah, I Love Him So (First Sessions Outtake) · Norah Jones\n\nHallelujah, I Love Him So\n\n℗ A Blue Note Records release; ℗ 2022 Capitol Records, LLC\n\nReleased on: 2022-04-15\n\nAssociated  Performer, Vocals, ",
+      "duration": 186,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=IMxtTvs4QrQ",
+      "title": "Day Dream (First Sessions Outtake)",
+      "description": "Provided to YouTube by Universal Music Group\n\nDay Dream (First Sessions Outtake) · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2022 Capitol Records, LLC\n\nReleased on: 2002-02-26\n\nAssociated  Performer, Vocals, Piano: Norah Jones\nProdu",
+      "duration": 213,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ZY7F59xiEcY",
+      "title": "Don't Know Why (First Sessions Demo)",
+      "description": "Provided to YouTube by Universal Music Group\n\nDon't Know Why (First Sessions Demo) · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2001 Capitol Records, LLC\n\nReleased on: 2002-02-26\n\nProducer, Associated  Performer, Vocals, Piano: Norah",
+      "duration": 190,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=uteU4W9jO3E",
+      "title": "Come Away With Me (First Sessions Demo)",
+      "description": "Provided to YouTube by Universal Music Group\n\nCome Away With Me (First Sessions Demo) · Norah Jones\n\nCome Away With Me\n\n℗ 2001 Blue Note Records\n\nReleased on: 2002-02-26\n\nStudio  Personnel, Recording  Engineer, Mixer: Jay Newland\nStudio  Personnel, Master",
+      "duration": 186,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=i0wWDZCUQnk",
+      "title": "Something Is Calling You (First Sessions Demo)",
+      "description": "Provided to YouTube by Universal Music Group\n\nSomething Is Calling You (First Sessions Demo) · Norah Jones\n\nCome Away With Me\n\n℗ 2001 Blue Note Records\n\nReleased on: 2002-02-26\n\nAssociated  Performer, Vocals, Piano, Producer: Norah Jones\nStudio  Personnel",
+      "duration": 205,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=E1DruydTbIc",
+      "title": "Turn Me On (First Sessions Demo)",
+      "description": "Provided to YouTube by Universal Music Group\n\nTurn Me On (First Sessions Demo) · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2001 Capitol Records, LLC\n\nReleased on: 2002-02-26\n\nProducer, Associated  Performer, Vocals, Piano: Norah Jon",
+      "duration": 156,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=pigRTmlLJeE",
+      "title": "Lonestar (First Sessions Demo)",
+      "description": "Provided to YouTube by Universal Music Group\n\nLonestar (First Sessions Demo) · Norah Jones\n\nCome Away With Me\n\n℗ 2001 Blue Note Records\n\nReleased on: 2002-02-26\n\nStudio  Personnel, Recording  Engineer, Mixer, Mastering  Engineer: Jay Newland\nStudio  Perso",
+      "duration": 186,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=4CPiz11mLuw",
+      "title": "I'll Be Your Baby Tonight",
+      "description": "Provided to YouTube by Universal Music Group\n\nI'll Be Your Baby Tonight · Norah Jones\n\nCome Away With Me\n\n℗ 2002 Blue Note Records\n\nReleased on: 2002-02-26\n\nAssociated  Performer, Vocals, Piano: Norah Jones\nStudio  Personnel, Recording  Engineer, Mixer: S",
+      "duration": 198,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=O_FgRNzzk4Y",
+      "title": "I've Got To See You Again (Alternate Version – The Allaire Sessions)",
+      "description": "Provided to YouTube by Universal Music Group\n\nI've Got To See You Again (Alternate Version – The Allaire Sessions) · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2002 Capitol Records, LLC\n\nReleased on: 2002-02-26\n\nAssociated  Performer",
+      "duration": 252,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=qkiBxXu1WJg",
+      "title": "What Would I Do",
+      "description": "Provided to YouTube by Universal Music Group\n\nWhat Would I Do · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2022 Capitol Records, LLC\n\nReleased on: 2002-02-26\n\nAssociated  Performer, Vocals, Piano: Norah Jones\nProducer: Eli Wolf\nProdu",
+      "duration": 241,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Nak9KWACujA",
+      "title": "Come Away With Me (Alternate Version)",
+      "description": "Provided to YouTube by Universal Music Group\n\nCome Away With Me (Alternate Version) · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2002 Capitol Records, LLC\n\nReleased on: 2022-02-25\n\nAssociated  Performer, Vocals, Piano: Norah Jones\nAs",
+      "duration": 207,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=z5IewZEY5G8",
+      "title": "Picture In A Frame (Alternate Mix - The Allaire Sessions)",
+      "description": "Provided to YouTube by Universal Music Group\n\nPicture In A Frame (Alternate Mix - The Allaire Sessions) · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2022 Capitol Records, LLC\n\nReleased on: 2002-02-26\n\nAssociated  Performer, Vocals: N",
+      "duration": 213,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=vTZVzomVSN0",
+      "title": "Nightingale (Alternate Version – The Allaire Sessions)",
+      "description": "Provided to YouTube by Universal Music Group\n\nNightingale (Alternate Version – The Allaire Sessions) · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2002 Capitol Records, LLC\n\nReleased on: 2002-02-26\n\nAssociated  Performer, Vocals, Pian",
+      "duration": 248,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=CgQa3-xPYhE",
+      "title": "Peace (Alternate Version – The Allaire Sessions)",
+      "description": "Provided to YouTube by Universal Music Group\n\nPeace (Alternate Version – The Allaire Sessions) · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2022 Capitol Records, LLC\n\nReleased on: 2002-02-26\n\nAssociated  Performer, Vocals: Norah Jone",
+      "duration": 179,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=nxkp4BP2D90",
+      "title": "What Am I To You (Alternate Version – The Allaire Sessions)",
+      "description": "Provided to YouTube by Universal Music Group\n\nWhat Am I To You (Alternate Version – The Allaire Sessions) · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2022 Capitol Records, LLC\n\nReleased on: 2002-02-26\n\nAssociated  Performer, Vocals,",
+      "duration": 189,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=_CNMA2jcmvs",
+      "title": "Painter Song (Alternate Version – The Allaire Sessions)",
+      "description": "Provided to YouTube by Universal Music Group\n\nPainter Song (Alternate Version – The Allaire Sessions) · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2022 Capitol Records, LLC\n\nReleased on: 2002-02-26\n\nAssociated  Performer, Vocals, Pia",
+      "duration": 171,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=X9KF9y22PnQ",
+      "title": "Turn Me On (Alternate Version – The Allaire Sessions)",
+      "description": "Provided to YouTube by Universal Music Group\n\nTurn Me On (Alternate Version – The Allaire Sessions) · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2022 Capitol Records, LLC\n\nReleased on: 2002-02-26\n\nAssociated  Performer, Vocals: Norah",
+      "duration": 258,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KsChnhfCR6A",
+      "title": "A Little At A Time",
+      "description": "Provided to YouTube by Universal Music Group\n\nA Little At A Time · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2002 Capitol Records, LLC\n\nReleased on: 2002-02-26\n\nAssociated  Performer, Vocals: Norah Jones\nAssociated  Performer, Acous",
+      "duration": 184,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=6EemdMnd4V4",
+      "title": "One Flight Down (Alternate Version – The Allaire Sessions)",
+      "description": "Provided to YouTube by Universal Music Group\n\nOne Flight Down (Alternate Version – The Allaire Sessions) · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2022 Capitol Records, LLC\n\nReleased on: 2002-02-26\n\nAssociated  Performer, Vocals, ",
+      "duration": 214,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Wh10HEW9f24",
+      "title": "Fragile",
+      "description": "Provided to YouTube by Universal Music Group\n\nFragile · Norah Jones\n\nCome Away With Me\n\n℗ A Blue Note Records release; ℗ 2002 Capitol Records, LLC\n\nReleased on: 2002-02-26\n\nAssociated  Performer, Vocals: Norah Jones\nAssociated  Performer, Acoustic  Guitar",
+      "duration": 221,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Jazz"
+  ],
+  "styles": [
+    "Contemporary Jazz"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Don't Know Why",
+      "duration": "3:05"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Seven Years",
+      "duration": "2:24"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Cold Cold Heart",
+      "duration": "3:38"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Feelin' The Same Way",
+      "duration": "2:55"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Come Away With Me",
+      "duration": "3:18"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Shoot The Moon",
+      "duration": "3:57"
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "title": "Turn Me On",
+      "duration": "2:33"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Lonestar",
+      "duration": "3:05"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "I've Got To See You Again",
+      "duration": "4:13"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Painter Song",
+      "duration": "2:41"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "One Flight Down",
+      "duration": "3:03"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Nightingale",
+      "duration": "4:11"
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "The Long Day Is Over",
+      "duration": "2:44"
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "title": "The Nearness Of You",
+      "duration": "3:09"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Rob Burger",
+      "anv": "",
+      "join": "",
+      "role": "Accordion",
+      "tracks": "",
+      "id": 45883,
+      "resource_url": "https://api.discogs.com/artists/45883"
+    },
+    {
+      "name": "Adam Levy",
+      "anv": "",
+      "join": "",
+      "role": "Acoustic Guitar",
+      "tracks": "",
+      "id": 252346,
+      "resource_url": "https://api.discogs.com/artists/252346"
+    },
+    {
+      "name": "Jesse Harris",
+      "anv": "",
+      "join": "",
+      "role": "Acoustic Guitar",
+      "tracks": "",
+      "id": 252339,
+      "resource_url": "https://api.discogs.com/artists/252339"
+    },
+    {
+      "name": "Kevin Breit",
+      "anv": "",
+      "join": "",
+      "role": "Acoustic Guitar",
+      "tracks": "",
+      "id": 252334,
+      "resource_url": "https://api.discogs.com/artists/252334"
+    },
+    {
+      "name": "Tony Scherr",
+      "anv": "",
+      "join": "",
+      "role": "Acoustic Guitar",
+      "tracks": "",
+      "id": 252340,
+      "resource_url": "https://api.discogs.com/artists/252340"
+    },
+    {
+      "name": "Arif Mardin",
+      "anv": "",
+      "join": "",
+      "role": "Arranged By [Strings]",
+      "tracks": "",
+      "id": 15446,
+      "resource_url": "https://api.discogs.com/artists/15446"
+    },
+    {
+      "name": "Lee Alexander",
+      "anv": "",
+      "join": "",
+      "role": "Bass",
+      "tracks": "",
+      "id": 252341,
+      "resource_url": "https://api.discogs.com/artists/252341"
+    },
+    {
+      "name": "Brian Blade",
+      "anv": "",
+      "join": "",
+      "role": "Drums",
+      "tracks": "",
+      "id": 252331,
+      "resource_url": "https://api.discogs.com/artists/252331"
+    },
+    {
+      "name": "Dan Rieser",
+      "anv": "",
+      "join": "",
+      "role": "Drums",
+      "tracks": "",
+      "id": 252332,
+      "resource_url": "https://api.discogs.com/artists/252332"
+    },
+    {
+      "name": "Kenny Wollesen",
+      "anv": "",
+      "join": "",
+      "role": "Drums",
+      "tracks": "",
+      "id": 252337,
+      "resource_url": "https://api.discogs.com/artists/252337"
+    },
+    {
+      "name": "Adam Levy",
+      "anv": "",
+      "join": "",
+      "role": "Electric Guitar",
+      "tracks": "",
+      "id": 252346,
+      "resource_url": "https://api.discogs.com/artists/252346"
+    },
+    {
+      "name": "Bill Frisell",
+      "anv": "",
+      "join": "",
+      "role": "Electric Guitar",
+      "tracks": "",
+      "id": 144927,
+      "resource_url": "https://api.discogs.com/artists/144927"
+    },
+    {
+      "name": "Jesse Harris",
+      "anv": "",
+      "join": "",
+      "role": "Electric Guitar",
+      "tracks": "",
+      "id": 252339,
+      "resource_url": "https://api.discogs.com/artists/252339"
+    },
+    {
+      "name": "Kevin Breit",
+      "anv": "",
+      "join": "",
+      "role": "Electric Guitar",
+      "tracks": "",
+      "id": 252334,
+      "resource_url": "https://api.discogs.com/artists/252334"
+    },
+    {
+      "name": "Norah Jones",
+      "anv": "",
+      "join": "",
+      "role": "Electric Piano [Wurlitzer]",
+      "tracks": "",
+      "id": 147031,
+      "resource_url": "https://api.discogs.com/artists/147031"
+    },
+    {
+      "name": "Jay Newland",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 252342,
+      "resource_url": "https://api.discogs.com/artists/252342"
+    },
+    {
+      "name": "S. Husky Hoskulds",
+      "anv": "Husky Huskolds",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 242769,
+      "resource_url": "https://api.discogs.com/artists/242769"
+    },
+    {
+      "name": "Brandon Mason",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant]",
+      "tracks": "",
+      "id": 252335,
+      "resource_url": "https://api.discogs.com/artists/252335"
+    },
+    {
+      "name": "Dick Kondas",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant]",
+      "tracks": "",
+      "id": 252345,
+      "resource_url": "https://api.discogs.com/artists/252345"
+    },
+    {
+      "name": "Mark Birkey",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant]",
+      "tracks": "",
+      "id": 252344,
+      "resource_url": "https://api.discogs.com/artists/252344"
+    },
+    {
+      "name": "Adam Rogers (2)",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "",
+      "id": 252347,
+      "resource_url": "https://api.discogs.com/artists/252347"
+    },
+    {
+      "name": "Ted Jensen",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 259758,
+      "resource_url": "https://api.discogs.com/artists/259758"
+    },
+    {
+      "name": "Arif Mardin",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "",
+      "id": 15446,
+      "resource_url": "https://api.discogs.com/artists/15446"
+    },
+    {
+      "name": "Jay Newland",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "",
+      "id": 252342,
+      "resource_url": "https://api.discogs.com/artists/252342"
+    },
+    {
+      "name": "Todd Parker (2)",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By [Assistant Mixing Engineer]",
+      "tracks": "",
+      "id": 1307929,
+      "resource_url": "https://api.discogs.com/artists/1307929"
+    },
+    {
+      "name": "Sam Yahel",
+      "anv": "",
+      "join": "",
+      "role": "Organ [Hammond B3]",
+      "tracks": "",
+      "id": 252333,
+      "resource_url": "https://api.discogs.com/artists/252333"
+    },
+    {
+      "name": "Rob Burger",
+      "anv": "",
+      "join": "",
+      "role": "Organ [Pump]",
+      "tracks": "",
+      "id": 45883,
+      "resource_url": "https://api.discogs.com/artists/45883"
+    },
+    {
+      "name": "Brian Blade",
+      "anv": "",
+      "join": "",
+      "role": "Percussion",
+      "tracks": "",
+      "id": 252331,
+      "resource_url": "https://api.discogs.com/artists/252331"
+    },
+    {
+      "name": "Norah Jones",
+      "anv": "",
+      "join": "",
+      "role": "Piano",
+      "tracks": "",
+      "id": 147031,
+      "resource_url": "https://api.discogs.com/artists/147031"
+    },
+    {
+      "name": "Arif Mardin",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 15446,
+      "resource_url": "https://api.discogs.com/artists/15446"
+    },
+    {
+      "name": "Craig Street",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 105686,
+      "resource_url": "https://api.discogs.com/artists/105686"
+    },
+    {
+      "name": "Jay Newland",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 252342,
+      "resource_url": "https://api.discogs.com/artists/252342"
+    },
+    {
+      "name": "Norah Jones",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 147031,
+      "resource_url": "https://api.discogs.com/artists/147031"
+    },
+    {
+      "name": "Kevin Breit",
+      "anv": "",
+      "join": "",
+      "role": "Resonator Guitar [National Guitar]",
+      "tracks": "A2",
+      "id": 252334,
+      "resource_url": "https://api.discogs.com/artists/252334"
+    },
+    {
+      "name": "Tony Scherr",
+      "anv": "",
+      "join": "",
+      "role": "Slide Guitar",
+      "tracks": "",
+      "id": 252340,
+      "resource_url": "https://api.discogs.com/artists/252340"
+    },
+    {
+      "name": "Jenny Scheinman",
+      "anv": "",
+      "join": "",
+      "role": "Violin",
+      "tracks": "",
+      "id": 252343,
+      "resource_url": "https://api.discogs.com/artists/252343"
+    },
+    {
+      "name": "Norah Jones",
+      "anv": "",
+      "join": "",
+      "role": "Vocals",
+      "tracks": "",
+      "id": 147031,
+      "resource_url": "https://api.discogs.com/artists/147031"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/pd-s-RDN5TNs-eVoHaWhYthxqAMt0JZISxpk9vlZSy8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTYy/MS0xNDEwNjU5Njc3/LTQwNzUuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/pd-s-RDN5TNs-eVoHaWhYthxqAMt0JZISxpk9vlZSy8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTYy/MS0xNDEwNjU5Njc3/LTQwNzUuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/odgRVKtwHOgIy5sxYUgls_MjOgE0GGfhwe9_W-c7VZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTYy/MS0xNDEwNjU5Njc3/LTQwNzUuanBlZw.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/PI8-8gOveBuJXnEwF0zIJjOCI3Z-yPF_D040zWqOjR4/rs:fit/g:sm/q:90/h:599/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTYy/MS0xNDg1MDc4MjU1/LTMzMTMuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/PI8-8gOveBuJXnEwF0zIJjOCI3Z-yPF_D040zWqOjR4/rs:fit/g:sm/q:90/h:599/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTYy/MS0xNDg1MDc4MjU1/LTMzMTMuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/9YNonCCrdjckwb1qUIJOl1mv9Fj3dFKV1qbHxRKtWlY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTYy/MS0xNDg1MDc4MjU1/LTMzMTMuanBlZw.jpeg",
+      "width": 599,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/UtgYwzE-iHimH-Sz7MugjmrgCmX4TYihcfLAkEdhXfw/rs:fit/g:sm/q:90/h:595/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTYy/MS0xMzc2Nzc4MDA1/LTQxMTEuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/UtgYwzE-iHimH-Sz7MugjmrgCmX4TYihcfLAkEdhXfw/rs:fit/g:sm/q:90/h:595/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTYy/MS0xMzc2Nzc4MDA1/LTQxMTEuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/f_ucihEaQpVirKlgms0ndwwG_P8wmf4FMZbeAnRKkSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTYy/MS0xMzc2Nzc4MDA1/LTQxMTEuanBlZw.jpeg",
+      "width": 599,
+      "height": 595
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/HNwZGMqDak2xwDkdy-bOTLS3j-znMBysVtxGTz0TFZ4/rs:fit/g:sm/q:90/h:596/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTYy/MS0xMzc2Nzc4MDIx/LTk2MjIuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/HNwZGMqDak2xwDkdy-bOTLS3j-znMBysVtxGTz0TFZ4/rs:fit/g:sm/q:90/h:596/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTYy/MS0xMzc2Nzc4MDIx/LTk2MjIuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/kMI_uxTji070QjQckOTkLVy8O4QRDgEYh7gjGyIPFw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTYy/MS0xMzc2Nzc4MDIx/LTk2MjIuanBlZw.jpeg",
+      "width": 599,
+      "height": 596
+    }
+  ],
+  "thumb": "https://i.discogs.com/odgRVKtwHOgIy5sxYUgls_MjOgE0GGfhwe9_W-c7VZU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MTYy/MS0xNDEwNjU5Njc3/LTQwNzUuanBlZw.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

@@ -1,0 +1,312 @@
+{
+  "id": 7380126,
+  "status": "Accepted",
+  "year": 2015,
+  "resource_url": "https://api.discogs.com/releases/7380126",
+  "uri": "https://www.discogs.com/release/7380126-The-Weeknd-Echoes-Of-Silence",
+  "artists": [
+    {
+      "name": "The Weeknd",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 2171152,
+      "resource_url": "https://api.discogs.com/artists/2171152",
+      "thumbnail_url": "https://i.discogs.com/LtkvbtrtZxt0LY5IqGmt4KHX0-_QNv6xloFNdzy-i7Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxNzEx/NTItMTc2MDQ4MTA2/OS03NzM4LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Weeknd, The",
+  "labels": [
+    {
+      "name": "XO",
+      "catno": "B0022919-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 344571,
+      "resource_url": "https://api.discogs.com/labels/344571",
+      "thumbnail_url": "https://i.discogs.com/j9COP9wfWV1fEC4Yc9cxmJkrcRO3MF4eXbXxtg2sIjw/rs:fit/g:sm/q:90/h:600/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM0NDU3/MS0xNDg4ODM5NTYx/LTcwMjEucG5n.jpeg"
+    },
+    {
+      "name": "Republic Records",
+      "catno": "B0022919-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Masterdisk",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 264111,
+      "resource_url": "https://api.discogs.com/labels/264111",
+      "thumbnail_url": "https://i.discogs.com/xACky_ehUKoqxzqTQuTQFVdck9_NLo6hwsK7-cahDs0/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDEx/MS0xMzQ0MDcwODIx/LTk0MjUuanBlZw.jpeg"
+    },
+    {
+      "name": "United Record Pressing",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 238322,
+      "resource_url": "https://api.discogs.com/labels/238322",
+      "thumbnail_url": "https://i.discogs.com/wXejTcaBZif0vNl1Wx8ZmvUBcAwkQ21T3AduA-BjUg8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzODMy/Mi0xNDk3Nzk0Njg4/LTg0MzAucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Mixtape",
+        "Reissue"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 5227,
+    "want": 2552,
+    "rating": {
+      "count": 333,
+      "average": 4.56
+    },
+    "submitter": {
+      "username": "geofox",
+      "resource_url": "https://api.discogs.com/users/geofox"
+    },
+    "contributors": [
+      {
+        "username": "geofox",
+        "resource_url": "https://api.discogs.com/users/geofox"
+      },
+      {
+        "username": "soulvibes88",
+        "resource_url": "https://api.discogs.com/users/soulvibes88"
+      },
+      {
+        "username": "cobannaboc",
+        "resource_url": "https://api.discogs.com/users/cobannaboc"
+      },
+      {
+        "username": "superfamicom",
+        "resource_url": "https://api.discogs.com/users/superfamicom"
+      },
+      {
+        "username": "OrionsLine",
+        "resource_url": "https://api.discogs.com/users/OrionsLine"
+      },
+      {
+        "username": "Sonik_Grooves",
+        "resource_url": "https://api.discogs.com/users/Sonik_Grooves"
+      },
+      {
+        "username": "djsgribbs",
+        "resource_url": "https://api.discogs.com/users/djsgribbs"
+      },
+      {
+        "username": "_jules",
+        "resource_url": "https://api.discogs.com/users/_jules"
+      },
+      {
+        "username": "Rdwd15",
+        "resource_url": "https://api.discogs.com/users/Rdwd15"
+      },
+      {
+        "username": "AustinSimard",
+        "resource_url": "https://api.discogs.com/users/AustinSimard"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2015-08-22T05:15:00-07:00",
+  "date_changed": "2026-01-29T07:50:50-08:00",
+  "num_for_sale": 19,
+  "lowest_price": 30,
+  "master_id": 399750,
+  "master_url": "https://api.discogs.com/masters/399750",
+  "title": "Echoes Of Silence",
+  "country": "USA & Canada",
+  "released": "2015-08-21",
+  "notes": "Ⓟ & Ⓒ 2012 XO&co. Inc.\n\nIssued in a gatefold sleeve.",
+  "released_formatted": "21 Aug 2015",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "602547261472"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0017792 · 01 LP05 - A Ⓤ",
+      "description": "Runout Side A [etched]"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0017792 · 01 LP05 - B Ⓤ",
+      "description": "Runout Side B [etched]"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0017792 · 01 LP06 - A Ⓤ",
+      "description": "Runout Side C [etched]"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0017792 · 01 LP06 - B Ⓤ",
+      "description": "Runout Side D [etched]"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B001779201 LP5 A2  MASTERDISK SH   sw",
+      "description": "Runout Side A [etched]; \"MASTERDISK\" (stamped)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0017792 - 01 - LP05 - B - RE1 II Ⓤ",
+      "description": "Runout Side B [etched]; \"II\" is actually Roman Numerals "
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0017792 · 01 LP06 - B3 Ⓤ",
+      "description": "Runout Side D [etched]; \"3\" is super script"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    "Electronic",
+    "Hip Hop",
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Contemporary R&B"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "D.D.",
+      "duration": "4:35"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Montreal",
+      "duration": "4:11"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Outside",
+      "duration": "4:20"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "XO / The Host",
+      "duration": "7:24"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Initiation",
+      "duration": "4:21"
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Same Old Song",
+      "duration": "5:12"
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "The Fall",
+      "duration": "5:45"
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Next",
+      "duration": "6:00"
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Echoes Of Silence",
+      "duration": "4:00"
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Till Dawn (Here Comes The Sun)",
+      "duration": "5:19"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Scott Hull (2)",
+      "anv": "SH",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 360567,
+      "resource_url": "https://api.discogs.com/artists/360567"
+    },
+    {
+      "name": "Illangelo",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By, Mixed By",
+      "tracks": "",
+      "id": 2186765,
+      "resource_url": "https://api.discogs.com/artists/2186765"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/hsoB1aWTGM3X-9M6XOiYrCVS_L4DeO529fpoYq68PR8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODAx/MjYtMTU5NzI1NzYz/MS02MDI3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/hsoB1aWTGM3X-9M6XOiYrCVS_L4DeO529fpoYq68PR8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODAx/MjYtMTU5NzI1NzYz/MS02MDI3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/cgkX1xmjETivCXSaqGcMNqJF2ZDXcC3AI4JoPtTC85U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODAx/MjYtMTU5NzI1NzYz/MS02MDI3LmpwZWc.jpeg",
+      "width": 600,
+      "height": 594
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/UsztRjfKwQ8SjFQimWidLJ6cImchW-5VxOs6yEqutyw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODAx/MjYtMTU5NzI1NzYz/MC01MzM0LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/UsztRjfKwQ8SjFQimWidLJ6cImchW-5VxOs6yEqutyw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODAx/MjYtMTU5NzI1NzYz/MC01MzM0LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/BfWcBxQIozG73rUON01Jz_3gEsj50tMpXL_CoS76wm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODAx/MjYtMTU5NzI1NzYz/MC01MzM0LmpwZWc.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/EmoSZUsG8wGLV4lWN1dP_IXkhN0Od2oXJHV-uryOU2k/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODAx/MjYtMTYxMTE1MDAw/NC02NDk0LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/EmoSZUsG8wGLV4lWN1dP_IXkhN0Od2oXJHV-uryOU2k/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODAx/MjYtMTYxMTE1MDAw/NC02NDk0LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/pY8MrnzWbGF6sE6VgO6XK8mPB_ndLtyyuHdBL4naHAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODAx/MjYtMTYxMTE1MDAw/NC02NDk0LmpwZWc.jpeg",
+      "width": 587,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Z5-udtasUy2MWzh0QFT2S9u0hXKRMCekJD86D7pY16k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODAx/MjYtMTYxMTE1MDAw/NC03NTIxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/Z5-udtasUy2MWzh0QFT2S9u0hXKRMCekJD86D7pY16k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODAx/MjYtMTYxMTE1MDAw/NC03NTIxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/GcByppg2pYB_dlDxWDHC-zfYoODw3S-RGnbssXoDTN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODAx/MjYtMTYxMTE1MDAw/NC03NTIxLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/cgkX1xmjETivCXSaqGcMNqJF2ZDXcC3AI4JoPtTC85U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODAx/MjYtMTU5NzI1NzYz/MS02MDI3LmpwZWc.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

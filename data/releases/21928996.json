@@ -1,0 +1,1019 @@
+{
+  "id": 21928996,
+  "status": "Accepted",
+  "year": 2022,
+  "resource_url": "https://api.discogs.com/releases/21928996",
+  "uri": "https://www.discogs.com/release/21928996-Childish-Gambino-Because-The-Internet",
+  "artists": [
+    {
+      "name": "Childish Gambino",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 2482309,
+      "resource_url": "https://api.discogs.com/artists/2482309",
+      "thumbnail_url": "https://i.discogs.com/UMQR8Ib0VLlNFQRZHCMwH77UVFVMv4PxfS3toT2Yytc/rs:fit/g:sm/q:90/h:600/w:479/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI0ODIz/MDktMTcyMjU3NzE4/My01NjM0LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Childish Gambino",
+  "labels": [
+    {
+      "name": "Glassnote (2)",
+      "catno": "GLS-0152-01WM",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 529557,
+      "resource_url": "https://api.discogs.com/labels/529557",
+      "thumbnail_url": "https://i.discogs.com/jeHJ457zT1sMpy3G-RUJBmZ9J8OMm-usr87PQchHnoQ/rs:fit/g:sm/q:90/h:600/w:488/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUyOTU1/Ny0xNDMzNTE0NTcx/LTI4MDYuanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Walmart",
+      "catno": "",
+      "entity_type": "42",
+      "entity_type_name": "Exclusive Retailer",
+      "id": 818363,
+      "resource_url": "https://api.discogs.com/labels/818363",
+      "thumbnail_url": "https://i.discogs.com/qyqHlc-iyWL5AF3xvjQtgEOgBrP3bxs2_ZljcGz2wxI/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgxODM2/My0xNzQxNDU1Mzk2/LTM5NDEucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "text": "Pink Toes"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 7832,
+    "want": 2610,
+    "rating": {
+      "count": 458,
+      "average": 4.48
+    },
+    "submitter": {
+      "username": "VYZEE",
+      "resource_url": "https://api.discogs.com/users/VYZEE"
+    },
+    "contributors": [
+      {
+        "username": "VYZEE",
+        "resource_url": "https://api.discogs.com/users/VYZEE"
+      },
+      {
+        "username": "matt71fisher",
+        "resource_url": "https://api.discogs.com/users/matt71fisher"
+      },
+      {
+        "username": "alexautomatic",
+        "resource_url": "https://api.discogs.com/users/alexautomatic"
+      },
+      {
+        "username": "JonnyAtlas",
+        "resource_url": "https://api.discogs.com/users/JonnyAtlas"
+      },
+      {
+        "username": "mega_2122",
+        "resource_url": "https://api.discogs.com/users/mega_2122"
+      },
+      {
+        "username": "wrweqeqe",
+        "resource_url": "https://api.discogs.com/users/wrweqeqe"
+      },
+      {
+        "username": "joeybowie1980",
+        "resource_url": "https://api.discogs.com/users/joeybowie1980"
+      },
+      {
+        "username": "Xmipod",
+        "resource_url": "https://api.discogs.com/users/Xmipod"
+      },
+      {
+        "username": "lildamnation",
+        "resource_url": "https://api.discogs.com/users/lildamnation"
+      },
+      {
+        "username": "BotsOverThots",
+        "resource_url": "https://api.discogs.com/users/BotsOverThots"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2022-01-28T09:41:46-08:00",
+  "date_changed": "2025-03-29T16:20:12-07:00",
+  "num_for_sale": 28,
+  "lowest_price": 14.46,
+  "master_id": 629407,
+  "master_url": "https://api.discogs.com/masters/629407",
+  "title": "Because The Internet",
+  "country": "US",
+  "released": "2022",
+  "notes": "Metallic o-card (sleeve), 2 printed inner sleeves, fold-out 12x24 poster/song info sheet. Exclusive edition released by Walmart.",
+  "released_formatted": "2022",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "5056167162797"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0969408-A-1 8",
+      "description": "Side A runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0969408-B-1 10",
+      "description": "Side B runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0969446-C-1 8",
+      "description": "Side C runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0969446-D-1 2",
+      "description": "Side D runout"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=yHFAbsecOnk",
+      "title": "The Library (Intro)",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nThe Library (Intro) · Childish Gambino · Donald Glover\n\nBecause the Internet\n\n℗ 2013 MCDJ Entertainment under exclusive license to Glassnote Entertainment Group LLC, distributed by AWAL\n\nReleased on: 2013-12",
+      "duration": 5,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=XVAG3_VmgV4",
+      "title": "I.Crawl",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nI.Crawl · Childish Gambino · Donald Glover · K. Hassan · T. Hassan\n\nBecause the Internet\n\n℗ 2013 MCDJ Entertainment under exclusive license to Glassnote Entertainment Group LLC, distributed by AWAL\n\nReleased",
+      "duration": 210,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=mE56dWF0p-M",
+      "title": "II. Worldstar",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nII. Worldstar · Childish Gambino · Donald Glover · Ludwig Göransson\n\nBecause the Internet\n\n℗ 2013 MCDJ Entertainment under exclusive license to Glassnote Entertainment Group LLC, distributed by AWAL\n\nRelease",
+      "duration": 245,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=aXdlr9MYvKE",
+      "title": "Dial Up",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nDial Up · Childish Gambino · Donald Glover\n\nBecause the Internet\n\n℗ 2013 MCDJ Entertainment under exclusive license to Glassnote Entertainment Group LLC, distributed by AWAL\n\nReleased on: 2013-12-10\n\nMusic  ",
+      "duration": 45,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=dwUug-ucBLc",
+      "title": "The Worst Guys (Feat. Chance The Rapper) - Childish Gambino",
+      "description": "because the internet\n\ndirected by Kyle & Adam Newacheck",
+      "duration": 222,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=T29SLUtwh9c",
+      "title": "II. Shadows",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nII. Shadows · Childish Gambino · Donald Glover · K. Muhammad · Ludwig Göransson · S. Brune\n\nBecause the Internet\n\n℗ 2013 MCDJ Entertainment under exclusive license to Glassnote Entertainment Group LLC, distr",
+      "duration": 232,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=p3f-eDzkxcw",
+      "title": "Childish Gambino - Telegraph Ave (\"Oakland\" By Lloyd)",
+      "description": "From the album because the internet: http://smarturl.it/becausetheinternet\n\nhttp://childishgambino.com\nhttp://iamdonald.com\nhttp://twitter.com/donaldglover\nhttp://instagram.com/childishgambino\nhttp://facebook.com/iamdonald\n\nMusic video by Childish Gambino",
+      "duration": 297,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ExVtrghW5Y4",
+      "title": "Childish Gambino - Sweatpants (Official Music Video) ft. Problem",
+      "description": "http://blog.thedeepwebtour.com \n\nFrom the new album because the internet: http://smarturl.it/becausetheinternet\n\nDirector: Hiro Murai\nProducer: Jason Colon\nExec Producer: Danielle Hinde\nDirector of Photography: Larkin Seiple\n\nhttp://childishgambino.com\nht",
+      "duration": 257,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=tG35R8F2j8k",
+      "title": "Childish Gambino - 3005",
+      "description": "because the internet, the new album from Childish Gambino - http://smarturl.it/becausetheinternet\n\nhttp://iamdonald.com\nhttp://childishgambino.com\nhttp://twitter.com/donaldglover\nhttp://facebook.com/iamdonald\nhttp://instagram.com/childishness\n\nMusic video",
+      "duration": 256,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=t6mDUGiKVug",
+      "title": "Playing Around Before the Party Starts",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nPlaying Around Before the Party Starts · Childish Gambino · Donald Glover · Ludwig Göransson\n\nBecause the Internet\n\n℗ 2013 MCDJ Entertainment under exclusive license to Glassnote Entertainment Group LLC, dis",
+      "duration": 55,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=XZMhZmikObA",
+      "title": "I. The Party",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nI. The Party · Childish Gambino · Donald Glover · Ludwig Göransson · Pop Levi\n\nBecause the Internet\n\n℗ 2013 MCDJ Entertainment under exclusive license to Glassnote Entertainment Group LLC, distributed by AWA",
+      "duration": 92,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=FRhaY51edEM",
+      "title": "II. No Exit",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nII. No Exit · Childish Gambino · Donald Glover · Ludwig Göransson\n\nBecause the Internet\n\n℗ 2013 MCDJ Entertainment under exclusive license to Glassnote Entertainment Group LLC, distributed by AWAL\n\nReleased ",
+      "duration": 172,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=nBV1PPD_Emw",
+      "title": "Death By Numbers - Childish Gambino",
+      "description": "I do not own or did I create this video.\n Copyright not intended.\n\n#becausetheinternet",
+      "duration": 45,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ZRlZcA2OOHw",
+      "title": "I. Flight of the Navigator",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nI. Flight of the Navigator · Childish Gambino · Donald Glover · Ludwig Göransson\n\nBecause the Internet\n\n℗ 2013 MCDJ Entertainment under exclusive license to Glassnote Entertainment Group LLC, distributed by ",
+      "duration": 345,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KIPi9IAXm3A",
+      "title": "II. Zealots of Stockholm [Free Information]",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nII. Zealots of Stockholm [Free Information] · Childish Gambino · Donald Glover · L. Robinson · Ludwig Göransson\n\nBecause the Internet\n\n℗ 2013 MCDJ Entertainment under exclusive license to Glassnote Entertain",
+      "duration": 291,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=tUl1jIC7z4Y",
+      "title": "III. Urn (Extended)",
+      "description": "Extended version of Urn off Childish Gambino's 2013 album, Because of the Internet.",
+      "duration": 116,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=8nstaSklNPU",
+      "title": "I. Pink Toes",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nI. Pink Toes · Childish Gambino · Jhené Aiko · Donald Glover · J. Chilombo · Ludwig Göransson\n\nBecause the Internet\n\n℗ 2013 MCDJ Entertainment under exclusive license to Glassnote Entertainment Group LLC, di",
+      "duration": 208,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=cQYMKiTw66s",
+      "title": "II. Earth: The Oldest Computer (The Last Night)",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nII. Earth: The Oldest Computer (The Last Night) · Childish Gambino · Azealia Banks · Donald Glover · Ludwig Göransson\n\nBecause the Internet\n\n℗ 2013 MCDJ Entertainment under exclusive license to Glassnote Ent",
+      "duration": 283,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=4hDTilkiDDU",
+      "title": "III. Life: The Biggest Troll [Andrew Auernheimer]",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nIII. Life: The Biggest Troll [Andrew Auernheimer] · Childish Gambino · Donald Glover · Ludwig Göransson\n\nBecause the Internet\n\n℗ 2013 MCDJ Entertainment under exclusive license to Glassnote Entertainment Gro",
+      "duration": 343,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Hip Hop",
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Abstract",
+    "Conscious",
+    "Contemporary R&B"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "The Library (Intro)",
+      "extraartists": [
+        {
+          "name": "Mystikal",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 37913,
+          "resource_url": "https://api.discogs.com/artists/37913"
+        },
+        {
+          "name": "Rutherford \"Doc\" Allison",
+          "anv": "",
+          "join": "",
+          "role": "Cello",
+          "tracks": "",
+          "id": 3588130,
+          "resource_url": "https://api.discogs.com/artists/3588130"
+        },
+        {
+          "name": "Christian Rich",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 1250799,
+          "resource_url": "https://api.discogs.com/artists/1250799"
+        },
+        {
+          "name": "Kai (12)",
+          "anv": "",
+          "join": "",
+          "role": "Vocals [Additional]",
+          "tracks": "",
+          "id": 1285552,
+          "resource_url": "https://api.discogs.com/artists/1285552"
+        }
+      ],
+      "duration": "0:04"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "I. Crawl",
+      "extraartists": [
+        {
+          "name": "Mystikal",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 37913,
+          "resource_url": "https://api.discogs.com/artists/37913"
+        },
+        {
+          "name": "Rutherford \"Doc\" Allison",
+          "anv": "",
+          "join": "",
+          "role": "Cello",
+          "tracks": "",
+          "id": 3588130,
+          "resource_url": "https://api.discogs.com/artists/3588130"
+        },
+        {
+          "name": "Christian Rich",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 1250799,
+          "resource_url": "https://api.discogs.com/artists/1250799"
+        },
+        {
+          "name": "Kai (12)",
+          "anv": "",
+          "join": "",
+          "role": "Vocals [Additional]",
+          "tracks": "",
+          "id": 1285552,
+          "resource_url": "https://api.discogs.com/artists/1285552"
+        }
+      ],
+      "duration": "3:29"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "II. Worldstar",
+      "extraartists": [
+        {
+          "name": "Jens Filipsson",
+          "anv": "",
+          "join": "",
+          "role": "Alto Saxophone",
+          "tracks": "",
+          "id": 3588129,
+          "resource_url": "https://api.discogs.com/artists/3588129"
+        },
+        {
+          "name": "Swank (5)",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 3280338,
+          "resource_url": "https://api.discogs.com/artists/3280338"
+        },
+        {
+          "name": "Ludwig Göransson",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 6682651,
+          "resource_url": "https://api.discogs.com/artists/6682651"
+        },
+        {
+          "name": "Edvin Nahlin",
+          "anv": "",
+          "join": "",
+          "role": "Keyboards [Fender Rhodes]",
+          "tracks": "",
+          "id": 3588128,
+          "resource_url": "https://api.discogs.com/artists/3588128"
+        },
+        {
+          "name": "Steve G. Lover",
+          "anv": "",
+          "join": "",
+          "role": "Vocals [Additional]",
+          "tracks": "",
+          "id": 3280337,
+          "resource_url": "https://api.discogs.com/artists/3280337"
+        }
+      ],
+      "duration": "4:04"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Dial Up",
+      "duration": "0:44"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "I. The Worst Guys",
+      "extraartists": [
+        {
+          "name": "Ludwig Göransson",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 6682651,
+          "resource_url": "https://api.discogs.com/artists/6682651"
+        },
+        {
+          "name": "S-X",
+          "anv": "",
+          "join": "",
+          "role": "Drum Programming [Additional]",
+          "tracks": "",
+          "id": 1808060,
+          "resource_url": "https://api.discogs.com/artists/1808060"
+        },
+        {
+          "name": "Chance The Rapper",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3268583,
+          "resource_url": "https://api.discogs.com/artists/3268583"
+        },
+        {
+          "name": "Ludwig Göransson",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 6682651,
+          "resource_url": "https://api.discogs.com/artists/6682651"
+        }
+      ],
+      "duration": "3:39"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "II. Shadows",
+      "extraartists": [
+        {
+          "name": "Ludwig Göransson",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 6682651,
+          "resource_url": "https://api.discogs.com/artists/6682651"
+        },
+        {
+          "name": "Thundercat",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 1800656,
+          "resource_url": "https://api.discogs.com/artists/1800656"
+        }
+      ],
+      "duration": "3:51"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "III. Telegraph Ave. (\"Oakland\" by Lloyd)",
+      "extraartists": [
+        {
+          "name": "Rochelle Jordan",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 3500202,
+          "resource_url": "https://api.discogs.com/artists/3500202"
+        },
+        {
+          "name": "Ludwig Göransson",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 6682651,
+          "resource_url": "https://api.discogs.com/artists/6682651"
+        },
+        {
+          "name": "Lloyd",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 186264,
+          "resource_url": "https://api.discogs.com/artists/186264"
+        },
+        {
+          "name": "Yesi Ortiz",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 3588131,
+          "resource_url": "https://api.discogs.com/artists/3588131"
+        }
+      ],
+      "duration": "3:30"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "IV. Sweatpants [Explicit]",
+      "extraartists": [
+        {
+          "name": "Ludwig Göransson",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 6682651,
+          "resource_url": "https://api.discogs.com/artists/6682651"
+        },
+        {
+          "name": "Jason \"Problem\" Martin",
+          "anv": "",
+          "join": "",
+          "role": "Vocals [Ad-libs]",
+          "tracks": "",
+          "id": 3588221,
+          "resource_url": "https://api.discogs.com/artists/3588221"
+        }
+      ],
+      "duration": "3:00"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "V. 3005",
+      "extraartists": [
+        {
+          "name": "Ludwig Göransson",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 6682651,
+          "resource_url": "https://api.discogs.com/artists/6682651"
+        },
+        {
+          "name": "Stefan Ponce",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 2113744,
+          "resource_url": "https://api.discogs.com/artists/2113744"
+        }
+      ],
+      "duration": "3:54"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Playing Around Before the Party Starts",
+      "extraartists": [
+        {
+          "name": "Ludwig Göransson",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 6682651,
+          "resource_url": "https://api.discogs.com/artists/6682651"
+        }
+      ],
+      "duration": "0:54"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "I. The Party",
+      "extraartists": [
+        {
+          "name": "Ludwig Göransson",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 6682651,
+          "resource_url": "https://api.discogs.com/artists/6682651"
+        },
+        {
+          "name": "Pop Levi",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 157382,
+          "resource_url": "https://api.discogs.com/artists/157382"
+        }
+      ],
+      "duration": "1:31"
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "II. No Exit",
+      "extraartists": [
+        {
+          "name": "Ludwig Göransson",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 6682651,
+          "resource_url": "https://api.discogs.com/artists/6682651"
+        },
+        {
+          "name": "Miguel (67)",
+          "anv": "",
+          "join": "",
+          "role": "Vocals [Additional]",
+          "tracks": "",
+          "id": 3213389,
+          "resource_url": "https://api.discogs.com/artists/3213389"
+        }
+      ],
+      "duration": "2:51"
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Death By Numbers",
+      "duration": "0:43"
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "I. Flight of the Navigator",
+      "extraartists": [
+        {
+          "name": "Ludwig Göransson",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 6682651,
+          "resource_url": "https://api.discogs.com/artists/6682651"
+        }
+      ],
+      "duration": "5:44"
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "II. Zealots of Stockholm [Free Information]",
+      "extraartists": [
+        {
+          "name": "Ludwig Göransson",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 6682651,
+          "resource_url": "https://api.discogs.com/artists/6682651"
+        },
+        {
+          "name": "Sam Spiegel",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 730034,
+          "resource_url": "https://api.discogs.com/artists/730034"
+        },
+        {
+          "name": "Kilo Kish",
+          "anv": "",
+          "join": "",
+          "role": "Vocals [Additional]",
+          "tracks": "",
+          "id": 2072129,
+          "resource_url": "https://api.discogs.com/artists/2072129"
+        }
+      ],
+      "duration": "4:50"
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "III. Urn",
+      "extraartists": [
+        {
+          "name": "Ludwig Göransson",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 6682651,
+          "resource_url": "https://api.discogs.com/artists/6682651"
+        }
+      ],
+      "duration": "1:13"
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "I. Pink Toes [Explicit]",
+      "extraartists": [
+        {
+          "name": "Thundercat",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 1800656,
+          "resource_url": "https://api.discogs.com/artists/1800656"
+        },
+        {
+          "name": "Thundercat",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 1800656,
+          "resource_url": "https://api.discogs.com/artists/1800656"
+        },
+        {
+          "name": "Ludwig Göransson",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 6682651,
+          "resource_url": "https://api.discogs.com/artists/6682651"
+        },
+        {
+          "name": "Stefan Ponce",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 2113744,
+          "resource_url": "https://api.discogs.com/artists/2113744"
+        },
+        {
+          "name": "Jhené Aiko",
+          "anv": "Jhene Aiko",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3588219,
+          "resource_url": "https://api.discogs.com/artists/3588219"
+        }
+      ],
+      "duration": "3:27"
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "II. Earth: The Oldest Computer (The Last Night)",
+      "extraartists": [
+        {
+          "name": "Ludwig Göransson",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 6682651,
+          "resource_url": "https://api.discogs.com/artists/6682651"
+        },
+        {
+          "name": "Azealia Banks",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1926684,
+          "resource_url": "https://api.discogs.com/artists/1926684"
+        }
+      ],
+      "duration": "4:42"
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "title": "III. Life: The Biggest Troll [Andrew Auernheimer]",
+      "extraartists": [
+        {
+          "name": "Ludwig Göransson",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 6682651,
+          "resource_url": "https://api.discogs.com/artists/6682651"
+        },
+        {
+          "name": "Donald Glover",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2531194,
+          "resource_url": "https://api.discogs.com/artists/2531194"
+        },
+        {
+          "name": "Erik Arvinder Orchestra",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 3588220,
+          "resource_url": "https://api.discogs.com/artists/3588220"
+        }
+      ],
+      "duration": "5:42"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/bRUYjDmXlNvdAtqyoZNh9laTE223A_Pd9OZSR50KhHw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE3MDU0MzU3/ODItNzY5NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/bRUYjDmXlNvdAtqyoZNh9laTE223A_Pd9OZSR50KhHw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE3MDU0MzU3/ODItNzY5NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/cSSJmnyWFIqg64-Q2PoBAhYgHvMLc7WDcFia6qsaFW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE3MDU0MzU3/ODItNzY5NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/L8pEMRzn-LpopfuMv4RQmSdMNzxcGc8VTVtTlfKpmkA/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDM0MDg5/ODgtMTkwNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/L8pEMRzn-LpopfuMv4RQmSdMNzxcGc8VTVtTlfKpmkA/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDM0MDg5/ODgtMTkwNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/d9Yu4_y9w1bRrc8Pu5FL9DBnMavMjojD_yuUMKozUyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDM0MDg5/ODgtMTkwNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 597
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/edQzPyj4bzBs7RjM7-LEfUa1u-fWpZmECoPdS7OTT4Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTctNjUzOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/edQzPyj4bzBs7RjM7-LEfUa1u-fWpZmECoPdS7OTT4Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTctNjUzOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ruDcBDAPhC7YfIboYBYFCHlytAAFKXW5_UwHGohzf1E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTctNjUzOS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/1h_CdvKYuqLMFVUgrVb9WaXuycCQWIbrd43lMY_LgQM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTctNzAwNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/1h_CdvKYuqLMFVUgrVb9WaXuycCQWIbrd43lMY_LgQM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTctNzAwNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/SV-n_hGZ3xYhJMIcto6xSnDKSJqP2VFHgFue13AFPNE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTctNzAwNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/-z8OsmtFBw96nVp7SH_o-uA1jEaqsD572YzWhnjHchI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTctNDYwMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/-z8OsmtFBw96nVp7SH_o-uA1jEaqsD572YzWhnjHchI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTctNDYwMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/8Hw0fbEnzRGIgl8bHBsrUGf1HterRaPtC9453RDo6Ko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTctNDYwMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/s2bzuDEQCUKbVgC7QesEcqhjnMlvJHlBLT1dExmaIVU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTYtNTA4OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/s2bzuDEQCUKbVgC7QesEcqhjnMlvJHlBLT1dExmaIVU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTYtNTA4OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/eCCisis43w1zJEP-2uZHruJLHJ1p2aB3tzUNgPI6W64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTYtNTA4OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/k5SiNc740BuxJ-Ys3njJANdUkokMXHs2KzPypPtqGC0/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTgtOTk1My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/k5SiNc740BuxJ-Ys3njJANdUkokMXHs2KzPypPtqGC0/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTgtOTk1My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/nsH5vHFMw0FrDN54t85cF_chY6CqGGenGt51T5-S0OI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTgtOTk1My5qcGVn.jpeg",
+      "width": 600,
+      "height": 585
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/e6PcWvG8MnTgYzhrGjmeTvmtetIV5ll_Ai6UUcnQfbs/rs:fit/g:sm/q:90/h:309/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTctMTE2MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/e6PcWvG8MnTgYzhrGjmeTvmtetIV5ll_Ai6UUcnQfbs/rs:fit/g:sm/q:90/h:309/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTctMTE2MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/IOcTYuwm8qCvextoVjqWdx4-y9mtgLh3RuYuvcomso4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTctMTE2MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 309
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/cCMrnegA6JfNqSX55SU1cCVYOaIt43gO_LjdPGSorI4/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTktNTU1My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/cCMrnegA6JfNqSX55SU1cCVYOaIt43gO_LjdPGSorI4/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTktNTU1My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/qjEQpraZDyMSBt_66RY9PzZoNWIbH_f746HHen34rMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTktNTU1My5qcGVn.jpeg",
+      "width": 590,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/jOhdtDkWRi_-hfItMzUizVtLFCmB74ZSL0FJQ2_8uaA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTktMTU1Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/jOhdtDkWRi_-hfItMzUizVtLFCmB74ZSL0FJQ2_8uaA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTktMTU1Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/45qFNs4uow7ppC5rCZUOX6QYCUgtxlo47EfxjhCSQUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTktMTU1Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/O5G49CCbkWoxjn13w3WcEIr80frOuyKmbWqrNmV67Os/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTktOTIzMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/O5G49CCbkWoxjn13w3WcEIr80frOuyKmbWqrNmV67Os/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTktOTIzMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/PBt-6Bvqn5M7fETBBTLiCeMRjknlCUDQGPd-4mjv7bQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTktOTIzMC5qcGVn.jpeg",
+      "width": 597,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/TkOKCfxHHOdYiILjVhZAHbnhQ6B77Wftotf5pdfB1-M/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTktNjI1MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/TkOKCfxHHOdYiILjVhZAHbnhQ6B77Wftotf5pdfB1-M/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTktNjI1MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/oOQ6iEHOI5HpvSgAh60TqyQyzZ0hmQc74GoTT3F4G9k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTktNjI1MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ErpdHB_4PcButcm6prlwySNx55dnoACj6TTYxHo6fwY/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTctMzc0MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ErpdHB_4PcButcm6prlwySNx55dnoACj6TTYxHo6fwY/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTctMzc0MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Tp-G4tez77zAxTpuS_344Xh5mCdlQHfX0hKOs7SfCVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTctMzc0MS5qcGVn.jpeg",
+      "width": 595,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/qg8kXQKXOo5gXyM05SPp64AC-2U53pRsX7oul6i9www/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTktNTExNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/qg8kXQKXOo5gXyM05SPp64AC-2U53pRsX7oul6i9www/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTktNTExNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/CVkmFigcmflXXygrWypCVETDCzRAI_ar5sb908Rzpok/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTktNTExNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 590
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/yG2RoHS0Kif2MvSc2mMqrx9rYmCkygQTzY7iaLrOA6A/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTktODEzMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/yG2RoHS0Kif2MvSc2mMqrx9rYmCkygQTzY7iaLrOA6A/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTktODEzMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/6UkOkMuI675xC7B-vnm0rgbb_FHJwfe9KEohIST0SPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTktODEzMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/9tzJ1F-pqdoRs-MBImGj48Q6UT0E4YSv7_0HqevFTYU/rs:fit/g:sm/q:90/h:600/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTYtMTA3MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/9tzJ1F-pqdoRs-MBImGj48Q6UT0E4YSv7_0HqevFTYU/rs:fit/g:sm/q:90/h:600/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTYtMTA3MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/AvTM5Pd7YBk--S4BdHVxl3S2AiyBSE9DCHSMvYBngBU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTYtMTA3MC5qcGVn.jpeg",
+      "width": 400,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/UH3csC_dgLjuQvLdFgdlVlh0oi626sTp0FsdwZiFZng/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTYtMzY0MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/UH3csC_dgLjuQvLdFgdlVlh0oi626sTp0FsdwZiFZng/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTYtMzY0MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/iqm6-S1nSeMgfdNOIdFOfDE1lSbt4D24IjnOXeXOKmY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDQ5NjQ1/OTYtMzY0MS5qcGVn.jpeg",
+      "width": 588,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/QPTKo-5X09qQQ3NWTknsrKqB1gWI1cWVVwHOgHAcNK4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDMzOTQw/ODctNTAzNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/QPTKo-5X09qQQ3NWTknsrKqB1gWI1cWVVwHOgHAcNK4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDMzOTQw/ODctNTAzNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/JmboQHJl12a8TGWXuc8dQ3LezmsPvODbfUPTSmOLS_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE2NDMzOTQw/ODctNTAzNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/cSSJmnyWFIqg64-Q2PoBAhYgHvMLc7WDcFia6qsaFW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTI4/OTk2LTE3MDU0MzU3/ODItNzY5NS5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

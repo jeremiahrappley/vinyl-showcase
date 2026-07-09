@@ -1,0 +1,502 @@
+{
+  "id": 15569094,
+  "status": "Accepted",
+  "year": 2020,
+  "resource_url": "https://api.discogs.com/releases/15569094",
+  "uri": "https://www.discogs.com/release/15569094-Selena-Ones",
+  "artists": [
+    {
+      "name": "Selena",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 129237,
+      "resource_url": "https://api.discogs.com/artists/129237",
+      "thumbnail_url": "https://i.discogs.com/NmjVA1d8FKhuRKKUq0Xs42fcetciz-uL7LWP7f1OtUA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyOTIz/Ny0xNzcyMTE5MDE1/LTE4NDEuanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Selena",
+  "labels": [
+    {
+      "name": "Capitol Latin",
+      "catno": "B0032226-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 216734,
+      "resource_url": "https://api.discogs.com/labels/216734",
+      "thumbnail_url": "https://i.discogs.com/4cLbeG9ZpmTP4fsbfDyKTJ4oyYkeoq_MPzbL7mXLm04/rs:fit/g:sm/q:90/h:103/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxNjcz/NC0xMjk4MzUzNjcy/LmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Universal Music Latin Entertainment",
+      "catno": "35266-1",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 217492,
+      "resource_url": "https://api.discogs.com/labels/217492",
+      "thumbnail_url": "https://i.discogs.com/PJHi5s_5mca6IjJlEUSjIdODyHTtGQBGsfqVCmaJI7c/rs:fit/g:sm/q:90/h:199/w:342/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxNzQ5/Mi0xMzY5NTkzNzc0/LTc3MjUuanBlZw.jpeg"
+    },
+    {
+      "name": "UMG Commercial Services",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 1419182,
+      "resource_url": "https://api.discogs.com/labels/1419182"
+    },
+    {
+      "name": "Nashville Record Productions",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 301710,
+      "resource_url": "https://api.discogs.com/labels/301710",
+      "thumbnail_url": "https://i.discogs.com/IcalAteMbdmR9J0RZL7DNIgwoUFgumvzbzqKsx9Rve4/rs:fit/g:sm/q:90/h:253/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwMTcx/MC0xNjQwMzg4MTcx/LTYwMzAuanBlZw.jpeg"
+    },
+    {
+      "name": "United Record Pressing",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 238322,
+      "resource_url": "https://api.discogs.com/labels/238322",
+      "thumbnail_url": "https://i.discogs.com/wXejTcaBZif0vNl1Wx8ZmvUBcAwkQ21T3AduA-BjUg8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzODMy/Mi0xNDk3Nzk0Njg4/LTg0MzAucG5n.jpeg"
+    },
+    {
+      "name": "Target (11)",
+      "catno": "",
+      "entity_type": "42",
+      "entity_type_name": "Exclusive Retailer",
+      "id": 861774,
+      "resource_url": "https://api.discogs.com/labels/861774",
+      "thumbnail_url": "https://i.discogs.com/PSrhn2vq48a2cr51IAlT1fdMl2UrScC22ONqmN511WI/rs:fit/g:sm/q:90/h:213/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg2MTc3/NC0xNzA1NjExMzM0/LTM3MTguZ2lm.jpeg"
+    },
+    {
+      "name": "UMG Commercial Services",
+      "catno": "",
+      "entity_type": "8",
+      "entity_type_name": "Marketed By",
+      "id": 1419182,
+      "resource_url": "https://api.discogs.com/labels/1419182"
+    },
+    {
+      "name": "UMG Recordings, Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 272782,
+      "resource_url": "https://api.discogs.com/labels/272782",
+      "thumbnail_url": "https://i.discogs.com/WX78Ss6rJPzD8aWRj-wynSuGlTwtQLp2QLnUFGDI3Pg/rs:fit/g:sm/q:90/h:80/w:534/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Mjc4/Mi0xNDU3MDEyNDAw/LTExMzYuanBlZw.jpeg"
+    },
+    {
+      "name": "UMG Recordings, Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 272782,
+      "resource_url": "https://api.discogs.com/labels/272782",
+      "thumbnail_url": "https://i.discogs.com/WX78Ss6rJPzD8aWRj-wynSuGlTwtQLp2QLnUFGDI3Pg/rs:fit/g:sm/q:90/h:80/w:534/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Mjc4/Mi0xNDU3MDEyNDAw/LTExMzYuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Compilation",
+        "Limited Edition",
+        "Picture Disc",
+        "Reissue"
+      ],
+      "text": "Target Exclusive"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 10348,
+    "want": 422,
+    "rating": {
+      "count": 482,
+      "average": 4.67
+    },
+    "submitter": {
+      "username": "Cmptrblu808",
+      "resource_url": "https://api.discogs.com/users/Cmptrblu808"
+    },
+    "contributors": [
+      {
+        "username": "Cmptrblu808",
+        "resource_url": "https://api.discogs.com/users/Cmptrblu808"
+      },
+      {
+        "username": "mendez671",
+        "resource_url": "https://api.discogs.com/users/mendez671"
+      },
+      {
+        "username": "robert.alley",
+        "resource_url": "https://api.discogs.com/users/robert.alley"
+      },
+      {
+        "username": "RobLives4Love_",
+        "resource_url": "https://api.discogs.com/users/RobLives4Love_"
+      },
+      {
+        "username": "areg",
+        "resource_url": "https://api.discogs.com/users/areg"
+      },
+      {
+        "username": "asasmee",
+        "resource_url": "https://api.discogs.com/users/asasmee"
+      },
+      {
+        "username": "WindexSauce",
+        "resource_url": "https://api.discogs.com/users/WindexSauce"
+      },
+      {
+        "username": "somebetterplace",
+        "resource_url": "https://api.discogs.com/users/somebetterplace"
+      },
+      {
+        "username": "vrp_pdx",
+        "resource_url": "https://api.discogs.com/users/vrp_pdx"
+      },
+      {
+        "username": "PokemonBlueVersion",
+        "resource_url": "https://api.discogs.com/users/PokemonBlueVersion"
+      },
+      {
+        "username": "TReimer",
+        "resource_url": "https://api.discogs.com/users/TReimer"
+      },
+      {
+        "username": "randomcustom",
+        "resource_url": "https://api.discogs.com/users/randomcustom"
+      },
+      {
+        "username": "zach12211",
+        "resource_url": "https://api.discogs.com/users/zach12211"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2020-07-03T07:53:47-07:00",
+  "date_changed": "2025-12-20T17:32:21-08:00",
+  "num_for_sale": 20,
+  "lowest_price": 27.99,
+  "master_id": 1073965,
+  "master_url": "https://api.discogs.com/masters/1073965",
+  "title": "Ones",
+  "country": "US",
+  "released": "2020-07-03",
+  "notes": "This exclusive edition was available through Target retail stores and included a 23\" x 11\" Selena poster.\n\n\"Made in Canada\" printed on plastic wrap.",
+  "released_formatted": "03 Jul 2020",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02507 12701 5",
+      "description": "Printed"
+    },
+    {
+      "type": "Barcode",
+      "value": "602507127015",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0025505-01-A NRP Ⓤ",
+      "description": "Side A, runout, etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0025505-01-B NRP Ⓤ ",
+      "description": "Side B, runout, etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0025506-01-A NRP Ⓤ",
+      "description": "Side C, runout, etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0025506-01-B NRP Ⓤ",
+      "description": "Side D, runout, etched"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=p0Az7ULwdvU",
+      "title": "Selena - La Carcacha (Official Music Video)",
+      "description": "REMASTERED IN HD!\nSelena y Los Dinos \"La Carcacha\" Official Music Video. \n(P)C) 2010 Capitol Latin, LLC. All rights reserved. Unauthorized reproduction is a violation of applicable laws. Manufactured by Capitol Latin, LLC , 404 Washington Ave. #700 Miami ",
+      "duration": 219,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=_eegg52jd1g",
+      "title": "Selena - No Quiero Saber",
+      "description": "Selena \"No Quiero Saber\" Official Music Video. \n\n(P)C) 2010 Capitol Latin, LLC. All rights reserved. Unauthorized reproduction is a violation of applicable laws. Manufactured by Capitol Latin, LLC , 404 Washington Ave. #700 Miami Beach, FL 33139",
+      "duration": 217,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=YsScuXjWZOY",
+      "title": "Selena - Buenos Amigos",
+      "description": "Selena \"Buenos Amigos\" Official Music Video featuring Alvaro Torres. \n(P)C) 2010 Capitol Latin, LLC. All rights reserved. Unauthorized reproduction is a violation of applicable laws. Manufactured by Capitol Latin, LLC , 404 Washington Ave. #700 Miami Beac",
+      "duration": 285,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Latin",
+    "Pop"
+  ],
+  "styles": [
+    "Cumbia",
+    "Tejano",
+    "Latin Pop"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "No Quiero Saber",
+      "duration": "2:57"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Baila Esta Cumbia",
+      "duration": "3:00"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Como La Flor",
+      "duration": "3:02"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "La Carcacha",
+      "duration": "4:09"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Buenos Amigos",
+      "duration": "4:44"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "No Debes Jugar",
+      "duration": "2:48"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "La Llamada",
+      "duration": "3:10"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Amor Prohibido",
+      "duration": "2:50"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "No Me Queda Más",
+      "duration": "3:18"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Fotos Y Recuerdos",
+      "duration": "2:34"
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "El Chico Del Apartamento 512",
+      "duration": "3:26"
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Bidi Bidi Bom Bom",
+      "duration": "3:27"
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Techno Cumbia",
+      "duration": "3:45"
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Si Una Vez",
+      "duration": "2:46"
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "Donde Quiera Que Estés",
+      "extraartists": [
+        {
+          "name": "Barrio Boyzz",
+          "anv": "Barrio Boyz",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 700458,
+          "resource_url": "https://api.discogs.com/artists/700458"
+        }
+      ],
+      "duration": "4:30"
+    },
+    {
+      "position": "C5",
+      "type_": "track",
+      "title": "Tú, Solo Tú",
+      "duration": "3:12"
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Siempre Hace Frío",
+      "duration": "3:12"
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "I Could Fall In Love",
+      "duration": "4:41"
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Dreaming Of You",
+      "duration": "5:23"
+    },
+    {
+      "position": "",
+      "type_": "index",
+      "title": "Con Tanto Amor - Medley",
+      "duration": "7:05",
+      "sub_tracks": [
+        {
+          "position": "D4.1",
+          "type_": "track",
+          "title": "Amor Prohibido",
+          "duration": ""
+        },
+        {
+          "position": "D4.2",
+          "type_": "track",
+          "title": "Si Una Vez",
+          "duration": ""
+        },
+        {
+          "position": "D4.3",
+          "type_": "track",
+          "title": "Como La Flor",
+          "duration": ""
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/Eg_plVMPnOrdQUeJuMSWkRmGo_YFbwd_xteEd1Tf9Xc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE2OTQ0ODE0/NjItNDE4OS5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/Eg_plVMPnOrdQUeJuMSWkRmGo_YFbwd_xteEd1Tf9Xc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE2OTQ0ODE0/NjItNDE4OS5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/ZUtSpQ6D27m5DCJDDgpFt6Q2DmSfPTV61um4yW-W9bY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE2OTQ0ODE0/NjItNDE4OS5wbmc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/cZyzFEcdlSyAzVyqzLBrqfT5j-U2oCcXjmDVIHljrrE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE2OTQ0ODE0/NjEtNTU4Ny5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/cZyzFEcdlSyAzVyqzLBrqfT5j-U2oCcXjmDVIHljrrE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE2OTQ0ODE0/NjEtNTU4Ny5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/BVvaIAhfpFOA7HMZ7bvV6skiAEI3gddJu3H4ofvWkAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE2OTQ0ODE0/NjEtNTU4Ny5wbmc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/LZUdG8KJmTnO11fs3RkFrD01Twz1qCskoBqOZJ2VcjU/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE1OTM4MDMw/NDMtNjcxNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/LZUdG8KJmTnO11fs3RkFrD01Twz1qCskoBqOZJ2VcjU/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE1OTM4MDMw/NDMtNjcxNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/lQ_fz5gSUs8YbSOyz3-pnhZn41-yd4xZPZUdt8ysbuc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE1OTM4MDMw/NDMtNjcxNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 570
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/MylI8h7Nq7IXy3J3T8WSwWgNxvjo_0V_kIwGxkTjWo0/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE1OTM4MDMw/NjAtMzc4OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/MylI8h7Nq7IXy3J3T8WSwWgNxvjo_0V_kIwGxkTjWo0/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE1OTM4MDMw/NjAtMzc4OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/PQ4CJnflSHQ3Y2qDvsYEc2Jbh96N88VObQjQu-LyPbE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE1OTM4MDMw/NjAtMzc4OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 584
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/MbiGz1UIDgN8-JUHEwaV641UGFLaV1HN7X9VJsqOVZQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE1OTM4MDMw/ODMtMjY4MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/MbiGz1UIDgN8-JUHEwaV641UGFLaV1HN7X9VJsqOVZQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE1OTM4MDMw/ODMtMjY4MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/vw9QyB-45G01TRq7bA01RcDqY-4HrO_Y0SsjVSAKfEc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE1OTM4MDMw/ODMtMjY4MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/T_BRvdP1b8Xqx3Q2NtGLXP7mk9fwNZyfnHxeoQb689M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE1OTM4MDMw/OTUtNTA0OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/T_BRvdP1b8Xqx3Q2NtGLXP7mk9fwNZyfnHxeoQb689M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE1OTM4MDMw/OTUtNTA0OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/0FKkjcz-7fysxbodrw4jSzNFiYxOQqu5E-PL7C6CTqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE1OTM4MDMw/OTUtNTA0OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/njixnSplrMAfbHT7yhvkW_z3IeZCO1imheUbN93Yy_Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE1OTM4MDMx/MDgtNzE4Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/njixnSplrMAfbHT7yhvkW_z3IeZCO1imheUbN93Yy_Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE1OTM4MDMx/MDgtNzE4Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/T2fiKV5cA3Re5yCApY_ABkzR7WJWYtTB4tUeIYZONAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE1OTM4MDMx/MDgtNzE4Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/VlAuf3qCULrHhwoyL-cyW7IywJZaSeoUjUy-qeuCj3s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE1OTM4MDMx/MTktMTE0MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/VlAuf3qCULrHhwoyL-cyW7IywJZaSeoUjUy-qeuCj3s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE1OTM4MDMx/MTktMTE0MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/cONp_KStzmTjWCLNA9mtrxnNsG1QACMkauNKOLweA6k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE1OTM4MDMx/MTktMTE0MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/rlY4N_SWqSv3vX4je55wDlIefImzArOyzrQK5I49NYc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE1OTM4MDMx/MjYtNzI1MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/rlY4N_SWqSv3vX4je55wDlIefImzArOyzrQK5I49NYc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE1OTM4MDMx/MjYtNzI1MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/cT5vT6A3zAjvfj6tMqNy-r2QoHTxgpD5SqBJxjjykQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE1OTM4MDMx/MjYtNzI1MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/1mne5cUAdS5pIp5TOiSmLPJqbcWYTQUou7sEaRxWU6s/rs:fit/g:sm/q:90/h:600/w:285/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE2OTQ0ODE0/NTctODg1NC5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/1mne5cUAdS5pIp5TOiSmLPJqbcWYTQUou7sEaRxWU6s/rs:fit/g:sm/q:90/h:600/w:285/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE2OTQ0ODE0/NTctODg1NC5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/cejxPxkzk1RP9IE6--cMtcbh3_eTjunm3ve8N3OYZog/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE2OTQ0ODE0/NTctODg1NC5wbmc.jpeg",
+      "width": 285,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/ZUtSpQ6D27m5DCJDDgpFt6Q2DmSfPTV61um4yW-W9bY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NTY5/MDk0LTE2OTQ0ODE0/NjItNDE4OS5wbmc.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

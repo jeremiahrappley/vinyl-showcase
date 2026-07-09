@@ -1,0 +1,2632 @@
+{
+  "id": 16839705,
+  "status": "Accepted",
+  "year": 2016,
+  "resource_url": "https://api.discogs.com/releases/16839705",
+  "uri": "https://www.discogs.com/release/16839705-Sade-The-Best-Of-Sade",
+  "artists": [
+    {
+      "name": "Sade",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 19731,
+      "resource_url": "https://api.discogs.com/artists/19731",
+      "thumbnail_url": "https://i.discogs.com/EKLCzSBj-FM3OP9CM29QpcpTh5CBYXee5UsRvteoVNg/rs:fit/g:sm/q:90/h:432/w:537/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE5NzMx/LTEyMTc4NTg3MTcu/anBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Sade",
+  "labels": [
+    {
+      "name": "Sony Music",
+      "catno": "88875180591",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 25487,
+      "resource_url": "https://api.discogs.com/labels/25487",
+      "thumbnail_url": "https://i.discogs.com/O7quXBkakkeeljzb5ApIswR86acqIHTQ3qzBrCHmqzA/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NDg3/LTE3MDA5NDA1ODgt/MTYwNS5wbmc.jpeg"
+    },
+    {
+      "name": "Epic",
+      "catno": "88875180591",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1005,
+      "resource_url": "https://api.discogs.com/labels/1005",
+      "thumbnail_url": "https://i.discogs.com/Ta8tXFbN3YA4PweFsSHGzpZN1tOertrxyLpgf7OaWCo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDUt/MTc3OTQ5NjYzOC04/Njg3LmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Sony Music Entertainment (UK) Ltd.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 33768,
+      "resource_url": "https://api.discogs.com/labels/33768",
+      "thumbnail_url": "https://i.discogs.com/AruDqpXezGOXVkcQpVLyZBVpYkzvbB8eBD9KGNd3FsE/rs:fit/g:sm/q:90/h:70/w:464/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMzNzY4/LTE2ODE2NTU4NzYt/OTU3Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Sony Music Entertainment (UK) Ltd.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 33768,
+      "resource_url": "https://api.discogs.com/labels/33768",
+      "thumbnail_url": "https://i.discogs.com/AruDqpXezGOXVkcQpVLyZBVpYkzvbB8eBD9KGNd3FsE/rs:fit/g:sm/q:90/h:70/w:464/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMzNzY4/LTE2ODE2NTU4NzYt/OTU3Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Sony Music Entertainment",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 29073,
+      "resource_url": "https://api.discogs.com/labels/29073",
+      "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+    },
+    {
+      "name": "Sony Music Entertainment International Services GmbH",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 737249,
+      "resource_url": "https://api.discogs.com/labels/737249",
+      "thumbnail_url": "https://i.discogs.com/ukmrc-CQzP45xqu7pl1WAhVsncRsMdkb9uLji96fFcY/rs:fit/g:sm/q:90/h:27/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTczNzI0/OS0xNzc0NjI0MDAw/LTQwMDcuanBlZw.jpeg"
+    },
+    {
+      "name": "Record Industry",
+      "catno": "14901",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 267164,
+      "resource_url": "https://api.discogs.com/labels/267164",
+      "thumbnail_url": "https://i.discogs.com/O-Hxe1Kov2i8WglqGPPH_MOH2tRwDR7PcnrGNdcFh7I/rs:fit/g:sm/q:90/h:596/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NzE2/NC0xNjQ4NzExMzM5/LTI1MDQuanBlZw.jpeg"
+    },
+    {
+      "name": "Power Plant Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 270991,
+      "resource_url": "https://api.discogs.com/labels/270991",
+      "thumbnail_url": "https://i.discogs.com/0cnZp1zsG4oOg77cb_OlMOmayoT9A-tlTWMA-h147Qs/rs:fit/g:sm/q:90/h:205/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MDk5/MS0xNDQ3ODgzMTQ3/LTMwMDguanBlZw.jpeg"
+    },
+    {
+      "name": "Studio Miraval",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 271897,
+      "resource_url": "https://api.discogs.com/labels/271897",
+      "thumbnail_url": "https://i.discogs.com/4bQwyKJBhC1G_ZN0HNtTed-2uXdCkNhOAtDT2LPXiy4/rs:fit/g:sm/q:90/h:370/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MTg5/Ny0xNjY5NjUyNTEy/LTQyNzcucG5n.jpeg"
+    },
+    {
+      "name": "Compass Point Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 264020,
+      "resource_url": "https://api.discogs.com/labels/264020",
+      "thumbnail_url": "https://i.discogs.com/ua3c2lCdoyFTukMHM_Dq9Rgnc_QMe9Mt0dcuUNme1Nc/rs:fit/g:sm/q:90/h:344/w:415/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDAy/MC0xNjM4MzM5MTE1/LTcxNTguanBlZw.jpeg"
+    },
+    {
+      "name": "Studio Marcadet",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 264435,
+      "resource_url": "https://api.discogs.com/labels/264435",
+      "thumbnail_url": "https://i.discogs.com/r9h6mHaUx5FWBQ4zPjlKYqvPTnA_HEmdvJMjMk7zKcA/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDQz/NS0xNjEzMTQ0MTQy/LTkzOTkuanBlZw.jpeg"
+    },
+    {
+      "name": "Condulmer Recording Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 384281,
+      "resource_url": "https://api.discogs.com/labels/384281",
+      "thumbnail_url": "https://i.discogs.com/ZgXgwMaiWq_IRAiJxMZ8hwFm_02KI2FnIgj6p43kvvA/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4NDI4/MS0xNDQ4NzE0NTYx/LTk1MjIuanBlZw.jpeg"
+    },
+    {
+      "name": "Ridge Farm Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 265813,
+      "resource_url": "https://api.discogs.com/labels/265813",
+      "thumbnail_url": "https://i.discogs.com/sbXHCPvk0SE3gEpshJAr51ZIzUPC2L_0YyRGwdlL-Sw/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTgx/My0xNjE1NDA1MjQ3/LTcyMjAuanBlZw.jpeg"
+    },
+    {
+      "name": "The Hit Factory, London",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 301153,
+      "resource_url": "https://api.discogs.com/labels/301153",
+      "thumbnail_url": "https://i.discogs.com/CB4nt7CtsKCHEEJK_zqwjqwInip-ckaNqLcnQxktw4c/rs:fit/g:sm/q:90/h:251/w:263/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwMTE1/My0xNDUzMDM5MTI1/LTY2NzMuanBlZw.jpeg"
+    },
+    {
+      "name": "Conway Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 265937,
+      "resource_url": "https://api.discogs.com/labels/265937",
+      "thumbnail_url": "https://i.discogs.com/yH8pXOLciN257RutJRe8Zk3ogg-Rd-ER5dMZsM1atsg/rs:fit/g:sm/q:90/h:243/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTkz/Ny0xNDQ4ODkxNDU3/LTIzMzAuanBlZw.jpeg"
+    },
+    {
+      "name": "Ameraycan Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 268533,
+      "resource_url": "https://api.discogs.com/labels/268533",
+      "thumbnail_url": "https://i.discogs.com/pgHWuX_1tVa68DxBFPq6lav3b5hE9p9pDIy6u0yz-KU/rs:fit/g:sm/q:90/h:458/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2ODUz/My0xMzI4MjA0MjEw/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Metropolis Mastering",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 181778,
+      "resource_url": "https://api.discogs.com/labels/181778",
+      "thumbnail_url": "https://i.discogs.com/dT0hLPAL95_SLtf84XSm2fFlakyZcK84VHwA0W0aGw8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4MTc3/OC0xNDk2MzEwNjYx/LTcxNTkucG5n.jpeg"
+    },
+    {
+      "name": "Abbey Road Studios",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 217694,
+      "resource_url": "https://api.discogs.com/labels/217694",
+      "thumbnail_url": "https://i.discogs.com/XDYTZcjSSoTI3eUuMARX4Yjr7f6Ajl1tGgCYQr24Qms/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxNzY5/NC0xNTI0Njg3MDc3/LTM2NzEucG5n.jpeg"
+    },
+    {
+      "name": "Angel Music Ltd.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 363937,
+      "resource_url": "https://api.discogs.com/labels/363937",
+      "thumbnail_url": "https://i.discogs.com/2E9NhIewiCqY4HblkhDALBCdq012xmANUcHWhtfhdqQ/rs:fit/g:sm/q:90/h:92/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM2Mzkz/Ny0xNzEyNDQwMDAw/LTQ2NzcuanBlZw.jpeg"
+    },
+    {
+      "name": "Peermusic (UK) Ltd",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 301103,
+      "resource_url": "https://api.discogs.com/labels/301103",
+      "thumbnail_url": "https://i.discogs.com/dv2Gpp2q1CUsc1mOUIx-bzJ0BxRLNJmaWZPY4I5xkRM/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwMTEw/My0xNDg2MDQyMTI5/LTcyODcuanBlZw.jpeg"
+    },
+    {
+      "name": "ATV Music Ltd.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 266182,
+      "resource_url": "https://api.discogs.com/labels/266182",
+      "thumbnail_url": "https://i.discogs.com/f9gRpqkMOtVBIgJKaQyqnwGN9Zkl4R106JvKkvtEHU8/rs:fit/g:sm/q:90/h:177/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NjE4/Mi0xNzA5MjIwMDkw/LTIxNTEuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Compilation",
+        "Reissue",
+        "Stereo"
+      ],
+      "text": "Half-Speed Mastered, Gatefold, 180 Gram"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 9324,
+    "want": 1784,
+    "rating": {
+      "count": 1098,
+      "average": 4.82
+    },
+    "submitter": {
+      "username": "remco2502",
+      "resource_url": "https://api.discogs.com/users/remco2502"
+    },
+    "contributors": [
+      {
+        "username": "remco2502",
+        "resource_url": "https://api.discogs.com/users/remco2502"
+      },
+      {
+        "username": "rvdbrugg",
+        "resource_url": "https://api.discogs.com/users/rvdbrugg"
+      },
+      {
+        "username": "thomas.barten64",
+        "resource_url": "https://api.discogs.com/users/thomas.barten64"
+      },
+      {
+        "username": "toomuchsauce",
+        "resource_url": "https://api.discogs.com/users/toomuchsauce"
+      },
+      {
+        "username": "KaitouGentleman",
+        "resource_url": "https://api.discogs.com/users/KaitouGentleman"
+      },
+      {
+        "username": "movceo",
+        "resource_url": "https://api.discogs.com/users/movceo"
+      },
+      {
+        "username": "addicted0403",
+        "resource_url": "https://api.discogs.com/users/addicted0403"
+      },
+      {
+        "username": "natancasalinuovo",
+        "resource_url": "https://api.discogs.com/users/natancasalinuovo"
+      },
+      {
+        "username": "HetBejaardePlaatje",
+        "resource_url": "https://api.discogs.com/users/HetBejaardePlaatje"
+      },
+      {
+        "username": "patdis51",
+        "resource_url": "https://api.discogs.com/users/patdis51"
+      },
+      {
+        "username": "somebetterplace",
+        "resource_url": "https://api.discogs.com/users/somebetterplace"
+      },
+      {
+        "username": "etnofunk",
+        "resource_url": "https://api.discogs.com/users/etnofunk"
+      },
+      {
+        "username": "Kippersnax",
+        "resource_url": "https://api.discogs.com/users/Kippersnax"
+      },
+      {
+        "username": "Sharafanta",
+        "resource_url": "https://api.discogs.com/users/Sharafanta"
+      },
+      {
+        "username": "Mr.Bruster",
+        "resource_url": "https://api.discogs.com/users/Mr.Bruster"
+      },
+      {
+        "username": "Xmipod",
+        "resource_url": "https://api.discogs.com/users/Xmipod"
+      },
+      {
+        "username": "DiegoHasDiscogs",
+        "resource_url": "https://api.discogs.com/users/DiegoHasDiscogs"
+      },
+      {
+        "username": "cliffonthemoon",
+        "resource_url": "https://api.discogs.com/users/cliffonthemoon"
+      },
+      {
+        "username": "zionsgate",
+        "resource_url": "https://api.discogs.com/users/zionsgate"
+      },
+      {
+        "username": "angelcotallo",
+        "resource_url": "https://api.discogs.com/users/angelcotallo"
+      },
+      {
+        "username": "filiscreechi",
+        "resource_url": "https://api.discogs.com/users/filiscreechi"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2021-01-08T13:03:22-08:00",
+  "date_changed": "2025-11-09T13:41:51-08:00",
+  "num_for_sale": 39,
+  "lowest_price": 19.84,
+  "master_id": 110951,
+  "master_url": "https://api.discogs.com/masters/110951",
+  "title": "The Best Of Sade",
+  "country": "Europe",
+  "released": "2016-03-11",
+  "notes": "Half-speed mastered by Miles Showell at Abbey Road.\n\n180 Gram Vinyl\n\nHype sticker on front shrink: \"The Best of Sade\"\n\nTracks are numbered sequentially across sides on the release.\n\nOn spine: 88875180591 [Sony and Epic logos]\n\nOn back cover: ℗ 1994 Sony Music Entertainment UK Limited © 2016 Sony Music Entertainment UK Limited / Distributed by Sony Music Entertainment.\nMade in the EU / Sony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany. / LC 00199 / 88875180591.\n\nOn inner sleeve: \nTracks are listed sequential, regardless of sides \n\nMastered by Ian Cooper/Metropolis Mastering, London/1994\n\nA1 to B3 ℗ 1985\nB4 to C2 ℗ 1988\nC3 to D1, D3, D4 ℗ 1992\nD2 ℗ 1993 Sony Music Entertainment.\n\nA1 to A3: Recorded at The Power Plant, London / 1984\nTaken from [url=https://www.discogs.com/Sade-Diamond-Life/master/43936]Diamond Life [/url]\n\nA4 to B3: Recorded at The Power Plant, London  / Studio Miraval, France / 1985\nTaken from [url=https://www.discogs.com/Sade-Promise/master/43946]Promise[/url]\n\nB4 to C2: Recorded at Compass Point, Nassau / Studio Miraval, France / Studio Marcadet, Paris / 1987\nTaken from [url=https://www.discogs.com/Sade-Stronger-Than-Pride/master/110941]Stronger Than Pride [/url]\n\nC3 to D1, D3, D4: Recorded at Studio Condulmer, Venice / Ridge Farm, Surrey / The Hit Factory, London / 1992\nTaken from [url=https://www.discogs.com/Sade-Love-Deluxe/master/110938]Love Deluxe[/url]\n\nD2: Recorded at Conway Studios and Ameraycan Studios, Los Angeles / 1993\n\nRunouts are etched, except 14901 1X 88875180591 stamped\n\nCompared to [r=8131475] this release is half speed mastered and has different matrix numbers.\n",
+  "released_formatted": "11 Mar 2016",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "8 88751 80591 0",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "888751805910",
+      "description": "Scanned"
+    },
+    {
+      "type": "Rights Society",
+      "value": "BIEM/GEMA"
+    },
+    {
+      "type": "Label Code",
+      "value": "LC 00199"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30. B 14901 1A 88875180591",
+      "description": "Side A, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30. 14901 1B 88875180591",
+      "description": "Side B, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30. 14901 1C 88875180591",
+      "description": "Side C, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30. 14901 1D 88875180591 B",
+      "description": "Side D, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "C  MILES. ABBEY ROAD ½ SPEED. ROOM 30. 14901 1A 88875180591",
+      "description": "Side A, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30. 14901 1B 88875180591",
+      "description": "Side B, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30 14901 1C 88875180591",
+      "description": "Side C, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "C  MILES. ABBEY ROAD ½ SPEED. ROOM 30. 14901 1D 88875180591",
+      "description": "Side D, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": " MILES. ABBEY ROAD ½ SPEED. ROOM 30 14901 2A 88875180591",
+      "description": "Side A, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30 14901 2B 88875180591",
+      "description": "Side B, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30 14901 2C 88875180591",
+      "description": "Side C, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30 14901 2D 88875180591",
+      "description": "Side D, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30. D 14901 1A 88875180591",
+      "description": "Side A, variant 4"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30. C 14901 1B 88875180591",
+      "description": "Side B, variant 4"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30. 14901 1C 88875180591",
+      "description": "Side C, variant 4"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30. C 14901 1D 88875180591",
+      "description": "Side D, variant 4"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30 B 14901 3A 88875180591",
+      "description": "Side A, variant 5"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30 B 14901 3B 88875180591",
+      "description": "Side B, variant 5"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30 14901 3C 88875180591 B",
+      "description": "Side C, variant 5"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30 B 14901 3D 88875180591",
+      "description": "Side D, variant 5"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30 B 14901 6A 88875180591",
+      "description": "Side A, variant 6"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30 B 14901 5B 88875180591",
+      "description": "Side B, variant 6"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30 B 14901 5C 88875180591",
+      "description": "Side C, variant 6"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MILES. ABBEY ROAD ½ SPEED. ROOM 30 B 14901 5D 88875180591",
+      "description": "Side D, variant 6"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=ihLF6bXhA0E",
+      "title": "Sade - The Best Of Sade",
+      "description": "1994\nFull albom in Telegram - https://t.me/bythewaveofmyyouth/139\n\n00:21 - You love is king\n04:03 - Hang on to your love\n08:34 - Smooth operator\n12:52 - Jezebel\n- The sweetest taboo - excluded\n19:03 - Is it a crime\n25:20 - Never as good as the first time\n",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=c_lgse6-JKo",
+      "title": "Your Love Is King",
+      "description": "Provided to YouTube by Epic\n\nYour Love Is King · Sade\n\nThe Best of Sade\n\n℗ 1984 Sony Music Entertainment UK Limited\n\nReleased on: 1994-10-31\n\nLyricist, Vocal, Composer: Sade Adu\nAssociated Performer: Sade\nComposer, Guitar, Saxophone: Stuart Matthewman\nDru",
+      "duration": 220,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=4h1_x0dtLXE",
+      "title": "Hang on to Your Love",
+      "description": "Provided to YouTube by Epic\n\nHang on to Your Love · Sade\n\nThe Best of Sade\n\n℗ 1984 Sony Music Entertainment UK Limited\n\nReleased on: 1994-10-31\n\nComposer, Vocal, Lyricist: Sade Adu\nAssociated Performer: Sade\nComposer, Guitar, Saxophone, Lyricist: Stuart M",
+      "duration": 271,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=mRNcPbCJNJ8",
+      "title": "Smooth Operator (Single Version)",
+      "description": "Provided to YouTube by Epic\n\nSmooth Operator (Single Version) · Sade\n\nThe Best of Sade\n\n℗ 1984 Sony Music Entertainment UK Limited\n\nReleased on: 1994-10-31\n\nLyricist, Vocal, Composer: Sade Adu\nAssociated Performer: Sade\nSaxophone, Guitar: Stuart Matthewma",
+      "duration": 259,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Y5ErvkbZ7GQ",
+      "title": "Sade - Jezebel (Audio)",
+      "description": "Sade – Jezebel (Audio)\nListen on Spotify -http://smarturl.it/Sade_TopTracks\nListen on Apple Music -http://smarturl.it/SadeEssentials\nAmazon - http://smarturl.it/SadeUCAmz\n\nFollow Sade \nWebsite - http://www.sade.com/\nFacebook - https://www.facebook.com/sad",
+      "duration": 331,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=7s9VY9kqgfE",
+      "title": "The Sweetest Taboo",
+      "description": "Provided to YouTube by Epic\n\nThe Sweetest Taboo · Sade\n\nThe Best of Sade\n\n℗ 1994 Sony Music Entertainment UK Limited\n\nReleased on: 1994-10-31\n\nComposer, Vocal, Lyricist: Sade Adu\nAssociated Performer: Sade\nSaxophone, Guitar: Stuart Matthewman\nDrums, Percu",
+      "duration": 277,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=FrD01XVOl80",
+      "title": "Is It a Crime (Remastered)",
+      "description": "Provided to YouTube by RCA Records Label\n\nIs It a Crime (Remastered) · Sade\n\nThe Ultimate Collection\n\n℗ 2011 Sony Music Entertainment UK Limited\n\nReleased on: 2011-05-09\n\nAssociated Performer: Sade\nDrums, Percussion: David Early\nPercussion: Martin Ditcham",
+      "duration": 381,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=8nskZIpOODs",
+      "title": "Never as Good as the First Time",
+      "description": "Provided to YouTube by Epic\n\nNever as Good as the First Time · Sade\n\nThe Best of Sade\n\n℗ 1985 Sony Music Entertainment UK Limited\n\nReleased on: 1994-10-31\n\nLyricist, Vocal, Composer, Producer: Sade Adu\nAssociated Performer: Sade\nVocal: Leroy Osbourne\nVoca",
+      "duration": 238,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=0ZARYxRmNWg",
+      "title": "Sade - Love Is Stronger Than Pride (Audio)",
+      "description": "Sade – Live Is Stronger Than Pride (Audio)\nListen on Spotify -http://smarturl.it/Sade_TopTracks\nListen on Apple Music -http://smarturl.it/SadeEssentials\nAmazon - http://smarturl.it/SadeUCAmz\n\nFollow Sade \nWebsite - http://www.sade.com/\nFacebook - https://",
+      "duration": 259,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=HywzuV7yYmg",
+      "title": "Paradise",
+      "description": "Provided to YouTube by Epic\n\nParadise · Sade\n\nThe Best of Sade\n\n℗ 1994 Sony Music Entertainment UK Limited\n\nReleased on: 1994-10-31\n\nLyricist, Vocal, Composer: Sade Adu\nProducer, Associated Performer: Sade\nSaxophone, Guitar, Composer, Lyricist: Stuart Mat",
+      "duration": 218,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=MDw6zODvxFI",
+      "title": "Nothing Can Come Between Us",
+      "description": "Provided to YouTube by Epic\n\nNothing Can Come Between Us · Sade\n\nThe Best of Sade\n\n℗ 1994 Sony Music Entertainment UK Limited\n\nReleased on: 1994-10-31\n\nLyricist, Vocal, Composer: Sade Adu\nAssociated Performer, Producer: Sade\nComposer, Guitar, Saxophone, L",
+      "duration": 235,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=k1k6EUW0czc",
+      "title": "No Ordinary Love",
+      "description": "Provided to YouTube by Epic\n\nNo Ordinary Love · Sade\n\nThe Best of Sade\n\n℗ 1994 Sony Music Entertainment UK Limited\n\nReleased on: 1994-10-31\n\nComposer, Vocal, Lyricist: Sade Adu\nProducer, Associated Performer, Arranger: Sade\nVocal: Leroy Osbourne\nSaxophone",
+      "duration": 441,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=BQUi7mD_PkM",
+      "title": "Sade - Like a Tattoo (Audio)",
+      "description": "Sade – Like A Tattoo (Audio)\nListen on Spotify -http://smarturl.it/Sade_TopTracks\nListen on Apple Music -http://smarturl.it/SadeEssentials\nAmazon - http://smarturl.it/SadeUCAmz\n\nFollow Sade \nWebsite - http://www.sade.com/\nFacebook - https://www.facebook.c",
+      "duration": 219,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=uEcKk2U_U7A",
+      "title": "Kiss of Life",
+      "description": "Provided to YouTube by Epic\n\nKiss of Life · Sade\n\nThe Best of Sade\n\n℗ 1994 Sony Music Entertainment UK Limited\n\nReleased on: 1994-10-31\n\nLyricist, Vocal, Composer: Sade Adu\nAssociated Performer, Producer: Sade\nVocal: Leroy Osbourne\nLyricist, Saxophone, Gu",
+      "duration": 252,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=yubShSla1tI",
+      "title": "Sade - Please Send Me Someone to Love (Audio)",
+      "description": "Sade – Please Send Me Somebody To Love (Audio)\nListen on Spotify -http://smarturl.it/Sade_TopTracks\nListen on Apple Music -http://smarturl.it/SadeEssentials\nAmazon - http://smarturl.it/SadeUCAmz\n\nFollow Sade \nWebsite - http://www.sade.com/\nFacebook - http",
+      "duration": 222,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Y7JuCab6yqs",
+      "title": "Cherish the Day",
+      "description": "Provided to YouTube by Epic\n\nCherish the Day · Sade\n\nThe Best of Sade\n\n℗ 1994 Sony Music Entertainment UK Limited\n\nReleased on: 1994-10-31\n\nProducer, Associated Performer: Sade\nVocal: Sade Adu\nVocal: Leroy Osbourne\nComposer, Guitar, Saxophone, Lyricist: S",
+      "duration": 379,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=XrKWRBt-opQ",
+      "title": "Pearls (Remastered)",
+      "description": "Provided to YouTube by RCA Records Label\n\nPearls (Remastered) · Sade\n\nThe Ultimate Collection\n\n℗ 2011 Sony Music Entertainment UK Limited\n\nReleased on: 2011-05-09\n\nAssociated Performer, Producer: Sade\nVocal: Leroy Osbourne\nCello: Tony Pleeth\nComposer, Lyr",
+      "duration": 273,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Jazz",
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Smooth Jazz",
+    "Soul"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Your Love Is King",
+      "extraartists": [
+        {
+          "name": "Paul Cooke",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 263065,
+          "resource_url": "https://api.discogs.com/artists/263065"
+        },
+        {
+          "name": "Dave Early",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Percussion",
+          "tracks": "",
+          "id": 263064,
+          "resource_url": "https://api.discogs.com/artists/263064"
+        },
+        {
+          "name": "Pete Brown (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 451577,
+          "resource_url": "https://api.discogs.com/artists/451577"
+        },
+        {
+          "name": "Simon Driscoll",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 568566,
+          "resource_url": "https://api.discogs.com/artists/568566"
+        },
+        {
+          "name": "Mike Pela",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Production Engineer]",
+          "tracks": "",
+          "id": 176429,
+          "resource_url": "https://api.discogs.com/artists/176429"
+        },
+        {
+          "name": "Martin Ditcham",
+          "anv": "",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 252445,
+          "resource_url": "https://api.discogs.com/artists/252445"
+        },
+        {
+          "name": "Robin Millar",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 83390,
+          "resource_url": "https://api.discogs.com/artists/83390"
+        },
+        {
+          "name": "Gordon Matthewman",
+          "anv": "",
+          "join": "",
+          "role": "Trumpet",
+          "tracks": "",
+          "id": 4637,
+          "resource_url": "https://api.discogs.com/artists/4637"
+        },
+        {
+          "name": "Terry Bailey",
+          "anv": "",
+          "join": "",
+          "role": "Trumpet",
+          "tracks": "",
+          "id": 263066,
+          "resource_url": "https://api.discogs.com/artists/263066"
+        },
+        {
+          "name": "Sade Adu",
+          "anv": "Adu",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 482893,
+          "resource_url": "https://api.discogs.com/artists/482893"
+        },
+        {
+          "name": "Stuart Matthewman",
+          "anv": "Matthewman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 9049,
+          "resource_url": "https://api.discogs.com/artists/9049"
+        }
+      ],
+      "duration": "3:41"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Hang On To Your Love",
+      "extraartists": [
+        {
+          "name": "Paul Cooke",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 263065,
+          "resource_url": "https://api.discogs.com/artists/263065"
+        },
+        {
+          "name": "Dave Early",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Percussion",
+          "tracks": "",
+          "id": 263064,
+          "resource_url": "https://api.discogs.com/artists/263064"
+        },
+        {
+          "name": "Pete Brown (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 451577,
+          "resource_url": "https://api.discogs.com/artists/451577"
+        },
+        {
+          "name": "Simon Driscoll",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 568566,
+          "resource_url": "https://api.discogs.com/artists/568566"
+        },
+        {
+          "name": "Mike Pela",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Production Engineer]",
+          "tracks": "",
+          "id": 176429,
+          "resource_url": "https://api.discogs.com/artists/176429"
+        },
+        {
+          "name": "Martin Ditcham",
+          "anv": "",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 252445,
+          "resource_url": "https://api.discogs.com/artists/252445"
+        },
+        {
+          "name": "Robin Millar",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 83390,
+          "resource_url": "https://api.discogs.com/artists/83390"
+        },
+        {
+          "name": "Gordon Matthewman",
+          "anv": "",
+          "join": "",
+          "role": "Trumpet",
+          "tracks": "",
+          "id": 4637,
+          "resource_url": "https://api.discogs.com/artists/4637"
+        },
+        {
+          "name": "Terry Bailey",
+          "anv": "",
+          "join": "",
+          "role": "Trumpet",
+          "tracks": "",
+          "id": 263066,
+          "resource_url": "https://api.discogs.com/artists/263066"
+        },
+        {
+          "name": "Sade Adu",
+          "anv": "Adu",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 482893,
+          "resource_url": "https://api.discogs.com/artists/482893"
+        },
+        {
+          "name": "Stuart Matthewman",
+          "anv": "Matthewman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 9049,
+          "resource_url": "https://api.discogs.com/artists/9049"
+        }
+      ],
+      "duration": "4:29"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Smooth Operator",
+      "extraartists": [
+        {
+          "name": "Paul Cooke",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 263065,
+          "resource_url": "https://api.discogs.com/artists/263065"
+        },
+        {
+          "name": "Dave Early",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Percussion",
+          "tracks": "",
+          "id": 263064,
+          "resource_url": "https://api.discogs.com/artists/263064"
+        },
+        {
+          "name": "Pete Brown (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 451577,
+          "resource_url": "https://api.discogs.com/artists/451577"
+        },
+        {
+          "name": "Simon Driscoll",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 568566,
+          "resource_url": "https://api.discogs.com/artists/568566"
+        },
+        {
+          "name": "Mike Pela",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Production Engineer]",
+          "tracks": "",
+          "id": 176429,
+          "resource_url": "https://api.discogs.com/artists/176429"
+        },
+        {
+          "name": "Martin Ditcham",
+          "anv": "",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 252445,
+          "resource_url": "https://api.discogs.com/artists/252445"
+        },
+        {
+          "name": "Robin Millar",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 83390,
+          "resource_url": "https://api.discogs.com/artists/83390"
+        },
+        {
+          "name": "Gordon Matthewman",
+          "anv": "",
+          "join": "",
+          "role": "Trumpet",
+          "tracks": "",
+          "id": 4637,
+          "resource_url": "https://api.discogs.com/artists/4637"
+        },
+        {
+          "name": "Terry Bailey",
+          "anv": "",
+          "join": "",
+          "role": "Trumpet",
+          "tracks": "",
+          "id": 263066,
+          "resource_url": "https://api.discogs.com/artists/263066"
+        },
+        {
+          "name": "Raymond St. John",
+          "anv": "St John",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 599000,
+          "resource_url": "https://api.discogs.com/artists/599000"
+        },
+        {
+          "name": "Sade Adu",
+          "anv": "Adu",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 482893,
+          "resource_url": "https://api.discogs.com/artists/482893"
+        }
+      ],
+      "duration": "4:16"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Jezebel",
+      "extraartists": [
+        {
+          "name": "Dave Early",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Percussion",
+          "tracks": "",
+          "id": 263064,
+          "resource_url": "https://api.discogs.com/artists/263064"
+        },
+        {
+          "name": "Pete Brown (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 451577,
+          "resource_url": "https://api.discogs.com/artists/451577"
+        },
+        {
+          "name": "Phil Legg",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 34292,
+          "resource_url": "https://api.discogs.com/artists/34292"
+        },
+        {
+          "name": "Simon Driscoll",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 568566,
+          "resource_url": "https://api.discogs.com/artists/568566"
+        },
+        {
+          "name": "Mike Pela",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Production Engineer]",
+          "tracks": "",
+          "id": 176429,
+          "resource_url": "https://api.discogs.com/artists/176429"
+        },
+        {
+          "name": "Martin Ditcham",
+          "anv": "",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 252445,
+          "resource_url": "https://api.discogs.com/artists/252445"
+        },
+        {
+          "name": "Robin Millar",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 83390,
+          "resource_url": "https://api.discogs.com/artists/83390"
+        },
+        {
+          "name": "Pete Beachill",
+          "anv": "",
+          "join": "",
+          "role": "Trombone",
+          "tracks": "",
+          "id": 361824,
+          "resource_url": "https://api.discogs.com/artists/361824"
+        },
+        {
+          "name": "Terry Bailey",
+          "anv": "",
+          "join": "",
+          "role": "Trumpet",
+          "tracks": "",
+          "id": 263066,
+          "resource_url": "https://api.discogs.com/artists/263066"
+        },
+        {
+          "name": "Sade Adu",
+          "anv": "Adu",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 482893,
+          "resource_url": "https://api.discogs.com/artists/482893"
+        },
+        {
+          "name": "Stuart Matthewman",
+          "anv": "Matthewman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 9049,
+          "resource_url": "https://api.discogs.com/artists/9049"
+        }
+      ],
+      "duration": "5:23"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "The Sweetest Taboo",
+      "extraartists": [
+        {
+          "name": "Dave Early",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Percussion",
+          "tracks": "",
+          "id": 263064,
+          "resource_url": "https://api.discogs.com/artists/263064"
+        },
+        {
+          "name": "Pete Brown (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 451577,
+          "resource_url": "https://api.discogs.com/artists/451577"
+        },
+        {
+          "name": "Phil Legg",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 34292,
+          "resource_url": "https://api.discogs.com/artists/34292"
+        },
+        {
+          "name": "Simon Driscoll",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 568566,
+          "resource_url": "https://api.discogs.com/artists/568566"
+        },
+        {
+          "name": "Mike Pela",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Production Engineer]",
+          "tracks": "",
+          "id": 176429,
+          "resource_url": "https://api.discogs.com/artists/176429"
+        },
+        {
+          "name": "Martin Ditcham",
+          "anv": "",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 252445,
+          "resource_url": "https://api.discogs.com/artists/252445"
+        },
+        {
+          "name": "Robin Millar",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 83390,
+          "resource_url": "https://api.discogs.com/artists/83390"
+        },
+        {
+          "name": "Pete Beachill",
+          "anv": "",
+          "join": "",
+          "role": "Trombone",
+          "tracks": "",
+          "id": 361824,
+          "resource_url": "https://api.discogs.com/artists/361824"
+        },
+        {
+          "name": "Terry Bailey",
+          "anv": "",
+          "join": "",
+          "role": "Trumpet",
+          "tracks": "",
+          "id": 263066,
+          "resource_url": "https://api.discogs.com/artists/263066"
+        },
+        {
+          "name": "Martin Ditcham",
+          "anv": "Ditcham",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 252445,
+          "resource_url": "https://api.discogs.com/artists/252445"
+        },
+        {
+          "name": "Sade Adu",
+          "anv": "Adu",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 482893,
+          "resource_url": "https://api.discogs.com/artists/482893"
+        }
+      ],
+      "duration": "4:25"
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Is It A Crime",
+      "extraartists": [
+        {
+          "name": "Dave Early",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Percussion",
+          "tracks": "",
+          "id": 263064,
+          "resource_url": "https://api.discogs.com/artists/263064"
+        },
+        {
+          "name": "Pete Brown (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 451577,
+          "resource_url": "https://api.discogs.com/artists/451577"
+        },
+        {
+          "name": "Phil Legg",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 34292,
+          "resource_url": "https://api.discogs.com/artists/34292"
+        },
+        {
+          "name": "Simon Driscoll",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 568566,
+          "resource_url": "https://api.discogs.com/artists/568566"
+        },
+        {
+          "name": "Mike Pela",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Production Engineer]",
+          "tracks": "",
+          "id": 176429,
+          "resource_url": "https://api.discogs.com/artists/176429"
+        },
+        {
+          "name": "Martin Ditcham",
+          "anv": "",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 252445,
+          "resource_url": "https://api.discogs.com/artists/252445"
+        },
+        {
+          "name": "Robin Millar",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 83390,
+          "resource_url": "https://api.discogs.com/artists/83390"
+        },
+        {
+          "name": "Pete Beachill",
+          "anv": "",
+          "join": "",
+          "role": "Trombone",
+          "tracks": "",
+          "id": 361824,
+          "resource_url": "https://api.discogs.com/artists/361824"
+        },
+        {
+          "name": "Terry Bailey",
+          "anv": "",
+          "join": "",
+          "role": "Trumpet",
+          "tracks": "",
+          "id": 263066,
+          "resource_url": "https://api.discogs.com/artists/263066"
+        },
+        {
+          "name": "Andrew Hale",
+          "anv": "Hale",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 209279,
+          "resource_url": "https://api.discogs.com/artists/209279"
+        },
+        {
+          "name": "Sade Adu",
+          "anv": "Adu",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 482893,
+          "resource_url": "https://api.discogs.com/artists/482893"
+        },
+        {
+          "name": "Stuart Matthewman",
+          "anv": "Matthewman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 9049,
+          "resource_url": "https://api.discogs.com/artists/9049"
+        }
+      ],
+      "duration": "6:16"
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "title": "Never As Good As The First Time",
+      "extraartists": [
+        {
+          "name": "Dave Early",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Percussion",
+          "tracks": "",
+          "id": 263064,
+          "resource_url": "https://api.discogs.com/artists/263064"
+        },
+        {
+          "name": "Pete Brown (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 451577,
+          "resource_url": "https://api.discogs.com/artists/451577"
+        },
+        {
+          "name": "Phil Legg",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 34292,
+          "resource_url": "https://api.discogs.com/artists/34292"
+        },
+        {
+          "name": "Simon Driscoll",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 568566,
+          "resource_url": "https://api.discogs.com/artists/568566"
+        },
+        {
+          "name": "Mike Pela",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Production Engineer]",
+          "tracks": "",
+          "id": 176429,
+          "resource_url": "https://api.discogs.com/artists/176429"
+        },
+        {
+          "name": "Martin Ditcham",
+          "anv": "",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 252445,
+          "resource_url": "https://api.discogs.com/artists/252445"
+        },
+        {
+          "name": "Ben Rogan",
+          "anv": "Rogan",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 217689,
+          "resource_url": "https://api.discogs.com/artists/217689"
+        },
+        {
+          "name": "Mike Pela",
+          "anv": "Pela",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 176429,
+          "resource_url": "https://api.discogs.com/artists/176429"
+        },
+        {
+          "name": "Robin Millar",
+          "anv": "Millar",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 83390,
+          "resource_url": "https://api.discogs.com/artists/83390"
+        },
+        {
+          "name": "Sade",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 19731,
+          "resource_url": "https://api.discogs.com/artists/19731"
+        },
+        {
+          "name": "Pete Beachill",
+          "anv": "",
+          "join": "",
+          "role": "Trombone",
+          "tracks": "",
+          "id": 361824,
+          "resource_url": "https://api.discogs.com/artists/361824"
+        },
+        {
+          "name": "Terry Bailey",
+          "anv": "",
+          "join": "",
+          "role": "Trumpet",
+          "tracks": "",
+          "id": 263066,
+          "resource_url": "https://api.discogs.com/artists/263066"
+        },
+        {
+          "name": "Jake Jacas",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 237553,
+          "resource_url": "https://api.discogs.com/artists/237553"
+        },
+        {
+          "name": "Leroy Osbourne",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 212236,
+          "resource_url": "https://api.discogs.com/artists/212236"
+        },
+        {
+          "name": "Sade Adu",
+          "anv": "Adu",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 482893,
+          "resource_url": "https://api.discogs.com/artists/482893"
+        },
+        {
+          "name": "Stuart Matthewman",
+          "anv": "Matthewman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 9049,
+          "resource_url": "https://api.discogs.com/artists/9049"
+        }
+      ],
+      "duration": "3:58"
+    },
+    {
+      "position": "B8",
+      "type_": "track",
+      "title": "Love Is Stronger Than Pride",
+      "extraartists": [
+        {
+          "name": "Martin Ditcham",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Percussion",
+          "tracks": "",
+          "id": 252445,
+          "resource_url": "https://api.discogs.com/artists/252445"
+        },
+        {
+          "name": "Alain Lubrano",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 569962,
+          "resource_url": "https://api.discogs.com/artists/569962"
+        },
+        {
+          "name": "Franck Segarra",
+          "anv": "Frank Segarra",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 428654,
+          "resource_url": "https://api.discogs.com/artists/428654"
+        },
+        {
+          "name": "Jean-Christophe Vareille",
+          "anv": "Jean Christophe Vareille",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 569949,
+          "resource_url": "https://api.discogs.com/artists/569949"
+        },
+        {
+          "name": "Melanie West",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 379785,
+          "resource_url": "https://api.discogs.com/artists/379785"
+        },
+        {
+          "name": "Olivier de Bosson",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 427366,
+          "resource_url": "https://api.discogs.com/artists/427366"
+        },
+        {
+          "name": "Vince McCartney",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 426577,
+          "resource_url": "https://api.discogs.com/artists/426577"
+        },
+        {
+          "name": "Ben Rogan",
+          "anv": "",
+          "join": "",
+          "role": "Engineer, Co-producer",
+          "tracks": "",
+          "id": 217689,
+          "resource_url": "https://api.discogs.com/artists/217689"
+        },
+        {
+          "name": "Mike Pela",
+          "anv": "",
+          "join": "",
+          "role": "Engineer, Co-producer",
+          "tracks": "",
+          "id": 176429,
+          "resource_url": "https://api.discogs.com/artists/176429"
+        },
+        {
+          "name": "Sade",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Arranged By [Arranger]",
+          "tracks": "",
+          "id": 19731,
+          "resource_url": "https://api.discogs.com/artists/19731"
+        },
+        {
+          "name": "Leroy Osbourne",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 212236,
+          "resource_url": "https://api.discogs.com/artists/212236"
+        },
+        {
+          "name": "Andrew Hale",
+          "anv": "Hale",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 209279,
+          "resource_url": "https://api.discogs.com/artists/209279"
+        },
+        {
+          "name": "Sade Adu",
+          "anv": "Adu",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 482893,
+          "resource_url": "https://api.discogs.com/artists/482893"
+        },
+        {
+          "name": "Stuart Matthewman",
+          "anv": "Matthewman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 9049,
+          "resource_url": "https://api.discogs.com/artists/9049"
+        }
+      ],
+      "duration": "4:17"
+    },
+    {
+      "position": "C9",
+      "type_": "track",
+      "title": "Paradise",
+      "extraartists": [
+        {
+          "name": "Martin Ditcham",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Percussion",
+          "tracks": "",
+          "id": 252445,
+          "resource_url": "https://api.discogs.com/artists/252445"
+        },
+        {
+          "name": "Alain Lubrano",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 569962,
+          "resource_url": "https://api.discogs.com/artists/569962"
+        },
+        {
+          "name": "Franck Segarra",
+          "anv": "Frank Segarra",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 428654,
+          "resource_url": "https://api.discogs.com/artists/428654"
+        },
+        {
+          "name": "Jean-Christophe Vareille",
+          "anv": "Jean Christophe Vareille",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 569949,
+          "resource_url": "https://api.discogs.com/artists/569949"
+        },
+        {
+          "name": "Melanie West",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 379785,
+          "resource_url": "https://api.discogs.com/artists/379785"
+        },
+        {
+          "name": "Olivier de Bosson",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 427366,
+          "resource_url": "https://api.discogs.com/artists/427366"
+        },
+        {
+          "name": "Vince McCartney",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 426577,
+          "resource_url": "https://api.discogs.com/artists/426577"
+        },
+        {
+          "name": "Ben Rogan",
+          "anv": "",
+          "join": "",
+          "role": "Engineer, Co-producer",
+          "tracks": "",
+          "id": 217689,
+          "resource_url": "https://api.discogs.com/artists/217689"
+        },
+        {
+          "name": "Mike Pela",
+          "anv": "",
+          "join": "",
+          "role": "Engineer, Co-producer",
+          "tracks": "",
+          "id": 176429,
+          "resource_url": "https://api.discogs.com/artists/176429"
+        },
+        {
+          "name": "Gordon Hunte",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 396315,
+          "resource_url": "https://api.discogs.com/artists/396315"
+        },
+        {
+          "name": "Sade",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Arranged By [Arranger]",
+          "tracks": "",
+          "id": 19731,
+          "resource_url": "https://api.discogs.com/artists/19731"
+        },
+        {
+          "name": "Leroy Osbourne",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 212236,
+          "resource_url": "https://api.discogs.com/artists/212236"
+        },
+        {
+          "name": "Andrew Hale",
+          "anv": "Hale",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 209279,
+          "resource_url": "https://api.discogs.com/artists/209279"
+        },
+        {
+          "name": "Paul S. Denman",
+          "anv": "Denman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 306864,
+          "resource_url": "https://api.discogs.com/artists/306864"
+        },
+        {
+          "name": "Sade Adu",
+          "anv": "Adu",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 482893,
+          "resource_url": "https://api.discogs.com/artists/482893"
+        },
+        {
+          "name": "Stuart Matthewman",
+          "anv": "Matthewman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 9049,
+          "resource_url": "https://api.discogs.com/artists/9049"
+        }
+      ],
+      "duration": "3:36"
+    },
+    {
+      "position": "C10",
+      "type_": "track",
+      "title": "Nothing Can Come Between Us",
+      "extraartists": [
+        {
+          "name": "Martin Ditcham",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Percussion",
+          "tracks": "",
+          "id": 252445,
+          "resource_url": "https://api.discogs.com/artists/252445"
+        },
+        {
+          "name": "Alain Lubrano",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 569962,
+          "resource_url": "https://api.discogs.com/artists/569962"
+        },
+        {
+          "name": "Franck Segarra",
+          "anv": "Frank Segarra",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 428654,
+          "resource_url": "https://api.discogs.com/artists/428654"
+        },
+        {
+          "name": "Jean-Christophe Vareille",
+          "anv": "Jean Christophe Vareille",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 569949,
+          "resource_url": "https://api.discogs.com/artists/569949"
+        },
+        {
+          "name": "Melanie West",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 379785,
+          "resource_url": "https://api.discogs.com/artists/379785"
+        },
+        {
+          "name": "Olivier de Bosson",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 427366,
+          "resource_url": "https://api.discogs.com/artists/427366"
+        },
+        {
+          "name": "Vince McCartney",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 426577,
+          "resource_url": "https://api.discogs.com/artists/426577"
+        },
+        {
+          "name": "Ben Rogan",
+          "anv": "",
+          "join": "",
+          "role": "Engineer, Co-producer",
+          "tracks": "",
+          "id": 217689,
+          "resource_url": "https://api.discogs.com/artists/217689"
+        },
+        {
+          "name": "Mike Pela",
+          "anv": "",
+          "join": "",
+          "role": "Engineer, Co-producer",
+          "tracks": "",
+          "id": 176429,
+          "resource_url": "https://api.discogs.com/artists/176429"
+        },
+        {
+          "name": "Sade",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Arranged By [Arranger]",
+          "tracks": "",
+          "id": 19731,
+          "resource_url": "https://api.discogs.com/artists/19731"
+        },
+        {
+          "name": "Leroy Osbourne",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 212236,
+          "resource_url": "https://api.discogs.com/artists/212236"
+        },
+        {
+          "name": "Andrew Hale",
+          "anv": "Hale",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 209279,
+          "resource_url": "https://api.discogs.com/artists/209279"
+        },
+        {
+          "name": "Sade Adu",
+          "anv": "Adu",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 482893,
+          "resource_url": "https://api.discogs.com/artists/482893"
+        },
+        {
+          "name": "Stuart Matthewman",
+          "anv": "Matthewman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 9049,
+          "resource_url": "https://api.discogs.com/artists/9049"
+        }
+      ],
+      "duration": "3:52"
+    },
+    {
+      "position": "C11",
+      "type_": "track",
+      "title": "No Ordinary Love",
+      "extraartists": [
+        {
+          "name": "Mike Pela",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer, Engineer",
+          "tracks": "",
+          "id": 176429,
+          "resource_url": "https://api.discogs.com/artists/176429"
+        },
+        {
+          "name": "Adrian Moore (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1117226,
+          "resource_url": "https://api.discogs.com/artists/1117226"
+        },
+        {
+          "name": "Marc Williams (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 410567,
+          "resource_url": "https://api.discogs.com/artists/410567"
+        },
+        {
+          "name": "Sandro Franchin",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 417632,
+          "resource_url": "https://api.discogs.com/artists/417632"
+        },
+        {
+          "name": "Gavyn Wright",
+          "anv": "Gavin Wright",
+          "join": "",
+          "role": "Leader [Orchestra Leader]",
+          "tracks": "",
+          "id": 274523,
+          "resource_url": "https://api.discogs.com/artists/274523"
+        },
+        {
+          "name": "Martin Ditcham",
+          "anv": "",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 252445,
+          "resource_url": "https://api.discogs.com/artists/252445"
+        },
+        {
+          "name": "Sade",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Arranged By [Arranger]",
+          "tracks": "",
+          "id": 19731,
+          "resource_url": "https://api.discogs.com/artists/19731"
+        },
+        {
+          "name": "Leroy Osbourne",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 212236,
+          "resource_url": "https://api.discogs.com/artists/212236"
+        },
+        {
+          "name": "Sade Adu",
+          "anv": "Adu",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 482893,
+          "resource_url": "https://api.discogs.com/artists/482893"
+        },
+        {
+          "name": "Stuart Matthewman",
+          "anv": "Matthewman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 9049,
+          "resource_url": "https://api.discogs.com/artists/9049"
+        }
+      ],
+      "duration": "7:19"
+    },
+    {
+      "position": "C12",
+      "type_": "track",
+      "title": "Like A Tattoo",
+      "extraartists": [
+        {
+          "name": "Mike Pela",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer, Engineer",
+          "tracks": "",
+          "id": 176429,
+          "resource_url": "https://api.discogs.com/artists/176429"
+        },
+        {
+          "name": "Adrian Moore (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1117226,
+          "resource_url": "https://api.discogs.com/artists/1117226"
+        },
+        {
+          "name": "Marc Williams (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 410567,
+          "resource_url": "https://api.discogs.com/artists/410567"
+        },
+        {
+          "name": "Sandro Franchin",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 417632,
+          "resource_url": "https://api.discogs.com/artists/417632"
+        },
+        {
+          "name": "Gavyn Wright",
+          "anv": "Gavin Wright",
+          "join": "",
+          "role": "Leader [Orchestra Leader]",
+          "tracks": "",
+          "id": 274523,
+          "resource_url": "https://api.discogs.com/artists/274523"
+        },
+        {
+          "name": "Sade",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Arranged By [Arranger]",
+          "tracks": "",
+          "id": 19731,
+          "resource_url": "https://api.discogs.com/artists/19731"
+        },
+        {
+          "name": "Leroy Osbourne",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 212236,
+          "resource_url": "https://api.discogs.com/artists/212236"
+        },
+        {
+          "name": "Andrew Hale",
+          "anv": "Hale",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 209279,
+          "resource_url": "https://api.discogs.com/artists/209279"
+        },
+        {
+          "name": "Sade Adu",
+          "anv": "Adu",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 482893,
+          "resource_url": "https://api.discogs.com/artists/482893"
+        },
+        {
+          "name": "Stuart Matthewman",
+          "anv": "Matthewman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 9049,
+          "resource_url": "https://api.discogs.com/artists/9049"
+        }
+      ],
+      "duration": "3:36"
+    },
+    {
+      "position": "D13",
+      "type_": "track",
+      "title": "Kiss Of Life",
+      "extraartists": [
+        {
+          "name": "Nick Ingman",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [String Arrangements]",
+          "tracks": "",
+          "id": 289278,
+          "resource_url": "https://api.discogs.com/artists/289278"
+        },
+        {
+          "name": "Mike Pela",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer, Engineer",
+          "tracks": "",
+          "id": 176429,
+          "resource_url": "https://api.discogs.com/artists/176429"
+        },
+        {
+          "name": "Martin Ditcham",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Percussion",
+          "tracks": "",
+          "id": 252445,
+          "resource_url": "https://api.discogs.com/artists/252445"
+        },
+        {
+          "name": "Adrian Moore (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1117226,
+          "resource_url": "https://api.discogs.com/artists/1117226"
+        },
+        {
+          "name": "Marc Williams (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 410567,
+          "resource_url": "https://api.discogs.com/artists/410567"
+        },
+        {
+          "name": "Sandro Franchin",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 417632,
+          "resource_url": "https://api.discogs.com/artists/417632"
+        },
+        {
+          "name": "Gavyn Wright",
+          "anv": "Gavin Wright",
+          "join": "",
+          "role": "Leader [Orchestra Leader]",
+          "tracks": "",
+          "id": 274523,
+          "resource_url": "https://api.discogs.com/artists/274523"
+        },
+        {
+          "name": "Sade",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Arranged By [Arranger]",
+          "tracks": "",
+          "id": 19731,
+          "resource_url": "https://api.discogs.com/artists/19731"
+        },
+        {
+          "name": "Leroy Osbourne",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 212236,
+          "resource_url": "https://api.discogs.com/artists/212236"
+        },
+        {
+          "name": "Andrew Hale",
+          "anv": "Hale",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 209279,
+          "resource_url": "https://api.discogs.com/artists/209279"
+        },
+        {
+          "name": "Paul S. Denman",
+          "anv": "Denman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 306864,
+          "resource_url": "https://api.discogs.com/artists/306864"
+        },
+        {
+          "name": "Sade Adu",
+          "anv": "Adu",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 482893,
+          "resource_url": "https://api.discogs.com/artists/482893"
+        },
+        {
+          "name": "Stuart Matthewman",
+          "anv": "Matthewman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 9049,
+          "resource_url": "https://api.discogs.com/artists/9049"
+        }
+      ],
+      "duration": "4:10"
+    },
+    {
+      "position": "D14",
+      "type_": "track",
+      "title": "Please Send Me Someone To Love",
+      "extraartists": [
+        {
+          "name": "Trevor Murrell",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 313504,
+          "resource_url": "https://api.discogs.com/artists/313504"
+        },
+        {
+          "name": "Gordon Hunte",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 396315,
+          "resource_url": "https://api.discogs.com/artists/396315"
+        },
+        {
+          "name": "Karl Van Den Bossche",
+          "anv": "Karl Vanden Bossche",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 400488,
+          "resource_url": "https://api.discogs.com/artists/400488"
+        },
+        {
+          "name": "Sade",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 19731,
+          "resource_url": "https://api.discogs.com/artists/19731"
+        },
+        {
+          "name": "Hein Hoven",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Mixed By [Mixer]",
+          "tracks": "",
+          "id": 63133,
+          "resource_url": "https://api.discogs.com/artists/63133"
+        },
+        {
+          "name": "Percy Mayfield",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 600555,
+          "resource_url": "https://api.discogs.com/artists/600555"
+        }
+      ],
+      "duration": "3:40"
+    },
+    {
+      "position": "D15",
+      "type_": "track",
+      "title": "Cherish The Day",
+      "extraartists": [
+        {
+          "name": "Mike Pela",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer, Engineer",
+          "tracks": "",
+          "id": 176429,
+          "resource_url": "https://api.discogs.com/artists/176429"
+        },
+        {
+          "name": "Adrian Moore (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1117226,
+          "resource_url": "https://api.discogs.com/artists/1117226"
+        },
+        {
+          "name": "Marc Williams (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 410567,
+          "resource_url": "https://api.discogs.com/artists/410567"
+        },
+        {
+          "name": "Sandro Franchin",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 417632,
+          "resource_url": "https://api.discogs.com/artists/417632"
+        },
+        {
+          "name": "Gavyn Wright",
+          "anv": "Gavin Wright",
+          "join": "",
+          "role": "Leader [Orchestra Leader]",
+          "tracks": "",
+          "id": 274523,
+          "resource_url": "https://api.discogs.com/artists/274523"
+        },
+        {
+          "name": "Sade",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Arranged By [Arranger]",
+          "tracks": "",
+          "id": 19731,
+          "resource_url": "https://api.discogs.com/artists/19731"
+        },
+        {
+          "name": "Leroy Osbourne",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 212236,
+          "resource_url": "https://api.discogs.com/artists/212236"
+        },
+        {
+          "name": "Andrew Hale",
+          "anv": "Hale",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 209279,
+          "resource_url": "https://api.discogs.com/artists/209279"
+        },
+        {
+          "name": "Sade Adu",
+          "anv": "Adu",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 482893,
+          "resource_url": "https://api.discogs.com/artists/482893"
+        },
+        {
+          "name": "Stuart Matthewman",
+          "anv": "Matthewman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 9049,
+          "resource_url": "https://api.discogs.com/artists/9049"
+        }
+      ],
+      "duration": "6:17"
+    },
+    {
+      "position": "D16",
+      "type_": "track",
+      "title": "Pearls",
+      "extraartists": [
+        {
+          "name": "Nick Ingman",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [String Arrangements]",
+          "tracks": "",
+          "id": 289278,
+          "resource_url": "https://api.discogs.com/artists/289278"
+        },
+        {
+          "name": "Anthony Pleeth",
+          "anv": "Tony Pleeth",
+          "join": "",
+          "role": "Cello, Soloist",
+          "tracks": "",
+          "id": 338103,
+          "resource_url": "https://api.discogs.com/artists/338103"
+        },
+        {
+          "name": "Mike Pela",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer, Engineer",
+          "tracks": "",
+          "id": 176429,
+          "resource_url": "https://api.discogs.com/artists/176429"
+        },
+        {
+          "name": "Adrian Moore (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1117226,
+          "resource_url": "https://api.discogs.com/artists/1117226"
+        },
+        {
+          "name": "Marc Williams (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 410567,
+          "resource_url": "https://api.discogs.com/artists/410567"
+        },
+        {
+          "name": "Sandro Franchin",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 417632,
+          "resource_url": "https://api.discogs.com/artists/417632"
+        },
+        {
+          "name": "Gavyn Wright",
+          "anv": "Gavin Wright",
+          "join": "",
+          "role": "Leader [Orchestra Leader]",
+          "tracks": "",
+          "id": 274523,
+          "resource_url": "https://api.discogs.com/artists/274523"
+        },
+        {
+          "name": "Sade",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Arranged By [Arranger]",
+          "tracks": "",
+          "id": 19731,
+          "resource_url": "https://api.discogs.com/artists/19731"
+        },
+        {
+          "name": "Leroy Osbourne",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 212236,
+          "resource_url": "https://api.discogs.com/artists/212236"
+        },
+        {
+          "name": "Andrew Hale",
+          "anv": "Hale",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 209279,
+          "resource_url": "https://api.discogs.com/artists/209279"
+        },
+        {
+          "name": "Sade Adu",
+          "anv": "Adu",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 482893,
+          "resource_url": "https://api.discogs.com/artists/482893"
+        }
+      ],
+      "duration": "4:35"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Peter Brawne",
+      "anv": "",
+      "join": "",
+      "role": "Design",
+      "tracks": "",
+      "id": 1970609,
+      "resource_url": "https://api.discogs.com/artists/1970609"
+    },
+    {
+      "name": "Miles Showell",
+      "anv": "Miles",
+      "join": "",
+      "role": "Lacquer Cut By [Runout Etch]",
+      "tracks": "",
+      "id": 383408,
+      "resource_url": "https://api.discogs.com/artists/383408"
+    },
+    {
+      "name": "Roger Davies",
+      "anv": "",
+      "join": "",
+      "role": "Management [Manager]",
+      "tracks": "",
+      "id": 313361,
+      "resource_url": "https://api.discogs.com/artists/313361"
+    },
+    {
+      "name": "Ian Cooper",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 264258,
+      "resource_url": "https://api.discogs.com/artists/264258"
+    },
+    {
+      "name": "Paul S. Denman",
+      "anv": "Paul S Denman",
+      "join": "",
+      "role": "Performer [Sade Are], Bass",
+      "tracks": "",
+      "id": 306864,
+      "resource_url": "https://api.discogs.com/artists/306864"
+    },
+    {
+      "name": "Stuart Matthewman",
+      "anv": "",
+      "join": "",
+      "role": "Performer [Sade Are], Guitar [Guitars], Saxophone [Sax]",
+      "tracks": "",
+      "id": 9049,
+      "resource_url": "https://api.discogs.com/artists/9049"
+    },
+    {
+      "name": "Andrew Hale",
+      "anv": "",
+      "join": "",
+      "role": "Performer [Sade Are], Keyboards",
+      "tracks": "",
+      "id": 209279,
+      "resource_url": "https://api.discogs.com/artists/209279"
+    },
+    {
+      "name": "Sade Adu",
+      "anv": "",
+      "join": "",
+      "role": "Performer [Sade Are], Vocals",
+      "tracks": "",
+      "id": 482893,
+      "resource_url": "https://api.discogs.com/artists/482893"
+    },
+    {
+      "name": "Jo Strettel",
+      "anv": "",
+      "join": "",
+      "role": "Photography By [Andrew/Stuart/Paul]",
+      "tracks": "",
+      "id": 2806306,
+      "resource_url": "https://api.discogs.com/artists/2806306"
+    },
+    {
+      "name": "Albert Watson",
+      "anv": "",
+      "join": "",
+      "role": "Photography By [Sade Adu]",
+      "tracks": "",
+      "id": 1649900,
+      "resource_url": "https://api.discogs.com/artists/1649900"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/CM6XtdXfvkuJUAyDg9bp-_OHu5YInuV1RPccV-GOBoM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2Njg5NDAw/NDYtMzA4Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/CM6XtdXfvkuJUAyDg9bp-_OHu5YInuV1RPccV-GOBoM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2Njg5NDAw/NDYtMzA4Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/d0A0u-TezVsWe9ajzHYrODf40FxtIBka88D9yfLe4mo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2Njg5NDAw/NDYtMzA4Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/eVe2xcC_V2l8bfema7hLm2X0RIWqiT6OHI89VblVFwY/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2NDQ4MzEx/NjUtNzY3NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/eVe2xcC_V2l8bfema7hLm2X0RIWqiT6OHI89VblVFwY/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2NDQ4MzEx/NjUtNzY3NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/xL48-hDGbT7jBo0ARt0d57dAd1rF67oeBSRPWELce6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2NDQ4MzEx/NjUtNzY3NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 287
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/3nixfbslIZ6RrU-ytBeTeFTwsnoDJbEcntTPrhNOq-E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2Njg5NDAw/NDUtNTU1MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/3nixfbslIZ6RrU-ytBeTeFTwsnoDJbEcntTPrhNOq-E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2Njg5NDAw/NDUtNTU1MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/FfGPVf-F8Rp9zgnhYj2lYv8bzDUIcW28oQozweHnmGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2Njg5NDAw/NDUtNTU1MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/M6NjZDZHmfVzRGeYQh9tujBBsAM_jlxKdEvHPKsDgYQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTktNzE1OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/M6NjZDZHmfVzRGeYQh9tujBBsAM_jlxKdEvHPKsDgYQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTktNzE1OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/vD1hNW9nh5vv_1oqcCH-06n46VIPeaOBgZ7tjLo153A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTktNzE1OS5qcGVn.jpeg",
+      "width": 597,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/__3ldH7S00dgj3DJ4Cpzzt4MCf2pVEepvcbLrATD4Lk/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTgtNjY3Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/__3ldH7S00dgj3DJ4Cpzzt4MCf2pVEepvcbLrATD4Lk/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTgtNjY3Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/p4uthKr1nrO5H0WMcFRKYd9Qt2AUURl-ES7nNHqwcuc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTgtNjY3Ni5qcGVn.jpeg",
+      "width": 597,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/8BFiIBpz7l2glC6LgszU4IyLi91b0P9-KvJN9lOTp0w/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTktNTI4My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/8BFiIBpz7l2glC6LgszU4IyLi91b0P9-KvJN9lOTp0w/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTktNTI4My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/qYeBKeP0B9ufWfLtLl2v0mbMb0QjGKTeJ5yNumXo7rw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTktNTI4My5qcGVn.jpeg",
+      "width": 598,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/jg6PXNwLQ8xKAjyp8639t4Kwp8i7SDAmX0YKOJNYuHo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTktODIyNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/jg6PXNwLQ8xKAjyp8639t4Kwp8i7SDAmX0YKOJNYuHo/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTktODIyNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/B8lpGhf9FpEKvz_yAEZOLUcO1A_VVKqqqI_QCwkeBQQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTktODIyNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/uu_MTHxckj7FqylOfSR4Mbzq-BfgjeV3xfnc4kRIDYQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTctMjc1Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/uu_MTHxckj7FqylOfSR4Mbzq-BfgjeV3xfnc4kRIDYQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTctMjc1Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/EPZ7_zAvOtr_TUCFhalhlrTWxlVHXFNub-54LlPqVAA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTctMjc1Ny5qcGVn.jpeg",
+      "width": 596,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/YLBsXcWYrnU2j7j0kRuFGKseRxpEZh67agwSi1RS0L4/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTktODQzOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/YLBsXcWYrnU2j7j0kRuFGKseRxpEZh67agwSi1RS0L4/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTktODQzOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/KqFlZbXDxc7R5DBJQiMAcGt9kLUz6HoW02-KntK2ENg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTktODQzOS5qcGVn.jpeg",
+      "width": 600,
+      "height": 589
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/9R1xynFASHjuZDWWOKlEu6F_QMIWLBH9DxFJ4RaTRfw/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTktMTE3MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/9R1xynFASHjuZDWWOKlEu6F_QMIWLBH9DxFJ4RaTRfw/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTktMTE3MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/KH2SutDCAgGPsmD5I4wAMK8lGHPSHV7Kkz2Kh57XfbI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTktMTE3MS5qcGVn.jpeg",
+      "width": 591,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/iDDBqr2p_lzvnw0vRPB2yjIU6q4xE4OAA0GDdtb0-DQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTctOTA4MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/iDDBqr2p_lzvnw0vRPB2yjIU6q4xE4OAA0GDdtb0-DQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTctOTA4MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/-3raGcuhB_RYpdvpBZW60KpOWF8NouRggkYdQyNbdqM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTctOTA4MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 597
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Fe3mIMOdmCW8ONdbkL986Y22ou0KaMmH2_3OG9ouBs0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTgtNTk2MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Fe3mIMOdmCW8ONdbkL986Y22ou0KaMmH2_3OG9ouBs0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTgtNTk2MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Ly_jj7cMXWxsgQRQnPATByBimLgKyGJsZii6x-VG1LU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTgtNTk2MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/3FTMU8-M-5rXm2Koh0zVwz8IyFWU7HlvNldJn82Potg/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2OTA1MTQz/OTgtNjU0My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/3FTMU8-M-5rXm2Koh0zVwz8IyFWU7HlvNldJn82Potg/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2OTA1MTQz/OTgtNjU0My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/8k161HHBzBH1_ifAiE1UA_weMzFzSdyB8pNnVE9xxiU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2OTA1MTQz/OTgtNjU0My5qcGVn.jpeg",
+      "width": 600,
+      "height": 400
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/GvfHNOV3cVWA7000RLQxHCnF_sczXPlQgYitObUVF-o/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTgtMjI4My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/GvfHNOV3cVWA7000RLQxHCnF_sczXPlQgYitObUVF-o/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTgtMjI4My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/asGoJ78NLEH9NnkF95lrAcZn-klhKZiGzu-yZKemtaE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2MTAxNDQ1/NTgtMjI4My5qcGVn.jpeg",
+      "width": 600,
+      "height": 595
+    }
+  ],
+  "thumb": "https://i.discogs.com/d0A0u-TezVsWe9ajzHYrODf40FxtIBka88D9yfLe4mo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2ODM5/NzA1LTE2Njg5NDAw/NDYtMzA4Ni5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

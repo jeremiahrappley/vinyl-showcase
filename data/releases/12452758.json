@@ -1,0 +1,587 @@
+{
+  "id": 12452758,
+  "status": "Accepted",
+  "year": 2018,
+  "resource_url": "https://api.discogs.com/releases/12452758",
+  "uri": "https://www.discogs.com/release/12452758-Troye-Sivan-Bloom",
+  "artists": [
+    {
+      "name": "Troye Sivan",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 4402206,
+      "resource_url": "https://api.discogs.com/artists/4402206",
+      "thumbnail_url": "https://i.discogs.com/ry2L80Bu5ttiAaE_-yVxupp9gr3tg3ZwZsT8g64a9Uk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ0MDIy/MDYtMTc3NTMyNjI1/NC02NDIxLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Troye Sivan",
+  "labels": [
+    {
+      "name": "Capitol Records",
+      "catno": "B002878201",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 654,
+      "resource_url": "https://api.discogs.com/labels/654",
+      "thumbnail_url": "https://i.discogs.com/jOm50Ncnop3VOhKg0rYbdvq7epxn5mnXdOWfVQNjOBg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY1NC0x/NzgxODU0Mzk3LTU2/MzcuanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "EMI Recorded Music Australia Pty Ltd",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 603617,
+      "resource_url": "https://api.discogs.com/labels/603617"
+    },
+    {
+      "name": "EMI Recorded Music Australia Pty Ltd",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 603617,
+      "resource_url": "https://api.discogs.com/labels/603617"
+    },
+    {
+      "name": "Universal Music Australia Pty Ltd",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 241987,
+      "resource_url": "https://api.discogs.com/labels/241987",
+      "thumbnail_url": "https://i.discogs.com/eKWa-6f1ntxS_i-urtKgNseoc2sW0_WQUKMuv7Dl0Kg/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI0MTk4/Ny0xNzY4OTkzNzYw/LTgyNjEuanBlZw.jpeg"
+    },
+    {
+      "name": "UMG Recordings, Inc.",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 272782,
+      "resource_url": "https://api.discogs.com/labels/272782",
+      "thumbnail_url": "https://i.discogs.com/WX78Ss6rJPzD8aWRj-wynSuGlTwtQLp2QLnUFGDI3Pg/rs:fit/g:sm/q:90/h:80/w:534/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Mjc4/Mi0xNDU3MDEyNDAw/LTExMzYuanBlZw.jpeg"
+    },
+    {
+      "name": "Capitol Records",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 654,
+      "resource_url": "https://api.discogs.com/labels/654",
+      "thumbnail_url": "https://i.discogs.com/jOm50Ncnop3VOhKg0rYbdvq7epxn5mnXdOWfVQNjOBg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY1NC0x/NzgxODU0Mzk3LTU2/MzcuanBlZw.jpeg"
+    },
+    {
+      "name": "GZ Media",
+      "catno": "175652E",
+      "entity_type": "44",
+      "entity_type_name": "Plated At",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    },
+    {
+      "name": "Memphis Record Pressing",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 833505,
+      "resource_url": "https://api.discogs.com/labels/833505",
+      "thumbnail_url": "https://i.discogs.com/gScAekIZLcU8IXU0jHeomyKqbZCh5q_xSsYTWDC2k4A/rs:fit/g:sm/q:90/h:550/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgzMzUw/NS0xNDY0NDU1NjQ1/LTg5MzIuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 4044,
+    "want": 1041,
+    "rating": {
+      "count": 180,
+      "average": 4.57
+    },
+    "submitter": {
+      "username": "CD_WAREHOUSE_817",
+      "resource_url": "https://api.discogs.com/users/CD_WAREHOUSE_817"
+    },
+    "contributors": [
+      {
+        "username": "CD_WAREHOUSE_817",
+        "resource_url": "https://api.discogs.com/users/CD_WAREHOUSE_817"
+      },
+      {
+        "username": "littleislander",
+        "resource_url": "https://api.discogs.com/users/littleislander"
+      },
+      {
+        "username": "frutiger75",
+        "resource_url": "https://api.discogs.com/users/frutiger75"
+      },
+      {
+        "username": "ohsodoff",
+        "resource_url": "https://api.discogs.com/users/ohsodoff"
+      },
+      {
+        "username": "Juank-19",
+        "resource_url": "https://api.discogs.com/users/Juank-19"
+      },
+      {
+        "username": "beebotjean",
+        "resource_url": "https://api.discogs.com/users/beebotjean"
+      },
+      {
+        "username": "fabicallejas",
+        "resource_url": "https://api.discogs.com/users/fabicallejas"
+      },
+      {
+        "username": "GeorgeZ_CZ",
+        "resource_url": "https://api.discogs.com/users/GeorgeZ_CZ"
+      },
+      {
+        "username": "SP_Vinyl",
+        "resource_url": "https://api.discogs.com/users/SP_Vinyl"
+      },
+      {
+        "username": "prkrmtthw",
+        "resource_url": "https://api.discogs.com/users/prkrmtthw"
+      },
+      {
+        "username": "myvinyldiscography",
+        "resource_url": "https://api.discogs.com/users/myvinyldiscography"
+      },
+      {
+        "username": "MadCrab",
+        "resource_url": "https://api.discogs.com/users/MadCrab"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2018-08-29T11:31:15-07:00",
+  "date_changed": "2026-02-11T10:26:28-08:00",
+  "num_for_sale": 21,
+  "lowest_price": 20,
+  "master_id": 1415198,
+  "master_url": "https://api.discogs.com/masters/1415198",
+  "title": "Bloom",
+  "country": "US",
+  "released": "2018-08-31",
+  "notes": "Issued in a standard jacket and paper die-cut inner sleeve with a foldout insert with photos, lyrics, and credits.\n\nTrack A6, \"Seventeen (Reprise)\" is a hidden track not listed on the release.\n\nIn the runouts, the \"[Side]##\" or \"#XX\" stamper IDs are hand-etched, and the rest is machine-engraved.",
+  "released_formatted": "31 Aug 2018",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02567 80086 6",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "602567800866",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B002878201-A",
+      "description": "Side A label"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B002878201-B",
+      "description": "Side B label"
+    },
+    {
+      "type": "Rights Society",
+      "value": "ASCAP"
+    },
+    {
+      "type": "Rights Society",
+      "value": "BMI"
+    },
+    {
+      "type": "Rights Society",
+      "value": "SESAC"
+    },
+    {
+      "type": "Rights Society",
+      "value": "SOCAN/ASCAP"
+    },
+    {
+      "type": "Rights Society",
+      "value": "STIM"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "6752386-A 175652E1/B A15",
+      "description": "Side A runout, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "6752386-B B15 175652E2/A",
+      "description": "Side B runout, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "6752386-A A13 175652E1/B",
+      "description": "Side A runout, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "6752386-B B19 175652E2/A",
+      "description": "Side B runout, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "6752386-A A20 175652E1/B",
+      "description": "Side A runout, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "6752386-B B19 175652E2/A",
+      "description": "Side B runout, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "6752386-A #24 175652E1/B",
+      "description": "Side A runout, variant 4"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "6752386-B #24 175652E2/A",
+      "description": "Side B runout, variant 4"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=vOuBqt3PbwE",
+      "title": "Troye Sivan - Seventeen (Lyrics)",
+      "description": "Subscribe To GoldCoastMusic For New Music Daily!\nhttps://www.youtube.com/c/goldcoastmusic\n\nStream Troye Sivan - Seventeen (Lyrics) :\nhttps://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP\n\nTroye Sivan Bloom album out now :\nhttps://TroyeSivan.lnk.to/Store ",
+      "duration": 218,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=k5TqNsr6YuQ",
+      "title": "Troye Sivan - My My My! (Official Video)",
+      "description": "Buy, Download or Stream My My My! By Troye Sivan https://TroyeSivan.lnk.to/MyMyMyID\nSubscribe to the official Troye Sivan YouTube channel:  https://www.youtube.com/user/TroyeSivan18?sub_confirmation=1\n\nFollow Troye on...\nOfficial Website: http://www.troy",
+      "duration": 214,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=4ay4S61byZo",
+      "title": "Troye Sivan - The Good Side (Official Audio)",
+      "description": "Buy, Download or Stream The Good Side By Troye Sivan: https://TroyeSivan.lnk.to/TheGoodSideID\nSubscribe to the official Troye Sivan YouTube channel:  https://www.youtube.com/user/TroyeSivan18?sub_confirmation=1\n\nFollow Troye on...\nOfficial Website: http:/",
+      "duration": 271,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=41PTANtZFW0",
+      "title": "Troye Sivan - Bloom",
+      "description": "“Bloom” available now: \nhttps://TroyeSivan.lnk.to/BloomSingleID \nOrder \"Bloom\" on CD, white vinyl, album bundles, and more! https://TroyeSivan.lnk.to/Store \n\nFollow me!\nhttp://www.troyesivan.com\nhttp://www.twitter.com/troyesivan\nhttp://www.youtube.com",
+      "duration": 241,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=bhxhNIQBKJI",
+      "title": "Troye Sivan - Dance To This ft. Ariana Grande",
+      "description": "“Dance to This” feat. Ariana Grande available now: https://TroyeSivan.lnk.to/DanceToThisID \nOrder 'Bloom' on CD, white vinyl, album bundles, and more! https://TroyeSivan.lnk.to/Store \n\nFollow me!\nhttp://www.troyesivan.com \nhttp://www.twitter.com/troye",
+      "duration": 249,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=-QsYn0j-7JQ",
+      "title": "Troye Sivan - Lucky Strike",
+      "description": "“Lucky Strike” included on the album #Bloom: https://TroyeSivan.lnk.to/BloomID\nOrder ‘Bloom’ on CD, white vinyl, album bundles, and more! https://TroyeSivan.lnk.to/Store\n \nFollow me! \nhttp://troyesivan.com \nhttp://twitter.com/troyesivan \nhttp://yo",
+      "duration": 247,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=6ZdV0C_h9cM",
+      "title": "Troye Sivan - Animal (Official Audio)",
+      "description": "“Animal” available now: https://TroyeSivan.lnk.to/AnimalID \nOrder ‘Bloom’ on CD, white vinyl, album bundles, and more! https://TroyeSivan.lnk.to/StoreID  \n \nFollow me!\nhttp://www.troyesivan.com\nhttp://www.twitter.com/troyesivan\nhttp://www.youtube.",
+      "duration": 267,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=HYc0kjMZZGw",
+      "title": "Troye Sivan - Seventeen [A1] [Bloom Vinyl Video]",
+      "description": "Assista ao LP de \"Bloom\" completo nesta playlist \nhttps://www.youtube.com/playlist?list=PLbKzYfgxlfDnHnSDqLG_2H2wDO5CAM_0b\n\nWatch full vinyl of \"Bloom\" on this playlist: \nhttps://www.youtube.com/playlist?list=PLbKzYfgxlfDnHnSDqLG_2H2wDO5CAM_0b\n\nSe gostou,",
+      "duration": 217,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=IvhdrtY2Aqg",
+      "title": "Troye Sivan - My My My! (A2) (Bloom Vinyl Video)",
+      "description": "Assista ao LP de \"Bloom\" completo nesta playlist \nhttps://www.youtube.com/playlist?list=PLbKzYfgxlfDnHnSDqLG_2H2wDO5CAM_0b\n\nWatch full vinyl of \"Bloom\" on this playlist: \nhttps://www.youtube.com/playlist?list=PLbKzYfgxlfDnHnSDqLG_2H2wDO5CAM_0b\n\nSe gostou,",
+      "duration": 205,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=-Z9rp-KEJl8",
+      "title": "Troye Sivan - The Good Side (A3) (Bloom Vinyl Video)",
+      "description": "Assista ao LP de \"Bloom\" completo nesta playlist \nhttps://www.youtube.com/playlist?list=PLbKzYfgxlfDnHnSDqLG_2H2wDO5CAM_0b\n\nWatch full vinyl of \"Bloom\" on this playlist: \nhttps://www.youtube.com/playlist?list=PLbKzYfgxlfDnHnSDqLG_2H2wDO5CAM_0b\n\nSe gostou,",
+      "duration": 267,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=nFtpEKQVnPM",
+      "title": "Troye Sivan - Bloom [A4] [Vinyl Video]",
+      "description": "Assista ao LP de \"Bloom\" completo nesta playlist \nhttps://www.youtube.com/playlist?list=PLbKzYfgxlfDnHnSDqLG_2H2wDO5CAM_0b\n\nWatch full vinyl of \"Bloom\" on this playlist: \nhttps://www.youtube.com/playlist?list=PLbKzYfgxlfDnHnSDqLG_2H2wDO5CAM_0b\n\nSe gostou,",
+      "duration": 222,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=luqdmf2AObg",
+      "title": "Troye Sivan, Jordi - Postcard (A5) (Bloom Vinyl Video)",
+      "description": "Assista ao LP de \"Bloom\" completo nesta playlist \nhttps://www.youtube.com/playlist?list=PLbKzYfgxlfDnHnSDqLG_2H2wDO5CAM_0b\n\nWatch full vinyl of \"Bloom\" on this playlist: \nhttps://www.youtube.com/playlist?list=PLbKzYfgxlfDnHnSDqLG_2H2wDO5CAM_0b\n\nSe gostou,",
+      "duration": 223,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=wfskM4M9cGM",
+      "title": "Troye Sivan - Seventeen (Reprise) (A7) (Bloom Vinyl Video)",
+      "description": "“Seventeen” é sobre a primeira relação sexual de Troye Sivan com um homem através do aplicativo Grindr.",
+      "duration": 92,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=u0NOh-rJmlk",
+      "title": "Troye Sivan, Ariana Grande - Dance To This [B1] [Bloom Vinyl Video]",
+      "description": "Assista ao LP de \"Bloom\" completo nesta playlist \nhttps://www.youtube.com/playlist?list=PLbKzYfgxlfDnHnSDqLG_2H2wDO5CAM_0b\n\nWatch full vinyl of \"Bloom\" on this playlist: \nhttps://www.youtube.com/playlist?list=PLbKzYfgxlfDnHnSDqLG_2H2wDO5CAM_0b\n\nSe gostou,",
+      "duration": 234,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=CX8U_HYOTBc",
+      "title": "Troye Sivan - Plum (B2) (Bloom Vinyl Video)",
+      "description": "Assista ao LP de \"Bloom\" completo nesta playlist \nhttps://www.youtube.com/playlist?list=PLbKzYfgxlfDnHnSDqLG_2H2wDO5CAM_0b\n\nWatch full vinyl of \"Bloom\" on this playlist: \nhttps://www.youtube.com/playlist?list=PLbKzYfgxlfDnHnSDqLG_2H2wDO5CAM_0b\n\nSe gostou,",
+      "duration": 184,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=f7yDO-F0Bm8",
+      "title": "Troye Sivan - What A Heavenly Way to Die (B3) (Bloom Vinyl Video)",
+      "description": "Assista ao LP de \"Bloom\" completo nesta playlist \nhttps://www.youtube.com/playlist?list=PLbKzYfgxlfDnHnSDqLG_2H2wDO5CAM_0b\n\nWatch full vinyl of \"Bloom\" on this playlist: \nhttps://www.youtube.com/playlist?list=PLbKzYfgxlfDnHnSDqLG_2H2wDO5CAM_0b\n\nSe gostou,",
+      "duration": 186,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=3Wpm05ouKxA",
+      "title": "Troye Sivan - Lucky Strike (B4) (Bloom Vinyl Video)",
+      "description": "Assista ao LP de \"Bloom\" completo nesta playlist \nhttps://www.youtube.com/playlist?list=PLbKzYfgxlfDnHnSDqLG_2H2wDO5CAM_0b\n\nWatch full vinyl of \"Bloom\" on this playlist: \nhttps://www.youtube.com/playlist?list=PLbKzYfgxlfDnHnSDqLG_2H2wDO5CAM_0b\n\nSe gostou,",
+      "duration": 209,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ki3VoS777gg",
+      "title": "Troye Sivan - Animal (B5) (Bloom Vinyl Video)",
+      "description": "Assista ao LP de \"Bloom\" completo nesta playlist \nhttps://www.youtube.com/playlist?list=PLbKzYfgxlfDnHnSDqLG_2H2wDO5CAM_0b\n\nWatch full vinyl of \"Bloom\" on this playlist: \nhttps://www.youtube.com/playlist?list=PLbKzYfgxlfDnHnSDqLG_2H2wDO5CAM_0b\n\nSe gostou,",
+      "duration": 271,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=vOuBqt3PbwE",
+      "title": "Troye Sivan - Seventeen (Lyrics)",
+      "description": "Subscribe To GoldCoastMusic For New Music Daily!\nhttps://www.youtube.com/c/goldcoastmusic\n\nStream Troye Sivan - Seventeen (Lyrics) :\nhttps://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP\n\nTroye Sivan Bloom album out now :\nhttps://TroyeSivan.lnk.to/Store ",
+      "duration": 218,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Pop"
+  ],
+  "styles": [
+    "Ballad"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Seventeen",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "My My My!",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "The Good Side",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Bloom",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Postcard",
+      "extraartists": [
+        {
+          "name": "Gordi (5)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 5152267,
+          "resource_url": "https://api.discogs.com/artists/5152267"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Seventeen (Reprise)",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Dance To This",
+      "extraartists": [
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Plum",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "What A Heavenly Way To Die",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Lucky Strike",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Animal",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Mark Holland (6)",
+      "anv": "",
+      "join": "",
+      "role": "A&R",
+      "tracks": "",
+      "id": 4620376,
+      "resource_url": "https://api.discogs.com/artists/4620376"
+    },
+    {
+      "name": "Brandon Creed",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 2321627,
+      "resource_url": "https://api.discogs.com/artists/2321627"
+    },
+    {
+      "name": "Dani Russin",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 4620374,
+      "resource_url": "https://api.discogs.com/artists/4620374"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/4FrlIxTsTrBZZU3APpwU9euHlM8vZWe4p-QmjQt1uYg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/NzU4LTE3NzA4MzM1/ODYtMzgyOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/4FrlIxTsTrBZZU3APpwU9euHlM8vZWe4p-QmjQt1uYg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/NzU4LTE3NzA4MzM1/ODYtMzgyOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/H18P1tbby6NTB5MKcvUyNiv1vNmCHXKZhsQmb6HlB8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/NzU4LTE3NzA4MzM1/ODYtMzgyOS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/WTo54M3kFmp2MlxYtqOvPolsmcFCVKvCRgu0PBKshN8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/NzU4LTE3NzA4MzM1/ODYtNTczNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/WTo54M3kFmp2MlxYtqOvPolsmcFCVKvCRgu0PBKshN8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/NzU4LTE3NzA4MzM1/ODYtNTczNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/zThINWidxnlO-8Mz1un-KVdfz4_gPYdGwokIFbKT9Lc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/NzU4LTE3NzA4MzM1/ODYtNTczNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/QId7qF2lsuhrs6MFy0L9wwhVOzNePB5jbEsXh17rKl0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/NzU4LTE3NzA4MzM1/ODYtMjk3My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/QId7qF2lsuhrs6MFy0L9wwhVOzNePB5jbEsXh17rKl0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/NzU4LTE3NzA4MzM1/ODYtMjk3My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/wc9RCdjUJh3itIBCXHj6JZwOC5hS5MdsOuFRYe46GKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/NzU4LTE3NzA4MzM1/ODYtMjk3My5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/SlAM2JgRrzuu8oluefRhtZAS1nL78GGMLRwRkw6fg8c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/NzU4LTE3NzA4MzM1/ODYtNjEwNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/SlAM2JgRrzuu8oluefRhtZAS1nL78GGMLRwRkw6fg8c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/NzU4LTE3NzA4MzM1/ODYtNjEwNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/YTT1FrI9QQDsy_ARh2FkU1eK7JbnyWwQJD-zfaxqY2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/NzU4LTE3NzA4MzM1/ODYtNjEwNi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/p-rmp13_hHGeyQAo-MQfZxu8AdoEQCMu4N9-bDKr0Yg/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/NzU4LTE3NzA4MzM1/ODYtNjA5Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/p-rmp13_hHGeyQAo-MQfZxu8AdoEQCMu4N9-bDKr0Yg/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/NzU4LTE3NzA4MzM1/ODYtNjA5Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/THlVwAQ7xeahUW2ABj5MUXzchp0hyxUFYMoRDUh0QNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/NzU4LTE3NzA4MzM1/ODYtNjA5Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 298
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/LMwOm5M_c22VDFswnz6qUSYO1wN4eoXaqb7gtqTrIq0/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/NzU4LTE3NzA4MzQz/NzItMjg5MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/LMwOm5M_c22VDFswnz6qUSYO1wN4eoXaqb7gtqTrIq0/rs:fit/g:sm/q:90/h:296/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/NzU4LTE3NzA4MzQz/NzItMjg5MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/TG4UsxcufPWoyvfGhgTH4tEIVkpxmzTkfZLrZcP6EzM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/NzU4LTE3NzA4MzQz/NzItMjg5MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 296
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/zRP0KUZmc_DJxuj0SbioLn_WQnJPh2Ame8IKN1jX2JE/rs:fit/g:sm/q:90/h:452/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/NzU4LTE3NzA4MzM1/ODYtNTI5MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/zRP0KUZmc_DJxuj0SbioLn_WQnJPh2Ame8IKN1jX2JE/rs:fit/g:sm/q:90/h:452/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/NzU4LTE3NzA4MzM1/ODYtNTI5MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Vz7NDWLWnByzIl-6SUD2oVsO4ycfCy_z5z9bLprqyc8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/NzU4LTE3NzA4MzM1/ODYtNTI5MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 452
+    }
+  ],
+  "thumb": "https://i.discogs.com/H18P1tbby6NTB5MKcvUyNiv1vNmCHXKZhsQmb6HlB8o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNDUy/NzU4LTE3NzA4MzM1/ODYtMzgyOS5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

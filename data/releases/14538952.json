@@ -1,0 +1,1631 @@
+{
+  "id": 14538952,
+  "status": "Accepted",
+  "year": 2019,
+  "resource_url": "https://api.discogs.com/releases/14538952",
+  "uri": "https://www.discogs.com/release/14538952-Tove-Lo-Sunshine-Kitty",
+  "artists": [
+    {
+      "name": "Tove Lo",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 3506702,
+      "resource_url": "https://api.discogs.com/artists/3506702",
+      "thumbnail_url": "https://i.discogs.com/V1BSkbzz-xWUs3W_DeMJw9Dtssb5IkOlf9i1ZiUy7YE/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM1MDY3/MDItMTY3MDA4NjI5/Mi05MzE2LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Tove Lo",
+  "labels": [
+    {
+      "name": "Island Records",
+      "catno": "B0031007-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 8377,
+      "resource_url": "https://api.discogs.com/labels/8377",
+      "thumbnail_url": "https://i.discogs.com/Fxrre24n1gnsNRrmjrwjMC79o2Sp-rGzcuYQ-yqUyUU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgzNzct/MTYzNjU4Mjc0NC04/MDg5LmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Universal Music AB",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 75083,
+      "resource_url": "https://api.discogs.com/labels/75083",
+      "thumbnail_url": "https://i.discogs.com/jz4Nq29VT0SgVpSEkCqpTHCFKy_gw3iQNziRkgNsZYM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MDgz/LTE3ODE3ODM5MDQt/MzIwMC5qcGVn.jpeg"
+    },
+    {
+      "name": "Universal Music AB",
+      "catno": "",
+      "entity_type": "6",
+      "entity_type_name": "Licensed From",
+      "id": 75083,
+      "resource_url": "https://api.discogs.com/labels/75083",
+      "thumbnail_url": "https://i.discogs.com/jz4Nq29VT0SgVpSEkCqpTHCFKy_gw3iQNziRkgNsZYM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MDgz/LTE3ODE3ODM5MDQt/MzIwMC5qcGVn.jpeg"
+    },
+    {
+      "name": "Island Records",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 8377,
+      "resource_url": "https://api.discogs.com/labels/8377",
+      "thumbnail_url": "https://i.discogs.com/Fxrre24n1gnsNRrmjrwjMC79o2Sp-rGzcuYQ-yqUyUU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgzNzct/MTYzNjU4Mjc0NC04/MDg5LmpwZWc.jpeg"
+    },
+    {
+      "name": "UMG Commercial Services",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 1419182,
+      "resource_url": "https://api.discogs.com/labels/1419182"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Deluxe Edition",
+        "Limited Edition",
+        "Picture Disc"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 421,
+    "want": 429,
+    "rating": {
+      "count": 35,
+      "average": 4.8
+    },
+    "submitter": {
+      "username": "piranhaconna",
+      "resource_url": "https://api.discogs.com/users/piranhaconna"
+    },
+    "contributors": [
+      {
+        "username": "piranhaconna",
+        "resource_url": "https://api.discogs.com/users/piranhaconna"
+      },
+      {
+        "username": "PlayingPlasticDiscs",
+        "resource_url": "https://api.discogs.com/users/PlayingPlasticDiscs"
+      },
+      {
+        "username": "Mr.Websta",
+        "resource_url": "https://api.discogs.com/users/Mr.Websta"
+      },
+      {
+        "username": "camaropete7",
+        "resource_url": "https://api.discogs.com/users/camaropete7"
+      },
+      {
+        "username": "mrhopkins",
+        "resource_url": "https://api.discogs.com/users/mrhopkins"
+      },
+      {
+        "username": "restinpeacewhores",
+        "resource_url": "https://api.discogs.com/users/restinpeacewhores"
+      },
+      {
+        "username": "deltoro",
+        "resource_url": "https://api.discogs.com/users/deltoro"
+      },
+      {
+        "username": "erik7778910",
+        "resource_url": "https://api.discogs.com/users/erik7778910"
+      },
+      {
+        "username": "MrXavier4",
+        "resource_url": "https://api.discogs.com/users/MrXavier4"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2019-12-17T12:34:45-08:00",
+  "date_changed": "2023-03-08T11:37:45-08:00",
+  "num_for_sale": 4,
+  "lowest_price": 158.48,
+  "master_id": 1609878,
+  "master_url": "https://api.discogs.com/masters/1609878",
+  "title": "Sunshine Kitty",
+  "country": "US",
+  "released": "2019-12-16",
+  "notes": "\"Sunshine Kitty\" on white, double sided graphic picture disc.\n\n- Limited edition\n- Deluxe edition\n- Alternate cover art\n- Two sided graphic picture disc vinyl\n- Exclusive gatefold artwork\n- 12 x 24\" folded poster\n- additional hand signed poster\n- Sunshine Kitty sticker set\n- First 100 preorders get an original signed polaroid photo",
+  "released_formatted": "16 Dec 2019",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "602508175862"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=p_wl9QB_AIc",
+      "title": "Tove Lo - Gritty Pretty (Audio)",
+      "description": "Sunshine Kitty Available Now! \nListen or order you copy here: https://lnk.to/SunshineKitty\n\nMusic video by Tove Lo performing Gritty Pretty (Audio). © 2019 Universal Music AB\n\nhttp://vevo.ly/dHTnfR",
+      "duration": 47,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=qanl1s7K2Kc",
+      "title": "Tove Lo - Glad He's Gone",
+      "description": "Sunshine Kitty Available Now! \nListen or order you copy here: https://lnk.to/SunshineKitty\n\nListen to Glad He’s Gone by Tove Lo: https://lnk.to/GladHesGone\n\nDirected by Vania Heymann and Gal Muggia\nProduced by ICONOCLAST\n\nProducer: Natan Schottenfels\nCrea",
+      "duration": 209,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=4fk0YGYsSNA",
+      "title": "Tove Lo - Bad as the Boys (Lyric Video) ft. ALMA",
+      "description": "Sunshine Kitty Available Now! \nListen or order you copy here: https://lnk.to/SunshineKitty\n\nListen to Bad as the Boys (feat. Alma) - https://lnk.to/BadastheBoysYD\n\nFilmed by: Garrett Guidera, Natalia Kallio, Anna Miettinen, Charlie Twaddle & Natalie Zieri",
+      "duration": 193,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=vjgx9QW9d7E",
+      "title": "Tove Lo - Sweettalk my Heart (Official Video)",
+      "description": "Sunshine Kitty Available Now! \nListen or order you copy here: https://lnk.to/SunshineKitty\n \nListen to “Sweettalk my Heart” here: https://ToveLo.lnk.to/SweettalMyHeart\n\nDirectors: Bradley & Pablo\nExecutive Producer: Bubba Cody\nProducer: Tiffany Suh\nDirect",
+      "duration": 227,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=GL6IzU3vxP8",
+      "title": "Tove Lo - Stay Over (Audio)",
+      "description": "Sunshine Kitty Available Now! \nListen or order you copy here: https://lnk.to/SunshineKitty\n\nListen to “Stay Over” here: https://ToveLo.lnk.to/StayOver\n\nYou gave me my birthday kiss\nI gave you a pill, said you’ll get high of this\nYou hit a few parties that",
+      "duration": 191,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=RQweYwfEmtw",
+      "title": "Tove Lo - Are U gonna tell her? ft. ZAAC",
+      "description": "Watch more Tove Lo Videos here: https://bit.ly/2BGMri7\n\nListen to Sunshine Kitty here: https://lnk.to/SunshineKitty\n\na film by\nAlaska\n\npresenting\nEddy Soares & Larissa Ozato\n\nstarring\nTove Lo & MC Zaac\n\nproduced by\nIconoclast\n\nproducers\nFrancesco Colombo\n",
+      "duration": 203,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=0efoCjgNQiE",
+      "title": "Jax Jones, Tove Lo - Jacques (Official Video)",
+      "description": "Jax Jones & Tove Lo – Jacques\n\nJax Jones new album ‘Snacks’ is out now. Shop now for exclusive merch and bundles- https://JaxJones.lnk.to/AlbumID \nTove Lo releases new album ‘Sunshine Kitty’ on September 20th. Pre save/ Pre Order now - https://lnk.to/Suns",
+      "duration": 214,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=aF93xhi2kqg",
+      "title": "Tove Lo - Mateo (Lyric Video)",
+      "description": "Time to put on the karaoke number of your lifetime! Lipsync, dance, pose, fo whatever feels cool. I’ll make one too and we’ll be in this video together while apart :)\nLink to submit:  https://ToveLo1.lnk.to/QuarantineKaraoke \n \nListen to Mateo: https://To",
+      "duration": 172,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Max5EhRvrnM",
+      "title": "Tove Lo - Come Undone (Audio)",
+      "description": "Sunshine Kitty Available Now! \nListen or order you copy here: https://lnk.to/SunshineKitty\n\nListen to “Come Undone” here: https://ToveLo.lnk.to/ComeUndone\n\nWear your oversized shirt every chance that I get\nSpend every night in bed by your side\nI curl up i",
+      "duration": 179,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=1XywS2KJukU",
+      "title": "Tove Lo - Equally Lost (Lyric Video) ft. Doja Cat",
+      "description": "Listen to Equally Lost: https://ToveLo.lnk.to/EquallyLostMB\nWatch More Tove Lo Videos Here: https://bit.ly/2BGMri7\n \nFilmed & Edited by: Garrett Guidera\nCreative Director: Charlie Twaddle \nAnimation Artist: Ultraviolet\n \nEqually Lost (ft. Doja Cat) \n \nYou",
+      "duration": 139,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=AD1AZfCWX9w",
+      "title": "Tove Lo - Really don’t like u feat. Kylie Minogue (Lyric Video) ft. Kylie Minogue",
+      "description": "Sunshine Kitty Available Now! \nListen or order you copy here: https://lnk.to/SunshineKitty\n\nFilmed by: Natalie O’Moore and Thomas English\nEditor: Lauren Dellara \nFocus Puller: Chris Steel\nGaffer: Barry Keegan\nSpark: Josh woods\nPost-Production: Garrett Gui",
+      "duration": 224,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ZoJbaVMCJ4U",
+      "title": "Tove Lo - Shifted (Audio)",
+      "description": "Sunshine Kitty Available Now! \nListen or order you copy here: https://lnk.to/SunshineKitty\n\nListen to “Shifted” here: https://ToveLo.lnk.to/Shifted\n\nI listened to what my mama said, yeah\nAlways been down for a challenge since, yeah\nShe said it’s all bout ",
+      "duration": 193,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=tw0y_FN8SG0",
+      "title": "Tove Lo - Mistaken (Audio)",
+      "description": "Sunshine Kitty Available Now! \nListen or order you copy here: https://lnk.to/SunshineKitty\n\nListen to “Mistaken” here: https://ToveLo.lnk.to/Mistaken\n\nMan, every little thing means more when you say it\nDamn, read into every line and make you explain it no",
+      "duration": 178,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=y8_fd1nCkIk",
+      "title": "Tove Lo - Anywhere u go (Audio)",
+      "description": "Sunshine Kitty Available Now! \nListen or order you copy here: https://lnk.to/SunshineKitty\n\nListen to “Anywhere u go” here: https://ToveLo.lnk.to/AnywhereUGo\n\nThey say be one with the city so I’m standing in the sun all day\nGot their manners mapped out an",
+      "duration": 191,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Pop"
+  ],
+  "styles": [
+    "Indie Pop"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "Gritty Pretty (Intro)",
+      "extraartists": [
+        {
+          "name": "John Hanes",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 210636,
+          "resource_url": "https://api.discogs.com/artists/210636"
+        },
+        {
+          "name": "Chris Gehringer",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 326440,
+          "resource_url": "https://api.discogs.com/artists/326440"
+        },
+        {
+          "name": "Serban Ghenea",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 105435,
+          "resource_url": "https://api.discogs.com/artists/105435"
+        },
+        {
+          "name": "The Struts (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3846600,
+          "resource_url": "https://api.discogs.com/artists/3846600"
+        },
+        {
+          "name": "Jakob Jerlström",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3750621,
+          "resource_url": "https://api.discogs.com/artists/3750621"
+        },
+        {
+          "name": "Ludvig Söderberg",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3750620,
+          "resource_url": "https://api.discogs.com/artists/3750620"
+        }
+      ],
+      "duration": "0:45"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "Glad He's Gone",
+      "extraartists": [
+        {
+          "name": "John Hanes",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 210636,
+          "resource_url": "https://api.discogs.com/artists/210636"
+        },
+        {
+          "name": "Chris Gehringer",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 326440,
+          "resource_url": "https://api.discogs.com/artists/326440"
+        },
+        {
+          "name": "Serban Ghenea",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 105435,
+          "resource_url": "https://api.discogs.com/artists/105435"
+        },
+        {
+          "name": "Shellback (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1283023,
+          "resource_url": "https://api.discogs.com/artists/1283023"
+        },
+        {
+          "name": "The Struts (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3846600,
+          "resource_url": "https://api.discogs.com/artists/3846600"
+        },
+        {
+          "name": "Jakob Jerlström",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3750621,
+          "resource_url": "https://api.discogs.com/artists/3750621"
+        },
+        {
+          "name": "Ludvig Söderberg",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3750620,
+          "resource_url": "https://api.discogs.com/artists/3750620"
+        },
+        {
+          "name": "Shellback (2)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1283023,
+          "resource_url": "https://api.discogs.com/artists/1283023"
+        }
+      ],
+      "duration": "3:16"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "Bad As The Boys",
+      "extraartists": [
+        {
+          "name": "John Hanes",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 210636,
+          "resource_url": "https://api.discogs.com/artists/210636"
+        },
+        {
+          "name": "Alma (27)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 5300851,
+          "resource_url": "https://api.discogs.com/artists/5300851"
+        },
+        {
+          "name": "Chris Gehringer",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 326440,
+          "resource_url": "https://api.discogs.com/artists/326440"
+        },
+        {
+          "name": "Serban Ghenea",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 105435,
+          "resource_url": "https://api.discogs.com/artists/105435"
+        },
+        {
+          "name": "The Struts (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3846600,
+          "resource_url": "https://api.discogs.com/artists/3846600"
+        },
+        {
+          "name": "Jakob Jerlström",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3750621,
+          "resource_url": "https://api.discogs.com/artists/3750621"
+        },
+        {
+          "name": "Ludvig Söderberg",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3750620,
+          "resource_url": "https://api.discogs.com/artists/3750620"
+        }
+      ],
+      "duration": "3:06"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "Sweettalk My Heart",
+      "extraartists": [
+        {
+          "name": "John Hanes",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 210636,
+          "resource_url": "https://api.discogs.com/artists/210636"
+        },
+        {
+          "name": "Chris Gehringer",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 326440,
+          "resource_url": "https://api.discogs.com/artists/326440"
+        },
+        {
+          "name": "Serban Ghenea",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 105435,
+          "resource_url": "https://api.discogs.com/artists/105435"
+        },
+        {
+          "name": "The Struts (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3846600,
+          "resource_url": "https://api.discogs.com/artists/3846600"
+        },
+        {
+          "name": "Jakob Hazell",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2923548,
+          "resource_url": "https://api.discogs.com/artists/2923548"
+        },
+        {
+          "name": "Ludvig Söderberg",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3750620,
+          "resource_url": "https://api.discogs.com/artists/3750620"
+        },
+        {
+          "name": "Svante Halldin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1118632,
+          "resource_url": "https://api.discogs.com/artists/1118632"
+        }
+      ],
+      "duration": "2:59"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "Stay Over",
+      "extraartists": [
+        {
+          "name": "John Hanes",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 210636,
+          "resource_url": "https://api.discogs.com/artists/210636"
+        },
+        {
+          "name": "Chris Gehringer",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 326440,
+          "resource_url": "https://api.discogs.com/artists/326440"
+        },
+        {
+          "name": "Serban Ghenea",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 105435,
+          "resource_url": "https://api.discogs.com/artists/105435"
+        },
+        {
+          "name": "Ludvig Söderberg",
+          "anv": "A Strut",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3750620,
+          "resource_url": "https://api.discogs.com/artists/3750620"
+        },
+        {
+          "name": "Jakob Hazell",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2923548,
+          "resource_url": "https://api.discogs.com/artists/2923548"
+        },
+        {
+          "name": "Ludvig Söderberg",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3750620,
+          "resource_url": "https://api.discogs.com/artists/3750620"
+        },
+        {
+          "name": "Svante Halldin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1118632,
+          "resource_url": "https://api.discogs.com/artists/1118632"
+        }
+      ],
+      "duration": "3:09"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "Are U Gonna Tell Her?",
+      "extraartists": [
+        {
+          "name": "John Hanes",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 210636,
+          "resource_url": "https://api.discogs.com/artists/210636"
+        },
+        {
+          "name": "Mc Zaac",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 6192117,
+          "resource_url": "https://api.discogs.com/artists/6192117"
+        },
+        {
+          "name": "Chris Gehringer",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 326440,
+          "resource_url": "https://api.discogs.com/artists/326440"
+        },
+        {
+          "name": "Serban Ghenea",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 105435,
+          "resource_url": "https://api.discogs.com/artists/105435"
+        },
+        {
+          "name": "The Struts (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3846600,
+          "resource_url": "https://api.discogs.com/artists/3846600"
+        },
+        {
+          "name": "Jakob Jerlström",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3750621,
+          "resource_url": "https://api.discogs.com/artists/3750621"
+        },
+        {
+          "name": "Jeffersson Junior",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7382015,
+          "resource_url": "https://api.discogs.com/artists/7382015"
+        },
+        {
+          "name": "Ludvig Söderberg",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3750620,
+          "resource_url": "https://api.discogs.com/artists/3750620"
+        },
+        {
+          "name": "Mc Zaac",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6192117,
+          "resource_url": "https://api.discogs.com/artists/6192117"
+        },
+        {
+          "name": "Umberto Tavares",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1734726,
+          "resource_url": "https://api.discogs.com/artists/1734726"
+        }
+      ],
+      "duration": "2:38"
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "&",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        },
+        {
+          "name": "Jax Jones",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3683828,
+          "resource_url": "https://api.discogs.com/artists/3683828"
+        }
+      ],
+      "title": "Jacques",
+      "extraartists": [
+        {
+          "name": "Jax Jones",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3683828,
+          "resource_url": "https://api.discogs.com/artists/3683828"
+        },
+        {
+          "name": "Mark Ralph",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 123393,
+          "resource_url": "https://api.discogs.com/artists/123393"
+        },
+        {
+          "name": "Mark Ralph",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 123393,
+          "resource_url": "https://api.discogs.com/artists/123393"
+        },
+        {
+          "name": "Timucin Lam",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6352255,
+          "resource_url": "https://api.discogs.com/artists/6352255"
+        }
+      ],
+      "duration": "3:23"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "Mateo",
+      "extraartists": [
+        {
+          "name": "John Hanes",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 210636,
+          "resource_url": "https://api.discogs.com/artists/210636"
+        },
+        {
+          "name": "Chris Gehringer",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 326440,
+          "resource_url": "https://api.discogs.com/artists/326440"
+        },
+        {
+          "name": "Serban Ghenea",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 105435,
+          "resource_url": "https://api.discogs.com/artists/105435"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        }
+      ],
+      "duration": "2:49"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "Come Undone",
+      "extraartists": [
+        {
+          "name": "John Hanes",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 210636,
+          "resource_url": "https://api.discogs.com/artists/210636"
+        },
+        {
+          "name": "Chris Gehringer",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 326440,
+          "resource_url": "https://api.discogs.com/artists/326440"
+        },
+        {
+          "name": "Serban Ghenea",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 105435,
+          "resource_url": "https://api.discogs.com/artists/105435"
+        },
+        {
+          "name": "Jack & Coke",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5330607,
+          "resource_url": "https://api.discogs.com/artists/5330607"
+        },
+        {
+          "name": "Ludvig Söderberg",
+          "anv": "A Strut",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3750620,
+          "resource_url": "https://api.discogs.com/artists/3750620"
+        },
+        {
+          "name": "The Struts (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3846600,
+          "resource_url": "https://api.discogs.com/artists/3846600"
+        },
+        {
+          "name": "Jakob Hazell",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2923548,
+          "resource_url": "https://api.discogs.com/artists/2923548"
+        },
+        {
+          "name": "Jakob Jerlström",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3750621,
+          "resource_url": "https://api.discogs.com/artists/3750621"
+        },
+        {
+          "name": "Ludvig Söderberg",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3750620,
+          "resource_url": "https://api.discogs.com/artists/3750620"
+        }
+      ],
+      "duration": "2:57"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "Equally Lost",
+      "extraartists": [
+        {
+          "name": "John Hanes",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 210636,
+          "resource_url": "https://api.discogs.com/artists/210636"
+        },
+        {
+          "name": "Doja Cat",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3970719,
+          "resource_url": "https://api.discogs.com/artists/3970719"
+        },
+        {
+          "name": "Chris Gehringer",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 326440,
+          "resource_url": "https://api.discogs.com/artists/326440"
+        },
+        {
+          "name": "Serban Ghenea",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 105435,
+          "resource_url": "https://api.discogs.com/artists/105435"
+        },
+        {
+          "name": "Mattman & Robin",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3584535,
+          "resource_url": "https://api.discogs.com/artists/3584535"
+        },
+        {
+          "name": "Amala Zandile Dlamini",
+          "anv": "Amala Dlamini",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7322515,
+          "resource_url": "https://api.discogs.com/artists/7322515"
+        },
+        {
+          "name": "Ludvig Söderberg",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3750620,
+          "resource_url": "https://api.discogs.com/artists/3750620"
+        },
+        {
+          "name": "Mattias Larsson (7)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3495771,
+          "resource_url": "https://api.discogs.com/artists/3495771"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        },
+        {
+          "name": "Robin Fredriksson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2778722,
+          "resource_url": "https://api.discogs.com/artists/2778722"
+        },
+        {
+          "name": "Svante Halldin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1118632,
+          "resource_url": "https://api.discogs.com/artists/1118632"
+        }
+      ],
+      "duration": "2:14"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "Really Don't Like U",
+      "extraartists": [
+        {
+          "name": "John Hanes",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 210636,
+          "resource_url": "https://api.discogs.com/artists/210636"
+        },
+        {
+          "name": "Kylie Minogue",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 13608,
+          "resource_url": "https://api.discogs.com/artists/13608"
+        },
+        {
+          "name": "Chris Gehringer",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 326440,
+          "resource_url": "https://api.discogs.com/artists/326440"
+        },
+        {
+          "name": "Serban Ghenea",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 105435,
+          "resource_url": "https://api.discogs.com/artists/105435"
+        },
+        {
+          "name": "Ian Kirkpatrick",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1796807,
+          "resource_url": "https://api.discogs.com/artists/1796807"
+        },
+        {
+          "name": "Caroline Ailin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4244632,
+          "resource_url": "https://api.discogs.com/artists/4244632"
+        },
+        {
+          "name": "Ian Kirkpatrick",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1796807,
+          "resource_url": "https://api.discogs.com/artists/1796807"
+        }
+      ],
+      "duration": "3:45"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "Shifted",
+      "extraartists": [
+        {
+          "name": "John Hanes",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 210636,
+          "resource_url": "https://api.discogs.com/artists/210636"
+        },
+        {
+          "name": "Chris Gehringer",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 326440,
+          "resource_url": "https://api.discogs.com/artists/326440"
+        },
+        {
+          "name": "Serban Ghenea",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 105435,
+          "resource_url": "https://api.discogs.com/artists/105435"
+        },
+        {
+          "name": "Jack & Coke",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5330607,
+          "resource_url": "https://api.discogs.com/artists/5330607"
+        },
+        {
+          "name": "Ludvig Söderberg",
+          "anv": "A Strut",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3750620,
+          "resource_url": "https://api.discogs.com/artists/3750620"
+        },
+        {
+          "name": "Jakob Hazell",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2923548,
+          "resource_url": "https://api.discogs.com/artists/2923548"
+        },
+        {
+          "name": "Ludvig Söderberg",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3750620,
+          "resource_url": "https://api.discogs.com/artists/3750620"
+        },
+        {
+          "name": "Svante Halldin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1118632,
+          "resource_url": "https://api.discogs.com/artists/1118632"
+        }
+      ],
+      "duration": "3:12"
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "Mistaken",
+      "extraartists": [
+        {
+          "name": "John Hanes",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 210636,
+          "resource_url": "https://api.discogs.com/artists/210636"
+        },
+        {
+          "name": "Chris Gehringer",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 326440,
+          "resource_url": "https://api.discogs.com/artists/326440"
+        },
+        {
+          "name": "Serban Ghenea",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 105435,
+          "resource_url": "https://api.discogs.com/artists/105435"
+        },
+        {
+          "name": "Joel Little",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 966295,
+          "resource_url": "https://api.discogs.com/artists/966295"
+        }
+      ],
+      "duration": "2:56"
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "Anywhere U Go",
+      "extraartists": [
+        {
+          "name": "John Hanes",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For Mix]",
+          "tracks": "",
+          "id": 210636,
+          "resource_url": "https://api.discogs.com/artists/210636"
+        },
+        {
+          "name": "Chris Gehringer",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 326440,
+          "resource_url": "https://api.discogs.com/artists/326440"
+        },
+        {
+          "name": "Serban Ghenea",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 105435,
+          "resource_url": "https://api.discogs.com/artists/105435"
+        },
+        {
+          "name": "Jack & Coke",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5330607,
+          "resource_url": "https://api.discogs.com/artists/5330607"
+        },
+        {
+          "name": "Ludvig Söderberg",
+          "anv": "A Strut",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3750620,
+          "resource_url": "https://api.discogs.com/artists/3750620"
+        },
+        {
+          "name": "Jakob Hazell",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2923548,
+          "resource_url": "https://api.discogs.com/artists/2923548"
+        },
+        {
+          "name": "Ludvig Söderberg",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3750620,
+          "resource_url": "https://api.discogs.com/artists/3750620"
+        },
+        {
+          "name": "Svante Halldin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1118632,
+          "resource_url": "https://api.discogs.com/artists/1118632"
+        }
+      ],
+      "duration": "3:09"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Ludvig Söderberg",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 3750620,
+      "resource_url": "https://api.discogs.com/artists/3750620"
+    },
+    {
+      "name": "Tove Lo",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 3506702,
+      "resource_url": "https://api.discogs.com/artists/3506702"
+    },
+    {
+      "name": "Tove Lo",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 3506702,
+      "resource_url": "https://api.discogs.com/artists/3506702"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/cOtKBi46CZ6samjqUrUYMFRGhARtWv0KvYs-2eOzGS0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM2/MDYtODQwMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/cOtKBi46CZ6samjqUrUYMFRGhARtWv0KvYs-2eOzGS0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM2/MDYtODQwMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/2fYMgdWnts0t4bhYfGPK77odPOMqS7nmlifROHO7piw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM2/MDYtODQwMy5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/iCn1tuGiB71T4mKn_24M0V8QHa9x8eUfxAI8N_-6pVw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM3/OTMtNTA0OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/iCn1tuGiB71T4mKn_24M0V8QHa9x8eUfxAI8N_-6pVw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM3/OTMtNTA0OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/tu8CHDIhdJ6ax2rO8RrvmSPRbaOfr9AZkHQGySitMwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM3/OTMtNTA0OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/7rYfdiAhkb6gm3AjBl9Ca4yeyh2iMS_miG3ExM1I2N8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM2/OTItNTA1My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/7rYfdiAhkb6gm3AjBl9Ca4yeyh2iMS_miG3ExM1I2N8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM2/OTItNTA1My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/n0fPf6VTjcvQN5RXatydpEc_zfGH21wrjnhzghv-w0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM2/OTItNTA1My5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/cmQZTxu0ook848RlbT91IWwWIARSGveDU6RvPKAoHDI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM1/OTUtODA5My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/cmQZTxu0ook848RlbT91IWwWIARSGveDU6RvPKAoHDI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM1/OTUtODA5My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/xTWwOMONVDFE_5zR2kQrva0cjnFl4TSLvYSS0nQv1dQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM1/OTUtODA5My5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/EztbgvSpWIb0dKJu1GKXqHV0861vxFLv_Hwlse0pT38/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM3/NTEtMzY0OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/EztbgvSpWIb0dKJu1GKXqHV0861vxFLv_Hwlse0pT38/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM3/NTEtMzY0OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/pHFAFUo2xNVvny319LUS-kDx-Esbp80jIYKoEqVw_fE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM3/NTEtMzY0OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/wnobMbjoEGhhYQyuFtUriGsGYwiB_W6SXrmv6rIjE-g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM3/MDYtNDMxMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/wnobMbjoEGhhYQyuFtUriGsGYwiB_W6SXrmv6rIjE-g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM3/MDYtNDMxMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/-ojRC51Aiy9N5Idpx6DdOKtoMI0OfxXZl3cGEDV2Cx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM3/MDYtNDMxMy5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/f9UNV2tDU4wGqQj7VQxEmAv8QhjE3UQ5uGeOOCKy78Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM3/MzItNzgxNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/f9UNV2tDU4wGqQj7VQxEmAv8QhjE3UQ5uGeOOCKy78Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM3/MzItNzgxNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/HE9q17FSbtTSL5sgue-RW5VJRXD34L8OdHdm-oPZ4Bs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM3/MzItNzgxNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/_IQjIHtfgBIkCT1E5xJphWroMcoVXr2kzOIMzlSvRY0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM3/MzYtNDc2OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/_IQjIHtfgBIkCT1E5xJphWroMcoVXr2kzOIMzlSvRY0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM3/MzYtNDc2OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/d7OipmdklIC7Yc5wS0-l3wNL0Kf0Y-TNhPATi05m9tw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM3/MzYtNDc2OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/_oSWBgkICv6R0pZCsw7T0ljuF7ioxPBKs3xboJYA2fc/rs:fit/g:sm/q:90/h:600/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM5/NDQtMjAyNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/_oSWBgkICv6R0pZCsw7T0ljuF7ioxPBKs3xboJYA2fc/rs:fit/g:sm/q:90/h:600/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM5/NDQtMjAyNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/K09a4yAOF_pffbrYLFrnbQZT1wCjfFBaPx_JJ9t6au4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM5/NDQtMjAyNy5qcGVn.jpeg",
+      "width": 300,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/X4NHnJK8D1OwyQbeMsdYBYqoks_hCZTyIEMLdp7i3A0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM4/NTYtODMzMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/X4NHnJK8D1OwyQbeMsdYBYqoks_hCZTyIEMLdp7i3A0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM4/NTYtODMzMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/5M7uWF2UJBHc6GU-cw2mOucM2khnqKT4gYGLUJRzJz8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM4/NTYtODMzMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/NjNP08CCTvUM17Q2Q-FGRT4eJ67VoWqY-LAPYxhHCaA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM4/NjktMTA1Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/NjNP08CCTvUM17Q2Q-FGRT4eJ67VoWqY-LAPYxhHCaA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM4/NjktMTA1Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/oKOWirs2dfr-ab_P1ObTzRqLqvnXyxCFQtXnHOfegrQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM4/NjktMTA1Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/mKNsgr-YTZCJ6YKTcZVq_NEdzoa7Ev4zUicoPmEbP1g/rs:fit/g:sm/q:90/h:600/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM5/NDgtMTgzNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/mKNsgr-YTZCJ6YKTcZVq_NEdzoa7Ev4zUicoPmEbP1g/rs:fit/g:sm/q:90/h:600/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM5/NDgtMTgzNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/e0PMuVTyrPPcbjdmzwU1HKI8HlkYoEFGfPN58UaZ7B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM5/NDgtMTgzNy5qcGVn.jpeg",
+      "width": 300,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/wjsngi0daSjxIY2FIxpX8c3bpM3kbmdlL18Wxg1vDFY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM4/ODktMzE5Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/wjsngi0daSjxIY2FIxpX8c3bpM3kbmdlL18Wxg1vDFY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM4/ODktMzE5Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Iz-Y8su47oD2nPetAPgEKE5XCVBV9XJaXcfC86LTpVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM4/ODktMzE5Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/56ZVgOJD6FaMHCWypWIPpypLH3m1CWXMJgJsBVpnjQE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM4/ODgtMjc0My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/56ZVgOJD6FaMHCWypWIPpypLH3m1CWXMJgJsBVpnjQE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM4/ODgtMjc0My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/0Rr39l9r-jILU0eBfnUgTz-vaipXnLuZw2TToantDWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM4/ODgtMjc0My5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/D3nkI4Ag-Nd_ebtqASpGeV0JBB2XDzLdg0G15vTeMZ8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM4/MTgtNzA1Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/D3nkI4Ag-Nd_ebtqASpGeV0JBB2XDzLdg0G15vTeMZ8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM4/MTgtNzA1Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/klTdlCKex0xfJiVPJLdRqNEBRq-f_66YaIzEuo7AR80/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM4/MTgtNzA1Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/F2j4yk3e2IwjpNvhITr1PR-dX6oynMUA5Eh6sFXeq8Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM2/NjktMTg2Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/F2j4yk3e2IwjpNvhITr1PR-dX6oynMUA5Eh6sFXeq8Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM2/NjktMTg2Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/g6L79fBwgY2c_l494Fb6rcPyiJEyIruc-tT3ISsOqg4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM2/NjktMTg2Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/YD0uCxIOlR0FKFK03eIWzgB14HX6vRcbRpOuOTSQrFA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM2/OTctODQ5MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/YD0uCxIOlR0FKFK03eIWzgB14HX6vRcbRpOuOTSQrFA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM2/OTctODQ5MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Avt9puVNypAFMt2GM-uqpVYLpMMjkCJlFKRSM0HbBBA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM2/OTctODQ5MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/LT6vDj5MDBhHGTaPv-B-AcR6v1udhJCHFlRtXdTZqDo/rs:fit/g:sm/q:90/h:441/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1Nzk2NTQ4/MjUtNjkzNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/LT6vDj5MDBhHGTaPv-B-AcR6v1udhJCHFlRtXdTZqDo/rs:fit/g:sm/q:90/h:441/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1Nzk2NTQ4/MjUtNjkzNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/PZ8UjeaHENR8waqY0Cah2a8GQylATCwXdjfRZ2ato1Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1Nzk2NTQ4/MjUtNjkzNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 441
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/pl5tOjWmgSFDJkab_iulO1zCKKYMkJ0_xM-mKRJjOVE/rs:fit/g:sm/q:90/h:600/w:495/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1Nzk2NTQ4/MjctMTk1OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/pl5tOjWmgSFDJkab_iulO1zCKKYMkJ0_xM-mKRJjOVE/rs:fit/g:sm/q:90/h:600/w:495/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1Nzk2NTQ4/MjctMTk1OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/_Z1LENyRFOL8qRd-h_QpMKqpgt1Ikwy-2YcIA1f0L0M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1Nzk2NTQ4/MjctMTk1OC5qcGVn.jpeg",
+      "width": 495,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/li894HAX99P-FgYeWhF3T1FjDjMM82KjVgBq9J9cTGw/rs:fit/g:sm/q:90/h:600/w:493/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE2MTA4NDk2/NzctMTQ3Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/li894HAX99P-FgYeWhF3T1FjDjMM82KjVgBq9J9cTGw/rs:fit/g:sm/q:90/h:600/w:493/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE2MTA4NDk2/NzctMTQ3Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/BVqqgzu7gRF6KolHrRrxQWjs6lsgqX8E6BMee5r-wL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE2MTA4NDk2/NzctMTQ3Ny5qcGVn.jpeg",
+      "width": 493,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/2fYMgdWnts0t4bhYfGPK77odPOMqS7nmlifROHO7piw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NTM4/OTUyLTE1ODAzODM2/MDYtODQwMy5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

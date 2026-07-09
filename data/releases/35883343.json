@@ -1,0 +1,320 @@
+{
+  "id": 35883343,
+  "status": "Accepted",
+  "year": 2025,
+  "resource_url": "https://api.discogs.com/releases/35883343",
+  "uri": "https://www.discogs.com/release/35883343-Troye-Sivan-In-A-Dream",
+  "artists": [
+    {
+      "name": "Troye Sivan",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 4402206,
+      "resource_url": "https://api.discogs.com/artists/4402206",
+      "thumbnail_url": "https://i.discogs.com/ry2L80Bu5ttiAaE_-yVxupp9gr3tg3ZwZsT8g64a9Uk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ0MDIy/MDYtMTc3NTMyNjI1/NC02NDIxLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Troye Sivan",
+  "labels": [
+    {
+      "name": "Capitol Records",
+      "catno": "DR3AM04",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 654,
+      "resource_url": "https://api.discogs.com/labels/654",
+      "thumbnail_url": "https://i.discogs.com/jOm50Ncnop3VOhKg0rYbdvq7epxn5mnXdOWfVQNjOBg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY1NC0x/NzgxODU0Mzk3LTU2/MzcuanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Universal Music Australia Pty Ltd",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 241987,
+      "resource_url": "https://api.discogs.com/labels/241987",
+      "thumbnail_url": "https://i.discogs.com/eKWa-6f1ntxS_i-urtKgNseoc2sW0_WQUKMuv7Dl0Kg/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI0MTk4/Ny0xNzY4OTkzNzYw/LTgyNjEuanBlZw.jpeg"
+    },
+    {
+      "name": "Universal Music Australia Pty Ltd",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 241987,
+      "resource_url": "https://api.discogs.com/labels/241987",
+      "thumbnail_url": "https://i.discogs.com/eKWa-6f1ntxS_i-urtKgNseoc2sW0_WQUKMuv7Dl0Kg/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI0MTk4/Ny0xNzY4OTkzNzYw/LTgyNjEuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "EP",
+        "Limited Edition",
+        "Reissue",
+        "Stereo"
+      ],
+      "text": "180 Gram, Blue And Red Swirl"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 593,
+    "want": 49,
+    "rating": {
+      "count": 68,
+      "average": 4.75
+    },
+    "submitter": {
+      "username": "SP_Vinyl",
+      "resource_url": "https://api.discogs.com/users/SP_Vinyl"
+    },
+    "contributors": [
+      {
+        "username": "SP_Vinyl",
+        "resource_url": "https://api.discogs.com/users/SP_Vinyl"
+      },
+      {
+        "username": "myvinyldiscography",
+        "resource_url": "https://api.discogs.com/users/myvinyldiscography"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2025-12-09T10:06:09-08:00",
+  "date_changed": "2025-12-09T12:18:10-08:00",
+  "num_for_sale": 16,
+  "lowest_price": 18.5,
+  "master_id": 1791846,
+  "master_url": "https://api.discogs.com/masters/1791846",
+  "title": "In A Dream",
+  "country": "US",
+  "released": "2025-12-05",
+  "notes": "Available on the label & artist's webstore for the EP's 5th anniversary.\n\nThe final three songs are hidden tracks which are not listed anywhere on the release.\n\n\"MADE IN CANADA\" stamped on rear shrinkwrap.\n\nNot to be confused with the [url=https://www.discogs.com/release/35848132]EU release[/url], which has different copyright text & manufacturer.",
+  "released_formatted": "05 Dec 2025",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02478 80828 9",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "602478808289",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "DR3AM04-A",
+      "description": "Side A label"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "DR3AM04-B",
+      "description": "Side B label"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=LniYWYmNXiM",
+      "title": "Troye Sivan - Take Yourself Home (Lyric Video)",
+      "description": "Stream Troye’s Music: https://troyesivan.lnk.to/Complete\nWatch Troye’s Official Music Videos: https://www.youtube.com/playlist?list=PLCruzMXby65nwW7AcuE8Zh84ZPrEdTFDv\n\n“Take Yourself Home” available now: https://TroyeSivan.lnk.to/TakeYourselfHome\n‘In A Dr",
+      "duration": 251,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=bCHqIhiFmEY",
+      "title": "Troye Sivan - Easy",
+      "description": "Stream Troye’s Music: https://troyesivan.lnk.to/Complete\nWatch Troye’s Official Music Videos: https://www.youtube.com/playlist?list=PLCruzMXby65nwW7AcuE8Zh84ZPrEdTFDv\n\nFollow me!\nhttps://troyesivan.com\nhttps://twitter.com/troyesivan\nhttps://youtube.com/us",
+      "duration": 229,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=tcnKG9-ANuU",
+      "title": "Troye Sivan - could cry just thinkin about you (Visualiser)",
+      "description": "‘In A Dream’ EP: https://TroyeSivan.lnk.to/InADream\n\nFollow me!\nhttp://www.troyesivan.com\nhttp://www.twitter.com/troyesivan\nhttps://youtube.com/user/TroyeSivan18?sub_confirmation=1\nhttp://www.instagram.com/troyesivan\nhttp://www.facebook.com/troyesivan\nhtt",
+      "duration": 54,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=83sVDIeEroI",
+      "title": "Troye Sivan - STUD (Visualiser)",
+      "description": "Stream Troye’s Music: https://troyesivan.lnk.to/Complete\nWatch Troye’s Official Music Videos: https://www.youtube.com/playlist?list=PLCruzMXby65nwW7AcuE8Zh84ZPrEdTFDv\n\n‘In A Dream’ EP: https://TroyeSivan.lnk.to/InADream\n\nFollow me!\nhttp://www.troyesivan.c",
+      "duration": 212,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=7T0nvZ-O98g",
+      "title": "Troye Sivan - 10/10 (Official Audio)",
+      "description": "‘In A Dream’ EP: https://TroyeSivan.lnk.to/InADream\n\nFollow me!\nhttps://www.troyesivan.com\nhttps://twitter.com/troyesivan\nhttps://youtube.com/user/TroyeSivan18?sub_confirmation=1\nhttps://instagram.com/troyesivan\nhttps://facebook.com/troyesivan\nhttps://tik",
+      "duration": 188,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=H1pGPgQPAG8",
+      "title": "Troye Sivan - Rager teenager!",
+      "description": "Stream Troye’s Music: https://troyesivan.lnk.to/Complete\nWatch Troye’s Official Music Videos: https://www.youtube.com/playlist?list=PLCruzMXby65nwW7AcuE8Zh84ZPrEdTFDv\n\n“Rager teenager!” available now: https://TroyeSivan.lnk.to/Ragerteenager!\n‘In A Dream’ ",
+      "duration": 211,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=7cHHnj3xWnw",
+      "title": "Troye Sivan - IN A DREAM (Official Audio)",
+      "description": "Stream Troye’s Music: https://troyesivan.lnk.to/Complete\nWatch Troye’s Official Music Videos: https://www.youtube.com/playlist?list=PLCruzMXby65nwW7AcuE8Zh84ZPrEdTFDv\n\n‘In A Dream’ EP: https://TroyeSivan.lnk.to/InADream\n\nFollow me!\nhttp://www.troyesivan.c",
+      "duration": 232,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Pop"
+  ],
+  "styles": [],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Take Yourself Home",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Easy",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Could Cry Just Thinkin About You",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Stud",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "10/10",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Rager Teenager!",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "In A Dream",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Easy (Voice Memo)",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Rager Teenager! (Voice Memo)",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "In A Dream (Voice Memo)",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/RktEmryOipEbg5nGevgIbWeSfFAz81oGYhQwdvSxXVc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTQtOTU3My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/RktEmryOipEbg5nGevgIbWeSfFAz81oGYhQwdvSxXVc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTQtOTU3My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/16BVMWogST6PFDpvFw2TotCljtuw2-3VdnXINajt99I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTQtOTU3My5qcGVn.jpeg",
+      "width": 600,
+      "height": 591
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/RXjTGh7S_AMbo4GKMtfxkKWPzqAEl7UvlQDAzCzd2zs/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTQtMTE3Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/RXjTGh7S_AMbo4GKMtfxkKWPzqAEl7UvlQDAzCzd2zs/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTQtMTE3Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/LaFSm0omx3nH_C7cn_a-DIv0Lu4N0H3m-t0rLTW3tk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTQtMTE3Ny5qcGVn.jpeg",
+      "width": 598,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/3F-oPTGXDCFPELMvaLFzJF8nOEFTcHrdWqtoKHlDMHY/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTQtNDE5Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/3F-oPTGXDCFPELMvaLFzJF8nOEFTcHrdWqtoKHlDMHY/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTQtNDE5Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/el28cZ14vkCNjk0zvyU3_s4ym6YV0z4rwo4NnZK6k-0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTQtNDE5Ni5qcGVn.jpeg",
+      "width": 595,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/M4pPQNc6p3paVUjMIFgYXHERzgiSqL1vlSr3I8bUVfg/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTUtNjMxMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/M4pPQNc6p3paVUjMIFgYXHERzgiSqL1vlSr3I8bUVfg/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTUtNjMxMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/mD-Tkoe0VCIyMvgM6tXsgerNziqtFDc3HhSXh7GzrRc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTUtNjMxMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/6_mX_YMaodDrJsYPPIk2Mc1MsjQec5WuIoGBM2jnPwY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTUtMjM5MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/6_mX_YMaodDrJsYPPIk2Mc1MsjQec5WuIoGBM2jnPwY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTUtMjM5MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/jSzP9vTUdya9MiUydBgYLPWcWlk8JO9VhWiH4A--kSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTUtMjM5MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/zqf9xSfvUbeGDo4pYueZEDnwalSBdIrJsY90bsCn7o4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTUtOTkxMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/zqf9xSfvUbeGDo4pYueZEDnwalSBdIrJsY90bsCn7o4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTUtOTkxMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/iONHXngwp9rsA0j0yK5g4rIfwtVCbOLYi1b6jAX0ZPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTUtOTkxMC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/olC6jaOgzHRJ-RnVTqoHgJokNqTQFmSt0KIyh8KoIJE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTUtMjYzOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/olC6jaOgzHRJ-RnVTqoHgJokNqTQFmSt0KIyh8KoIJE/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTUtMjYzOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/YWe5R9qK9yg7L1LAfKmqzBuWc2tvQXuLBVD5ZbRhl8c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTUtMjYzOC5qcGVn.jpeg",
+      "width": 600,
+      "height": 593
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/VmxNCeCQw-1-TpxqTIygyTsZvfSeohol15cSQwgbIko/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTUtNDMwMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/VmxNCeCQw-1-TpxqTIygyTsZvfSeohol15cSQwgbIko/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTUtNDMwMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/28XSZ65s-dQnDmwXizZm3-xcrZ_plNqWclGJn-sFDW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTUtNDMwMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/dC3ecavXV1jJz1MLjWU5V-CPZaPT-5z5alVkxyUhsuY/rs:fit/g:sm/q:90/h:338/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTQtOTIyMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/dC3ecavXV1jJz1MLjWU5V-CPZaPT-5z5alVkxyUhsuY/rs:fit/g:sm/q:90/h:338/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTQtOTIyMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/GMEsVUpxTkux-7aLD1djdfOa4Lt-sxkGqTG_ECmPp7Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTQtOTIyMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 338
+    }
+  ],
+  "thumb": "https://i.discogs.com/16BVMWogST6PFDpvFw2TotCljtuw2-3VdnXINajt99I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1ODgz/MzQzLTE3NjUzMDQ1/OTQtOTU3My5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

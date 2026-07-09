@@ -1,0 +1,2259 @@
+{
+  "id": 10084292,
+  "status": "Accepted",
+  "year": 2017,
+  "resource_url": "https://api.discogs.com/releases/10084292",
+  "uri": "https://www.discogs.com/release/10084292-Rihanna-Talk-That-Talk",
+  "artists": [
+    {
+      "name": "Rihanna",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 321128,
+      "resource_url": "https://api.discogs.com/artists/321128",
+      "thumbnail_url": "https://i.discogs.com/TCuNTls49Gi4KG2y5-ZmMLOkiEHeX29kpHW7_vWJ1MM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMyMTEy/OC0xNzYwNDgxNzY0/LTYyNjguanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Rihanna",
+  "labels": [
+    {
+      "name": "Def Jam Recordings",
+      "catno": "00602557079845",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 4241,
+      "resource_url": "https://api.discogs.com/labels/4241",
+      "thumbnail_url": "https://i.discogs.com/zueTHMMGjUzQWjoHJgHWCKAjf4hiKsUjdiYuj4mXCbs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQyNDEt/MTYwNDY3ODAzMi0y/NzA3LnBuZw.jpeg"
+    },
+    {
+      "name": "SRP Records",
+      "catno": "00602557079845",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 118632,
+      "resource_url": "https://api.discogs.com/labels/118632",
+      "thumbnail_url": "https://i.discogs.com/eth1VkpR4a1mbQb0HuJb9sGGd-rP0Mvy77-PooQHv-A/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExODYz/Mi0xNTAzNDE1NDM3/LTE5MTkucG5n.jpeg"
+    },
+    {
+      "name": "Universal Music Group International",
+      "catno": "00602557079845",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 138199,
+      "resource_url": "https://api.discogs.com/labels/138199",
+      "thumbnail_url": "https://i.discogs.com/lSH1OPzDIQXxluBPhUbFGdZ2INrs_fcTUpVb_4787n0/rs:fit/g:sm/q:90/h:99/w:190/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzODE5/OS0xMjk5NzUzNzc4/LmpwZWc.jpeg"
+    }
+  ],
+  "series": [
+    {
+      "name": "Back To Black",
+      "catno": "",
+      "entity_type": "2",
+      "entity_type_name": "Series",
+      "id": 197898,
+      "resource_url": "https://api.discogs.com/labels/197898",
+      "thumbnail_url": "https://i.discogs.com/bwl2nhOP2f9J1ccLD43yAkhyYf0FolrFthwyzbORKTU/rs:fit/g:sm/q:90/h:184/w:266/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5Nzg5/OC0xNDAwMzczNjYy/LTUyMTUucG5n.jpeg"
+    }
+  ],
+  "companies": [
+    {
+      "name": "Def Jam Recordings",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 4241,
+      "resource_url": "https://api.discogs.com/labels/4241",
+      "thumbnail_url": "https://i.discogs.com/zueTHMMGjUzQWjoHJgHWCKAjf4hiKsUjdiYuj4mXCbs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQyNDEt/MTYwNDY3ODAzMi0y/NzA3LnBuZw.jpeg"
+    },
+    {
+      "name": "Def Jam Recordings",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 4241,
+      "resource_url": "https://api.discogs.com/labels/4241",
+      "thumbnail_url": "https://i.discogs.com/zueTHMMGjUzQWjoHJgHWCKAjf4hiKsUjdiYuj4mXCbs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQyNDEt/MTYwNDY3ODAzMi0y/NzA3LnBuZw.jpeg"
+    },
+    {
+      "name": "GZ Media",
+      "catno": "148909E",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "text": "180 Gram"
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 1254,
+    "want": 548,
+    "rating": {
+      "count": 102,
+      "average": 4.5
+    },
+    "submitter": {
+      "username": "globalgroove.co.uk",
+      "resource_url": "https://api.discogs.com/users/globalgroove.co.uk"
+    },
+    "contributors": [
+      {
+        "username": "globalgroove.co.uk",
+        "resource_url": "https://api.discogs.com/users/globalgroove.co.uk"
+      },
+      {
+        "username": "littleislander",
+        "resource_url": "https://api.discogs.com/users/littleislander"
+      },
+      {
+        "username": "dfdrasberries",
+        "resource_url": "https://api.discogs.com/users/dfdrasberries"
+      },
+      {
+        "username": "test-rock",
+        "resource_url": "https://api.discogs.com/users/test-rock"
+      },
+      {
+        "username": "SeagullVinyl",
+        "resource_url": "https://api.discogs.com/users/SeagullVinyl"
+      },
+      {
+        "username": "vinylfriend60",
+        "resource_url": "https://api.discogs.com/users/vinylfriend60"
+      },
+      {
+        "username": "Thao8382",
+        "resource_url": "https://api.discogs.com/users/Thao8382"
+      },
+      {
+        "username": "jweijde",
+        "resource_url": "https://api.discogs.com/users/jweijde"
+      },
+      {
+        "username": "glennas94",
+        "resource_url": "https://api.discogs.com/users/glennas94"
+      },
+      {
+        "username": "Boogie_Brother",
+        "resource_url": "https://api.discogs.com/users/Boogie_Brother"
+      },
+      {
+        "username": "TReimer",
+        "resource_url": "https://api.discogs.com/users/TReimer"
+      },
+      {
+        "username": "Britney-Spears",
+        "resource_url": "https://api.discogs.com/users/Britney-Spears"
+      },
+      {
+        "username": "CheeseHelmet",
+        "resource_url": "https://api.discogs.com/users/CheeseHelmet"
+      },
+      {
+        "username": "mort2578",
+        "resource_url": "https://api.discogs.com/users/mort2578"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2017-04-04T09:30:23-07:00",
+  "date_changed": "2025-12-13T13:48:50-08:00",
+  "num_for_sale": 29,
+  "lowest_price": 29.98,
+  "master_id": 386672,
+  "master_url": "https://api.discogs.com/masters/386672",
+  "title": "Talk That Talk",
+  "country": "Europe",
+  "released": "2017-04-00",
+  "notes": "℗ 2011 © 2016 Def Jam Recordings.\nGatefold sleeve.\nInsert with credits and notes.\nIncludes MP3 download card.",
+  "released_formatted": "Apr 2017",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02557 07984 5",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "602557079845",
+      "description": "Scanned"
+    },
+    {
+      "type": "Label Code",
+      "value": "LC 01846"
+    },
+    {
+      "type": "Rights Society",
+      "value": "BIEM/SDRM"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "5707984-A 148909E1/A",
+      "description": "Side A runout, stamped"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "5707984-B 148909E2/A",
+      "description": "Side B runout, stamped"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=7WvnX8q0DpM",
+      "title": "Rihanna - Talk That Talk (Album)",
+      "description": "",
+      "duration": 0,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Hip Hop",
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Electro House",
+    "Contemporary R&B"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "You Da One",
+      "extraartists": [
+        {
+          "name": "Irene Richter",
+          "anv": "",
+          "join": "",
+          "role": "Coordinator [Production]",
+          "tracks": "",
+          "id": 1977730,
+          "resource_url": "https://api.discogs.com/artists/1977730"
+        },
+        {
+          "name": "Katie Mitzell",
+          "anv": "",
+          "join": "",
+          "role": "Coordinator [Production]",
+          "tracks": "",
+          "id": 2501497,
+          "resource_url": "https://api.discogs.com/artists/2501497"
+        },
+        {
+          "name": "Aubry Delaine",
+          "anv": "Aubry “Big Juice” Delaine",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 1536417,
+          "resource_url": "https://api.discogs.com/artists/1536417"
+        },
+        {
+          "name": "Clint Gibbs",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 2174475,
+          "resource_url": "https://api.discogs.com/artists/2174475"
+        },
+        {
+          "name": "Chris Sclafani",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 2501505,
+          "resource_url": "https://api.discogs.com/artists/2501505"
+        },
+        {
+          "name": "Jon Sher",
+          "anv": "Jonathan Sher",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 2694300,
+          "resource_url": "https://api.discogs.com/artists/2694300"
+        },
+        {
+          "name": "Phil Seaford",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Mix | Assistant]",
+          "tracks": "",
+          "id": 2352235,
+          "resource_url": "https://api.discogs.com/artists/2352235"
+        },
+        {
+          "name": "John Hanes",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Mix]",
+          "tracks": "",
+          "id": 210636,
+          "resource_url": "https://api.discogs.com/artists/210636"
+        },
+        {
+          "name": "DJ Cirkut",
+          "anv": "Cirkut",
+          "join": "",
+          "role": "Instruments, Programmed By",
+          "tracks": "",
+          "id": 1918834,
+          "resource_url": "https://api.discogs.com/artists/1918834"
+        },
+        {
+          "name": "Dr. Luke",
+          "anv": "",
+          "join": "",
+          "role": "Instruments, Programmed By",
+          "tracks": "",
+          "id": 28400,
+          "resource_url": "https://api.discogs.com/artists/28400"
+        },
+        {
+          "name": "John Hill (14)",
+          "anv": "",
+          "join": "",
+          "role": "Instruments, Programmed By",
+          "tracks": "",
+          "id": 1320635,
+          "resource_url": "https://api.discogs.com/artists/1320635"
+        },
+        {
+          "name": "Serban Ghenea",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 105435,
+          "resource_url": "https://api.discogs.com/artists/105435"
+        },
+        {
+          "name": "DJ Cirkut",
+          "anv": "Cirkut",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1918834,
+          "resource_url": "https://api.discogs.com/artists/1918834"
+        },
+        {
+          "name": "Dr. Luke",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 28400,
+          "resource_url": "https://api.discogs.com/artists/28400"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Alejandro Barajas",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals | Assistant]",
+          "tracks": "",
+          "id": 2490813,
+          "resource_url": "https://api.discogs.com/artists/2490813"
+        },
+        {
+          "name": "Jennifer Rosales",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals | Assistant]",
+          "tracks": "",
+          "id": 2501502,
+          "resource_url": "https://api.discogs.com/artists/2501502"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Marcos Tovar",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "Ester Dean",
+          "anv": "E. Dean",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1550260,
+          "resource_url": "https://api.discogs.com/artists/1550260"
+        },
+        {
+          "name": "Henry Walter",
+          "anv": "H. Walter",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 487933,
+          "resource_url": "https://api.discogs.com/artists/487933"
+        },
+        {
+          "name": "John Hill (14)",
+          "anv": "J. Hill",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1320635,
+          "resource_url": "https://api.discogs.com/artists/1320635"
+        },
+        {
+          "name": "Lukasz Gottwald",
+          "anv": "L. Gottwald",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 515687,
+          "resource_url": "https://api.discogs.com/artists/515687"
+        },
+        {
+          "name": "Robyn Fenty",
+          "anv": "R. Fenty",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1986565,
+          "resource_url": "https://api.discogs.com/artists/1986565"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Where Have You Been",
+      "extraartists": [
+        {
+          "name": "Irene Richter",
+          "anv": "",
+          "join": "",
+          "role": "Coordinator [Production]",
+          "tracks": "",
+          "id": 1977730,
+          "resource_url": "https://api.discogs.com/artists/1977730"
+        },
+        {
+          "name": "Katie Mitzell",
+          "anv": "",
+          "join": "",
+          "role": "Coordinator [Production]",
+          "tracks": "",
+          "id": 2501497,
+          "resource_url": "https://api.discogs.com/artists/2501497"
+        },
+        {
+          "name": "Aubry Delaine",
+          "anv": "Aubry “Big Juice” Delaine",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 1536417,
+          "resource_url": "https://api.discogs.com/artists/1536417"
+        },
+        {
+          "name": "Clint Gibbs",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 2174475,
+          "resource_url": "https://api.discogs.com/artists/2174475"
+        },
+        {
+          "name": "Chris Sclafani",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 2501505,
+          "resource_url": "https://api.discogs.com/artists/2501505"
+        },
+        {
+          "name": "Jon Sher",
+          "anv": "Jonathan Sher",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 2694300,
+          "resource_url": "https://api.discogs.com/artists/2694300"
+        },
+        {
+          "name": "Phil Seaford",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Mix | Assistant]",
+          "tracks": "",
+          "id": 2352235,
+          "resource_url": "https://api.discogs.com/artists/2352235"
+        },
+        {
+          "name": "John Hanes",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Mix]",
+          "tracks": "",
+          "id": 210636,
+          "resource_url": "https://api.discogs.com/artists/210636"
+        },
+        {
+          "name": "Serban Ghenea",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 105435,
+          "resource_url": "https://api.discogs.com/artists/105435"
+        },
+        {
+          "name": "Calvin Harris",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 222578,
+          "resource_url": "https://api.discogs.com/artists/222578"
+        },
+        {
+          "name": "DJ Cirkut",
+          "anv": "Cirkut",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1918834,
+          "resource_url": "https://api.discogs.com/artists/1918834"
+        },
+        {
+          "name": "Dr. Luke",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 28400,
+          "resource_url": "https://api.discogs.com/artists/28400"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Calvin Harris",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 222578,
+          "resource_url": "https://api.discogs.com/artists/222578"
+        },
+        {
+          "name": "Jennifer Rosales",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals | Assistant]",
+          "tracks": "",
+          "id": 2501502,
+          "resource_url": "https://api.discogs.com/artists/2501502"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Marcos Tovar",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "Calvin Harris",
+          "anv": "C. Harris",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 222578,
+          "resource_url": "https://api.discogs.com/artists/222578"
+        },
+        {
+          "name": "Ester Dean",
+          "anv": "E. Dean",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1550260,
+          "resource_url": "https://api.discogs.com/artists/1550260"
+        },
+        {
+          "name": "Geoff Mack",
+          "anv": "G. Mack",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 657079,
+          "resource_url": "https://api.discogs.com/artists/657079"
+        },
+        {
+          "name": "Henry Walter",
+          "anv": "H. Walter",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 487933,
+          "resource_url": "https://api.discogs.com/artists/487933"
+        },
+        {
+          "name": "Lukasz Gottwald",
+          "anv": "L. Gottwald",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 515687,
+          "resource_url": "https://api.discogs.com/artists/515687"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "We Found Love",
+      "extraartists": [
+        {
+          "name": "Calvin Harris",
+          "anv": "",
+          "join": "",
+          "role": "Featuring, Producer, Recorded By, Instruments",
+          "tracks": "",
+          "id": 222578,
+          "resource_url": "https://api.discogs.com/artists/222578"
+        },
+        {
+          "name": "Calvin Harris",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 222578,
+          "resource_url": "https://api.discogs.com/artists/222578"
+        },
+        {
+          "name": "Phil Tan",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 94953,
+          "resource_url": "https://api.discogs.com/artists/94953"
+        },
+        {
+          "name": "Damien Lewis",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assistant]",
+          "tracks": "",
+          "id": 1623892,
+          "resource_url": "https://api.discogs.com/artists/1623892"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Alejandro Barajas",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals | Assistant]",
+          "tracks": "",
+          "id": 2490813,
+          "resource_url": "https://api.discogs.com/artists/2490813"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Marcos Tovar",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "Calvin Harris",
+          "anv": "C. Harris",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 222578,
+          "resource_url": "https://api.discogs.com/artists/222578"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Talk That Talk",
+      "extraartists": [
+        {
+          "name": "Daniella Rivera",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additional And Assistant]",
+          "tracks": "",
+          "id": 2501496,
+          "resource_url": "https://api.discogs.com/artists/2501496"
+        },
+        {
+          "name": "Danny D.",
+          "anv": "",
+          "join": "",
+          "role": "Executive Producer",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        },
+        {
+          "name": "Tim Blacksmith",
+          "anv": "",
+          "join": "",
+          "role": "Executive Producer",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        },
+        {
+          "name": "Jay-Z",
+          "anv": "Jay Z",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 21742,
+          "resource_url": "https://api.discogs.com/artists/21742"
+        },
+        {
+          "name": "Mikkel S. Eriksen",
+          "anv": "",
+          "join": "",
+          "role": "Instruments",
+          "tracks": "",
+          "id": 88563,
+          "resource_url": "https://api.discogs.com/artists/88563"
+        },
+        {
+          "name": "Tor Erik Hermansen",
+          "anv": "",
+          "join": "",
+          "role": "Instruments",
+          "tracks": "",
+          "id": 390381,
+          "resource_url": "https://api.discogs.com/artists/390381"
+        },
+        {
+          "name": "Phil Tan",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 94953,
+          "resource_url": "https://api.discogs.com/artists/94953"
+        },
+        {
+          "name": "StarGate (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 79704,
+          "resource_url": "https://api.discogs.com/artists/79704"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Rihanna Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Mike Anderson (11)",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 2501498,
+          "resource_url": "https://api.discogs.com/artists/2501498"
+        },
+        {
+          "name": "Mikkel S. Eriksen",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 88563,
+          "resource_url": "https://api.discogs.com/artists/88563"
+        },
+        {
+          "name": "Miles Walker",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 1279366,
+          "resource_url": "https://api.discogs.com/artists/1279366"
+        },
+        {
+          "name": "Dan Tobiason",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Jay Z Vocals Assistant]",
+          "tracks": "",
+          "id": 597681,
+          "resource_url": "https://api.discogs.com/artists/597681"
+        },
+        {
+          "name": "Jordan Young",
+          "anv": "Jordan \"DJ Swivel\" Young",
+          "join": "",
+          "role": "Recorded By [Jay Z Vocals]",
+          "tracks": "",
+          "id": 963011,
+          "resource_url": "https://api.discogs.com/artists/963011"
+        },
+        {
+          "name": "Jennifer Rosales",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Rihanna Vocals | Assistant]",
+          "tracks": "",
+          "id": 2501502,
+          "resource_url": "https://api.discogs.com/artists/2501502"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Rihanna Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Marcos Tovar",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Rihanna Vocals]",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "Anthony Best",
+          "anv": "A. Best",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 671363,
+          "resource_url": "https://api.discogs.com/artists/671363"
+        },
+        {
+          "name": "Christopher Wallace",
+          "anv": "C. Wallace",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 643218,
+          "resource_url": "https://api.discogs.com/artists/643218"
+        },
+        {
+          "name": "Chucky Thompson",
+          "anv": "C. Thompson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 95051,
+          "resource_url": "https://api.discogs.com/artists/95051"
+        },
+        {
+          "name": "Ester Dean",
+          "anv": "E. Dean",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1550260,
+          "resource_url": "https://api.discogs.com/artists/1550260"
+        },
+        {
+          "name": "Mikkel S. Eriksen",
+          "anv": "M. S. Eriksen",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 88563,
+          "resource_url": "https://api.discogs.com/artists/88563"
+        },
+        {
+          "name": "Sean Combs",
+          "anv": "S. Combs",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 173538,
+          "resource_url": "https://api.discogs.com/artists/173538"
+        },
+        {
+          "name": "Shawn Carter",
+          "anv": "S. Carter",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 447899,
+          "resource_url": "https://api.discogs.com/artists/447899"
+        },
+        {
+          "name": "Tor Erik Hermansen",
+          "anv": "T. E. Hermansen",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 390381,
+          "resource_url": "https://api.discogs.com/artists/390381"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Cockiness (Love It)",
+      "extraartists": [
+        {
+          "name": "Ghazi Hourani",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Mix]",
+          "tracks": "",
+          "id": 1389799,
+          "resource_url": "https://api.discogs.com/artists/1389799"
+        },
+        {
+          "name": "Fabian Marasciullo",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 246078,
+          "resource_url": "https://api.discogs.com/artists/246078"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Shondrae Crawford",
+          "anv": "Shondrae \"Mr. Bangladesh\" Crawford",
+          "join": "",
+          "role": "Producer, Instruments, Programmed By",
+          "tracks": "",
+          "id": 2126027,
+          "resource_url": "https://api.discogs.com/artists/2126027"
+        },
+        {
+          "name": "Jennifer Rosales",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals | Assistant]",
+          "tracks": "",
+          "id": 2501502,
+          "resource_url": "https://api.discogs.com/artists/2501502"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Marcos Tovar",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "Candice Pillay",
+          "anv": "C. Pillay",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2501503,
+          "resource_url": "https://api.discogs.com/artists/2501503"
+        },
+        {
+          "name": "Dwayne Abernathy",
+          "anv": "D. Loernathy",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2961829,
+          "resource_url": "https://api.discogs.com/artists/2961829"
+        },
+        {
+          "name": "Robyn Fenty",
+          "anv": "R. Fenty",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1986565,
+          "resource_url": "https://api.discogs.com/artists/1986565"
+        },
+        {
+          "name": "Shondrae Crawford",
+          "anv": "S. Crawford",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2126027,
+          "resource_url": "https://api.discogs.com/artists/2126027"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Birthday Cake",
+      "extraartists": [
+        {
+          "name": "Terius Nash",
+          "anv": "Terius \"The-Dream\" Nash",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 1074646,
+          "resource_url": "https://api.discogs.com/artists/1074646"
+        },
+        {
+          "name": "Calvin Bailiff",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Mix]",
+          "tracks": "",
+          "id": 1239831,
+          "resource_url": "https://api.discogs.com/artists/1239831"
+        },
+        {
+          "name": "Kevin Davis",
+          "anv": "Kevin KD Davis",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 79706,
+          "resource_url": "https://api.discogs.com/artists/79706"
+        },
+        {
+          "name": "Da Internz",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1516758,
+          "resource_url": "https://api.discogs.com/artists/1516758"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Jennifer Rosales",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals | Assistant]",
+          "tracks": "",
+          "id": 2501502,
+          "resource_url": "https://api.discogs.com/artists/2501502"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Marcos Tovar",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "Ernest Clark",
+          "anv": "E. Clark",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1838058,
+          "resource_url": "https://api.discogs.com/artists/1838058"
+        },
+        {
+          "name": "Marcos Palacios",
+          "anv": "M. Palacios",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1516754,
+          "resource_url": "https://api.discogs.com/artists/1516754"
+        },
+        {
+          "name": "Robyn Fenty",
+          "anv": "R. Fenty",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1986565,
+          "resource_url": "https://api.discogs.com/artists/1986565"
+        },
+        {
+          "name": "Terius Nash",
+          "anv": "T. Nash",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1074646,
+          "resource_url": "https://api.discogs.com/artists/1074646"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "We All Want Love",
+      "extraartists": [
+        {
+          "name": "Steve Wyreman",
+          "anv": "",
+          "join": "",
+          "role": "Bass, Guitar",
+          "tracks": "",
+          "id": 709061,
+          "resource_url": "https://api.discogs.com/artists/709061"
+        },
+        {
+          "name": "Kevin Randolph",
+          "anv": "",
+          "join": "",
+          "role": "Keyboards",
+          "tracks": "",
+          "id": 203565,
+          "resource_url": "https://api.discogs.com/artists/203565"
+        },
+        {
+          "name": "Manny Marroquin",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 67636,
+          "resource_url": "https://api.discogs.com/artists/67636"
+        },
+        {
+          "name": "Chris Galland",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assistant]",
+          "tracks": "",
+          "id": 1608079,
+          "resource_url": "https://api.discogs.com/artists/1608079"
+        },
+        {
+          "name": "Erik Madrid",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assistant]",
+          "tracks": "",
+          "id": 1280303,
+          "resource_url": "https://api.discogs.com/artists/1280303"
+        },
+        {
+          "name": "No I.D.",
+          "anv": "NO ID",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 108618,
+          "resource_url": "https://api.discogs.com/artists/108618"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Aubry Delaine",
+          "anv": "Aubrey \"Big Juice\" Delane",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 1536417,
+          "resource_url": "https://api.discogs.com/artists/1536417"
+        },
+        {
+          "name": "Omar Loya",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Music | Assistant]",
+          "tracks": "",
+          "id": 1915182,
+          "resource_url": "https://api.discogs.com/artists/1915182"
+        },
+        {
+          "name": "Rob Kinelski",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Music]",
+          "tracks": "",
+          "id": 595965,
+          "resource_url": "https://api.discogs.com/artists/595965"
+        },
+        {
+          "name": "Jennifer Rosales",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals | Assistant]",
+          "tracks": "",
+          "id": 2501502,
+          "resource_url": "https://api.discogs.com/artists/2501502"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Marcos Tovar",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "Ernest Wilson (2)",
+          "anv": "E.Wilson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 701315,
+          "resource_url": "https://api.discogs.com/artists/701315"
+        },
+        {
+          "name": "Ester Dean",
+          "anv": "E. Dean",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1550260,
+          "resource_url": "https://api.discogs.com/artists/1550260"
+        },
+        {
+          "name": "Kevin Randolph",
+          "anv": "K. Randolph",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 203565,
+          "resource_url": "https://api.discogs.com/artists/203565"
+        },
+        {
+          "name": "Steve Wyreman",
+          "anv": "S. Wyreman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 709061,
+          "resource_url": "https://api.discogs.com/artists/709061"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Drunk On Love",
+      "extraartists": [
+        {
+          "name": "Daniella Rivera",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 2501496,
+          "resource_url": "https://api.discogs.com/artists/2501496"
+        },
+        {
+          "name": "Danny D.",
+          "anv": "",
+          "join": "",
+          "role": "Executive Producer",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        },
+        {
+          "name": "Tim Blacksmith",
+          "anv": "",
+          "join": "",
+          "role": "Executive Producer",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        },
+        {
+          "name": "Mikkel S. Eriksen",
+          "anv": "",
+          "join": "",
+          "role": "Instruments",
+          "tracks": "",
+          "id": 88563,
+          "resource_url": "https://api.discogs.com/artists/88563"
+        },
+        {
+          "name": "The XX",
+          "anv": "",
+          "join": "",
+          "role": "Instruments",
+          "tracks": "",
+          "id": 1416238,
+          "resource_url": "https://api.discogs.com/artists/1416238"
+        },
+        {
+          "name": "Tor Erik Hermansen",
+          "anv": "",
+          "join": "",
+          "role": "Instruments",
+          "tracks": "",
+          "id": 390381,
+          "resource_url": "https://api.discogs.com/artists/390381"
+        },
+        {
+          "name": "Phil Tan",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 94953,
+          "resource_url": "https://api.discogs.com/artists/94953"
+        },
+        {
+          "name": "StarGate (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 79704,
+          "resource_url": "https://api.discogs.com/artists/79704"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Mike Anderson (11)",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 2501498,
+          "resource_url": "https://api.discogs.com/artists/2501498"
+        },
+        {
+          "name": "Mikkel S. Eriksen",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 88563,
+          "resource_url": "https://api.discogs.com/artists/88563"
+        },
+        {
+          "name": "Miles Walker",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 1279366,
+          "resource_url": "https://api.discogs.com/artists/1279366"
+        },
+        {
+          "name": "Alejandro Barajas",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals | Assistant]",
+          "tracks": "",
+          "id": 2490813,
+          "resource_url": "https://api.discogs.com/artists/2490813"
+        },
+        {
+          "name": "Jennifer Rosales",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals | Assistant]",
+          "tracks": "",
+          "id": 2501502,
+          "resource_url": "https://api.discogs.com/artists/2501502"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Marcos Tovar",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "Baria Qureshi",
+          "anv": "B. Qureshi",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1541942,
+          "resource_url": "https://api.discogs.com/artists/1541942"
+        },
+        {
+          "name": "Ester Dean",
+          "anv": "E. Dean",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1550260,
+          "resource_url": "https://api.discogs.com/artists/1550260"
+        },
+        {
+          "name": "Jamie Smith (4)",
+          "anv": "J. Smith",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1545576,
+          "resource_url": "https://api.discogs.com/artists/1545576"
+        },
+        {
+          "name": "Mikkel S. Eriksen",
+          "anv": "M. S. Eriksen",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 88563,
+          "resource_url": "https://api.discogs.com/artists/88563"
+        },
+        {
+          "name": "Oliver Sim",
+          "anv": "O. Sim",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1541944,
+          "resource_url": "https://api.discogs.com/artists/1541944"
+        },
+        {
+          "name": "Romy Madley Croft",
+          "anv": "R. Croft",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1567403,
+          "resource_url": "https://api.discogs.com/artists/1567403"
+        },
+        {
+          "name": "Tor Erik Hermansen",
+          "anv": "T. E. Hermansen",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 390381,
+          "resource_url": "https://api.discogs.com/artists/390381"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Roc Me Out",
+      "extraartists": [
+        {
+          "name": "Daniella Rivera",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additional And Assistant]",
+          "tracks": "",
+          "id": 2501496,
+          "resource_url": "https://api.discogs.com/artists/2501496"
+        },
+        {
+          "name": "Danny D.",
+          "anv": "",
+          "join": "",
+          "role": "Executive Producer",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        },
+        {
+          "name": "Tim Blacksmith",
+          "anv": "",
+          "join": "",
+          "role": "Executive Producer",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        },
+        {
+          "name": "Mikkel S. Eriksen",
+          "anv": "",
+          "join": "",
+          "role": "Instruments",
+          "tracks": "",
+          "id": 88563,
+          "resource_url": "https://api.discogs.com/artists/88563"
+        },
+        {
+          "name": "Tor Erik Hermansen",
+          "anv": "",
+          "join": "",
+          "role": "Instruments",
+          "tracks": "",
+          "id": 390381,
+          "resource_url": "https://api.discogs.com/artists/390381"
+        },
+        {
+          "name": "Phil Tan",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 94953,
+          "resource_url": "https://api.discogs.com/artists/94953"
+        },
+        {
+          "name": "Gareth McGrillen",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 485282,
+          "resource_url": "https://api.discogs.com/artists/485282"
+        },
+        {
+          "name": "Rob Swire",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 401517,
+          "resource_url": "https://api.discogs.com/artists/401517"
+        },
+        {
+          "name": "StarGate (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 79704,
+          "resource_url": "https://api.discogs.com/artists/79704"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Mike Anderson (11)",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 2501498,
+          "resource_url": "https://api.discogs.com/artists/2501498"
+        },
+        {
+          "name": "Mikkel S. Eriksen",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 88563,
+          "resource_url": "https://api.discogs.com/artists/88563"
+        },
+        {
+          "name": "Miles Walker",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 1279366,
+          "resource_url": "https://api.discogs.com/artists/1279366"
+        },
+        {
+          "name": "Jennifer Rosales",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals | Assistant]",
+          "tracks": "",
+          "id": 2501502,
+          "resource_url": "https://api.discogs.com/artists/2501502"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Marcos Tovar",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "Ester Dean",
+          "anv": "E. Dean",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1550260,
+          "resource_url": "https://api.discogs.com/artists/1550260"
+        },
+        {
+          "name": "Gareth McGrillen",
+          "anv": "G. McGrillen",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 485282,
+          "resource_url": "https://api.discogs.com/artists/485282"
+        },
+        {
+          "name": "Mikkel S. Eriksen",
+          "anv": "M. S. Eriksen",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 88563,
+          "resource_url": "https://api.discogs.com/artists/88563"
+        },
+        {
+          "name": "Rob Swire",
+          "anv": "R. Swire",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 401517,
+          "resource_url": "https://api.discogs.com/artists/401517"
+        },
+        {
+          "name": "Tor Erik Hermansen",
+          "anv": "T. E. Hermansen",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 390381,
+          "resource_url": "https://api.discogs.com/artists/390381"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Watch N' Learn",
+      "extraartists": [
+        {
+          "name": "Marcos Tovar",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "Hit-Boy",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1137945,
+          "resource_url": "https://api.discogs.com/artists/1137945"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Skylar Mones",
+          "anv": "Skylar",
+          "join": "",
+          "role": "Recorded By [Music]",
+          "tracks": "",
+          "id": 2755626,
+          "resource_url": "https://api.discogs.com/artists/2755626"
+        },
+        {
+          "name": "Jennifer Rosales",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals | Assistant]",
+          "tracks": "",
+          "id": 2501502,
+          "resource_url": "https://api.discogs.com/artists/2501502"
+        },
+        {
+          "name": "TT (11)",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals | Assistant]",
+          "tracks": "",
+          "id": 2557101,
+          "resource_url": "https://api.discogs.com/artists/2557101"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Marcos Tovar",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "Alju Jackson",
+          "anv": "A. Jackson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4571619,
+          "resource_url": "https://api.discogs.com/artists/4571619"
+        },
+        {
+          "name": "Chauncey Hollis",
+          "anv": "C. Hollis",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1357689,
+          "resource_url": "https://api.discogs.com/artists/1357689"
+        },
+        {
+          "name": "Priscilla Renea",
+          "anv": "P. Renea",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1607490,
+          "resource_url": "https://api.discogs.com/artists/1607490"
+        },
+        {
+          "name": "Robyn Fenty",
+          "anv": "R. Fenty",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1986565,
+          "resource_url": "https://api.discogs.com/artists/1986565"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Farewell",
+      "extraartists": [
+        {
+          "name": "Johnny Browz",
+          "anv": "J. Browz",
+          "join": "",
+          "role": "Bass [Additional], Guitar [Additional], Piano [Additonal]",
+          "tracks": "",
+          "id": 1933170,
+          "resource_url": "https://api.discogs.com/artists/1933170"
+        },
+        {
+          "name": "Manny Marroquin",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 67636,
+          "resource_url": "https://api.discogs.com/artists/67636"
+        },
+        {
+          "name": "Chris Galland",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Mixed By [Assistant]",
+          "tracks": "",
+          "id": 1608079,
+          "resource_url": "https://api.discogs.com/artists/1608079"
+        },
+        {
+          "name": "Erik Madrid",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Mixed By [Assistant]",
+          "tracks": "",
+          "id": 1280303,
+          "resource_url": "https://api.discogs.com/artists/1280303"
+        },
+        {
+          "name": "Alex Da Kid",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1302196,
+          "resource_url": "https://api.discogs.com/artists/1302196"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Aubry Delaine",
+          "anv": "Aubrey \"Big Juice\" Delane",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 1536417,
+          "resource_url": "https://api.discogs.com/artists/1536417"
+        },
+        {
+          "name": "Jennifer Rosales",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals | Assistant]",
+          "tracks": "",
+          "id": 2501502,
+          "resource_url": "https://api.discogs.com/artists/2501502"
+        },
+        {
+          "name": "Kuk Harrell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 248523,
+          "resource_url": "https://api.discogs.com/artists/248523"
+        },
+        {
+          "name": "Marcos Tovar",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 825232,
+          "resource_url": "https://api.discogs.com/artists/825232"
+        },
+        {
+          "name": "Alex Grant (2)",
+          "anv": "A. Grant",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1302195,
+          "resource_url": "https://api.discogs.com/artists/1302195"
+        },
+        {
+          "name": "Ester Dean",
+          "anv": "E. Dean",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1550260,
+          "resource_url": "https://api.discogs.com/artists/1550260"
+        }
+      ],
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Abou \"Bu\" Thiam",
+      "anv": "",
+      "join": "",
+      "role": "A&R",
+      "tracks": "",
+      "id": 2012015,
+      "resource_url": "https://api.discogs.com/artists/2012015"
+    },
+    {
+      "name": "Jay Brown (3)",
+      "anv": "",
+      "join": "",
+      "role": "A&R",
+      "tracks": "",
+      "id": 1867004,
+      "resource_url": "https://api.discogs.com/artists/1867004"
+    },
+    {
+      "name": "Karen Kwak",
+      "anv": "",
+      "join": "",
+      "role": "A&R",
+      "tracks": "",
+      "id": 1310958,
+      "resource_url": "https://api.discogs.com/artists/1310958"
+    },
+    {
+      "name": "Tyran \"Ty Ty\" Smith",
+      "anv": "",
+      "join": "",
+      "role": "A&R",
+      "tracks": "",
+      "id": 1931347,
+      "resource_url": "https://api.discogs.com/artists/1931347"
+    },
+    {
+      "name": "Scott Marcus (3)",
+      "anv": "",
+      "join": "",
+      "role": "A&R [Administration]",
+      "tracks": "",
+      "id": 2360916,
+      "resource_url": "https://api.discogs.com/artists/2360916"
+    },
+    {
+      "name": "Terese Joseph",
+      "anv": "",
+      "join": "",
+      "role": "A&R [Administration]",
+      "tracks": "",
+      "id": 1872052,
+      "resource_url": "https://api.discogs.com/artists/1872052"
+    },
+    {
+      "name": "Omar Grant",
+      "anv": "",
+      "join": "",
+      "role": "A&R [Coordinator]",
+      "tracks": "",
+      "id": 2343305,
+      "resource_url": "https://api.discogs.com/artists/2343305"
+    },
+    {
+      "name": "Ciarra Pardo",
+      "anv": "",
+      "join": "",
+      "role": "Art Direction",
+      "tracks": "",
+      "id": 1872057,
+      "resource_url": "https://api.discogs.com/artists/1872057"
+    },
+    {
+      "name": "JP Robinson",
+      "anv": "",
+      "join": "",
+      "role": "Art Direction",
+      "tracks": "",
+      "id": 2012007,
+      "resource_url": "https://api.discogs.com/artists/2012007"
+    },
+    {
+      "name": "Robyn Fenty",
+      "anv": "Robyn Rihanna Fenty",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 1986565,
+      "resource_url": "https://api.discogs.com/artists/1986565"
+    },
+    {
+      "name": "Roc Nation",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 1866797,
+      "resource_url": "https://api.discogs.com/artists/1866797"
+    },
+    {
+      "name": "Carl Sturken",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer [Co-executive]",
+      "tracks": "",
+      "id": 142013,
+      "resource_url": "https://api.discogs.com/artists/142013"
+    },
+    {
+      "name": "Evan Rogers",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer [Co-executive]",
+      "tracks": "",
+      "id": 142012,
+      "resource_url": "https://api.discogs.com/artists/142012"
+    },
+    {
+      "name": "Roc Nation",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 1866797,
+      "resource_url": "https://api.discogs.com/artists/1866797"
+    },
+    {
+      "name": "Antoinette Trotman",
+      "anv": "",
+      "join": "",
+      "role": "Management [Business Affairs]",
+      "tracks": "",
+      "id": 1985637,
+      "resource_url": "https://api.discogs.com/artists/1985637"
+    },
+    {
+      "name": "Michael Seltzer (2)",
+      "anv": "",
+      "join": "",
+      "role": "Management [Business Affairs]",
+      "tracks": "",
+      "id": 3228982,
+      "resource_url": "https://api.discogs.com/artists/3228982"
+    },
+    {
+      "name": "Deborah Mannis-Gardner",
+      "anv": "",
+      "join": "",
+      "role": "Management [Sample Clearance Agent]",
+      "tracks": "",
+      "id": 2055983,
+      "resource_url": "https://api.discogs.com/artists/2055983"
+    },
+    {
+      "name": "Ellen Von Unwerth",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 1559365,
+      "resource_url": "https://api.discogs.com/artists/1559365"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/E6IfRDhd06cHnZHep8-8Z0FOdDmo9qHZjoVJ11rT5VQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjIz/NDctMTQ2MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/E6IfRDhd06cHnZHep8-8Z0FOdDmo9qHZjoVJ11rT5VQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjIz/NDctMTQ2MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/PvlFEIZMq1prw6VjDbX1H1TKQK9XUWoxtteQLXGRG7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjIz/NDctMTQ2MC5qcGVn.jpeg",
+      "width": 596,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/JT39tWKn9uZ8XZS5lTyjEJHUSkbua5R-yRltKFGEDt4/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjIz/NTAtODQwMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/JT39tWKn9uZ8XZS5lTyjEJHUSkbua5R-yRltKFGEDt4/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjIz/NTAtODQwMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/WwtdxAijVNgeHvLh_8Y4Qy8rhhnpuOMTo0mI3UvHXjY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjIz/NTAtODQwMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 294
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/7BQRQlntvn4rH6LMQmwRrXdu3dN1GiL9sTpcpNgzhD0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjIz/NDgtMjA3Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/7BQRQlntvn4rH6LMQmwRrXdu3dN1GiL9sTpcpNgzhD0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjIz/NDgtMjA3Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/OExeODAsbGjix9yAo-gLCRTqhefKzvXFL3w8A19S7G0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjIz/NDgtMjA3Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/v-auRKurhtxrLzKS9kf24g2jJdmNnNPDmzxg8Jo__m0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjIz/NDYtMjI1Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/v-auRKurhtxrLzKS9kf24g2jJdmNnNPDmzxg8Jo__m0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjIz/NDYtMjI1Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/FfzQG0pNBuCvTnR-XrlqcAuW8EvtjxWVxREHS440-mc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjIz/NDYtMjI1Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ptnYrxQfa-NRoFygYPoY7xWfN-PT0BiZ4S0RizdFk8Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjIz/NDctNDg3NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ptnYrxQfa-NRoFygYPoY7xWfN-PT0BiZ4S0RizdFk8Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjIz/NDctNDg3NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/VhinnVFnAYBcZ8w0BsOy3hvLRpM_PFcbCxJV5lUmgwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjIz/NDctNDg3NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/nnleLAszSl8TIhLikC3WK3XYNPFFIuq1MgBXLnJN4P8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjI0/NzUtNDk1Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/nnleLAszSl8TIhLikC3WK3XYNPFFIuq1MgBXLnJN4P8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjI0/NzUtNDk1Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ZFM3gpByAymVe4md47Zkoqv_q8lL3umaPJJK7_x-zjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjI0/NzUtNDk1Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/lKQ3HmCwrzhpyWOx0z8IMWskIXFxJ2tD1vhPK_YZFHE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjIz/NTAtOTEyNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/lKQ3HmCwrzhpyWOx0z8IMWskIXFxJ2tD1vhPK_YZFHE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjIz/NTAtOTEyNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/J1mX8kFXNsXIDSuAk-yvD37UnvcygmdVXg8EdlbQCrA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjIz/NTAtOTEyNS5qcGVn.jpeg",
+      "width": 599,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/pA7e37VF0s4QTWsHcuhzQXbC7UfhZyCJxdBdipnZNlY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjIz/NDYtNjg1Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/pA7e37VF0s4QTWsHcuhzQXbC7UfhZyCJxdBdipnZNlY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjIz/NDYtNjg1Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/onnZEYJytWUaJxd1ZobSzHy4DCF9YEJEmX2NWOn3Irg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjIz/NDYtNjg1Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/a-gnObhlAF9PUnh0fZC0QDNudbFVEpcqsYSfD5lw3Zw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjIz/NDYtMjI0Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/a-gnObhlAF9PUnh0fZC0QDNudbFVEpcqsYSfD5lw3Zw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjIz/NDYtMjI0Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/GS0RW6DEADpT87imQCbqxohTXWLAdtBMyZTomcbAN90/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjIz/NDYtMjI0Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/PvlFEIZMq1prw6VjDbX1H1TKQK9XUWoxtteQLXGRG7Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDg0/MjkyLTE3NjU2NjIz/NDctMTQ2MC5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

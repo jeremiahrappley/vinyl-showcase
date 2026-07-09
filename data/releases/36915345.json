@@ -1,0 +1,578 @@
+{
+  "id": 36915345,
+  "status": "Accepted",
+  "year": 2026,
+  "resource_url": "https://api.discogs.com/releases/36915345",
+  "uri": "https://www.discogs.com/release/36915345-Cannons-5-Everything-Glows",
+  "artists": [
+    {
+      "name": "Cannons (5)",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 7928121,
+      "resource_url": "https://api.discogs.com/artists/7928121",
+      "thumbnail_url": "https://i.discogs.com/7RFg58giLdLFIyeWSinWw7JE3AQBeteAGwtIdAx3-ao/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc5Mjgx/MjEtMTcyODg3Mzcw/Ny02NDIwLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Cannons (5)",
+  "labels": [
+    {
+      "name": "Columbia",
+      "catno": "19958408961",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Columbia",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    },
+    {
+      "name": "Columbia",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    },
+    {
+      "name": "Cannons (5)",
+      "catno": "",
+      "entity_type": "6",
+      "entity_type_name": "Licensed From",
+      "id": 3513493,
+      "resource_url": "https://api.discogs.com/labels/3513493"
+    },
+    {
+      "name": "Columbia",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    },
+    {
+      "name": "Columbia",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Special Edition"
+      ],
+      "text": "Transparent Violet"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 160,
+    "want": 22,
+    "rating": {
+      "count": 16,
+      "average": 4.81
+    },
+    "submitter": {
+      "username": "jrappley",
+      "resource_url": "https://api.discogs.com/users/jrappley"
+    },
+    "contributors": [
+      {
+        "username": "jrappley",
+        "resource_url": "https://api.discogs.com/users/jrappley"
+      },
+      {
+        "username": "ryanspinsvinyl",
+        "resource_url": "https://api.discogs.com/users/ryanspinsvinyl"
+      },
+      {
+        "username": "dasmfa",
+        "resource_url": "https://api.discogs.com/users/dasmfa"
+      },
+      {
+        "username": "Nicolas-1223",
+        "resource_url": "https://api.discogs.com/users/Nicolas-1223"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2026-03-29T08:14:33-07:00",
+  "date_changed": "2026-07-01T08:34:29-07:00",
+  "num_for_sale": 4,
+  "lowest_price": 59.4,
+  "master_id": 4177221,
+  "master_url": "https://api.discogs.com/masters/4177221",
+  "title": "Everything Glows",
+  "country": "US",
+  "released": "2026-03-27",
+  "notes": "Signed insert with credits, lyrics on innersleeve. \n\nAlbum released on Friday, March 27th, 2026.",
+  "released_formatted": "27 Mar 2026",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "1 99584 21291 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL 19958408961 (1) 2395483 02475173 309585E1 RKS STERLING MRP7619/19958408961-A",
+      "description": "Variant 1, Side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BL 19958408961 RE1 309585E2 02474190 2423101 RKS STERLING MRP7619/19958408961-B",
+      "description": "Variant 1, Side B"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    "Electronic",
+    "Rock"
+  ],
+  "styles": [
+    "Synth-pop",
+    "Pop Rock"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "All I Need",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Starlight",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Carousel",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "I Get Weak",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "These Nights",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Shine",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Light As A Feather",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Fool For You",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Good Luck Charm",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Photographs",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Take Me To Tokyo",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Simon White",
+      "anv": "",
+      "join": "",
+      "role": "Arranged By [Backing Vocals]",
+      "tracks": "A5",
+      "id": 148855,
+      "resource_url": "https://api.discogs.com/artists/148855"
+    },
+    {
+      "name": "Daniel Heath",
+      "anv": "",
+      "join": "",
+      "role": "Arranged By [String]",
+      "tracks": "A4.A5,B3",
+      "id": 1298088,
+      "resource_url": "https://api.discogs.com/artists/1298088"
+    },
+    {
+      "name": "Inga Kan",
+      "anv": "",
+      "join": "",
+      "role": "Artwork [Art], Design",
+      "tracks": "",
+      "id": 17508870,
+      "resource_url": "https://api.discogs.com/artists/17508870"
+    },
+    {
+      "name": "Astyn Turr",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "A5",
+      "id": 9535168,
+      "resource_url": "https://api.discogs.com/artists/9535168"
+    },
+    {
+      "name": "Suzy Shinn",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "A2",
+      "id": 3127377,
+      "resource_url": "https://api.discogs.com/artists/3127377"
+    },
+    {
+      "name": "Alisha Bauer",
+      "anv": "",
+      "join": "",
+      "role": "Cello",
+      "tracks": "A4,A5,B3",
+      "id": 653305,
+      "resource_url": "https://api.discogs.com/artists/653305"
+    },
+    {
+      "name": "Vanessa Freebairn-Smith",
+      "anv": "",
+      "join": "",
+      "role": "Cello",
+      "tracks": "A4,A5,B3",
+      "id": 322644,
+      "resource_url": "https://api.discogs.com/artists/322644"
+    },
+    {
+      "name": "Xander Ferreira",
+      "anv": "",
+      "join": "",
+      "role": "Creative Director",
+      "tracks": "",
+      "id": 1861420,
+      "resource_url": "https://api.discogs.com/artists/1861420"
+    },
+    {
+      "name": "Eric Lagg",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 6797662,
+      "resource_url": "https://api.discogs.com/artists/6797662"
+    },
+    {
+      "name": "Rob Kinelski",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "",
+      "id": 595965,
+      "resource_url": "https://api.discogs.com/artists/595965"
+    },
+    {
+      "name": "Eli Heisler",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By [Assistant]",
+      "tracks": "",
+      "id": 7661196,
+      "resource_url": "https://api.discogs.com/artists/7661196"
+    },
+    {
+      "name": "Micah Hulscher",
+      "anv": "",
+      "join": "",
+      "role": "Organ [Hammond], Synth [Juno Synth]",
+      "tracks": "A2",
+      "id": 771624,
+      "resource_url": "https://api.discogs.com/artists/771624"
+    },
+    {
+      "name": "Travys Owen",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 10103380,
+      "resource_url": "https://api.discogs.com/artists/10103380"
+    },
+    {
+      "name": "Mona Khoshoi",
+      "anv": "",
+      "join": "",
+      "role": "Producer [Additional Vocal Production], Backing Vocals",
+      "tracks": "A3,B5",
+      "id": 8317602,
+      "resource_url": "https://api.discogs.com/artists/8317602"
+    },
+    {
+      "name": "Shungudzo Kuyimba",
+      "anv": "",
+      "join": "",
+      "role": "Producer [Additional Vocal Production], Backing Vocals",
+      "tracks": "B5",
+      "id": 7087254,
+      "resource_url": "https://api.discogs.com/artists/7087254"
+    },
+    {
+      "name": "Lewis Pesacov",
+      "anv": "",
+      "join": "",
+      "role": "Producer [Addititional Prduction]",
+      "tracks": "B6",
+      "id": 933614,
+      "resource_url": "https://api.discogs.com/artists/933614"
+    },
+    {
+      "name": "Cannons (5)",
+      "anv": "",
+      "join": "",
+      "role": "Producer, Performer",
+      "tracks": "",
+      "id": 7928121,
+      "resource_url": "https://api.discogs.com/artists/7928121"
+    },
+    {
+      "name": "Paul Davis (60)",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "",
+      "id": 13071333,
+      "resource_url": "https://api.discogs.com/artists/13071333"
+    },
+    {
+      "name": "Ina Veli",
+      "anv": "",
+      "join": "",
+      "role": "Violin",
+      "tracks": "A4,A5,B3",
+      "id": 1471466,
+      "resource_url": "https://api.discogs.com/artists/1471466"
+    },
+    {
+      "name": "Jenny Takamatsu",
+      "anv": "Jennifer Takamatsu",
+      "join": "",
+      "role": "Violin",
+      "tracks": "A4,A5,B3",
+      "id": 1960933,
+      "resource_url": "https://api.discogs.com/artists/1960933"
+    },
+    {
+      "name": "Kathleen Sloan",
+      "anv": "",
+      "join": "",
+      "role": "Violin",
+      "tracks": "A4,A5,B3",
+      "id": 3006865,
+      "resource_url": "https://api.discogs.com/artists/3006865"
+    },
+    {
+      "name": "Songa Lee",
+      "anv": "",
+      "join": "",
+      "role": "Violin",
+      "tracks": "A4,A5,B3",
+      "id": 381869,
+      "resource_url": "https://api.discogs.com/artists/381869"
+    },
+    {
+      "name": "Amanda Warner",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "B1",
+      "id": 491996,
+      "resource_url": "https://api.discogs.com/artists/491996"
+    },
+    {
+      "name": "Lewis Pesacov",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "B4",
+      "id": 933614,
+      "resource_url": "https://api.discogs.com/artists/933614"
+    },
+    {
+      "name": "Michelle Lewis (3)",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 2133481,
+      "resource_url": "https://api.discogs.com/artists/2133481"
+    },
+    {
+      "name": "Mona Khoshoi",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A3,A4,B2,B4,B5",
+      "id": 8317602,
+      "resource_url": "https://api.discogs.com/artists/8317602"
+    },
+    {
+      "name": "Paul Davis (60)",
+      "anv": "Paul Daniel Davis",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 13071333,
+      "resource_url": "https://api.discogs.com/artists/13071333"
+    },
+    {
+      "name": "Ryan Clapham",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 13071336,
+      "resource_url": "https://api.discogs.com/artists/13071336"
+    },
+    {
+      "name": "Shungudzo Kuyimba",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A3,B5",
+      "id": 7087254,
+      "resource_url": "https://api.discogs.com/artists/7087254"
+    },
+    {
+      "name": "Suzy Shinn",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "B6",
+      "id": 3127377,
+      "resource_url": "https://api.discogs.com/artists/3127377"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/pd2AS5U6Q6pv1sc8ldHKBMwcgY48jpbCF13UJ1Vt4A0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3Nzc0NzMx/ODItOTE5OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/pd2AS5U6Q6pv1sc8ldHKBMwcgY48jpbCF13UJ1Vt4A0/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3Nzc0NzMx/ODItOTE5OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/L3gh9Ou2Ec-56hlAaAbDMW2BrXze1gWYlneKy45MToI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3Nzc0NzMx/ODItOTE5OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/TIgt_Q13meEAPQA2OCsMlo8rOng8encH8u4tQPHEF2Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3NzQ3OTcy/OTUtODgwMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/TIgt_Q13meEAPQA2OCsMlo8rOng8encH8u4tQPHEF2Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3NzQ3OTcy/OTUtODgwMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Fn92BOnwsEwS2e4rjTg38JMgzIsYsp1QAipfQFn1zfo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3NzQ3OTcy/OTUtODgwMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/KhCwRef768zFg8iPjHka41TX9EXh1a82SWUEATfsu70/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3NzQ3OTcz/MDktNTE4OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/KhCwRef768zFg8iPjHka41TX9EXh1a82SWUEATfsu70/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3NzQ3OTcz/MDktNTE4OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/PwX6Uj1dJc4_JPk56k1djJa247PxkhKqCuUzJr-i10M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3NzQ3OTcz/MDktNTE4OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/AXFkeflBZCIHzcoa5KDIehhrruHo494SmjN0870nXqE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3NzQ3OTcz/MTAtNjI2NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/AXFkeflBZCIHzcoa5KDIehhrruHo494SmjN0870nXqE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3NzQ3OTcz/MTAtNjI2NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/yymisUXs5clKTii36ycRJ8yPMr_OTABLaW_iAFs78AE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3NzQ3OTcz/MTAtNjI2NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/W8qbccpi63NCzfq3xSXAiQdq1NAGwTpMg4fJZrVZtQU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3NzQ3OTc0/NTktNzY5OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/W8qbccpi63NCzfq3xSXAiQdq1NAGwTpMg4fJZrVZtQU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3NzQ3OTc0/NTktNzY5OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/trPkC0VH7cjszVt43CWHIJ-8q6WX7P9y8yZ2_hcr93U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3NzQ3OTc0/NTktNzY5OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/DdIbv1BtraZuMUAOTFfCfYdEeXv2PQAkEZrknxdMfkg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3NzQ3OTcz/MDktNjE1Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/DdIbv1BtraZuMUAOTFfCfYdEeXv2PQAkEZrknxdMfkg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3NzQ3OTcz/MDktNjE1Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/RZMVsduWTyvSimdeyqsOdTiZrO8Pzb52yLgENJyp6ZA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3NzQ3OTcz/MDktNjE1Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/v0NMVSpNwlboIQnQ1RqUb-f1rH-Z3VoQ6HtnzpBafs4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3NzQ3OTkw/MzEtMTk5MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/v0NMVSpNwlboIQnQ1RqUb-f1rH-Z3VoQ6HtnzpBafs4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3NzQ3OTkw/MzEtMTk5MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/LSD2E3G5SDTDJSz8Cj_cdSwgL182Dq5pZpsp0eFOBbU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3NzQ3OTkw/MzEtMTk5MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ZyxMfnHY0HSgz6tnRZfxqs5oQ5aqmXxR2fu352SuHyA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3NzQ3OTcz/MDktMjY3Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ZyxMfnHY0HSgz6tnRZfxqs5oQ5aqmXxR2fu352SuHyA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3NzQ3OTcz/MDktMjY3Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/TMHHlc5wwftM6M5cZxMbUdVnw14ZL5PizKCPq0g0ZCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3NzQ3OTcz/MDktMjY3Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/X8EPM_Sc6snz9uJ__TJTfzJ4Y1ToZwM191LeqY8f12I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3NzQ3OTcz/MDktOTIzMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/X8EPM_Sc6snz9uJ__TJTfzJ4Y1ToZwM191LeqY8f12I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3NzQ3OTcz/MDktOTIzMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/SJeArUBxk8eVhgruaA5XW1cL80MqkefO5izk5KUmwno/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3NzQ3OTcz/MDktOTIzMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/L3gh9Ou2Ec-56hlAaAbDMW2BrXze1gWYlneKy45MToI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2OTE1/MzQ1LTE3Nzc0NzMx/ODItOTE5OC5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

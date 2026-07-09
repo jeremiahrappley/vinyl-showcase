@@ -1,0 +1,677 @@
+{
+  "id": 30024862,
+  "status": "Accepted",
+  "year": 2024,
+  "resource_url": "https://api.discogs.com/releases/30024862",
+  "uri": "https://www.discogs.com/release/30024862-Ariana-Grande-Eternal-Sunshine",
+  "artists": [
+    {
+      "name": "Ariana Grande",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 3310737,
+      "resource_url": "https://api.discogs.com/artists/3310737",
+      "thumbnail_url": "https://i.discogs.com/ns2Lr4_vKieO-26rNH1Uzj5CreZtJlFsHv_Y4ebasps/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMzMTA3/MzctMTc3OTAzOTgw/NS0yMDQ1LnBuZw.jpeg"
+    }
+  ],
+  "artists_sort": "Ariana Grande",
+  "labels": [
+    {
+      "name": "Republic Records",
+      "catno": "602465026276",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "GZ Media",
+      "catno": "276247E",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    },
+    {
+      "name": "Sterling Sound",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 264060,
+      "resource_url": "https://api.discogs.com/labels/264060",
+      "thumbnail_url": "https://i.discogs.com/Z8f0gMBrt5jLL4TAcCYDGXmMPOLi9V0UW593WXP6BUU/rs:fit/g:sm/q:90/h:118/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDA2/MC0xNTAwMjgzMzYy/LTMyMTguanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album"
+      ],
+      "text": "Red [Translucent Ruby Red]"
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 16617,
+    "want": 1937,
+    "rating": {
+      "count": 1987,
+      "average": 4.75
+    },
+    "submitter": {
+      "username": "Lot.Of.Music",
+      "resource_url": "https://api.discogs.com/users/Lot.Of.Music"
+    },
+    "contributors": [
+      {
+        "username": "Lot.Of.Music",
+        "resource_url": "https://api.discogs.com/users/Lot.Of.Music"
+      },
+      {
+        "username": "tji",
+        "resource_url": "https://api.discogs.com/users/tji"
+      },
+      {
+        "username": "indy-cd-and-vinyl",
+        "resource_url": "https://api.discogs.com/users/indy-cd-and-vinyl"
+      },
+      {
+        "username": "SP_Vinyl",
+        "resource_url": "https://api.discogs.com/users/SP_Vinyl"
+      },
+      {
+        "username": "anielomelo",
+        "resource_url": "https://api.discogs.com/users/anielomelo"
+      },
+      {
+        "username": "VelvetMusicDordrecht",
+        "resource_url": "https://api.discogs.com/users/VelvetMusicDordrecht"
+      },
+      {
+        "username": "itsiim",
+        "resource_url": "https://api.discogs.com/users/itsiim"
+      },
+      {
+        "username": "rodrigoabia",
+        "resource_url": "https://api.discogs.com/users/rodrigoabia"
+      },
+      {
+        "username": "GentleSenator",
+        "resource_url": "https://api.discogs.com/users/GentleSenator"
+      },
+      {
+        "username": "brs282",
+        "resource_url": "https://api.discogs.com/users/brs282"
+      },
+      {
+        "username": "Lakeland-Records",
+        "resource_url": "https://api.discogs.com/users/Lakeland-Records"
+      },
+      {
+        "username": "coppeddem",
+        "resource_url": "https://api.discogs.com/users/coppeddem"
+      },
+      {
+        "username": "bruisedviolet",
+        "resource_url": "https://api.discogs.com/users/bruisedviolet"
+      },
+      {
+        "username": "Danthewhippet",
+        "resource_url": "https://api.discogs.com/users/Danthewhippet"
+      },
+      {
+        "username": "Xmipod",
+        "resource_url": "https://api.discogs.com/users/Xmipod"
+      },
+      {
+        "username": "MadsTheo",
+        "resource_url": "https://api.discogs.com/users/MadsTheo"
+      },
+      {
+        "username": "sIay",
+        "resource_url": "https://api.discogs.com/users/sIay"
+      },
+      {
+        "username": "zionsgate",
+        "resource_url": "https://api.discogs.com/users/zionsgate"
+      },
+      {
+        "username": "MadCrab",
+        "resource_url": "https://api.discogs.com/users/MadCrab"
+      },
+      {
+        "username": "tunnier",
+        "resource_url": "https://api.discogs.com/users/tunnier"
+      },
+      {
+        "username": "aboutTOdetonate",
+        "resource_url": "https://api.discogs.com/users/aboutTOdetonate"
+      },
+      {
+        "username": "asrogger",
+        "resource_url": "https://api.discogs.com/users/asrogger"
+      },
+      {
+        "username": "breylandb",
+        "resource_url": "https://api.discogs.com/users/breylandb"
+      },
+      {
+        "username": "myvinyldiscography",
+        "resource_url": "https://api.discogs.com/users/myvinyldiscography"
+      },
+      {
+        "username": "ibrahimscollection",
+        "resource_url": "https://api.discogs.com/users/ibrahimscollection"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2024-03-07T01:14:50-08:00",
+  "date_changed": "2025-05-13T08:33:50-07:00",
+  "num_for_sale": 142,
+  "lowest_price": 18.95,
+  "master_id": 3418216,
+  "master_url": "https://api.discogs.com/masters/3418216",
+  "title": "Eternal Sunshine",
+  "country": "Worldwide",
+  "released": "2024-03-08",
+  "notes": "Standard Edition.\n\nReleased in a gatefold cover.\nThe record comes inside a printed inner sleeve, and an 8-page booklet, with lyrics and photos.\n\n500 additional copies of this release were retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions.\n\n1000 additional copies of this release were hand-signed and distributed to indie record stores across the United States for the album's six month anniversary.",
+  "released_formatted": "08 Mar 2024",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "602465026276"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "276247E1 1844183 JN-H STERLING 0602465026276-A 602465026276-A (1)",
+      "description": "A side run-out"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "276247E2 1839680 JN-H STERLING 0602465026276-B 602465026276-B (1)",
+      "description": "B side run-out"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=p7jATa6Soag",
+      "title": "Ariana Grande - intro (end of the world) (lyric visualizer)",
+      "description": "Music video by Ariana Grande performing intro (end of the world) (Lyric Video).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 93,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=dS_HLHozs1E",
+      "title": "Ariana Grande - eternal sunshine (lyric visualizer)",
+      "description": "Music video by Ariana Grande performing eternal sunshine (Lyric Video).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 211,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=PlaiDnJyabE",
+      "title": "Ariana Grande - bye (lyric visualizer)",
+      "description": "Music video by Ariana Grande performing bye (Lyric Video).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 166,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=_ZSuyl3BZHY",
+      "title": "Ariana Grande - don't wanna break up again (lyric visualizer)",
+      "description": "Music video by Ariana Grande performing don't wanna break up again (Lyric Video).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 175,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=f68Og1FPFfw",
+      "title": "Ariana Grande - Saturn Returns Interlude (lyric visualizer)",
+      "description": "Music video by Ariana Grande performing Saturn Returns Interlude (Lyric Video).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 43,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=hKwizc5nsWY",
+      "title": "Ariana Grande - supernatural (official music video)",
+      "description": "Music video by Ariana Grande performing supernatural.© 2025 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 167,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=6FEvblq6jzA",
+      "title": "Ariana Grande - true story (lyric visualizer)",
+      "description": "Music video by Ariana Grande performing true story (Lyric Video).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 164,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KwRxeZ9Ro24",
+      "title": "Ariana Grande - the boy is mine (Official Music Video)",
+      "description": "Music video by Ariana Grande performing the boy is mine.© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 377,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=eB6txyhHFG4",
+      "title": "Ariana Grande - yes, and? (official music video)",
+      "description": "Music video by Ariana Grande performing yes, and?.© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 275,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KNtJGQkC-WI",
+      "title": "Ariana Grande - we can't be friends (wait for your love) (official music video)",
+      "description": "Music video by Ariana Grande performing we can't be friends (wait for your love).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 284,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=T5k2-0yRzKc",
+      "title": "Ariana Grande - i wish i hated you (lyric visualizer)",
+      "description": "Music video by Ariana Grande performing i wish i hated you (Lyric Video).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 155,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=VtQorLzzbQw",
+      "title": "Ariana Grande - imperfect for you (lyric visualizer)",
+      "description": "Music video by Ariana Grande performing imperfect for you (Lyric Video).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 183,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=6XWMiMlZHfA",
+      "title": "Ariana Grande - ordinary things (lyric visualizer) ft. Nonna",
+      "description": "Music video by Ariana Grande performing ordinary things (Lyric Video).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 169,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5pt2rIhsFtk",
+      "title": "Ariana Grande - supernatural (lyric visualizer) ft. Troye Sivan",
+      "description": "Music video by Ariana Grande performing supernatural (Lyric Video).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 164,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=TaanS28Ea80",
+      "title": "Ariana Grande - imperfect for you (acoustic) (lyric visualizer)",
+      "description": "Music video by Ariana Grande performing imperfect for you (acoustic / Lyric Video).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 184,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=zJWZDa2uxtA",
+      "title": "Ariana Grande - true story (a cappella) (lyric visualizer)",
+      "description": "The official “true story” (a cappella) lyric visualizer by Ariana Grande. \n \nListen & download here: https://arianagrande.lnk.to/slightlydeluxe\n\n►Subscribe to Ariana Grande: http://arianagrande.lnk.to/subscribe\n \n►Follow Ariana Grande\nInstagram: https://w",
+      "duration": 164,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=r6vz9ym3Qso",
+      "title": "Ariana Grande, Mariah Carey - yes, and? (Lyric Video)",
+      "description": "Music video by Ariana Grande, Mariah Carey performing yes, and? (Lyric Video).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 214,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=j69AZ7mfPlU",
+      "title": "Ariana Grande, Brandy, Monica - the boy is mine (Remix) (Official Lyric Video)",
+      "description": "directed by: @katiatemkin\nanimated by : @sofianinova\nproduced by: @themorganrussell\n\nMusic video by Ariana Grande, Brandy, Monica performing the boy is mine (Remix / Lyric Video).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 213,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=9IAIFUwMQOY",
+      "title": "Ariana Grande - intro (end of the world) (live version)",
+      "description": "Music video by Ariana Grande performing intro (end of the world) (live version).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 106,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=7Rfiggb6_YQ",
+      "title": "Ariana Grande - don’t wanna break up again (live version)",
+      "description": "The official performance of “don’t wanna break up again” (live version) by Ariana Grande. Listen to & download the ‘eternal sunshine (slightly deluxe and also live)’ album here: https://arianagrande.lnk.to/slightlydeluxeandlive \n\n►Shop Merch: https://aria",
+      "duration": 172,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=zFwrArDXHkE",
+      "title": "Ariana Grande - eternal sunshine (live version)",
+      "description": "The official performance of “eternal sunshine (live version)” by Ariana Grande. Listen to & download the ‘eternal sunshine (slightly deluxe and also live)’ album here: https://arianagrande.lnk.to/slightlydeluxeandlive \n\n►Shop Merch: https://arianagrande.l",
+      "duration": 209,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=1Oz9rEpcBH0",
+      "title": "Ariana Grande - supernatural (live version)",
+      "description": "Music video by Ariana Grande performing supernatural (live version).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 166,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=-ZA9EqbHzbE",
+      "title": "Ariana Grande - yes, and? (live version)",
+      "description": "The official performance of “yes, and?” (live version) by Ariana Grande. Listen to & download the ‘eternal sunshine (slightly deluxe and also live)’ album here: https://arianagrande.lnk.to/slightlydeluxeandlive \n\n►Shop Merch: https://arianagrande.lnk.to/s",
+      "duration": 199,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=cZTlRmNgJz4",
+      "title": "Ariana Grande - we can’t be friends (wait for your love) (live version)",
+      "description": "The official performance of “we can't be friends (wait for your love)” (live version) by Ariana Grande. Listen to & download the ‘eternal sunshine (slightly deluxe and also live)’ album here: https://arianagrande.lnk.to/slightlydeluxeandlive \n\n►Shop Merch",
+      "duration": 204,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=e0JhRAxlQ1I",
+      "title": "Ariana Grande - imperfect for you (live version)",
+      "description": "Music video by Ariana Grande performing imperfect for you (live version).© 2024 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 184,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=3w4r9TxcG8s",
+      "title": "Ariana Grande - Hampstead",
+      "description": "Music video by Ariana Grande performing Hampstead.© 2025 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 395,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ztotaQ79eek",
+      "title": "Ariana Grande - intro (end of the world) (extended) (lyric visualizer)",
+      "description": "The official “intro (end of the world) - extended” official lyric visualizer by Ariana Grande. \n \nListen to & download ‘eternal sunshine deluxe: brighter days ahead’: https://arianagrande.lnk.to/esdeluxe\n \n►Subscribe to Ariana Grande: http://ArianaGrande.",
+      "duration": 162,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=x1XIJM6spaE",
+      "title": "Ariana Grande - twilight zone (Official Lyric Video)",
+      "description": "The official “twilight zone” official lyric video by Ariana Grande. \n \nListen to & download ‘eternal sunshine deluxe: brighter days ahead’: https://arianagrande.lnk.to/esdeluxe\n \n►Subscribe to Ariana Grande: http://ArianaGrande.lnk.to/subscribe\n \n►Follow ",
+      "duration": 203,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=u_JNpPN7Dfo",
+      "title": "Ariana Grande - warm (lyric visualizer)",
+      "description": "Music video by Ariana Grande performing warm (Lyric Video).© 2025 Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 202,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=qN4nWpW1UMA",
+      "title": "Ariana Grande - dandelion (lyric visualizer)",
+      "description": "The official “dandelion” official lyric visualizer by Ariana Grande. \n \nListen to & download ‘eternal sunshine deluxe: brighter days ahead’: https://arianagrande.lnk.to/esdeluxe\n \n►Subscribe to Ariana Grande: http://ArianaGrande.lnk.to/subscribe\n \n►Follow",
+      "duration": 205,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=vPY97B24nC4",
+      "title": "Ariana Grande - past life (lyric visualizer)",
+      "description": "The official “past life” official lyric visualizer by Ariana Grande. \n \nListen to & download ‘eternal sunshine deluxe: brighter days ahead’: https://arianagrande.lnk.to/esdeluxe\n \n►Subscribe to Ariana Grande: http://ArianaGrande.lnk.to/subscribe\n \n►Follow",
+      "duration": 216,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Pop"
+  ],
+  "styles": [
+    "Bubblegum"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Intro (End Of The World)",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Bye",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Don't Wanna Break Up Again",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Saturn Returns Interlude",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Eternal Sunshine",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Supernatural",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "title": "True Story",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "The Boy Is Mine",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Yes, And?",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "We Can't Be Friends (Wait For Your Love)",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "I Wish I Hated You",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Imperfect For You",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Ordinary Things",
+      "extraartists": [
+        {
+          "name": "Marjorie Grande",
+          "anv": "Nonna",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 6995316,
+          "resource_url": "https://api.discogs.com/artists/6995316"
+        }
+      ],
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Joe Nino-Hernes",
+      "anv": "JN-H",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 6012918,
+      "resource_url": "https://api.discogs.com/artists/6012918"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/Oulkz2iA9e8oBzXPOQIxe5Br6Uxeamhmtuazp0Q0ZA4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/OTUtNTg0NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Oulkz2iA9e8oBzXPOQIxe5Br6Uxeamhmtuazp0Q0ZA4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/OTUtNTg0NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/T6w7eYuUBTE3Sfjvt-dlmE8vD3G_p9IXgFDQUCEd994/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/OTUtNTg0NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/AYXzfv-VtsMBzWtcLcdgP42qK9r6VjG6tK6TJO3NykY/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctODM2MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/AYXzfv-VtsMBzWtcLcdgP42qK9r6VjG6tK6TJO3NykY/rs:fit/g:sm/q:90/h:294/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctODM2MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/94qrhyxejotmNfMYDGp4Ele_4G6hfgdG6L4jsfsDT2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctODM2MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 294
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/yJOv4aFPBA2QyrzZMSp7QKKlBaO5pwmBRy7lIoGBdm4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctNjk0MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/yJOv4aFPBA2QyrzZMSp7QKKlBaO5pwmBRy7lIoGBdm4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctNjk0MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/_yHuF72H-7rnqqzKkbB8zxoMLN3BatRim2K8BiKCK_M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctNjk0MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 593
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/g0cZsSDeg12MPCoHPWgOT01a_hYxe35pY1SZXmvWm8E/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctODk0My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/g0cZsSDeg12MPCoHPWgOT01a_hYxe35pY1SZXmvWm8E/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctODk0My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/PBEvONpoXpaeaH6dhMK7vvQslJW7p1TED6rWMswV2Bw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctODk0My5qcGVn.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/UT3_xDDJp07N1W3T0ctJV_jgcSh4l3sPLAIIy_9nVZk/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctNDgwMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/UT3_xDDJp07N1W3T0ctJV_jgcSh4l3sPLAIIy_9nVZk/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctNDgwMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/3md5mpB_ECPrerZe_NYRRzOY7AVsNEe4M4b2MZFLgqE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctNDgwMS5qcGVn.jpeg",
+      "width": 596,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/GhldrftgN_dBv9D0f79Dy3fao3mJwrc1ZBZBQHWuaio/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctNTg3Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/GhldrftgN_dBv9D0f79Dy3fao3mJwrc1ZBZBQHWuaio/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctNTg3Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/vjIQuWloJqkFsWHAu5CFg8WrFpVWRccvx6Rm6ASYFPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctNTg3Ni5qcGVn.jpeg",
+      "width": 597,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/lbzGpOAD-LO2sMjyIW9mMd4edglJraD6S01lswRE6ww/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctMzYyMi5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/lbzGpOAD-LO2sMjyIW9mMd4edglJraD6S01lswRE6ww/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctMzYyMi5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/-Ze1svwJMe_rcBcJonOnHxAxkiS29hT3LSnHFZ4d2FE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctMzYyMi5wbmc.jpeg",
+      "width": 600,
+      "height": 591
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/TsQTKpCvT6q_Ymynb2-8fUcBloRdMccXIlRHmUuKqu0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctNDMwNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/TsQTKpCvT6q_Ymynb2-8fUcBloRdMccXIlRHmUuKqu0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctNDMwNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/J0rpGz20Mb8tv_FI6fSdFmuoHJwAM__OCXTCbHo-jxw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctNDMwNi5qcGVn.jpeg",
+      "width": 600,
+      "height": 592
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/fCDdmf7KQg9w3aRW_QHEw2pH1nZRaulRBxN-IRnHUN0/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODgtMzUzNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/fCDdmf7KQg9w3aRW_QHEw2pH1nZRaulRBxN-IRnHUN0/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODgtMzUzNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/_rmSoaZI1fTuVIp9334yw01e9fwKMStSZ2U6IjZBL_4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODgtMzUzNi5qcGVn.jpeg",
+      "width": 581,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/p_Oo4mjuJUWW2W_6c-wRTNGjirM11hVtbHlL3_R-Ymk/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODgtMTQ2NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/p_Oo4mjuJUWW2W_6c-wRTNGjirM11hVtbHlL3_R-Ymk/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODgtMTQ2NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/YkMQfmFEFt6RAhDielrMCN5ZVIcRpV4OL5fe1ieQO6g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODgtMTQ2NC5qcGVn.jpeg",
+      "width": 591,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/0US_RfosoLoRUJQkzrAVzcwgiFx4Mbja0mxA9cIQ28E/rs:fit/g:sm/q:90/h:600/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODgtMTc5Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/0US_RfosoLoRUJQkzrAVzcwgiFx4Mbja0mxA9cIQ28E/rs:fit/g:sm/q:90/h:600/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODgtMTc5Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/e7BVZVAfwN0SX9MG5fxX1gdM_dTGjt5MqGvTytGCm7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODgtMTc5Ny5qcGVn.jpeg",
+      "width": 568,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/nI4PVW4jvzk-s2fBZEz7G2BBVrfU8L2qVn0AGsZI2b8/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctNjExNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/nI4PVW4jvzk-s2fBZEz7G2BBVrfU8L2qVn0AGsZI2b8/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctNjExNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/p3plKJjkYd6QPQ8Za-wqC6Sc3Ea-BcEJAAC0UnU6rl8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctNjExNy5qcGVn.jpeg",
+      "width": 588,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/BXSW7HP-eghwpXRcqBX9j6SDnjB_L9XndWmiVWY9ltU/rs:fit/g:sm/q:90/h:600/w:569/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODgtNzQ3OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/BXSW7HP-eghwpXRcqBX9j6SDnjB_L9XndWmiVWY9ltU/rs:fit/g:sm/q:90/h:600/w:569/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODgtNzQ3OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/7ItDf1LZz5prgYfXIxMtF7cqcLjnsX5l0iC4YRQwTjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODgtNzQ3OC5qcGVn.jpeg",
+      "width": 569,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/YriXdiqzcqRRGeuYX5ldPSl5cFO74RBAmuC3YkRVeWM/rs:fit/g:sm/q:90/h:600/w:557/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctNTExOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/YriXdiqzcqRRGeuYX5ldPSl5cFO74RBAmuC3YkRVeWM/rs:fit/g:sm/q:90/h:600/w:557/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctNTExOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/QDCHEM5AEdOEzi2Hlnk2YRcV9_y8RUL750gGP196bWw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctNTExOC5qcGVn.jpeg",
+      "width": 557,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/M6L3eJgl0ZOZGtdDKDFvHBFZv9IBWJMQ1t3xNq7gDk4/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctMjE2My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/M6L3eJgl0ZOZGtdDKDFvHBFZv9IBWJMQ1t3xNq7gDk4/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctMjE2My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Lq_WC-2hF9mH3mHzwFDendUPo63ShOdhhMe7lgFsKWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctMjE2My5qcGVn.jpeg",
+      "width": 580,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/_GbxNySRBXZN0mRUVQoGHrILajdXQuoHVK7PN4G1HFU/rs:fit/g:sm/q:90/h:92/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctMzg0OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/_GbxNySRBXZN0mRUVQoGHrILajdXQuoHVK7PN4G1HFU/rs:fit/g:sm/q:90/h:92/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctMzg0OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/9dRwI8ZysjI0gsO5IGEYYorUkd5uiYDQxyJvNd1cIz0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/ODctMzg0OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 92
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/5mffKq2BWAzYcWx2RRIWqpbhImSWEZVspwifkTBU-pY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTA0MTYy/NzMtNTc3NS5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/5mffKq2BWAzYcWx2RRIWqpbhImSWEZVspwifkTBU-pY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTA0MTYy/NzMtNTc3NS5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/J5t5jrv-mA0sNoc5HZ7976n3W64a5RfIEXvTFm4zFBg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTA0MTYy/NzMtNTc3NS5wbmc.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/T6w7eYuUBTE3Sfjvt-dlmE8vD3G_p9IXgFDQUCEd994/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMDI0/ODYyLTE3MTI2ODky/OTUtNTg0NC5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

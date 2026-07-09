@@ -1,0 +1,689 @@
+{
+  "id": 2308945,
+  "status": "Accepted",
+  "year": 1969,
+  "resource_url": "https://api.discogs.com/releases/2308945",
+  "uri": "https://www.discogs.com/release/2308945-Mama-Cass-Bubble-Gum-Lemonade--Something-For-Mama",
+  "artists": [
+    {
+      "name": "Cass Elliot",
+      "anv": "Mama Cass",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 428943,
+      "resource_url": "https://api.discogs.com/artists/428943",
+      "thumbnail_url": "https://i.discogs.com/KVBz6G0hfSS_0RqOrN-vEzZCN8ZSpDD5crwtA2qyQz8/rs:fit/g:sm/q:90/h:532/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQyODk0/My0xNDA5NjczNTcz/LTQ3NTYuanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Cass Elliot",
+  "labels": [
+    {
+      "name": "Dunhill",
+      "catno": "DS-50055",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 40958,
+      "resource_url": "https://api.discogs.com/labels/40958",
+      "thumbnail_url": "https://i.discogs.com/rCqEe6BfWGcKzwr7xhWe9KdKOtEiMDc4ymcJBsOrWos/rs:fit/g:sm/q:90/h:284/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQwOTU4/LTE2NDQ3ODQ3Mjgt/NDU3MS5qcGVn.jpeg"
+    },
+    {
+      "name": "ABC Records",
+      "catno": "DS-50055",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 12220,
+      "resource_url": "https://api.discogs.com/labels/12220",
+      "thumbnail_url": "https://i.discogs.com/udS_QH1qWMk-d_ifklYNWBf1pTBet6PaHR9RcSI2Yco/rs:fit/g:sm/q:90/h:334/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMjIw/LTEyOTk5MDY0MzIu/anBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Repress",
+        "Stereo"
+      ]
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 1161,
+    "want": 150,
+    "rating": {
+      "count": 56,
+      "average": 3.95
+    },
+    "submitter": {
+      "username": "zippy75",
+      "resource_url": "https://api.discogs.com/users/zippy75"
+    },
+    "contributors": [
+      {
+        "username": "zippy75",
+        "resource_url": "https://api.discogs.com/users/zippy75"
+      },
+      {
+        "username": "DSCHRUBBA2",
+        "resource_url": "https://api.discogs.com/users/DSCHRUBBA2"
+      },
+      {
+        "username": "dalhembe",
+        "resource_url": "https://api.discogs.com/users/dalhembe"
+      },
+      {
+        "username": "yabbadabbadooooo",
+        "resource_url": "https://api.discogs.com/users/yabbadabbadooooo"
+      },
+      {
+        "username": "einzelganger",
+        "resource_url": "https://api.discogs.com/users/einzelganger"
+      },
+      {
+        "username": "disneyfacts",
+        "resource_url": "https://api.discogs.com/users/disneyfacts"
+      },
+      {
+        "username": "yr130962",
+        "resource_url": "https://api.discogs.com/users/yr130962"
+      },
+      {
+        "username": "MusicNutter",
+        "resource_url": "https://api.discogs.com/users/MusicNutter"
+      },
+      {
+        "username": "Madturtle3",
+        "resource_url": "https://api.discogs.com/users/Madturtle3"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2010-06-07T13:04:15-07:00",
+  "date_changed": "2019-01-27T12:30:45-08:00",
+  "num_for_sale": 14,
+  "lowest_price": 0.99,
+  "master_id": 432625,
+  "master_url": "https://api.discogs.com/masters/432625",
+  "title": "Bubble Gum, Lemonade &... Something For Mama",
+  "country": "US",
+  "released": "1969",
+  "notes": "Label variation:  Overall black label with the \"Dunhill\" and \"ABC Records\" logos in two separate colored boxes at the top. There is a registration symbol (®) just to the right of the 'ABC Records' logo.. The print around the perimeter of the label bottom is white and reads: \"Dunhill Records, Inc. is a subsidiary and trademark licensee of ABC Records, Inc. New York, N.Y. 10019 • Made in USA\".",
+  "released_formatted": "1969",
+  "identifiers": [
+    {
+      "type": "Matrix / Runout",
+      "value": "DS 50055 A",
+      "description": "Label A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "DS 50055 B",
+      "description": "Label B"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=v9jgP0M-wzU",
+      "title": "CASS ELLIOT Tribute - WHEN I JUST WEAR MY SMILE",
+      "description": "Lots of smiling photos in this tribute to the late great Cass Elliot.  \"When I Just Wear My Smile\" is taken from the LP \"Dream a Little Dream of Me\" by Mama Cass.  The song was written by T. Lane and S. Pulley.  Cass did a lovely job on this great tune.",
+      "duration": 142,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=MoEgpQs7r9A",
+      "title": "1st RECORDING OF: Easy Come, Easy Go - Mama Cass Elliot (1969)",
+      "description": "A top-10 hit in early 1970 for Bobby Sherman https://www.youtube.com/watch?v=-VROhNqLI7M , this tune first appeared several months earlier in the Mama Cass LP “Bubble Gum, Lemonade & Something For Mama.”\n\nTrack originally issued on Dunhill LP 50055 - ",
+      "duration": 162,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ur9lcBMN1mw",
+      "title": "Sour Grapes",
+      "description": "Provided to YouTube by Universal Music Group\n\nSour Grapes · Mama Cass\n\nBubblegum, Lemonade & ... Something For Mama\n\n℗ A Geffen Records Release; ℗ 1969 UMG Recordings, Inc.\n\nReleased on: 1969-07-05\n\nProducer, Associated  Performer, Percussion: Steve ",
+      "duration": 152,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=RQFci9Qbsh8",
+      "title": "When I Just Wear My Smile",
+      "description": "Provided to YouTube by Universal Music Group\n\nWhen I Just Wear My Smile · Mama Cass\n\nBubblegum, Lemonade & ... Something For Mama\n\n℗ A Geffen Records Release; ℗ 1969 UMG Recordings, Inc.\n\nReleased on: 1969-07-05\n\nProducer, Associated  Performer, Perc",
+      "duration": 143,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Sv7_pWKLcT4",
+      "title": "I Can Dream, Can't I?",
+      "description": "Provided to YouTube by Universal Music Group\n\nI Can Dream, Can't I? · Mama Cass\n\nBubblegum, Lemonade & ... Something For Mama\n\n℗ A Geffen Records Release; ℗ 1969 UMG Recordings, Inc.\n\nReleased on: 1969-07-05\n\nProducer, Associated  Performer, Percussi",
+      "duration": 155,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5i8Lir_ysis",
+      "title": "It's Getting Better",
+      "description": "Provided to YouTube by Universal Music Group\n\nIt's Getting Better · Mama Cass\n\nBubblegum, Lemonade & ... Something For Mama\n\n℗ A Geffen Records Release; ℗ 1969 UMG Recordings, Inc.\n\nReleased on: 1969-07-05\n\nProducer, Associated  Performer, Percussion",
+      "duration": 181,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=PBH9GZKFvro",
+      "title": "Blow Me A Kiss",
+      "description": "Provided to YouTube by Universal Music Group\n\nBlow Me A Kiss · Mama Cass\n\nBubblegum, Lemonade & ... Something For Mama\n\n℗ A Geffen Records Release; ℗ 1969 UMG Recordings, Inc.\n\nReleased on: 1969-07-05\n\nProducer, Associated  Performer, Percussion: Ste",
+      "duration": 171,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=jZv7z-zgTYI",
+      "title": "Easy Come, Easy Go",
+      "description": "Provided to YouTube by Universal Music Group\n\nEasy Come, Easy Go · Mama Cass\n\nBubblegum, Lemonade & ... Something For Mama\n\n℗ A Geffen Records Release; ℗ 1969 UMG Recordings, Inc.\n\nReleased on: 1969-07-05\n\nProducer, Associated  Performer, Percussion:",
+      "duration": 167,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=2HfCtRQ1Ojc",
+      "title": "Lady Love",
+      "description": "Provided to YouTube by Universal Music Group\n\nLady Love · Mama Cass\n\nBubblegum, Lemonade & ... Something For Mama\n\n℗ A Geffen Records Release; ℗ 1969 UMG Recordings, Inc.\n\nReleased on: 1969-07-05\n\nProducer, Associated  Performer, Percussion: Steve Ba",
+      "duration": 182,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Lxw6AbrtWVY",
+      "title": "He's A Runner",
+      "description": "Provided to YouTube by Universal Music Group\n\nHe's A Runner · Mama Cass\n\nBubblegum, Lemonade & ... Something For Mama\n\n℗ A Geffen Records Release; ℗ 1969 UMG Recordings, Inc.\n\nReleased on: 1969-07-05\n\nProducer, Associated  Performer, Percussion: Stev",
+      "duration": 220,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=lLsrqXPOo4Q",
+      "title": "Who's To Blame",
+      "description": "Provided to YouTube by Universal Music Group\n\nWho's To Blame · Mama Cass\n\nBubblegum, Lemonade & ... Something For Mama\n\n℗ A Geffen Records Release; ℗ 1969 UMG Recordings, Inc.\n\nReleased on: 1969-07-05\n\nProducer: Steve Barri\nComposer  Lyricist: Leah K",
+      "duration": 179,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=wZGaVymFcX4",
+      "title": "Welcome To The World",
+      "description": "Provided to YouTube by Universal Music Group\n\nWelcome To The World · Mama Cass\n\nBubblegum, Lemonade & ... Something For Mama\n\n℗ A Geffen Records Release; ℗ 1969 UMG Recordings, Inc.\n\nReleased on: 1969-07-05\n\nProducer, Associated  Performer, Percussio",
+      "duration": 138,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=v9jgP0M-wzU",
+      "title": "CASS ELLIOT Tribute - WHEN I JUST WEAR MY SMILE",
+      "description": "Lots of smiling photos in this tribute to the late great Cass Elliot.  \"When I Just Wear My Smile\" is taken from the LP \"Dream a Little Dream of Me\" by Mama Cass.  The song was written by T. Lane and S. Pulley.  Cass did a lovely job on this great tune.",
+      "duration": 142,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=MoEgpQs7r9A",
+      "title": "1st RECORDING OF: Easy Come, Easy Go - Mama Cass Elliot (1969)",
+      "description": "A top-10 hit in early 1970 for Bobby Sherman https://www.youtube.com/watch?v=-VROhNqLI7M , this tune first appeared several months earlier in the Mama Cass LP “Bubble Gum, Lemonade & Something For Mama.”\n\nTrack originally issued on Dunhill LP 50055 - ",
+      "duration": 162,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ur9lcBMN1mw",
+      "title": "Sour Grapes",
+      "description": "Provided to YouTube by Universal Music Group\n\nSour Grapes · Mama Cass\n\nBubblegum, Lemonade & ... Something For Mama\n\n℗ A Geffen Records Release; ℗ 1969 UMG Recordings, Inc.\n\nReleased on: 1969-07-05\n\nProducer, Associated  Performer, Percussion: Steve ",
+      "duration": 152,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=RQFci9Qbsh8",
+      "title": "When I Just Wear My Smile",
+      "description": "Provided to YouTube by Universal Music Group\n\nWhen I Just Wear My Smile · Mama Cass\n\nBubblegum, Lemonade & ... Something For Mama\n\n℗ A Geffen Records Release; ℗ 1969 UMG Recordings, Inc.\n\nReleased on: 1969-07-05\n\nProducer, Associated  Performer, Perc",
+      "duration": 143,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Sv7_pWKLcT4",
+      "title": "I Can Dream, Can't I?",
+      "description": "Provided to YouTube by Universal Music Group\n\nI Can Dream, Can't I? · Mama Cass\n\nBubblegum, Lemonade & ... Something For Mama\n\n℗ A Geffen Records Release; ℗ 1969 UMG Recordings, Inc.\n\nReleased on: 1969-07-05\n\nProducer, Associated  Performer, Percussi",
+      "duration": 155,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5i8Lir_ysis",
+      "title": "It's Getting Better",
+      "description": "Provided to YouTube by Universal Music Group\n\nIt's Getting Better · Mama Cass\n\nBubblegum, Lemonade & ... Something For Mama\n\n℗ A Geffen Records Release; ℗ 1969 UMG Recordings, Inc.\n\nReleased on: 1969-07-05\n\nProducer, Associated  Performer, Percussion",
+      "duration": 181,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=PBH9GZKFvro",
+      "title": "Blow Me A Kiss",
+      "description": "Provided to YouTube by Universal Music Group\n\nBlow Me A Kiss · Mama Cass\n\nBubblegum, Lemonade & ... Something For Mama\n\n℗ A Geffen Records Release; ℗ 1969 UMG Recordings, Inc.\n\nReleased on: 1969-07-05\n\nProducer, Associated  Performer, Percussion: Ste",
+      "duration": 171,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=jZv7z-zgTYI",
+      "title": "Easy Come, Easy Go",
+      "description": "Provided to YouTube by Universal Music Group\n\nEasy Come, Easy Go · Mama Cass\n\nBubblegum, Lemonade & ... Something For Mama\n\n℗ A Geffen Records Release; ℗ 1969 UMG Recordings, Inc.\n\nReleased on: 1969-07-05\n\nProducer, Associated  Performer, Percussion:",
+      "duration": 167,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=2HfCtRQ1Ojc",
+      "title": "Lady Love",
+      "description": "Provided to YouTube by Universal Music Group\n\nLady Love · Mama Cass\n\nBubblegum, Lemonade & ... Something For Mama\n\n℗ A Geffen Records Release; ℗ 1969 UMG Recordings, Inc.\n\nReleased on: 1969-07-05\n\nProducer, Associated  Performer, Percussion: Steve Ba",
+      "duration": 182,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Lxw6AbrtWVY",
+      "title": "He's A Runner",
+      "description": "Provided to YouTube by Universal Music Group\n\nHe's A Runner · Mama Cass\n\nBubblegum, Lemonade & ... Something For Mama\n\n℗ A Geffen Records Release; ℗ 1969 UMG Recordings, Inc.\n\nReleased on: 1969-07-05\n\nProducer, Associated  Performer, Percussion: Stev",
+      "duration": 220,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=lLsrqXPOo4Q",
+      "title": "Who's To Blame",
+      "description": "Provided to YouTube by Universal Music Group\n\nWho's To Blame · Mama Cass\n\nBubblegum, Lemonade & ... Something For Mama\n\n℗ A Geffen Records Release; ℗ 1969 UMG Recordings, Inc.\n\nReleased on: 1969-07-05\n\nProducer: Steve Barri\nComposer  Lyricist: Leah K",
+      "duration": 179,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=wZGaVymFcX4",
+      "title": "Welcome To The World",
+      "description": "Provided to YouTube by Universal Music Group\n\nWelcome To The World · Mama Cass\n\nBubblegum, Lemonade & ... Something For Mama\n\n℗ A Geffen Records Release; ℗ 1969 UMG Recordings, Inc.\n\nReleased on: 1969-07-05\n\nProducer, Associated  Performer, Percussio",
+      "duration": 138,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=dpo31ksvktE",
+      "title": "It's Getting Better - Cass Elliot (1969)",
+      "description": "",
+      "duration": 181,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Rock",
+    "Pop"
+  ],
+  "styles": [
+    "Vocal",
+    "Ballad"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "It's Getting Better",
+      "extraartists": [
+        {
+          "name": "Mann And Weil",
+          "anv": "B. Mann, C. Weil",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 732053,
+          "resource_url": "https://api.discogs.com/artists/732053"
+        }
+      ],
+      "duration": "3:00"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Blow Me A Kiss",
+      "extraartists": [
+        {
+          "name": "Jack Carone",
+          "anv": "J. Carone",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 712307,
+          "resource_url": "https://api.discogs.com/artists/712307"
+        }
+      ],
+      "duration": "2:50"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Sour Grapes",
+      "extraartists": [
+        {
+          "name": "Tom Ghent",
+          "anv": "T. Ghent",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1701807,
+          "resource_url": "https://api.discogs.com/artists/1701807"
+        }
+      ],
+      "duration": "2:35"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Easy Come, Easy Go ",
+      "extraartists": [
+        {
+          "name": "Diane Hildebrand",
+          "anv": "D. Hildebrand",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 879219,
+          "resource_url": "https://api.discogs.com/artists/879219"
+        },
+        {
+          "name": "Jack Keller",
+          "anv": "J. Keller",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 368489,
+          "resource_url": "https://api.discogs.com/artists/368489"
+        }
+      ],
+      "duration": "2:45"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "I Can Dream, Can't I",
+      "extraartists": [
+        {
+          "name": "Irving Kahal",
+          "anv": "I. Kahal",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 628269,
+          "resource_url": "https://api.discogs.com/artists/628269"
+        },
+        {
+          "name": "Sammy Fain",
+          "anv": "S. Fain",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 290093,
+          "resource_url": "https://api.discogs.com/artists/290093"
+        }
+      ],
+      "duration": "2:35"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Welcome To The World ",
+      "extraartists": [
+        {
+          "name": "Martin Siegel",
+          "anv": "M. Siegel",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1287208,
+          "resource_url": "https://api.discogs.com/artists/1287208"
+        },
+        {
+          "name": "Scott English",
+          "anv": "S. English",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 518454,
+          "resource_url": "https://api.discogs.com/artists/518454"
+        }
+      ],
+      "duration": "2:18"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Lady Love",
+      "extraartists": [
+        {
+          "name": "Delaney Bramlett",
+          "anv": "D. Bramlett",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 255369,
+          "resource_url": "https://api.discogs.com/artists/255369"
+        }
+      ],
+      "duration": "3:04"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "He's A Runner",
+      "extraartists": [
+        {
+          "name": "Laura Nyro",
+          "anv": "L. Nyro",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 370500,
+          "resource_url": "https://api.discogs.com/artists/370500"
+        }
+      ],
+      "duration": "3:38"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Move In A Little Closer, Baby ",
+      "extraartists": [
+        {
+          "name": "Arnold Capitanelli",
+          "anv": "Capitanelli",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1037686,
+          "resource_url": "https://api.discogs.com/artists/1037686"
+        },
+        {
+          "name": "Robert O'Connor",
+          "anv": "O'Connor",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1037685,
+          "resource_url": "https://api.discogs.com/artists/1037685"
+        }
+      ],
+      "duration": "2:38"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "When I Just Wear My Smile",
+      "extraartists": [
+        {
+          "name": "Sharyn Pulley",
+          "anv": "S. Pulley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3230892,
+          "resource_url": "https://api.discogs.com/artists/3230892"
+        },
+        {
+          "name": "Tom Lane (5)",
+          "anv": "T. Lane",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2669611,
+          "resource_url": "https://api.discogs.com/artists/2669611"
+        }
+      ],
+      "duration": "2:20"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Who's To Blame",
+      "extraartists": [
+        {
+          "name": "Leah Kunkel",
+          "anv": "L. Kunkel",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 477929,
+          "resource_url": "https://api.discogs.com/artists/477929"
+        }
+      ],
+      "duration": "2:55"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Jimmie Haskell",
+      "anv": "",
+      "join": "",
+      "role": "Accordion, Arranged By, Conductor",
+      "tracks": "",
+      "id": 252860,
+      "resource_url": "https://api.discogs.com/artists/252860"
+    },
+    {
+      "name": "Gary Burden",
+      "anv": "",
+      "join": "",
+      "role": "Art Direction",
+      "tracks": "",
+      "id": 1106428,
+      "resource_url": "https://api.discogs.com/artists/1106428"
+    },
+    {
+      "name": "Joe Osborn",
+      "anv": "",
+      "join": "",
+      "role": "Bass",
+      "tracks": "",
+      "id": 253433,
+      "resource_url": "https://api.discogs.com/artists/253433"
+    },
+    {
+      "name": "Hal Blaine",
+      "anv": "",
+      "join": "",
+      "role": "Drums, Percussion",
+      "tracks": "",
+      "id": 229494,
+      "resource_url": "https://api.discogs.com/artists/229494"
+    },
+    {
+      "name": "Phil Kaye",
+      "anv": "",
+      "join": "",
+      "role": "Engineer, Percussion",
+      "tracks": "",
+      "id": 397583,
+      "resource_url": "https://api.discogs.com/artists/397583"
+    },
+    {
+      "name": "Mike Deasy",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "",
+      "id": 264987,
+      "resource_url": "https://api.discogs.com/artists/264987"
+    },
+    {
+      "name": "Ben Benay",
+      "anv": "",
+      "join": "",
+      "role": "Guitar, Harmonica",
+      "tracks": "",
+      "id": 336762,
+      "resource_url": "https://api.discogs.com/artists/336762"
+    },
+    {
+      "name": "Larry Knechtel",
+      "anv": "",
+      "join": "",
+      "role": "Keyboards",
+      "tracks": "",
+      "id": 253431,
+      "resource_url": "https://api.discogs.com/artists/253431"
+    },
+    {
+      "name": "Henry Diltz",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 354607,
+      "resource_url": "https://api.discogs.com/artists/354607"
+    },
+    {
+      "name": "Steve Barri",
+      "anv": "",
+      "join": "",
+      "role": "Producer, Percussion",
+      "tracks": "",
+      "id": 105035,
+      "resource_url": "https://api.discogs.com/artists/105035"
+    },
+    {
+      "name": "Red Rhodes",
+      "anv": "",
+      "join": "",
+      "role": "Steel Guitar",
+      "tracks": "",
+      "id": 301161,
+      "resource_url": "https://api.discogs.com/artists/301161"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/uItDIbd_u3h-_iPnPPRQ_1v1rGCbNezspRVXzLfVPeo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDg5/NDUtMTM2NTE0OTY3/OC00NjcyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/uItDIbd_u3h-_iPnPPRQ_1v1rGCbNezspRVXzLfVPeo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDg5/NDUtMTM2NTE0OTY3/OC00NjcyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/JVhYvgsPhOTpSTbHYP8v1uu__fNif2iafkD6-JQ0Tt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDg5/NDUtMTM2NTE0OTY3/OC00NjcyLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/7LBXzNUuIbW4XhyeIo8k-6SE7lbMTAcB_auf1BB-Z_A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDg5/NDUtMTM2NTE1MDAy/Mi03NDE4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/7LBXzNUuIbW4XhyeIo8k-6SE7lbMTAcB_auf1BB-Z_A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDg5/NDUtMTM2NTE1MDAy/Mi03NDE4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/ApRB_HMZ0W5s5einRS2cVQY3HeoWiEzLvmaRHHpagVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDg5/NDUtMTM2NTE1MDAy/Mi03NDE4LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/sznL-vWX50ayjDravoI9zuyzU2ekrpW1p2iq5HWqMzI/rs:fit/g:sm/q:90/h:584/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDg5/NDUtMTM2NTE1MDAz/OC0xNzM4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/sznL-vWX50ayjDravoI9zuyzU2ekrpW1p2iq5HWqMzI/rs:fit/g:sm/q:90/h:584/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDg5/NDUtMTM2NTE1MDAz/OC0xNzM4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/PmwDe_mDuLPe67TQc6cOs2NAszbO__STj1eAvUAgZtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDg5/NDUtMTM2NTE1MDAz/OC0xNzM4LmpwZWc.jpeg",
+      "width": 578,
+      "height": 584
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/s18IYUjf5KmsvqyjuEbdKWAKvHLmXGm8IA3ttj99bvY/rs:fit/g:sm/q:90/h:584/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDg5/NDUtMTM2NTE1MDA3/NS03MjIzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/s18IYUjf5KmsvqyjuEbdKWAKvHLmXGm8IA3ttj99bvY/rs:fit/g:sm/q:90/h:584/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDg5/NDUtMTM2NTE1MDA3/NS03MjIzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/2JoBMgxopBli8sFZo66BO7r74IZ8C3iLHgSHGqOvsNs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDg5/NDUtMTM2NTE1MDA3/NS03MjIzLmpwZWc.jpeg",
+      "width": 578,
+      "height": 584
+    }
+  ],
+  "thumb": "https://i.discogs.com/JVhYvgsPhOTpSTbHYP8v1uu__fNif2iafkD6-JQ0Tt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDg5/NDUtMTM2NTE0OTY3/OC00NjcyLmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

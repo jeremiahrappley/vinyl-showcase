@@ -1,0 +1,376 @@
+{
+  "id": 19298899,
+  "status": "Accepted",
+  "year": 2021,
+  "resource_url": "https://api.discogs.com/releases/19298899",
+  "uri": "https://www.discogs.com/release/19298899-The-Marías-Cinema",
+  "artists": [
+    {
+      "name": "The Marías",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 6866527,
+      "resource_url": "https://api.discogs.com/artists/6866527",
+      "thumbnail_url": "https://i.discogs.com/nDoj8dyBGhUMed7l8XWjKYyNXOQxZHhW1UYuDzG_5Qc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY4NjY1/MjctMTc0NjkyNTQw/Ni0xMzg4LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Marías, The",
+  "labels": [
+    {
+      "name": "Nice Life",
+      "catno": "075678644306",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1120233,
+      "resource_url": "https://api.discogs.com/labels/1120233",
+      "thumbnail_url": "https://i.discogs.com/_PG5dNBjM3un9rJb3ZDll24GEopWi4f0phrIIR8bDQ0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExMjAy/MzMtMTU2NDUwNTQ0/OS02NTM1LmpwZWc.jpeg"
+    },
+    {
+      "name": "Atlantic",
+      "catno": "075678644306",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 681,
+      "resource_url": "https://api.discogs.com/labels/681",
+      "thumbnail_url": "https://i.discogs.com/PvGehzQPvOW9qMVS-EDAeOmU6qODkqTEQ5bW03gpVyo/rs:fit/g:sm/q:90/h:426/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY4MS0x/NTEwNjgyMTM0LTgz/NTAucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "GZ Media",
+      "catno": "224560E",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    },
+    {
+      "name": "Precision Record Pressing",
+      "catno": "10-91243",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 523699,
+      "resource_url": "https://api.discogs.com/labels/523699",
+      "thumbnail_url": "https://i.discogs.com/DfWvGCw34Q127_Eqz8MBLNwe-7lZqvAuM3xxalopIBo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUyMzY5/OS0xNjk5MzgyMzgz/LTIwNDYucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album"
+      ]
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 5174,
+    "want": 1181,
+    "rating": {
+      "count": 458,
+      "average": 4.72
+    },
+    "submitter": {
+      "username": ".Luke.",
+      "resource_url": "https://api.discogs.com/users/.Luke."
+    },
+    "contributors": [
+      {
+        "username": ".Luke.",
+        "resource_url": "https://api.discogs.com/users/.Luke."
+      },
+      {
+        "username": "aplo",
+        "resource_url": "https://api.discogs.com/users/aplo"
+      },
+      {
+        "username": "dreamshop",
+        "resource_url": "https://api.discogs.com/users/dreamshop"
+      },
+      {
+        "username": "ArnoldMoran",
+        "resource_url": "https://api.discogs.com/users/ArnoldMoran"
+      },
+      {
+        "username": "Nattygirl6",
+        "resource_url": "https://api.discogs.com/users/Nattygirl6"
+      },
+      {
+        "username": "enter-disc",
+        "resource_url": "https://api.discogs.com/users/enter-disc"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2021-06-27T13:27:51-07:00",
+  "date_changed": "2023-11-30T14:58:29-08:00",
+  "num_for_sale": 58,
+  "lowest_price": 19.94,
+  "master_id": 2188789,
+  "master_url": "https://api.discogs.com/masters/2188789",
+  "title": "Cinema",
+  "country": "US",
+  "released": "2021-06-25",
+  "notes": "Pocket sleeve with pictured inner sleeve.\n\nMade in Canada.",
+  "released_formatted": "25 Jun 2021",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "0 75678 64430 6"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "10-91243 / 1-654198 - A 224560E1/A",
+      "description": "Side A stamped"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "10-91243 / 1-654198 - B 224560E2/A",
+      "description": "Side B stamped"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=z8LEe3DWzTM",
+      "title": "The Marías - Just A Feeling (Official Audio)",
+      "description": "The Marías - Just A Feelling\nStream 'CINEMA' here: https://themarias.lnk.to/CINEMA\n\nSubscribe to our channel here: https://themarias.lnk.to/YouTube\n\nFOLLOW\nTikTok: https://themarias.lnk.to/TikTok (@themarias)\nInstagram: https://themarias.lnk.to/Instagram ",
+      "duration": 83,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ic9QuIHlj6Q",
+      "title": "The Marías - Calling U Back",
+      "description": "Our album, CINEMA, is here! This is the second track from the album, and it's one of our favorites. \n\nStream 'Calling U Back' here: https://themarias.lnk.to/CINEMA\n\nDirected by Bethany Vargas and Maria Zardoya\nVideo written by Maria Zardoya, Bethany Varga",
+      "duration": 205,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=jFy03i_LRO8",
+      "title": "The Marías - Hush",
+      "description": "'Hush' is the first single from our debut album, CINEMA, which will be released on June 25th! \n\nWritten by María Zardoya and Josh Conway, produced by Josh Conway \n\nStream \"Hush\" here: https://themarias.lnk.to/Hush\n\nSubscribe to our channel here: https://t",
+      "duration": 181,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ScTkEsOKfvg",
+      "title": "The Marías - All I Really Want Is You",
+      "description": "The Marías - All I Really Want Is You\nStream 'CINEMA': https://themarias.lnk.to/CINEMA\n\nDirected by: Bethany Vargas \nEP & Producer: Mariah Morgenstern \nCo-Producer: Victoria Gluchoski \nProduction Company: New Royalty \n\n-\nDirector of Photography:\n1st AC: G",
+      "duration": 194,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=cQZDH4NWmaU",
+      "title": "The Marías - Un Millón",
+      "description": "The Marías - Un Millón\nStream CINEMA here: https://themarias.lnk.to/CINEMA\n\nSubscribe to our channel here: https://themarias.lnk.to/YouTube\n\nFOLLOW\nTikTok: https://themarias.lnk.to/TikTok (@themarias)\nInstagram: https://themarias.lnk.to/Instagram (@themar",
+      "duration": 168,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=pBHK3hgBwNc",
+      "title": "The Marías - CINEMA (Full Album)",
+      "description": "Stream: https://themarias.lnk.to/CINEMA \n\nFollow The Marías\nhttps://www.themarias.us/\nhttps://www.instagram.com/themarias/\nhttps://themarias.bandcamp.com/\nhttps://www.facebook.com/themariasmp3/\n\n1. Just a Feeling (00:00)\n2. Calling U Back (01:22)\n3. Hush ",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=z8LEe3DWzTM",
+      "title": "The Marías - Just A Feeling (Official Audio)",
+      "description": "The Marías - Just A Feelling\nStream 'CINEMA' here: https://themarias.lnk.to/CINEMA\n\nSubscribe to our channel here: https://themarias.lnk.to/YouTube\n\nFOLLOW\nTikTok: https://themarias.lnk.to/TikTok (@themarias)\nInstagram: https://themarias.lnk.to/Instagram ",
+      "duration": 83,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ic9QuIHlj6Q",
+      "title": "The Marías - Calling U Back",
+      "description": "Our album, CINEMA, is here! This is the second track from the album, and it's one of our favorites. \n\nStream 'Calling U Back' here: https://themarias.lnk.to/CINEMA\n\nDirected by Bethany Vargas and Maria Zardoya\nVideo written by Maria Zardoya, Bethany Varga",
+      "duration": 205,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=jFy03i_LRO8",
+      "title": "The Marías - Hush",
+      "description": "'Hush' is the first single from our debut album, CINEMA, which will be released on June 25th! \n\nWritten by María Zardoya and Josh Conway, produced by Josh Conway \n\nStream \"Hush\" here: https://themarias.lnk.to/Hush\n\nSubscribe to our channel here: https://t",
+      "duration": 181,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ScTkEsOKfvg",
+      "title": "The Marías - All I Really Want Is You",
+      "description": "The Marías - All I Really Want Is You\nStream 'CINEMA': https://themarias.lnk.to/CINEMA\n\nDirected by: Bethany Vargas \nEP & Producer: Mariah Morgenstern \nCo-Producer: Victoria Gluchoski \nProduction Company: New Royalty \n\n-\nDirector of Photography:\n1st AC: G",
+      "duration": 194,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=cQZDH4NWmaU",
+      "title": "The Marías - Un Millón",
+      "description": "The Marías - Un Millón\nStream CINEMA here: https://themarias.lnk.to/CINEMA\n\nSubscribe to our channel here: https://themarias.lnk.to/YouTube\n\nFOLLOW\nTikTok: https://themarias.lnk.to/TikTok (@themarias)\nInstagram: https://themarias.lnk.to/Instagram (@themar",
+      "duration": 168,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=pBHK3hgBwNc",
+      "title": "The Marías - CINEMA (Full Album)",
+      "description": "Stream: https://themarias.lnk.to/CINEMA \n\nFollow The Marías\nhttps://www.themarias.us/\nhttps://www.instagram.com/themarias/\nhttps://themarias.bandcamp.com/\nhttps://www.facebook.com/themariasmp3/\n\n1. Just a Feeling (00:00)\n2. Calling U Back (01:22)\n3. Hush ",
+      "duration": 0,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Rock",
+    "Pop"
+  ],
+  "styles": [
+    "Indie Pop",
+    "Alternative Rock"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Just A Feeling",
+      "duration": "1:22"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Call U Back",
+      "duration": "3:19"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Hush",
+      "duration": "3:01"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "All I Really Want Is You",
+      "duration": "3:11"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Hable Con Ella",
+      "duration": "0:33"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Little By Little",
+      "duration": "2:58"
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "title": "Heavy",
+      "duration": "4:13"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Un Millón",
+      "duration": "2:47"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Spin Me Around",
+      "duration": "2:26"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "The Mice Inside This Room",
+      "duration": "4:08"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "To Say Hello",
+      "duration": "3:22"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Fog As A Bullet",
+      "duration": "2:57"
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Talk To Her",
+      "duration": "5:26"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/okfoHdSjyhqBN2QNO97U4KMLiPvDnVeiylOMKJggj8w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk4/ODk5LTE2NDIwNDAy/NzYtNTIwMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/okfoHdSjyhqBN2QNO97U4KMLiPvDnVeiylOMKJggj8w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk4/ODk5LTE2NDIwNDAy/NzYtNTIwMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/nOAHWfOnUj0AnykNdjIC-GmrBKiTVuVGnGmk9N8iCII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk4/ODk5LTE2NDIwNDAy/NzYtNTIwMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/XNlbkW9ucRAyN9DJvwxbxaOEV3BHy_LFt3h74XJhX58/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk4/ODk5LTE2NjYzNzcw/NzEtNjIxMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/XNlbkW9ucRAyN9DJvwxbxaOEV3BHy_LFt3h74XJhX58/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk4/ODk5LTE2NjYzNzcw/NzEtNjIxMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/pI2EW5YT0Cj0sx27YrL-aziU8rzM3dS9JiZjW4fAyks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk4/ODk5LTE2NjYzNzcw/NzEtNjIxMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 594
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/jLYEkt7n9CbGa15HZIV3lkZD9chQmG-7b6t6W7q6E20/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk4/ODk5LTE2NjYzNzcw/NzItNjkxNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/jLYEkt7n9CbGa15HZIV3lkZD9chQmG-7b6t6W7q6E20/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk4/ODk5LTE2NjYzNzcw/NzItNjkxNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/0abtm3wyR8IZpAqy34_XW85DT5_zg3Ww7_b2mHiX9QU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk4/ODk5LTE2NjYzNzcw/NzItNjkxNi5qcGVn.jpeg",
+      "width": 592,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/wFhzRnyVvl5YvjgKhJhhAe33IgVPAw07fZhto_qvx6I/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk4/ODk5LTE2NjYzNzcw/NzItMzY4MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/wFhzRnyVvl5YvjgKhJhhAe33IgVPAw07fZhto_qvx6I/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk4/ODk5LTE2NjYzNzcw/NzItMzY4MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/g6U09uyXm31pj35G-ukGND6R8OAl8DZIKgElGKvW6W8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk4/ODk5LTE2NjYzNzcw/NzItMzY4MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ucghFXyjLkukvqVraYkPX813TxitXAHPFATNIHaMwf4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk4/ODk5LTE2NjYzNzcw/NzItNjEwMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ucghFXyjLkukvqVraYkPX813TxitXAHPFATNIHaMwf4/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk4/ODk5LTE2NjYzNzcw/NzItNjEwMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/CRlKcgs3PDczGtpujrd3DWERQBKLbvAKN7sZckUA4I4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk4/ODk5LTE2NjYzNzcw/NzItNjEwMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 597
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/k6emgfUhe8BLlGNt2eTg2jDOR81EuaX7K_nwi4IE6tk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk4/ODk5LTE2NjYzNzcw/NzItMzMzNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/k6emgfUhe8BLlGNt2eTg2jDOR81EuaX7K_nwi4IE6tk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk4/ODk5LTE2NjYzNzcw/NzItMzMzNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/1KVSzLhTkIxHDvwzv_xkqyGxbVQd1K5i7ILG8RL0ZAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk4/ODk5LTE2NjYzNzcw/NzItMzMzNi5qcGVn.jpeg",
+      "width": 600,
+      "height": 595
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/CEztup9b5uxLNmrlk8hQndPFjWBu9AJOC-PjdNCIKQc/rs:fit/g:sm/q:90/h:568/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk4/ODk5LTE2NjYzNzcw/NzItMjk5OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/CEztup9b5uxLNmrlk8hQndPFjWBu9AJOC-PjdNCIKQc/rs:fit/g:sm/q:90/h:568/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk4/ODk5LTE2NjYzNzcw/NzItMjk5OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/MJX4AMSr1JW2M3QZQKdAa8DzM8oVUjmueKsL9Zta4JU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk4/ODk5LTE2NjYzNzcw/NzItMjk5OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 568
+    }
+  ],
+  "thumb": "https://i.discogs.com/nOAHWfOnUj0AnykNdjIC-GmrBKiTVuVGnGmk9N8iCII/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5Mjk4/ODk5LTE2NDIwNDAy/NzYtNTIwMS5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

@@ -1,0 +1,323 @@
+{
+  "id": 16758117,
+  "status": "Accepted",
+  "year": 2015,
+  "resource_url": "https://api.discogs.com/releases/16758117",
+  "uri": "https://www.discogs.com/release/16758117-Adele-3-25",
+  "artists": [
+    {
+      "name": "Adele (3)",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 819015,
+      "resource_url": "https://api.discogs.com/artists/819015",
+      "thumbnail_url": "https://i.discogs.com/YljpB4UqaQeFCgOMCrvJqsAIXmkchPjxQBza_Gpdjxs/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgxOTAx/NS0xNjM3NTQ5Nzk4/LTUzNTYuanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Adele (3)",
+  "labels": [
+    {
+      "name": "Columbia",
+      "catno": "88875176771",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    },
+    {
+      "name": "XL Recordings",
+      "catno": "88875176771",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 160,
+      "resource_url": "https://api.discogs.com/labels/160",
+      "thumbnail_url": "https://i.discogs.com/932wWIy-irN7e63hKJxyhvNn1NkxqiKg4vlaTd7BLcc/rs:fit/g:sm/q:90/h:434/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2MC0x/NDk2MTcwNjcxLTQz/NDAucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Sterling Sound",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 264060,
+      "resource_url": "https://api.discogs.com/labels/264060",
+      "thumbnail_url": "https://i.discogs.com/Z8f0gMBrt5jLL4TAcCYDGXmMPOLi9V0UW593WXP6BUU/rs:fit/g:sm/q:90/h:118/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDA2/MC0xNTAwMjgzMzYy/LTMyMTguanBlZw.jpeg"
+    },
+    {
+      "name": "MPO",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 56025,
+      "resource_url": "https://api.discogs.com/labels/56025",
+      "thumbnail_url": "https://i.discogs.com/ESRU3eTUmc1632Us6_7LBipnaQGV6lJe-D5nyFxssyw/rs:fit/g:sm/q:90/h:336/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU2MDI1/LTEzMTQ2OTg5ODQu/anBlZw.jpeg"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "XL Recordings Ltd.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 43718,
+      "resource_url": "https://api.discogs.com/labels/43718"
+    },
+    {
+      "name": "XL Recordings Ltd.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 43718,
+      "resource_url": "https://api.discogs.com/labels/43718"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "text": "180g, MPO Pressing"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 5198,
+    "want": 751,
+    "rating": {
+      "count": 184,
+      "average": 4.51
+    },
+    "submitter": {
+      "username": "ToothpasteRecords",
+      "resource_url": "https://api.discogs.com/users/ToothpasteRecords"
+    },
+    "contributors": [
+      {
+        "username": "ToothpasteRecords",
+        "resource_url": "https://api.discogs.com/users/ToothpasteRecords"
+      },
+      {
+        "username": "EntePips",
+        "resource_url": "https://api.discogs.com/users/EntePips"
+      },
+      {
+        "username": "StinkyyJimm",
+        "resource_url": "https://api.discogs.com/users/StinkyyJimm"
+      },
+      {
+        "username": "ghostsofjoy",
+        "resource_url": "https://api.discogs.com/users/ghostsofjoy"
+      },
+      {
+        "username": "RecordChaser9",
+        "resource_url": "https://api.discogs.com/users/RecordChaser9"
+      },
+      {
+        "username": "lawups",
+        "resource_url": "https://api.discogs.com/users/lawups"
+      },
+      {
+        "username": "stretch35",
+        "resource_url": "https://api.discogs.com/users/stretch35"
+      },
+      {
+        "username": "myvinyldiscography",
+        "resource_url": "https://api.discogs.com/users/myvinyldiscography"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2021-01-02T21:38:53-08:00",
+  "date_changed": "2024-05-07T12:36:03-07:00",
+  "num_for_sale": 17,
+  "lowest_price": 16.99,
+  "master_id": 912912,
+  "master_url": "https://api.discogs.com/masters/912912",
+  "title": "25",
+  "country": "US",
+  "released": "2015-11-20",
+  "notes": "Not to be confused with the [url=https://www.discogs.com/release/7714716-Adele-25]Record Technology Incorporated pressing[/url].\n\nRunouts: STERLING is stamped, the rest is etched.\n\n℗ & © 2015 XL Recordings Ltd under exclusive license to Columbia Records, a division of Sony Music Entertainment.\n\nManufactured and distributed by Columbia Records, a division of Sony Music Entertainment.",
+  "released_formatted": "20 Nov 2015",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "888751767713",
+      "description": "String"
+    },
+    {
+      "type": "Barcode",
+      "value": "8 88751 76771 3",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "0888751767713",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL-88875176771-04 MPO RKS STERLING 15-0424 A",
+      "description": "Side A runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BL-88875176771-04 RKS STERLING MPO 15-0424 B",
+      "description": "Side B runout"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=YQHsXMglC9A",
+      "title": "Adele - Hello",
+      "description": "Listen to \"Easy On Me\" here: http://Adele.lnk.to/EOM\nPre-order Adele's new album \"30\" before its release on November 19:  https://www.adele.com\nShop the \"Adele\" collection here: http://shop.adele.com\n\n‘Hello' is taken from the new album, 25, out November ",
+      "duration": 367,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=fk4BbF7B29w",
+      "title": "Adele - Send My Love (To Your New Lover)",
+      "description": "Listen to \"Easy On Me\" here: http://Adele.lnk.to/EOM\nPre-order Adele's new album \"30\" before its release on November 19:  https://www.adele.com\nShop the \"Adele\" collection here: http://shop.adele.com\n\n’Send My Love (To Your New Lover)' is taken from the n",
+      "duration": 225,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Funk / Soul",
+    "Blues",
+    "Pop"
+  ],
+  "styles": [
+    "Ballad",
+    "Neo Soul",
+    "Piano Blues"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Hello",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Send My Love (To Your New Lover)",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "I Miss You",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "When We Were Young",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Remedy",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Water Under The Bridge",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "River Lea",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Love In The Dark",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Million Years Ago",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "All I Ask",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Sweetest Devotion",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Ryan Smith (2)",
+      "anv": "RKS",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 463852,
+      "resource_url": "https://api.discogs.com/artists/463852"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/LvjB8gi4TFY4NxSPNL6UgFxaJ508DcIKvFgahsFvJT4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzU4/MTE3LTE2MTI4OTkz/MDctNTg2MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/LvjB8gi4TFY4NxSPNL6UgFxaJ508DcIKvFgahsFvJT4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzU4/MTE3LTE2MTI4OTkz/MDctNTg2MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/phx2r-LqtlWBMLrz99GBr_rGjDw5qMATfg749sWbjV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzU4/MTE3LTE2MTI4OTkz/MDctNTg2MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/phx2r-LqtlWBMLrz99GBr_rGjDw5qMATfg749sWbjV4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2NzU4/MTE3LTE2MTI4OTkz/MDctNTg2MC5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

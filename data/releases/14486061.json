@@ -1,0 +1,528 @@
+{
+  "id": 14486061,
+  "status": "Accepted",
+  "year": 2019,
+  "resource_url": "https://api.discogs.com/releases/14486061",
+  "uri": "https://www.discogs.com/release/14486061-Ariana-Grande-Yours-Truly",
+  "artists": [
+    {
+      "name": "Ariana Grande",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 3310737,
+      "resource_url": "https://api.discogs.com/artists/3310737",
+      "thumbnail_url": "https://i.discogs.com/ns2Lr4_vKieO-26rNH1Uzj5CreZtJlFsHv_Y4ebasps/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMzMTA3/MzctMTc3OTAzOTgw/NS0yMDQ1LnBuZw.jpeg"
+    }
+  ],
+  "artists_sort": "Ariana Grande",
+  "labels": [
+    {
+      "name": "Republic Records",
+      "catno": "00602577974496",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    },
+    {
+      "name": "Universal Music",
+      "catno": "00602577974496",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 23694,
+      "resource_url": "https://api.discogs.com/labels/23694",
+      "thumbnail_url": "https://i.discogs.com/oDtwgSDoEISnEoPdpSQh3FPCoVmoMTWRbDrYa4KaRfA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzNjk0/LTEzNzM1MzYzNjQt/NjEwMC5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Capitol Mastering",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 265641,
+      "resource_url": "https://api.discogs.com/labels/265641",
+      "thumbnail_url": "https://i.discogs.com/WZIdEkMtFRU9WE2mh_uoQXKVSK_rL-3v1CzEGp4iDAA/rs:fit/g:sm/q:90/h:250/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTY0/MS0xNDA2MzU5NTE5/LTk2NDYuanBlZw.jpeg"
+    },
+    {
+      "name": "Optimal Media GmbH",
+      "catno": "BJ74029",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 313190,
+      "resource_url": "https://api.discogs.com/labels/313190",
+      "thumbnail_url": "https://i.discogs.com/VHruzHmKvGgDvoWX6iI_4n5eC7mKyVei1mNz573rJtk/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxMzE5/MC0xNTE2MzgxNjk2/LTIzMTgucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 9648,
+    "want": 1564,
+    "rating": {
+      "count": 689,
+      "average": 4.58
+    },
+    "submitter": {
+      "username": "CD_WAREHOUSE_817",
+      "resource_url": "https://api.discogs.com/users/CD_WAREHOUSE_817"
+    },
+    "contributors": [
+      {
+        "username": "CD_WAREHOUSE_817",
+        "resource_url": "https://api.discogs.com/users/CD_WAREHOUSE_817"
+      },
+      {
+        "username": "lesbiantrap",
+        "resource_url": "https://api.discogs.com/users/lesbiantrap"
+      },
+      {
+        "username": "Ovi_ch",
+        "resource_url": "https://api.discogs.com/users/Ovi_ch"
+      },
+      {
+        "username": "Mascheto",
+        "resource_url": "https://api.discogs.com/users/Mascheto"
+      },
+      {
+        "username": "_jules",
+        "resource_url": "https://api.discogs.com/users/_jules"
+      },
+      {
+        "username": "movceo",
+        "resource_url": "https://api.discogs.com/users/movceo"
+      },
+      {
+        "username": "SpindizzyRecords",
+        "resource_url": "https://api.discogs.com/users/SpindizzyRecords"
+      },
+      {
+        "username": "georgemusic02",
+        "resource_url": "https://api.discogs.com/users/georgemusic02"
+      },
+      {
+        "username": "leonardoaraujo",
+        "resource_url": "https://api.discogs.com/users/leonardoaraujo"
+      },
+      {
+        "username": "Needy4vinyl",
+        "resource_url": "https://api.discogs.com/users/Needy4vinyl"
+      },
+      {
+        "username": "fkanico",
+        "resource_url": "https://api.discogs.com/users/fkanico"
+      },
+      {
+        "username": "beebotjean",
+        "resource_url": "https://api.discogs.com/users/beebotjean"
+      },
+      {
+        "username": ".SLCOOLJ.",
+        "resource_url": "https://api.discogs.com/users/.SLCOOLJ."
+      },
+      {
+        "username": "SP_Vinyl",
+        "resource_url": "https://api.discogs.com/users/SP_Vinyl"
+      },
+      {
+        "username": "myvinyldiscography",
+        "resource_url": "https://api.discogs.com/users/myvinyldiscography"
+      },
+      {
+        "username": "vinylmaddy",
+        "resource_url": "https://api.discogs.com/users/vinylmaddy"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2019-12-04T14:27:25-08:00",
+  "date_changed": "2025-12-03T10:54:16-08:00",
+  "num_for_sale": 135,
+  "lowest_price": 24.89,
+  "master_id": 593431,
+  "master_url": "https://api.discogs.com/masters/593431",
+  "title": "Yours Truly",
+  "country": "USA & Europe",
+  "released": "2019-12-06",
+  "notes": "On vinyl for the first time.",
+  "released_formatted": "06 Dec 2019",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02577 97449 6",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "602577974496",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0030714-01-A V= BJ74029-01 A1 MASTERED BY CAPITOL",
+      "description": "Side A runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0030714-01-B V+ BJ74029-01 B1 IS",
+      "description": "Side B runout"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=_sV0S8qWSy0",
+      "title": "Ariana Grande - The Way (Official Video) ft. Mac Miller",
+      "description": "New single \"Problem\" available now on iTunes: http://smarturl.it/ArianaMyEvrythnDlxiT?IQid=vevo.cta.the.way\n\nAriana Grande “The Way” Ft. Mac Miller:\niTunes: http://smarturl.it/ArianaGrandeTheWayiT\nAmazon: http://smarturl.it/ArianaGrandeTheWayAZ\n\nMusic vid",
+      "duration": 232,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=bJuWlMFToNo",
+      "title": "Ariana Grande - Baby I (Official Video)",
+      "description": "New single “Problem” on iTunes: http://smarturl.it/ArianaMyEvrythnDlxiT?IQid=vevo.cta.baby.i\n\nAriana Grande “Baby I” from the debut album Yours Truly\nhttp://smarturl.it/ArianaYoursTruly",
+      "duration": 204,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=fhcpubAVdmc",
+      "title": "Ariana Grande - Right There (Official Video) ft. Big Sean",
+      "description": "New single “Problem” on iTunes: http://smarturl.it/ArianaMyEvrythnDlxiT?IQid=vevo.cta.right.there\n\nDownload Ariana Grande's album \"Yours Truly\" featuring the single \"Right There\" now on:\niTunes: http://smarturl.it/ArianaYoursTruly\nAmazon: http://smarturl.",
+      "duration": 259,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=b87dBaL4qI0",
+      "title": "Ariana Grande - Almost Is Never Enough (Official Video) ft. Nathan Sykes",
+      "description": "New single “Problem” on iTunes: http://smarturl.it/ArianaMyEvrythnDlxiT?IQid=vevo.cta.almost\n\nAriana Grande & Nathan Sykes “Almost Is Never Enough (Soundtrack Version)” is from \n“The Mortal Instruments:  City Of Bones” – Original Motion Picture Soundtrack",
+      "duration": 225,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=nmcdLOjGVzw",
+      "title": "MIKA - Popular Song ft. Ariana Grande",
+      "description": "Official Website: https://www.yomika.com/home/ \nStream: https://lnk.to/L8GZG\nFacebook: https://www.facebook.com/mikasounds\nTwitter: https://twitter.com/mikasounds\nInstagram: https://www.instagram.com/mikainstagram/\n\n\"Popular Song\" is available for downloa",
+      "duration": 207,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=iS1g8G_njx8",
+      "title": "Ariana Grande - Problem ft. Iggy Azalea",
+      "description": "Official video by Ariana Grande ft. Iggy Azalea performing “Problem” – available now: http://smarturl.it/ArianaMyEvrythnDlx\n\nSubscribe for more official content from Ariana: https://ArianaGrande.lnk.to/subscribeVD\n\nMerch: https://shop.arianagrande.com/\n\nC",
+      "duration": 208,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Hip Hop",
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Contemporary R&B"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Honeymoon Avenue",
+      "extraartists": [
+        {
+          "name": "Matt Squire",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 289757,
+          "resource_url": "https://api.discogs.com/artists/289757"
+        },
+        {
+          "name": "Tommy Brown (8)",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 2930075,
+          "resource_url": "https://api.discogs.com/artists/2930075"
+        },
+        {
+          "name": "Travis Sayles",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 2343300,
+          "resource_url": "https://api.discogs.com/artists/2343300"
+        }
+      ],
+      "duration": "5:40"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Baby I",
+      "duration": "3:18"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Right There",
+      "extraartists": [
+        {
+          "name": "Big Sean",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1201210,
+          "resource_url": "https://api.discogs.com/artists/1201210"
+        }
+      ],
+      "duration": "4:07"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Tattooed Heart",
+      "extraartists": [
+        {
+          "name": "Nathaniel Motte",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 1443695,
+          "resource_url": "https://api.discogs.com/artists/1443695"
+        },
+        {
+          "name": "Matt Squire",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer, Written-By",
+          "tracks": "",
+          "id": 289757,
+          "resource_url": "https://api.discogs.com/artists/289757"
+        }
+      ],
+      "duration": "3:15"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Lovin' It",
+      "extraartists": [
+        {
+          "name": "Rickey Offord",
+          "anv": "Rickey \"SlikkMuszik\" Offord",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3442083,
+          "resource_url": "https://api.discogs.com/artists/3442083"
+        }
+      ],
+      "duration": "3:01"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Piano",
+      "duration": "3:54"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Daydreamin'",
+      "extraartists": [
+        {
+          "name": "Tommy Brown (8)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2930075,
+          "resource_url": "https://api.discogs.com/artists/2930075"
+        },
+        {
+          "name": "Matt Squire",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Written-By",
+          "tracks": "",
+          "id": 289757,
+          "resource_url": "https://api.discogs.com/artists/289757"
+        }
+      ],
+      "duration": "3:31"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "The Way",
+      "extraartists": [
+        {
+          "name": "Mac Miller",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2165577,
+          "resource_url": "https://api.discogs.com/artists/2165577"
+        }
+      ],
+      "duration": "3:47"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "You’ll Never Know",
+      "duration": "3:34"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Almost Is Never Enough",
+      "extraartists": [
+        {
+          "name": "Nathan Sykes",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2483781,
+          "resource_url": "https://api.discogs.com/artists/2483781"
+        }
+      ],
+      "duration": "5:28"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Popular Song",
+      "extraartists": [
+        {
+          "name": "MIKA (8)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring [With]",
+          "tracks": "",
+          "id": 630692,
+          "resource_url": "https://api.discogs.com/artists/630692"
+        },
+        {
+          "name": "Greg Wells",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 230625,
+          "resource_url": "https://api.discogs.com/artists/230625"
+        },
+        {
+          "name": "MIKA (8)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 630692,
+          "resource_url": "https://api.discogs.com/artists/630692"
+        }
+      ],
+      "duration": "3:20"
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Better Left Unsaid",
+      "duration": "3:31"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Ian Sefchick",
+      "anv": "",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 527017,
+      "resource_url": "https://api.discogs.com/artists/527017"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/QR9O0Yy2H9jtpiKRJwm6BZ_h8ovLRXoN5hYSTqEr8mE/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDYxLTE2ODIzNzMw/NjQtNTE4OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/QR9O0Yy2H9jtpiKRJwm6BZ_h8ovLRXoN5hYSTqEr8mE/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDYxLTE2ODIzNzMw/NjQtNTE4OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/vHv1BMdLmv1ZYawFXVWmyPTgTlP8utuP0KYWa34dPjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDYxLTE2ODIzNzMw/NjQtNTE4OC5qcGVn.jpeg",
+      "width": 598,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Q9Pg4h5gKV9ymKqXgf_-z-U7tnE3CsFwALygpjpkdUs/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDYxLTE1Nzc1NjIz/NjQtNjE2OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Q9Pg4h5gKV9ymKqXgf_-z-U7tnE3CsFwALygpjpkdUs/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDYxLTE1Nzc1NjIz/NjQtNjE2OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Yn4mtHNEk2Qb8VteSlNqDjuPFEaLaL56fgamkgvgzLw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDYxLTE1Nzc1NjIz/NjQtNjE2OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 586
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/GDg__6bS4z2GimCS2UAzQY6kADq27GfrG0YrCF4XxFw/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDYxLTE1Nzc1NjIz/NzMtNzExMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/GDg__6bS4z2GimCS2UAzQY6kADq27GfrG0YrCF4XxFw/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDYxLTE1Nzc1NjIz/NzMtNzExMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/OYO24B2e8Fs2XRdSHCt33ms8r8ESU1B1OK568XgjWys/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDYxLTE1Nzc1NjIz/NzMtNzExMC5qcGVn.jpeg",
+      "width": 600,
+      "height": 587
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/fAV-vN2_1hWQBJ_OykXv_hihCjLGpK5xGYvX0gJGkpY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDYxLTE1Nzc1NjIy/NzUtMTkzNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/fAV-vN2_1hWQBJ_OykXv_hihCjLGpK5xGYvX0gJGkpY/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDYxLTE1Nzc1NjIy/NzUtMTkzNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Xt9Le-hrD-SRVvQKayXKcG1qgzhWVqCnSXOMIvXcSVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDYxLTE1Nzc1NjIy/NzUtMTkzNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/8wRZGOeBNsnHn8NGMFvOizo7tHkNUWS8rZq6VBeabgw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDYxLTE1Nzc1NjIz/NjktNDgzMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/8wRZGOeBNsnHn8NGMFvOizo7tHkNUWS8rZq6VBeabgw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDYxLTE1Nzc1NjIz/NjktNDgzMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Kv9QiAo4Yr1Fe3Nxy_wJFs3Jizt5NErdom3su6NiyVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDYxLTE1Nzc1NjIz/NjktNDgzMy5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/_9_5tSp1CFw1aAdGcrGMbxpdDbFN_mCgzDNtAXYrS2w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDYxLTE1Nzc1NjIz/NzUtMTQyNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/_9_5tSp1CFw1aAdGcrGMbxpdDbFN_mCgzDNtAXYrS2w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDYxLTE1Nzc1NjIz/NzUtMTQyNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/hOnOOz_o-Ax2ZjezbEMdNTLa2oSpEIT510keLE_Kd4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDYxLTE1Nzc1NjIz/NzUtMTQyNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Kskvfker5v4OPcS17e7XA6tSjNU38QX-uZN7bg728uM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDYxLTE1Nzc1NjIz/MjAtNzg1OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Kskvfker5v4OPcS17e7XA6tSjNU38QX-uZN7bg728uM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDYxLTE1Nzc1NjIz/MjAtNzg1OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/7iLhFI2r1bUwmJHH3FwlK2Cku0jRWpHfKTYriW2jz3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDYxLTE1Nzc1NjIz/MjAtNzg1OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/vHv1BMdLmv1ZYawFXVWmyPTgTlP8utuP0KYWa34dPjI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDYxLTE2ODIzNzMw/NjQtNTE4OC5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

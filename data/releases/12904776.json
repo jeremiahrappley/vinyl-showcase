@@ -1,0 +1,1021 @@
+{
+  "id": 12904776,
+  "status": "Accepted",
+  "year": 2018,
+  "resource_url": "https://api.discogs.com/releases/12904776",
+  "uri": "https://www.discogs.com/release/12904776-Rüfüs-Du-Sol-Solace",
+  "artists": [
+    {
+      "name": "Rüfüs",
+      "anv": "Rüfüs Du Sol",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 2826701,
+      "resource_url": "https://api.discogs.com/artists/2826701",
+      "thumbnail_url": "https://i.discogs.com/414NIt3L96fL90nsCgIcYxCNfoteqjalRZMH3REV4Ag/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI4MjY3/MDEtMTQ1MzQ4MDc1/Ni00MjYxLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Rüfüs",
+  "labels": [
+    {
+      "name": "Rose Avenue",
+      "catno": "574498-1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1546151,
+      "resource_url": "https://api.discogs.com/labels/1546151",
+      "thumbnail_url": "https://i.discogs.com/SNyQPzBSVqqwfynOuqzbRhV40UBkJaG0jlj0PuRr4t4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1NDYx/NTEtMTYyNzc2MDE1/Ni0yNTM0LmpwZWc.jpeg"
+    },
+    {
+      "name": "Reprise Records",
+      "catno": "574498-1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 157,
+      "resource_url": "https://api.discogs.com/labels/157",
+      "thumbnail_url": "https://i.discogs.com/iKBCqc_nPLAGiCS4_2RshoKpj-ZuUJo7Z1qzYmFuJrc/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1Ny0x/NTIxMTk1ODk5LTE1/NzgucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Reprise Records",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 157,
+      "resource_url": "https://api.discogs.com/labels/157",
+      "thumbnail_url": "https://i.discogs.com/iKBCqc_nPLAGiCS4_2RshoKpj-ZuUJo7Z1qzYmFuJrc/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1Ny0x/NTIxMTk1ODk5LTE1/NzgucG5n.jpeg"
+    },
+    {
+      "name": "Condor Records (18)",
+      "catno": "",
+      "entity_type": "6",
+      "entity_type_name": "Licensed From",
+      "id": 1017586,
+      "resource_url": "https://api.discogs.com/labels/1017586"
+    },
+    {
+      "name": "Reprise Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 157,
+      "resource_url": "https://api.discogs.com/labels/157",
+      "thumbnail_url": "https://i.discogs.com/iKBCqc_nPLAGiCS4_2RshoKpj-ZuUJo7Z1qzYmFuJrc/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1Ny0x/NTIxMTk1ODk5LTE1/NzgucG5n.jpeg"
+    },
+    {
+      "name": "Rose Avenue",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 1546151,
+      "resource_url": "https://api.discogs.com/labels/1546151",
+      "thumbnail_url": "https://i.discogs.com/SNyQPzBSVqqwfynOuqzbRhV40UBkJaG0jlj0PuRr4t4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1NDYx/NTEtMTYyNzc2MDE1/Ni0yNTM0LmpwZWc.jpeg"
+    },
+    {
+      "name": "Reprise Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 157,
+      "resource_url": "https://api.discogs.com/labels/157",
+      "thumbnail_url": "https://i.discogs.com/iKBCqc_nPLAGiCS4_2RshoKpj-ZuUJo7Z1qzYmFuJrc/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1Ny0x/NTIxMTk1ODk5LTE1/NzgucG5n.jpeg"
+    },
+    {
+      "name": "Rose Avenue",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 1546151,
+      "resource_url": "https://api.discogs.com/labels/1546151",
+      "thumbnail_url": "https://i.discogs.com/SNyQPzBSVqqwfynOuqzbRhV40UBkJaG0jlj0PuRr4t4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1NDYx/NTEtMTYyNzc2MDE1/Ni0yNTM0LmpwZWc.jpeg"
+    },
+    {
+      "name": "GZ Media",
+      "catno": "181355E",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    },
+    {
+      "name": "Condor Records (18)",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 1017586,
+      "resource_url": "https://api.discogs.com/labels/1017586"
+    },
+    {
+      "name": "Mixsuite LA",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 431810,
+      "resource_url": "https://api.discogs.com/labels/431810",
+      "thumbnail_url": "https://i.discogs.com/E1bgpO2jwm4nfUx5uKBnT7dvB7CAQhfUYlEb9DFX0Ho/rs:fit/g:sm/q:90/h:172/w:292/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMTgx/MC0xMzU0NTcwMDMy/LTU1OTguanBlZw.jpeg"
+    },
+    {
+      "name": "Bernie Becker Mastering",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 306694,
+      "resource_url": "https://api.discogs.com/labels/306694"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 3092,
+    "want": 974,
+    "rating": {
+      "count": 221,
+      "average": 4.7
+    },
+    "submitter": {
+      "username": "TruthVinyl",
+      "resource_url": "https://api.discogs.com/users/TruthVinyl"
+    },
+    "contributors": [
+      {
+        "username": "TruthVinyl",
+        "resource_url": "https://api.discogs.com/users/TruthVinyl"
+      },
+      {
+        "username": "electro_space",
+        "resource_url": "https://api.discogs.com/users/electro_space"
+      },
+      {
+        "username": "saltyceedog",
+        "resource_url": "https://api.discogs.com/users/saltyceedog"
+      },
+      {
+        "username": "turbanmann",
+        "resource_url": "https://api.discogs.com/users/turbanmann"
+      },
+      {
+        "username": "Butcha_records",
+        "resource_url": "https://api.discogs.com/users/Butcha_records"
+      },
+      {
+        "username": "AskeladdenBlack",
+        "resource_url": "https://api.discogs.com/users/AskeladdenBlack"
+      },
+      {
+        "username": "CbJack68",
+        "resource_url": "https://api.discogs.com/users/CbJack68"
+      },
+      {
+        "username": "ShireenPeaches",
+        "resource_url": "https://api.discogs.com/users/ShireenPeaches"
+      },
+      {
+        "username": "JonsiCat",
+        "resource_url": "https://api.discogs.com/users/JonsiCat"
+      },
+      {
+        "username": "Calamitous1",
+        "resource_url": "https://api.discogs.com/users/Calamitous1"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2018-12-07T14:11:49-08:00",
+  "date_changed": "2026-01-27T04:33:26-08:00",
+  "num_for_sale": 33,
+  "lowest_price": 22.43,
+  "master_id": 1449633,
+  "master_url": "https://api.discogs.com/masters/1449633",
+  "title": "Solace",
+  "country": "US",
+  "released": "2018-12-07",
+  "notes": "Gatefold cover with printed insert.\n\nOn back: \n© ℗ 2018 Rose Avenue Records under exclusive license to Reprise Records\nfor the U.S. and WEA International Inc. for the world outside the U.S.\nPrinted in Canada.\n\nInlay: \nLost In My Mind contains elements from \"Women`s Honoring Song\".\nwritten and performed by Wakinyan Oyate. Licensed courtesy of Condor Records. \nPublished by Condor Records.\n© 2018 Reprise Records. Printed in Canada.\n\nOn label A: \nTrack 4 contains elements from \"Women`s Honoring Song\"\nwritten and performed by Wakinyan Oyate. Licensed courtesy of Condor Records. \nPublished by Condor Records.\n© ℗ 2018 Reprise Records. Manufactured in Canada.\n\nWakinyan Oyate is misspelled as Wakinyon Oyate on the release.\nPressing plant is uncredited, derived from the runout etchings.",
+  "released_formatted": "07 Dec 2018",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "0 93624 90324 6",
+      "description": "Text"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "181355E1/A 10-85415/1-574498-A/Reprise BG 1-574498-A ",
+      "description": "Runout side A, stamped, BG 1-574498-A etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "181355E2/A 10-85415/1-574498-B/Reprise BG 1-574498-B ",
+      "description": "Runout side B, stamped, BG 1-574498-B etched"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=R6w4EI6bVfs",
+      "title": "RÜFÜS DU SOL ●● Treat You Better (Official Full Length Video)",
+      "description": "RÜFÜS DU SOL ●● Treat You Better  [Official Video]\nGet the new album SOLACE here 🎶: https://rufusdusol.lnk.to/solace\n\nDirected by: Leah Barylsky & Katzki\n\nFollow Us:\nWebsite: https://rufusdusol.lnk.to/website\nFacebook: https://rufusdusol.lnk.to/f",
+      "duration": 274,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=1Vbtj7nIQlo",
+      "title": "RÜFÜS DU SOL ●● Lost In My Mind [Official Video]",
+      "description": "RÜFÜS DU SOL ●● Lost In My Mind [Official Video]\nGet the new album Solace here 🎶: https://rufusdusol.lnk.to/Solace\n\nDirected by: Drew Kirsch\n\nFollow Us:\nWebsite: https://rufusdusol.lnk.to/website\nFacebook: https://rufusdusol.lnk.to/facebook\nTwitt",
+      "duration": 263,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=-ge8lQfig9Y",
+      "title": "RÜFÜS DU SOL ●● No Place [Official Video]",
+      "description": "RÜFÜS DU SOL ●● No Place [Official Video]\nGet it here 🎶: https://rufusdusol.lnk.to/NoPlace\n\nDirected by: Katzki \nInspired by the art of Le Fawnhawk \n\nFollow RÜFÜS DU SOL:\nWebsite: https://rufusdusol.lnk.to/website\nFacebook: https://rufusdusol.l",
+      "duration": 254,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=8CPgYelksN4",
+      "title": "RÜFÜS DU SOL ●● Eyes [Official Audio Visual]",
+      "description": "RÜFÜS DU SOL ●● Eyes [Official Audio Visual]\nGet the new album SOLACE here 🎶: https://rufusdusol.lnk.to/solace\n\nFollow RÜFÜS DU SOL:\nWebsite: https://rufusdusol.lnk.to/website\nFacebook: https://rufusdusol.lnk.to/facebook\nTwitter: https://rufusd",
+      "duration": 224,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=v5C1emXY5IE",
+      "title": "RÜFÜS DU SOL ●● New Sky [Official Audio Visual]",
+      "description": "RÜFÜS DU SOL ●●  New Sky [Official Audio Visual]\nGet the new album SOLACE here 🎶: https://rufusdusol.lnk.to/solace\n\nFollow Us:\nWebsite: https://rufusdusol.lnk.to/website\nFacebook: https://rufusdusol.lnk.to/facebook\nTwitter: https://rufusdusol.lnk",
+      "duration": 328,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=STDGlFStP0c",
+      "title": "RÜFÜS DU SOL ●● All I've Got [Official Audio Visual]",
+      "description": "RÜFÜS DU SOL ●● All I've Got [Official Audio Visual]\nGet the new album SOLACE here 🎶: https://rufusdusol.lnk.to/solace\n\nFollow RÜFÜS DU SOL:\nWebsite: https://rufusdusol.lnk.to/website\nFacebook: https://rufusdusol.lnk.to/facebook\nTwitter: https:",
+      "duration": 224,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=v8H7O-1RBKY",
+      "title": "RÜFÜS DU SOL ●● Underwater [Official Audio]",
+      "description": "RÜFÜS DU SOL ●● Underwater [Official Audio Visual]\nGet it here 🎶: https://rufusdusol.lnk.to/Underwater\n\nVisualiser by: Nick George & Katzki \n\nFollow RÜFÜS DU SOL:\nWebsite: https://rufusdusol.lnk.to/website\nFacebook: https://rufusdusol.lnk.to/fa",
+      "duration": 349,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Nwn8IAojwAQ",
+      "title": "RÜFÜS DU SOL ●● Solace [Official Audio Visual]",
+      "description": "RÜFÜS DU SOL ●● Solace [Official Audio Visual]\nGet the new album SOLACE here 🎶: https://rufusdusol.lnk.to/solace\n\nFollow Us:\nWebsite: https://rufusdusol.lnk.to/website\nFacebook: https://rufusdusol.lnk.to/facebook\nTwitter: https://rufusdusol.lnk.t",
+      "duration": 216,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=GqGOrkmxl6o",
+      "title": "RÜFÜS DU SOL ●●  Another Life [Official Audio Visual]",
+      "description": "RÜFÜS DU SOL ●●  Another Life [Official Audio Visual]\nGet the new album SOLACE here 🎶: https://rufusdusol.lnk.to/solace\n\nFollow Us:\nWebsite: https://rufusdusol.lnk.to/website\nFacebook: https://rufusdusol.lnk.to/facebook\nTwitter: https://rufusduso",
+      "duration": 399,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Pop"
+  ],
+  "styles": [
+    "Synth-pop",
+    "Indie Pop"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Treat You Better",
+      "extraartists": [
+        {
+          "name": "Chibuike Franklyn Omeaku",
+          "anv": "",
+          "join": "",
+          "role": "Choir [Choir Vocals]",
+          "tracks": "",
+          "id": 7150443,
+          "resource_url": "https://api.discogs.com/artists/7150443"
+        },
+        {
+          "name": "Dena Kaplan",
+          "anv": "",
+          "join": "",
+          "role": "Choir [Choir Vocals]",
+          "tracks": "",
+          "id": 7150449,
+          "resource_url": "https://api.discogs.com/artists/7150449"
+        },
+        {
+          "name": "Jordan Rodrigues",
+          "anv": "",
+          "join": "",
+          "role": "Choir [Choir Vocals]",
+          "tracks": "",
+          "id": 7150444,
+          "resource_url": "https://api.discogs.com/artists/7150444"
+        },
+        {
+          "name": "Kelsey Kemper",
+          "anv": "",
+          "join": "",
+          "role": "Choir [Choir Vocals]",
+          "tracks": "",
+          "id": 7150447,
+          "resource_url": "https://api.discogs.com/artists/7150447"
+        },
+        {
+          "name": "Shelby Kemper",
+          "anv": "",
+          "join": "",
+          "role": "Choir [Choir Vocals]",
+          "tracks": "",
+          "id": 7150445,
+          "resource_url": "https://api.discogs.com/artists/7150445"
+        },
+        {
+          "name": "Tadia Taylor",
+          "anv": "",
+          "join": "",
+          "role": "Choir [Choir Vocals]",
+          "tracks": "",
+          "id": 7150442,
+          "resource_url": "https://api.discogs.com/artists/7150442"
+        },
+        {
+          "name": "Taylor Thompson",
+          "anv": "",
+          "join": "",
+          "role": "Choir [Choir Vocals]",
+          "tracks": "",
+          "id": 1353443,
+          "resource_url": "https://api.discogs.com/artists/1353443"
+        },
+        {
+          "name": "Jason Evigan",
+          "anv": "J. Evigan",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2692453,
+          "resource_url": "https://api.discogs.com/artists/2692453"
+        },
+        {
+          "name": "Rüfüs",
+          "anv": "Rüfüs Du Sol",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2826701,
+          "resource_url": "https://api.discogs.com/artists/2826701"
+        },
+        {
+          "name": "James Hunt (6)",
+          "anv": "J. Hunt",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2842003,
+          "resource_url": "https://api.discogs.com/artists/2842003"
+        },
+        {
+          "name": "Jason Evigan",
+          "anv": "J. Evigan",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2692453,
+          "resource_url": "https://api.discogs.com/artists/2692453"
+        },
+        {
+          "name": "Jon George",
+          "anv": "J. George",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1704061,
+          "resource_url": "https://api.discogs.com/artists/1704061"
+        },
+        {
+          "name": "Mark Foster (9)",
+          "anv": "M. Foster",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2310008,
+          "resource_url": "https://api.discogs.com/artists/2310008"
+        },
+        {
+          "name": "Tyrone Lindqvist",
+          "anv": "T. Lindqvist",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2842001,
+          "resource_url": "https://api.discogs.com/artists/2842001"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Eyes",
+      "extraartists": [
+        {
+          "name": "Jason Evigan",
+          "anv": "J. Evigan",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2692453,
+          "resource_url": "https://api.discogs.com/artists/2692453"
+        },
+        {
+          "name": "Rüfüs",
+          "anv": "Rüfüs Du Sol",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2826701,
+          "resource_url": "https://api.discogs.com/artists/2826701"
+        },
+        {
+          "name": "James Hunt (6)",
+          "anv": "J. Hunt",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2842003,
+          "resource_url": "https://api.discogs.com/artists/2842003"
+        },
+        {
+          "name": "Jason Evigan",
+          "anv": "J. Evigan",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2692453,
+          "resource_url": "https://api.discogs.com/artists/2692453"
+        },
+        {
+          "name": "Jon George",
+          "anv": "J. George",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1704061,
+          "resource_url": "https://api.discogs.com/artists/1704061"
+        },
+        {
+          "name": "Tyrone Lindqvist",
+          "anv": "T. Lindqvist",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2842001,
+          "resource_url": "https://api.discogs.com/artists/2842001"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "New Sky",
+      "extraartists": [
+        {
+          "name": "Rüfüs",
+          "anv": "Rüfüs Du Sol",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2826701,
+          "resource_url": "https://api.discogs.com/artists/2826701"
+        },
+        {
+          "name": "James Hunt (6)",
+          "anv": "J. Hunt",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2842003,
+          "resource_url": "https://api.discogs.com/artists/2842003"
+        },
+        {
+          "name": "Jon George",
+          "anv": "J. George",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1704061,
+          "resource_url": "https://api.discogs.com/artists/1704061"
+        },
+        {
+          "name": "Tyrone Lindqvist",
+          "anv": "T. Lindqvist",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2842001,
+          "resource_url": "https://api.discogs.com/artists/2842001"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Lost In My Mind",
+      "extraartists": [
+        {
+          "name": "Jason Evigan",
+          "anv": "J. Evigan",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2692453,
+          "resource_url": "https://api.discogs.com/artists/2692453"
+        },
+        {
+          "name": "Rüfüs",
+          "anv": "Rüfüs Du Sol",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2826701,
+          "resource_url": "https://api.discogs.com/artists/2826701"
+        },
+        {
+          "name": "James Hunt (6)",
+          "anv": "J. Hunt",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2842003,
+          "resource_url": "https://api.discogs.com/artists/2842003"
+        },
+        {
+          "name": "Jason Evigan",
+          "anv": "J. Evigan",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2692453,
+          "resource_url": "https://api.discogs.com/artists/2692453"
+        },
+        {
+          "name": "Jon George",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1704061,
+          "resource_url": "https://api.discogs.com/artists/1704061"
+        },
+        {
+          "name": "Tyrone Lindqvist",
+          "anv": "T. Lindqvist",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2842001,
+          "resource_url": "https://api.discogs.com/artists/2842001"
+        },
+        {
+          "name": "Wakinyan Oyate",
+          "anv": "W. Oyate",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7155413,
+          "resource_url": "https://api.discogs.com/artists/7155413"
+        },
+        {
+          "name": "Wakinyan Oyate",
+          "anv": "Wakinyon Oyate",
+          "join": "",
+          "role": "Written-By [\"Women`s Honoring Song\"]",
+          "tracks": "",
+          "id": 7155413,
+          "resource_url": "https://api.discogs.com/artists/7155413"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "No Place",
+      "extraartists": [
+        {
+          "name": "Rüfüs",
+          "anv": "Rüfüs Du Sol",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2826701,
+          "resource_url": "https://api.discogs.com/artists/2826701"
+        },
+        {
+          "name": "Jason Evigan",
+          "anv": "J. Evigan",
+          "join": "",
+          "role": "Producer [Vocal Production]",
+          "tracks": "",
+          "id": 2692453,
+          "resource_url": "https://api.discogs.com/artists/2692453"
+        },
+        {
+          "name": "James Hunt (6)",
+          "anv": "J. Hunt",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2842003,
+          "resource_url": "https://api.discogs.com/artists/2842003"
+        },
+        {
+          "name": "Jon George",
+          "anv": "J. George",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1704061,
+          "resource_url": "https://api.discogs.com/artists/1704061"
+        },
+        {
+          "name": "Tyrone Lindqvist",
+          "anv": "T. Lindqvist",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2842001,
+          "resource_url": "https://api.discogs.com/artists/2842001"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "All I'Ve Got",
+      "extraartists": [
+        {
+          "name": "Rüfüs",
+          "anv": "Rüfüs Du Sol",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2826701,
+          "resource_url": "https://api.discogs.com/artists/2826701"
+        },
+        {
+          "name": "James Hunt (6)",
+          "anv": "J. Hunt",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2842003,
+          "resource_url": "https://api.discogs.com/artists/2842003"
+        },
+        {
+          "name": "Jon George",
+          "anv": "J. George",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1704061,
+          "resource_url": "https://api.discogs.com/artists/1704061"
+        },
+        {
+          "name": "Tyrone Lindqvist",
+          "anv": "T. Lindqvist",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2842001,
+          "resource_url": "https://api.discogs.com/artists/2842001"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Underwater",
+      "extraartists": [
+        {
+          "name": "Jason Evigan",
+          "anv": "J. Evigan",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2692453,
+          "resource_url": "https://api.discogs.com/artists/2692453"
+        },
+        {
+          "name": "Rüfüs",
+          "anv": "Rüfüs Du Sol",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2826701,
+          "resource_url": "https://api.discogs.com/artists/2826701"
+        },
+        {
+          "name": "James Hunt (6)",
+          "anv": "J. Hunt",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2842003,
+          "resource_url": "https://api.discogs.com/artists/2842003"
+        },
+        {
+          "name": "Jason Evigan",
+          "anv": "J. Evigan",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2692453,
+          "resource_url": "https://api.discogs.com/artists/2692453"
+        },
+        {
+          "name": "Jon George",
+          "anv": "J. George",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1704061,
+          "resource_url": "https://api.discogs.com/artists/1704061"
+        },
+        {
+          "name": "Tyrone Lindqvist",
+          "anv": "T. Lindqvist",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2842001,
+          "resource_url": "https://api.discogs.com/artists/2842001"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Solace",
+      "extraartists": [
+        {
+          "name": "Rüfüs",
+          "anv": "Rüfüs Du Sol",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2826701,
+          "resource_url": "https://api.discogs.com/artists/2826701"
+        },
+        {
+          "name": "James Hunt (6)",
+          "anv": "J. Hunt",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2842003,
+          "resource_url": "https://api.discogs.com/artists/2842003"
+        },
+        {
+          "name": "Jon George",
+          "anv": "J. George",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1704061,
+          "resource_url": "https://api.discogs.com/artists/1704061"
+        },
+        {
+          "name": "Tyrone Lindqvist",
+          "anv": "T. Lindqvist",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2842001,
+          "resource_url": "https://api.discogs.com/artists/2842001"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Another Life",
+      "extraartists": [
+        {
+          "name": "Rüfüs",
+          "anv": "Rüfüs Du Sol",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2826701,
+          "resource_url": "https://api.discogs.com/artists/2826701"
+        },
+        {
+          "name": "James Hunt (6)",
+          "anv": "J. Hunt",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2842003,
+          "resource_url": "https://api.discogs.com/artists/2842003"
+        },
+        {
+          "name": "Jon George",
+          "anv": "J. George",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1704061,
+          "resource_url": "https://api.discogs.com/artists/1704061"
+        },
+        {
+          "name": "Tyrone Lindqvist",
+          "anv": "T. Lindqvist",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2842001,
+          "resource_url": "https://api.discogs.com/artists/2842001"
+        }
+      ],
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Jeff Sosnow",
+      "anv": "",
+      "join": "",
+      "role": "A&R",
+      "tracks": "",
+      "id": 1832283,
+      "resource_url": "https://api.discogs.com/artists/1832283"
+    },
+    {
+      "name": "Kelly Noe",
+      "anv": "",
+      "join": "",
+      "role": "A&R [A&R Coordinator]",
+      "tracks": "",
+      "id": 6478502,
+      "resource_url": "https://api.discogs.com/artists/6478502"
+    },
+    {
+      "name": "Le Fawnhawk",
+      "anv": "",
+      "join": "",
+      "role": "Artwork [Insert], Cover [Back Cover], Cover [Inside Cover]",
+      "tracks": "",
+      "id": 7150448,
+      "resource_url": "https://api.discogs.com/artists/7150448"
+    },
+    {
+      "name": "Derek Rickert",
+      "anv": "",
+      "join": "",
+      "role": "Cover [Front Cover]",
+      "tracks": "",
+      "id": 7150446,
+      "resource_url": "https://api.discogs.com/artists/7150446"
+    },
+    {
+      "name": "Alex George (2)",
+      "anv": "",
+      "join": "",
+      "role": "Creative Director",
+      "tracks": "",
+      "id": 7004626,
+      "resource_url": "https://api.discogs.com/artists/7004626"
+    },
+    {
+      "name": "Danny Robson",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 5164701,
+      "resource_url": "https://api.discogs.com/artists/5164701"
+    },
+    {
+      "name": "Dale Becker",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 2149985,
+      "resource_url": "https://api.discogs.com/artists/2149985"
+    },
+    {
+      "name": "Cassian Stewart-Kasimba",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "A2 to B4",
+      "id": 1913168,
+      "resource_url": "https://api.discogs.com/artists/1913168"
+    },
+    {
+      "name": "Mark Stent",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "A1",
+      "id": 211449,
+      "resource_url": "https://api.discogs.com/artists/211449"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/8Um_UUcl4DQllWgnteys4uNeQjXZSMj9JYAL7PwoPLs/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/Nzc2LTE1NTc3ODEx/OTUtOTY0Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/8Um_UUcl4DQllWgnteys4uNeQjXZSMj9JYAL7PwoPLs/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/Nzc2LTE1NTc3ODEx/OTUtOTY0Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/9gAlISz5mHgfGejQNg1lbEAPE2Ohc88PcUpsJ6jjjgM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/Nzc2LTE1NTc3ODEx/OTUtOTY0Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 589
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/3j9HI-guPI20IKeZfshbJ8xVz5LbGnSWW_JAf4kA8bA/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/Nzc2LTE1NDU2ODI1/NzAtMzk0MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/3j9HI-guPI20IKeZfshbJ8xVz5LbGnSWW_JAf4kA8bA/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/Nzc2LTE1NDU2ODI1/NzAtMzk0MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/zWZHJA17uXnfLuAxSbvpSt3ABs8mPuihBv9KO7JtyF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/Nzc2LTE1NDU2ODI1/NzAtMzk0MS5qcGVn.jpeg",
+      "width": 598,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/AgYTmkIB8Cja4iflcdNRxewykXeOowBFS7q8jxOsCRE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/Nzc2LTE1NDU2ODI1/NzMtNDkxNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/AgYTmkIB8Cja4iflcdNRxewykXeOowBFS7q8jxOsCRE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/Nzc2LTE1NDU2ODI1/NzMtNDkxNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/9bMTDByeuHXc3Zk52pjVxJN6zSgbKNI8z70eWcjnKLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/Nzc2LTE1NDU2ODI1/NzMtNDkxNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 592
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/iKtKS1_E_oAd6IbhAi1vdy7jvTqxdAyJO8qnQHsvaII/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/Nzc2LTE1NDU2ODI1/NjYtMjc5Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/iKtKS1_E_oAd6IbhAi1vdy7jvTqxdAyJO8qnQHsvaII/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/Nzc2LTE1NDU2ODI1/NjYtMjc5Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ujTuRdwXoDRlbm5AlkBNMm77CZU548_VNRp_2WvKlrM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/Nzc2LTE1NDU2ODI1/NjYtMjc5Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/yfr0Pq_oL0ubwf0E80krYJA5AvM4VX-rw5xPPWwQXgo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/Nzc2LTE1NDU2ODI1/NzEtOTU1NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/yfr0Pq_oL0ubwf0E80krYJA5AvM4VX-rw5xPPWwQXgo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/Nzc2LTE1NDU2ODI1/NzEtOTU1NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/hk4p1FKvU3V11CA-NgmPVDXa-YjKqHPoROqIK7s-rW8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/Nzc2LTE1NDU2ODI1/NzEtOTU1NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 594
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Zv8j4WbwMVdyIgI9EdIEGrKB4ychvir5-tV9p01sFlI/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/Nzc2LTE1NDU2ODI1/NzEtMjgxNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Zv8j4WbwMVdyIgI9EdIEGrKB4ychvir5-tV9p01sFlI/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/Nzc2LTE1NDU2ODI1/NzEtMjgxNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/UiFbsYaFcdcSs3U9iq_lc3BRp8xCP14JWBI5VMsZXls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/Nzc2LTE1NDU2ODI1/NzEtMjgxNC5qcGVn.jpeg",
+      "width": 594,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/gS9Wv7CxWjsKShZUj68HzSeetVZugU1L57-wCHnn9EM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/Nzc2LTE1NTIyMTIw/NDMtOTY4Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/gS9Wv7CxWjsKShZUj68HzSeetVZugU1L57-wCHnn9EM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/Nzc2LTE1NTIyMTIw/NDMtOTY4Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/HV9p3USWM-NK-C_JXYAV4ocIVRvPgCqIMD2M2HU_aCk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/Nzc2LTE1NTIyMTIw/NDMtOTY4Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 593
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/5WKVcq8Lqm08NXk5dBxQhbwYxt3HmmI35NNX8CsBHs4/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/Nzc2LTE1NTIyMTIw/MzgtMTcxNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/5WKVcq8Lqm08NXk5dBxQhbwYxt3HmmI35NNX8CsBHs4/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/Nzc2LTE1NTIyMTIw/MzgtMTcxNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/BOSQ7Rsqjai4Rk4iJJUHDTJBoO7OTVglo_0H7vPN2pk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/Nzc2LTE1NTIyMTIw/MzgtMTcxNi5qcGVn.jpeg",
+      "width": 588,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/9gAlISz5mHgfGejQNg1lbEAPE2Ohc88PcUpsJ6jjjgM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTA0/Nzc2LTE1NTc3ODEx/OTUtOTY0Mi5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

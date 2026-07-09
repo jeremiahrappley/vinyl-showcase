@@ -1,0 +1,902 @@
+{
+  "id": 22185265,
+  "status": "Accepted",
+  "year": 2022,
+  "resource_url": "https://api.discogs.com/releases/22185265",
+  "uri": "https://www.discogs.com/release/22185265-Khruangbin-Leon-Bridges-Texas-Moon",
+  "artists": [
+    {
+      "name": "Khruangbin",
+      "anv": "",
+      "join": "&",
+      "role": "",
+      "tracks": "",
+      "id": 3565949,
+      "resource_url": "https://api.discogs.com/artists/3565949",
+      "thumbnail_url": "https://i.discogs.com/MWcHVMl1eaqk4vOdX0K4olas_qZ9pYxWeaoCg4o_7_Q/rs:fit/g:sm/q:90/h:436/w:436/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM1NjU5/NDktMTUyNDEwNDYy/OS04NTc3LmpwZWc.jpeg"
+    },
+    {
+      "name": "Leon Bridges",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 4332385,
+      "resource_url": "https://api.discogs.com/artists/4332385",
+      "thumbnail_url": "https://i.discogs.com/SRavFDNSGPqa_kReyNth_kBEAzDSv8pUQK0yZojybBM/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQzMzIz/ODUtMTU3NTUwNTIz/Ni0xMDMyLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Khruangbin & Leon Bridges",
+  "labels": [
+    {
+      "name": "Dead Oceans",
+      "catno": "DOC254LP",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 94740,
+      "resource_url": "https://api.discogs.com/labels/94740",
+      "thumbnail_url": "https://i.discogs.com/zyePmXv0BP7mBlCQfgXDf_hesWV2B6UW-Y5Jmu53itI/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk0NzQw/LTE3NzU3NTcyNTgt/ODI0Ni5qcGVn.jpeg"
+    },
+    {
+      "name": "Night Time Stories",
+      "catno": "DOC254LP",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1409593,
+      "resource_url": "https://api.discogs.com/labels/1409593",
+      "thumbnail_url": "https://i.discogs.com/IiQgOazURv03pqA0bK_ve6XDNQAKxScbNjeLuGK4h_o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE0MDk1/OTMtMTUxNzA3NzEz/My05MDUzLnBuZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Dead Oceans, Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 299268,
+      "resource_url": "https://api.discogs.com/labels/299268"
+    },
+    {
+      "name": "LisaSawyer63, Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 861891,
+      "resource_url": "https://api.discogs.com/labels/861891"
+    },
+    {
+      "name": "Dead Oceans, Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 299268,
+      "resource_url": "https://api.discogs.com/labels/299268"
+    },
+    {
+      "name": "LisaSawyer63, Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 861891,
+      "resource_url": "https://api.discogs.com/labels/861891"
+    },
+    {
+      "name": "LeeMaDee",
+      "catno": "",
+      "entity_type": "26",
+      "entity_type_name": "Produced At",
+      "id": 1884476,
+      "resource_url": "https://api.discogs.com/labels/1884476"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Terminal C",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 1763714,
+      "resource_url": "https://api.discogs.com/labels/1763714"
+    },
+    {
+      "name": "GZ Media",
+      "catno": "229076E",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "12\"",
+        "33 ⅓ RPM",
+        "EP"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 9104,
+    "want": 1287,
+    "rating": {
+      "count": 481,
+      "average": 4.54
+    },
+    "submitter": {
+      "username": "theslutbunny",
+      "resource_url": "https://api.discogs.com/users/theslutbunny"
+    },
+    "contributors": [
+      {
+        "username": "theslutbunny",
+        "resource_url": "https://api.discogs.com/users/theslutbunny"
+      },
+      {
+        "username": "donutshoppe",
+        "resource_url": "https://api.discogs.com/users/donutshoppe"
+      },
+      {
+        "username": "soulvibes88",
+        "resource_url": "https://api.discogs.com/users/soulvibes88"
+      },
+      {
+        "username": "PetrusM",
+        "resource_url": "https://api.discogs.com/users/PetrusM"
+      },
+      {
+        "username": "CD_WAREHOUSE_817",
+        "resource_url": "https://api.discogs.com/users/CD_WAREHOUSE_817"
+      },
+      {
+        "username": "HetBejaardePlaatje",
+        "resource_url": "https://api.discogs.com/users/HetBejaardePlaatje"
+      },
+      {
+        "username": "albundy3622",
+        "resource_url": "https://api.discogs.com/users/albundy3622"
+      },
+      {
+        "username": "ActualScreenshot",
+        "resource_url": "https://api.discogs.com/users/ActualScreenshot"
+      },
+      {
+        "username": "FrequencesDisquaire",
+        "resource_url": "https://api.discogs.com/users/FrequencesDisquaire"
+      },
+      {
+        "username": "dafunkeehomebro",
+        "resource_url": "https://api.discogs.com/users/dafunkeehomebro"
+      },
+      {
+        "username": "DARKNESS",
+        "resource_url": "https://api.discogs.com/users/DARKNESS"
+      },
+      {
+        "username": "prouteau",
+        "resource_url": "https://api.discogs.com/users/prouteau"
+      },
+      {
+        "username": "Killerian123333",
+        "resource_url": "https://api.discogs.com/users/Killerian123333"
+      },
+      {
+        "username": "dmjab13",
+        "resource_url": "https://api.discogs.com/users/dmjab13"
+      },
+      {
+        "username": "MadCrab",
+        "resource_url": "https://api.discogs.com/users/MadCrab"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2022-02-16T12:49:51-08:00",
+  "date_changed": "2025-04-26T22:49:16-07:00",
+  "num_for_sale": 127,
+  "lowest_price": 22.22,
+  "master_id": 2512126,
+  "master_url": "https://api.discogs.com/masters/2512126",
+  "title": "Texas Moon",
+  "country": "USA & Europe",
+  "released": "2022-02-18",
+  "notes": "Comes with a voucher for a digital download.\n\nRunouts are laser-etched, except for hand-etched stamper identifiers where present.",
+  "released_formatted": "18 Feb 2022",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 56605 15541 8",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "656605155418",
+      "description": "Scanned"
+    },
+    {
+      "type": "Label Code",
+      "value": "LC29265"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "DOC254LP 229076E1/B",
+      "description": "Variant 1, runout side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "DOC254LP 229076E2/A",
+      "description": "Variant 1, runout side B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "DOC254LP 229076E1/B",
+      "description": "Variant 2, runout side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "DOC254LP 229076E2/C",
+      "description": "Variant 2, runout side B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "DOC254LP 229076E1/B",
+      "description": "Variant 3, runout side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "DOC254LP 229076E2/B",
+      "description": "Variant 3, runout side B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "DOC254LP 229076E2/D",
+      "description": "Variant 4, runout side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "DOC254LP 229076E1/B",
+      "description": "Variant 4, runout side B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "DOC254LP 229076E1/C #22",
+      "description": "Variant 5, runout side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "DOC254LP 229076E2/D #18",
+      "description": "Variant 5, runout side B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "DOC254LP #17 229076E1/B",
+      "description": "Variant 6, runout side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "DOC254LP 229076E2/D #18",
+      "description": "Variant 6, runout side B"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=3i_Y9F4X1fs",
+      "title": "Khruangbin & Leon Bridges - Texas Moon (Full EP)",
+      "description": "https://deadoc.co/texas-moon\n\n1. Doris - 0:00\n2. B-Side - 3:50\n3. Chocolate Hills - 8:25\n4. Father Father - 11:35\n5. Mariella - 17:29\n\nFollow Natural Selection:\nhttps://linktr.ee/naturalselection",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=yJ7dNneiR14",
+      "title": "Khruangbin & Leon Bridges - Doris",
+      "description": "Buy/Stream 'Texas Moon': https://deadoc.co/texas-moon\n\nKhruangbin and Leon Bridges' new collaborative EP, Texas Moon, is out now on Dead Oceans, in partnership with Columbia Records and Night Time Stories. \n\nAn extension of the two’s chart-topping four-so",
+      "duration": 231,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=z0xZlVICzzg",
+      "title": "Khruangbin & Leon Bridges - B-Side",
+      "description": "Buy/Stream 'Texas Moon': https://deadoc.co/texas-moon\n\nKhruangbin and Leon Bridges' new collaborative EP, Texas Moon, is out now on Dead Oceans, in partnership with Columbia Records and Night Time Stories. \n\nAn extension of the two’s chart-topping four-so",
+      "duration": 275,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=8gW_XTKFA3c",
+      "title": "Khruangbin & Leon Bridges - Chocolate Hills",
+      "description": "Buy/Stream 'Texas Moon': https://deadoc.co/texas-moon\n\nKhruangbin and Leon Bridges' new collaborative EP, Texas Moon, is out now on Dead Oceans, in partnership with Columbia Records and Night Time Stories. \n\nAn extension of the two’s chart-topping four-so",
+      "duration": 191,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ubEPc1xm-1E",
+      "title": "Khruangbin & Leon Bridges - Father Father",
+      "description": "Buy/Stream 'Texas Moon': https://deadoc.co/texas-moon\n\nKhruangbin and Leon Bridges' new collaborative EP, Texas Moon, is out now on Dead Oceans, in partnership with Columbia Records and Night Time Stories. \n\nAn extension of the two’s chart-topping four-so",
+      "duration": 354,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=f9mKJTd5tQM",
+      "title": "Khruangbin & Leon Bridges - Mariella",
+      "description": "Buy/Stream 'Texas Moon': https://deadoc.co/texas-moon\n\nKhruangbin and Leon Bridges' new collaborative EP, Texas Moon, is out now on Dead Oceans, in partnership with Columbia Records and Night Time Stories. \n\nAn extension of the two’s chart-topping four-so",
+      "duration": 311,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=3i_Y9F4X1fs",
+      "title": "Khruangbin & Leon Bridges - Texas Moon (Full EP)",
+      "description": "https://deadoc.co/texas-moon\n\n1. Doris - 0:00\n2. B-Side - 3:50\n3. Chocolate Hills - 8:25\n4. Father Father - 11:35\n5. Mariella - 17:29\n\nFollow Natural Selection:\nhttps://linktr.ee/naturalselection",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=yJ7dNneiR14",
+      "title": "Khruangbin & Leon Bridges - Doris",
+      "description": "Buy/Stream 'Texas Moon': https://deadoc.co/texas-moon\n\nKhruangbin and Leon Bridges' new collaborative EP, Texas Moon, is out now on Dead Oceans, in partnership with Columbia Records and Night Time Stories. \n\nAn extension of the two’s chart-topping four-so",
+      "duration": 231,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=z0xZlVICzzg",
+      "title": "Khruangbin & Leon Bridges - B-Side",
+      "description": "Buy/Stream 'Texas Moon': https://deadoc.co/texas-moon\n\nKhruangbin and Leon Bridges' new collaborative EP, Texas Moon, is out now on Dead Oceans, in partnership with Columbia Records and Night Time Stories. \n\nAn extension of the two’s chart-topping four-so",
+      "duration": 275,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=8gW_XTKFA3c",
+      "title": "Khruangbin & Leon Bridges - Chocolate Hills",
+      "description": "Buy/Stream 'Texas Moon': https://deadoc.co/texas-moon\n\nKhruangbin and Leon Bridges' new collaborative EP, Texas Moon, is out now on Dead Oceans, in partnership with Columbia Records and Night Time Stories. \n\nAn extension of the two’s chart-topping four-so",
+      "duration": 191,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ubEPc1xm-1E",
+      "title": "Khruangbin & Leon Bridges - Father Father",
+      "description": "Buy/Stream 'Texas Moon': https://deadoc.co/texas-moon\n\nKhruangbin and Leon Bridges' new collaborative EP, Texas Moon, is out now on Dead Oceans, in partnership with Columbia Records and Night Time Stories. \n\nAn extension of the two’s chart-topping four-so",
+      "duration": 354,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=f9mKJTd5tQM",
+      "title": "Khruangbin & Leon Bridges - Mariella",
+      "description": "Buy/Stream 'Texas Moon': https://deadoc.co/texas-moon\n\nKhruangbin and Leon Bridges' new collaborative EP, Texas Moon, is out now on Dead Oceans, in partnership with Columbia Records and Night Time Stories. \n\nAn extension of the two’s chart-topping four-so",
+      "duration": 311,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Rock",
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Psychedelic Rock",
+    "Soul",
+    "Country Rock"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Doris",
+      "extraartists": [
+        {
+          "name": "Khruangbin",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 3565949,
+          "resource_url": "https://api.discogs.com/artists/3565949"
+        },
+        {
+          "name": "Laura Lee (5)",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 2914168,
+          "resource_url": "https://api.discogs.com/artists/2914168"
+        },
+        {
+          "name": "Donald Johnson, Jr.",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Synth [SK-20 Symphonic Ensemble]",
+          "tracks": "",
+          "id": 2781778,
+          "resource_url": "https://api.discogs.com/artists/2781778"
+        },
+        {
+          "name": "Mark Speer",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar, Percussion",
+          "tracks": "",
+          "id": 3061049,
+          "resource_url": "https://api.discogs.com/artists/3061049"
+        },
+        {
+          "name": "Will Van Horn",
+          "anv": "",
+          "join": "",
+          "role": "Pedal Steel Guitar",
+          "tracks": "",
+          "id": 2127115,
+          "resource_url": "https://api.discogs.com/artists/2127115"
+        },
+        {
+          "name": "Leon Bridges",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4332385,
+          "resource_url": "https://api.discogs.com/artists/4332385"
+        },
+        {
+          "name": "Austin Jenkins (2)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1954543,
+          "resource_url": "https://api.discogs.com/artists/1954543"
+        },
+        {
+          "name": "Khruangbin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3565949,
+          "resource_url": "https://api.discogs.com/artists/3565949"
+        },
+        {
+          "name": "Leon Bridges",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4332385,
+          "resource_url": "https://api.discogs.com/artists/4332385"
+        }
+      ],
+      "duration": "3:50"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "B-Side",
+      "extraartists": [
+        {
+          "name": "Khruangbin",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 3565949,
+          "resource_url": "https://api.discogs.com/artists/3565949"
+        },
+        {
+          "name": "Laura Lee (5)",
+          "anv": "",
+          "join": "",
+          "role": "Bass [Bass VI]",
+          "tracks": "",
+          "id": 2914168,
+          "resource_url": "https://api.discogs.com/artists/2914168"
+        },
+        {
+          "name": "Charlie Perez (2)",
+          "anv": "",
+          "join": "",
+          "role": "Congas, Bongos",
+          "tracks": "",
+          "id": 6270174,
+          "resource_url": "https://api.discogs.com/artists/6270174"
+        },
+        {
+          "name": "Donald Johnson, Jr.",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 2781778,
+          "resource_url": "https://api.discogs.com/artists/2781778"
+        },
+        {
+          "name": "Mark Speer",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar, Electric Organ [Hammond Organ], Percussion [Additional Percussion]",
+          "tracks": "",
+          "id": 3061049,
+          "resource_url": "https://api.discogs.com/artists/3061049"
+        },
+        {
+          "name": "Leon Bridges",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4332385,
+          "resource_url": "https://api.discogs.com/artists/4332385"
+        },
+        {
+          "name": "Khruangbin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3565949,
+          "resource_url": "https://api.discogs.com/artists/3565949"
+        },
+        {
+          "name": "Leon Bridges",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4332385,
+          "resource_url": "https://api.discogs.com/artists/4332385"
+        }
+      ],
+      "duration": "4:34"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Chocolate Hills",
+      "extraartists": [
+        {
+          "name": "Laura Lee (5)",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 2914168,
+          "resource_url": "https://api.discogs.com/artists/2914168"
+        },
+        {
+          "name": "Donald Johnson, Jr.",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 2781778,
+          "resource_url": "https://api.discogs.com/artists/2781778"
+        },
+        {
+          "name": "Mark Speer",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar, Electric Organ [Hammond Organ], Synthesizer, Percussion",
+          "tracks": "",
+          "id": 3061049,
+          "resource_url": "https://api.discogs.com/artists/3061049"
+        },
+        {
+          "name": "Will Van Horn",
+          "anv": "",
+          "join": "",
+          "role": "Pedal Steel Guitar",
+          "tracks": "",
+          "id": 2127115,
+          "resource_url": "https://api.discogs.com/artists/2127115"
+        },
+        {
+          "name": "Leon Bridges",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4332385,
+          "resource_url": "https://api.discogs.com/artists/4332385"
+        },
+        {
+          "name": "Austin Jenkins (2)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1954543,
+          "resource_url": "https://api.discogs.com/artists/1954543"
+        },
+        {
+          "name": "Khruangbin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3565949,
+          "resource_url": "https://api.discogs.com/artists/3565949"
+        },
+        {
+          "name": "Leon Bridges",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4332385,
+          "resource_url": "https://api.discogs.com/artists/4332385"
+        }
+      ],
+      "duration": "3:10"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Father Father",
+      "extraartists": [
+        {
+          "name": "Khruangbin",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 3565949,
+          "resource_url": "https://api.discogs.com/artists/3565949"
+        },
+        {
+          "name": "Laura Lee (5)",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 2914168,
+          "resource_url": "https://api.discogs.com/artists/2914168"
+        },
+        {
+          "name": "Donald Johnson, Jr.",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 2781778,
+          "resource_url": "https://api.discogs.com/artists/2781778"
+        },
+        {
+          "name": "Mark Speer",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar, Percussion",
+          "tracks": "",
+          "id": 3061049,
+          "resource_url": "https://api.discogs.com/artists/3061049"
+        },
+        {
+          "name": "Will Van Horn",
+          "anv": "",
+          "join": "",
+          "role": "Pedal Steel Guitar",
+          "tracks": "",
+          "id": 2127115,
+          "resource_url": "https://api.discogs.com/artists/2127115"
+        },
+        {
+          "name": "Leon Bridges",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4332385,
+          "resource_url": "https://api.discogs.com/artists/4332385"
+        },
+        {
+          "name": "Khruangbin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3565949,
+          "resource_url": "https://api.discogs.com/artists/3565949"
+        },
+        {
+          "name": "Leon Bridges",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4332385,
+          "resource_url": "https://api.discogs.com/artists/4332385"
+        }
+      ],
+      "duration": "5:53"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Mariella",
+      "extraartists": [
+        {
+          "name": "Khruangbin",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 3565949,
+          "resource_url": "https://api.discogs.com/artists/3565949"
+        },
+        {
+          "name": "Laura Lee (5)",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 2914168,
+          "resource_url": "https://api.discogs.com/artists/2914168"
+        },
+        {
+          "name": "Donald Johnson, Jr.",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 2781778,
+          "resource_url": "https://api.discogs.com/artists/2781778"
+        },
+        {
+          "name": "Mark Speer",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar, Percussion",
+          "tracks": "",
+          "id": 3061049,
+          "resource_url": "https://api.discogs.com/artists/3061049"
+        },
+        {
+          "name": "Will Van Horn",
+          "anv": "",
+          "join": "",
+          "role": "Pedal Steel Guitar",
+          "tracks": "",
+          "id": 2127115,
+          "resource_url": "https://api.discogs.com/artists/2127115"
+        },
+        {
+          "name": "Leon Bridges",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4332385,
+          "resource_url": "https://api.discogs.com/artists/4332385"
+        },
+        {
+          "name": "Khruangbin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3565949,
+          "resource_url": "https://api.discogs.com/artists/3565949"
+        },
+        {
+          "name": "Leon Bridges",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4332385,
+          "resource_url": "https://api.discogs.com/artists/4332385"
+        }
+      ],
+      "duration": "5:10"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Aaron Denton",
+      "anv": "Aaron Lowell Denton",
+      "join": "",
+      "role": "Artwork, Design",
+      "tracks": "",
+      "id": 3805059,
+      "resource_url": "https://api.discogs.com/artists/3805059"
+    },
+    {
+      "name": "Chris Longwood",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 2214594,
+      "resource_url": "https://api.discogs.com/artists/2214594"
+    },
+    {
+      "name": "Khruangbin",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 3565949,
+      "resource_url": "https://api.discogs.com/artists/3565949"
+    },
+    {
+      "name": "Steve Christensen",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 733686,
+      "resource_url": "https://api.discogs.com/artists/733686"
+    },
+    {
+      "name": "Steve Christensen",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By, Mixed By",
+      "tracks": "",
+      "id": 733686,
+      "resource_url": "https://api.discogs.com/artists/733686"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/RwOz_HLBqkijFTJnKjmxxAf6IQYKvUM_6lXaMHrMO1M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTg1/MjY1LTE2NDU2NDE4/MDYtNTA0My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/RwOz_HLBqkijFTJnKjmxxAf6IQYKvUM_6lXaMHrMO1M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTg1/MjY1LTE2NDU2NDE4/MDYtNTA0My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Oz6JJyVOXFiJEvIz744Tl_2T0rnRZZkw5sm7Pc8s-uk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTg1/MjY1LTE2NDU2NDE4/MDYtNTA0My5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/M-oRRsqrSa0qGzUGIcbDYl-LW47mpEECHGjvtK0ewS8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTg1/MjY1LTE2NDU2NDE4/MDYtOTMwNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/M-oRRsqrSa0qGzUGIcbDYl-LW47mpEECHGjvtK0ewS8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTg1/MjY1LTE2NDU2NDE4/MDYtOTMwNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/VtJB2T00qx7uBuTkFr4-ljCtxjC7PaHqob5oeY8peGw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTg1/MjY1LTE2NDU2NDE4/MDYtOTMwNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/yv36xtm0Y6B2urF89vrL15o_Yyu3Zrmb-dlgFsT2GPc/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTg1/MjY1LTE2NDYzMDc3/NTctMTE1MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/yv36xtm0Y6B2urF89vrL15o_Yyu3Zrmb-dlgFsT2GPc/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTg1/MjY1LTE2NDYzMDc3/NTctMTE1MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/h_fGQ10rIVpernR4PsE7uruTH1LRX1NNTeUE8upl9e0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTg1/MjY1LTE2NDYzMDc3/NTctMTE1MS5qcGVn.jpeg",
+      "width": 580,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/DwQ7rWNJJpz6yp0cmBJNLvr6lSCTXcphItwtMMWndBI/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTg1/MjY1LTE2NDYzMDc3/NTctMTg3OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/DwQ7rWNJJpz6yp0cmBJNLvr6lSCTXcphItwtMMWndBI/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTg1/MjY1LTE2NDYzMDc3/NTctMTg3OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ruVY99TfKtYkqIm7FadVIp7_dSv8uak6qeg0ZjJBbxk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTg1/MjY1LTE2NDYzMDc3/NTctMTg3OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 587
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/KkA-gsWwXrDc6MXcIqt9JlOSeCYaLPD4aSyjPJvMkNw/rs:fit/g:sm/q:90/h:329/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTg1/MjY1LTE2NDUwNDk1/OTctMjMwNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/KkA-gsWwXrDc6MXcIqt9JlOSeCYaLPD4aSyjPJvMkNw/rs:fit/g:sm/q:90/h:329/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTg1/MjY1LTE2NDUwNDk1/OTctMjMwNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/KUkP_4dYQEp9DpTj7gAJnhCqvTNPaowAItNjU6RW2FU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTg1/MjY1LTE2NDUwNDk1/OTctMjMwNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 329
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Mhiu8u2QiZoZlyfMITXdezU0yUpxoLfXMZ65aeZ8rZ0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTg1/MjY1LTE2NDYzMDc3/NTctMjM1Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Mhiu8u2QiZoZlyfMITXdezU0yUpxoLfXMZ65aeZ8rZ0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTg1/MjY1LTE2NDYzMDc3/NTctMjM1Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/6gGk8KD4K_051fkIVglsa0xy-BKWdusG6uFAHgOWa0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTg1/MjY1LTE2NDYzMDc3/NTctMjM1Mi5qcGVn.jpeg",
+      "width": 599,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/Oz6JJyVOXFiJEvIz744Tl_2T0rnRZZkw5sm7Pc8s-uk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTg1/MjY1LTE2NDU2NDE4/MDYtNTA0My5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

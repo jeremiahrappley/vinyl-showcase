@@ -1,0 +1,436 @@
+{
+  "id": 442715,
+  "status": "Accepted",
+  "year": 2001,
+  "resource_url": "https://api.discogs.com/releases/442715",
+  "uri": "https://www.discogs.com/release/442715-Sade-King-Of-Sorrow",
+  "artists": [
+    {
+      "name": "Sade",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 19731,
+      "resource_url": "https://api.discogs.com/artists/19731",
+      "thumbnail_url": "https://i.discogs.com/EKLCzSBj-FM3OP9CM29QpcpTh5CBYXee5UsRvteoVNg/rs:fit/g:sm/q:90/h:432/w:537/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE5NzMx/LTEyMTc4NTg3MTcu/anBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Sade",
+  "labels": [
+    {
+      "name": "Epic",
+      "catno": "EAS 16501",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1005,
+      "resource_url": "https://api.discogs.com/labels/1005",
+      "thumbnail_url": "https://i.discogs.com/Ta8tXFbN3YA4PweFsSHGzpZN1tOertrxyLpgf7OaWCo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDUt/MTc3OTQ5NjYzOC04/Njg3LmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Tuff Gong Recording Studio",
+      "catno": "",
+      "entity_type": "24",
+      "entity_type_name": "Engineered At",
+      "id": 276300,
+      "resource_url": "https://api.discogs.com/labels/276300",
+      "thumbnail_url": "https://i.discogs.com/3ZEAYgb_XRcYZ3GKNh4MOSOlLmm8SZUUDSixS25k2ws/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3NjMw/MC0xNjE0OTY4OTUz/LTUwMDcuanBlZw.jpeg"
+    },
+    {
+      "name": "Sony Music Entertainment (UK) Ltd.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 33768,
+      "resource_url": "https://api.discogs.com/labels/33768",
+      "thumbnail_url": "https://i.discogs.com/AruDqpXezGOXVkcQpVLyZBVpYkzvbB8eBD9KGNd3FsE/rs:fit/g:sm/q:90/h:70/w:464/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMzNzY4/LTE2ODE2NTU4NzYt/OTU3Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Angel Music Ltd.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 363937,
+      "resource_url": "https://api.discogs.com/labels/363937",
+      "thumbnail_url": "https://i.discogs.com/2E9NhIewiCqY4HblkhDALBCdq012xmANUcHWhtfhdqQ/rs:fit/g:sm/q:90/h:92/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM2Mzkz/Ny0xNzEyNDQwMDAw/LTQ2NzcuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "12\"",
+        "33 ⅓ RPM",
+        "Promo"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 432,
+    "want": 138,
+    "rating": {
+      "count": 29,
+      "average": 4.34
+    },
+    "submitter": {
+      "username": "Vinylized2023",
+      "resource_url": "https://api.discogs.com/users/Vinylized2023"
+    },
+    "contributors": [
+      {
+        "username": "Vinylized2023",
+        "resource_url": "https://api.discogs.com/users/Vinylized2023"
+      },
+      {
+        "username": "DiscogsUpdateBot",
+        "resource_url": "https://api.discogs.com/users/DiscogsUpdateBot"
+      },
+      {
+        "username": "elisel",
+        "resource_url": "https://api.discogs.com/users/elisel"
+      },
+      {
+        "username": "osommers",
+        "resource_url": "https://api.discogs.com/users/osommers"
+      },
+      {
+        "username": "waxselector",
+        "resource_url": "https://api.discogs.com/users/waxselector"
+      },
+      {
+        "username": "highpower",
+        "resource_url": "https://api.discogs.com/users/highpower"
+      },
+      {
+        "username": "metrowax",
+        "resource_url": "https://api.discogs.com/users/metrowax"
+      },
+      {
+        "username": "eiki",
+        "resource_url": "https://api.discogs.com/users/eiki"
+      },
+      {
+        "username": "murphdogfl",
+        "resource_url": "https://api.discogs.com/users/murphdogfl"
+      },
+      {
+        "username": "theforce75",
+        "resource_url": "https://api.discogs.com/users/theforce75"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2005-04-22T16:28:30-07:00",
+  "date_changed": "2019-10-09T12:27:39-07:00",
+  "num_for_sale": 17,
+  "lowest_price": 4.26,
+  "master_id": 110954,
+  "master_url": "https://api.discogs.com/masters/110954",
+  "title": "King Of Sorrow",
+  "country": "US",
+  "released": "2001",
+  "notes": "\"Demonstration - Not for sale\"\r\n\r\nA1 Remixed for Guru Productions Inc.\r\nB2 Mixed for Townhouse Management.\r\n\r\nEngineered @ Tuff Gong Recording Studios.\r\nPublished by Angel Music Ltd.\r\n\r\n© 2001 Sony Music Entertainment (UK) Ltd.",
+  "released_formatted": "2001",
+  "identifiers": [
+    {
+      "type": "Matrix / Runout",
+      "value": "XSS 16501 A",
+      "description": "Side A, label"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "XSS 16501 B",
+      "description": "Side B, label"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "XSS 16501 A   1B",
+      "description": "Side A runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "XSS 16501 B  1-A",
+      "description": "Side B runout"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=1XdgrqD9D5A",
+      "title": "Sade - The Queen Of Sorrow (Choc Electric Mix) (2001)",
+      "description": "💿 Vinyl : https://www.discogs.com/release/187113-Sade-The-Queen-Of-Sorrow\n🎵 Soundcloud : https://soundcloud.com/roktorkaryt/sade-the-queen-of-sorrow-choc-electric-mix-2001\n\nSupport this channel?\n\n❤️ Patreon : https://www.patreon.com/RokTorkarYT\n💙 Paypal :",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=A-jGkYsAU1g",
+      "title": "Sade ‎– The Queen Of Sorrow (Choc Electrique Remix)",
+      "description": "https://www.discogs.com/Sade-The-Queen-Of-Sorrow/release/1484292",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=nF7yuNg_zWE",
+      "title": "Sade - King Of Sorrow - Official - 2001",
+      "description": "Sade – King Of Sorrow \nDirector - Sophie Muller – February 2001\nThe official YouTube channel for the British iconic band Sade \n \nwww.sade.com\n \nSade (vocals)\nStuart Matthewman (saxophone / guitar)\nAndrew Hale (keyboards)\nPaul Spencer Denman (bass)\n \nSpoti",
+      "duration": 281,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=junHFpfVcdM",
+      "title": "Sade - King Of Sorrow (Cottonbelly Remix)",
+      "description": "Title: King Of Sorrow (Cottonbelly Remix)\r\nArtist: Sade\r\nAlbum: King Of Sorrow Single\r\nGenre: Chill Out",
+      "duration": 358,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=GeN9fMOCWig",
+      "title": "Sade - King Of Sorrow (Fun Lovin' Criminals Remix)",
+      "description": "",
+      "duration": 273,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Y0hbKryn6Ys",
+      "title": "King of Sorrow [Guru Remix] Sade [CD]",
+      "description": "King of Sorrow\nSade\nRok wydania: 2001\nGatunek: soul\nStan produktu:\nPłyta: 5/6 \nOkładka: 5/6",
+      "duration": 229,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ZU6gQ7x1Vkc",
+      "title": "Queen Of Soul ‎– Queen Of Soul",
+      "description": "Queen Of Soul ‎– Queen Of Soul\nEtichetta: Not On Label ‎– QOS-1\nLink Discogs: https://www.discogs.com/it/it/release/535265\n\nWould You Like A Video-Rip Of The Vinyl I Sell? Contact me\nDo you want to help me with a small contribution to continue pos",
+      "duration": 235,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=iXAAsqfFI28",
+      "title": "Unknown Deep House (\"DJ's playin'...\") circa 1999-2006. White Label. See description.",
+      "description": "Any help in identifying this track? The record is a 12” white label release with A side only (B has no grooves) and plays at 45 RPM. Matrix/Runout reads QOS-1-A1 or QOS-I-AI or Q0S-1-A1I.\n\nAmong vocal samples (which are likely from the same origin song), ",
+      "duration": 0,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic"
+  ],
+  "styles": [
+    "Downtempo"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "King Of Sorrow (Guru Remix)",
+      "extraartists": [
+        {
+          "name": "Guru",
+          "anv": "",
+          "join": "",
+          "role": "Remix",
+          "tracks": "",
+          "id": 3862,
+          "resource_url": "https://api.discogs.com/artists/3862"
+        },
+        {
+          "name": "Guru",
+          "anv": "",
+          "join": "",
+          "role": "Vocals [Additional]",
+          "tracks": "",
+          "id": 3862,
+          "resource_url": "https://api.discogs.com/artists/3862"
+        }
+      ],
+      "duration": "3:47"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "King Of Sorrow (Fun Lovin' Criminals Remix)",
+      "extraartists": [
+        {
+          "name": "Fun Lovin' Criminals",
+          "anv": "",
+          "join": "",
+          "role": "Remix",
+          "tracks": "",
+          "id": 23671,
+          "resource_url": "https://api.discogs.com/artists/23671"
+        }
+      ],
+      "duration": "4:32"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "King Of Sorrow (Cottonbelly Remix)",
+      "extraartists": [
+        {
+          "name": "Cottonbelly",
+          "anv": "",
+          "join": "",
+          "role": "Remix",
+          "tracks": "",
+          "id": 20669,
+          "resource_url": "https://api.discogs.com/artists/20669"
+        }
+      ],
+      "duration": "5:57"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "King Of Sorrow (Radio Version)",
+      "extraartists": [
+        {
+          "name": "Andy Bradfield",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 64787,
+          "resource_url": "https://api.discogs.com/artists/64787"
+        }
+      ],
+      "duration": "3:48"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Mike Pela",
+      "anv": "",
+      "join": "",
+      "role": "Co-producer, Recorded By",
+      "tracks": "",
+      "id": 176429,
+      "resource_url": "https://api.discogs.com/artists/176429"
+    },
+    {
+      "name": "Christopher Miller",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 369352,
+      "resource_url": "https://api.discogs.com/artists/369352"
+    },
+    {
+      "name": "Kulcha Knox",
+      "anv": "",
+      "join": "",
+      "role": "Featuring",
+      "tracks": "",
+      "id": 103380,
+      "resource_url": "https://api.discogs.com/artists/103380"
+    },
+    {
+      "name": "Ras. Bobby Morgan",
+      "anv": "Ras Bobby Morgan",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 369355,
+      "resource_url": "https://api.discogs.com/artists/369355"
+    },
+    {
+      "name": "Sade",
+      "anv": "",
+      "join": "",
+      "role": "Producer, Performer, Arranged By",
+      "tracks": "",
+      "id": 19731,
+      "resource_url": "https://api.discogs.com/artists/19731"
+    },
+    {
+      "name": "Ba'c Beat",
+      "anv": "",
+      "join": "",
+      "role": "Remix",
+      "tracks": "",
+      "id": 4275484,
+      "resource_url": "https://api.discogs.com/artists/4275484"
+    },
+    {
+      "name": "Andrew Hale",
+      "anv": "A Hale",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 209279,
+      "resource_url": "https://api.discogs.com/artists/209279"
+    },
+    {
+      "name": "Paul S. Denman",
+      "anv": "P S Denman",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 306864,
+      "resource_url": "https://api.discogs.com/artists/306864"
+    },
+    {
+      "name": "Sade Adu",
+      "anv": "S Adu",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 482893,
+      "resource_url": "https://api.discogs.com/artists/482893"
+    },
+    {
+      "name": "Stuart Matthewman",
+      "anv": "S Matthewman",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 9049,
+      "resource_url": "https://api.discogs.com/artists/9049"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/VrkYlgrU5zTyAOAjh7Q2AK2H88HFlWPpIPCl6T37auU/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjcx/NS0xNTQ2OTIyNTk5/LTU2ODUuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/VrkYlgrU5zTyAOAjh7Q2AK2H88HFlWPpIPCl6T37auU/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjcx/NS0xNTQ2OTIyNTk5/LTU2ODUuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/SX7KWp1Li79sswb7mN7-MM7B5ksXepMKRwQCRu4Gylk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjcx/NS0xNTQ2OTIyNTk5/LTU2ODUuanBlZw.jpeg",
+      "width": 600,
+      "height": 587
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/1YpBZv7BkJlaP-TaGgWIf4CFwtMUclRekxIWpqPaJjw/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjcx/NS0xNTQ2OTIyNTk5/LTY0NTIuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/1YpBZv7BkJlaP-TaGgWIf4CFwtMUclRekxIWpqPaJjw/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjcx/NS0xNTQ2OTIyNTk5/LTY0NTIuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/NrU7oA9TyxOJXBGd7YUKpduAtQEjjU8kS4RW8nFJYLc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjcx/NS0xNTQ2OTIyNTk5/LTY0NTIuanBlZw.jpeg",
+      "width": 600,
+      "height": 583
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/YeBsLfv8O5kgInB5jJKscK3I-sxzU1eKGeet6fnA0Zc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjcx/NS0xNTQ2OTIxODc1/LTk0NjQuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/YeBsLfv8O5kgInB5jJKscK3I-sxzU1eKGeet6fnA0Zc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjcx/NS0xNTQ2OTIxODc1/LTk0NjQuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/sMD8QcUmul6WYPYDPgxLEk6u96XH2vgF8-JWJNJXx6c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjcx/NS0xNTQ2OTIxODc1/LTk0NjQuanBlZw.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/sHuaZG0WH5OrPFGGzGPC7NGoPHVhP2ZMJSmSEPrQn6Y/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjcx/NS0xNTQ2OTIxODc1/LTEyMzEuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/sHuaZG0WH5OrPFGGzGPC7NGoPHVhP2ZMJSmSEPrQn6Y/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjcx/NS0xNTQ2OTIxODc1/LTEyMzEuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/x-2agITWVaPUrqJNk01HGroiv4PD6qVvhilxSnw0GXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjcx/NS0xNTQ2OTIxODc1/LTEyMzEuanBlZw.jpeg",
+      "width": 600,
+      "height": 599
+    }
+  ],
+  "thumb": "https://i.discogs.com/SX7KWp1Li79sswb7mN7-MM7B5ksXepMKRwQCRu4Gylk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mjcx/NS0xNTQ2OTIyNTk5/LTU2ODUuanBlZw.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

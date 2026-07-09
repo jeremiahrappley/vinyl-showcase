@@ -1,0 +1,1619 @@
+{
+  "id": 26686562,
+  "status": "Accepted",
+  "year": 2023,
+  "resource_url": "https://api.discogs.com/releases/26686562",
+  "uri": "https://www.discogs.com/release/26686562-Kali-Uchis-Isolation",
+  "artists": [
+    {
+      "name": "Kali Uchis",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 3741760,
+      "resource_url": "https://api.discogs.com/artists/3741760",
+      "thumbnail_url": "https://i.discogs.com/OPuUzWav0YIa5dKNDf7GihiQBKu8pEBJHTWclPjl3cE/rs:fit/g:sm/q:90/h:569/w:569/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM3NDE3/NjAtMTc1NzQ2ODEw/NS02NTAzLnBuZw.jpeg"
+    }
+  ],
+  "artists_sort": "Kali Uchis",
+  "labels": [
+    {
+      "name": "Interscope Records",
+      "catno": "B0037699-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 2311,
+      "resource_url": "https://api.discogs.com/labels/2311",
+      "thumbnail_url": "https://i.discogs.com/58MHEZ0kBRytN0Ivvqvnirp57RFfiqWh1YGJLsn62ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTEt/MTUxNzAxMTEyMy00/NjEwLmpwZWc.jpeg"
+    },
+    {
+      "name": "Virgin EMI Records",
+      "catno": "V 3195",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 567148,
+      "resource_url": "https://api.discogs.com/labels/567148",
+      "thumbnail_url": "https://i.discogs.com/XsG8mbTKzKRPTI9d0X3ruqyOv5-iLee4yiUbwnR-7HU/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU2NzE0/OC0xNTI0NjkzMzk4/LTc0ODYucG5n.jpeg"
+    },
+    {
+      "name": "Interscope Records",
+      "catno": "V 3195",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 2311,
+      "resource_url": "https://api.discogs.com/labels/2311",
+      "thumbnail_url": "https://i.discogs.com/58MHEZ0kBRytN0Ivvqvnirp57RFfiqWh1YGJLsn62ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTEt/MTUxNzAxMTEyMy00/NjEwLmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Universal Music Operations Ltd.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 120257,
+      "resource_url": "https://api.discogs.com/labels/120257",
+      "thumbnail_url": "https://i.discogs.com/V_wCq2yiBeTzd3BTY-Y3dNJZfLamTsE-l69r2d3rH0I/rs:fit/g:sm/q:90/h:142/w:436/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMDI1/Ny0xNjQ5OTU5MzA2/LTU5MDAuanBlZw.jpeg"
+    },
+    {
+      "name": "Universal Music Operations Ltd.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 120257,
+      "resource_url": "https://api.discogs.com/labels/120257",
+      "thumbnail_url": "https://i.discogs.com/V_wCq2yiBeTzd3BTY-Y3dNJZfLamTsE-l69r2d3rH0I/rs:fit/g:sm/q:90/h:142/w:436/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMDI1/Ny0xNjQ5OTU5MzA2/LTU5MDAuanBlZw.jpeg"
+    },
+    {
+      "name": "Universal Music Distribution",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 115478,
+      "resource_url": "https://api.discogs.com/labels/115478"
+    },
+    {
+      "name": "Interscope Records",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 2311,
+      "resource_url": "https://api.discogs.com/labels/2311",
+      "thumbnail_url": "https://i.discogs.com/58MHEZ0kBRytN0Ivvqvnirp57RFfiqWh1YGJLsn62ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTEt/MTUxNzAxMTEyMy00/NjEwLmpwZWc.jpeg"
+    },
+    {
+      "name": "Whitelines",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 889229,
+      "resource_url": "https://api.discogs.com/labels/889229"
+    },
+    {
+      "name": "Interscope Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 291539,
+      "resource_url": "https://api.discogs.com/labels/291539"
+    },
+    {
+      "name": "Dap-Kings Studio",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 1611131,
+      "resource_url": "https://api.discogs.com/labels/1611131"
+    },
+    {
+      "name": "Harmony Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 299382,
+      "resource_url": "https://api.discogs.com/labels/299382"
+    },
+    {
+      "name": "Red Bull Studios, Los Angeles, CA",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 693019,
+      "resource_url": "https://api.discogs.com/labels/693019",
+      "thumbnail_url": "https://i.discogs.com/zlp9efe-AdzWiLiXj6qqGBOAMm3FjRFRmpm5xmytYGw/rs:fit/g:sm/q:90/h:199/w:198/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY5MzAx/OS0xNDAwNzAxNDAz/LTM5ODcuanBlZw.jpeg"
+    },
+    {
+      "name": "Paramount Recording Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 284159,
+      "resource_url": "https://api.discogs.com/labels/284159",
+      "thumbnail_url": "https://i.discogs.com/WNo1xcmWjIdemTMQrzTG0fbocjBnR5lmYj6nzV8HafY/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4NDE1/OS0xMzkyODAwMzkx/LTE1MDMuanBlZw.jpeg"
+    },
+    {
+      "name": "Studio 13 (4)",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 308302,
+      "resource_url": "https://api.discogs.com/labels/308302",
+      "thumbnail_url": "https://i.discogs.com/dilqw8AeQUldKchMPjEHlz7GwP-kXsj1B6cLGqwxvGE/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwODMw/Mi0xNjkxMDg5MzAx/LTcyMTIuanBlZw.jpeg"
+    },
+    {
+      "name": "Park Street Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 501354,
+      "resource_url": "https://api.discogs.com/labels/501354"
+    },
+    {
+      "name": "Bedrock L.A.",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 714885,
+      "resource_url": "https://api.discogs.com/labels/714885",
+      "thumbnail_url": "https://i.discogs.com/OPaizN9yfjughfrLa78Il1n0NsuwWQh2nboYd6D9joM/rs:fit/g:sm/q:90/h:600/w:515/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTcxNDg4/NS0xNDY1MjQ3OTk4/LTY0MTIuanBlZw.jpeg"
+    },
+    {
+      "name": "Studio 13 (4)",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 308302,
+      "resource_url": "https://api.discogs.com/labels/308302",
+      "thumbnail_url": "https://i.discogs.com/dilqw8AeQUldKchMPjEHlz7GwP-kXsj1B6cLGqwxvGE/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwODMw/Mi0xNjkxMDg5MzAx/LTcyMTIuanBlZw.jpeg"
+    },
+    {
+      "name": "The Mastering Palace",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 286787,
+      "resource_url": "https://api.discogs.com/labels/286787",
+      "thumbnail_url": "https://i.discogs.com/FldocbfEUfzXQtROTJELIl_VU5aD3hJIOZYdZoxITjc/rs:fit/g:sm/q:90/h:127/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4Njc4/Ny0xMzQ0MDgwNDc1/LTQzMjguanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "text": "Opaque Blue [Blue Jay]"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 5143,
+    "want": 873,
+    "rating": {
+      "count": 395,
+      "average": 4.65
+    },
+    "submitter": {
+      "username": "Do-notTellMe",
+      "resource_url": "https://api.discogs.com/users/Do-notTellMe"
+    },
+    "contributors": [
+      {
+        "username": "Do-notTellMe",
+        "resource_url": "https://api.discogs.com/users/Do-notTellMe"
+      },
+      {
+        "username": "rainab",
+        "resource_url": "https://api.discogs.com/users/rainab"
+      },
+      {
+        "username": "aboutTOdetonate",
+        "resource_url": "https://api.discogs.com/users/aboutTOdetonate"
+      },
+      {
+        "username": "r_knx",
+        "resource_url": "https://api.discogs.com/users/r_knx"
+      },
+      {
+        "username": "AndrewPalaceLM",
+        "resource_url": "https://api.discogs.com/users/AndrewPalaceLM"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2023-04-07T20:24:36-07:00",
+  "date_changed": "2025-11-27T13:09:01-08:00",
+  "num_for_sale": 50,
+  "lowest_price": 20,
+  "master_id": 1347997,
+  "master_url": "https://api.discogs.com/masters/1347997",
+  "title": "Isolation",
+  "country": "US",
+  "released": "2023-04-07",
+  "notes": "5 year anniversary pressing on limited edition opaque blue vinyl.",
+  "released_formatted": "07 Apr 2023",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02557 46306 4",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "6 02455 42007 7",
+      "description": "Scanned"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=IUcByj96dUA",
+      "title": "Kali Uchis - Just A Stranger ft. Steve Lacy",
+      "description": "Isolation out now: http://smarturl.it/IsolationKaliUchis \nDirected by BRTHR \nCreative Director Kali Uchis \nProduced by Strangelove Productions \n\n[LYRICS] \nDollar bills x 6\nShe wants my hundred dollar bills\nShe don’t want love \nShe wants my hundred dolla",
+      "duration": 186,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KDUOLz9ZL2g",
+      "title": "Kali Uchis - Tyrant (Official Video) ft. Jorja Smith",
+      "description": "Tyrant ft Jorja Smith is out now https://KaliUchis.lnk.to/Tyrant \nDIRECTED BY HELMI \nPRODUCED BY DIVISION\n\nOFFICIAL LYRICS \nAll I hear is sirens\nIn a world so violent\nWould you be a tyrant\nIf I gave you power\nWould you take it all\nLook me in my iris\nI can",
+      "duration": 204,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=mbwUs1rnuQg",
+      "title": "Kali Uchis - Dead To Me (Acoustic)",
+      "description": "Kali Uchis –Dead To ME (Acoustic) is out now\nhttp://smarturl.it/IsolationKaliUchis\n\nMusic video by Kali Uchis performing Dead To Me. © 2018 Universal Music Operations Limited\n\nhttp://vevo.ly/7U4J56",
+      "duration": 232,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=TvYbR0mr0mk",
+      "title": "Kali Uchis - Nuestro Planeta ft. Reykon",
+      "description": "Kali Uchis – Nuestro Planeta is available now! - https://KaliUchis.lnk.to/Nuestro\nDirected by Daniel Sannwald\n\nLyrics:\nTeniéndote cerca\nSe me daña la cabeza \nMe acerco todo me tiembla \nAhora tengo la certeza\n\nque no se me han quitado las ganas\nDespert",
+      "duration": 214,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=evfM1QDfleM",
+      "title": "Kali Uchis - Get Up (Official Video)",
+      "description": "Isolation out now: http://smarturl.it/IsolationKaliUchis\nDirected by Kali Uchis\nProduced by all day every day\n\nFollow Kali Uchis:\nhttp://www.instagram.com/kaliuchis\nhttp://www.facebook.com/kalicuhis\nhttp://www.twitter.com/kalicuhis\n\nMusic video by Kali Uc",
+      "duration": 170,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=a-CS-j87w5o",
+      "title": "Tomorrow",
+      "description": "Provided to YouTube by Universal Music Group\n\nTomorrow · Kali Uchis\n\nIsolation\n\n℗ A Rinse / Virgin EMI Records recording; ℗ 2018 Universal Music Operations Limited\n\nReleased on: 2018-04-06\n\nProducer, Associated  Performer, Guitar, Bass, Keyboards, Pr",
+      "duration": 191,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=9f5zD7ZSNpQ",
+      "title": "Kali Uchis - After The Storm ft. Tyler, The Creator, Bootsy Collins (Official Video)",
+      "description": "Isolation out now: http://smarturl.it/IsolationKaliUchis\nDirected by Nadia Lee Cohen\nCreative Director Kali Uchis\nProduced by Anonymous content\nAudio Producer BADBADNOTGOOD\n\nLyrics\n\n[Intro: Bootsy Collins]\nAh\nWhatever goes around\nEventually comes back to ",
+      "duration": 210,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=XLzPe3ibfb4",
+      "title": "Gotta Get Up (Interlude)",
+      "description": "Provided to YouTube by Universal Music Group\n\nGotta Get Up (Interlude) · Kali Uchis\n\nIsolation\n\n℗ A Rinse / Virgin EMI Records recording; ℗ 2018 Universal Music Operations Limited\n\nReleased on: 2018-04-06\n\nProducer, Studio  Personnel, Mixer, Programm",
+      "duration": 114,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=lmk6WMpKlDY",
+      "title": "KALI UCHIS - MIAMI {FEAT. BIA} [MUSIC VIDEO]",
+      "description": "Hey whores xoxo",
+      "duration": 244,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Hip Hop",
+    "Latin",
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Contemporary R&B",
+    "Neo Soul",
+    "Bossanova",
+    "Reggaeton",
+    "Trip Hop"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Body Language (Intro)",
+      "extraartists": [
+        {
+          "name": "Brandon Kelly",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 6248988,
+          "resource_url": "https://api.discogs.com/artists/6248988"
+        },
+        {
+          "name": "Thundercat",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Bass, Guitar, Drums",
+          "tracks": "",
+          "id": 1800656,
+          "resource_url": "https://api.discogs.com/artists/1800656"
+        },
+        {
+          "name": "Keith Parry (2)",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 3260087,
+          "resource_url": "https://api.discogs.com/artists/3260087"
+        },
+        {
+          "name": "Stephen Bruner",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1573878,
+          "resource_url": "https://api.discogs.com/artists/1573878"
+        },
+        {
+          "name": "Om'Mas Keith",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 245423,
+          "resource_url": "https://api.discogs.com/artists/245423"
+        },
+        {
+          "name": "Kali Uchis",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Vocals",
+          "tracks": "",
+          "id": 3741760,
+          "resource_url": "https://api.discogs.com/artists/3741760"
+        }
+      ],
+      "duration": "2:16"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Miami",
+      "extraartists": [
+        {
+          "name": "Brandon Kelly",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 6248988,
+          "resource_url": "https://api.discogs.com/artists/6248988"
+        },
+        {
+          "name": "BIA (10)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring, Vocals",
+          "tracks": "",
+          "id": 5809783,
+          "resource_url": "https://api.discogs.com/artists/5809783"
+        },
+        {
+          "name": "DJ Dahi",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Keyboards, Programmed By",
+          "tracks": "",
+          "id": 2253749,
+          "resource_url": "https://api.discogs.com/artists/2253749"
+        },
+        {
+          "name": "Keith Parry (2)",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 3260087,
+          "resource_url": "https://api.discogs.com/artists/3260087"
+        },
+        {
+          "name": "Bianca Landrau",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5911435,
+          "resource_url": "https://api.discogs.com/artists/5911435"
+        },
+        {
+          "name": "Dacoury Natche",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2983560,
+          "resource_url": "https://api.discogs.com/artists/2983560"
+        },
+        {
+          "name": "Om'Mas Keith",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 245423,
+          "resource_url": "https://api.discogs.com/artists/245423"
+        },
+        {
+          "name": "David Andrew Sitek",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer, Guitar, Bass",
+          "tracks": "",
+          "id": 260933,
+          "resource_url": "https://api.discogs.com/artists/260933"
+        },
+        {
+          "name": "Kali Uchis",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Vocals",
+          "tracks": "",
+          "id": 3741760,
+          "resource_url": "https://api.discogs.com/artists/3741760"
+        }
+      ],
+      "duration": "4:04"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Just A Stranger",
+      "extraartists": [
+        {
+          "name": "Steve Lacy (4)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring, Vocals, Written-By, Producer, Bass",
+          "tracks": "",
+          "id": 4740695,
+          "resource_url": "https://api.discogs.com/artists/4740695"
+        },
+        {
+          "name": "Romil Hemnani",
+          "anv": "Romil",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5832297,
+          "resource_url": "https://api.discogs.com/artists/5832297"
+        },
+        {
+          "name": "Kyle Vandekerkhoff",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 3275649,
+          "resource_url": "https://api.discogs.com/artists/3275649"
+        },
+        {
+          "name": "Romil Hemnani",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Guitar, Keyboards, Programmed By, Drums",
+          "tracks": "",
+          "id": 5832297,
+          "resource_url": "https://api.discogs.com/artists/5832297"
+        },
+        {
+          "name": "Kali Uchis",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Vocals",
+          "tracks": "",
+          "id": 3741760,
+          "resource_url": "https://api.discogs.com/artists/3741760"
+        }
+      ],
+      "duration": "2:58"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Flight 22",
+      "extraartists": [
+        {
+          "name": "Bosco Mann",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 261970,
+          "resource_url": "https://api.discogs.com/artists/261970"
+        },
+        {
+          "name": "Cochemea Gastelum",
+          "anv": "",
+          "join": "",
+          "role": "Baritone Saxophone",
+          "tracks": "",
+          "id": 297831,
+          "resource_url": "https://api.discogs.com/artists/297831"
+        },
+        {
+          "name": "Nick Movshon",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 308966,
+          "resource_url": "https://api.discogs.com/artists/308966"
+        },
+        {
+          "name": "Garo Yellin",
+          "anv": "",
+          "join": "",
+          "role": "Cello",
+          "tracks": "",
+          "id": 260076,
+          "resource_url": "https://api.discogs.com/artists/260076"
+        },
+        {
+          "name": "Homer Steinweiss",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 307876,
+          "resource_url": "https://api.discogs.com/artists/307876"
+        },
+        {
+          "name": "Thomas Brenneck",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 392670,
+          "resource_url": "https://api.discogs.com/artists/392670"
+        },
+        {
+          "name": "Tony Maserati",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 69585,
+          "resource_url": "https://api.discogs.com/artists/69585"
+        },
+        {
+          "name": "Victor Axelrod",
+          "anv": "",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 309992,
+          "resource_url": "https://api.discogs.com/artists/309992"
+        },
+        {
+          "name": "Simon Guzmán",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 3644195,
+          "resource_url": "https://api.discogs.com/artists/3644195"
+        },
+        {
+          "name": "Neal Sugarman",
+          "anv": "",
+          "join": "",
+          "role": "Tenor Saxophone",
+          "tracks": "",
+          "id": 307875,
+          "resource_url": "https://api.discogs.com/artists/307875"
+        },
+        {
+          "name": "Dave Guy",
+          "anv": "",
+          "join": "",
+          "role": "Trumpet",
+          "tracks": "",
+          "id": 307872,
+          "resource_url": "https://api.discogs.com/artists/307872"
+        },
+        {
+          "name": "Coco Taguchi",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 5607791,
+          "resource_url": "https://api.discogs.com/artists/5607791"
+        },
+        {
+          "name": "Autumn Rowe",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 634162,
+          "resource_url": "https://api.discogs.com/artists/634162"
+        },
+        {
+          "name": "Wayne Gordon (2)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer, Recorded By, Arranged By, Guitar, Glockenspiel",
+          "tracks": "",
+          "id": 4546540,
+          "resource_url": "https://api.discogs.com/artists/4546540"
+        },
+        {
+          "name": "Kali Uchis",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer, Vocals",
+          "tracks": "",
+          "id": 3741760,
+          "resource_url": "https://api.discogs.com/artists/3741760"
+        }
+      ],
+      "duration": "3:37"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Your Teeth In My Neck",
+      "extraartists": [
+        {
+          "name": "TJ Osinulu",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 3963201,
+          "resource_url": "https://api.discogs.com/artists/3963201"
+        },
+        {
+          "name": "The Wilderness (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1903217,
+          "resource_url": "https://api.discogs.com/artists/1903217"
+        },
+        {
+          "name": "Eric Stenman",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 268067,
+          "resource_url": "https://api.discogs.com/artists/268067"
+        },
+        {
+          "name": "James Musshorn",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 643533,
+          "resource_url": "https://api.discogs.com/artists/643533"
+        },
+        {
+          "name": "Matt Emonson",
+          "anv": "Matthew Emonson",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 4068036,
+          "resource_url": "https://api.discogs.com/artists/4068036"
+        },
+        {
+          "name": "Afolabi Osinulu",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7043381,
+          "resource_url": "https://api.discogs.com/artists/7043381"
+        },
+        {
+          "name": "Kyle D. Branham",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7043385,
+          "resource_url": "https://api.discogs.com/artists/7043385"
+        },
+        {
+          "name": "Kevin Arcilla",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Electric Guitar, Bass",
+          "tracks": "",
+          "id": 7043382,
+          "resource_url": "https://api.discogs.com/artists/7043382"
+        },
+        {
+          "name": "Asa Davis",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Keyboards, Bass",
+          "tracks": "",
+          "id": 7043378,
+          "resource_url": "https://api.discogs.com/artists/7043378"
+        },
+        {
+          "name": "Kali Uchis",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Vocals",
+          "tracks": "",
+          "id": 3741760,
+          "resource_url": "https://api.discogs.com/artists/3741760"
+        }
+      ],
+      "duration": "3:06"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Tyrant",
+      "extraartists": [
+        {
+          "name": "Jorja Smith",
+          "anv": "",
+          "join": "",
+          "role": "Featuring, Written-By, Vocals",
+          "tracks": "",
+          "id": 5314733,
+          "resource_url": "https://api.discogs.com/artists/5314733"
+        },
+        {
+          "name": "Sounwave",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Keyboards, Programmed By",
+          "tracks": "",
+          "id": 1784576,
+          "resource_url": "https://api.discogs.com/artists/1784576"
+        },
+        {
+          "name": "James Musshorn",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 643533,
+          "resource_url": "https://api.discogs.com/artists/643533"
+        },
+        {
+          "name": "Todd Bergman",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 1553365,
+          "resource_url": "https://api.discogs.com/artists/1553365"
+        },
+        {
+          "name": "Mark Spears",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1550262,
+          "resource_url": "https://api.discogs.com/artists/1550262"
+        },
+        {
+          "name": "Jairus Mozee",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer, Guitar",
+          "tracks": "",
+          "id": 942632,
+          "resource_url": "https://api.discogs.com/artists/942632"
+        },
+        {
+          "name": "Larrance Dopson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer, Keyboards, Programmed By",
+          "tracks": "",
+          "id": 2402706,
+          "resource_url": "https://api.discogs.com/artists/2402706"
+        },
+        {
+          "name": "Kali Uchis",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Vocals",
+          "tracks": "",
+          "id": 3741760,
+          "resource_url": "https://api.discogs.com/artists/3741760"
+        }
+      ],
+      "duration": "3:24"
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "title": "Dead To Me",
+      "extraartists": [
+        {
+          "name": "John Foyle",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 2474287,
+          "resource_url": "https://api.discogs.com/artists/2474287"
+        },
+        {
+          "name": "Two Inch Punch",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By, Producer, Bass, Keyboards, Drums, Percussion, Programmed By, Mixed By",
+          "tracks": "",
+          "id": 2132402,
+          "resource_url": "https://api.discogs.com/artists/2132402"
+        },
+        {
+          "name": "John Foyle",
+          "anv": "",
+          "join": "",
+          "role": "Synth, Guitar, Programmed By",
+          "tracks": "",
+          "id": 2474287,
+          "resource_url": "https://api.discogs.com/artists/2474287"
+        },
+        {
+          "name": "Ben Ash (2)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2556522,
+          "resource_url": "https://api.discogs.com/artists/2556522"
+        },
+        {
+          "name": "Kali Uchis",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Vocals",
+          "tracks": "",
+          "id": 3741760,
+          "resource_url": "https://api.discogs.com/artists/3741760"
+        }
+      ],
+      "duration": "3:20"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Nuestro Planeta",
+      "extraartists": [
+        {
+          "name": "Reykon",
+          "anv": "",
+          "join": "",
+          "role": "Featuring, Vocals",
+          "tracks": "",
+          "id": 4447519,
+          "resource_url": "https://api.discogs.com/artists/4447519"
+        },
+        {
+          "name": "The Rudeboyz",
+          "anv": "The Rude Boyz",
+          "join": "",
+          "role": "Producer, Keyboards, Programmed By",
+          "tracks": "",
+          "id": 6443971,
+          "resource_url": "https://api.discogs.com/artists/6443971"
+        },
+        {
+          "name": "Mavig",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By, Mixed By",
+          "tracks": "",
+          "id": 7043379,
+          "resource_url": "https://api.discogs.com/artists/7043379"
+        },
+        {
+          "name": "Andrés Felipe Robledo Londoño",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7043387,
+          "resource_url": "https://api.discogs.com/artists/7043387"
+        },
+        {
+          "name": "Bryan Snaider Lezcano Chaverra",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5347796,
+          "resource_url": "https://api.discogs.com/artists/5347796"
+        },
+        {
+          "name": "Jairo Andres Barron Torres",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7043383,
+          "resource_url": "https://api.discogs.com/artists/7043383"
+        },
+        {
+          "name": "Kevin Mauricio Jiménez Londoño",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5347798,
+          "resource_url": "https://api.discogs.com/artists/5347798"
+        },
+        {
+          "name": "Martha Liliana López Llorente",
+          "anv": "Martha Liliana Lopez Llorente",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7507439,
+          "resource_url": "https://api.discogs.com/artists/7507439"
+        },
+        {
+          "name": "Kali Uchis",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Vocals",
+          "tracks": "",
+          "id": 3741760,
+          "resource_url": "https://api.discogs.com/artists/3741760"
+        }
+      ],
+      "duration": "3:23"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "In My Dreams",
+      "extraartists": [
+        {
+          "name": "Gorillaz",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 6378,
+          "resource_url": "https://api.discogs.com/artists/6378"
+        },
+        {
+          "name": "Eric Stenman",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 268067,
+          "resource_url": "https://api.discogs.com/artists/268067"
+        },
+        {
+          "name": "James Musshorn",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 643533,
+          "resource_url": "https://api.discogs.com/artists/643533"
+        },
+        {
+          "name": "Kali Uchis",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Vocals",
+          "tracks": "",
+          "id": 3741760,
+          "resource_url": "https://api.discogs.com/artists/3741760"
+        },
+        {
+          "name": "Damon Albarn",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Vocals, Guitar, Bass, Keyboards, Programmed By, Drums, Percussion",
+          "tracks": "",
+          "id": 3882,
+          "resource_url": "https://api.discogs.com/artists/3882"
+        }
+      ],
+      "duration": "3:21"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Gotta Get Up (Interlude)",
+      "extraartists": [
+        {
+          "name": "Midas Touch",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 61115,
+          "resource_url": "https://api.discogs.com/artists/61115"
+        },
+        {
+          "name": "Keith Parry (2)",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 3260087,
+          "resource_url": "https://api.discogs.com/artists/3260087"
+        },
+        {
+          "name": "Dave Richmond",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 51849,
+          "resource_url": "https://api.discogs.com/artists/51849"
+        },
+        {
+          "name": "Harold Fisher",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 269286,
+          "resource_url": "https://api.discogs.com/artists/269286"
+        },
+        {
+          "name": "Harry Rabinowitz",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 421574,
+          "resource_url": "https://api.discogs.com/artists/421574"
+        },
+        {
+          "name": "Martin Kershaw",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 269287,
+          "resource_url": "https://api.discogs.com/artists/269287"
+        },
+        {
+          "name": "Jeff Gitty",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer, Guitar",
+          "tracks": "",
+          "id": 4454784,
+          "resource_url": "https://api.discogs.com/artists/4454784"
+        },
+        {
+          "name": "Josh Crocker",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer, Programmed By, Mixed By",
+          "tracks": "",
+          "id": 2261741,
+          "resource_url": "https://api.discogs.com/artists/2261741"
+        },
+        {
+          "name": "Kali Uchis",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Vocals",
+          "tracks": "",
+          "id": 3741760,
+          "resource_url": "https://api.discogs.com/artists/3741760"
+        }
+      ],
+      "duration": "1:53"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Tomorrow",
+      "extraartists": [
+        {
+          "name": "Eric Stenman",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 268067,
+          "resource_url": "https://api.discogs.com/artists/268067"
+        },
+        {
+          "name": "James Musshorn",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 643533,
+          "resource_url": "https://api.discogs.com/artists/643533"
+        },
+        {
+          "name": "Kevin Parker (2)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer, Guitar, Bass, Keyboards, Programmed By, Drums, Percussion",
+          "tracks": "",
+          "id": 1245512,
+          "resource_url": "https://api.discogs.com/artists/1245512"
+        },
+        {
+          "name": "Kali Uchis",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Vocals",
+          "tracks": "",
+          "id": 3741760,
+          "resource_url": "https://api.discogs.com/artists/3741760"
+        }
+      ],
+      "duration": "3:10"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Coming Home (Interlude)",
+      "extraartists": [
+        {
+          "name": "Sounwave",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Drums, Programmed By",
+          "tracks": "",
+          "id": 1784576,
+          "resource_url": "https://api.discogs.com/artists/1784576"
+        },
+        {
+          "name": "Eric Stenman",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 268067,
+          "resource_url": "https://api.discogs.com/artists/268067"
+        },
+        {
+          "name": "James Musshorn",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 643533,
+          "resource_url": "https://api.discogs.com/artists/643533"
+        },
+        {
+          "name": "Mark Spears",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1550262,
+          "resource_url": "https://api.discogs.com/artists/1550262"
+        },
+        {
+          "name": "Greg Kurstin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer, Synth, Piano, Synthesizer",
+          "tracks": "",
+          "id": 277673,
+          "resource_url": "https://api.discogs.com/artists/277673"
+        },
+        {
+          "name": "Kali Uchis",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Vocals",
+          "tracks": "",
+          "id": 3741760,
+          "resource_url": "https://api.discogs.com/artists/3741760"
+        }
+      ],
+      "duration": "2:40"
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "After The Storm",
+      "extraartists": [
+        {
+          "name": "Bootsy Collins",
+          "anv": "",
+          "join": "",
+          "role": "Featuring, Vocals",
+          "tracks": "",
+          "id": 24072,
+          "resource_url": "https://api.discogs.com/artists/24072"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "anv": "",
+          "join": "",
+          "role": "Featuring, Vocals",
+          "tracks": "",
+          "id": 1967268,
+          "resource_url": "https://api.discogs.com/artists/1967268"
+        },
+        {
+          "name": "BadBadNotGood",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2468526,
+          "resource_url": "https://api.discogs.com/artists/2468526"
+        },
+        {
+          "name": "Bootsy Collins",
+          "anv": "William Earl 'Bootsy' Collins",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 24072,
+          "resource_url": "https://api.discogs.com/artists/24072"
+        },
+        {
+          "name": "Tyler Okonma",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2243829,
+          "resource_url": "https://api.discogs.com/artists/2243829"
+        },
+        {
+          "name": "Alex Sowinski",
+          "anv": "Alexander Sowinski",
+          "join": "",
+          "role": "Written-By, Drums, Percussion",
+          "tracks": "",
+          "id": 2468522,
+          "resource_url": "https://api.discogs.com/artists/2468522"
+        },
+        {
+          "name": "Leland Whitty",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Guitar",
+          "tracks": "",
+          "id": 2692944,
+          "resource_url": "https://api.discogs.com/artists/2692944"
+        },
+        {
+          "name": "Matthew A. Tavares",
+          "anv": "Matthew Tavares",
+          "join": "",
+          "role": "Written-By, Piano",
+          "tracks": "",
+          "id": 2468525,
+          "resource_url": "https://api.discogs.com/artists/2468525"
+        },
+        {
+          "name": "Chester Hansen",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Synth, Bass",
+          "tracks": "",
+          "id": 2468523,
+          "resource_url": "https://api.discogs.com/artists/2468523"
+        },
+        {
+          "name": "Kali Uchis",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Vocals",
+          "tracks": "",
+          "id": 3741760,
+          "resource_url": "https://api.discogs.com/artists/3741760"
+        }
+      ],
+      "duration": "3:27"
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "title": "Feel Like A Fool",
+      "extraartists": [
+        {
+          "name": "Brandon Kelly",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 6248988,
+          "resource_url": "https://api.discogs.com/artists/6248988"
+        },
+        {
+          "name": "Josh Crocker",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer, Guitar, Bass, Keyboards, Programmed By, Drums, Percussion, Mixed By [Additional]",
+          "tracks": "",
+          "id": 2261741,
+          "resource_url": "https://api.discogs.com/artists/2261741"
+        },
+        {
+          "name": "Kali Uchis",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Vocals",
+          "tracks": "",
+          "id": 3741760,
+          "resource_url": "https://api.discogs.com/artists/3741760"
+        }
+      ],
+      "duration": "3:05"
+    },
+    {
+      "position": "B8",
+      "type_": "track",
+      "title": "Killer",
+      "extraartists": [
+        {
+          "name": "Todd Simon",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 54243,
+          "resource_url": "https://api.discogs.com/artists/54243"
+        },
+        {
+          "name": "Cochemea Gastelum",
+          "anv": "",
+          "join": "",
+          "role": "Baritone Saxophone",
+          "tracks": "",
+          "id": 297831,
+          "resource_url": "https://api.discogs.com/artists/297831"
+        },
+        {
+          "name": "Nick Movshon",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 308966,
+          "resource_url": "https://api.discogs.com/artists/308966"
+        },
+        {
+          "name": "Garo Yellin",
+          "anv": "",
+          "join": "",
+          "role": "Cello",
+          "tracks": "",
+          "id": 260076,
+          "resource_url": "https://api.discogs.com/artists/260076"
+        },
+        {
+          "name": "Homer Steinweiss",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 307876,
+          "resource_url": "https://api.discogs.com/artists/307876"
+        },
+        {
+          "name": "Thomas Brenneck",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 392670,
+          "resource_url": "https://api.discogs.com/artists/392670"
+        },
+        {
+          "name": "Josh Crocker",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Additional]",
+          "tracks": "",
+          "id": 2261741,
+          "resource_url": "https://api.discogs.com/artists/2261741"
+        },
+        {
+          "name": "Victor Axelrod",
+          "anv": "",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 309992,
+          "resource_url": "https://api.discogs.com/artists/309992"
+        },
+        {
+          "name": "Om'Mas Keith",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 245423,
+          "resource_url": "https://api.discogs.com/artists/245423"
+        },
+        {
+          "name": "Keith Parry (2)",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 3260087,
+          "resource_url": "https://api.discogs.com/artists/3260087"
+        },
+        {
+          "name": "Simon Guzmán",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By, Congas",
+          "tracks": "",
+          "id": 3644195,
+          "resource_url": "https://api.discogs.com/artists/3644195"
+        },
+        {
+          "name": "Neal Sugarman",
+          "anv": "",
+          "join": "",
+          "role": "Tenor Saxophone",
+          "tracks": "",
+          "id": 307875,
+          "resource_url": "https://api.discogs.com/artists/307875"
+        },
+        {
+          "name": "Dave Guy",
+          "anv": "",
+          "join": "",
+          "role": "Trumpet",
+          "tracks": "",
+          "id": 307872,
+          "resource_url": "https://api.discogs.com/artists/307872"
+        },
+        {
+          "name": "Coco Taguchi",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 5607791,
+          "resource_url": "https://api.discogs.com/artists/5607791"
+        },
+        {
+          "name": "Wayne Gordon (2)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer, Arranged By",
+          "tracks": "",
+          "id": 4546540,
+          "resource_url": "https://api.discogs.com/artists/4546540"
+        },
+        {
+          "name": "Kali Uchis",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Vocals",
+          "tracks": "",
+          "id": 3741760,
+          "resource_url": "https://api.discogs.com/artists/3741760"
+        }
+      ],
+      "duration": "2:52"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Bryan Rivera",
+      "anv": "",
+      "join": "",
+      "role": "Graphic Design",
+      "tracks": "",
+      "id": 5047305,
+      "resource_url": "https://api.discogs.com/artists/5047305"
+    },
+    {
+      "name": "Dave Kutch",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 410696,
+      "resource_url": "https://api.discogs.com/artists/410696"
+    },
+    {
+      "name": "Jeff Ellis",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "",
+      "id": 737267,
+      "resource_url": "https://api.discogs.com/artists/737267"
+    },
+    {
+      "name": "Chico Torres (2)",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By [Assistant]",
+      "tracks": "",
+      "id": 7043386,
+      "resource_url": "https://api.discogs.com/artists/7043386"
+    },
+    {
+      "name": "Timothy Nguyen",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By [Assistant]",
+      "tracks": "",
+      "id": 7043380,
+      "resource_url": "https://api.discogs.com/artists/7043380"
+    },
+    {
+      "name": "Nick Knight",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 347680,
+      "resource_url": "https://api.discogs.com/artists/347680"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/ywW2TOOarRgaeZ1ApXAcHM3rJzINYPQkxoIp-eq2L5c/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg2/NTYyLTE2ODExNjQ4/ODYtOTA1Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ywW2TOOarRgaeZ1ApXAcHM3rJzINYPQkxoIp-eq2L5c/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg2/NTYyLTE2ODExNjQ4/ODYtOTA1Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/p0JdnUQzKIDGPJ4rn5GB6yY5cFd7EroIdD5mmc6-mjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg2/NTYyLTE2ODExNjQ4/ODYtOTA1Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/d7bER0cyIP8YwgqmMWmOpYM5UlpZupc9hcNt02G5DiM/rs:fit/g:sm/q:90/h:564/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg2/NTYyLTE2ODExNjQ3/ODUtMTQwOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/d7bER0cyIP8YwgqmMWmOpYM5UlpZupc9hcNt02G5DiM/rs:fit/g:sm/q:90/h:564/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg2/NTYyLTE2ODExNjQ3/ODUtMTQwOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/TpIg-_nZ-ISZPHAPto3gwljrNYytyCgCStefZ39HLcM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg2/NTYyLTE2ODExNjQ3/ODUtMTQwOS5qcGVn.jpeg",
+      "width": 600,
+      "height": 564
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/OHcyyyLF1rnqOO2X72q9pVJBMPT1VQki0Pm_0aNp_sk/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg2/NTYyLTE2ODExNjQ3/ODQtNzE5My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/OHcyyyLF1rnqOO2X72q9pVJBMPT1VQki0Pm_0aNp_sk/rs:fit/g:sm/q:90/h:539/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg2/NTYyLTE2ODExNjQ3/ODQtNzE5My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/xTnh2FBlqd0wqHviVobLE9HekWu2Fm7WwJsFs2ErAHA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg2/NTYyLTE2ODExNjQ3/ODQtNzE5My5qcGVn.jpeg",
+      "width": 600,
+      "height": 539
+    }
+  ],
+  "thumb": "https://i.discogs.com/p0JdnUQzKIDGPJ4rn5GB6yY5cFd7EroIdD5mmc6-mjc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg2/NTYyLTE2ODExNjQ4/ODYtOTA1Mi5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

@@ -1,0 +1,472 @@
+{
+  "id": 29215144,
+  "status": "Accepted",
+  "year": 2023,
+  "resource_url": "https://api.discogs.com/releases/29215144",
+  "uri": "https://www.discogs.com/release/29215144-Cannons-5-Fever-Dream",
+  "artists": [
+    {
+      "name": "Cannons (5)",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 7928121,
+      "resource_url": "https://api.discogs.com/artists/7928121",
+      "thumbnail_url": "https://i.discogs.com/7RFg58giLdLFIyeWSinWw7JE3AQBeteAGwtIdAx3-ao/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc5Mjgx/MjEtMTcyODg3Mzcw/Ny02NDIwLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Cannons (5)",
+  "labels": [
+    {
+      "name": "Columbia",
+      "catno": "19658866651",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    },
+    {
+      "name": "Columbia",
+      "catno": "19658866651S1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    },
+    {
+      "name": "Columbia",
+      "catno": "19658866651/1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Cannons (5)",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 3513493,
+      "resource_url": "https://api.discogs.com/labels/3513493"
+    },
+    {
+      "name": "Cannons (5)",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 3513493,
+      "resource_url": "https://api.discogs.com/labels/3513493"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "United Record Pressing",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 238322,
+      "resource_url": "https://api.discogs.com/labels/238322",
+      "thumbnail_url": "https://i.discogs.com/wXejTcaBZif0vNl1Wx8ZmvUBcAwkQ21T3AduA-BjUg8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzODMy/Mi0xNDk3Nzk0Njg4/LTg0MzAucG5n.jpeg"
+    },
+    {
+      "name": "Nashville Record Productions",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 301710,
+      "resource_url": "https://api.discogs.com/labels/301710",
+      "thumbnail_url": "https://i.discogs.com/IcalAteMbdmR9J0RZL7DNIgwoUFgumvzbzqKsx9Rve4/rs:fit/g:sm/q:90/h:253/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwMTcx/MC0xNjQwMzg4MTcx/LTYwMzAuanBlZw.jpeg"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Sony Music Entertainment",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 29073,
+      "resource_url": "https://api.discogs.com/labels/29073",
+      "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+    },
+    {
+      "name": "Cannons The Band Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 3513496,
+      "resource_url": "https://api.discogs.com/labels/3513496"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ]
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 1454,
+    "want": 253,
+    "rating": {
+      "count": 126,
+      "average": 4.75
+    },
+    "submitter": {
+      "username": "alexcruzdesign",
+      "resource_url": "https://api.discogs.com/users/alexcruzdesign"
+    },
+    "contributors": [
+      {
+        "username": "alexcruzdesign",
+        "resource_url": "https://api.discogs.com/users/alexcruzdesign"
+      },
+      {
+        "username": "dujokauke",
+        "resource_url": "https://api.discogs.com/users/dujokauke"
+      },
+      {
+        "username": "DarkDrakonus",
+        "resource_url": "https://api.discogs.com/users/DarkDrakonus"
+      },
+      {
+        "username": "pirate303",
+        "resource_url": "https://api.discogs.com/users/pirate303"
+      },
+      {
+        "username": "Audioear",
+        "resource_url": "https://api.discogs.com/users/Audioear"
+      },
+      {
+        "username": "lob0to",
+        "resource_url": "https://api.discogs.com/users/lob0to"
+      },
+      {
+        "username": "cliffonthemoon",
+        "resource_url": "https://api.discogs.com/users/cliffonthemoon"
+      },
+      {
+        "username": "rui.novais",
+        "resource_url": "https://api.discogs.com/users/rui.novais"
+      },
+      {
+        "username": "Showbiz_Kid",
+        "resource_url": "https://api.discogs.com/users/Showbiz_Kid"
+      },
+      {
+        "username": "N8TRU1",
+        "resource_url": "https://api.discogs.com/users/N8TRU1"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2023-12-15T22:05:29-08:00",
+  "date_changed": "2024-09-27T08:38:33-07:00",
+  "num_for_sale": 18,
+  "lowest_price": 25,
+  "master_id": 3068174,
+  "master_url": "https://api.discogs.com/masters/3068174",
+  "title": "Fever Dream",
+  "country": "US",
+  "released": "2023-12-00",
+  "notes": "Reissue on standard black vinyl.\nIncludes credit/lyric sheet.\n\n© 2023 & ℗ 2021, 2022 Cannons, under exclusive license to Columbia Records, a Division of Sony Music Entertainment.\nAll songs © 2021, 2022 Cannons The Band Music (BMI).",
+  "released_formatted": "Dec 2023",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "1 96588 66651 3",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "196588666513",
+      "description": "Scanned, UPC_A"
+    },
+    {
+      "type": "Rights Society",
+      "value": "BMI"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "C-327391 AL 19658866651",
+      "description": "Label A side"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "C-327391 BL 19658866651",
+      "description": "Label B side"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "19658-86665-1-A NRP Ⓤ",
+      "description": "Side A runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "19658-86665-1-B NRP Ⓤ",
+      "description": "Side B runout"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=LZ2kSbSrDLs",
+      "title": "Cannons - Hurricane (Official Video)",
+      "description": "Official Video for “Hurricane” by Cannons\n \nListen & Download “Hurricane” now! https://cannons.lnk.to/Hurricane\n \nAmazon Music: https://cannons.lnk.to/Hurricane/AmazonMusic\nApple Music: https://cannons.lnk.to/Hurricane/AppleMusic\niTunes: https://cannons.l",
+      "duration": 190,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=bzZjG9B9_Ug",
+      "title": "Cannons - Purple Sun (Living Room Sessions)",
+      "description": "Listen to “Purple Sun” now: https://cannons.lnk.to/PurpleSun \n\nVideo by Ryan Rundle\n\nFollow Cannons: \nInstagram: https://www.instagram.com/cannonstheband/\nTikTok: https://www.tiktok.com/@cannonstheband\nFacebook: https://www.facebook.com/cannonstheband\nTwi",
+      "duration": 244,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=kIVHBdaZfbg",
+      "title": "Cannons - Come Alive (Official Audio)",
+      "description": "Official Audio for “Come Alive” by Cannons!\n \nListen & Download “Fever Dream” now! https://cannons.lnk.to/FeverDream\n \nAmazon Music:  https://cannons.lnk.to/FeverDream/AmazonMusic\nApple Music: https://cannons.lnk.to/FeverDream/AppleMusic\niTunes:  https://",
+      "duration": 204,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Rock"
+  ],
+  "styles": [
+    "Synth-pop",
+    "Pop Rock"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Come Alive",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Hurricane",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Strangers",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Tunnel Of You",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Bad Dream",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Ruthless",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Only You",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Goodbye",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Purple Sun",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Afterglow",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Lightning",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Cannons (5)",
+      "anv": "",
+      "join": "",
+      "role": "Performer",
+      "tracks": "",
+      "id": 7928121,
+      "resource_url": "https://api.discogs.com/artists/7928121"
+    },
+    {
+      "name": "Cannons (5)",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 7928121,
+      "resource_url": "https://api.discogs.com/artists/7928121"
+    },
+    {
+      "name": "Paul Davis (60)",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By, Mixed By, Mastered By",
+      "tracks": "",
+      "id": 13071333,
+      "resource_url": "https://api.discogs.com/artists/13071333"
+    },
+    {
+      "name": "Michelle Lewis (3)",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 2133481,
+      "resource_url": "https://api.discogs.com/artists/2133481"
+    },
+    {
+      "name": "Paul Davis (60)",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 13071333,
+      "resource_url": "https://api.discogs.com/artists/13071333"
+    },
+    {
+      "name": "Ryan Clapham",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 13071336,
+      "resource_url": "https://api.discogs.com/artists/13071336"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/Ke8blaxFDkTdaY8dI0Gp9fkGn7KGSm_i406j4qlHmo0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE1/MTQ0LTE3MTU0MzM3/MDgtMjQ0Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Ke8blaxFDkTdaY8dI0Gp9fkGn7KGSm_i406j4qlHmo0/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE1/MTQ0LTE3MTU0MzM3/MDgtMjQ0Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/duRAEpI9-2OZi3KVUzgXCWtOyXk1pmw7D9ed43ZSs4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE1/MTQ0LTE3MTU0MzM3/MDgtMjQ0Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 594
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Iduq_PN8_Kd1OOrLWjoIIuK1QDVlLhbOp2ttQ-fwfOs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE1/MTQ0LTE3MTE1NjQy/MjQtNjI4NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Iduq_PN8_Kd1OOrLWjoIIuK1QDVlLhbOp2ttQ-fwfOs/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE1/MTQ0LTE3MTE1NjQy/MjQtNjI4NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ak3osNlNQPDmydQAJyVC5hQ2-rpBNlMdFL8X3KJloqo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE1/MTQ0LTE3MTE1NjQy/MjQtNjI4NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 597
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/QcBqTuHOd4dfHWQW6ZyF5kNTpB3k-SedqtrsIGEeL60/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE1/MTQ0LTE3MDkyNjI2/NjUtNzM1NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/QcBqTuHOd4dfHWQW6ZyF5kNTpB3k-SedqtrsIGEeL60/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE1/MTQ0LTE3MDkyNjI2/NjUtNzM1NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Zue5FD18tjVQapvEPKjBkZdm2YBXugmNac5bKvm971g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE1/MTQ0LTE3MDkyNjI2/NjUtNzM1NS5qcGVn.jpeg",
+      "width": 599,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/dwLWbUcp2M_u7G_yHL2tqKtwJ81teC83GwuljPqhzUk/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE1/MTQ0LTE3MDkyNjI2/NjctODYzOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/dwLWbUcp2M_u7G_yHL2tqKtwJ81teC83GwuljPqhzUk/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE1/MTQ0LTE3MDkyNjI2/NjctODYzOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/z5xz9wV2-zTdCNRDLyRTGekqwoDpBmdoQbrWrv1lkbA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE1/MTQ0LTE3MDkyNjI2/NjctODYzOS5qcGVn.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/GaiTT3edo4N1Sdu5TYlOpJArXCdUCvMWcgPOHgyWhHk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE1/MTQ0LTE3MTE1NjQy/NzEtNjQwMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/GaiTT3edo4N1Sdu5TYlOpJArXCdUCvMWcgPOHgyWhHk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE1/MTQ0LTE3MTE1NjQy/NzEtNjQwMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/_lOxpKaOtr_s6KFSb4_0nU940pv9_rJkI3RDhYY4vVI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE1/MTQ0LTE3MTE1NjQy/NzEtNjQwMC5qcGVn.jpeg",
+      "width": 599,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/OxA-CMKDhPEnQqf8qfzSOXH2JxqU033ePt8URLZD7XY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE1/MTQ0LTE3MTE1NjQy/NTctNTQzNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/OxA-CMKDhPEnQqf8qfzSOXH2JxqU033ePt8URLZD7XY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE1/MTQ0LTE3MTE1NjQy/NTctNTQzNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/nXbtPoQypgLBiXraOm9PE5m5RC1W09aShZzv-tnkct8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE1/MTQ0LTE3MTE1NjQy/NTctNTQzNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/LoSnLzLys4Xp7mPSxTiKQS_rPfI3AWndkyr4MgUfeWU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE1/MTQ0LTE3MTE1NjQy/ODItMTU3Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/LoSnLzLys4Xp7mPSxTiKQS_rPfI3AWndkyr4MgUfeWU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE1/MTQ0LTE3MTE1NjQy/ODItMTU3Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/HhfdbGx0AqQSYld576cyX_rzASDGuooyIKjqPvqOznA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE1/MTQ0LTE3MTE1NjQy/ODItMTU3Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/7JQ21Oo19bPW8ZCgWhbVwMHEOecAhmVgHp0rSBu3ZeE/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE1/MTQ0LTE3MTE1NjQx/OTMtMjg3MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/7JQ21Oo19bPW8ZCgWhbVwMHEOecAhmVgHp0rSBu3ZeE/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE1/MTQ0LTE3MTE1NjQx/OTMtMjg3MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/0L5lIMWhwWcqFJlRJDKkkHs7LH9ChhJnvxhDjIJgt38/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE1/MTQ0LTE3MTE1NjQx/OTMtMjg3MC5qcGVn.jpeg",
+      "width": 594,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/duRAEpI9-2OZi3KVUzgXCWtOyXk1pmw7D9ed43ZSs4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5MjE1/MTQ0LTE3MTU0MzM3/MDgtMjQ0Ny5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

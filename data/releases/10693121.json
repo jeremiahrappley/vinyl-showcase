@@ -1,0 +1,281 @@
+{
+  "id": 10693121,
+  "status": "Accepted",
+  "year": 0,
+  "resource_url": "https://api.discogs.com/releases/10693121",
+  "uri": "https://www.discogs.com/release/10693121-Kool-The-Gang-Kool-The-Gang-Spin-Their-Top-Hits",
+  "artists": [
+    {
+      "name": "Kool & The Gang",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 48865,
+      "resource_url": "https://api.discogs.com/artists/48865",
+      "thumbnail_url": "https://i.discogs.com/yZlvJOjMa_2HcXwJcBqCug2rZRDsZs46PO95x3VHM0E/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ4ODY1/LTE2MjI5NjYxMTct/NTQ3Mi5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "Kool & The Gang",
+  "labels": [
+    {
+      "name": "De-Lite Records",
+      "catno": "DSR-9507",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 9892,
+      "resource_url": "https://api.discogs.com/labels/9892",
+      "thumbnail_url": "https://i.discogs.com/bKpx1gF8jBBQMPb39vKmq0130FtjTkoOoOju8Nyg6G4/rs:fit/g:sm/q:90/h:218/w:552/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk4OTIt/MTQxMDQ2NDI4NS02/MTgyLmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "De-Lite Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 9892,
+      "resource_url": "https://api.discogs.com/labels/9892",
+      "thumbnail_url": "https://i.discogs.com/bKpx1gF8jBBQMPb39vKmq0130FtjTkoOoOju8Nyg6G4/rs:fit/g:sm/q:90/h:218/w:552/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk4OTIt/MTQxMDQ2NDI4NS02/MTgyLmpwZWc.jpeg"
+    },
+    {
+      "name": "De-Lite Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 9892,
+      "resource_url": "https://api.discogs.com/labels/9892",
+      "thumbnail_url": "https://i.discogs.com/bKpx1gF8jBBQMPb39vKmq0130FtjTkoOoOju8Nyg6G4/rs:fit/g:sm/q:90/h:218/w:552/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk4OTIt/MTQxMDQ2NDI4NS02/MTgyLmpwZWc.jpeg"
+    },
+    {
+      "name": "Phonogram, Inc.",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 266015,
+      "resource_url": "https://api.discogs.com/labels/266015",
+      "thumbnail_url": "https://i.discogs.com/V-4VO7jBwc75TE03PaiHKEON27Q8ADx-_wGKMFexVyE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NjAx/NS0xNDg0NTYxNDk4/LTI3MDMuanBlZw.jpeg"
+    },
+    {
+      "name": "Phonogram, Inc.",
+      "catno": "",
+      "entity_type": "8",
+      "entity_type_name": "Marketed By",
+      "id": 266015,
+      "resource_url": "https://api.discogs.com/labels/266015",
+      "thumbnail_url": "https://i.discogs.com/V-4VO7jBwc75TE03PaiHKEON27Q8ADx-_wGKMFexVyE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NjAx/NS0xNDg0NTYxNDk4/LTI3MDMuanBlZw.jpeg"
+    },
+    {
+      "name": "PolyGram Distribution, Inc.",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 316983,
+      "resource_url": "https://api.discogs.com/labels/316983",
+      "thumbnail_url": "https://i.discogs.com/mGv2pwWW25-V3M6UarHmcBs7UcX09GlWNO3Ka2gAoCo/rs:fit/g:sm/q:90/h:38/w:390/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxNjk4/My0xMzkzNzkzODY5/LTY1MzAuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Compilation"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 203,
+    "want": 37,
+    "rating": {
+      "count": 8,
+      "average": 4.75
+    },
+    "submitter": {
+      "username": "semascus",
+      "resource_url": "https://api.discogs.com/users/semascus"
+    },
+    "contributors": [
+      {
+        "username": "semascus",
+        "resource_url": "https://api.discogs.com/users/semascus"
+      },
+      {
+        "username": "tobias-maier-cds",
+        "resource_url": "https://api.discogs.com/users/tobias-maier-cds"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2017-08-12T02:16:15-07:00",
+  "date_changed": "2019-03-18T23:30:27-07:00",
+  "num_for_sale": 8,
+  "lowest_price": 9.66,
+  "master_id": 258563,
+  "master_url": "https://api.discogs.com/masters/258563",
+  "title": "Kool & The Gang Spin Their Top Hits",
+  "country": "US",
+  "notes": "Label variation.\n\nB1 to B3 ℗ 1973\nA4 and B6 ℗ 1974\nA2, B4 and B5 ℗ 1975\nA1 ℗ 1976",
+  "identifiers": [
+    {
+      "type": "Matrix / Runout",
+      "value": "DSR-9507-AS-PW-I (PR)P",
+      "description": "Hand-etchings runout area side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "DSR-9507-BS-PW (PR)",
+      "description": "Hand-etchings runout area side B"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Funk"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Open Sesame",
+      "duration": "8:46"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Spirit Of The Boogie",
+      "duration": "3:15"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Kool & The Gang",
+      "duration": "2:54"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Hollywood Swinging",
+      "duration": "4:35"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Funky Stuff",
+      "duration": "2:59"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "More Funky Stuff",
+      "duration": "2:52"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Jungle Boogie",
+      "duration": "3:08"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Caribbean Festival",
+      "duration": "3:43"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Love And Understanding",
+      "duration": "4:16"
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Summer Madness",
+      "duration": "4:16"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Kool & The Gang",
+      "anv": "",
+      "join": "",
+      "role": "Arranged By",
+      "tracks": "",
+      "id": 48865,
+      "resource_url": "https://api.discogs.com/artists/48865"
+    },
+    {
+      "name": "Ray Janos",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 339229,
+      "resource_url": "https://api.discogs.com/artists/339229"
+    },
+    {
+      "name": "Ronald Bell",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 108893,
+      "resource_url": "https://api.discogs.com/artists/108893"
+    },
+    {
+      "name": "Richard E. Aaron",
+      "anv": "",
+      "join": "",
+      "role": "Photography By [Back Photo]",
+      "tracks": "",
+      "id": 2255333,
+      "resource_url": "https://api.discogs.com/artists/2255333"
+    }
+  ],
+  "images": [
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/RZrJhETqXBTbWt_lOXHDEkangGHnODofl5Y4ZbUumyU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjkz/MTIxLTE1MDI1MzA3/OTItMjQ2MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/RZrJhETqXBTbWt_lOXHDEkangGHnODofl5Y4ZbUumyU/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjkz/MTIxLTE1MDI1MzA3/OTItMjQ2MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/asD1_-qvNK7zzNVH1M5LmakJXp59NgWYhDs523F-pb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjkz/MTIxLTE1MDI1MzA3/OTItMjQ2MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/nT69d8ByluPR69Iw8Yt4cdvCCFPdoxvnsYOOVLXC3SM/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjkz/MTIxLTE1MDI1MzA3/OTItMTg3Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/nT69d8ByluPR69Iw8Yt4cdvCCFPdoxvnsYOOVLXC3SM/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjkz/MTIxLTE1MDI1MzA3/OTItMTg3Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/C-bZs3kVItNnKrK5jCvKvwdeZtMgAlBVKPJunsDhKc4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjkz/MTIxLTE1MDI1MzA3/OTItMTg3Ni5qcGVn.jpeg",
+      "width": 598,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/APY4tOBLfHPc8w6SIZCFrM7E8TIzLQRwOCrY3IA3TrI/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjkz/MTIxLTE1MDI1MzA3/OTMtNzYyMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/APY4tOBLfHPc8w6SIZCFrM7E8TIzLQRwOCrY3IA3TrI/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjkz/MTIxLTE1MDI1MzA3/OTMtNzYyMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/VJLt05XSAN_oaqG2PJRAhLf1mEYV3gEHoay8KLzlhvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjkz/MTIxLTE1MDI1MzA3/OTMtNzYyMy5qcGVn.jpeg",
+      "width": 595,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/pJhRnqp4VGE6sksq3wQSFQi1WyjQW0cWdgPwEudt5iY/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjkz/MTIxLTE1MDI1MzA3/OTMtODA4Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/pJhRnqp4VGE6sksq3wQSFQi1WyjQW0cWdgPwEudt5iY/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjkz/MTIxLTE1MDI1MzA3/OTMtODA4Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/TLMPijJRLWbEQsAFKn7TdbwAj41v-U-h1AKJC2URsD0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjkz/MTIxLTE1MDI1MzA3/OTMtODA4Mi5qcGVn.jpeg",
+      "width": 593,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/asD1_-qvNK7zzNVH1M5LmakJXp59NgWYhDs523F-pb8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjkz/MTIxLTE1MDI1MzA3/OTItMjQ2MS5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

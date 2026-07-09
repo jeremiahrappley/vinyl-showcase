@@ -1,0 +1,481 @@
+{
+  "id": 32559540,
+  "status": "Accepted",
+  "year": 2024,
+  "resource_url": "https://api.discogs.com/releases/32559540",
+  "uri": "https://www.discogs.com/release/32559540-Rüfüs-Du-Sol-Inhale-Exhale",
+  "artists": [
+    {
+      "name": "Rüfüs Du Sol",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 5609881,
+      "resource_url": "https://api.discogs.com/artists/5609881",
+      "thumbnail_url": "https://i.discogs.com/NzJqjJAbqSOo3gcvEZg6VPsuJ3QmXKHlxiVF4Bv1g9s/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU2MDk4/ODEtMTcxODk5Nzc1/MC0yMDM2LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Rüfüs Du Sol",
+  "labels": [
+    {
+      "name": "Rose Avenue Records",
+      "catno": "093624842965",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 2317927,
+      "resource_url": "https://api.discogs.com/labels/2317927",
+      "thumbnail_url": "https://i.discogs.com/E2xuq5JWrYKC8UN71mJ_UCWc2XNSs_cjV4BaN1hrVvA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTc5/MjctMTYyNzc2MjM2/Mi05NTYxLmpwZWc.jpeg"
+    },
+    {
+      "name": "Reprise Records",
+      "catno": "093624842965",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 157,
+      "resource_url": "https://api.discogs.com/labels/157",
+      "thumbnail_url": "https://i.discogs.com/iKBCqc_nPLAGiCS4_2RshoKpj-ZuUJo7Z1qzYmFuJrc/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1Ny0x/NTIxMTk1ODk5LTE1/NzgucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Warner Music Group",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 2345,
+      "resource_url": "https://api.discogs.com/labels/2345",
+      "thumbnail_url": "https://i.discogs.com/95s0HdOCUU8FyLsHNEDnOWp4uyplgYi8soEbgIdX1dY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzNDUt/MTc4MTM2Mjc2MS0x/OTYyLmpwZWc.jpeg"
+    },
+    {
+      "name": "Rose Avenue Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 2317927,
+      "resource_url": "https://api.discogs.com/labels/2317927",
+      "thumbnail_url": "https://i.discogs.com/E2xuq5JWrYKC8UN71mJ_UCWc2XNSs_cjV4BaN1hrVvA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTc5/MjctMTYyNzc2MjM2/Mi05NTYxLmpwZWc.jpeg"
+    },
+    {
+      "name": "Rose Avenue Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 2317927,
+      "resource_url": "https://api.discogs.com/labels/2317927",
+      "thumbnail_url": "https://i.discogs.com/E2xuq5JWrYKC8UN71mJ_UCWc2XNSs_cjV4BaN1hrVvA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTc5/MjctMTYyNzc2MjM2/Mi05NTYxLmpwZWc.jpeg"
+    },
+    {
+      "name": "Reprise Records",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 157,
+      "resource_url": "https://api.discogs.com/labels/157",
+      "thumbnail_url": "https://i.discogs.com/iKBCqc_nPLAGiCS4_2RshoKpj-ZuUJo7Z1qzYmFuJrc/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1Ny0x/NTIxMTk1ODk5LTE1/NzgucG5n.jpeg"
+    },
+    {
+      "name": "Becker Mastering",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 1150046,
+      "resource_url": "https://api.discogs.com/labels/1150046"
+    },
+    {
+      "name": "GZ Media",
+      "catno": "290434E",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album"
+      ],
+      "text": "Green (Diffused Green)"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 599,
+    "want": 143,
+    "rating": {
+      "count": 37,
+      "average": 4.84
+    },
+    "submitter": {
+      "username": "josheroony",
+      "resource_url": "https://api.discogs.com/users/josheroony"
+    },
+    "contributors": [
+      {
+        "username": "josheroony",
+        "resource_url": "https://api.discogs.com/users/josheroony"
+      },
+      {
+        "username": "mbgriffith1",
+        "resource_url": "https://api.discogs.com/users/mbgriffith1"
+      },
+      {
+        "username": "prouteau",
+        "resource_url": "https://api.discogs.com/users/prouteau"
+      },
+      {
+        "username": "rvdbrugg",
+        "resource_url": "https://api.discogs.com/users/rvdbrugg"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2024-12-13T15:51:44-08:00",
+  "date_changed": "2025-08-04T12:01:47-07:00",
+  "num_for_sale": 22,
+  "lowest_price": 29.76,
+  "master_id": 3684750,
+  "master_url": "https://api.discogs.com/masters/3684750",
+  "title": "Inhale / Exhale",
+  "country": "Worldwide",
+  "released": "2024-12-13",
+  "notes": "Indie exclusive color variant. \n\nComes with printed inner sleeves and an insert.\n\nTracks are listed sequentially as they appear on the cover.",
+  "released_formatted": "13 Dec 2024",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "0 93624 83676 6",
+      "description": "Sticker"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "290434E1 2067933",
+      "description": "Runout side A, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "290434E2 2042151",
+      "description": "Runout side B, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "290434E3 2067941",
+      "description": "Runout side C, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "290434E4 2044737",
+      "description": "Runout side D, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "290434E1  2042149  093624842965 - A  BG",
+      "description": "Runout side A, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "290434E2  2067938  093624842965 - B  BG",
+      "description": "Runout side B, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "290434E3  2067942  093624842965 - C  BG",
+      "description": "Runout side C, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "290434E4  2068764  093624842965 - D  BG",
+      "description": "Runout side D, variant 2"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=jDi7oAUg0M8",
+      "title": "Rufus Du Sol - Inhale/Exhale [Full Album]",
+      "description": "Rufus Du Sol - Inhale/Exhale [Full Album]\n\n🔔 Subscribe to The Pulse’s channel: https://bit.ly/3YfxvD6\n\nTimestamps:\n00:00:00 Inhale\n00:01:43 Lately\n00:05:47 Breathe\n00:08:44 Music is Better\n00:12:35 Levitating\n00:16:34 Break My Love\n00:20:50 In the Moment\n",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=jDi7oAUg0M8",
+      "title": "Rufus Du Sol - Inhale/Exhale [Full Album]",
+      "description": "Rufus Du Sol - Inhale/Exhale [Full Album]\n\n🔔 Subscribe to The Pulse’s channel: https://bit.ly/3YfxvD6\n\nTimestamps:\n00:00:00 Inhale\n00:01:43 Lately\n00:05:47 Breathe\n00:08:44 Music is Better\n00:12:35 Levitating\n00:16:34 Break My Love\n00:20:50 In the Moment\n",
+      "duration": 0,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic"
+  ],
+  "styles": [
+    "Progressive House",
+    "Synth-pop",
+    "Dance-pop"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Inhale",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Lately",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Breathe",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Music Is Better",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Levitating",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Break My Love",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "title": "In The Moment",
+      "duration": ""
+    },
+    {
+      "position": "B8",
+      "type_": "track",
+      "title": "New York",
+      "duration": ""
+    },
+    {
+      "position": "C9",
+      "type_": "track",
+      "title": "The Life",
+      "duration": ""
+    },
+    {
+      "position": "C10",
+      "type_": "track",
+      "title": "Pressure",
+      "duration": ""
+    },
+    {
+      "position": "C11",
+      "type_": "track",
+      "title": "Fire / Desire",
+      "duration": ""
+    },
+    {
+      "position": "D12",
+      "type_": "track",
+      "title": "Edge Of The Earth",
+      "duration": ""
+    },
+    {
+      "position": "D13",
+      "type_": "track",
+      "title": "Standing At The Gates",
+      "duration": ""
+    },
+    {
+      "position": "D14",
+      "type_": "track",
+      "title": "Belong",
+      "duration": ""
+    },
+    {
+      "position": "D15",
+      "type_": "track",
+      "title": "Exhale",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Dale Becker",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 2149985,
+      "resource_url": "https://api.discogs.com/artists/2149985"
+    },
+    {
+      "name": "Cassian Stewart-Kasimba",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "",
+      "id": 1913168,
+      "resource_url": "https://api.discogs.com/artists/1913168"
+    },
+    {
+      "name": "Rüfüs Du Sol",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 5609881,
+      "resource_url": "https://api.discogs.com/artists/5609881"
+    },
+    {
+      "name": "James Hunt (6)",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 2842003,
+      "resource_url": "https://api.discogs.com/artists/2842003"
+    },
+    {
+      "name": "Jon George",
+      "anv": "Jonathon George",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 1704061,
+      "resource_url": "https://api.discogs.com/artists/1704061"
+    },
+    {
+      "name": "Tyrone Lindqvist",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 2842001,
+      "resource_url": "https://api.discogs.com/artists/2842001"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/TsD2DGyJAbKcACi4S439WNfry-xV9o8pmKl7jgQdavk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTctODI0Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/TsD2DGyJAbKcACi4S439WNfry-xV9o8pmKl7jgQdavk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTctODI0Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/-9UV-1cCfpggZHTLT_fMSF1jDmI8L_TzgDzuQKCAjDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTctODI0Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/8yH4VERqeaXe9pFd3QC97Mysx6zQlHVfuJP4o9iAm6Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTYtMjYwOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/8yH4VERqeaXe9pFd3QC97Mysx6zQlHVfuJP4o9iAm6Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTYtMjYwOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Ws6-X8BvXAJARlIbZ14jKdaRpUUqN0bbt3AuavEVB5U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTYtMjYwOS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/jWogxSbYOlB4GDLk9K3zAHWlBG_WtYbThAW1HvrfNlQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTYtNTYwOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/jWogxSbYOlB4GDLk9K3zAHWlBG_WtYbThAW1HvrfNlQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTYtNTYwOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/T6khCGSpeGGplFshQIwO9lcVKEC7cMEueP1No5PF0LU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTYtNTYwOS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/8FcFV9Fa9dMMq2XsSl6gNKnwRxg-T3LEu2LBqzOLekE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTYtNDY4OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/8FcFV9Fa9dMMq2XsSl6gNKnwRxg-T3LEu2LBqzOLekE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTYtNDY4OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ou1FLtw9YmhckLEEeQsK5IN5UJ5sL7d7Unq8f0Gk5U0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTYtNDY4OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/vGqatwN237whjsa90YBobkxylFz0_1hWDxsbJdXG5JA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTYtNjg0Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/vGqatwN237whjsa90YBobkxylFz0_1hWDxsbJdXG5JA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTYtNjg0Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/wgZmpZBL01RPsGjmUFDg2_11w9MlMDOHhpFme-T96MI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTYtNjg0Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/VuQSPsdutHD1PqmJR0tVy811IDaK9BfzMOOIErns-k0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTYtOTYyMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/VuQSPsdutHD1PqmJR0tVy811IDaK9BfzMOOIErns-k0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTYtOTYyMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/34IhzxPeuK0aX74ENOu5wgvJLDtkTGkg9zDOdK1laGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTYtOTYyMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/1b2HUbN89UFzUOJMUJW7e3hk9r8uJSczELyTGOtj5Do/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTYtOTM3OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/1b2HUbN89UFzUOJMUJW7e3hk9r8uJSczELyTGOtj5Do/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTYtOTM3OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/IrMgB0bC2CUHykq3haaoN7Yx1DdPMRNx6GkTYIozSm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTYtOTM3OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/URMaWMtU0xB36dhkMXAAfIdOnSfNHpR8vPTABuDAFHE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTYtMTg1OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/URMaWMtU0xB36dhkMXAAfIdOnSfNHpR8vPTABuDAFHE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTYtMTg1OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/4droxJPjn8ZJgnufPydyg-NG5qIIDBSY47sII0l7RsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTYtMTg1OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/FDANgp-2idlCbjEx4vI0N_ks0QlrfBWM6tfbLIzQ8Ho/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTUtMzg1Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/FDANgp-2idlCbjEx4vI0N_ks0QlrfBWM6tfbLIzQ8Ho/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTUtMzg1Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/b_zBNHSdKhOqLpt4GPnM5L8AJuTZe-MVU5DRK1qieRs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTUtMzg1Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/B4z5szkvJrhh2AX91INBZdHoqA_ERAUoaGDgsFt8mY0/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTYtNTkxNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/B4z5szkvJrhh2AX91INBZdHoqA_ERAUoaGDgsFt8mY0/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTYtNTkxNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/-jnBD9Rbv_pPdt0N1w0ZccjrDDzKm4xZWOn_t9JuhQo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTYtNTkxNS5qcGVn.jpeg",
+      "width": 593,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/cbRFMkAfIAFbVNEtApNqN_5uazpPt6eAzw-FFMpz10s/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTYtNzc4My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/cbRFMkAfIAFbVNEtApNqN_5uazpPt6eAzw-FFMpz10s/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTYtNzc4My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/EY5G89oaiKmf6VDpL9z4cYBw63XQwC8Z6Yi2pxA3JFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTYtNzc4My5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ew1Zfnb9YOkzjSdunTyolIlNQGeUj7vxIY_UPaOUJq4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTUtNDQxMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ew1Zfnb9YOkzjSdunTyolIlNQGeUj7vxIY_UPaOUJq4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTUtNDQxMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/qCZC8OZLMOAHfKh4372BFLtoo1PZnGwP8x4QKb8lqdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTUtNDQxMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/WT_MgJXgYDuAyC59puBcnqiM6PAXvwXJvdf-DX3nKaU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTUtMTI4OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/WT_MgJXgYDuAyC59puBcnqiM6PAXvwXJvdf-DX3nKaU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTUtMTI4OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/HMgjo2_7voks9fHeXF2Zv5Wy0M_FPxNklms26imRE2U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTUtMTI4OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/-9UV-1cCfpggZHTLT_fMSF1jDmI8L_TzgDzuQKCAjDs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTU5/NTQwLTE3MzQxMzky/OTctODI0Ny5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

@@ -1,0 +1,3072 @@
+{
+  "id": 21976249,
+  "status": "Accepted",
+  "year": 2021,
+  "resource_url": "https://api.discogs.com/releases/21976249",
+  "uri": "https://www.discogs.com/release/21976249-Drake-Take-Care",
+  "artists": [
+    {
+      "name": "Drake",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 151199,
+      "resource_url": "https://api.discogs.com/artists/151199",
+      "thumbnail_url": "https://i.discogs.com/SCU2bmCyMN21mfYL7uoQenQJsjEM9Mtz3k6htdW6slg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE1MTE5/OS0xNjU1NTczODc5/LTgyMDMuanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Drake",
+  "labels": [
+    {
+      "name": "Young Money",
+      "catno": "B0016280-01 JK03",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 211066,
+      "resource_url": "https://api.discogs.com/labels/211066",
+      "thumbnail_url": "https://i.discogs.com/EKG7axr0UDcju_jAN9AlBjqvcI3bEV4x6OZmK_3l9Lk/rs:fit/g:sm/q:90/h:202/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxMTA2/Ni0xNzI1NzI3NDYx/LTgwNTUuanBlZw.jpeg"
+    },
+    {
+      "name": "Cash Money Records",
+      "catno": "B0016280-01 JK03",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 19799,
+      "resource_url": "https://api.discogs.com/labels/19799",
+      "thumbnail_url": "https://i.discogs.com/DOJAy2_H-CJsw0a9XtVIDDBpUM7BRHfNWiHyuZ0FvcY/rs:fit/g:sm/q:90/h:600/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5Nzk5/LTE0ODg5MTgwNTct/Mzg1OS5wbmc.jpeg"
+    },
+    {
+      "name": "Universal Republic Records",
+      "catno": "B0016280-01 JK03",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 81846,
+      "resource_url": "https://api.discogs.com/labels/81846",
+      "thumbnail_url": "https://i.discogs.com/Mx0lzgg0AGiVTL-roO0C79EtHXC7ifP1MNi_utJ2iD8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgxODQ2/LTE0OTg2NzM5MzQt/MzE0My5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Cash Money Records, Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 273837,
+      "resource_url": "https://api.discogs.com/labels/273837"
+    },
+    {
+      "name": "Cash Money Records, Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 273837,
+      "resource_url": "https://api.discogs.com/labels/273837"
+    },
+    {
+      "name": "Universal Republic Records",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 81846,
+      "resource_url": "https://api.discogs.com/labels/81846",
+      "thumbnail_url": "https://i.discogs.com/Mx0lzgg0AGiVTL-roO0C79EtHXC7ifP1MNi_utJ2iD8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgxODQ2/LTE0OTg2NzM5MzQt/MzE0My5wbmc.jpeg"
+    },
+    {
+      "name": "Universal Republic Records",
+      "catno": "",
+      "entity_type": "8",
+      "entity_type_name": "Marketed By",
+      "id": 81846,
+      "resource_url": "https://api.discogs.com/labels/81846",
+      "thumbnail_url": "https://i.discogs.com/Mx0lzgg0AGiVTL-roO0C79EtHXC7ifP1MNi_utJ2iD8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgxODQ2/LTE0OTg2NzM5MzQt/MzE0My5wbmc.jpeg"
+    },
+    {
+      "name": "UMG Recordings, Inc.",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 272782,
+      "resource_url": "https://api.discogs.com/labels/272782",
+      "thumbnail_url": "https://i.discogs.com/WX78Ss6rJPzD8aWRj-wynSuGlTwtQLp2QLnUFGDI3Pg/rs:fit/g:sm/q:90/h:80/w:534/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Mjc4/Mi0xNDU3MDEyNDAw/LTExMzYuanBlZw.jpeg"
+    },
+    {
+      "name": "Universal Music Distribution",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 115478,
+      "resource_url": "https://api.discogs.com/labels/115478"
+    },
+    {
+      "name": "Sterling Sound",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 264060,
+      "resource_url": "https://api.discogs.com/labels/264060",
+      "thumbnail_url": "https://i.discogs.com/Z8f0gMBrt5jLL4TAcCYDGXmMPOLi9V0UW593WXP6BUU/rs:fit/g:sm/q:90/h:118/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDA2/MC0xNTAwMjgzMzYy/LTMyMTguanBlZw.jpeg"
+    },
+    {
+      "name": "Sterling Road Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 417996,
+      "resource_url": "https://api.discogs.com/labels/417996"
+    },
+    {
+      "name": "Never Never Land Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 417997,
+      "resource_url": "https://api.discogs.com/labels/417997"
+    },
+    {
+      "name": "Metalworks Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 274013,
+      "resource_url": "https://api.discogs.com/labels/274013",
+      "thumbnail_url": "https://i.discogs.com/Y0LRSYlmCYpNyImeU7QQABt6NX_VmApQwzEVO_CpI2M/rs:fit/g:sm/q:90/h:300/w:521/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3NDAx/My0xNjI5Nzc2MjQ3/LTMwNzguanBlZw.jpeg"
+    },
+    {
+      "name": "Marvin's Room",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 285821,
+      "resource_url": "https://api.discogs.com/labels/285821"
+    },
+    {
+      "name": "Conway Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 265937,
+      "resource_url": "https://api.discogs.com/labels/265937",
+      "thumbnail_url": "https://i.discogs.com/yH8pXOLciN257RutJRe8Zk3ogg-Rd-ER5dMZsM1atsg/rs:fit/g:sm/q:90/h:243/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTkz/Ny0xNDQ4ODkxNDU3/LTIzMzAuanBlZw.jpeg"
+    },
+    {
+      "name": "The Setai Hotel Recording Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 280505,
+      "resource_url": "https://api.discogs.com/labels/280505"
+    },
+    {
+      "name": "Glenwood Place Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 276393,
+      "resource_url": "https://api.discogs.com/labels/276393",
+      "thumbnail_url": "https://i.discogs.com/wKYKip8OfdwzNHMgtHkDVYIk_NACWeUy4Wgd63wj5NQ/rs:fit/g:sm/q:90/h:233/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3NjM5/My0xNTYwNDU3Mzk2/LTYzODIucG5n.jpeg"
+    },
+    {
+      "name": "The Hit Factory Criteria",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 277730,
+      "resource_url": "https://api.discogs.com/labels/277730",
+      "thumbnail_url": "https://i.discogs.com/rGDtD4cMQy_hJ-EuwPujEmYaVhSUskxwxVAn5sQA81M/rs:fit/g:sm/q:90/h:439/w:542/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Nzcz/MC0xNjQyMTc5NDc1/LTE2OTEuanBlZw.jpeg"
+    },
+    {
+      "name": "Tree Sound Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 280500,
+      "resource_url": "https://api.discogs.com/labels/280500",
+      "thumbnail_url": "https://i.discogs.com/jglhvlIzsagligjsO_fGEzS2bwkWowppB0Q5N1i3CrU/rs:fit/g:sm/q:90/h:600/w:521/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4MDUw/MC0xMzQ2MTYwOTI0/LTUyMDUuanBlZw.jpeg"
+    },
+    {
+      "name": "Coma Sound",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 418064,
+      "resource_url": "https://api.discogs.com/labels/418064"
+    },
+    {
+      "name": "Studio 306",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 265617,
+      "resource_url": "https://api.discogs.com/labels/265617"
+    },
+    {
+      "name": "Metalworks Studios",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 274013,
+      "resource_url": "https://api.discogs.com/labels/274013",
+      "thumbnail_url": "https://i.discogs.com/Y0LRSYlmCYpNyImeU7QQABt6NX_VmApQwzEVO_CpI2M/rs:fit/g:sm/q:90/h:300/w:521/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3NDAx/My0xNjI5Nzc2MjQ3/LTMwNzguanBlZw.jpeg"
+    },
+    {
+      "name": "Stadium Red",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 280502,
+      "resource_url": "https://api.discogs.com/labels/280502"
+    },
+    {
+      "name": "Blast Off Studios",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 280504,
+      "resource_url": "https://api.discogs.com/labels/280504"
+    },
+    {
+      "name": "Capitol Mastering",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 265641,
+      "resource_url": "https://api.discogs.com/labels/265641",
+      "thumbnail_url": "https://i.discogs.com/WZIdEkMtFRU9WE2mh_uoQXKVSK_rL-3v1CzEGp4iDAA/rs:fit/g:sm/q:90/h:250/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTY0/MS0xNDA2MzU5NTE5/LTk2NDYuanBlZw.jpeg"
+    },
+    {
+      "name": "Precision Record Pressing",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 523699,
+      "resource_url": "https://api.discogs.com/labels/523699",
+      "thumbnail_url": "https://i.discogs.com/DfWvGCw34Q127_Eqz8MBLNwe-7lZqvAuM3xxalopIBo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUyMzY5/OS0xNjk5MzgyMzgz/LTIwNDYucG5n.jpeg"
+    },
+    {
+      "name": "GZ Media",
+      "catno": "237536E",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 6563,
+    "want": 1411,
+    "rating": {
+      "count": 439,
+      "average": 4.6
+    },
+    "submitter": {
+      "username": "Army_of_One",
+      "resource_url": "https://api.discogs.com/users/Army_of_One"
+    },
+    "contributors": [
+      {
+        "username": "Army_of_One",
+        "resource_url": "https://api.discogs.com/users/Army_of_One"
+      },
+      {
+        "username": "vrp_pdx",
+        "resource_url": "https://api.discogs.com/users/vrp_pdx"
+      },
+      {
+        "username": "MadSyro",
+        "resource_url": "https://api.discogs.com/users/MadSyro"
+      },
+      {
+        "username": "pzamza",
+        "resource_url": "https://api.discogs.com/users/pzamza"
+      },
+      {
+        "username": "Adogg856",
+        "resource_url": "https://api.discogs.com/users/Adogg856"
+      },
+      {
+        "username": "joanboan",
+        "resource_url": "https://api.discogs.com/users/joanboan"
+      },
+      {
+        "username": "smooth1039",
+        "resource_url": "https://api.discogs.com/users/smooth1039"
+      },
+      {
+        "username": "baldorr",
+        "resource_url": "https://api.discogs.com/users/baldorr"
+      },
+      {
+        "username": "Xmipod",
+        "resource_url": "https://api.discogs.com/users/Xmipod"
+      },
+      {
+        "username": "MarioLTZ",
+        "resource_url": "https://api.discogs.com/users/MarioLTZ"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2022-01-31T21:21:07-08:00",
+  "date_changed": "2025-06-29T08:09:41-07:00",
+  "num_for_sale": 48,
+  "lowest_price": 24.98,
+  "master_id": 394138,
+  "master_url": "https://api.discogs.com/masters/394138",
+  "title": "Take Care",
+  "country": "US",
+  "released": "2021",
+  "notes": "Made in Canada.\n\nInside cover incorrectly lists the deluxe edition bonus tracks (\"The Motto Feat. Lil Wayne\" & \"Hate Sleeping Alone\"), but neither song is actually on this release. The cat # is listed on the spine and the rear cover. 2LP housed in a gatefold sleeve.\n\nTrack 1 contains elements of \"Sailin' Da South\" as performed by DJ Screw.\nTrack 2 contains elements of \"Anything\" as performed by SWV.\nTrack 5 contains elements of \"I'll Take Care Of You.\"\nTrack 7 contains elements of \"Neck Of The Woods.\"\nTrack 7 contains elements of \"Duffle Bag Boy.\"\nTrack 7 contains elements of \"Farmers Pleasure\" performed by Jah Cure.\nTrack 7 contains elements of \"Farmer's Pleasure (Loving This)\" remix performed by Jah Cure, Trayon Garrett & Troy Azore.\nTrack 11 contains elements of \"Calling On You\" performed by Jon B.\nTrack 12 contains elements of \"The Wrong Thing To Do.\"\nTrack 12 contains elements of \"If U Scared, Say U Scared.\"\nTrack 12 contains samples from \"If U Scared, Say U Scared\" as performed by Playa.\nTrack 15 contains elements of \"Swanging And Banging\" as performed by ESG.\nTrack 16 contains elements of \"Back That Azz Up.\"\n\nB0016280-01, accompanying side identifier, and RE1 are hand-etched into the runouts. Everything else is stamped.",
+  "released_formatted": "2021",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02527 86796 0",
+      "description": "Text"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "237536E1 1131913 MASTERED BY CAPITOL B0016280-01-A RE1",
+      "description": "SIde-A runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "237536E2 1131911 B0016280-01-B RE1",
+      "description": "Side-B runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "237536E3 1133245 MASTERED BY CAPITOL B0016280-01-C RE1",
+      "description": "Side-C runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "237536E4 1131917 B0016280-01-D RE1",
+      "description": "Side-D runout"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=5bBcMt4mS2o",
+      "title": "Take Care",
+      "description": "Provided to YouTube by Universal Music Group\n\nTake Care · Drake · Rihanna\n\nTake Care\n\n℗ 2011 Cash Money Records Inc.\n\nReleased on: 2012-01-01\n\nProducer: Jamie \"xx\" Smith\nProducer, Recording Engineer: Noah \"40\" Shebib\nRecording Engineer: Ruben Rivera\nRecor",
+      "duration": 278,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=wc7JPaRV5uU",
+      "title": "Shot For Me",
+      "description": "Provided to YouTube by Universal Music Group\n\nShot For Me · Drake\n\nTake Care\n\n℗ 2011 Cash Money Records Inc.\n\nReleased on: 2011-11-15\n\nProducer, Recording Engineer: Noah \"40\" Shebib\nMixing Second Engineer, Recording Second Engineer: Noel Cadastre\nMixing E",
+      "duration": 225,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=PMk8L9FNqnY",
+      "title": "Over My Dead Body",
+      "description": "Provided to YouTube by Universal Music Group\n\nOver My Dead Body · Drake\n\nTake Care\n\n℗ 2011 Cash Money Records Inc.\n\nReleased on: 2011-11-15\n\nRecording Engineer, Producer: Noah \"40\" Shebib\nRecording Second Engineer: Noel Cadastre\nMixing Engineer: Noel \"Gad",
+      "duration": 273,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=WL-3zvnUomk",
+      "title": "Crew Love",
+      "description": "Provided to YouTube by Universal Music Group\n\nCrew Love · Drake · The Weeknd\n\nTake Care\n\n℗ 2011 Cash Money Records Inc.\n\nReleased on: 2011-11-15\n\nProducer, Recording Engineer: Carlo \"Illangelo\" Montagnese\nProducer: The Weeknd\nMixing Engineer, Producer, Re",
+      "duration": 209,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=HUDkP2rRFBc",
+      "title": "Shot For Me",
+      "description": "Provided to YouTube by Universal Music Group\n\nShot For Me · Drake\n\nTake Care\n\n℗ 2011 Cash Money Records Inc.\n\nReleased on: 2012-01-01\n\nRecording Engineer, Producer: Noah \"40\" Shebib\nRecording Second Engineer, Mixing Second Engineer: Noel Cadastre\nMixing E",
+      "duration": 225,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Hip Hop",
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Contemporary R&B",
+    "Pop Rap"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Over My Dead Body",
+      "extraartists": [
+        {
+          "name": "Chantal Kreviazuk",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 267855,
+          "resource_url": "https://api.discogs.com/artists/267855"
+        },
+        {
+          "name": "Noel Cadastre",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "Noel Campbell",
+          "anv": "Noel \"Gadget\" Campbell",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 1379473,
+          "resource_url": "https://api.discogs.com/artists/1379473"
+        },
+        {
+          "name": "40 (2)",
+          "anv": "",
+          "join": "",
+          "role": "Performer [All Instruments]",
+          "tracks": "",
+          "id": 2722021,
+          "resource_url": "https://api.discogs.com/artists/2722021"
+        },
+        {
+          "name": "Chantal Kreviazuk",
+          "anv": "",
+          "join": "",
+          "role": "Piano [Additional]",
+          "tracks": "",
+          "id": 267855,
+          "resource_url": "https://api.discogs.com/artists/267855"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Chantal Kreviazuk",
+          "anv": "",
+          "join": "",
+          "role": "Vocals [Additional]",
+          "tracks": "",
+          "id": 267855,
+          "resource_url": "https://api.discogs.com/artists/267855"
+        },
+        {
+          "name": "Anthony Palman",
+          "anv": "A. Palman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2027112,
+          "resource_url": "https://api.discogs.com/artists/2027112"
+        },
+        {
+          "name": "Aubrey Graham",
+          "anv": "A. Graham",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1557579,
+          "resource_url": "https://api.discogs.com/artists/1557579"
+        },
+        {
+          "name": "Chantal Kreviazuk",
+          "anv": "C. Kreviazuk",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 267855,
+          "resource_url": "https://api.discogs.com/artists/267855"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "N. Shebib",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Cedric Hill",
+          "anv": "C. Hill",
+          "join": "",
+          "role": "Written-By [Sailin' Da South]",
+          "tracks": "",
+          "id": 1656636,
+          "resource_url": "https://api.discogs.com/artists/1656636"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Shot For Me",
+      "extraartists": [
+        {
+          "name": "Noel Cadastre",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Mix Engineering]",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "Noel Cadastre",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "Travis Sewchan",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 2837944,
+          "resource_url": "https://api.discogs.com/artists/2837944"
+        },
+        {
+          "name": "Noel Campbell",
+          "anv": "Noel \"Gadget\" Campbell",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 1379473,
+          "resource_url": "https://api.discogs.com/artists/1379473"
+        },
+        {
+          "name": "40 (2)",
+          "anv": "",
+          "join": "",
+          "role": "Performer [All Instruments]",
+          "tracks": "",
+          "id": 2722021,
+          "resource_url": "https://api.discogs.com/artists/2722021"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "A. Tesfaye",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Aubrey Graham",
+          "anv": "A. Graham",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1557579,
+          "resource_url": "https://api.discogs.com/artists/1557579"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "N. Shebib",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Rainer Millar Blanchaer",
+          "anv": "R. Millar Blanchaer",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2837937,
+          "resource_url": "https://api.discogs.com/artists/2837937"
+        },
+        {
+          "name": "Brian Alexander Morgan",
+          "anv": "B. Morgan",
+          "join": "",
+          "role": "Written-By [Anything]",
+          "tracks": "",
+          "id": 187184,
+          "resource_url": "https://api.discogs.com/artists/187184"
+        },
+        {
+          "name": "Ray Smith (6)",
+          "anv": "R. Smith",
+          "join": "",
+          "role": "Written-By [Anything]",
+          "tracks": "",
+          "id": 643414,
+          "resource_url": "https://api.discogs.com/artists/643414"
+        },
+        {
+          "name": "Tyrone Armstrong",
+          "anv": "T. Armstrong",
+          "join": "",
+          "role": "Written-By [Anything]",
+          "tracks": "",
+          "id": 600426,
+          "resource_url": "https://api.discogs.com/artists/600426"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Headlines",
+      "extraartists": [
+        {
+          "name": "Noel Cadastre",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Mix Engineering]",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "Noel Cadastre",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "40 (2)",
+          "anv": "",
+          "join": "",
+          "role": "Keyboards [Additional]",
+          "tracks": "",
+          "id": 2722021,
+          "resource_url": "https://api.discogs.com/artists/2722021"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Boi-1da",
+          "anv": "",
+          "join": "",
+          "role": "Performer [All Instruments]",
+          "tracks": "",
+          "id": 1302193,
+          "resource_url": "https://api.discogs.com/artists/1302193"
+        },
+        {
+          "name": "Matthew Jehu Samuels",
+          "anv": "Matthew \"Boi-1da\" Samuels",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1302191,
+          "resource_url": "https://api.discogs.com/artists/1302191"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Producer [Additional Production]",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Divine Brown",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 542738,
+          "resource_url": "https://api.discogs.com/artists/542738"
+        },
+        {
+          "name": "Anthony Palman",
+          "anv": "A. Palman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2027112,
+          "resource_url": "https://api.discogs.com/artists/2027112"
+        },
+        {
+          "name": "Aubrey Graham",
+          "anv": "A. Graham",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1557579,
+          "resource_url": "https://api.discogs.com/artists/1557579"
+        },
+        {
+          "name": "Matthew Jehu Samuels",
+          "anv": "M. Samuels",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1302191,
+          "resource_url": "https://api.discogs.com/artists/1302191"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "N. Shebib",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Crew Love",
+      "extraartists": [
+        {
+          "name": "Noel Cadastre",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Mix Engineering]",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "Noel Cadastre",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "The Weeknd",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2171152,
+          "resource_url": "https://api.discogs.com/artists/2171152"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "40 (2)",
+          "anv": "",
+          "join": "",
+          "role": "Performer [All Instruments]",
+          "tracks": "",
+          "id": 2722021,
+          "resource_url": "https://api.discogs.com/artists/2722021"
+        },
+        {
+          "name": "Illangelo",
+          "anv": "",
+          "join": "",
+          "role": "Performer [All Instruments]",
+          "tracks": "",
+          "id": 2186765,
+          "resource_url": "https://api.discogs.com/artists/2186765"
+        },
+        {
+          "name": "The Weeknd",
+          "anv": "",
+          "join": "",
+          "role": "Performer [All Instruments]",
+          "tracks": "",
+          "id": 2171152,
+          "resource_url": "https://api.discogs.com/artists/2171152"
+        },
+        {
+          "name": "Carlo Montagnese",
+          "anv": "Carlo \"Illangelo\" Montagnese",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3016171,
+          "resource_url": "https://api.discogs.com/artists/3016171"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "The Weeknd",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2171152,
+          "resource_url": "https://api.discogs.com/artists/2171152"
+        },
+        {
+          "name": "Carlo Montagnese",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 3016171,
+          "resource_url": "https://api.discogs.com/artists/3016171"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Ruben Rivera",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 532996,
+          "resource_url": "https://api.discogs.com/artists/532996"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "A. Tesfaye",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Anthony Palman",
+          "anv": "A. Palman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2027112,
+          "resource_url": "https://api.discogs.com/artists/2027112"
+        },
+        {
+          "name": "Aubrey Graham",
+          "anv": "A. Graham",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1557579,
+          "resource_url": "https://api.discogs.com/artists/1557579"
+        },
+        {
+          "name": "Carlo Montagnese",
+          "anv": "C. Montagnese",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3016171,
+          "resource_url": "https://api.discogs.com/artists/3016171"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "N. Shebib",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Take Care",
+      "extraartists": [
+        {
+          "name": "Gil Scott-Heron",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 16533,
+          "resource_url": "https://api.discogs.com/artists/16533"
+        },
+        {
+          "name": "40 (2)",
+          "anv": "",
+          "join": "",
+          "role": "Drum Programming",
+          "tracks": "",
+          "id": 2722021,
+          "resource_url": "https://api.discogs.com/artists/2722021"
+        },
+        {
+          "name": "Greg Morrison (2)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Mix Engineering]",
+          "tracks": "",
+          "id": 2027114,
+          "resource_url": "https://api.discogs.com/artists/2027114"
+        },
+        {
+          "name": "Noel Cadastre",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "Rihanna",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 321128,
+          "resource_url": "https://api.discogs.com/artists/321128"
+        },
+        {
+          "name": "Romy Madley Croft",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 1567403,
+          "resource_url": "https://api.discogs.com/artists/1567403"
+        },
+        {
+          "name": "Noel Campbell",
+          "anv": "Noel \"Gadget\" Campbell",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 1379473,
+          "resource_url": "https://api.discogs.com/artists/1379473"
+        },
+        {
+          "name": "Jamie XX",
+          "anv": "",
+          "join": "",
+          "role": "Performer [All Instruments]",
+          "tracks": "",
+          "id": 2109856,
+          "resource_url": "https://api.discogs.com/artists/2109856"
+        },
+        {
+          "name": "Jamie Smith (4)",
+          "anv": "Jamie \"XX\" Smith",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1545576,
+          "resource_url": "https://api.discogs.com/artists/1545576"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Ruben Rivera",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 532996,
+          "resource_url": "https://api.discogs.com/artists/532996"
+        },
+        {
+          "name": "Anthony Palman",
+          "anv": "A. Palman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2027112,
+          "resource_url": "https://api.discogs.com/artists/2027112"
+        },
+        {
+          "name": "Aubrey Graham",
+          "anv": "A. Graham",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1557579,
+          "resource_url": "https://api.discogs.com/artists/1557579"
+        },
+        {
+          "name": "Jamie Smith (4)",
+          "anv": "J. Smith",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1545576,
+          "resource_url": "https://api.discogs.com/artists/1545576"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "N. Shebib",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Brook Benton",
+          "anv": "B. Benton",
+          "join": "",
+          "role": "Written-By [I'll Take Care Of You]",
+          "tracks": "",
+          "id": 310351,
+          "resource_url": "https://api.discogs.com/artists/310351"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "",
+      "type_": "index",
+      "title": "Marvins Room / Buried Alive (Interlude)",
+      "duration": "",
+      "sub_tracks": [
+        {
+          "position": "B2.1",
+          "type_": "track",
+          "title": "Marvins Room",
+          "duration": ""
+        },
+        {
+          "position": "B2.2",
+          "type_": "track",
+          "title": "Buried Alive Interlude",
+          "duration": ""
+        }
+      ]
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Under Ground Kings",
+      "extraartists": [
+        {
+          "name": "David \"Gordo\" Strickland",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Mix Engineering]",
+          "tracks": "",
+          "id": 597686,
+          "resource_url": "https://api.discogs.com/artists/597686"
+        },
+        {
+          "name": "Noel Cadastre",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "40 (2)",
+          "anv": "",
+          "join": "",
+          "role": "Keyboards [Additional]",
+          "tracks": "",
+          "id": 2722021,
+          "resource_url": "https://api.discogs.com/artists/2722021"
+        },
+        {
+          "name": "Noel Campbell",
+          "anv": "Noel \"Gadget\" Campbell",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 1379473,
+          "resource_url": "https://api.discogs.com/artists/1379473"
+        },
+        {
+          "name": "T-Minus",
+          "anv": "",
+          "join": "",
+          "role": "Performer [All Instruments]",
+          "tracks": "",
+          "id": 1729299,
+          "resource_url": "https://api.discogs.com/artists/1729299"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "T-Minus",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1729299,
+          "resource_url": "https://api.discogs.com/artists/1729299"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Ruben Rivera",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 532996,
+          "resource_url": "https://api.discogs.com/artists/532996"
+        },
+        {
+          "name": "Anthony Palman",
+          "anv": "A. Palman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2027112,
+          "resource_url": "https://api.discogs.com/artists/2027112"
+        },
+        {
+          "name": "Aubrey Graham",
+          "anv": "A. Graham",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1557579,
+          "resource_url": "https://api.discogs.com/artists/1557579"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "N. Shebib",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Tyler Williams",
+          "anv": "T. Williams",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1729270,
+          "resource_url": "https://api.discogs.com/artists/1729270"
+        },
+        {
+          "name": "Dwayne Carter",
+          "anv": "D. Carter",
+          "join": "",
+          "role": "Written-By [Duffle Bag Boy]",
+          "tracks": "",
+          "id": 689691,
+          "resource_url": "https://api.discogs.com/artists/689691"
+        },
+        {
+          "name": "Earl Conyers",
+          "anv": "E. Conyers",
+          "join": "",
+          "role": "Written-By [Duffle Bag Boy]",
+          "tracks": "",
+          "id": 1510961,
+          "resource_url": "https://api.discogs.com/artists/1510961"
+        },
+        {
+          "name": "Joshua Banks",
+          "anv": "J. Banks",
+          "join": "",
+          "role": "Written-By [Duffle Bag Boy]",
+          "tracks": "",
+          "id": 1510962,
+          "resource_url": "https://api.discogs.com/artists/1510962"
+        },
+        {
+          "name": "Tauheed Epps",
+          "anv": "T. Epps",
+          "join": "",
+          "role": "Written-By [Duffle Bag Boy]",
+          "tracks": "",
+          "id": 688662,
+          "resource_url": "https://api.discogs.com/artists/688662"
+        },
+        {
+          "name": "Siccaturie Alcock",
+          "anv": "",
+          "join": "",
+          "role": "Written-By [Farmers Pleasure (Loving This)]",
+          "tracks": "",
+          "id": 1053810,
+          "resource_url": "https://api.discogs.com/artists/1053810"
+        },
+        {
+          "name": "Trayon Garrett",
+          "anv": "",
+          "join": "",
+          "role": "Written-By [Farmers Pleasure (Loving This)]",
+          "tracks": "",
+          "id": 2837942,
+          "resource_url": "https://api.discogs.com/artists/2837942"
+        },
+        {
+          "name": "Troy Azore",
+          "anv": "",
+          "join": "",
+          "role": "Written-By [Farmers Pleasure (Loving This)]",
+          "tracks": "",
+          "id": 2837941,
+          "resource_url": "https://api.discogs.com/artists/2837941"
+        },
+        {
+          "name": "Siccaturie Alcock",
+          "anv": "",
+          "join": "",
+          "role": "Written-By [Farmers Pleasure]",
+          "tracks": "",
+          "id": 1053810,
+          "resource_url": "https://api.discogs.com/artists/1053810"
+        },
+        {
+          "name": "Batman",
+          "anv": "",
+          "join": "",
+          "role": "Written-By [Neck Of The Woods]",
+          "tracks": "",
+          "id": 246458,
+          "resource_url": "https://api.discogs.com/artists/246458"
+        },
+        {
+          "name": "Bryan Williams (2)",
+          "anv": "B. Williams",
+          "join": "",
+          "role": "Written-By [Neck Of The Woods]",
+          "tracks": "",
+          "id": 698917,
+          "resource_url": "https://api.discogs.com/artists/698917"
+        },
+        {
+          "name": "Dwayne Carter",
+          "anv": "D. Carter",
+          "join": "",
+          "role": "Written-By [Neck Of The Woods]",
+          "tracks": "",
+          "id": 689691,
+          "resource_url": "https://api.discogs.com/artists/689691"
+        },
+        {
+          "name": "Ronald Williams",
+          "anv": "R. Williams",
+          "join": "",
+          "role": "Written-By [Neck Of The Woods]",
+          "tracks": "",
+          "id": 413983,
+          "resource_url": "https://api.discogs.com/artists/413983"
+        },
+        {
+          "name": "Triston Jones",
+          "anv": "T. Jones",
+          "join": "",
+          "role": "Written-By [Neck Of The Woods]",
+          "tracks": "",
+          "id": 664447,
+          "resource_url": "https://api.discogs.com/artists/664447"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "We'll Be Fine",
+      "extraartists": [
+        {
+          "name": "David \"Gordo\" Strickland",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Mix Engineering]",
+          "tracks": "",
+          "id": 597686,
+          "resource_url": "https://api.discogs.com/artists/597686"
+        },
+        {
+          "name": "Noel Cadastre",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "Sean Buchanan",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1729296,
+          "resource_url": "https://api.discogs.com/artists/1729296"
+        },
+        {
+          "name": "Birdman (2)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 331629,
+          "resource_url": "https://api.discogs.com/artists/331629"
+        },
+        {
+          "name": "Noel Campbell",
+          "anv": "Noel \"Gadget\" Campbell",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 1379473,
+          "resource_url": "https://api.discogs.com/artists/1379473"
+        },
+        {
+          "name": "40 (2)",
+          "anv": "",
+          "join": "",
+          "role": "Performer [All Instruments]",
+          "tracks": "",
+          "id": 2722021,
+          "resource_url": "https://api.discogs.com/artists/2722021"
+        },
+        {
+          "name": "T-Minus",
+          "anv": "",
+          "join": "",
+          "role": "Performer [All Instruments]",
+          "tracks": "",
+          "id": 1729299,
+          "resource_url": "https://api.discogs.com/artists/1729299"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "T-Minus",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1729299,
+          "resource_url": "https://api.discogs.com/artists/1729299"
+        },
+        {
+          "name": "Fareed Salamah",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 830269,
+          "resource_url": "https://api.discogs.com/artists/830269"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Ruben Rivera",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 532996,
+          "resource_url": "https://api.discogs.com/artists/532996"
+        },
+        {
+          "name": "Anthony Palman",
+          "anv": "A. Palman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2027112,
+          "resource_url": "https://api.discogs.com/artists/2027112"
+        },
+        {
+          "name": "Aubrey Graham",
+          "anv": "A. Graham",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1557579,
+          "resource_url": "https://api.discogs.com/artists/1557579"
+        },
+        {
+          "name": "Bryan Williams (2)",
+          "anv": "B. Williams",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 698917,
+          "resource_url": "https://api.discogs.com/artists/698917"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "N. Shebib",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Tyler Williams",
+          "anv": "T. Williams",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1729270,
+          "resource_url": "https://api.discogs.com/artists/1729270"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Make Me Proud",
+      "extraartists": [
+        {
+          "name": "40 (2)",
+          "anv": "",
+          "join": "",
+          "role": "Bass [Additional]",
+          "tracks": "",
+          "id": 2722021,
+          "resource_url": "https://api.discogs.com/artists/2722021"
+        },
+        {
+          "name": "Gadget (4)",
+          "anv": "",
+          "join": "",
+          "role": "Bass [Additional]",
+          "tracks": "",
+          "id": 285280,
+          "resource_url": "https://api.discogs.com/artists/285280"
+        },
+        {
+          "name": "Becky Campbell",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Mix Engineering]",
+          "tracks": "",
+          "id": 2837940,
+          "resource_url": "https://api.discogs.com/artists/2837940"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Engineer [Assistant Mix Engineering]",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Noel Cadastre",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "Sam Holland",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 516338,
+          "resource_url": "https://api.discogs.com/artists/516338"
+        },
+        {
+          "name": "Nicki Minaj",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1615988,
+          "resource_url": "https://api.discogs.com/artists/1615988"
+        },
+        {
+          "name": "Noel Campbell",
+          "anv": "Noel \"Gadget\" Campbell",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 1379473,
+          "resource_url": "https://api.discogs.com/artists/1379473"
+        },
+        {
+          "name": "T-Minus",
+          "anv": "",
+          "join": "",
+          "role": "Performer [All Instruments]",
+          "tracks": "",
+          "id": 1729299,
+          "resource_url": "https://api.discogs.com/artists/1729299"
+        },
+        {
+          "name": "T-Minus",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1729299,
+          "resource_url": "https://api.discogs.com/artists/1729299"
+        },
+        {
+          "name": "Ariel Chobaz",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 786834,
+          "resource_url": "https://api.discogs.com/artists/786834"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Ruben Rivera",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 532996,
+          "resource_url": "https://api.discogs.com/artists/532996"
+        },
+        {
+          "name": "Nikhil Seetharam",
+          "anv": "Nikhil",
+          "join": "",
+          "role": "Synthesizer [Additional Lead]",
+          "tracks": "",
+          "id": 2182776,
+          "resource_url": "https://api.discogs.com/artists/2182776"
+        },
+        {
+          "name": "Anthony Palman",
+          "anv": "A. Palman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2027112,
+          "resource_url": "https://api.discogs.com/artists/2027112"
+        },
+        {
+          "name": "Aubrey Graham",
+          "anv": "A. Graham",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1557579,
+          "resource_url": "https://api.discogs.com/artists/1557579"
+        },
+        {
+          "name": "Kenza Samir",
+          "anv": "K. Samir",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2837946,
+          "resource_url": "https://api.discogs.com/artists/2837946"
+        },
+        {
+          "name": "Nikhil Seetharam",
+          "anv": "N. Seetharam",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2182776,
+          "resource_url": "https://api.discogs.com/artists/2182776"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "N. Shebib",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Onika Maraj",
+          "anv": "O. Maraj",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1729326,
+          "resource_url": "https://api.discogs.com/artists/1729326"
+        },
+        {
+          "name": "Tyler Williams",
+          "anv": "T. Williams",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1729270,
+          "resource_url": "https://api.discogs.com/artists/1729270"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Lord Knows",
+      "extraartists": [
+        {
+          "name": "Alyse Barnhill",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 2838272,
+          "resource_url": "https://api.discogs.com/artists/2838272"
+        },
+        {
+          "name": "Bonnie Artis",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 2838274,
+          "resource_url": "https://api.discogs.com/artists/2838274"
+        },
+        {
+          "name": "Carmen Roman",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 2838270,
+          "resource_url": "https://api.discogs.com/artists/2838270"
+        },
+        {
+          "name": "Ebony Johnson",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 2838271,
+          "resource_url": "https://api.discogs.com/artists/2838271"
+        },
+        {
+          "name": "Erika Johnson",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 2838284,
+          "resource_url": "https://api.discogs.com/artists/2838284"
+        },
+        {
+          "name": "Isaiah Raheem",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 2838273,
+          "resource_url": "https://api.discogs.com/artists/2838273"
+        },
+        {
+          "name": "John Morgan (19)",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 2658257,
+          "resource_url": "https://api.discogs.com/artists/2658257"
+        },
+        {
+          "name": "K Nita",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 2838281,
+          "resource_url": "https://api.discogs.com/artists/2838281"
+        },
+        {
+          "name": "Roman Marshall",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 2838286,
+          "resource_url": "https://api.discogs.com/artists/2838286"
+        },
+        {
+          "name": "Rose Hart",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 2838275,
+          "resource_url": "https://api.discogs.com/artists/2838275"
+        },
+        {
+          "name": "Taylor Hill",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 2838269,
+          "resource_url": "https://api.discogs.com/artists/2838269"
+        },
+        {
+          "name": "Tommy Infusino",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 2838278,
+          "resource_url": "https://api.discogs.com/artists/2838278"
+        },
+        {
+          "name": "William World",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 2838280,
+          "resource_url": "https://api.discogs.com/artists/2838280"
+        },
+        {
+          "name": "Alvin Fields",
+          "anv": "",
+          "join": "",
+          "role": "Directed By [Choir]",
+          "tracks": "",
+          "id": 130176,
+          "resource_url": "https://api.discogs.com/artists/130176"
+        },
+        {
+          "name": "Ken Lewis",
+          "anv": "",
+          "join": "",
+          "role": "Directed By [Choir]",
+          "tracks": "",
+          "id": 51803,
+          "resource_url": "https://api.discogs.com/artists/51803"
+        },
+        {
+          "name": "Dylan Wissing",
+          "anv": "",
+          "join": "",
+          "role": "Drums [Live Drums]",
+          "tracks": "",
+          "id": 1185349,
+          "resource_url": "https://api.discogs.com/artists/1185349"
+        },
+        {
+          "name": "Noel Cadastre",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "Rick Ross",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 181022,
+          "resource_url": "https://api.discogs.com/artists/181022"
+        },
+        {
+          "name": "Brent Kolatalo",
+          "anv": "",
+          "join": "",
+          "role": "Instrumentation By [Additional Instrumentation], Engineer [Additional Engineering]",
+          "tracks": "",
+          "id": 754473,
+          "resource_url": "https://api.discogs.com/artists/754473"
+        },
+        {
+          "name": "Ken Lewis",
+          "anv": "",
+          "join": "",
+          "role": "Instrumentation By [Additional Instrumentation], Engineer [Additional Engineering]",
+          "tracks": "",
+          "id": 51803,
+          "resource_url": "https://api.discogs.com/artists/51803"
+        },
+        {
+          "name": "Ricardo Gutierrez",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By [Additional Mastering]",
+          "tracks": "",
+          "id": 471336,
+          "resource_url": "https://api.discogs.com/artists/471336"
+        },
+        {
+          "name": "Andrew Wright (2)",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 473904,
+          "resource_url": "https://api.discogs.com/artists/473904"
+        },
+        {
+          "name": "Just Blaze",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 153456,
+          "resource_url": "https://api.discogs.com/artists/153456"
+        },
+        {
+          "name": "Just Blaze",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 153456,
+          "resource_url": "https://api.discogs.com/artists/153456"
+        },
+        {
+          "name": "Ruben Rivera",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 532996,
+          "resource_url": "https://api.discogs.com/artists/532996"
+        },
+        {
+          "name": "Anthony Palman",
+          "anv": "A. Palman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2027112,
+          "resource_url": "https://api.discogs.com/artists/2027112"
+        },
+        {
+          "name": "Aubrey Graham",
+          "anv": "A. Graham",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1557579,
+          "resource_url": "https://api.discogs.com/artists/1557579"
+        },
+        {
+          "name": "Justin Smith (3)",
+          "anv": "J. Smith",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 655178,
+          "resource_url": "https://api.discogs.com/artists/655178"
+        },
+        {
+          "name": "William Roberts (2)",
+          "anv": "W. Roberts",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 992746,
+          "resource_url": "https://api.discogs.com/artists/992746"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "",
+      "type_": "index",
+      "title": "Cameras / Good Ones Go (Interlude)",
+      "duration": "",
+      "sub_tracks": [
+        {
+          "position": "C3.1",
+          "type_": "track",
+          "title": "Cameras",
+          "duration": ""
+        },
+        {
+          "position": "C3.2",
+          "type_": "track",
+          "title": "Good Ones Go Interlude",
+          "duration": ""
+        }
+      ]
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "Doing It Wrong",
+      "extraartists": [
+        {
+          "name": "Noel Cadastre",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Mix Engineering]",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "Jon Nettlesbey",
+          "anv": "John Nettlesbey",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 286488,
+          "resource_url": "https://api.discogs.com/artists/286488"
+        },
+        {
+          "name": "Lyttleton Carter",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1645702,
+          "resource_url": "https://api.discogs.com/artists/1645702"
+        },
+        {
+          "name": "Adrian Eccleston",
+          "anv": "Adrian \"X\"",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 512303,
+          "resource_url": "https://api.discogs.com/artists/512303"
+        },
+        {
+          "name": "Stevie Wonder",
+          "anv": "",
+          "join": "",
+          "role": "Harmonica",
+          "tracks": "",
+          "id": 18956,
+          "resource_url": "https://api.discogs.com/artists/18956"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "40 (2)",
+          "anv": "",
+          "join": "",
+          "role": "Performer [All Instruments]",
+          "tracks": "",
+          "id": 2722021,
+          "resource_url": "https://api.discogs.com/artists/2722021"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Noel Cadastre",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "Aubrey Graham",
+          "anv": "A. Graham",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1557579,
+          "resource_url": "https://api.discogs.com/artists/1557579"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "N. Shebib",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Don McLean",
+          "anv": "D. McLean",
+          "join": "",
+          "role": "Written-By [The Wrong Thing To Do]",
+          "tracks": "",
+          "id": 229866,
+          "resource_url": "https://api.discogs.com/artists/229866"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "The Real Her",
+      "extraartists": [
+        {
+          "name": "Aubrey Graham",
+          "anv": "Aubrey \"Drake\" Graham",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 1557579,
+          "resource_url": "https://api.discogs.com/artists/1557579"
+        },
+        {
+          "name": "Noel Cadastre",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "Andre 3000",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 170365,
+          "resource_url": "https://api.discogs.com/artists/170365"
+        },
+        {
+          "name": "Lil Wayne",
+          "anv": "Lil' Wayne",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1065010,
+          "resource_url": "https://api.discogs.com/artists/1065010"
+        },
+        {
+          "name": "Noel Campbell",
+          "anv": "Noel \"Gadget\" Campbell",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 1379473,
+          "resource_url": "https://api.discogs.com/artists/1379473"
+        },
+        {
+          "name": "40 (2)",
+          "anv": "",
+          "join": "",
+          "role": "Performer [All Instruments]",
+          "tracks": "",
+          "id": 2722021,
+          "resource_url": "https://api.discogs.com/artists/2722021"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "John Holmes",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 591005,
+          "resource_url": "https://api.discogs.com/artists/591005"
+        },
+        {
+          "name": "Michael Cadahia",
+          "anv": "Michael \"Banger\" Cadahia",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 1729323,
+          "resource_url": "https://api.discogs.com/artists/1729323"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Andre Benjamin",
+          "anv": "A. Benjamin",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 187668,
+          "resource_url": "https://api.discogs.com/artists/187668"
+        },
+        {
+          "name": "Aubrey Graham",
+          "anv": "A. Graham",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1557579,
+          "resource_url": "https://api.discogs.com/artists/1557579"
+        },
+        {
+          "name": "Dwayne Carter",
+          "anv": "D. Carter",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 689691,
+          "resource_url": "https://api.discogs.com/artists/689691"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "N. Shebib",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Look What You've Done",
+      "extraartists": [
+        {
+          "name": "Evelyn Sher",
+          "anv": "Evelyn \"Bubi\" Sher",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 2838277,
+          "resource_url": "https://api.discogs.com/artists/2838277"
+        },
+        {
+          "name": "Jawaan Peacock",
+          "anv": "Jawan Peacock",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 2838283,
+          "resource_url": "https://api.discogs.com/artists/2838283"
+        },
+        {
+          "name": "Static Major",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 1124616,
+          "resource_url": "https://api.discogs.com/artists/1124616"
+        },
+        {
+          "name": "Noel Cadastre",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "Noel Campbell",
+          "anv": "Noel \"Gadget\" Campbell",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 1379473,
+          "resource_url": "https://api.discogs.com/artists/1379473"
+        },
+        {
+          "name": "Chase N. Cashe",
+          "anv": "",
+          "join": "",
+          "role": "Performer [All Instruments]",
+          "tracks": "",
+          "id": 832544,
+          "resource_url": "https://api.discogs.com/artists/832544"
+        },
+        {
+          "name": "Jawaan Peacock",
+          "anv": "Jawan Peacock",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 2838283,
+          "resource_url": "https://api.discogs.com/artists/2838283"
+        },
+        {
+          "name": "Chase N. Cashe",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 832544,
+          "resource_url": "https://api.discogs.com/artists/832544"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Producer [Additional]",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Aubrey Graham",
+          "anv": "A. Graham",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1557579,
+          "resource_url": "https://api.discogs.com/artists/1557579"
+        },
+        {
+          "name": "Jesse Woodard",
+          "anv": "J. Woodward",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1357695,
+          "resource_url": "https://api.discogs.com/artists/1357695"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "N. Shebib",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Jawaan Peacock",
+          "anv": "J. Peacock",
+          "join": "",
+          "role": "Written-By [If U Scared, Say U Scared]",
+          "tracks": "",
+          "id": 2838283,
+          "resource_url": "https://api.discogs.com/artists/2838283"
+        },
+        {
+          "name": "Stephen Garrett",
+          "anv": "S. Garrett",
+          "join": "",
+          "role": "Written-By [If U Scared, Say U Scared]",
+          "tracks": "",
+          "id": 665920,
+          "resource_url": "https://api.discogs.com/artists/665920"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "HYFR (Hell Ya Fucking Right)",
+      "extraartists": [
+        {
+          "name": "Noel Cadastre",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Mix Engineering]",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "Elizabeth Gallardo",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1729328,
+          "resource_url": "https://api.discogs.com/artists/1729328"
+        },
+        {
+          "name": "Noel Cadastre",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "Lil Wayne",
+          "anv": "Lil' Wayne",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1065010,
+          "resource_url": "https://api.discogs.com/artists/1065010"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "T-Minus",
+          "anv": "",
+          "join": "",
+          "role": "Performer [All Instruments]",
+          "tracks": "",
+          "id": 1729299,
+          "resource_url": "https://api.discogs.com/artists/1729299"
+        },
+        {
+          "name": "T-Minus",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1729299,
+          "resource_url": "https://api.discogs.com/artists/1729299"
+        },
+        {
+          "name": "Michael Cadahia",
+          "anv": "Michael \"Banger\" Cadahia",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 1729323,
+          "resource_url": "https://api.discogs.com/artists/1729323"
+        },
+        {
+          "name": "Ruben Rivera",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 532996,
+          "resource_url": "https://api.discogs.com/artists/532996"
+        },
+        {
+          "name": "Anthony Palman",
+          "anv": "A. Palman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2027112,
+          "resource_url": "https://api.discogs.com/artists/2027112"
+        },
+        {
+          "name": "Aubrey Graham",
+          "anv": "A. Graham",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1557579,
+          "resource_url": "https://api.discogs.com/artists/1557579"
+        },
+        {
+          "name": "Dwayne Carter",
+          "anv": "D. Carter",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 689691,
+          "resource_url": "https://api.discogs.com/artists/689691"
+        },
+        {
+          "name": "Kenza Samir",
+          "anv": "K. Samir",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2837946,
+          "resource_url": "https://api.discogs.com/artists/2837946"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "N. Shebib",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Tyler Williams",
+          "anv": "T. Williams",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1729270,
+          "resource_url": "https://api.discogs.com/artists/1729270"
+        },
+        {
+          "name": "Cedric Hill",
+          "anv": "C. Hill",
+          "join": "",
+          "role": "Written-By [Swanging And Banging]",
+          "tracks": "",
+          "id": 1656636,
+          "resource_url": "https://api.discogs.com/artists/1656636"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "title": "Practice",
+      "extraartists": [
+        {
+          "name": "Aubrey Graham",
+          "anv": "Aubrey \"Drake\" Graham",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 1557579,
+          "resource_url": "https://api.discogs.com/artists/1557579"
+        },
+        {
+          "name": "Noel Cadastre",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "Adrian Eccleston",
+          "anv": "Adrian \"X\"",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 512303,
+          "resource_url": "https://api.discogs.com/artists/512303"
+        },
+        {
+          "name": "Noel Campbell",
+          "anv": "Noel \"Gadget\" Campbell",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 1379473,
+          "resource_url": "https://api.discogs.com/artists/1379473"
+        },
+        {
+          "name": "Wado Brown",
+          "anv": "",
+          "join": "",
+          "role": "Organ",
+          "tracks": "",
+          "id": 2838287,
+          "resource_url": "https://api.discogs.com/artists/2838287"
+        },
+        {
+          "name": "40 (2)",
+          "anv": "",
+          "join": "",
+          "role": "Performer [All Instruments]",
+          "tracks": "",
+          "id": 2722021,
+          "resource_url": "https://api.discogs.com/artists/2722021"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "A. Tesfaye",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Adrian Eccleston",
+          "anv": "A. Eccleston",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 512303,
+          "resource_url": "https://api.discogs.com/artists/512303"
+        },
+        {
+          "name": "Aubrey Graham",
+          "anv": "A. Graham",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1557579,
+          "resource_url": "https://api.discogs.com/artists/1557579"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "N. Shebib",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Byron Thomas",
+          "anv": "B. Thomas",
+          "join": "",
+          "role": "Written-By [Back That Azz Up]",
+          "tracks": "",
+          "id": 411432,
+          "resource_url": "https://api.discogs.com/artists/411432"
+        },
+        {
+          "name": "Dwayne Carter",
+          "anv": "D. Carter",
+          "join": "",
+          "role": "Written-By [Back That Azz Up]",
+          "tracks": "",
+          "id": 689691,
+          "resource_url": "https://api.discogs.com/artists/689691"
+        },
+        {
+          "name": "Terius Gray",
+          "anv": "T. Gray",
+          "join": "",
+          "role": "Written-By [Back That Azz Up]",
+          "tracks": "",
+          "id": 671913,
+          "resource_url": "https://api.discogs.com/artists/671913"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D5",
+      "type_": "track",
+      "title": "The Ride",
+      "extraartists": [
+        {
+          "name": "Noel Cadastre",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Mix Engineering]",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "Jon Nettlesbey",
+          "anv": "John Nettlesbey",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 286488,
+          "resource_url": "https://api.discogs.com/artists/286488"
+        },
+        {
+          "name": "Lyttleton Carter",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1645702,
+          "resource_url": "https://api.discogs.com/artists/1645702"
+        },
+        {
+          "name": "Noel Cadastre",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "Adrian Eccleston",
+          "anv": "Adrian \"X\"",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 512303,
+          "resource_url": "https://api.discogs.com/artists/512303"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Doc (3)",
+          "anv": "",
+          "join": "",
+          "role": "Performer [All Instruments]",
+          "tracks": "",
+          "id": 201693,
+          "resource_url": "https://api.discogs.com/artists/201693"
+        },
+        {
+          "name": "Doc (3)",
+          "anv": "Doc McKinney",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 201693,
+          "resource_url": "https://api.discogs.com/artists/201693"
+        },
+        {
+          "name": "The Weeknd",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2171152,
+          "resource_url": "https://api.discogs.com/artists/2171152"
+        },
+        {
+          "name": "Doc (3)",
+          "anv": "Doc McKinney",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 201693,
+          "resource_url": "https://api.discogs.com/artists/201693"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "anv": "A. Tesfaye",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Anthony Palman",
+          "anv": "A. Palman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2027112,
+          "resource_url": "https://api.discogs.com/artists/2027112"
+        },
+        {
+          "name": "Aubrey Graham",
+          "anv": "A. Graham",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1557579,
+          "resource_url": "https://api.discogs.com/artists/1557579"
+        },
+        {
+          "name": "Martin McKinney",
+          "anv": "M. McKinney",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 765410,
+          "resource_url": "https://api.discogs.com/artists/765410"
+        }
+      ],
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Martin Wong",
+      "anv": "Martin \"Drop\" Wong",
+      "join": "",
+      "role": "Artwork, Design",
+      "tracks": "",
+      "id": 2837939,
+      "resource_url": "https://api.discogs.com/artists/2837939"
+    },
+    {
+      "name": "Les Bateman",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Daw Systems]",
+      "tracks": "",
+      "id": 2682458,
+      "resource_url": "https://api.discogs.com/artists/2682458"
+    },
+    {
+      "name": "Aubrey Graham",
+      "anv": "Aubrey \"Drake\" Graham",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 1557579,
+      "resource_url": "https://api.discogs.com/artists/1557579"
+    },
+    {
+      "name": "Cortez Bryant",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 2735888,
+      "resource_url": "https://api.discogs.com/artists/2735888"
+    },
+    {
+      "name": "Dwayne Carter",
+      "anv": "Dwayne \"Lil Wayne\" Carter",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 689691,
+      "resource_url": "https://api.discogs.com/artists/689691"
+    },
+    {
+      "name": "Gee Roberson",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 233490,
+      "resource_url": "https://api.discogs.com/artists/233490"
+    },
+    {
+      "name": "Bryan Williams (2)",
+      "anv": "Bryan \"Baby Birdman\" Williams",
+      "join": "",
+      "role": "Executive-Producer [Cash Money]",
+      "tracks": "",
+      "id": 698917,
+      "resource_url": "https://api.discogs.com/artists/698917"
+    },
+    {
+      "name": "Ronald Williams",
+      "anv": "Ronald \"Slim Tha Don\" Williams",
+      "join": "",
+      "role": "Executive-Producer [Cash Money]",
+      "tracks": "",
+      "id": 413983,
+      "resource_url": "https://api.discogs.com/artists/413983"
+    },
+    {
+      "name": "Noah Shebib",
+      "anv": "Noah 40 Shebib",
+      "join": "",
+      "role": "Executive-Producer [Octobers Very Own]",
+      "tracks": "",
+      "id": 895435,
+      "resource_url": "https://api.discogs.com/artists/895435"
+    },
+    {
+      "name": "Oliver El-Khatib",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer [Octobers Very Own]",
+      "tracks": "",
+      "id": 3021235,
+      "resource_url": "https://api.discogs.com/artists/3021235"
+    },
+    {
+      "name": "Chris Gehringer",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 326440,
+      "resource_url": "https://api.discogs.com/artists/326440"
+    },
+    {
+      "name": "Hyghly Alleyne",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 2837945,
+      "resource_url": "https://api.discogs.com/artists/2837945"
+    },
+    {
+      "name": "Lamar Taylor",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 2837938,
+      "resource_url": "https://api.discogs.com/artists/2837938"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/VIFz5zWPVLjm2Y5ImhnTl-Mcl9D-xebhFteT0-zJWmM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NTUwNTk4/NjgtNDIxNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/VIFz5zWPVLjm2Y5ImhnTl-Mcl9D-xebhFteT0-zJWmM/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NTUwNTk4/NjgtNDIxNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/1PvOdc0tkJ0JyA6DOy8Hr32ImRSO-0Byrs4HeQ7BRac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NTUwNTk4/NjgtNDIxNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/oDEtux9wPGc2hXUMfwOE_IQVdX8ZLhLVXrpfNFoqyLM/rs:fit/g:sm/q:90/h:550/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NDM2OTQ4/MDEtODg3NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/oDEtux9wPGc2hXUMfwOE_IQVdX8ZLhLVXrpfNFoqyLM/rs:fit/g:sm/q:90/h:550/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NDM2OTQ4/MDEtODg3NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/GRcgj6CQU-xKsi88FetlXxoDjqI0ONf-hRZdSFJoj74/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NDM2OTQ4/MDEtODg3NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 550
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/YSFUp4Rvk3ntgiJ0Z_bktBed7Vu0ao6JQFlC5-BsBQs/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NDM2OTQ4/MDEtOTMyNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/YSFUp4Rvk3ntgiJ0Z_bktBed7Vu0ao6JQFlC5-BsBQs/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NDM2OTQ4/MDEtOTMyNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Rtw7QtqKC_GZGpAsbzjmHz5ZY3nuRo2xJy8DrCfCDHU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NDM2OTQ4/MDEtOTMyNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 576
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/8SOF2gWJeAj5xlz35E2Kt2Si4N0oN8BYCYTvHIx4UZ0/rs:fit/g:sm/q:90/h:564/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NDM2OTQ4/MDAtODAxMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/8SOF2gWJeAj5xlz35E2Kt2Si4N0oN8BYCYTvHIx4UZ0/rs:fit/g:sm/q:90/h:564/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NDM2OTQ4/MDAtODAxMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/VTCM8ZzwoKbrLXSE9Kh5qJiHjsSuLc16xLBLsS_VfsY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NDM2OTQ4/MDAtODAxMC5qcGVn.jpeg",
+      "width": 600,
+      "height": 564
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/KRRJlTT8ZfoO-zwxrF2FH_HJtUawrKNN-RsBr4He-xY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NDM2OTQ4/MDAtOTQ2NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/KRRJlTT8ZfoO-zwxrF2FH_HJtUawrKNN-RsBr4He-xY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NDM2OTQ4/MDAtOTQ2NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/uF2eggGLzTaLCzkAhxJJd4uX4dHT_dKr4DcijP-eN4Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NDM2OTQ4/MDAtOTQ2NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/3VP6gMl7jLTWE6ir7NzZ0xyrTrpkgYj-_I5a8wyGPgM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NDM2OTQ4/MDAtMjEyMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/3VP6gMl7jLTWE6ir7NzZ0xyrTrpkgYj-_I5a8wyGPgM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NDM2OTQ4/MDAtMjEyMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/HtDyuxOO8Ak1qESaDCyxKxdFYc_Gmm81fectwJD0Fw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NDM2OTQ4/MDAtMjEyMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/iv9CHb12ZBwXBJfyKbNsd_WR7gM27yl6bqRiNfRiivI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NDM2OTQ4/MDAtNDMzOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/iv9CHb12ZBwXBJfyKbNsd_WR7gM27yl6bqRiNfRiivI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NDM2OTQ4/MDAtNDMzOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/XBg_5YeoJ5wkcPN7Xtew3NLRA2h3Gr5Y4HueKDAyMsQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NDM2OTQ4/MDAtNDMzOC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/uqWrZOuBKxtdyxVZo5JmyE9JB8qF82eyKXxdKJH3UDc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NDM2OTQ4/MDAtMTc4NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/uqWrZOuBKxtdyxVZo5JmyE9JB8qF82eyKXxdKJH3UDc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NDM2OTQ4/MDAtMTc4NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/lPehwc8_f0QLfj5KBnBDEojXH-oXjajWgA53SJNsvd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NDM2OTQ4/MDAtMTc4NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/W_tdbC_Be5jmLABUyDNWVs2zKf24Tjgn_czLtsb2d-c/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NDM2OTQ4/MDAtNjMyMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/W_tdbC_Be5jmLABUyDNWVs2zKf24Tjgn_czLtsb2d-c/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NDM2OTQ4/MDAtNjMyMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/6CX_OvQyZYP6ZhEdocp66USllYTygaTC6zZIfbjZD4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NDM2OTQ4/MDAtNjMyMi5qcGVn.jpeg",
+      "width": 598,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/NEwWkzsD_-dr-oufod6ReNe9m0rthawww_GXB0ExACM/rs:fit/g:sm/q:90/h:486/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NDM2OTQ4/MDAtMTM1NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/NEwWkzsD_-dr-oufod6ReNe9m0rthawww_GXB0ExACM/rs:fit/g:sm/q:90/h:486/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NDM2OTQ4/MDAtMTM1NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/aACs9KVCH9xkkjTjBUjMVYKmVPXYK75mgv-T3tKcOBM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NDM2OTQ4/MDAtMTM1NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 486
+    }
+  ],
+  "thumb": "https://i.discogs.com/1PvOdc0tkJ0JyA6DOy8Hr32ImRSO-0Byrs4HeQ7BRac/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxOTc2/MjQ5LTE2NTUwNTk4/NjgtNDIxNy5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

@@ -1,0 +1,956 @@
+{
+  "id": 9258657,
+  "status": "Accepted",
+  "year": 2016,
+  "resource_url": "https://api.discogs.com/releases/9258657",
+  "uri": "https://www.discogs.com/release/9258657-Drake-If-Youre-Reading-This-Its-Too-Late",
+  "artists": [
+    {
+      "name": "Drake",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 151199,
+      "resource_url": "https://api.discogs.com/artists/151199",
+      "thumbnail_url": "https://i.discogs.com/SCU2bmCyMN21mfYL7uoQenQJsjEM9Mtz3k6htdW6slg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE1MTE5/OS0xNjU1NTczODc5/LTgyMDMuanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Drake",
+  "labels": [
+    {
+      "name": "Young Money Entertainment",
+      "catno": "B0025237-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 166429,
+      "resource_url": "https://api.discogs.com/labels/166429",
+      "thumbnail_url": "https://i.discogs.com/zxUne3N2EyC1s7lSw8tefQIUFkFXFf_YkB4gHVP9mhM/rs:fit/g:sm/q:90/h:380/w:369/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2NjQy/OS0xMjU3MTU1MjA2/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Cash Money Records",
+      "catno": "B0025237-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 19799,
+      "resource_url": "https://api.discogs.com/labels/19799",
+      "thumbnail_url": "https://i.discogs.com/DOJAy2_H-CJsw0a9XtVIDDBpUM7BRHfNWiHyuZ0FvcY/rs:fit/g:sm/q:90/h:600/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5Nzk5/LTE0ODg5MTgwNTct/Mzg1OS5wbmc.jpeg"
+    },
+    {
+      "name": "Republic Records",
+      "catno": "B0025237-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Cash Money Records, Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 273837,
+      "resource_url": "https://api.discogs.com/labels/273837"
+    },
+    {
+      "name": "Cash Money Records, Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 273837,
+      "resource_url": "https://api.discogs.com/labels/273837"
+    },
+    {
+      "name": "Republic Records",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    },
+    {
+      "name": "Young Money Entertainment",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 166429,
+      "resource_url": "https://api.discogs.com/labels/166429",
+      "thumbnail_url": "https://i.discogs.com/zxUne3N2EyC1s7lSw8tefQIUFkFXFf_YkB4gHVP9mhM/rs:fit/g:sm/q:90/h:380/w:369/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2NjQy/OS0xMjU3MTU1MjA2/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Young Money Entertainment",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 166429,
+      "resource_url": "https://api.discogs.com/labels/166429",
+      "thumbnail_url": "https://i.discogs.com/zxUne3N2EyC1s7lSw8tefQIUFkFXFf_YkB4gHVP9mhM/rs:fit/g:sm/q:90/h:380/w:369/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2NjQy/OS0xMjU3MTU1MjA2/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Republic Records",
+      "catno": "",
+      "entity_type": "8",
+      "entity_type_name": "Marketed By",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    },
+    {
+      "name": "Universal Music Distribution",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 115478,
+      "resource_url": "https://api.discogs.com/labels/115478"
+    },
+    {
+      "name": "UMG Recordings, Inc.",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 272782,
+      "resource_url": "https://api.discogs.com/labels/272782",
+      "thumbnail_url": "https://i.discogs.com/WX78Ss6rJPzD8aWRj-wynSuGlTwtQLp2QLnUFGDI3Pg/rs:fit/g:sm/q:90/h:80/w:534/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Mjc4/Mi0xNDU3MDEyNDAw/LTExMzYuanBlZw.jpeg"
+    },
+    {
+      "name": "Chris Athens Masters",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 646766,
+      "resource_url": "https://api.discogs.com/labels/646766",
+      "thumbnail_url": "https://i.discogs.com/HbTdKdNK7mcmdqecDcAofivBMy6WHRwR289zia_1BjI/rs:fit/g:sm/q:90/h:296/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY0Njc2/Ni0xNTYwNTU1MzM0/LTYyNzYuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Mixtape",
+        "Reissue",
+        "Stereo"
+      ]
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 6522,
+    "want": 3090,
+    "rating": {
+      "count": 356,
+      "average": 4.47
+    },
+    "submitter": {
+      "username": "CD_WAREHOUSE_817",
+      "resource_url": "https://api.discogs.com/users/CD_WAREHOUSE_817"
+    },
+    "contributors": [
+      {
+        "username": "CD_WAREHOUSE_817",
+        "resource_url": "https://api.discogs.com/users/CD_WAREHOUSE_817"
+      },
+      {
+        "username": "kirkjames",
+        "resource_url": "https://api.discogs.com/users/kirkjames"
+      },
+      {
+        "username": "RWL1997",
+        "resource_url": "https://api.discogs.com/users/RWL1997"
+      },
+      {
+        "username": "nihilisten",
+        "resource_url": "https://api.discogs.com/users/nihilisten"
+      },
+      {
+        "username": "23October",
+        "resource_url": "https://api.discogs.com/users/23October"
+      },
+      {
+        "username": "Mahoney4321",
+        "resource_url": "https://api.discogs.com/users/Mahoney4321"
+      },
+      {
+        "username": ".SLCOOLJ.",
+        "resource_url": "https://api.discogs.com/users/.SLCOOLJ."
+      },
+      {
+        "username": "anthonymoseley421",
+        "resource_url": "https://api.discogs.com/users/anthonymoseley421"
+      },
+      {
+        "username": "Hydroxing",
+        "resource_url": "https://api.discogs.com/users/Hydroxing"
+      },
+      {
+        "username": "AustinSimard",
+        "resource_url": "https://api.discogs.com/users/AustinSimard"
+      },
+      {
+        "username": "Xmipod",
+        "resource_url": "https://api.discogs.com/users/Xmipod"
+      },
+      {
+        "username": "Adogg856",
+        "resource_url": "https://api.discogs.com/users/Adogg856"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2016-10-26T12:00:39-07:00",
+  "date_changed": "2026-01-25T08:59:00-08:00",
+  "num_for_sale": 49,
+  "lowest_price": 14.31,
+  "master_id": 826492,
+  "master_url": "https://api.discogs.com/masters/826492",
+  "title": "If You're Reading This It's Too Late",
+  "country": "US",
+  "released": "2016-10-28",
+  "notes": "Unlike the [url=https://www.discogs.com/release/36314251-Drake-If-Youre-Reading-This-Its-Too-Late]other US version[/url], this version is without the presence of Nashville Record Production and United Record Pressing's inscriptions on Side D. The lacquer cutting facility and pressing plant for this version is unknown.\n\nGatefold sleeve.\n\nTracks D2 is a bonus track.",
+  "released_formatted": "28 Oct 2016",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "602547973450",
+      "description": "Scanned"
+    },
+    {
+      "type": "Barcode",
+      "value": "6 02547 97345 0",
+      "description": "Printed"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0025237-01-A G1 IS",
+      "description": "Runout Side A, Etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0025237-01-B G1 IS",
+      "description": "Runout Side B, Etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0025237-01-C G1 IS",
+      "description": "Runout Side C, Etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0025237-D II G1 IS",
+      "description": "Runout Side D, Etched"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=nSf3pBIX2RU",
+      "title": "Legend",
+      "description": "Provided to YouTube by Universal Music Group\n\nLegend · Drake\n\nIf You're Reading This It's Too Late\n\n℗ 2015 Cash Money Records Inc.\n\nReleased on: 2015-02-12\n\nProducer: PARTYNEXTDOOR\nRecording Engineer: Noel Cadastre\nRecording Second Engineer: Gregg Moffett",
+      "duration": 242,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=sIBxMdm6NSQ",
+      "title": "No Tellin'",
+      "description": "Provided to YouTube by Universal Music Group\n\nNo Tellin' · Drake\n\nIf You're Reading This It's Too Late\n\n℗ 2015 Cash Money Records Inc.\n\nReleased on: 2015-02-12\n\nProducer: Matthew \"Boi-1da\" Samuels\nCo Producer: Frank Dukes\nRecording Engineer: Noel Cadastre",
+      "duration": 311,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=IV-XT27UOHo",
+      "title": "Know Yourself",
+      "description": "Provided to YouTube by Universal Music Group\n\nKnow Yourself · Drake\n\nIf You're Reading This It's Too Late\n\n℗ 2015 Cash Money Records Inc.\n\nReleased on: 2015-02-12\n\nProducer: Matthew \"Boi-1da\" Samuels\nProducer: Anderson \"Vinylz\" Hernandez\nCo Producer: Josh",
+      "duration": 276,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=303KnmDqVwY",
+      "title": "Madonna",
+      "description": "Provided to YouTube by Universal Music Group\n\nMadonna · Drake\n\nIf You're Reading This It's Too Late\n\n℗ 2015 Cash Money Records Inc.\n\nReleased on: 2015-02-12\n\nProducer: Noah \"40\" Shebib\nRecording Engineer: Noel Cadastre\nRecording Second Engineer: Mark Robi",
+      "duration": 178,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=tcL2B0ilMZw",
+      "title": "10 Bands",
+      "description": "Provided to YouTube by Universal Music Group\n\n10 Bands · Drake\n\nIf You're Reading This It's Too Late\n\n℗ 2015 Cash Money Records Inc.\n\nReleased on: 2015-02-12\n\nProducer: Matthew \"Boi-1da\" Samuels\nCo Producer: Frank Dukes\nRecording Engineer: Noel Cadastre\nR",
+      "duration": 178,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=LcdcJ1jMW4k",
+      "title": "You & The 6",
+      "description": "Provided to YouTube by Universal Music Group\n\nYou & The 6 · Drake\n\nIf You're Reading This It's Too Late\n\n℗ 2015 Cash Money Records Inc.\n\nReleased on: 2015-02-12\n\nProducer: Matthew \"Boi-1da\" Samuels\nRecording Engineer: Noel Cadastre\nRecording Engineer: Noa",
+      "duration": 265,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=8RFbYtOet4g",
+      "title": "Star67",
+      "description": "Provided to YouTube by Universal Music Group\n\nStar67 · Drake\n\nIf You're Reading This It's Too Late\n\n℗ 2015 Cash Money Records Inc.\n\nReleased on: 2015-02-12\n\nProducer: Nylz & MostHigh\nAdditionalproducer: Noah \"40\" Shebib\nRecording Engineer: Noel Cadastre\nR",
+      "duration": 295,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=CAzsA2OCZFs",
+      "title": "6 God",
+      "description": "Provided to YouTube by Universal Music Group\n\n6 God · Drake\n\nIf You're Reading This It's Too Late\n\n℗ 2015 Cash Money Records Inc.\n\nReleased on: 2015-02-12\n\nProducer: Matthew \"Boi-1da\" Samuels\nRecording Engineer: Noel Cadastre\nRecording Second Engineer: Gr",
+      "duration": 181,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=lOhZl4tD744",
+      "title": "Preach",
+      "description": "Provided to YouTube by Universal Music Group\n\nPreach · Drake · PARTYNEXTDOOR\n\nIf You're Reading This It's Too Late\n\n℗ 2015 Cash Money Records Inc.\n\nReleased on: 2015-02-12\n\nProducer: PARTYNEXTDOOR\nRecording Engineer: Noel Cadastre\nRecording Engineer: Evan",
+      "duration": 237,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=AfRdRXCo3IU",
+      "title": "Jungle",
+      "description": "Provided to YouTube by Universal Music Group\n\nJungle · Drake\n\nIf You're Reading This It's Too Late\n\n℗ 2015 Cash Money Records Inc.\n\nReleased on: 2015-02-12\n\nProducer: Noah \"40\" Shebib\nRecording Engineer: Noel Cadastre\nRecording Second Engineer: Evan Stewa",
+      "duration": 321,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Auw-Sd5Uu8g",
+      "title": "Used To",
+      "description": "Provided to YouTube by Universal Music Group\n\nUsed To · Drake · Lil Wayne\n\nIf You're Reading This It's Too Late\n\n℗ 2015 Cash Money Records Inc.\n\nReleased on: 2015-02-12\n\nProducer: Ebony Oshunrinde\nRecording Engineer: Noel Cadastre\nRecording Engineer: Noah",
+      "duration": 269,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Hip Hop",
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Trap",
+    "Pop Rap",
+    "Contemporary R&B"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Legend",
+      "extraartists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3554300,
+          "resource_url": "https://api.discogs.com/artists/3554300"
+        }
+      ],
+      "duration": "4:02"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Energy",
+      "extraartists": [
+        {
+          "name": "OB O'Brien",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 4249344,
+          "resource_url": "https://api.discogs.com/artists/4249344"
+        },
+        {
+          "name": "Boi-1da",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1302193,
+          "resource_url": "https://api.discogs.com/artists/1302193"
+        }
+      ],
+      "duration": "3:02"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "10 Bands",
+      "extraartists": [
+        {
+          "name": "Sevn Thomas",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 3833210,
+          "resource_url": "https://api.discogs.com/artists/3833210"
+        },
+        {
+          "name": "Boi-1da",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1302193,
+          "resource_url": "https://api.discogs.com/artists/1302193"
+        }
+      ],
+      "duration": "2:58"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Know Yourself",
+      "extraartists": [
+        {
+          "name": "SykSense",
+          "anv": "Syk Sense",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 2970528,
+          "resource_url": "https://api.discogs.com/artists/2970528"
+        },
+        {
+          "name": "VinylZ",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 2614762,
+          "resource_url": "https://api.discogs.com/artists/2614762"
+        },
+        {
+          "name": "Boi-1da",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1302193,
+          "resource_url": "https://api.discogs.com/artists/1302193"
+        }
+      ],
+      "duration": "4:36"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "No Tellin'",
+      "extraartists": [
+        {
+          "name": "Frank Dukes",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 610329,
+          "resource_url": "https://api.discogs.com/artists/610329"
+        },
+        {
+          "name": "Boi-1da",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1302193,
+          "resource_url": "https://api.discogs.com/artists/1302193"
+        }
+      ],
+      "duration": "5:11"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Madonna",
+      "extraartists": [
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        }
+      ],
+      "duration": "4:08"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "6 God",
+      "extraartists": [
+        {
+          "name": "Boi-1da",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1302193,
+          "resource_url": "https://api.discogs.com/artists/1302193"
+        },
+        {
+          "name": "SykSense",
+          "anv": "Syk Sense",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2970528,
+          "resource_url": "https://api.discogs.com/artists/2970528"
+        }
+      ],
+      "duration": "3:01"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Star67",
+      "extraartists": [
+        {
+          "name": "Amir Obè",
+          "anv": "Amir Obe",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4249341,
+          "resource_url": "https://api.discogs.com/artists/4249341"
+        },
+        {
+          "name": "Most High",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4207330,
+          "resource_url": "https://api.discogs.com/artists/4207330"
+        },
+        {
+          "name": "VinylZ",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2614762,
+          "resource_url": "https://api.discogs.com/artists/2614762"
+        }
+      ],
+      "duration": "4:55"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Preach",
+      "extraartists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3554300,
+          "resource_url": "https://api.discogs.com/artists/3554300"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3554300,
+          "resource_url": "https://api.discogs.com/artists/3554300"
+        }
+      ],
+      "duration": "3:57"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Wednesday Night",
+      "extraartists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3554300,
+          "resource_url": "https://api.discogs.com/artists/3554300"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3554300,
+          "resource_url": "https://api.discogs.com/artists/3554300"
+        }
+      ],
+      "duration": "3:32"
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Used To",
+      "extraartists": [
+        {
+          "name": "Lil Wayne",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1065010,
+          "resource_url": "https://api.discogs.com/artists/1065010"
+        },
+        {
+          "name": "Wondagurl",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3485945,
+          "resource_url": "https://api.discogs.com/artists/3485945"
+        }
+      ],
+      "duration": "4:28"
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "6 Man",
+      "extraartists": [
+        {
+          "name": "Daxz",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 4249342,
+          "resource_url": "https://api.discogs.com/artists/4249342"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        }
+      ],
+      "duration": "2:48"
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Now & Forever",
+      "extraartists": [
+        {
+          "name": "Eric Dingus",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3469185,
+          "resource_url": "https://api.discogs.com/artists/3469185"
+        },
+        {
+          "name": "Jimmy Prime",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4249343,
+          "resource_url": "https://api.discogs.com/artists/4249343"
+        }
+      ],
+      "duration": "4:41"
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "Company",
+      "extraartists": [
+        {
+          "name": "Travis Scott (2)",
+          "anv": "Travi$ Scott",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2742944,
+          "resource_url": "https://api.discogs.com/artists/2742944"
+        },
+        {
+          "name": "Travis Scott (2)",
+          "anv": "Travis Scott",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2742944,
+          "resource_url": "https://api.discogs.com/artists/2742944"
+        },
+        {
+          "name": "Wondagurl",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3485945,
+          "resource_url": "https://api.discogs.com/artists/3485945"
+        }
+      ],
+      "duration": "4:13"
+    },
+    {
+      "position": "C5",
+      "type_": "track",
+      "title": "You & The 6",
+      "extraartists": [
+        {
+          "name": "Illmind",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 186449,
+          "resource_url": "https://api.discogs.com/artists/186449"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Boi-1da",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1302193,
+          "resource_url": "https://api.discogs.com/artists/1302193"
+        }
+      ],
+      "duration": "4:25"
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Jungle",
+      "extraartists": [
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        }
+      ],
+      "duration": "5:20"
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "6PM In New York",
+      "extraartists": [
+        {
+          "name": "Frank Dukes",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 610329,
+          "resource_url": "https://api.discogs.com/artists/610329"
+        },
+        {
+          "name": "Sevn Thomas",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 3833210,
+          "resource_url": "https://api.discogs.com/artists/3833210"
+        },
+        {
+          "name": "Boi-1da",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1302193,
+          "resource_url": "https://api.discogs.com/artists/1302193"
+        }
+      ],
+      "duration": "4:43"
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "How About Now",
+      "duration": "3:55"
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "title": "My Side",
+      "duration": "4:41"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Jim Joe",
+      "anv": "",
+      "join": "",
+      "role": "Artwork By",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Ian Sefchick",
+      "anv": "IS",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 527017,
+      "resource_url": "https://api.discogs.com/artists/527017"
+    },
+    {
+      "name": "Chris Athens",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 237914,
+      "resource_url": "https://api.discogs.com/artists/237914"
+    },
+    {
+      "name": "Noah Shebib",
+      "anv": "Noah \"40\" Shebib",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "",
+      "id": 895435,
+      "resource_url": "https://api.discogs.com/artists/895435"
+    },
+    {
+      "name": "Noel Campbell",
+      "anv": "Noel \"Gadget\" Campbell",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "",
+      "id": 1379473,
+      "resource_url": "https://api.discogs.com/artists/1379473"
+    },
+    {
+      "name": "Noah Shebib",
+      "anv": "Noah \"40\" Shebib",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "",
+      "id": 895435,
+      "resource_url": "https://api.discogs.com/artists/895435"
+    },
+    {
+      "name": "Noel Cadastre",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "",
+      "id": 1857906,
+      "resource_url": "https://api.discogs.com/artists/1857906"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/TesA4uyriga_we6aPnvFJNxYdaAId0ZgvPoy9lj0aFk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTY0Mzc3ODg4/Mi04NDA3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/TesA4uyriga_we6aPnvFJNxYdaAId0ZgvPoy9lj0aFk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTY0Mzc3ODg4/Mi04NDA3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/Iq5elj8ks_OMuY_IuqreNqHQW5OC4gbkKrNmqdVrZoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTY0Mzc3ODg4/Mi04NDA3LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/1k5W0FQebVhHcTe6agxMMiahAoDqv3VzVeV3HsUcWmA/rs:fit/g:sm/q:90/h:292/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTY0Mzc3ODg4/Mi0xODMyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/1k5W0FQebVhHcTe6agxMMiahAoDqv3VzVeV3HsUcWmA/rs:fit/g:sm/q:90/h:292/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTY0Mzc3ODg4/Mi0xODMyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/6KjURJHy5ErSi4p_nXfT0lNxxC5SSq_33wjRt7wjn5g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTY0Mzc3ODg4/Mi0xODMyLmpwZWc.jpeg",
+      "width": 600,
+      "height": 292
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ayz61q1TAFOh3wUcZT_VtrHo7uExwovqBxG3JtzmH0E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTY0Mzc3ODg4/Mi00Mjk3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/ayz61q1TAFOh3wUcZT_VtrHo7uExwovqBxG3JtzmH0E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTY0Mzc3ODg4/Mi00Mjk3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/YbK-g5mdPyafHhv3-7i9-7Yib0fuQA1CCP5_bXTq2rs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTY0Mzc3ODg4/Mi00Mjk3LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ZJASC3tbwX-dDkKlKin_cPf2wgJsoUiC3mZJNjTc970/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTY0Mzc3ODg4/Mi0zMDA5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/ZJASC3tbwX-dDkKlKin_cPf2wgJsoUiC3mZJNjTc970/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTY0Mzc3ODg4/Mi0zMDA5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/LgGLy21gfX9PRH7C2kykqHIRa7sfH0qHJucLCYfpfB4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTY0Mzc3ODg4/Mi0zMDA5LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/gzOptgXw55Ye2CFZySkbKVFk2P0Bv9vVjEZZ9cZWA0E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTY0Mzc3ODg4/Mi0zMTM2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/gzOptgXw55Ye2CFZySkbKVFk2P0Bv9vVjEZZ9cZWA0E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTY0Mzc3ODg4/Mi0zMTM2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/o_V1ZR_VCy1RyvD1V7V6BUxKG-UPhKUIuN8Auc1Pkzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTY0Mzc3ODg4/Mi0zMTM2LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/JXNuJ5mv2fHGugoAzCy3eiTyiHtT4_RrgHu_pDNh87I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTY0Mzc3ODg4/MS0xMDMwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/JXNuJ5mv2fHGugoAzCy3eiTyiHtT4_RrgHu_pDNh87I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTY0Mzc3ODg4/MS0xMDMwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/dPoiBVTF5zURdN-xiVmoWGJ9BhGtCdcYfDbwB_EoUGY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTY0Mzc3ODg4/MS0xMDMwLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/GuDWpRoAplmGIudChVK3aYoY8aAwqLn_fhkwDjFC_Mw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTY0Mzc3ODg4/Mi0zOTE0LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/GuDWpRoAplmGIudChVK3aYoY8aAwqLn_fhkwDjFC_Mw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTY0Mzc3ODg4/Mi0zOTE0LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/19Natua9arPcGUw9bKCpCnOYFpYNaomyH8_ZP5Ljcqs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTY0Mzc3ODg4/Mi0zOTE0LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/B64uo9IbSgL6Vzs1PoVYvR-7lf5RSz-mHvIxKPaYIJY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTY0Mzc3ODg4/Mi04MTQ4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/B64uo9IbSgL6Vzs1PoVYvR-7lf5RSz-mHvIxKPaYIJY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTY0Mzc3ODg4/Mi04MTQ4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/PzeBbqDHPb2DtPPKbd01C7fjdQDVBjotY_6e_vZ5Rmk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTY0Mzc3ODg4/Mi04MTQ4LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/GZEiaVcxwmUbAapexZ49o3fS8EaRqolanSkBC6oSUEA/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTYxMjg5ODE4/OS00MDYzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/GZEiaVcxwmUbAapexZ49o3fS8EaRqolanSkBC6oSUEA/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTYxMjg5ODE4/OS00MDYzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/jca8lZuPlvfcl3NhJsKymy2gP1ZMPBDtnk2I_0FBoCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTYxMjg5ODE4/OS00MDYzLmpwZWc.jpeg",
+      "width": 600,
+      "height": 541
+    }
+  ],
+  "thumb": "https://i.discogs.com/Iq5elj8ks_OMuY_IuqreNqHQW5OC4gbkKrNmqdVrZoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyNTg2/NTctMTY0Mzc3ODg4/Mi04NDA3LmpwZWc.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

@@ -1,0 +1,3815 @@
+{
+  "id": 26517635,
+  "status": "Accepted",
+  "year": 2023,
+  "resource_url": "https://api.discogs.com/releases/26517635",
+  "uri": "https://www.discogs.com/release/26517635-Lana-Del-Rey-Did-You-Know-That-Theres-A-Tunnel-Under-Ocean-Blvd",
+  "artists": [
+    {
+      "name": "Lana Del Rey",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 2445772,
+      "resource_url": "https://api.discogs.com/artists/2445772",
+      "thumbnail_url": "https://i.discogs.com/u1CyaiZEzHnXUNX7Wr2wBSbPW4DTVQyClVPIe4uHbig/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI0NDU3/NzItMTc3NTMyNTg1/NC04OTA1LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Lana Del Rey",
+  "labels": [
+    {
+      "name": "Polydor",
+      "catno": "4859195",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1610,
+      "resource_url": "https://api.discogs.com/labels/1610",
+      "thumbnail_url": "https://i.discogs.com/aNZfcLSVMW8xdCMyTxY3PspGfkoD4lsz8_uyffeyRcw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2MTAt/MTU4ODY3Mzk0Ny0x/NjI2LmpwZWc.jpeg"
+    },
+    {
+      "name": "Interscope Records",
+      "catno": "0060244891951",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 2311,
+      "resource_url": "https://api.discogs.com/labels/2311",
+      "thumbnail_url": "https://i.discogs.com/58MHEZ0kBRytN0Ivvqvnirp57RFfiqWh1YGJLsn62ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTEt/MTUxNzAxMTEyMy00/NjEwLmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Lana Del Rey",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 294927,
+      "resource_url": "https://api.discogs.com/labels/294927"
+    },
+    {
+      "name": "Lana Del Rey",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 294927,
+      "resource_url": "https://api.discogs.com/labels/294927"
+    },
+    {
+      "name": "Universal Music Operations Ltd.",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 120257,
+      "resource_url": "https://api.discogs.com/labels/120257",
+      "thumbnail_url": "https://i.discogs.com/V_wCq2yiBeTzd3BTY-Y3dNJZfLamTsE-l69r2d3rH0I/rs:fit/g:sm/q:90/h:142/w:436/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMDI1/Ny0xNjQ5OTU5MzA2/LTU5MDAuanBlZw.jpeg"
+    },
+    {
+      "name": "Universal International Music B.V.",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 220303,
+      "resource_url": "https://api.discogs.com/labels/220303",
+      "thumbnail_url": "https://i.discogs.com/I4i4T2e8mUrn6IA2-f829jPWwU1CCZYPHtu1mbRipeU/rs:fit/g:sm/q:90/h:81/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIyMDMw/My0xNjU3MjEzNTMy/LTc1MDUucG5n.jpeg"
+    },
+    {
+      "name": "Copyright Control",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 48207,
+      "resource_url": "https://api.discogs.com/labels/48207",
+      "thumbnail_url": "https://i.discogs.com/YSCMEY8Esx1UlDlBP31zJU6tN7SVv6ACBIh6JeQZqIk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQ4MjA3/LTE3NDQ1NTcxNTQt/NzA3NC5qcGVn.jpeg"
+    },
+    {
+      "name": "Ducky Donath Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 506377,
+      "resource_url": "https://api.discogs.com/labels/506377"
+    },
+    {
+      "name": "Sony/ATV Songs LLC",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 303651,
+      "resource_url": "https://api.discogs.com/labels/303651",
+      "thumbnail_url": "https://i.discogs.com/_1RjD6n_UmQhwJSBpfM5RUbiSvkc2ZQVjJTtwZs2g6c/rs:fit/g:sm/q:90/h:60/w:314/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwMzY1/MS0xNTY4NzQyNTE0/LTM1MTkucG5n.jpeg"
+    },
+    {
+      "name": "Naht Jona LLC",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 1158341,
+      "resource_url": "https://api.discogs.com/labels/1158341"
+    },
+    {
+      "name": "BLF Music Group",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 3189164,
+      "resource_url": "https://api.discogs.com/labels/3189164"
+    },
+    {
+      "name": "Incognito Street Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 1184310,
+      "resource_url": "https://api.discogs.com/labels/1184310"
+    },
+    {
+      "name": "Nomograph Mastering",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 3186902,
+      "resource_url": "https://api.discogs.com/labels/3186902",
+      "thumbnail_url": "https://i.discogs.com/Pk4nHnMqnAs3f25rnSn8qeBiv2XpnzWpKE3xgfwEVgI/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxODY5/MDItMTY3OTYwMDgy/Ny04MDg2LmpwZWc.jpeg"
+    },
+    {
+      "name": "360 Mastering",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 265434,
+      "resource_url": "https://api.discogs.com/labels/265434",
+      "thumbnail_url": "https://i.discogs.com/lMzLCKrZrgIrZdxcvTALMDAPbAUE2Pf4KfQslH74hqU/rs:fit/g:sm/q:90/h:548/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTQz/NC0xNTQ2OTAxNjg4/LTU5MzUuanBlZw.jpeg"
+    },
+    {
+      "name": "Black Door Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 658614,
+      "resource_url": "https://api.discogs.com/labels/658614"
+    },
+    {
+      "name": "Real World Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 267339,
+      "resource_url": "https://api.discogs.com/labels/267339",
+      "thumbnail_url": "https://i.discogs.com/zYpNtp2z8tnRph77_DFxUTWZlY8l3ACrix5iKGIWa9Y/rs:fit/g:sm/q:90/h:450/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NzMz/OS0xMzE1NDAyMTE4/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Real World Studios",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 267339,
+      "resource_url": "https://api.discogs.com/labels/267339",
+      "thumbnail_url": "https://i.discogs.com/zYpNtp2z8tnRph77_DFxUTWZlY8l3ACrix5iKGIWa9Y/rs:fit/g:sm/q:90/h:450/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NzMz/OS0xMzE1NDAyMTE4/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Sterling Sound Nashville",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 1524469,
+      "resource_url": "https://api.discogs.com/labels/1524469",
+      "thumbnail_url": "https://i.discogs.com/vvvZti0YxdLBHed8OuOZXwJO1_0Xmf2CKhCW4jYOIcs/rs:fit/g:sm/q:90/h:190/w:265/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1MjQ0/NjktMTU4OTk4NzE4/OS0yNDc2LmpwZWc.jpeg"
+    },
+    {
+      "name": "GZ Media",
+      "catno": "253968E",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "text": "Green, Alternative Artwork"
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 17496,
+    "want": 2864,
+    "rating": {
+      "count": 932,
+      "average": 4.57
+    },
+    "submitter": {
+      "username": "Good_Things_Gmunden",
+      "resource_url": "https://api.discogs.com/users/Good_Things_Gmunden"
+    },
+    "contributors": [
+      {
+        "username": "Good_Things_Gmunden",
+        "resource_url": "https://api.discogs.com/users/Good_Things_Gmunden"
+      },
+      {
+        "username": "KnightOfDarkness",
+        "resource_url": "https://api.discogs.com/users/KnightOfDarkness"
+      },
+      {
+        "username": "michael_c",
+        "resource_url": "https://api.discogs.com/users/michael_c"
+      },
+      {
+        "username": "CODE113SECTION9",
+        "resource_url": "https://api.discogs.com/users/CODE113SECTION9"
+      },
+      {
+        "username": "TReimer",
+        "resource_url": "https://api.discogs.com/users/TReimer"
+      },
+      {
+        "username": "maxkuliev",
+        "resource_url": "https://api.discogs.com/users/maxkuliev"
+      },
+      {
+        "username": "SP_Vinyl",
+        "resource_url": "https://api.discogs.com/users/SP_Vinyl"
+      },
+      {
+        "username": "Spinning_Discs",
+        "resource_url": "https://api.discogs.com/users/Spinning_Discs"
+      },
+      {
+        "username": "RJmusic69",
+        "resource_url": "https://api.discogs.com/users/RJmusic69"
+      },
+      {
+        "username": "BoDaToe",
+        "resource_url": "https://api.discogs.com/users/BoDaToe"
+      },
+      {
+        "username": "moonbread",
+        "resource_url": "https://api.discogs.com/users/moonbread"
+      },
+      {
+        "username": "clayk",
+        "resource_url": "https://api.discogs.com/users/clayk"
+      },
+      {
+        "username": "PorkNewYork",
+        "resource_url": "https://api.discogs.com/users/PorkNewYork"
+      },
+      {
+        "username": "ozeloti",
+        "resource_url": "https://api.discogs.com/users/ozeloti"
+      },
+      {
+        "username": "dlebryk",
+        "resource_url": "https://api.discogs.com/users/dlebryk"
+      },
+      {
+        "username": "baldorr",
+        "resource_url": "https://api.discogs.com/users/baldorr"
+      },
+      {
+        "username": "Sikkebaard",
+        "resource_url": "https://api.discogs.com/users/Sikkebaard"
+      },
+      {
+        "username": "SaveSpectra",
+        "resource_url": "https://api.discogs.com/users/SaveSpectra"
+      },
+      {
+        "username": "d1onp4r",
+        "resource_url": "https://api.discogs.com/users/d1onp4r"
+      },
+      {
+        "username": "HoliestKaty",
+        "resource_url": "https://api.discogs.com/users/HoliestKaty"
+      },
+      {
+        "username": "skmdk",
+        "resource_url": "https://api.discogs.com/users/skmdk"
+      },
+      {
+        "username": "Danthewhippet",
+        "resource_url": "https://api.discogs.com/users/Danthewhippet"
+      },
+      {
+        "username": "velutinous",
+        "resource_url": "https://api.discogs.com/users/velutinous"
+      },
+      {
+        "username": "Super-Pangolin",
+        "resource_url": "https://api.discogs.com/users/Super-Pangolin"
+      },
+      {
+        "username": "MrXavier4",
+        "resource_url": "https://api.discogs.com/users/MrXavier4"
+      },
+      {
+        "username": "mspalhares",
+        "resource_url": "https://api.discogs.com/users/mspalhares"
+      },
+      {
+        "username": "Xmipod",
+        "resource_url": "https://api.discogs.com/users/Xmipod"
+      },
+      {
+        "username": "auboisdormant",
+        "resource_url": "https://api.discogs.com/users/auboisdormant"
+      },
+      {
+        "username": "myvinyldiscography",
+        "resource_url": "https://api.discogs.com/users/myvinyldiscography"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2023-03-23T09:23:33-07:00",
+  "date_changed": "2026-05-03T00:53:44-07:00",
+  "num_for_sale": 95,
+  "lowest_price": 27.95,
+  "master_id": 3028427,
+  "master_url": "https://api.discogs.com/masters/3028427",
+  "title": "Did You Know That There's A Tunnel Under Ocean Blvd",
+  "country": "Worldwide",
+  "released": "2023-03-24",
+  "notes": "Packaged in a gatefold sleeve.\nIncludes printed inner sleeves.\nOriginally advertised as the \"Indies Exclusive\" and sold at independent record stores and Urban Outfitters, etc.\n\nTransparent hype sticker:\nLimited edition green vinyl + alternative artwork\n4859195\n\nRear sticker: Made In Czech Republic\n\n500 copies of this release were retailed by Assai Records with an approved hand numbered Japanese style Obi under Assai Obi Editions.\n\nA Polydor Records Release / An Interscope Records Release in the USA. ℗ & © 2023 Lana Del Rey under exclusive license to Universal Music Operations Limited.\nMade in the EU. Universal International Music B.V., 's-Gravelandseweg 80, 1217 EW Hilversum, Netherlands.\n\nPhotographed in Los Angeles in the summer of 2022\n\nThe Grants:\nPublished by Copyright Control\nMastered... at Nomograph Mastering, Los Angeles CA\n\nDid You Know That There's A Tunnel Under Ocean Blvd:\nPublished by Copyright Control\nMastered... at Nomograph Mastering, Los Angeles CA\n\nSweet:\nPublished by Copyright Control\nMastered... at Nomograph Mastering, Los Angeles CA\n\nA&W:\nPublished by Copyright Control / Ducky Donath Music (BMI) Administered by Sony/ATV Songs LLC\nMastered... at Nomograph Mastering, Los Angeles CA\n\nJudah Smith Interlude:\nPublished by Copyright Control / Ducky Donath Music (BMI) Administered by Sony/ATV Songs LLC\nMastered... at Nomograph Mastering, Los Angeles CA\n\nCandy Necklace:\nPublished by Copyright Control and Naht Jona LLC\nMastered... at Nomograph Mastering, Los Angeles CA\nJon Batiste app-ears courtesy of Verve Records\n\nJon Batiste Interlude:\nPublished by Copyright Control and Naht Jona LLC\nMastered... at Nomograph Mastering, Los Angeles CA\n\nKintsugi:\nPublished by Copyright Control / Ducky Donath Music (BMI) Administered by Sony/ATV Songs LLC\nMastered... at Nomograph Mastering, Los Angeles CA\n\nFingertips:\nPublished by Copyright Control\nMastered... at Nomograph Mastering, Los Angeles CA\n\nParis, Texas:\nPublished by Copyright Control / BLF Music Group (BMI). Administered by Incognito Street Music\nMastered... at Nomograph Mastering, Los Angeles CA\nSYML's performance recorded at Black Door Studios in Sammamish, WA\nSYML appears courtesy of Nettwerk Music Group\n\nGrandfather Please Stand On The Shoulders Of My Father While He's Deep-Sea Fishing:\nPublished by Copyright Control\nMastered... at Nomograph Mastering, Los Angeles CA\nRIOPY's performance originally released on \"RIOPY - Tree of Light\" as 'FLO'\nRIOPY's performance recorded and mixed by: Oli Jacobs at Real World Studios, UK\nRIOPY's performance mastered by: Dick Beetham at 360 Mastering\n\nLet The Light In:\nPublished by Copyright Control\nMastered... at Nomograph Mastering, Los Angeles CA\nFather John Misty appears courtesy of Sub Pop Records\n\nMargaret:\nPublished by Copyright Control / Ducky Donath Music (BMI) Administered by Sony/ATV Songs LLC\nMastered... at Nomograph Mastering, Los Angeles CA\nBleachers appears courtesy of RCA Records\n\nFishtail:\nPublished by Copyright Control / Ducky Donath Music (BMI) Administered by Sony/ATV Songs LLC\nMastered... at Nomograph Mastering, Los Angeles CA\n\nPeppers:\nPublished by Copyright Control\nMastered... at Nomograph Mastering, Los Angeles CA\nTommy Genesis's performance originally released on \"Tommy Genesis - World Vision\"...\n\nTaco Truck x VB:\nPublished by Copyright Control / Ducky Donath Music (BMI) Administered by Sony/ATV Songs LLC\nMastered... at Nomograph Mastering, Los Angeles CA",
+  "released_formatted": "24 Mar 2023",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02448 59195 1",
+      "description": "Printed"
+    },
+    {
+      "type": "Barcode",
+      "value": "602448591951",
+      "description": "Scanned"
+    },
+    {
+      "type": "Rights Society",
+      "value": "BIEM/SDRM"
+    },
+    {
+      "type": "Rights Society",
+      "value": "BMI"
+    },
+    {
+      "type": "Label Code",
+      "value": "LC 00309"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864939-A (1-2) 4864939-A 1503719 JN-H STERLING 253968E1",
+      "description": "Runout side A, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864939-B (1-2) 4864939-B JN-H STERLING 1507450 253968E2",
+      "description": "Runout side B, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864940-C (1-3) 4864940-A 1510587 JN-H STERLING 253968E3",
+      "description": "Runout side C, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864940-D (1-2) 4864940-B JN-H STERLING 1508571 253968E4",
+      "description": "Runout side D, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864939-A (1-3) 4864939-A 1519749 JN-H STERLING 253968E1",
+      "description": "Runout side A, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864939-B (1-3) 4864939-B JN-H STERLING 1520616 253968E2",
+      "description": "Runout side B, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864940-C (1-2) 4864940-A 1502387 JN-H STERLING 253968E3",
+      "description": "Runout side C, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864940-D (1-2) 4864940-B 1499717 JN-H STERLING 253968E4",
+      "description": "Runout side D, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864939-A (1) 4864939-A JN-H STERLING 1481023 253968E1",
+      "description": "Runout side A, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864939-B (1) 4864939-B JN-H STERLING 1487460 253968E2",
+      "description": "Runout side B, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864940-RE1-C (1-1) JN-H STERLING 4864940-A 1482945 253968E3",
+      "description": "Runout side C, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864940-D 4864940-B JN-H STERLING 1481062 253968E4",
+      "description": "Runout side D, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864939-A (1) 4864939-A JN-H STERLING 1482887 253968E1",
+      "description": "Runout side A, variant 4"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864939-B (1) 4864939-B 1481040 JN-H STERLING 253968E2",
+      "description": "Runout side B, variant 4"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864940-RE1-C (1-1) 4864940-A JN-H STERLING 1482936 253968E3",
+      "description": "Runout side C, variant 4"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864940-D (1) 4864940-B JN-H STERLING 1482951 253968E4",
+      "description": "Runout side D, variant 4"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864939-A (1-4) 4864939-A JN-H STERLING 1540680 253968E1",
+      "description": "Runout side A, variant 5"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864939-B (1-3) 4864939-B 1546264 JN-H STERLING 253968E2",
+      "description": "Runout side B, variant 5"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864940 C (1-3) 4864940 A 1580934 JN-H STERLING 253968E3",
+      "description": "Runout side C, variant 5"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864940 D (1-3) 4864940 B 1519759 JN-H STERLING 253968E4",
+      "description": "Runout side D, variant 5"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864939-A (1) 4864939-A JN-H STERLING 1481021 253968E1",
+      "description": "Runout side A, variant 6"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864939-B (1) 4864939-B 1487456 JN-H STERLING 253968E2",
+      "description": "Runout side B, variant 6"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864940-RE1-C (1-1) 4864940-A JN-H STERLING 1489464 253968E3",
+      "description": "Runout side C, variant 6"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864940-D (1) 4864940-B JN-H STERLING 1482951 253968E4",
+      "description": "Runout side D, variant 6"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864939-A (1) 4864939-A JN-H STERLING 1481021 253968E1",
+      "description": "Runout side A, variant 7"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864939-B (1) 4864939-B 1487456 JN-H STERLING 253968E2",
+      "description": "Runout side B, variant 7"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864940-RE1-C (1-1) 4864940-A JN-H STERLING 1494483 253968E3",
+      "description": "Runout side C, variant 7"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4864940-D (1) 4864940-B JN-H STERLING 1489470 253968E4",
+      "description": "Runout side D, variant 7"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "253968E1 1540680 JN-H STERLING 4864939-A (1-4) 4864939-A",
+      "description": "Runout side A, variant 8"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "253968E2 JN-H STERLING 1546462 4864939-B (1-3) 4864939-B",
+      "description": "Runout side B, variant 8"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "253968E3 1541873 JN-H STERLING 4864940-A 4864940-C (1-3)",
+      "description": "Runout side C, variant 8"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "JN-H STERLING (1-3) 4864940-D 253968E4 1520613 4864940-B",
+      "description": "Runout side D, variant 8"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    "Rock",
+    "Pop"
+  ],
+  "styles": [
+    "Baroque Pop",
+    "Indie Rock",
+    "Indie Pop",
+    "Alt-Pop",
+    "Ballad"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "The Grants",
+      "extraartists": [
+        {
+          "name": "Mike Hermosa",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar",
+          "tracks": "",
+          "id": 12202588,
+          "resource_url": "https://api.discogs.com/artists/12202588"
+        },
+        {
+          "name": "Melodye Perry",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 3355209,
+          "resource_url": "https://api.discogs.com/artists/3355209"
+        },
+        {
+          "name": "Pattie Howard",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 1396304,
+          "resource_url": "https://api.discogs.com/artists/1396304"
+        },
+        {
+          "name": "Shikena Jones",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 12204313,
+          "resource_url": "https://api.discogs.com/artists/12204313"
+        },
+        {
+          "name": "Zachary Dawes",
+          "anv": "Zach Dawes",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 2736386,
+          "resource_url": "https://api.discogs.com/artists/2736386"
+        },
+        {
+          "name": "Benji Lysaght",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 1408177,
+          "resource_url": "https://api.discogs.com/artists/1408177"
+        },
+        {
+          "name": "Dean Reid",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 705458,
+          "resource_url": "https://api.discogs.com/artists/705458"
+        },
+        {
+          "name": "Michael Harris (10)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 1893621,
+          "resource_url": "https://api.discogs.com/artists/1893621"
+        },
+        {
+          "name": "Bill Mims",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 574287,
+          "resource_url": "https://api.discogs.com/artists/574287"
+        },
+        {
+          "name": "Jon Sher",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 2694300,
+          "resource_url": "https://api.discogs.com/artists/2694300"
+        },
+        {
+          "name": "Mark Aguilar (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 11930405,
+          "resource_url": "https://api.discogs.com/artists/11930405"
+        },
+        {
+          "name": "Ruairi O'Flaherty",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 808306,
+          "resource_url": "https://api.discogs.com/artists/808306"
+        },
+        {
+          "name": "Dean Reid",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 705458,
+          "resource_url": "https://api.discogs.com/artists/705458"
+        },
+        {
+          "name": "Drew Erickson",
+          "anv": "",
+          "join": "",
+          "role": "Piano, Synth [Synth Bass], Synth [Prophet], Organ [Hammond B3], Strings, Arranged By [String Arrangement]",
+          "tracks": "",
+          "id": 6112899,
+          "resource_url": "https://api.discogs.com/artists/6112899"
+        },
+        {
+          "name": "Drew Erickson",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 6112899,
+          "resource_url": "https://api.discogs.com/artists/6112899"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Zachary Dawes",
+          "anv": "Zach Dawes",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2736386,
+          "resource_url": "https://api.discogs.com/artists/2736386"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals, Backing Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Mike Hermosa",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 12202588,
+          "resource_url": "https://api.discogs.com/artists/12202588"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Did You Know That There's A Tunnel Under Ocean Blvd",
+      "extraartists": [
+        {
+          "name": "Mike Hermosa",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar",
+          "tracks": "",
+          "id": 12202588,
+          "resource_url": "https://api.discogs.com/artists/12202588"
+        },
+        {
+          "name": "Benji Lysaght",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar, Effects [Sound Effects]",
+          "tracks": "",
+          "id": 1408177,
+          "resource_url": "https://api.discogs.com/artists/1408177"
+        },
+        {
+          "name": "Melodye Perry",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 3355209,
+          "resource_url": "https://api.discogs.com/artists/3355209"
+        },
+        {
+          "name": "Shikena Jones",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 12204313,
+          "resource_url": "https://api.discogs.com/artists/12204313"
+        },
+        {
+          "name": "Voncielle Faggett",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 638880,
+          "resource_url": "https://api.discogs.com/artists/638880"
+        },
+        {
+          "name": "Christine Kim",
+          "anv": "",
+          "join": "",
+          "role": "Cello",
+          "tracks": "",
+          "id": 714775,
+          "resource_url": "https://api.discogs.com/artists/714775"
+        },
+        {
+          "name": "Jacob Braun",
+          "anv": "Jake Braun",
+          "join": "",
+          "role": "Cello",
+          "tracks": "",
+          "id": 3645002,
+          "resource_url": "https://api.discogs.com/artists/3645002"
+        },
+        {
+          "name": "Logan Hone",
+          "anv": "",
+          "join": "",
+          "role": "Clarinet, Saxophone",
+          "tracks": "",
+          "id": 3924340,
+          "resource_url": "https://api.discogs.com/artists/3924340"
+        },
+        {
+          "name": "Jim Keltner",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 194118,
+          "resource_url": "https://api.discogs.com/artists/194118"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Programmed By, Bass [Juno Bass], Electric Guitar",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Dean Reid",
+          "anv": "Dean Read",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 705458,
+          "resource_url": "https://api.discogs.com/artists/705458"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Michael Harris (10)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 1893621,
+          "resource_url": "https://api.discogs.com/artists/1893621"
+        },
+        {
+          "name": "Ben Fletcher (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 7213774,
+          "resource_url": "https://api.discogs.com/artists/7213774"
+        },
+        {
+          "name": "Bill Mims",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 574287,
+          "resource_url": "https://api.discogs.com/artists/574287"
+        },
+        {
+          "name": "Brian Rajaratnam",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 7540465,
+          "resource_url": "https://api.discogs.com/artists/7540465"
+        },
+        {
+          "name": "Ivan Handwerk",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 5440383,
+          "resource_url": "https://api.discogs.com/artists/5440383"
+        },
+        {
+          "name": "Jon Sher",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 2694300,
+          "resource_url": "https://api.discogs.com/artists/2694300"
+        },
+        {
+          "name": "Mark Aguilar (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 11930405,
+          "resource_url": "https://api.discogs.com/artists/11930405"
+        },
+        {
+          "name": "Matt Tuggle",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 4030991,
+          "resource_url": "https://api.discogs.com/artists/4030991"
+        },
+        {
+          "name": "Megan Searl",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 4202591,
+          "resource_url": "https://api.discogs.com/artists/4202591"
+        },
+        {
+          "name": "Ruairi O'Flaherty",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 808306,
+          "resource_url": "https://api.discogs.com/artists/808306"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Drew Erickson",
+          "anv": "",
+          "join": "",
+          "role": "Piano, Synth [Moog Bass], Conductor, Arranged By [String Arrangement]",
+          "tracks": "",
+          "id": 6112899,
+          "resource_url": "https://api.discogs.com/artists/6112899"
+        },
+        {
+          "name": "Drew Erickson",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 6112899,
+          "resource_url": "https://api.discogs.com/artists/6112899"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Mike Hermosa",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 12202588,
+          "resource_url": "https://api.discogs.com/artists/12202588"
+        },
+        {
+          "name": "Zachary Dawes",
+          "anv": "Zach Dawes",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2736386,
+          "resource_url": "https://api.discogs.com/artists/2736386"
+        },
+        {
+          "name": "Andrew Bulbrook",
+          "anv": "Andrew Bullbrook",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 2354340,
+          "resource_url": "https://api.discogs.com/artists/2354340"
+        },
+        {
+          "name": "Charlie Bisharat",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 325321,
+          "resource_url": "https://api.discogs.com/artists/325321"
+        },
+        {
+          "name": "Paul Cartwright",
+          "anv": "Paul Jacob Cartwright",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 747685,
+          "resource_url": "https://api.discogs.com/artists/747685"
+        },
+        {
+          "name": "Wynton Grant",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 7467391,
+          "resource_url": "https://api.discogs.com/artists/7467391"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals, Backing Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Mike Hermosa",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 12202588,
+          "resource_url": "https://api.discogs.com/artists/12202588"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Sweet",
+      "extraartists": [
+        {
+          "name": "Christine Kim",
+          "anv": "",
+          "join": "",
+          "role": "Cello",
+          "tracks": "",
+          "id": 714775,
+          "resource_url": "https://api.discogs.com/artists/714775"
+        },
+        {
+          "name": "Jacob Braun",
+          "anv": "Jake Braun",
+          "join": "",
+          "role": "Cello",
+          "tracks": "",
+          "id": 3645002,
+          "resource_url": "https://api.discogs.com/artists/3645002"
+        },
+        {
+          "name": "Dean Reid",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 705458,
+          "resource_url": "https://api.discogs.com/artists/705458"
+        },
+        {
+          "name": "Michael Harris (10)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 1893621,
+          "resource_url": "https://api.discogs.com/artists/1893621"
+        },
+        {
+          "name": "Ben Fletcher (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 7213774,
+          "resource_url": "https://api.discogs.com/artists/7213774"
+        },
+        {
+          "name": "Ivan Handwerk",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 5440383,
+          "resource_url": "https://api.discogs.com/artists/5440383"
+        },
+        {
+          "name": "Jon Sher",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 2694300,
+          "resource_url": "https://api.discogs.com/artists/2694300"
+        },
+        {
+          "name": "Ruairi O'Flaherty",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 808306,
+          "resource_url": "https://api.discogs.com/artists/808306"
+        },
+        {
+          "name": "Dean Reid",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 705458,
+          "resource_url": "https://api.discogs.com/artists/705458"
+        },
+        {
+          "name": "Michael Harris (10)",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 1893621,
+          "resource_url": "https://api.discogs.com/artists/1893621"
+        },
+        {
+          "name": "Drew Erickson",
+          "anv": "",
+          "join": "",
+          "role": "Piano, Organ [Hammond B3], Bass [Prophet Bass], Conductor, Arranged By [String Arrangement]",
+          "tracks": "",
+          "id": 6112899,
+          "resource_url": "https://api.discogs.com/artists/6112899"
+        },
+        {
+          "name": "Drew Erickson",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 6112899,
+          "resource_url": "https://api.discogs.com/artists/6112899"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Andrew Bulbrook",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 2354340,
+          "resource_url": "https://api.discogs.com/artists/2354340"
+        },
+        {
+          "name": "Charlie Bisharat",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 325321,
+          "resource_url": "https://api.discogs.com/artists/325321"
+        },
+        {
+          "name": "Paul Cartwright",
+          "anv": "Paul Jacob Cartwright",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 747685,
+          "resource_url": "https://api.discogs.com/artists/747685"
+        },
+        {
+          "name": "Wynton Grant",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 7467391,
+          "resource_url": "https://api.discogs.com/artists/7467391"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals, Backing Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Drew Erickson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6112899,
+          "resource_url": "https://api.discogs.com/artists/6112899"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "A&W",
+      "extraartists": [
+        {
+          "name": "Sam Dew",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 3016533,
+          "resource_url": "https://api.discogs.com/artists/3016533"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Programmed By, Acoustic Guitar, 12-String Acoustic Guitar, Chimes, Piano, Synth [Moog Bass], Synth [Juno], Synth [Moog FX], Mellotron",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Daniel Cayotte",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 5822766,
+          "resource_url": "https://api.discogs.com/artists/5822766"
+        },
+        {
+          "name": "Jon Sher",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 2694300,
+          "resource_url": "https://api.discogs.com/artists/2694300"
+        },
+        {
+          "name": "Megan Searl",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 4202591,
+          "resource_url": "https://api.discogs.com/artists/4202591"
+        },
+        {
+          "name": "Rémy Dumelz",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 7049122,
+          "resource_url": "https://api.discogs.com/artists/7049122"
+        },
+        {
+          "name": "Ruairi O'Flaherty",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 808306,
+          "resource_url": "https://api.discogs.com/artists/808306"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals, Backing Vocals, Glockenspiel",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Judah Smith Interlude",
+      "extraartists": [
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar, Piano, Programmed By",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Jon Sher",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 2694300,
+          "resource_url": "https://api.discogs.com/artists/2694300"
+        },
+        {
+          "name": "Megan Searl",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 4202591,
+          "resource_url": "https://api.discogs.com/artists/4202591"
+        },
+        {
+          "name": "Ruairi O'Flaherty",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 808306,
+          "resource_url": "https://api.discogs.com/artists/808306"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Judah Smith",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 9088993,
+          "resource_url": "https://api.discogs.com/artists/9088993"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Judah Smith",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 9088993,
+          "resource_url": "https://api.discogs.com/artists/9088993"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Candy Necklace",
+      "extraartists": [
+        {
+          "name": "Felix Havstad Ziska",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [Strings Arranged By]",
+          "tracks": "",
+          "id": 5275694,
+          "resource_url": "https://api.discogs.com/artists/5275694"
+        },
+        {
+          "name": "Ian Doerr",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [Strings Arranged By]",
+          "tracks": "",
+          "id": 3097647,
+          "resource_url": "https://api.discogs.com/artists/3097647"
+        },
+        {
+          "name": "Brian Long (7)",
+          "anv": "",
+          "join": "",
+          "role": "Double Bass",
+          "tracks": "",
+          "id": 12736601,
+          "resource_url": "https://api.discogs.com/artists/12736601"
+        },
+        {
+          "name": "Will Worden",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 12734180,
+          "resource_url": "https://api.discogs.com/artists/12734180"
+        },
+        {
+          "name": "Ian Doerr",
+          "anv": "",
+          "join": "",
+          "role": "Electric Piano [Rhodes], Mellotron, Celesta",
+          "tracks": "",
+          "id": 3097647,
+          "resource_url": "https://api.discogs.com/artists/3097647"
+        },
+        {
+          "name": "Ian Doerr",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 3097647,
+          "resource_url": "https://api.discogs.com/artists/3097647"
+        },
+        {
+          "name": "Kaleb Rollins",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 2737202,
+          "resource_url": "https://api.discogs.com/artists/2737202"
+        },
+        {
+          "name": "Bobby Mota",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 12413407,
+          "resource_url": "https://api.discogs.com/artists/12413407"
+        },
+        {
+          "name": "Gregg White (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 12511828,
+          "resource_url": "https://api.discogs.com/artists/12511828"
+        },
+        {
+          "name": "Jon Batiste",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 8406732,
+          "resource_url": "https://api.discogs.com/artists/8406732"
+        },
+        {
+          "name": "Nick Waterhouse (2)",
+          "anv": "",
+          "join": "",
+          "role": "Lead Guitar [Lead Electric Guitar]",
+          "tracks": "",
+          "id": 2651559,
+          "resource_url": "https://api.discogs.com/artists/2651559"
+        },
+        {
+          "name": "Ruairi O'Flaherty",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 808306,
+          "resource_url": "https://api.discogs.com/artists/808306"
+        },
+        {
+          "name": "Dean Reid",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 705458,
+          "resource_url": "https://api.discogs.com/artists/705458"
+        },
+        {
+          "name": "Connor Gallaher",
+          "anv": "",
+          "join": "",
+          "role": "Pedal Steel Guitar, Baritone Guitar, Acoustic Guitar",
+          "tracks": "",
+          "id": 2616374,
+          "resource_url": "https://api.discogs.com/artists/2616374"
+        },
+        {
+          "name": "Jon Batiste",
+          "anv": "",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 8406732,
+          "resource_url": "https://api.discogs.com/artists/8406732"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Nick Waterhouse (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2651559,
+          "resource_url": "https://api.discogs.com/artists/2651559"
+        },
+        {
+          "name": "Zachary Dawes",
+          "anv": "Zach Dawes",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2736386,
+          "resource_url": "https://api.discogs.com/artists/2736386"
+        },
+        {
+          "name": "Ian Doerr",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Additional Production]",
+          "tracks": "",
+          "id": 3097647,
+          "resource_url": "https://api.discogs.com/artists/3097647"
+        },
+        {
+          "name": "Nick Waterhouse (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Additional Production]",
+          "tracks": "",
+          "id": 2651559,
+          "resource_url": "https://api.discogs.com/artists/2651559"
+        },
+        {
+          "name": "Jackson Macintosh",
+          "anv": "",
+          "join": "",
+          "role": "Twelve-String Guitar [12 String Electric Guitar]",
+          "tracks": "",
+          "id": 2869824,
+          "resource_url": "https://api.discogs.com/artists/2869824"
+        },
+        {
+          "name": "Felix Havstad Ziska",
+          "anv": "",
+          "join": "",
+          "role": "Violin, Cello",
+          "tracks": "",
+          "id": 5275694,
+          "resource_url": "https://api.discogs.com/artists/5275694"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Jon Batiste",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 8406732,
+          "resource_url": "https://api.discogs.com/artists/8406732"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Jon Batiste Interlude",
+      "extraartists": [
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Bass, Drums, Electric Guitar, Mellotron, Piano, Programmed By",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Ian Doerr",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 3097647,
+          "resource_url": "https://api.discogs.com/artists/3097647"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Kaleb Rollins",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 2737202,
+          "resource_url": "https://api.discogs.com/artists/2737202"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Jon Sher",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 2694300,
+          "resource_url": "https://api.discogs.com/artists/2694300"
+        },
+        {
+          "name": "Megan Searl",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 4202591,
+          "resource_url": "https://api.discogs.com/artists/4202591"
+        },
+        {
+          "name": "Ruairi O'Flaherty",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 808306,
+          "resource_url": "https://api.discogs.com/artists/808306"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Zachary Dawes",
+          "anv": "Zach Dawes",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2736386,
+          "resource_url": "https://api.discogs.com/artists/2736386"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Jon Batiste",
+          "anv": "",
+          "join": "",
+          "role": "Vocals, Piano",
+          "tracks": "",
+          "id": 8406732,
+          "resource_url": "https://api.discogs.com/artists/8406732"
+        },
+        {
+          "name": "Jon Batiste",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 8406732,
+          "resource_url": "https://api.discogs.com/artists/8406732"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Kintsugi",
+      "extraartists": [
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Piano, Acoustic Guitar, Synth [Prophet]",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Brian Rajaratnam",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 7540465,
+          "resource_url": "https://api.discogs.com/artists/7540465"
+        },
+        {
+          "name": "Jon Sher",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 2694300,
+          "resource_url": "https://api.discogs.com/artists/2694300"
+        },
+        {
+          "name": "Mark Aguilar (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 11930405,
+          "resource_url": "https://api.discogs.com/artists/11930405"
+        },
+        {
+          "name": "Matt Tuggle",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 4030991,
+          "resource_url": "https://api.discogs.com/artists/4030991"
+        },
+        {
+          "name": "Megan Searl",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 4202591,
+          "resource_url": "https://api.discogs.com/artists/4202591"
+        },
+        {
+          "name": "Ruairi O'Flaherty",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 808306,
+          "resource_url": "https://api.discogs.com/artists/808306"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals, Whistle",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Fingertips",
+      "extraartists": [
+        {
+          "name": "Dean Reid",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 705458,
+          "resource_url": "https://api.discogs.com/artists/705458"
+        },
+        {
+          "name": "Michael Harris (10)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 1893621,
+          "resource_url": "https://api.discogs.com/artists/1893621"
+        },
+        {
+          "name": "Jon Sher",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineer]",
+          "tracks": "",
+          "id": 2694300,
+          "resource_url": "https://api.discogs.com/artists/2694300"
+        },
+        {
+          "name": "Ruairi O'Flaherty",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 808306,
+          "resource_url": "https://api.discogs.com/artists/808306"
+        },
+        {
+          "name": "Dean Reid",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 705458,
+          "resource_url": "https://api.discogs.com/artists/705458"
+        },
+        {
+          "name": "Drew Erickson",
+          "anv": "",
+          "join": "",
+          "role": "Piano, Organ [Hammond B3], Synth [Prophet Bass], Synth [Prophet Pad], Electric Piano [Wurlitzer], Mellotron [Mellotron Choir], Strings, Arranged By [String Arrangement]",
+          "tracks": "",
+          "id": 6112899,
+          "resource_url": "https://api.discogs.com/artists/6112899"
+        },
+        {
+          "name": "Drew Erickson",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 6112899,
+          "resource_url": "https://api.discogs.com/artists/6112899"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Drew Erickson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6112899,
+          "resource_url": "https://api.discogs.com/artists/6112899"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Paris, Texas",
+      "extraartists": [
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar, Electric Guitar, Mellotron, Piano, Synth [Moog Bass]",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Brian Rajaratnam",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 7540465,
+          "resource_url": "https://api.discogs.com/artists/7540465"
+        },
+        {
+          "name": "Jon Sher",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 2694300,
+          "resource_url": "https://api.discogs.com/artists/2694300"
+        },
+        {
+          "name": "Mark Aguilar (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 11930405,
+          "resource_url": "https://api.discogs.com/artists/11930405"
+        },
+        {
+          "name": "Matt Tuggle",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 4030991,
+          "resource_url": "https://api.discogs.com/artists/4030991"
+        },
+        {
+          "name": "Megan Searl",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 4202591,
+          "resource_url": "https://api.discogs.com/artists/4202591"
+        },
+        {
+          "name": "SYML",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 6193419,
+          "resource_url": "https://api.discogs.com/artists/6193419"
+        },
+        {
+          "name": "Ruairi O'Flaherty",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 808306,
+          "resource_url": "https://api.discogs.com/artists/808306"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Brian Fennell",
+          "anv": "",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 2257989,
+          "resource_url": "https://api.discogs.com/artists/2257989"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Brian Fennell",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2257989,
+          "resource_url": "https://api.discogs.com/artists/2257989"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Grandfather Please Stand On The Shoulders Of My Father While He's Deep-Sea Fishing",
+      "extraartists": [
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Electric Guitar, Synth [Korg Synth], Mellotron, Synth [Juno Bass], Synth [Korg Bass]",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Brian Rajaratnam",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 7540465,
+          "resource_url": "https://api.discogs.com/artists/7540465"
+        },
+        {
+          "name": "Jon Sher",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 2694300,
+          "resource_url": "https://api.discogs.com/artists/2694300"
+        },
+        {
+          "name": "Mark Aguilar (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 11930405,
+          "resource_url": "https://api.discogs.com/artists/11930405"
+        },
+        {
+          "name": "Matt Tuggle",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 4030991,
+          "resource_url": "https://api.discogs.com/artists/4030991"
+        },
+        {
+          "name": "Megan Searl",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 4202591,
+          "resource_url": "https://api.discogs.com/artists/4202591"
+        },
+        {
+          "name": "Ruairi O'Flaherty",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 808306,
+          "resource_url": "https://api.discogs.com/artists/808306"
+        },
+        {
+          "name": "Dick Beetham",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By [RIOPY's Performance Mastered By]",
+          "tracks": "",
+          "id": 299375,
+          "resource_url": "https://api.discogs.com/artists/299375"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Riopy",
+          "anv": "Jean-Phillipe Riopy",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 6384005,
+          "resource_url": "https://api.discogs.com/artists/6384005"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Oli Jacobs",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [RIOPY's Performance Recorded By], Mixed By [RIOPY's Performance Mixed By]",
+          "tracks": "",
+          "id": 3508248,
+          "resource_url": "https://api.discogs.com/artists/3508248"
+        },
+        {
+          "name": "Evan Smith (2)",
+          "anv": "",
+          "join": "",
+          "role": "Saxophone",
+          "tracks": "",
+          "id": 2428561,
+          "resource_url": "https://api.discogs.com/artists/2428561"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Riopy",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6384005,
+          "resource_url": "https://api.discogs.com/artists/6384005"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "Let The Light In",
+      "extraartists": [
+        {
+          "name": "Benji Lysaght",
+          "anv": "",
+          "join": "",
+          "role": "12-String Acoustic Guitar, Acoustic Guitar, Electric Guitar",
+          "tracks": "",
+          "id": 1408177,
+          "resource_url": "https://api.discogs.com/artists/1408177"
+        },
+        {
+          "name": "Mike Hermosa",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar, Piano",
+          "tracks": "",
+          "id": 12202588,
+          "resource_url": "https://api.discogs.com/artists/12202588"
+        },
+        {
+          "name": "Zachary Dawes",
+          "anv": "Zach Dawes",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 2736386,
+          "resource_url": "https://api.discogs.com/artists/2736386"
+        },
+        {
+          "name": "Dean Reid",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 705458,
+          "resource_url": "https://api.discogs.com/artists/705458"
+        },
+        {
+          "name": "Michael Harris (10)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 1893621,
+          "resource_url": "https://api.discogs.com/artists/1893621"
+        },
+        {
+          "name": "Bill Mims",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 574287,
+          "resource_url": "https://api.discogs.com/artists/574287"
+        },
+        {
+          "name": "Jon Sher",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 2694300,
+          "resource_url": "https://api.discogs.com/artists/2694300"
+        },
+        {
+          "name": "Mark Aguilar (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 11930405,
+          "resource_url": "https://api.discogs.com/artists/11930405"
+        },
+        {
+          "name": "Father John Misty",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2607662,
+          "resource_url": "https://api.discogs.com/artists/2607662"
+        },
+        {
+          "name": "Ruairi O'Flaherty",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 808306,
+          "resource_url": "https://api.discogs.com/artists/808306"
+        },
+        {
+          "name": "Dean Reid",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 705458,
+          "resource_url": "https://api.discogs.com/artists/705458"
+        },
+        {
+          "name": "Drew Erickson",
+          "anv": "",
+          "join": "",
+          "role": "Piano, Drums, Organ [Hammond B3], Synth [Prophet], Strings, Arranged By [String Arrangement]",
+          "tracks": "",
+          "id": 6112899,
+          "resource_url": "https://api.discogs.com/artists/6112899"
+        },
+        {
+          "name": "Drew Erickson",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 6112899,
+          "resource_url": "https://api.discogs.com/artists/6112899"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Mike Hermosa",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 12202588,
+          "resource_url": "https://api.discogs.com/artists/12202588"
+        },
+        {
+          "name": "J. Tillman",
+          "anv": "Josh Tillman",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 1177036,
+          "resource_url": "https://api.discogs.com/artists/1177036"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals, Backing Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Benji Lysaght",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1408177,
+          "resource_url": "https://api.discogs.com/artists/1408177"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Mike Hermosa",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 12202588,
+          "resource_url": "https://api.discogs.com/artists/12202588"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Margaret",
+      "extraartists": [
+        {
+          "name": "Sean Hutchinson (3)",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 3595555,
+          "resource_url": "https://api.discogs.com/artists/3595555"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Jon Sher",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 2694300,
+          "resource_url": "https://api.discogs.com/artists/2694300"
+        },
+        {
+          "name": "Megan Searl",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 4202591,
+          "resource_url": "https://api.discogs.com/artists/4202591"
+        },
+        {
+          "name": "Bleachers",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2030696,
+          "resource_url": "https://api.discogs.com/artists/2030696"
+        },
+        {
+          "name": "Mikey Freedom Hart",
+          "anv": "",
+          "join": "",
+          "role": "Guitar, Synth",
+          "tracks": "",
+          "id": 4022760,
+          "resource_url": "https://api.discogs.com/artists/4022760"
+        },
+        {
+          "name": "Ruairi O'Flaherty",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 808306,
+          "resource_url": "https://api.discogs.com/artists/808306"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Michael Riddleberger",
+          "anv": "Mike Riddleberger",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 2750906,
+          "resource_url": "https://api.discogs.com/artists/2750906"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Evan Smith (2)",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Evan Smith's Performance Recorded By]",
+          "tracks": "",
+          "id": 2428561,
+          "resource_url": "https://api.discogs.com/artists/2428561"
+        },
+        {
+          "name": "Michael Riddleberger",
+          "anv": "Mike Riddleberger",
+          "join": "",
+          "role": "Recorded By [Mike Riddleberger's Performance Recorded By]",
+          "tracks": "",
+          "id": 2750906,
+          "resource_url": "https://api.discogs.com/artists/2750906"
+        },
+        {
+          "name": "David Hart (11)",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Mikey Freedom Hart's Performance Recorded By]",
+          "tracks": "",
+          "id": 7232932,
+          "resource_url": "https://api.discogs.com/artists/7232932"
+        },
+        {
+          "name": "Mikey Freedom Hart",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Mikey Freedom Hart's Performance Recorded By]",
+          "tracks": "",
+          "id": 4022760,
+          "resource_url": "https://api.discogs.com/artists/4022760"
+        },
+        {
+          "name": "Sean Hutchinson (3)",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Sean Hutchinson's Performance Recorded By]",
+          "tracks": "",
+          "id": 3595555,
+          "resource_url": "https://api.discogs.com/artists/3595555"
+        },
+        {
+          "name": "Zem Audu",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Zem Audu's Performance Recorded By]",
+          "tracks": "",
+          "id": 2053787,
+          "resource_url": "https://api.discogs.com/artists/2053787"
+        },
+        {
+          "name": "Evan Smith (2)",
+          "anv": "",
+          "join": "",
+          "role": "Saxophone",
+          "tracks": "",
+          "id": 2428561,
+          "resource_url": "https://api.discogs.com/artists/2428561"
+        },
+        {
+          "name": "Zem Audu",
+          "anv": "",
+          "join": "",
+          "role": "Saxophone",
+          "tracks": "",
+          "id": 2053787,
+          "resource_url": "https://api.discogs.com/artists/2053787"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals, Backing Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Vocals, Backing Vocals, Bass, Electric Guitar, Drums, Programmed By, Piano, Mellotron, Omnichord, Acoustic Guitar, 12-String Acoustic Guitar, Banjo",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Fishtail",
+      "extraartists": [
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Synth [Moog Bass], Programmed By, Piano, Omnichord, Mellotron, Electric Guitar, 12-String Acoustic Guitar",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Brian Rajaratnam",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 7540465,
+          "resource_url": "https://api.discogs.com/artists/7540465"
+        },
+        {
+          "name": "Jon Sher",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 2694300,
+          "resource_url": "https://api.discogs.com/artists/2694300"
+        },
+        {
+          "name": "Mark Aguilar (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 11930405,
+          "resource_url": "https://api.discogs.com/artists/11930405"
+        },
+        {
+          "name": "Matt Tuggle",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 4030991,
+          "resource_url": "https://api.discogs.com/artists/4030991"
+        },
+        {
+          "name": "Megan Searl",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 4202591,
+          "resource_url": "https://api.discogs.com/artists/4202591"
+        },
+        {
+          "name": "Ruairi O'Flaherty",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 808306,
+          "resource_url": "https://api.discogs.com/artists/808306"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Caroline \"Chuck\" H. Grant",
+          "anv": "Chuck Grant",
+          "join": "",
+          "role": "Voice [Talking]",
+          "tracks": "",
+          "id": 3850597,
+          "resource_url": "https://api.discogs.com/artists/3850597"
+        },
+        {
+          "name": "Aljosha Konstanty",
+          "anv": "Aljosha Frederick Konstanty",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4310765,
+          "resource_url": "https://api.discogs.com/artists/4310765"
+        },
+        {
+          "name": "Ann Tomberlin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 12728315,
+          "resource_url": "https://api.discogs.com/artists/12728315"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Peppers",
+      "extraartists": [
+        {
+          "name": "Mike Hermosa",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar",
+          "tracks": "",
+          "id": 12202588,
+          "resource_url": "https://api.discogs.com/artists/12202588"
+        },
+        {
+          "name": "Gus Seyffert",
+          "anv": "",
+          "join": "",
+          "role": "Bass, Keyboards",
+          "tracks": "",
+          "id": 766594,
+          "resource_url": "https://api.discogs.com/artists/766594"
+        },
+        {
+          "name": "Carla Azar",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 323411,
+          "resource_url": "https://api.discogs.com/artists/323411"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar, Acoustic Guitar, Chimes, Drums, Programmed By, Synth [Moog Model D]",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Michael Harris (10)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 1893621,
+          "resource_url": "https://api.discogs.com/artists/1893621"
+        },
+        {
+          "name": "Brian Rajaratnam",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 7540465,
+          "resource_url": "https://api.discogs.com/artists/7540465"
+        },
+        {
+          "name": "Jon Sher",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 2694300,
+          "resource_url": "https://api.discogs.com/artists/2694300"
+        },
+        {
+          "name": "Mark Aguilar (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 11930405,
+          "resource_url": "https://api.discogs.com/artists/11930405"
+        },
+        {
+          "name": "Matt Tuggle",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 4030991,
+          "resource_url": "https://api.discogs.com/artists/4030991"
+        },
+        {
+          "name": "Megan Searl",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 4202591,
+          "resource_url": "https://api.discogs.com/artists/4202591"
+        },
+        {
+          "name": "Tommy Genesis",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 4361512,
+          "resource_url": "https://api.discogs.com/artists/4361512"
+        },
+        {
+          "name": "Benji Lysaght",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 1408177,
+          "resource_url": "https://api.discogs.com/artists/1408177"
+        },
+        {
+          "name": "Ruairi O'Flaherty",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 808306,
+          "resource_url": "https://api.discogs.com/artists/808306"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Matt Harvey",
+          "anv": "Matthew Harvey",
+          "join": "",
+          "role": "Mixed By [Tommy Genesis's Performance Mixed By], Mastered By [Tommy Genesis's Performance Mastered By]",
+          "tracks": "",
+          "id": 395444,
+          "resource_url": "https://api.discogs.com/artists/395444"
+        },
+        {
+          "name": "Phoenix Grant",
+          "anv": "",
+          "join": "",
+          "role": "Omnichord",
+          "tracks": "",
+          "id": 12734186,
+          "resource_url": "https://api.discogs.com/artists/12734186"
+        },
+        {
+          "name": "Benji Lysaght",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1408177,
+          "resource_url": "https://api.discogs.com/artists/1408177"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Father (11)",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Tommy Genesis's Performance Produced By]",
+          "tracks": "",
+          "id": 3710334,
+          "resource_url": "https://api.discogs.com/artists/3710334"
+        },
+        {
+          "name": "Tommy Genesis",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4361512,
+          "resource_url": "https://api.discogs.com/artists/4361512"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals, Backing Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Benji Lysaght",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1408177,
+          "resource_url": "https://api.discogs.com/artists/1408177"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Mike Hermosa",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 12202588,
+          "resource_url": "https://api.discogs.com/artists/12202588"
+        },
+        {
+          "name": "Tommy Genesis",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4361512,
+          "resource_url": "https://api.discogs.com/artists/4361512"
+        },
+        {
+          "name": "Father (11)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By [Tommy Genesis's Performance Written By]",
+          "tracks": "",
+          "id": 3710334,
+          "resource_url": "https://api.discogs.com/artists/3710334"
+        },
+        {
+          "name": "Tommy Genesis",
+          "anv": "",
+          "join": "",
+          "role": "Written-By [Tommy Genesis's Performance Written By]",
+          "tracks": "",
+          "id": 4361512,
+          "resource_url": "https://api.discogs.com/artists/4361512"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "title": "Taco Truck x VB",
+      "extraartists": [
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar, Programmed By, Backing Vocals, Synth [Moog Bass], Synth [Juno Bass], Piano, Drums, Keyboards, Mellotron, Synth [Korg M1]",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Jon Sher",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 2694300,
+          "resource_url": "https://api.discogs.com/artists/2694300"
+        },
+        {
+          "name": "Mark Aguilar (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 11930405,
+          "resource_url": "https://api.discogs.com/artists/11930405"
+        },
+        {
+          "name": "Megan Searl",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineers]",
+          "tracks": "",
+          "id": 4202591,
+          "resource_url": "https://api.discogs.com/artists/4202591"
+        },
+        {
+          "name": "Ruairi O'Flaherty",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 808306,
+          "resource_url": "https://api.discogs.com/artists/808306"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals, Backing Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Margaret Qualley",
+          "anv": "",
+          "join": "",
+          "role": "Voice [Talking]",
+          "tracks": "",
+          "id": 7903939,
+          "resource_url": "https://api.discogs.com/artists/7903939"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Mike Hermosa",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 12202588,
+          "resource_url": "https://api.discogs.com/artists/12202588"
+        }
+      ],
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Cineaste",
+      "anv": "",
+      "join": "",
+      "role": "Artwork [Artwork Produce At]",
+      "tracks": "",
+      "id": 12728306,
+      "resource_url": "https://api.discogs.com/artists/12728306"
+    },
+    {
+      "name": "Taylor Vandegrift",
+      "anv": "",
+      "join": "",
+      "role": "Artwork [Artwork Producer]",
+      "tracks": "",
+      "id": 12728309,
+      "resource_url": "https://api.discogs.com/artists/12728309"
+    },
+    {
+      "name": "Kaiman Kazazian",
+      "anv": "",
+      "join": "",
+      "role": "Design",
+      "tracks": "",
+      "id": 12728312,
+      "resource_url": "https://api.discogs.com/artists/12728312"
+    },
+    {
+      "name": "Neil Krug",
+      "anv": "",
+      "join": "",
+      "role": "Design",
+      "tracks": "",
+      "id": 2321540,
+      "resource_url": "https://api.discogs.com/artists/2321540"
+    },
+    {
+      "name": "Lana Del Rey",
+      "anv": "",
+      "join": "",
+      "role": "Design Concept [Art Concept]",
+      "tracks": "",
+      "id": 2445772,
+      "resource_url": "https://api.discogs.com/artists/2445772"
+    },
+    {
+      "name": "Neil Krug",
+      "anv": "",
+      "join": "",
+      "role": "Design Concept [Art Concept]",
+      "tracks": "",
+      "id": 2321540,
+      "resource_url": "https://api.discogs.com/artists/2321540"
+    },
+    {
+      "name": "Kaiman Kazazian",
+      "anv": "",
+      "join": "",
+      "role": "Illustration",
+      "tracks": "",
+      "id": 12728312,
+      "resource_url": "https://api.discogs.com/artists/12728312"
+    },
+    {
+      "name": "Joe Nino-Hernes",
+      "anv": "JN-H",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 6012918,
+      "resource_url": "https://api.discogs.com/artists/6012918"
+    },
+    {
+      "name": "Neil Krug",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 2321540,
+      "resource_url": "https://api.discogs.com/artists/2321540"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/rkGxRZ_WlL6tG-DNS0wDaIXnFnoSBu_BB-JB6sE3TuY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE3MzU5MTIz/MjYtNjg5MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/rkGxRZ_WlL6tG-DNS0wDaIXnFnoSBu_BB-JB6sE3TuY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE3MzU5MTIz/MjYtNjg5MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/S_XxcFwQ7ynykeWZdlzaWe4Isc6PZOlUIdbNUAFVbLU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE3MzU5MTIz/MjYtNjg5MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/-_WxlLtvUHQ3Ye4nA4lXWFBiyo9C9R63_5oUjABXyEU/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzM5/NzItMTI3My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/-_WxlLtvUHQ3Ye4nA4lXWFBiyo9C9R63_5oUjABXyEU/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzM5/NzItMTI3My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/cNMQHDEGnSXBEMwRu8LIBgLniY0Re-q7pqQ5Gt9s3TY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzM5/NzItMTI3My5qcGVn.jpeg",
+      "width": 600,
+      "height": 287
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/TaArubBZgOxrjkYvdyCv9rS3SEzkQGWAhiVIXfFC08Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzM5/NjktMzM1MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/TaArubBZgOxrjkYvdyCv9rS3SEzkQGWAhiVIXfFC08Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzM5/NjktMzM1MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/dUH2rWptgE2oOahMDbWI22ZiiVHiZm92Dszh8TcupyE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzM5/NjktMzM1MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/okh0ABsDEufbrxpLmvcKhUb4yVoye40NWL_fgK6XLUM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzM5/NzAtNDQ2Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/okh0ABsDEufbrxpLmvcKhUb4yVoye40NWL_fgK6XLUM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzM5/NzAtNDQ2Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/OjDFpkTbhZ_ONqw7vmfTKU9nr0gnTuRjNq7Zikrhlq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzM5/NzAtNDQ2Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/_9PN9b5AiZOGNF8PRgs13M35bcSkKedhjxguE25QEUs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzM5/NzMtMTg0MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/_9PN9b5AiZOGNF8PRgs13M35bcSkKedhjxguE25QEUs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzM5/NzMtMTg0MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/bmkkfuSEqD6IAFkjZYDbKBtXeyF_cXGds44elmWxwyk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzM5/NzMtMTg0MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/tCaXVWSkQUdtTQlAq1t3rDlsajmuUeqvzBu4a1aJeQQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzM5/NzQtMTQyMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/tCaXVWSkQUdtTQlAq1t3rDlsajmuUeqvzBu4a1aJeQQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzM5/NzQtMTQyMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Ue5gJE9aIU4fllR-gEUD8rMMkLM4xQ7Dt78lAf2p_GQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzM5/NzQtMTQyMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/J6Hs7o1kk3IeALNIEFIMjLOWy8QaFDf_Aag8_E13gUM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzM5/NzQtNTk5My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/J6Hs7o1kk3IeALNIEFIMjLOWy8QaFDf_Aag8_E13gUM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzM5/NzQtNTk5My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/2zdhb6o626oMaIKyhaMf_zYGCwNyZiK9VyVu9PQHy1w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzM5/NzQtNTk5My5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ketwLKh_ojM1iKQM2IV4WkDw2Cloy-d4elMneiAX_8s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE3MzU5MTI1/NDgtMjEwMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ketwLKh_ojM1iKQM2IV4WkDw2Cloy-d4elMneiAX_8s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE3MzU5MTI1/NDgtMjEwMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/KiwRUlT0dpSbExlIE0gTOqq1Fc_PX6sOChJx0OQfTHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE3MzU5MTI1/NDgtMjEwMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/VhiS6si6R1exW0-BdlSa2KKj0xCyxr2WDKkebtMd2j4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzM5/NzQtMjM5My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/VhiS6si6R1exW0-BdlSa2KKj0xCyxr2WDKkebtMd2j4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzM5/NzQtMjM5My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/I0Izrv8LbhoxX2-xrZoy77rtDJk7wmxdObGrFQGdFj8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzM5/NzQtMjM5My5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/j3e4m5jNL2TJRG035fo3iwVUKH1i9FohhGzapwfRvRs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE3MzU5MTI1/NjEtNTAwNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/j3e4m5jNL2TJRG035fo3iwVUKH1i9FohhGzapwfRvRs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE3MzU5MTI1/NjEtNTAwNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/49yjqQXe9RNjrElzIT5ulqJJS4APrGEfg_pnSAAmwv0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE3MzU5MTI1/NjEtNTAwNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Xcai6PUQC2ZYqUGx3xVjchWxr_MxJ-Z57gStAH-SCvM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzM5/NzItMjc1Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Xcai6PUQC2ZYqUGx3xVjchWxr_MxJ-Z57gStAH-SCvM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzM5/NzItMjc1Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/fYEiSk9WX__bSxGIWw7w1ClF2_6OlG4offvf3EkhrSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzM5/NzItMjc1Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/umdmLHCtmAmydpX9n-_YPowhIshdxltGRgpHy2658dk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzM5/NzQtNzM2NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/umdmLHCtmAmydpX9n-_YPowhIshdxltGRgpHy2658dk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzM5/NzQtNzM2NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/FslZBZkL_zRYn3OrL69MWLh6sNWgQKj2uOlwRfeQEXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzM5/NzQtNzM2NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ofch9i6KRJMv0iYGCZ-Z9XyBBMRhHVIPmx9eKBIKUl0/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2Nzk1ODkw/NDUtNjA4Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ofch9i6KRJMv0iYGCZ-Z9XyBBMRhHVIPmx9eKBIKUl0/rs:fit/g:sm/q:90/h:540/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2Nzk1ODkw/NDUtNjA4Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/WaypzEjUh_AwCTNCOH7hcaDD79kOMVF4RcMe6iOWNd8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2Nzk1ODkw/NDUtNjA4Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 540
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/nBW0cEXbW2vLjrvmu1VU671jhQ_Ewg-BGPkMrbTfHVk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzQx/MzgtODU4OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/nBW0cEXbW2vLjrvmu1VU671jhQ_Ewg-BGPkMrbTfHVk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzQx/MzgtODU4OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/AUT5bNeAvn_07ZjOMOAdWSo2VnAWMlXOM9JV4omIdAs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2ODE1NzQx/MzgtODU4OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/6CCE80gv3bcgqOkmgDzdq7i8taSP0I6PQloxGEg6mvY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2OTU1MzE1/NDQtMzg3MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/6CCE80gv3bcgqOkmgDzdq7i8taSP0I6PQloxGEg6mvY/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2OTU1MzE1/NDQtMzg3MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/QD9ExJ_WAGBlHNjuvvVQxwPctapE70z_PR0C-YfFfDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE2OTU1MzE1/NDQtMzg3MS5qcGVn.jpeg",
+      "width": 598,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/S_XxcFwQ7ynykeWZdlzaWe4Isc6PZOlUIdbNUAFVbLU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NTE3/NjM1LTE3MzU5MTIz/MjYtNjg5MC5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

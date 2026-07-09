@@ -1,0 +1,284 @@
+{
+  "id": 26701067,
+  "status": "Accepted",
+  "year": 1983,
+  "resource_url": "https://api.discogs.com/releases/26701067",
+  "uri": "https://www.discogs.com/release/26701067-Kool-The-Gang-In-The-Heart",
+  "artists": [
+    {
+      "name": "Kool & The Gang",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 48865,
+      "resource_url": "https://api.discogs.com/artists/48865",
+      "thumbnail_url": "https://i.discogs.com/yZlvJOjMa_2HcXwJcBqCug2rZRDsZs46PO95x3VHM0E/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ4ODY1/LTE2MjI5NjYxMTct/NTQ3Mi5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "Kool & The Gang",
+  "labels": [
+    {
+      "name": "De-Lite Records",
+      "catno": "DSR8508",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 9892,
+      "resource_url": "https://api.discogs.com/labels/9892",
+      "thumbnail_url": "https://i.discogs.com/bKpx1gF8jBBQMPb39vKmq0130FtjTkoOoOju8Nyg6G4/rs:fit/g:sm/q:90/h:218/w:552/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk4OTIt/MTQxMDQ2NDI4NS02/MTgyLmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 106,
+    "want": 22,
+    "rating": {
+      "count": 1,
+      "average": 3
+    },
+    "submitter": {
+      "username": "leonardosgr",
+      "resource_url": "https://api.discogs.com/users/leonardosgr"
+    },
+    "contributors": [
+      {
+        "username": "leonardosgr",
+        "resource_url": "https://api.discogs.com/users/leonardosgr"
+      },
+      {
+        "username": "Adylend",
+        "resource_url": "https://api.discogs.com/users/Adylend"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2023-04-09T04:50:23-07:00",
+  "date_changed": "2023-12-03T06:18:21-08:00",
+  "num_for_sale": 4,
+  "lowest_price": 5,
+  "master_id": 113398,
+  "master_url": "https://api.discogs.com/masters/113398",
+  "title": "In The Heart",
+  "country": "US",
+  "released": "1983",
+  "notes": "R134682-A and R134682-B on labels A and B \nDistributed by RCA",
+  "released_formatted": "1983",
+  "identifiers": [
+    {
+      "type": "Other",
+      "value": "R134682"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=yQ6E98MRo-0",
+      "title": "Kool & The Gang - In The Heart (1983) - A1 - In The Heart",
+      "description": "",
+      "duration": 237,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=xuGAAPnLicU",
+      "title": "Kool & The Gang - In The Heart (1983) - A2 - Joanna",
+      "description": "",
+      "duration": 264,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=czRaGvjp9_w",
+      "title": "Kool & The Gang - In The Heart (1983) - A3 - Tonight",
+      "description": "",
+      "duration": 237,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=v1oRPfHMH_k",
+      "title": "Kool & The Gang - In The Heart (1983) - A4 - Rollin'",
+      "description": "",
+      "duration": 195,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=jbhff8f15NU",
+      "title": "Kool & The Gang - In The Heart (1983) - A5 - Place For Us",
+      "description": "",
+      "duration": 223,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=14WqYCaurto",
+      "title": "Kool & The Gang - In The Heart (1983) - B1 - Straight Ahead",
+      "description": "",
+      "duration": 214,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=9Q67OJYjc8g",
+      "title": "Kool & The Gang - In The Heart (1983) - B2 - Home Is Where The Heart Is",
+      "description": "",
+      "duration": 233,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=FXDq3Hk_ZC0",
+      "title": "Kool & The Gang - In The Heart (1983) - B3 - You Can Do It",
+      "description": "",
+      "duration": 252,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Q8SuRNo3FPg",
+      "title": "Kool & The Gang - In The Heart (1983) - B4 - September Love",
+      "description": "",
+      "duration": 276,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=mvAoo5Fa0No",
+      "title": "You Can Do It",
+      "description": "Provided to YouTube by Universal Music Group\n\nYou Can Do It · Kool & The Gang\n\nIn The Heart\n\n℗ 1983 The Island Def Jam Music Group\n\nReleased on: 1983-11-21\n\nProducer: Ronald Nathan Bell\nProducer: Jim Bonnefond\nProducer: Kool & The Gang\nComposer  Lyricist:",
+      "duration": 247,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=453eKr5IGiA",
+      "title": "Tonight",
+      "description": "Provided to YouTube by Universal Music Group\n\nTonight · Kool & The Gang\n\nIn The Heart\n\n℗ A Mercury Records Release; ℗ 1983 UMG Recordings, Inc.\n\nReleased on: 1983-11-21\n\nProducer: Ronald Nathan Bell\nProducer: Jim Bonnefond\nProducer: Kool & The Gang\nCompos",
+      "duration": 232,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=W5dxaJHRxFE",
+      "title": "In The Heart",
+      "description": "Provided to YouTube by Universal Music Group\n\nIn The Heart · Kool & The Gang\n\nIn The Heart\n\n℗ 1983 UMG Recordings, Inc.\n\nReleased on: 1983-11-21\n\nProducer: Ronald Nathan Bell\nProducer: Kool & The Gang\nProducer: Jim Bonnefond\nComposer: Robert Bell\nComposer",
+      "duration": 234,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=gQUFa3hW6ac",
+      "title": "Place For Us",
+      "description": "Provided to YouTube by Universal Music Group\n\nPlace For Us · Kool & The Gang\n\nIn The Heart\n\n℗ 1983 The Island Def Jam Music Group\n\nReleased on: 1983-11-21\n\nProducer: Ronald Nathan Bell\nProducer: Jim Bonnefond\nProducer: Kool & The Gang\nComposer  Lyricist: ",
+      "duration": 221,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=xUa-7O0w5RE",
+      "title": "September Love",
+      "description": "Provided to YouTube by Universal Music Group\n\nSeptember Love · Kool & The Gang\n\nIn The Heart\n\n℗ 1983 The Island Def Jam Music Group\n\nReleased on: 1983-11-21\n\nProducer: Ronald Nathan Bell\nProducer: Jim Bonnefond\nProducer: Kool & The Gang\nComposer  Lyricist",
+      "duration": 277,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Funk / Soul"
+  ],
+  "styles": [],
+  "tracklist": [
+    {
+      "position": "1",
+      "type_": "track",
+      "title": "In The Heart",
+      "duration": ""
+    },
+    {
+      "position": "2",
+      "type_": "track",
+      "title": "Joanna",
+      "duration": ""
+    },
+    {
+      "position": "3",
+      "type_": "track",
+      "title": "Tonight",
+      "duration": ""
+    },
+    {
+      "position": "4",
+      "type_": "track",
+      "title": "Rollin'",
+      "duration": ""
+    },
+    {
+      "position": "5",
+      "type_": "track",
+      "title": "Place For Us",
+      "duration": ""
+    },
+    {
+      "position": "6",
+      "type_": "track",
+      "title": "Straight Ahead",
+      "duration": ""
+    },
+    {
+      "position": "7",
+      "type_": "track",
+      "title": "Home Is Where The Heart Is",
+      "duration": ""
+    },
+    {
+      "position": "8",
+      "type_": "track",
+      "title": "You Can Do It",
+      "duration": ""
+    },
+    {
+      "position": "9",
+      "type_": "track",
+      "title": "September Love",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/OkwpuJBaJYM-LMsfsZUxIS96BoU5fIv7UzCkKjb1kKU/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzAx/MDY3LTE2ODEwNDIy/MzItMjY4My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/OkwpuJBaJYM-LMsfsZUxIS96BoU5fIv7UzCkKjb1kKU/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzAx/MDY3LTE2ODEwNDIy/MzItMjY4My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/K-JGiRn_8ypUd0Kd__Vl9a9TPhS9xNcWBZW5wGZR3MU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzAx/MDY3LTE2ODEwNDIy/MzItMjY4My5qcGVn.jpeg",
+      "width": 600,
+      "height": 587
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/BbhrtEdZnikUFfaZkYKadBfpigyqxzyMv0QE5BcakDc/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzAx/MDY3LTE2ODEwNDI0/MjEtOTkzMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/BbhrtEdZnikUFfaZkYKadBfpigyqxzyMv0QE5BcakDc/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzAx/MDY3LTE2ODEwNDI0/MjEtOTkzMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/RQTDzlk0gIMs_r1lpLgPEKiyfv6jw5sAxpgxs_MD8JY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzAx/MDY3LTE2ODEwNDI0/MjEtOTkzMi5qcGVn.jpeg",
+      "width": 586,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/aiJThtE92sI7nnMuOQw70jIi0tGexYGwjLT3D2sN0kg/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzAx/MDY3LTE2ODEwNDI0/MzctNTUyOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/aiJThtE92sI7nnMuOQw70jIi0tGexYGwjLT3D2sN0kg/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzAx/MDY3LTE2ODEwNDI0/MzctNTUyOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/za3zJdQX2qVt9HHnAdNF8resdY4zVozfUUh6vluvJFg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzAx/MDY3LTE2ODEwNDI0/MzctNTUyOS5qcGVn.jpeg",
+      "width": 577,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/7r5MSMef2Ovdhdw6mMNf-zan1vNeFYnJPkmwoQfB0OM/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzAx/MDY3LTE2ODEwNDI0/MjgtNjkxOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/7r5MSMef2Ovdhdw6mMNf-zan1vNeFYnJPkmwoQfB0OM/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzAx/MDY3LTE2ODEwNDI0/MjgtNjkxOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/oRmR3H7t_ZfNe-z6Ka8RacBI_l9Rv0i0327RCqg00SM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzAx/MDY3LTE2ODEwNDI0/MjgtNjkxOC5qcGVn.jpeg",
+      "width": 598,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/K-JGiRn_8ypUd0Kd__Vl9a9TPhS9xNcWBZW5wGZR3MU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2NzAx/MDY3LTE2ODEwNDIy/MzItMjY4My5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

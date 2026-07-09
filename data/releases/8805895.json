@@ -1,0 +1,450 @@
+{
+  "id": 8805895,
+  "status": "Accepted",
+  "year": 2016,
+  "resource_url": "https://api.discogs.com/releases/8805895",
+  "uri": "https://www.discogs.com/release/8805895-Sade-Diamond-Life",
+  "artists": [
+    {
+      "name": "Sade",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 19731,
+      "resource_url": "https://api.discogs.com/artists/19731",
+      "thumbnail_url": "https://i.discogs.com/EKLCzSBj-FM3OP9CM29QpcpTh5CBYXee5UsRvteoVNg/rs:fit/g:sm/q:90/h:432/w:537/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE5NzMx/LTEyMTc4NTg3MTcu/anBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Sade",
+  "labels": [
+    {
+      "name": "Audio Fidelity (3)",
+      "catno": "AFZLP 089",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 189853,
+      "resource_url": "https://api.discogs.com/labels/189853",
+      "thumbnail_url": "https://i.discogs.com/jnPqOvw8CN3IFrPmasMzXzxXdnOf5w5BBz_IhfrUvLs/rs:fit/g:sm/q:90/h:244/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4OTg1/My0xMjg2MDk5OTg5/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Epic",
+      "catno": "AFZLP 089",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1005,
+      "resource_url": "https://api.discogs.com/labels/1005",
+      "thumbnail_url": "https://i.discogs.com/Ta8tXFbN3YA4PweFsSHGzpZN1tOertrxyLpgf7OaWCo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDUt/MTc3OTQ5NjYzOC04/Njg3LmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Sony Music Entertainment",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 29073,
+      "resource_url": "https://api.discogs.com/labels/29073",
+      "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+    },
+    {
+      "name": "Power Plant Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 270991,
+      "resource_url": "https://api.discogs.com/labels/270991",
+      "thumbnail_url": "https://i.discogs.com/0cnZp1zsG4oOg77cb_OlMOmayoT9A-tlTWMA-h147Qs/rs:fit/g:sm/q:90/h:205/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MDk5/MS0xNDQ3ODgzMTQ3/LTMwMDguanBlZw.jpeg"
+    },
+    {
+      "name": "Sony Music Entertainment",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 29073,
+      "resource_url": "https://api.discogs.com/labels/29073",
+      "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+    },
+    {
+      "name": "Sony Music Entertainment UK Limited",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 264873,
+      "resource_url": "https://api.discogs.com/labels/264873",
+      "thumbnail_url": "https://i.discogs.com/hR-8tMwAQvIUBLzcrCCCaElyBIO-LHLHFpPLYwCbwg8/rs:fit/g:sm/q:90/h:52/w:460/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDg3/My0xNjQ5OTU5MDM3/LTQzNzMuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue",
+        "Remastered",
+        "Repress"
+      ],
+      "text": "Gatefold Sleeve"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 139,
+    "want": 963,
+    "rating": {
+      "count": 33,
+      "average": 4.94
+    },
+    "submitter": {
+      "username": ".Richard.",
+      "resource_url": "https://api.discogs.com/users/.Richard."
+    },
+    "contributors": [
+      {
+        "username": ".Richard.",
+        "resource_url": "https://api.discogs.com/users/.Richard."
+      },
+      {
+        "username": "Vipasser",
+        "resource_url": "https://api.discogs.com/users/Vipasser"
+      },
+      {
+        "username": "alan.james",
+        "resource_url": "https://api.discogs.com/users/alan.james"
+      },
+      {
+        "username": "simonmercier",
+        "resource_url": "https://api.discogs.com/users/simonmercier"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2016-07-21T18:27:08-07:00",
+  "date_changed": "2020-11-03T06:25:14-08:00",
+  "num_for_sale": 1,
+  "lowest_price": 302.5,
+  "master_id": 43936,
+  "master_url": "https://api.discogs.com/masters/43936",
+  "title": "Diamond Life",
+  "country": "US",
+  "released": "2016",
+  "notes": "This edition is not numbered unlike the 2012 pressing. Otherwise identical.",
+  "released_formatted": "2016",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "7 80014 20891 2",
+      "description": "Print"
+    },
+    {
+      "type": "Barcode",
+      "value": "780014208912",
+      "description": "Scan"
+    },
+    {
+      "type": "Rights Society",
+      "value": "MCPS/BIEM"
+    },
+    {
+      "type": "Label Code",
+      "value": "LC 0199"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=rYMfByIx4O0",
+      "title": "SADE. [ DIAMOND LIFE ] ( full album ) 1984.",
+      "description": "SADE. [ DIAMOND LIFE ] ( full album ) 1984. (Pop, Soft Jazz, Soul)\n\n01. Smooth Operator 00.00\n02. Your Love Is King 05:01\n03. Hang On To Your Love 09:01\n04. Frankie's First Affair 15:02\n05. When Am I Going To Make A Living 19:35\n06. Cherry Pie 23:04\n07. S",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=eFl32g-Ro3U",
+      "title": "Sade - Why Can't We Live Together (Audio)",
+      "description": "Sade – Why Can't We Live Together (Audio)\nListen on Spotify -http://smarturl.it/Sade_TopTracks\nListen on Apple Music -http://smarturl.it/SadeEssentials\nAmazon - http://smarturl.it/SadeUCAmz\n\nFollow Sade \nWebsite - http://www.sade.com/\nFacebook - https://w",
+      "duration": 329,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=4TYv2PhG89A",
+      "title": "Sade - Smooth Operator - Official - 1984",
+      "description": "Sade – Smooth Operator\nDirector - Julien Temple - September 1984 \nThe official YouTube channel for the British iconic band Sade www.sade.com\n\nSade (vocals) \nStuart Matthewman (saxophone / guitar) \nAndrew Hale (keyboards) \nPaul Spencer Denman (bass) \n\nSpot",
+      "duration": 258,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=O-KqMHxpirI",
+      "title": "Sade - When Am I Going To Make A Living - Official - 1984",
+      "description": "Sade – When Am I Going To Make A Living \nDirector - Stuart Orme - May 1984\nThe official YouTube channel for the British iconic band Sade \n \nwww.sade.com\n \nSade (vocals)\nStuart Matthewman (saxophone / guitar)\nAndrew Hale (keyboards)\nPaul Spencer Denman (ba",
+      "duration": 215,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Soul"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Smooth Operator",
+      "duration": "4:58"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Your Love Is King",
+      "duration": "3:40"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Hang On To Your Love",
+      "duration": "5:54"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Frankie's First Affair",
+      "duration": "4:38"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "When Am I Going To Make A Living",
+      "duration": "3:25"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Cherry Pie",
+      "duration": "6:20"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Sally",
+      "duration": "5:20"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "I Will Be Your Friend",
+      "duration": "4:43"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Why Can't We Live Together",
+      "duration": "5:27"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Paul S. Denman",
+      "anv": "",
+      "join": "",
+      "role": "Bass",
+      "tracks": "",
+      "id": 306864,
+      "resource_url": "https://api.discogs.com/artists/306864"
+    },
+    {
+      "name": "Graham Smith (5)",
+      "anv": "",
+      "join": "",
+      "role": "Design [Sleeve]",
+      "tracks": "",
+      "id": 1839143,
+      "resource_url": "https://api.discogs.com/artists/1839143"
+    },
+    {
+      "name": "Dave Early",
+      "anv": "",
+      "join": "",
+      "role": "Drums",
+      "tracks": "",
+      "id": 263064,
+      "resource_url": "https://api.discogs.com/artists/263064"
+    },
+    {
+      "name": "Paul Cooke",
+      "anv": "",
+      "join": "",
+      "role": "Drums",
+      "tracks": "",
+      "id": 263065,
+      "resource_url": "https://api.discogs.com/artists/263065"
+    },
+    {
+      "name": "Ben Rogan",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 217689,
+      "resource_url": "https://api.discogs.com/artists/217689"
+    },
+    {
+      "name": "Mike Pela",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Production]",
+      "tracks": "",
+      "id": 176429,
+      "resource_url": "https://api.discogs.com/artists/176429"
+    },
+    {
+      "name": "Andrew Hale",
+      "anv": "",
+      "join": "",
+      "role": "Keyboards",
+      "tracks": "",
+      "id": 209279,
+      "resource_url": "https://api.discogs.com/artists/209279"
+    },
+    {
+      "name": "Kevin Gray",
+      "anv": "",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 312098,
+      "resource_url": "https://api.discogs.com/artists/312098"
+    },
+    {
+      "name": "Dave Early",
+      "anv": "",
+      "join": "",
+      "role": "Percussion",
+      "tracks": "",
+      "id": 263064,
+      "resource_url": "https://api.discogs.com/artists/263064"
+    },
+    {
+      "name": "Martin Ditcham",
+      "anv": "",
+      "join": "",
+      "role": "Percussion",
+      "tracks": "",
+      "id": 252445,
+      "resource_url": "https://api.discogs.com/artists/252445"
+    },
+    {
+      "name": "Chris Roberts (10)",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 2263990,
+      "resource_url": "https://api.discogs.com/artists/2263990"
+    },
+    {
+      "name": "Robin Millar",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 83390,
+      "resource_url": "https://api.discogs.com/artists/83390"
+    },
+    {
+      "name": "Stuart Matthewman",
+      "anv": "",
+      "join": "",
+      "role": "Saxophone, Guitar",
+      "tracks": "",
+      "id": 9049,
+      "resource_url": "https://api.discogs.com/artists/9049"
+    },
+    {
+      "name": "Gordon Matthewman",
+      "anv": "",
+      "join": "",
+      "role": "Trumpet",
+      "tracks": "",
+      "id": 4637,
+      "resource_url": "https://api.discogs.com/artists/4637"
+    },
+    {
+      "name": "Terry Bailey",
+      "anv": "",
+      "join": "",
+      "role": "Trumpet",
+      "tracks": "",
+      "id": 263066,
+      "resource_url": "https://api.discogs.com/artists/263066"
+    },
+    {
+      "name": "Sade Adu",
+      "anv": "",
+      "join": "",
+      "role": "Vocals",
+      "tracks": "",
+      "id": 482893,
+      "resource_url": "https://api.discogs.com/artists/482893"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/n6TIR5Xnz9vOEeEoqBUSUSR5XxoLuE7QYPkQf2nogp0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDU4/OTUtMTYwNDQxMzQ2/Ni01ODI1LnBuZw.jpeg",
+      "resource_url": "https://i.discogs.com/n6TIR5Xnz9vOEeEoqBUSUSR5XxoLuE7QYPkQf2nogp0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDU4/OTUtMTYwNDQxMzQ2/Ni01ODI1LnBuZw.jpeg",
+      "uri150": "https://i.discogs.com/ANZ-5K2gQFHRzOXPc47jsCfUsIfhbstodCb3QJ1tGgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDU4/OTUtMTYwNDQxMzQ2/Ni01ODI1LnBuZw.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ob7_ANLS-461jJYyFjmJFonKx52DGOKf6l1Kbr-by3c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDU4/OTUtMTYwNDQxMzQ3/OS0xNDYwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/ob7_ANLS-461jJYyFjmJFonKx52DGOKf6l1Kbr-by3c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDU4/OTUtMTYwNDQxMzQ3/OS0xNDYwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/z1b1d-GSXbegewktDWRWvxkeMnl61AwtHtBOKmHo6F0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDU4/OTUtMTYwNDQxMzQ3/OS0xNDYwLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/yQbSiewiYSdcyK1B7CVmOfwTHSpv5R1-0-2qeesmGDU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDU4/OTUtMTYwNDQxMzQ2/NS0zOTAzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/yQbSiewiYSdcyK1B7CVmOfwTHSpv5R1-0-2qeesmGDU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDU4/OTUtMTYwNDQxMzQ2/NS0zOTAzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/g3KdIxLuJccHXvuo6E7HzIIwXxZOcFVBKcXIOWJ_k_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDU4/OTUtMTYwNDQxMzQ2/NS0zOTAzLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/mIGF2FzwyEa1921LwS8tStUEWXkXfY3JDIAV_D-x3UY/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDU4/OTUtMTYwNDQxMzQ3/Ny05NDE4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/mIGF2FzwyEa1921LwS8tStUEWXkXfY3JDIAV_D-x3UY/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDU4/OTUtMTYwNDQxMzQ3/Ny05NDE4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/k5P8hpCls5T1OYALV8Dqem9nZVhtuPKz4YaSaG5iHJQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDU4/OTUtMTYwNDQxMzQ3/Ny05NDE4LmpwZWc.jpeg",
+      "width": 600,
+      "height": 300
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/zoQrjgMrSOrrNu1Z5VaEmG9TANPY62B1njLa9UX5kHA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDU4/OTUtMTYwNDQxMzQ3/NC0xODQ4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/zoQrjgMrSOrrNu1Z5VaEmG9TANPY62B1njLa9UX5kHA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDU4/OTUtMTYwNDQxMzQ3/NC0xODQ4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/_0ri45EQtx5TPzGE93YBSKfLtk9Go4c3UNH52rrNNAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDU4/OTUtMTYwNDQxMzQ3/NC0xODQ4LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/pxjFW8kNGEvvrTDRmMbtBdxlVs-A0GNenWAGLmiStcs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDU4/OTUtMTYwNDQxMzQ3/NC04MzM4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/pxjFW8kNGEvvrTDRmMbtBdxlVs-A0GNenWAGLmiStcs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDU4/OTUtMTYwNDQxMzQ3/NC04MzM4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/ynJoFYK5G6NUHYm-esM_3dDBi9G7HvZfPs383dl1cQU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDU4/OTUtMTYwNDQxMzQ3/NC04MzM4LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/ANZ-5K2gQFHRzOXPc47jsCfUsIfhbstodCb3QJ1tGgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg4MDU4/OTUtMTYwNDQxMzQ2/Ni01ODI1LnBuZw.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

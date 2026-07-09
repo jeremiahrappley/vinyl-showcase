@@ -1,0 +1,1355 @@
+{
+  "id": 22114357,
+  "status": "Accepted",
+  "year": 2022,
+  "resource_url": "https://api.discogs.com/releases/22114357",
+  "uri": "https://www.discogs.com/release/22114357-Bruno-Mars-XXIVK-Magic",
+  "artists": [
+    {
+      "name": "Bruno Mars",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 1357693,
+      "resource_url": "https://api.discogs.com/artists/1357693",
+      "thumbnail_url": "https://i.discogs.com/Nl5XXLZSPbuk0wXAIjSjRRip1dOt3ogvp15YOhy3nHM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzNTc2/OTMtMTc3MjY3NDQz/OC0zMTUwLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Bruno Mars",
+  "labels": [
+    {
+      "name": "Atlantic",
+      "catno": "558305-1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 681,
+      "resource_url": "https://api.discogs.com/labels/681",
+      "thumbnail_url": "https://i.discogs.com/PvGehzQPvOW9qMVS-EDAeOmU6qODkqTEQ5bW03gpVyo/rs:fit/g:sm/q:90/h:426/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY4MS0x/NTEwNjgyMTM0LTgz/NTAucG5n.jpeg"
+    },
+    {
+      "name": "Atlantic",
+      "catno": "0075678662720",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 681,
+      "resource_url": "https://api.discogs.com/labels/681",
+      "thumbnail_url": "https://i.discogs.com/PvGehzQPvOW9qMVS-EDAeOmU6qODkqTEQ5bW03gpVyo/rs:fit/g:sm/q:90/h:426/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY4MS0x/NTEwNjgyMTM0LTgz/NTAucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Atlantic Recording Corporation",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 23937,
+      "resource_url": "https://api.discogs.com/labels/23937",
+      "thumbnail_url": "https://i.discogs.com/jZjSYAVRpExbW53RcsYGsNM2qn9G7zXCv1S5e7iLyzQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzOTM3/LTE3ODE1MDQxMDAt/ODMxNC5qcGVn.jpeg"
+    },
+    {
+      "name": "Atlantic Recording Corporation",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 23937,
+      "resource_url": "https://api.discogs.com/labels/23937",
+      "thumbnail_url": "https://i.discogs.com/jZjSYAVRpExbW53RcsYGsNM2qn9G7zXCv1S5e7iLyzQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzOTM3/LTE3ODE1MDQxMDAt/ODMxNC5qcGVn.jpeg"
+    },
+    {
+      "name": "Optimal Media GmbH",
+      "catno": "BG56011",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 313190,
+      "resource_url": "https://api.discogs.com/labels/313190",
+      "thumbnail_url": "https://i.discogs.com/VHruzHmKvGgDvoWX6iI_4n5eC7mKyVei1mNz573rJtk/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxMzE5/MC0xNTE2MzgxNjk2/LTIzMTgucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Reissue"
+      ],
+      "text": "Gold Disc / Gatefold Sleeve"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 8828,
+    "want": 1160,
+    "rating": {
+      "count": 641,
+      "average": 4.61
+    },
+    "submitter": {
+      "username": "kadeybabes",
+      "resource_url": "https://api.discogs.com/users/kadeybabes"
+    },
+    "contributors": [
+      {
+        "username": "kadeybabes",
+        "resource_url": "https://api.discogs.com/users/kadeybabes"
+      },
+      {
+        "username": "richardcuyar",
+        "resource_url": "https://api.discogs.com/users/richardcuyar"
+      },
+      {
+        "username": "kcrockett25",
+        "resource_url": "https://api.discogs.com/users/kcrockett25"
+      },
+      {
+        "username": "willy.poncet",
+        "resource_url": "https://api.discogs.com/users/willy.poncet"
+      },
+      {
+        "username": "leonardoaraujo",
+        "resource_url": "https://api.discogs.com/users/leonardoaraujo"
+      },
+      {
+        "username": "vinylwarp",
+        "resource_url": "https://api.discogs.com/users/vinylwarp"
+      },
+      {
+        "username": "leinad",
+        "resource_url": "https://api.discogs.com/users/leinad"
+      },
+      {
+        "username": "Emil25",
+        "resource_url": "https://api.discogs.com/users/Emil25"
+      },
+      {
+        "username": "Spinning_Discs",
+        "resource_url": "https://api.discogs.com/users/Spinning_Discs"
+      },
+      {
+        "username": "pdietrich3",
+        "resource_url": "https://api.discogs.com/users/pdietrich3"
+      },
+      {
+        "username": "Frans_Jansen",
+        "resource_url": "https://api.discogs.com/users/Frans_Jansen"
+      },
+      {
+        "username": "GentleSenator",
+        "resource_url": "https://api.discogs.com/users/GentleSenator"
+      },
+      {
+        "username": "Silver-Tentacle",
+        "resource_url": "https://api.discogs.com/users/Silver-Tentacle"
+      },
+      {
+        "username": "DJCOOLFX",
+        "resource_url": "https://api.discogs.com/users/DJCOOLFX"
+      },
+      {
+        "username": "somebetterplace",
+        "resource_url": "https://api.discogs.com/users/somebetterplace"
+      },
+      {
+        "username": "kickiiii",
+        "resource_url": "https://api.discogs.com/users/kickiiii"
+      },
+      {
+        "username": "fishbulb",
+        "resource_url": "https://api.discogs.com/users/fishbulb"
+      },
+      {
+        "username": "Xylenefree",
+        "resource_url": "https://api.discogs.com/users/Xylenefree"
+      },
+      {
+        "username": "vinylmaddy",
+        "resource_url": "https://api.discogs.com/users/vinylmaddy"
+      },
+      {
+        "username": "JahBDread",
+        "resource_url": "https://api.discogs.com/users/JahBDread"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2022-02-11T05:09:58-08:00",
+  "date_changed": "2026-02-18T07:01:03-08:00",
+  "num_for_sale": 31,
+  "lowest_price": 18,
+  "master_id": 1092070,
+  "master_url": "https://api.discogs.com/masters/1092070",
+  "title": "XXIVK Magic",
+  "country": "USA & Europe",
+  "released": "2022",
+  "notes": "Exclusive to [l818363] in the US.\n\nIncludes digital album download. Comes with a credits sheet\n\nMade in Germany\n\n\"Straight Up & Down\" contains an interpolation of \"Baby I'm Yours\" (C. Martin/M. Gay).",
+  "released_formatted": "2022",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "075678662720",
+      "description": "Scanned"
+    },
+    {
+      "type": "Barcode",
+      "value": "0 75678 66272 0",
+      "description": "Printed"
+    },
+    {
+      "type": "Barcode",
+      "value": "0075678641343",
+      "description": "Sticker"
+    },
+    {
+      "type": "Barcode",
+      "value": "075678641251",
+      "description": "Scanned, sticker (EU)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BG56011-01 A1 KR",
+      "description": "Side A runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BG56011-01 B2 KR",
+      "description": "Side B runout"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=s9sdBavvQtA",
+      "title": "Bruno Mars - 24K Magic CD Unboxing",
+      "description": "In this video I show you the 24K Magic CD by Bruno Mars.\nI unbox the product completely for you and show you every content in detail.\n► You can get the album here:\nCD: https://amzn.to/3OH3KZ7\nVinyl: https://amzn.to/4tx14xr\nDigital: https://amzn.to/4rtjQ7a",
+      "duration": 135,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=UqyT8IEBkvY",
+      "title": "Bruno Mars - 24K Magic (Official Music Video)",
+      "description": "The official music video for Bruno Mars' \"24K Magic\" from the album '24K Magic'. \n\n🔔 Subscribe for the latest official music videos, live performances, lyric videos, official audio, and more ➤ https://Atlantic.lnk.to/BMsubscribe\n\nWatch All Of Bruno Mars’ ",
+      "duration": 227,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=LsoLEjrDogU",
+      "title": "Bruno Mars - Finesse (Remix) (feat. Cardi B) (Official Music Video)",
+      "description": "The official music video for Bruno Mars' \"Finesse (Remix)\" featuring Cardi B.\n\nDirected by Bruno Mars\nCo-Directed by Florent Dechard\nChoreography: Phil Tayag and Bruno Mars \nCreative Consultant: Phil Tayag\n\n🔔 Subscribe for the latest official music videos",
+      "duration": 223,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=PMivT7MJ41M",
+      "title": "Bruno Mars - That’s What I Like [Official Music Video]",
+      "description": "The official music video for Bruno Mars' \"That’s What I Like\" from the album ‘24K Magic’.\nStream/Download: https://atlantic.lnk.to/ThatsWhatILike\n\nDirected by Bruno Mars and Jonathan Lia\n\n🔔 Subscribe for the latest official music videos, live performances",
+      "duration": 211,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Hip Hop",
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Contemporary R&B",
+    "Funk",
+    "Synth-pop",
+    "Soul",
+    "New Jack Swing"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "24K Magic",
+      "extraartists": [
+        {
+          "name": "James Fauntleroy II",
+          "anv": "James Fauntleroy",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 737282,
+          "resource_url": "https://api.discogs.com/artists/737282"
+        },
+        {
+          "name": "Charles Moniz",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 899345,
+          "resource_url": "https://api.discogs.com/artists/899345"
+        },
+        {
+          "name": "Dave Foreman (2)",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 843888,
+          "resource_url": "https://api.discogs.com/artists/843888"
+        },
+        {
+          "name": "Shampoo Press & Curl",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5322242,
+          "resource_url": "https://api.discogs.com/artists/5322242"
+        },
+        {
+          "name": "Stereotypes",
+          "anv": "The Stereotypes",
+          "join": "",
+          "role": "Producer [Additional Production]",
+          "tracks": "",
+          "id": 1082078,
+          "resource_url": "https://api.discogs.com/artists/1082078"
+        },
+        {
+          "name": "Byron \"MR. TALKBOX\" Chambers",
+          "anv": "",
+          "join": "",
+          "role": "Talkbox",
+          "tracks": "",
+          "id": 1351483,
+          "resource_url": "https://api.discogs.com/artists/1351483"
+        },
+        {
+          "name": "Brody Brown",
+          "anv": "Christopher Brody Brown",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 1812704,
+          "resource_url": "https://api.discogs.com/artists/1812704"
+        },
+        {
+          "name": "Phillip Lawrence",
+          "anv": "Philip Lawrence",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 417140,
+          "resource_url": "https://api.discogs.com/artists/417140"
+        },
+        {
+          "name": "Bruno Mars",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Backing Vocals, Talkbox",
+          "tracks": "",
+          "id": 1357693,
+          "resource_url": "https://api.discogs.com/artists/1357693"
+        }
+      ],
+      "duration": "3:46"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Chunky",
+      "extraartists": [
+        {
+          "name": "Lisenny",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 5546729,
+          "resource_url": "https://api.discogs.com/artists/5546729"
+        },
+        {
+          "name": "Stereotypes",
+          "anv": "The Stereotypes",
+          "join": "",
+          "role": "Drum Programming [Additional]",
+          "tracks": "",
+          "id": 1082078,
+          "resource_url": "https://api.discogs.com/artists/1082078"
+        },
+        {
+          "name": "Charles Moniz",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 899345,
+          "resource_url": "https://api.discogs.com/artists/899345"
+        },
+        {
+          "name": "Shampoo Press & Curl",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5322242,
+          "resource_url": "https://api.discogs.com/artists/5322242"
+        },
+        {
+          "name": "Brody Brown",
+          "anv": "Christopher Brody Brown",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1812704,
+          "resource_url": "https://api.discogs.com/artists/1812704"
+        },
+        {
+          "name": "Bruno Mars",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 1357693,
+          "resource_url": "https://api.discogs.com/artists/1357693"
+        },
+        {
+          "name": "James Fauntleroy II",
+          "anv": "James Fauntleroy",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 737282,
+          "resource_url": "https://api.discogs.com/artists/737282"
+        },
+        {
+          "name": "Phillip Lawrence",
+          "anv": "Philip Lawrence",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 417140,
+          "resource_url": "https://api.discogs.com/artists/417140"
+        }
+      ],
+      "duration": "3:06"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Perm",
+      "extraartists": [
+        {
+          "name": "Charles Moniz",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 899345,
+          "resource_url": "https://api.discogs.com/artists/899345"
+        },
+        {
+          "name": "Dwayne Dugger",
+          "anv": "",
+          "join": "",
+          "role": "Horns",
+          "tracks": "",
+          "id": 1121292,
+          "resource_url": "https://api.discogs.com/artists/1121292"
+        },
+        {
+          "name": "Jimmy King (9)",
+          "anv": "",
+          "join": "",
+          "role": "Horns",
+          "tracks": "",
+          "id": 4191785,
+          "resource_url": "https://api.discogs.com/artists/4191785"
+        },
+        {
+          "name": "Kameron Whalum",
+          "anv": "",
+          "join": "",
+          "role": "Horns",
+          "tracks": "",
+          "id": 4191791,
+          "resource_url": "https://api.discogs.com/artists/4191791"
+        },
+        {
+          "name": "Ken Lewis",
+          "anv": "",
+          "join": "",
+          "role": "Horns [Additional], Recorded By [Additional Horns]",
+          "tracks": "",
+          "id": 51803,
+          "resource_url": "https://api.discogs.com/artists/51803"
+        },
+        {
+          "name": "Shampoo Press & Curl",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5322242,
+          "resource_url": "https://api.discogs.com/artists/5322242"
+        },
+        {
+          "name": "Trevor Lawrence Jr.",
+          "anv": "Trevor Lawrence, Jr.",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 210336,
+          "resource_url": "https://api.discogs.com/artists/210336"
+        },
+        {
+          "name": "Brody Brown",
+          "anv": "Christopher Brody Brown",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 1812704,
+          "resource_url": "https://api.discogs.com/artists/1812704"
+        },
+        {
+          "name": "Bruno Mars",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 1357693,
+          "resource_url": "https://api.discogs.com/artists/1357693"
+        },
+        {
+          "name": "James Fauntleroy II",
+          "anv": "James Fauntleroy",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 737282,
+          "resource_url": "https://api.discogs.com/artists/737282"
+        },
+        {
+          "name": "Phillip Lawrence",
+          "anv": "Philip Lawrence",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 417140,
+          "resource_url": "https://api.discogs.com/artists/417140"
+        },
+        {
+          "name": "Homer Steinweiss",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Drums",
+          "tracks": "",
+          "id": 307876,
+          "resource_url": "https://api.discogs.com/artists/307876"
+        }
+      ],
+      "duration": "3:30"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "That's What I Like",
+      "extraartists": [
+        {
+          "name": "Stereotypes",
+          "anv": "The Stereotypes",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 1082078,
+          "resource_url": "https://api.discogs.com/artists/1082078"
+        },
+        {
+          "name": "Eric Hernandez",
+          "anv": "Eric \"E-Panda\" Hernandez",
+          "join": "",
+          "role": "Drums [Live Drums]",
+          "tracks": "",
+          "id": 1107859,
+          "resource_url": "https://api.discogs.com/artists/1107859"
+        },
+        {
+          "name": "Charles Moniz",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 899345,
+          "resource_url": "https://api.discogs.com/artists/899345"
+        },
+        {
+          "name": "Shampoo Press & Curl",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5322242,
+          "resource_url": "https://api.discogs.com/artists/5322242"
+        },
+        {
+          "name": "Brody Brown",
+          "anv": "Christopher Brody Brown",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1812704,
+          "resource_url": "https://api.discogs.com/artists/1812704"
+        },
+        {
+          "name": "Jeremy Reeves",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1308966,
+          "resource_url": "https://api.discogs.com/artists/1308966"
+        },
+        {
+          "name": "Jonathan Yip",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5277241,
+          "resource_url": "https://api.discogs.com/artists/5277241"
+        },
+        {
+          "name": "Ray Charles McCullough II",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2208769,
+          "resource_url": "https://api.discogs.com/artists/2208769"
+        },
+        {
+          "name": "Ray Romulus",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1762376,
+          "resource_url": "https://api.discogs.com/artists/1762376"
+        },
+        {
+          "name": "Bruno Mars",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 1357693,
+          "resource_url": "https://api.discogs.com/artists/1357693"
+        },
+        {
+          "name": "James Fauntleroy II",
+          "anv": "James Fauntleroy",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 737282,
+          "resource_url": "https://api.discogs.com/artists/737282"
+        },
+        {
+          "name": "Phillip Lawrence",
+          "anv": "Philip Lawrence",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 417140,
+          "resource_url": "https://api.discogs.com/artists/417140"
+        }
+      ],
+      "duration": "3:26"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Versace On The Floor",
+      "extraartists": [
+        {
+          "name": "Charles Moniz",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 899345,
+          "resource_url": "https://api.discogs.com/artists/899345"
+        },
+        {
+          "name": "Greg Phillinganes",
+          "anv": "",
+          "join": "",
+          "role": "Keyboards, Soloist",
+          "tracks": "",
+          "id": 108475,
+          "resource_url": "https://api.discogs.com/artists/108475"
+        },
+        {
+          "name": "Shampoo Press & Curl",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5322242,
+          "resource_url": "https://api.discogs.com/artists/5322242"
+        },
+        {
+          "name": "Brody Brown",
+          "anv": "Christopher Brody Brown",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1812704,
+          "resource_url": "https://api.discogs.com/artists/1812704"
+        },
+        {
+          "name": "Bruno Mars",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 1357693,
+          "resource_url": "https://api.discogs.com/artists/1357693"
+        },
+        {
+          "name": "James Fauntleroy II",
+          "anv": "James Fauntleroy",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 737282,
+          "resource_url": "https://api.discogs.com/artists/737282"
+        },
+        {
+          "name": "Phillip Lawrence",
+          "anv": "Philip Lawrence",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 417140,
+          "resource_url": "https://api.discogs.com/artists/417140"
+        }
+      ],
+      "duration": "4:21"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Straight Up & Down",
+      "extraartists": [
+        {
+          "name": "Charles Moniz",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 899345,
+          "resource_url": "https://api.discogs.com/artists/899345"
+        },
+        {
+          "name": "Danny Zook",
+          "anv": "",
+          "join": "",
+          "role": "Management [Sample Clearance]",
+          "tracks": "",
+          "id": 1928419,
+          "resource_url": "https://api.discogs.com/artists/1928419"
+        },
+        {
+          "name": "Ron Cabiltes",
+          "anv": "",
+          "join": "",
+          "role": "Management [Sample Clearance]",
+          "tracks": "",
+          "id": 4706178,
+          "resource_url": "https://api.discogs.com/artists/4706178"
+        },
+        {
+          "name": "Emile Haynie",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1135338,
+          "resource_url": "https://api.discogs.com/artists/1135338"
+        },
+        {
+          "name": "Shampoo Press & Curl",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5322242,
+          "resource_url": "https://api.discogs.com/artists/5322242"
+        },
+        {
+          "name": "Brody Brown",
+          "anv": "Christopher Brody Brown",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1812704,
+          "resource_url": "https://api.discogs.com/artists/1812704"
+        },
+        {
+          "name": "Carl \"Groove\" Martin",
+          "anv": "Carl Martin",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 304356,
+          "resource_url": "https://api.discogs.com/artists/304356"
+        },
+        {
+          "name": "Faheem Najm",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 777807,
+          "resource_url": "https://api.discogs.com/artists/777807"
+        },
+        {
+          "name": "Marc Gay",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 221422,
+          "resource_url": "https://api.discogs.com/artists/221422"
+        },
+        {
+          "name": "Bruno Mars",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 1357693,
+          "resource_url": "https://api.discogs.com/artists/1357693"
+        },
+        {
+          "name": "James Fauntleroy II",
+          "anv": "James Fauntleroy",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 737282,
+          "resource_url": "https://api.discogs.com/artists/737282"
+        },
+        {
+          "name": "Phillip Lawrence",
+          "anv": "Philip Lawrence",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 417140,
+          "resource_url": "https://api.discogs.com/artists/417140"
+        }
+      ],
+      "duration": "3:18"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Calling All My Lovelies",
+      "extraartists": [
+        {
+          "name": "Charles Moniz",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 899345,
+          "resource_url": "https://api.discogs.com/artists/899345"
+        },
+        {
+          "name": "Shampoo Press & Curl",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5322242,
+          "resource_url": "https://api.discogs.com/artists/5322242"
+        },
+        {
+          "name": "Brody Brown",
+          "anv": "Christopher Brody Brown",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1812704,
+          "resource_url": "https://api.discogs.com/artists/1812704"
+        },
+        {
+          "name": "Bruno Mars",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 1357693,
+          "resource_url": "https://api.discogs.com/artists/1357693"
+        },
+        {
+          "name": "James Fauntleroy II",
+          "anv": "James Fauntleroy",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 737282,
+          "resource_url": "https://api.discogs.com/artists/737282"
+        },
+        {
+          "name": "Phillip Lawrence",
+          "anv": "Philip Lawrence",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 417140,
+          "resource_url": "https://api.discogs.com/artists/417140"
+        },
+        {
+          "name": "Emile Haynie",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 1135338,
+          "resource_url": "https://api.discogs.com/artists/1135338"
+        },
+        {
+          "name": "Jeff Bhasker",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer",
+          "tracks": "",
+          "id": 256804,
+          "resource_url": "https://api.discogs.com/artists/256804"
+        }
+      ],
+      "duration": "4:10"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Finesse",
+      "extraartists": [
+        {
+          "name": "Charles Moniz",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 899345,
+          "resource_url": "https://api.discogs.com/artists/899345"
+        },
+        {
+          "name": "Shampoo Press & Curl",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5322242,
+          "resource_url": "https://api.discogs.com/artists/5322242"
+        },
+        {
+          "name": "Stereotypes",
+          "anv": "The Stereotypes",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1082078,
+          "resource_url": "https://api.discogs.com/artists/1082078"
+        },
+        {
+          "name": "Brody Brown",
+          "anv": "Christopher Brody Brown",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1812704,
+          "resource_url": "https://api.discogs.com/artists/1812704"
+        },
+        {
+          "name": "Jeremy Reeves",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1308966,
+          "resource_url": "https://api.discogs.com/artists/1308966"
+        },
+        {
+          "name": "Jonathan Yip",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5277241,
+          "resource_url": "https://api.discogs.com/artists/5277241"
+        },
+        {
+          "name": "Ray Charles McCullough II",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2208769,
+          "resource_url": "https://api.discogs.com/artists/2208769"
+        },
+        {
+          "name": "Ray Romulus",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1762376,
+          "resource_url": "https://api.discogs.com/artists/1762376"
+        },
+        {
+          "name": "Bruno Mars",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 1357693,
+          "resource_url": "https://api.discogs.com/artists/1357693"
+        },
+        {
+          "name": "James Fauntleroy II",
+          "anv": "James Fauntleroy",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 737282,
+          "resource_url": "https://api.discogs.com/artists/737282"
+        },
+        {
+          "name": "Phillip Lawrence",
+          "anv": "Philip Lawrence",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 417140,
+          "resource_url": "https://api.discogs.com/artists/417140"
+        }
+      ],
+      "duration": "3:10"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Too Good To Say Goodbye",
+      "extraartists": [
+        {
+          "name": "James Fauntleroy II",
+          "anv": "James Fauntleroy",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 737282,
+          "resource_url": "https://api.discogs.com/artists/737282"
+        },
+        {
+          "name": "Charles Moniz",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 899345,
+          "resource_url": "https://api.discogs.com/artists/899345"
+        },
+        {
+          "name": "Shampoo Press & Curl",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5322242,
+          "resource_url": "https://api.discogs.com/artists/5322242"
+        },
+        {
+          "name": "Brody Brown",
+          "anv": "Christopher Brody Brown",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1812704,
+          "resource_url": "https://api.discogs.com/artists/1812704"
+        },
+        {
+          "name": "Jeff Bhasker",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 256804,
+          "resource_url": "https://api.discogs.com/artists/256804"
+        },
+        {
+          "name": "Bruno Mars",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 1357693,
+          "resource_url": "https://api.discogs.com/artists/1357693"
+        },
+        {
+          "name": "Kenneth Edmonds",
+          "anv": "Kenneth Babyface Edmonds",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 664506,
+          "resource_url": "https://api.discogs.com/artists/664506"
+        },
+        {
+          "name": "Phillip Lawrence",
+          "anv": "Philip Lawrence",
+          "join": "",
+          "role": "Written-By, Backing Vocals",
+          "tracks": "",
+          "id": 417140,
+          "resource_url": "https://api.discogs.com/artists/417140"
+        }
+      ],
+      "duration": "4:41"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Craig Rosen (2)",
+      "anv": "",
+      "join": "",
+      "role": "A&R, Administrator",
+      "tracks": "",
+      "id": 2162057,
+      "resource_url": "https://api.discogs.com/artists/2162057"
+    },
+    {
+      "name": "Bruno Mars",
+      "anv": "",
+      "join": "",
+      "role": "Artwork [Album Art]",
+      "tracks": "",
+      "id": 1357693,
+      "resource_url": "https://api.discogs.com/artists/1357693"
+    },
+    {
+      "name": "Greg Gigendad Burke",
+      "anv": "Greg Gigen's Dad Burke",
+      "join": "",
+      "role": "Artwork [Album Art]",
+      "tracks": "",
+      "id": 2716264,
+      "resource_url": "https://api.discogs.com/artists/2716264"
+    },
+    {
+      "name": "John Hanes",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [For Mix]",
+      "tracks": "",
+      "id": 210636,
+      "resource_url": "https://api.discogs.com/artists/210636"
+    },
+    {
+      "name": "Shampoo Press & Curl",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 5322242,
+      "resource_url": "https://api.discogs.com/artists/5322242"
+    },
+    {
+      "name": "Martin Krafft (2)",
+      "anv": "KR",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 13719835,
+      "resource_url": "https://api.discogs.com/artists/13719835"
+    },
+    {
+      "name": "Evan Freifeld",
+      "anv": "",
+      "join": "",
+      "role": "Legal",
+      "tracks": "",
+      "id": 2219261,
+      "resource_url": "https://api.discogs.com/artists/2219261"
+    },
+    {
+      "name": "Scott Felcher",
+      "anv": "",
+      "join": "",
+      "role": "Legal",
+      "tracks": "",
+      "id": 2219262,
+      "resource_url": "https://api.discogs.com/artists/2219262"
+    },
+    {
+      "name": "Erica Bellarosa",
+      "anv": "",
+      "join": "",
+      "role": "Management [Business Affairs for Atlantic]",
+      "tracks": "",
+      "id": 3060860,
+      "resource_url": "https://api.discogs.com/artists/3060860"
+    },
+    {
+      "name": "Shmuel Dolla $ign",
+      "anv": "",
+      "join": "",
+      "role": "Management [Manager and Jeweler]",
+      "tracks": "",
+      "id": 5546728,
+      "resource_url": "https://api.discogs.com/artists/5546728"
+    },
+    {
+      "name": "Tom Coyne",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 272899,
+      "resource_url": "https://api.discogs.com/artists/272899"
+    },
+    {
+      "name": "Serban Ghenea",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "",
+      "id": 105435,
+      "resource_url": "https://api.discogs.com/artists/105435"
+    },
+    {
+      "name": "Kai Z. Feng",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 5546727,
+      "resource_url": "https://api.discogs.com/artists/5546727"
+    },
+    {
+      "name": "Charles Moniz",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "",
+      "id": 899345,
+      "resource_url": "https://api.discogs.com/artists/899345"
+    },
+    {
+      "name": "Jacob Dennis",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By [Assistant]",
+      "tracks": "",
+      "id": 2544920,
+      "resource_url": "https://api.discogs.com/artists/2544920"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/tH9KADD-lR7erUxpmlObC4sZdXUMBhfjIxf2Euk05WM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NTY1Mjk3/MzUtMjQ2Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/tH9KADD-lR7erUxpmlObC4sZdXUMBhfjIxf2Euk05WM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NTY1Mjk3/MzUtMjQ2Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/7ZW1-txmI8vuH8y-M-jI7yp7qEQUt_By1fYav9NcVcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NTY1Mjk3/MzUtMjQ2Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 597
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/XS1DynWLVwXquA-797Wbx00-jzAgRceBCbn3-DL06N8/rs:fit/g:sm/q:90/h:286/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ4Njgx/NDUtNDE1OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/XS1DynWLVwXquA-797Wbx00-jzAgRceBCbn3-DL06N8/rs:fit/g:sm/q:90/h:286/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ4Njgx/NDUtNDE1OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/D7eV7eRWCoF_6w9d6NdQR3m8yENkbb8bjs65fmCg4wM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ4Njgx/NDUtNDE1OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 286
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/tgp06ig4TPI-zBbuuTK5WAjRJd2sFXj7XsILoFVVUOY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ4Njgx/NDMtNzQyMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/tgp06ig4TPI-zBbuuTK5WAjRJd2sFXj7XsILoFVVUOY/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ4Njgx/NDMtNzQyMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/U5ZSZA95Ab2Xl2ArEjcqgldq8Px9POZjY-QcG-UcrAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ4Njgx/NDMtNzQyMy5qcGVn.jpeg",
+      "width": 600,
+      "height": 592
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/PRmM3c-mdRY9qla4qRIpSPpn4b2BpIDTrAPLBrHtfYM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ4Njgx/NDMtMjU3Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/PRmM3c-mdRY9qla4qRIpSPpn4b2BpIDTrAPLBrHtfYM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ4Njgx/NDMtMjU3Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/86IlyFhTNTRXMTuQKxTd4-PgguLmQG5wPEXlzXAlEF4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ4Njgx/NDMtMjU3Ny5qcGVn.jpeg",
+      "width": 599,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/nUnErEjs6-KhpbNdqNsCO_VVCgOoIjJ77KId7lcgp-M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ4Njgx/NDYtMzA3Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/nUnErEjs6-KhpbNdqNsCO_VVCgOoIjJ77KId7lcgp-M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ4Njgx/NDYtMzA3Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/EDL6GBMssW2X0-hEVf_5fVzXwZJfImG4HOCQdY7WIa4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ4Njgx/NDYtMzA3Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/8mP6mM092Agtx1GSaozimAHaaX1KkCAbsG3NuldEyi4/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ4Njgx/NDEtMTYxNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/8mP6mM092Agtx1GSaozimAHaaX1KkCAbsG3NuldEyi4/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ4Njgx/NDEtMTYxNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Kt4_9BNXMcg5mYbDKezbWxmXPaFcHxx87dT1yuHOIBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ4Njgx/NDEtMTYxNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 592
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/aIY9I0fX6oJvORnuDxpk3OhfGtjYOFTijeg0XUC5HvA/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ4Njgx/NDYtMTAwMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/aIY9I0fX6oJvORnuDxpk3OhfGtjYOFTijeg0XUC5HvA/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ4Njgx/NDYtMTAwMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/8cvP9BR6_fd4f3MWkTYVqm9jOQOZBioRFwbb_EPBE64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ4Njgx/NDYtMTAwMC5qcGVn.jpeg",
+      "width": 598,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/cVe_1mgiuiom8PWbB1L7DbCq1bUIu0w8CTL3WJtZ1Mo/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ4Njgx/NDItOTc4NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/cVe_1mgiuiom8PWbB1L7DbCq1bUIu0w8CTL3WJtZ1Mo/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ4Njgx/NDItOTc4NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/QWXswY_4UeE8itlldMCgifP7sJefnqDTRqNK2hT2-nw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ4Njgx/NDItOTc4NC5qcGVn.jpeg",
+      "width": 593,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/5_XWAiN4jtysaQyd0ZA9OS2bMG9OlnJ19oezenDw89w/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ4Njgx/NDUtNTY4NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/5_XWAiN4jtysaQyd0ZA9OS2bMG9OlnJ19oezenDw89w/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ4Njgx/NDUtNTY4NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/H3VVHpayyMyKd1ut8aUBKE0zXu1_WtxoVG3uUm2kJsU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ4Njgx/NDUtNTY4NC5qcGVn.jpeg",
+      "width": 595,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/2SE2R3JwoaK7T6i3pOVpGtemXqjdQZgQs3dVD0mnHyU/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ2ODky/MzUtMTU0Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/2SE2R3JwoaK7T6i3pOVpGtemXqjdQZgQs3dVD0mnHyU/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ2ODky/MzUtMTU0Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/zC4Ta4NcmYxSFiGKXmT9k5w79hQarxp7D71z5c8PqZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ2ODky/MzUtMTU0Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 450
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/eCAQOy2R2ekpSuIy8tBLuwpelMqwLpNatul2kWa8Za0/rs:fit/g:sm/q:90/h:600/w:398/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ4Njgx/NDItOTAxMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/eCAQOy2R2ekpSuIy8tBLuwpelMqwLpNatul2kWa8Za0/rs:fit/g:sm/q:90/h:600/w:398/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ4Njgx/NDItOTAxMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/yUFTbarDHfbLB-H868ek409-vhnEiFM065dQHBxV8Js/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NDQ4Njgx/NDItOTAxMy5qcGVn.jpeg",
+      "width": 398,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/7ZW1-txmI8vuH8y-M-jI7yp7qEQUt_By1fYav9NcVcI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyMTE0/MzU3LTE2NTY1Mjk3/MzUtMjQ2Ni5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

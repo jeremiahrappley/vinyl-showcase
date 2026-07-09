@@ -1,0 +1,236 @@
+{
+  "id": 31837889,
+  "status": "Accepted",
+  "year": 2024,
+  "resource_url": "https://api.discogs.com/releases/31837889",
+  "uri": "https://www.discogs.com/release/31837889-Alina-Baraz-It-Was-Divine",
+  "artists": [
+    {
+      "name": "Alina Baraz",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 3786675,
+      "resource_url": "https://api.discogs.com/artists/3786675",
+      "thumbnail_url": "https://i.discogs.com/cRp230N3lJm_aF_rjh37V3sGwqy0EYZGazqJGjQ9tyI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM3ODY2/NzUtMTYzMjUxNDUw/Ni02NTkwLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Alina Baraz",
+  "labels": [
+    {
+      "name": "Mom + Pop",
+      "catno": "708857046713",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 194365,
+      "resource_url": "https://api.discogs.com/labels/194365",
+      "thumbnail_url": "https://i.discogs.com/MnnbHjLKHfKTTvpasuaNHR32_VbC6-EnGRW_mR7sO7U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5NDM2/NS0xNDk3NTIwNzk2/LTk4NjguanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 96,
+    "want": 21,
+    "rating": {
+      "count": 14,
+      "average": 4.71
+    },
+    "submitter": {
+      "username": "on.iT_records",
+      "resource_url": "https://api.discogs.com/users/on.iT_records"
+    },
+    "contributors": [
+      {
+        "username": "on.iT_records",
+        "resource_url": "https://api.discogs.com/users/on.iT_records"
+      },
+      {
+        "username": "midnightcaller",
+        "resource_url": "https://api.discogs.com/users/midnightcaller"
+      },
+      {
+        "username": "radiofuturamusic",
+        "resource_url": "https://api.discogs.com/users/radiofuturamusic"
+      },
+      {
+        "username": "the_silent_man",
+        "resource_url": "https://api.discogs.com/users/the_silent_man"
+      },
+      {
+        "username": "makovich",
+        "resource_url": "https://api.discogs.com/users/makovich"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2024-09-26T15:45:27-07:00",
+  "date_changed": "2026-05-11T10:11:08-07:00",
+  "num_for_sale": 14,
+  "lowest_price": 33.02,
+  "master_id": 1744838,
+  "master_url": "https://api.discogs.com/masters/1744838",
+  "title": "It Was Divine",
+  "country": "Worldwide",
+  "released": "2024-09-20",
+  "notes": "The spine on this release is Black, the spine on [r=15371938] is Blue (matching the cover).  ",
+  "released_formatted": "20 Sep 2024",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "708857046713",
+      "description": "stickered"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=9WWFKT8NoqU",
+      "title": "Alina Baraz - IT WAS DIVINE (Full album)",
+      "description": "💗Follow Alina Baraz\nSoundcloud : https://soundcloud.com/alinabaraz/tracks\nInstagram : https://www.instagram.com/alinabaraz/\nTwitter : https://twitter.com/AlinaBaraz\nFacebook : https://www.facebook.com/alinabaraz\n\n📷Image link : https://instagram.com/",
+      "duration": 2741,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Contemporary R&B"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "My Whole Life",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Morocco",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Frank",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Endlessly",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Gimme The Wheel",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Off The Grid",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "title": "More Than Enough",
+      "duration": ""
+    },
+    {
+      "position": "B8",
+      "type_": "track",
+      "title": "Night And Morning",
+      "duration": ""
+    },
+    {
+      "position": "C9",
+      "type_": "track",
+      "title": "To Me",
+      "duration": ""
+    },
+    {
+      "position": "C10",
+      "type_": "track",
+      "title": "Memo Blue",
+      "duration": ""
+    },
+    {
+      "position": "C11",
+      "type_": "track",
+      "title": "Who Got Me",
+      "duration": ""
+    },
+    {
+      "position": "C12",
+      "type_": "track",
+      "title": "Say You Know",
+      "duration": ""
+    },
+    {
+      "position": "D13",
+      "type_": "track",
+      "title": "Take It Home",
+      "duration": ""
+    },
+    {
+      "position": "D14",
+      "type_": "track",
+      "title": "Be Good",
+      "duration": ""
+    },
+    {
+      "position": "D15",
+      "type_": "track",
+      "title": "Until I Meet You",
+      "duration": ""
+    },
+    {
+      "position": "D16",
+      "type_": "track",
+      "title": "The Begnning",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/eJ3E4kZWtOD-faUaqxWxpA6FnXjtkQPhVfM-JhZaRuY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODM3/ODg5LTE3Nzg1MTk0/MzUtNjEwMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/eJ3E4kZWtOD-faUaqxWxpA6FnXjtkQPhVfM-JhZaRuY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODM3/ODg5LTE3Nzg1MTk0/MzUtNjEwMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/_o7mVWMcNHDjxi1jPqJI2hyK8RocCMdmDi82G8aAmwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODM3/ODg5LTE3Nzg1MTk0/MzUtNjEwMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/mq7Wkn1jLTWqNbTCNMVNrz3VJoulfjGHZOV4cVz9cd0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODM3/ODg5LTE3Nzg1MTk0/MzUtOTU4MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/mq7Wkn1jLTWqNbTCNMVNrz3VJoulfjGHZOV4cVz9cd0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODM3/ODg5LTE3Nzg1MTk0/MzUtOTU4MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/DXYohOE8wSuEzwCKyEqZf7lIiVdLTCZ68fQiQanvwmg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODM3/ODg5LTE3Nzg1MTk0/MzUtOTU4MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/_o7mVWMcNHDjxi1jPqJI2hyK8RocCMdmDi82G8aAmwc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODM3/ODg5LTE3Nzg1MTk0/MzUtNjEwMi5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

@@ -1,0 +1,328 @@
+{
+  "id": 30578332,
+  "status": "Accepted",
+  "year": 2024,
+  "resource_url": "https://api.discogs.com/releases/30578332",
+  "uri": "https://www.discogs.com/release/30578332-Dua-Lipa-Radical-Optimism",
+  "artists": [
+    {
+      "name": "Dua Lipa",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 4357593,
+      "resource_url": "https://api.discogs.com/artists/4357593",
+      "thumbnail_url": "https://i.discogs.com/PL96BG_DAKBammFFry8dlfxbtu4YiHQsFPl3WRjaTNM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQzNTc1/OTMtMTc3NTMyNjYz/MC00MjU1LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Dua Lipa",
+  "labels": [
+    {
+      "name": "Warner Records",
+      "catno": "5054197982057",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 134882,
+      "resource_url": "https://api.discogs.com/labels/134882",
+      "thumbnail_url": "https://i.discogs.com/VXe1252-kjlsKC8ahwKwRSTBIYAEwTInthD7CiS8BLE/rs:fit/g:sm/q:90/h:216/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzNDg4/Mi0xNTYzNDU4NDI5/LTk2NjguanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Barnes & Noble",
+      "catno": "",
+      "entity_type": "42",
+      "entity_type_name": "Exclusive Retailer",
+      "id": 875441,
+      "resource_url": "https://api.discogs.com/labels/875441",
+      "thumbnail_url": "https://i.discogs.com/GWaDaHnx4k5NjX9xDpM_hfrpdtRxNuQeu3iBZWzpHMk/rs:fit/g:sm/q:90/h:345/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg3NTQ0/MS0xNDQxMzg4NTcw/LTQwMTcuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "text": "Silver"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 656,
+    "want": 157,
+    "rating": {
+      "count": 57,
+      "average": 4.56
+    },
+    "submitter": {
+      "username": "Mwdeluca",
+      "resource_url": "https://api.discogs.com/users/Mwdeluca"
+    },
+    "contributors": [
+      {
+        "username": "Mwdeluca",
+        "resource_url": "https://api.discogs.com/users/Mwdeluca"
+      },
+      {
+        "username": "somebetterplace",
+        "resource_url": "https://api.discogs.com/users/somebetterplace"
+      },
+      {
+        "username": "myvinyldiscography",
+        "resource_url": "https://api.discogs.com/users/myvinyldiscography"
+      },
+      {
+        "username": "idratherbereading",
+        "resource_url": "https://api.discogs.com/users/idratherbereading"
+      },
+      {
+        "username": "breylandb",
+        "resource_url": "https://api.discogs.com/users/breylandb"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2024-05-03T17:12:27-07:00",
+  "date_changed": "2025-08-13T10:44:56-07:00",
+  "num_for_sale": 11,
+  "lowest_price": 18,
+  "master_id": 3472783,
+  "master_url": "https://api.discogs.com/masters/3472783",
+  "title": "Radical Optimism",
+  "country": "US",
+  "released": "2024-05-03",
+  "released_formatted": "03 May 2024",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "5 054197 982057",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "5054197982057",
+      "description": "Scanned"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=ZjBZ8MUnB0E",
+      "title": "Dua Lipa - Training Season (Official Music Video)",
+      "description": "Listen to 'Radical Optimism', the new album here: https://dualipa.lnk.to/radicaloptimism\nListen to 'Training Season' now: https://dualipa.lnk.to/trainingseason\n\nSubscribe to the Dua Lipa channel for all the best and latest official music videos, behind th",
+      "duration": 227,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=a9cyG_yfh1k",
+      "title": "Dua Lipa - Illusion (Official Music Video)",
+      "description": "Listen to 'Radical Optimism', the new album here: https://dualipa.lnk.to/radicaloptimism\nStream 'Illusion' now: https://dualipa.lnk.to/illusion\n\nSubscribe to the Dua Lipa channel for all the best and latest official music videos, behind the scenes and liv",
+      "duration": 187,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=suAR1PYFNYA",
+      "title": "Dua Lipa - Houdini (Official Music Video)",
+      "description": "Listen to 'Radical Optimism', the new album here: https://dualipa.lnk.to/radicaloptimism\nListen to Houdini: https://dualipa.lnk.to/houdini\n\nSubscribe to the Dua Lipa channel for all the best and latest official music videos, behind the scenes and live per",
+      "duration": 189,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=hWw3dS2cyLc",
+      "title": "Dua Lipa - End Of An Era (Official Visualiser)",
+      "description": "Listen to 'Radical Optimism', the new album here: https://dualipa.lnk.to/radicaloptimism\n\nSubscribe to the Dua Lipa channel for all the best and latest official music videos, behind the scenes and live performances. \nhttps://www.youtube.com/channel/UC-J-K",
+      "duration": 197,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=O6s8mY0P5xA",
+      "title": "Dua Lipa - Falling Forever (Official Visualiser)",
+      "description": "Listen to 'Radical Optimism', the new album here: https://dualipa.lnk.to/radicaloptimism\n\nSubscribe to the Dua Lipa channel for all the best and latest official music videos, behind the scenes and live performances. \nhttps://www.youtube.com/channel/UC-J-K",
+      "duration": 224,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=1TtvG18iSxY",
+      "title": "Dua Lipa - These Walls (Official Visualiser)",
+      "description": "Listen to 'Radical Optimism', the new album here: https://dualipa.lnk.to/radicaloptimism\n\nSubscribe to the Dua Lipa channel for all the best and latest official music videos, behind the scenes and live performances. \nhttps://www.youtube.com/channel/UC-J-K",
+      "duration": 213,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=r9vNgw93VA4",
+      "title": "Dua Lipa - French Exit (Official Visualiser)",
+      "description": "Listen to 'Radical Optimism', the new album here: https://dualipa.lnk.to/radicaloptimism\n\nSubscribe to the Dua Lipa channel for all the best and latest official music videos, behind the scenes and live performances. \nhttps://www.youtube.com/channel/UC-J-K",
+      "duration": 202,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=uZ5RcAqYym0",
+      "title": "Dua Lipa - Happy For You (Official Visualiser)",
+      "description": "Listen to 'Radical Optimism', the new album here: https://dualipa.lnk.to/radicaloptimism\n\nSubscribe to the Dua Lipa channel for all the best and latest official music videos, behind the scenes and live performances. \nhttps://www.youtube.com/channel/UC-J-K",
+      "duration": 246,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=XZds6pHwad4",
+      "title": "Dua Lipa - Anything For Love (Official Visualiser)",
+      "description": "Listen to 'Radical Optimism', the new album here: https://dualipa.lnk.to/radicaloptimism\n\nSubscribe to the Dua Lipa channel for all the best and latest official music videos, behind the scenes and live performances. \nhttps://www.youtube.com/channel/UC-J-K",
+      "duration": 142,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=gpu4f-8vk-I",
+      "title": "Dua Lipa - Maria (Official Visualiser)",
+      "description": "Listen to 'Radical Optimism', the new album here: https://dualipa.lnk.to/radicaloptimism\n\nSubscribe to the Dua Lipa channel for all the best and latest official music videos, behind the scenes and live performances. \nhttps://www.youtube.com/channel/UC-J-K",
+      "duration": 188,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Y-OlDC3a2bg",
+      "title": "Dua Lipa — Radical Optimism (LP, Clear, 2024)",
+      "description": "Label: Warner Records – 5054197943386\nFormat: Vinyl, LP, Album, Clear\nCountry: US\nReleased: May 3, 2024\nGenre: Electronic, Pop\nStyle: Dance-pop, Synth-pop\nhttps://www.discogs.com/release/30588643-Dua-Lipa-Radical-Optimism",
+      "duration": 76,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Pop"
+  ],
+  "styles": [],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "End of an Era",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Houdini",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Training Season",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "These Walls",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Whatcha Doing",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "French Exit",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Illusion",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Falling Forever",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Anything For Love",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Maria",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Happy For You",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/HCD0ZnRI0s9JSpcG2FKcnvmyBeBRTlsB7BFW0ia6hYU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTc4/MzMyLTE3NTUxMDY5/OTAtODYxOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/HCD0ZnRI0s9JSpcG2FKcnvmyBeBRTlsB7BFW0ia6hYU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTc4/MzMyLTE3NTUxMDY5/OTAtODYxOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/RjLlEg65_30zCoHUUQccE3Z8zDnoKfrYBboUQ-f9oL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTc4/MzMyLTE3NTUxMDY5/OTAtODYxOS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/4LbPpFC0-r66SRYfxGmYydQM0k-RJ3WUu9-_K1zcPsI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTc4/MzMyLTE3NTUxMDcw/ODUtNzQ2MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/4LbPpFC0-r66SRYfxGmYydQM0k-RJ3WUu9-_K1zcPsI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTc4/MzMyLTE3NTUxMDcw/ODUtNzQ2MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/3NtxmnaoHOtcg1mkITILrdQVCaHVAMXDX9XKuJfwwYo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTc4/MzMyLTE3NTUxMDcw/ODUtNzQ2MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/vVdZXHJEum8HtLDWGf1UP5UpETFw5MKmC9p64rdjUFo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTc4/MzMyLTE3NTUxMDcw/MDgtNjQ2NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/vVdZXHJEum8HtLDWGf1UP5UpETFw5MKmC9p64rdjUFo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTc4/MzMyLTE3NTUxMDcw/MDgtNjQ2NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/RPiXcCDhXpZyOUZrd5d4Ir7IDgHeS9Vtu-0BrO57u48/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTc4/MzMyLTE3NTUxMDcw/MDgtNjQ2NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/27dTaQheYr3smMDXRKKb1K-QIHd2j5rApfMZI6a-EmM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTc4/MzMyLTE3NTUxMDcw/MDgtMjA2My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/27dTaQheYr3smMDXRKKb1K-QIHd2j5rApfMZI6a-EmM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTc4/MzMyLTE3NTUxMDcw/MDgtMjA2My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/mC-0UXm52CpgOZL3w5Ao7aZ9vvfA6zCCZVTlbZeExZs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTc4/MzMyLTE3NTUxMDcw/MDgtMjA2My5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/_jV1_bsYJAcD8oJ4xw1jGaqrYyztvBqALLSwP3Zed_E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTc4/MzMyLTE3MTQ3ODE1/OTItODc4NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/_jV1_bsYJAcD8oJ4xw1jGaqrYyztvBqALLSwP3Zed_E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTc4/MzMyLTE3MTQ3ODE1/OTItODc4NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/oMoqTlb_iqW67WQdYYtS2LLGnHau2S9ouBX-I5VYehk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTc4/MzMyLTE3MTQ3ODE1/OTItODc4NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ksaSTtB4xed5YzHeV_HLgf-RUA60sV8tMMZQljvyGpo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTc4/MzMyLTE3MTQ3ODE1/OTItNTUwNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ksaSTtB4xed5YzHeV_HLgf-RUA60sV8tMMZQljvyGpo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTc4/MzMyLTE3MTQ3ODE1/OTItNTUwNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/1O2gHyz_TAEpVIfwZZNHsDZPPVAbitvpESDlpJPFuhs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTc4/MzMyLTE3MTQ3ODE1/OTItNTUwNi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/anqaNq4J0LlTBftoth_ijRLbqNipsZtQFgS8fragKI4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTc4/MzMyLTE3NTUxMDY5/NzktNjg2Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/anqaNq4J0LlTBftoth_ijRLbqNipsZtQFgS8fragKI4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTc4/MzMyLTE3NTUxMDY5/NzktNjg2Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/V19MvFX5oiejLj3rf4zL88e_Si8HR90Cg0e9ePugzig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTc4/MzMyLTE3NTUxMDY5/NzktNjg2Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/RjLlEg65_30zCoHUUQccE3Z8zDnoKfrYBboUQ-f9oL0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNTc4/MzMyLTE3NTUxMDY5/OTAtODYxOS5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

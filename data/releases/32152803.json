@@ -1,0 +1,321 @@
+{
+  "id": 32152803,
+  "status": "Accepted",
+  "year": 2024,
+  "resource_url": "https://api.discogs.com/releases/32152803",
+  "uri": "https://www.discogs.com/release/32152803-PARTYNEXTDOOR-Partynextdoor",
+  "artists": [
+    {
+      "name": "PARTYNEXTDOOR",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 3554300,
+      "resource_url": "https://api.discogs.com/artists/3554300",
+      "thumbnail_url": "https://i.discogs.com/6IHXTMclsjVBBSmbU4JawXVzoviLeaB78wh-F6bBygY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM1NTQz/MDAtMTczOTgxNTA0/MC02MzI5LnBuZw.jpeg"
+    }
+  ],
+  "artists_sort": "PARTYNEXTDOOR",
+  "labels": [
+    {
+      "name": "OVO Sound",
+      "catno": "093624941514",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 719678,
+      "resource_url": "https://api.discogs.com/labels/719678",
+      "thumbnail_url": "https://i.discogs.com/qjT-wueE7BGgkkRpRCpopjsJJG_Aw7m1UQU2HGO88zU/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTcxOTY3/OC0xNDg4OTE5NjQy/LTg2MjEucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Memphis Record Pressing",
+      "catno": "MRP6044",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 833505,
+      "resource_url": "https://api.discogs.com/labels/833505",
+      "thumbnail_url": "https://i.discogs.com/gScAekIZLcU8IXU0jHeomyKqbZCh5q_xSsYTWDC2k4A/rs:fit/g:sm/q:90/h:550/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgzMzUw/NS0xNDY0NDU1NjQ1/LTg5MzIuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 445,
+    "want": 279,
+    "rating": {
+      "count": 52,
+      "average": 4.77
+    },
+    "submitter": {
+      "username": "caedenmills",
+      "resource_url": "https://api.discogs.com/users/caedenmills"
+    },
+    "contributors": [
+      {
+        "username": "caedenmills",
+        "resource_url": "https://api.discogs.com/users/caedenmills"
+      },
+      {
+        "username": "MrLobba",
+        "resource_url": "https://api.discogs.com/users/MrLobba"
+      },
+      {
+        "username": "brigbrag",
+        "resource_url": "https://api.discogs.com/users/brigbrag"
+      },
+      {
+        "username": "god-injeans",
+        "resource_url": "https://api.discogs.com/users/god-injeans"
+      },
+      {
+        "username": "BotsOverThots",
+        "resource_url": "https://api.discogs.com/users/BotsOverThots"
+      },
+      {
+        "username": "jazzycats",
+        "resource_url": "https://api.discogs.com/users/jazzycats"
+      },
+      {
+        "username": "Xmipod",
+        "resource_url": "https://api.discogs.com/users/Xmipod"
+      },
+      {
+        "username": "pzamza",
+        "resource_url": "https://api.discogs.com/users/pzamza"
+      },
+      {
+        "username": "zionsgate",
+        "resource_url": "https://api.discogs.com/users/zionsgate"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2024-10-30T14:19:08-07:00",
+  "date_changed": "2026-03-27T15:39:50-07:00",
+  "num_for_sale": 11,
+  "lowest_price": 22.31,
+  "master_id": 643529,
+  "master_url": "https://api.discogs.com/masters/643529",
+  "title": "Partynextdoor",
+  "country": "USA & Canada",
+  "released": "2024",
+  "notes": "Reissue from OVO Sound website.\nIncludes double-sided insert with additional art and album credits.\n\nDifference from the original one: Parental Advisory Label is in the left corner instead of the right.\nThere is no barcode on the back, instead the OVO Owl is in it's place.\nThe last line on the back is one line instead of two.\n\nBack Cover:\nCP2013 OVO Sound under exclusive license to Santa Anna Label Group. All Rights Reserved.v Unauthorized duplication is a violation of applicable laws.\n\nNote from insert: ℗ © 2024 OVO Sound under exclisive license to Santa Anna Label Group.\n\nRunouts are stamped",
+  "released_formatted": "2024",
+  "identifiers": [
+    {
+      "type": "Matrix / Runout",
+      "value": "MRP6044 / 80839123441 - A",
+      "description": "Side A runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MRP6044 / 80839123441 - B",
+      "description": "Side B runout"
+    },
+    {
+      "type": "Barcode",
+      "value": "808391234413",
+      "description": "Stickered"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=lXYq9ImJIN8",
+      "title": "PARTYNEXTDOOR - Break From Toronto [Official Video]",
+      "description": "The official video of \"Break From Toronto\" by PARTYNEXTDOOR from the album 'P3'. \n\nDownload/listen 'P3':\nhttps://OVOSOUND.lnk.to/PNDP3\n\nInstagram: https://www.instagram.com/partynextdoor\nTwitter: https://twitter.com/partynextdoor\nWebsite: http://partyomo.",
+      "duration": 179,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Hip Hop",
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Contemporary R&B"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Welcome To The Party",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Wild Bitches  ",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Relax With Me",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Right Now ",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Make A Mil",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Break From Toronto",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "TBH",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Wus Good/Curious ",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Over Here ",
+      "extraartists": [
+        {
+          "name": "Drake",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 151199,
+          "resource_url": "https://api.discogs.com/artists/151199"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Ballin’",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/GhojZUVDBMr0LsL1fptf8ydLsbBIFZQR-Ml9b-jhJ38/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3NTMzODMy/MTItNTM4MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/GhojZUVDBMr0LsL1fptf8ydLsbBIFZQR-Ml9b-jhJ38/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3NTMzODMy/MTItNTM4MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/uoai7eZFhbzYOJfbN4lJSlsG44vHG3ER8IonN4WXFyc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3NTMzODMy/MTItNTM4MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 588
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/gq2904xvdgWA5ZXDmxh9g7G5T34R9of2mvEIM-eLGQs/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3MzE4NDc2/MzMtNjE0NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/gq2904xvdgWA5ZXDmxh9g7G5T34R9of2mvEIM-eLGQs/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3MzE4NDc2/MzMtNjE0NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/1p7JNn92QpZ4_lros0xrTB4XWbMkpl9Qgy6f0hESq-k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3MzE4NDc2/MzMtNjE0NC5qcGVn.jpeg",
+      "width": 595,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/KLSfbYpJ-C9cryYCpKd0qu8i6wGpwQKpf7-39XEk9S4/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3MzE4NDc2/MzMtNzQyOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/KLSfbYpJ-C9cryYCpKd0qu8i6wGpwQKpf7-39XEk9S4/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3MzE4NDc2/MzMtNzQyOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/hCwN28Z_zryhYjdUlyVgzMW9OUyGaPQny-0rMzqEqU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3MzE4NDc2/MzMtNzQyOC5qcGVn.jpeg",
+      "width": 600,
+      "height": 580
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/zMoAgcf6RpaMOacFYjKDjBg3ChyAbT6AWLFssvX1SXU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3MzE4NDc2/MzMtODYyNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/zMoAgcf6RpaMOacFYjKDjBg3ChyAbT6AWLFssvX1SXU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3MzE4NDc2/MzMtODYyNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/8IxRbB4-AgPW0OfQRuxrip0j0wDZ0A1hL9Fpxxf8qP0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3MzE4NDc2/MzMtODYyNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 597
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/J0m1NNHn3gKhZ5SafA3mZD-_D8h8Omc2hUj9AQ97VeE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3MzE4NDc2/MzItNzkzNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/J0m1NNHn3gKhZ5SafA3mZD-_D8h8Omc2hUj9AQ97VeE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3MzE4NDc2/MzItNzkzNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/m8ZpHjt8FLF7Qim36O1R5oWu9Ur5JXUuuwd_yDmJUsQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3MzE4NDc2/MzItNzkzNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/QuQf7WkK6BN1koTkJ2dZORdoZNGKPwi_rvWR_Tr243I/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3MzE4NDc2/MzItNTc0My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/QuQf7WkK6BN1koTkJ2dZORdoZNGKPwi_rvWR_Tr243I/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3MzE4NDc2/MzItNTc0My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/AksEDdxEEci6HQdoc_SG2_82ozFzg9HN2EHgr01zBSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3MzE4NDc2/MzItNTc0My5qcGVn.jpeg",
+      "width": 594,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/aCspVS79hqcYyuEBAb3VZyVmw6hc6-viC5wydwVNGt8/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3MzE4NDc2/MzItMjc3Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/aCspVS79hqcYyuEBAb3VZyVmw6hc6-viC5wydwVNGt8/rs:fit/g:sm/q:90/h:600/w:449/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3MzE4NDc2/MzItMjc3Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/KFGiCD9lxaQFY-qGV-29aHKDOMVRAcpfbj3nbsaXEV8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3MzE4NDc2/MzItMjc3Ni5qcGVn.jpeg",
+      "width": 449,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/pb9O4kCW9UmlHiOM5M4cOfSksJdE2xCVeFwWk2lOEeA/rs:fit/g:sm/q:90/h:600/w:427/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3MzE4NDc2/MzItNTU4NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/pb9O4kCW9UmlHiOM5M4cOfSksJdE2xCVeFwWk2lOEeA/rs:fit/g:sm/q:90/h:600/w:427/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3MzE4NDc2/MzItNTU4NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Ky4XfyzZBCMXS6PQlp1mjhWu5ey6pzVcpgC8zTJN7cc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3MzE4NDc2/MzItNTU4NS5qcGVn.jpeg",
+      "width": 427,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/rwMyJ3jJSLyKLaPdEjmZNTzv_yEpUbTTFFfJt-7Mn64/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3MzE4NDc2/MzItODM5Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/rwMyJ3jJSLyKLaPdEjmZNTzv_yEpUbTTFFfJt-7Mn64/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3MzE4NDc2/MzItODM5Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/z-SqEgB9bh2rIhL_e_brlV05Dke_hIA2nHv-FbLICxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3MzE4NDc2/MzItODM5Mi5qcGVn.jpeg",
+      "width": 598,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/vdY_YRsWqzgWZs--_SBYrCniJJ4f4pSsQOkJHflnPE0/rs:fit/g:sm/q:90/h:378/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3MzE4NDc2/MzMtOTYzOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/vdY_YRsWqzgWZs--_SBYrCniJJ4f4pSsQOkJHflnPE0/rs:fit/g:sm/q:90/h:378/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3MzE4NDc2/MzMtOTYzOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/cKepXO3aEqThcB-DUL6KsaewBfPsNJUOKC2JfBFHGGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3MzE4NDc2/MzMtOTYzOC5qcGVn.jpeg",
+      "width": 600,
+      "height": 378
+    }
+  ],
+  "thumb": "https://i.discogs.com/uoai7eZFhbzYOJfbN4lJSlsG44vHG3ER8IonN4WXFyc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTUy/ODAzLTE3NTMzODMy/MTItNTM4MC5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}
