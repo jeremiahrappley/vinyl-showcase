@@ -41,11 +41,14 @@ Pages: `/` (grid), `/shelf/` (spine view), `/r/{instanceId}/` (detail),
 
 `.github/workflows/sync.yml` runs `sync` + `images` nightly and `valuations`
 weekly (or on manual dispatch), committing and pushing any changes to
-`data/` and `public/covers/`. Set these as repository secrets:
+`data/` and `public/covers/`. In **Settings → Secrets and variables →
+Actions**:
 
-- `DISCOGS_TOKEN`
-- `DISCOGS_USERNAME`
-- `DISCOGS_UA`
+- **Secrets** tab: `DISCOGS_TOKEN` — it's a credential, so it's encrypted
+  and masked in logs.
+- **Variables** tab: `DISCOGS_USERNAME`, `DISCOGS_UA` — not sensitive (your
+  Discogs username is already public on your profile URL), so plain
+  repo variables are the better fit.
 
 ## Deploy
 

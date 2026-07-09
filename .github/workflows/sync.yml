@@ -23,8 +23,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
-      DISCOGS_USERNAME: ${{ secrets.DISCOGS_USERNAME }}
-      DISCOGS_UA: ${{ secrets.DISCOGS_UA }}
+      DISCOGS_USERNAME: ${{ vars.DISCOGS_USERNAME }}
+      DISCOGS_UA: ${{ vars.DISCOGS_UA }}
     steps:
       - uses: actions/checkout@v4
 
