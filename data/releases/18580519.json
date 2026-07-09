@@ -1,0 +1,1460 @@
+{
+  "id": 18580519,
+  "status": "Accepted",
+  "year": 0,
+  "resource_url": "https://api.discogs.com/releases/18580519",
+  "uri": "https://www.discogs.com/release/18580519-Lana-Del-Rey-Paradise",
+  "artists": [
+    {
+      "name": "Lana Del Rey",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 2445772,
+      "resource_url": "https://api.discogs.com/artists/2445772",
+      "thumbnail_url": "https://i.discogs.com/u1CyaiZEzHnXUNX7Wr2wBSbPW4DTVQyClVPIe4uHbig/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI0NDU3/NzItMTc3NTMyNTg1/NC04OTA1LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Lana Del Rey",
+  "labels": [
+    {
+      "name": "Interscope Records",
+      "catno": "B0017667-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 2311,
+      "resource_url": "https://api.discogs.com/labels/2311",
+      "thumbnail_url": "https://i.discogs.com/58MHEZ0kBRytN0Ivvqvnirp57RFfiqWh1YGJLsn62ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTEt/MTUxNzAxMTEyMy00/NjEwLmpwZWc.jpeg"
+    },
+    {
+      "name": "Polydor",
+      "catno": "B0017667-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1610,
+      "resource_url": "https://api.discogs.com/labels/1610",
+      "thumbnail_url": "https://i.discogs.com/aNZfcLSVMW8xdCMyTxY3PspGfkoD4lsz8_uyffeyRcw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2MTAt/MTU4ODY3Mzk0Ny0x/NjI2LmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Lana Del Rey",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 294927,
+      "resource_url": "https://api.discogs.com/labels/294927"
+    },
+    {
+      "name": "Lana Del Rey",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 294927,
+      "resource_url": "https://api.discogs.com/labels/294927"
+    },
+    {
+      "name": "Polydor Ltd. (UK)",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 100642,
+      "resource_url": "https://api.discogs.com/labels/100642",
+      "thumbnail_url": "https://i.discogs.com/gL-tiAOkdZC2Ugg2lch57J0PJv3QxY7DsTvpCro4fws/rs:fit/g:sm/q:90/h:146/w:167/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDY0/Mi0xNjIwOTExMjY0/LTM3MzguanBlZw.jpeg"
+    },
+    {
+      "name": "Interscope Records",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 2311,
+      "resource_url": "https://api.discogs.com/labels/2311",
+      "thumbnail_url": "https://i.discogs.com/58MHEZ0kBRytN0Ivvqvnirp57RFfiqWh1YGJLsn62ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTEt/MTUxNzAxMTEyMy00/NjEwLmpwZWc.jpeg"
+    },
+    {
+      "name": "EMI/Sony ATV",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 566485,
+      "resource_url": "https://api.discogs.com/labels/566485"
+    },
+    {
+      "name": "EMI",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 26126,
+      "resource_url": "https://api.discogs.com/labels/26126",
+      "thumbnail_url": "https://i.discogs.com/kyUkdCkRdB9c0UbyACsewybDBqUqAVAU6ndQAp2VII4/rs:fit/g:sm/q:90/h:331/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2MTI2/LTEyMDY0Njg0NTEu/anBlZw.jpeg"
+    },
+    {
+      "name": "Heavycrate",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 345337,
+      "resource_url": "https://api.discogs.com/labels/345337"
+    },
+    {
+      "name": "R-Rated Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 345118,
+      "resource_url": "https://api.discogs.com/labels/345118"
+    },
+    {
+      "name": "Chappell Morris Ltd.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 292699,
+      "resource_url": "https://api.discogs.com/labels/292699",
+      "thumbnail_url": "https://i.discogs.com/fHjSNAvHAnuxsjFP2KHhJb4WJYIqdb9tGTkjXd5ZZOI/rs:fit/g:sm/q:90/h:45/w:239/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MjY5/OS0xNTkwNTg4MTE4/LTIyNDUuanBlZw.jpeg"
+    },
+    {
+      "name": "IQ Music Ltd.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 326961,
+      "resource_url": "https://api.discogs.com/labels/326961"
+    },
+    {
+      "name": "Leonard Street Songs Publishing",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 493230,
+      "resource_url": "https://api.discogs.com/labels/493230"
+    },
+    {
+      "name": "Songs Music Publishing LLC",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 297527,
+      "resource_url": "https://api.discogs.com/labels/297527",
+      "thumbnail_url": "https://i.discogs.com/HSJEm2MBEg2fLgzaKDVpVQa_h7QCS7JnqyZBD8nvroE/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5NzUy/Ny0xNDgyMzQxNTgy/LTM5MjcuanBlZw.jpeg"
+    },
+    {
+      "name": "Shangri-La, Malibu, CA",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 1030841,
+      "resource_url": "https://api.discogs.com/labels/1030841",
+      "thumbnail_url": "https://i.discogs.com/0MLgwNkRP5zVsvu9wPeKMDkryVvCJYLyNgBKSnWty7U/rs:fit/g:sm/q:90/h:202/w:188/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMzA4/NDEtMTQ2NzA1MDQy/OS0zMTA3LmpwZWc.jpeg"
+    },
+    {
+      "name": "Westlake Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 268145,
+      "resource_url": "https://api.discogs.com/labels/268145",
+      "thumbnail_url": "https://i.discogs.com/RLUW3E9znm-I8W92JcHJO5W5m-pxjRrx_WgEzue6KHs/rs:fit/g:sm/q:90/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2ODE0/NS0xNjUyMzgyNjc2/LTQ3MDYuanBlZw.jpeg"
+    },
+    {
+      "name": "Sarm Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 216589,
+      "resource_url": "https://api.discogs.com/labels/216589",
+      "thumbnail_url": "https://i.discogs.com/w9p-uuXCAFcJGCAikTbwFwKe1ZV4ILXAkJFCUvlGgIU/rs:fit/g:sm/q:90/h:469/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxNjU4/OS0xNjE4NTgzOTUw/LTI4NjQuanBlZw.jpeg"
+    },
+    {
+      "name": "The Green Building, Santa Monica",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 493232,
+      "resource_url": "https://api.discogs.com/labels/493232"
+    },
+    {
+      "name": "The Square, London",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 634107,
+      "resource_url": "https://api.discogs.com/labels/634107"
+    },
+    {
+      "name": "Electric Lemon Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 493233,
+      "resource_url": "https://api.discogs.com/labels/493233"
+    },
+    {
+      "name": "Punkerpad West",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 286486,
+      "resource_url": "https://api.discogs.com/labels/286486",
+      "thumbnail_url": "https://i.discogs.com/ccLloOh587X_g3yPLgdYmnRTNsJJn8g7tF-9rjJCyxc/rs:fit/g:sm/q:90/h:324/w:486/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4NjQ4/Ni0xNDY4OTYxODU5/LTQyNTQuanBlZw.jpeg"
+    },
+    {
+      "name": "Hot Rocks Studio",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 493235,
+      "resource_url": "https://api.discogs.com/labels/493235"
+    },
+    {
+      "name": "The Bridget Studio, Buffalo",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 493234,
+      "resource_url": "https://api.discogs.com/labels/493234"
+    },
+    {
+      "name": "House Of Blues Studios, Encino",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 529069,
+      "resource_url": "https://api.discogs.com/labels/529069",
+      "thumbnail_url": "https://i.discogs.com/iTb3r3ob4h5lb4ckkzD7JYAbdFKRpM0v2WmO0Op8xHU/rs:fit/g:sm/q:90/h:532/w:334/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUyOTA2/OS0xNDA0MzI2ODIw/LTE3NTIuanBlZw.jpeg"
+    },
+    {
+      "name": "Metropolis Mastering",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 181778,
+      "resource_url": "https://api.discogs.com/labels/181778",
+      "thumbnail_url": "https://i.discogs.com/dT0hLPAL95_SLtf84XSm2fFlakyZcK84VHwA0W0aGw8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4MTc3/OC0xNDk2MzEwNjYx/LTcxNTkucG5n.jpeg"
+    },
+    {
+      "name": "GZ Media",
+      "catno": "206616E",
+      "entity_type": "44",
+      "entity_type_name": "Plated At",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Mini-Album",
+        "Reissue"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 2056,
+    "want": 407,
+    "rating": {
+      "count": 97,
+      "average": 4.45
+    },
+    "submitter": {
+      "username": "clayk",
+      "resource_url": "https://api.discogs.com/users/clayk"
+    },
+    "contributors": [
+      {
+        "username": "clayk",
+        "resource_url": "https://api.discogs.com/users/clayk"
+      },
+      {
+        "username": "Midugno",
+        "resource_url": "https://api.discogs.com/users/Midugno"
+      },
+      {
+        "username": "wrweqeqe",
+        "resource_url": "https://api.discogs.com/users/wrweqeqe"
+      },
+      {
+        "username": "foreveryoungrecords",
+        "resource_url": "https://api.discogs.com/users/foreveryoungrecords"
+      },
+      {
+        "username": "numbvox",
+        "resource_url": "https://api.discogs.com/users/numbvox"
+      },
+      {
+        "username": "Myriad",
+        "resource_url": "https://api.discogs.com/users/Myriad"
+      },
+      {
+        "username": "theREALmgo",
+        "resource_url": "https://api.discogs.com/users/theREALmgo"
+      },
+      {
+        "username": "Nattygirl6",
+        "resource_url": "https://api.discogs.com/users/Nattygirl6"
+      },
+      {
+        "username": "S4m3",
+        "resource_url": "https://api.discogs.com/users/S4m3"
+      },
+      {
+        "username": "aboutTOdetonate",
+        "resource_url": "https://api.discogs.com/users/aboutTOdetonate"
+      },
+      {
+        "username": "TReimer",
+        "resource_url": "https://api.discogs.com/users/TReimer"
+      },
+      {
+        "username": "SP_Vinyl",
+        "resource_url": "https://api.discogs.com/users/SP_Vinyl"
+      },
+      {
+        "username": "xx1385",
+        "resource_url": "https://api.discogs.com/users/xx1385"
+      },
+      {
+        "username": "myvinyldiscography",
+        "resource_url": "https://api.discogs.com/users/myvinyldiscography"
+      },
+      {
+        "username": "rubricscarab",
+        "resource_url": "https://api.discogs.com/users/rubricscarab"
+      },
+      {
+        "username": "Hibrid",
+        "resource_url": "https://api.discogs.com/users/Hibrid"
+      },
+      {
+        "username": "Victor2F",
+        "resource_url": "https://api.discogs.com/users/Victor2F"
+      },
+      {
+        "username": "nighttimemytime",
+        "resource_url": "https://api.discogs.com/users/nighttimemytime"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2021-05-03T17:14:52-07:00",
+  "date_changed": "2026-04-12T21:44:24-07:00",
+  "num_for_sale": 42,
+  "lowest_price": 10,
+  "master_id": 580413,
+  "master_url": "https://api.discogs.com/masters/580413",
+  "title": "Paradise",
+  "country": "USA, Canada & Europe",
+  "notes": "Issued in a standard jacket with double-sided printed insert with lyrics. First issued sometime between 2020 and May 2021.\n\nSome copies have a hype sticker on the front shrink-wrap.\nSome copies have a \"MADE IN CANADA\" sticker on rear shrink-wrap.\n\nRunouts are machine-engraved.\n\n℗ & © 2012 Lana Del Rey, under exclusive license to Polydor (UK). Under exclusive license to Interscope Records in the USA.",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02537 20469 4",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "602537204694",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "206616E1/B",
+      "description": "Side A runout, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "206616E2/B",
+      "description": "Side B runout, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "206616E1/A",
+      "description": "Side A runout, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "206616E2/B",
+      "description": "Side B runout, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "206616E1/C",
+      "description": "Side A runout, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "206616E2/D",
+      "description": "Side B runout, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "206616E1/C",
+      "description": "Side A runout, variant 4"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "206616E2/I",
+      "description": "Side B runout, variant 4"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "206616E1/C",
+      "description": "Side A runout, variant 5"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "206616E2/H",
+      "description": "Side B runout, variant 5"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "206616E1/H",
+      "description": "Side A runout, variant 6"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "206616E2/M",
+      "description": "Side B runout, variant 6"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "206616E1/E",
+      "description": "Side A runout, variant 7"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "206616E2/K",
+      "description": "Side B runout, variant 7"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=Py_-3di1yx0",
+      "title": "Lana Del Rey - Ride",
+      "description": "Lana Del Rey - Ride (Official Music Video)\nBrand new album 'Lust for Life' out now. Listen: https://lana.lnk.to/LFLaID\n\nSign up for updates: http://smarturl.it/LanaDelRey.News\n\nFollow Lana Del Rey:\nhttp://www.instagram.com/lanadelrey\nhttp://www.facebook.c",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ohWV6vUkRJc",
+      "title": "Lana Del Rey - Bel Air",
+      "description": "Music video by Lana Del Rey performing \"Bel Air\" from Tropico soundtrack.\nAll rights owned by the artist and music company.",
+      "duration": 266,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Rock",
+    "Pop"
+  ],
+  "styles": [
+    "Alternative Rock",
+    "Baroque Pop",
+    "Dream Pop",
+    "Indie Pop",
+    "Trip Hop"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Ride",
+      "extraartists": [
+        {
+          "name": "Jason Lader",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 359731,
+          "resource_url": "https://api.discogs.com/artists/359731"
+        },
+        {
+          "name": "James Gadson",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 211643,
+          "resource_url": "https://api.discogs.com/artists/211643"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Andrew Scheps",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 450831,
+          "resource_url": "https://api.discogs.com/artists/450831"
+        },
+        {
+          "name": "Zac Rae",
+          "anv": "",
+          "join": "",
+          "role": "Piano, Keyboards",
+          "tracks": "",
+          "id": 339639,
+          "resource_url": "https://api.discogs.com/artists/339639"
+        },
+        {
+          "name": "Rick Rubin",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 68211,
+          "resource_url": "https://api.discogs.com/artists/68211"
+        },
+        {
+          "name": "Jason Lader",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 359731,
+          "resource_url": "https://api.discogs.com/artists/359731"
+        },
+        {
+          "name": "Eric Lynn",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Assistant]",
+          "tracks": "",
+          "id": 1491984,
+          "resource_url": "https://api.discogs.com/artists/1491984"
+        },
+        {
+          "name": "Sean Oakley",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Assistant]",
+          "tracks": "",
+          "id": 1777292,
+          "resource_url": "https://api.discogs.com/artists/1777292"
+        },
+        {
+          "name": "Dan Heath",
+          "anv": "",
+          "join": "",
+          "role": "Strings [Arranged By]",
+          "tracks": "",
+          "id": 2462249,
+          "resource_url": "https://api.discogs.com/artists/2462249"
+        },
+        {
+          "name": "Tucker Robinson",
+          "anv": "",
+          "join": "",
+          "role": "Strings [Recorded By]",
+          "tracks": "",
+          "id": 2343310,
+          "resource_url": "https://api.discogs.com/artists/2343310"
+        },
+        {
+          "name": "Kathleen Sloan",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 3006865,
+          "resource_url": "https://api.discogs.com/artists/3006865"
+        },
+        {
+          "name": "Songa Lee",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 381869,
+          "resource_url": "https://api.discogs.com/artists/381869"
+        },
+        {
+          "name": "Justin Parker",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2431626,
+          "resource_url": "https://api.discogs.com/artists/2431626"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        }
+      ],
+      "duration": "4:50"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "American",
+      "extraartists": [
+        {
+          "name": "Dan Heath",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [Orchestral Arrangement]",
+          "tracks": "",
+          "id": 2462249,
+          "resource_url": "https://api.discogs.com/artists/2462249"
+        },
+        {
+          "name": "Emile Haynie",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 1135338,
+          "resource_url": "https://api.discogs.com/artists/1135338"
+        },
+        {
+          "name": "Emile Haynie",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 1135338,
+          "resource_url": "https://api.discogs.com/artists/1135338"
+        },
+        {
+          "name": "Tim Pierce",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 274702,
+          "resource_url": "https://api.discogs.com/artists/274702"
+        },
+        {
+          "name": "Patrick Warren",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar, Piano, Synthesizer",
+          "tracks": "",
+          "id": 251634,
+          "resource_url": "https://api.discogs.com/artists/251634"
+        },
+        {
+          "name": "Rick Nowels",
+          "anv": "",
+          "join": "",
+          "role": "Keyboards",
+          "tracks": "",
+          "id": 67614,
+          "resource_url": "https://api.discogs.com/artists/67614"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Rick Nowels",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 67614,
+          "resource_url": "https://api.discogs.com/artists/67614"
+        },
+        {
+          "name": "Kieron Menzies",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 410860,
+          "resource_url": "https://api.discogs.com/artists/410860"
+        },
+        {
+          "name": "Chris Garcia (5)",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Additional]",
+          "tracks": "",
+          "id": 2904686,
+          "resource_url": "https://api.discogs.com/artists/2904686"
+        },
+        {
+          "name": "Jordan Stilwell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Additional]",
+          "tracks": "",
+          "id": 1821190,
+          "resource_url": "https://api.discogs.com/artists/1821190"
+        },
+        {
+          "name": "Emile Haynie",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1135338,
+          "resource_url": "https://api.discogs.com/artists/1135338"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Rick Nowels",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 67614,
+          "resource_url": "https://api.discogs.com/artists/67614"
+        }
+      ],
+      "duration": "4:09"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Cola",
+      "extraartists": [
+        {
+          "name": "Devrim Karaoğlu",
+          "anv": "DK",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 832866,
+          "resource_url": "https://api.discogs.com/artists/832866"
+        },
+        {
+          "name": "Kieron Menzies",
+          "anv": "",
+          "join": "",
+          "role": "Drum Programming",
+          "tracks": "",
+          "id": 410860,
+          "resource_url": "https://api.discogs.com/artists/410860"
+        },
+        {
+          "name": "Devrim Karaoğlu",
+          "anv": "Devrim Karaoglu",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 832866,
+          "resource_url": "https://api.discogs.com/artists/832866"
+        },
+        {
+          "name": "Kieron Menzies",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Recording]",
+          "tracks": "",
+          "id": 410860,
+          "resource_url": "https://api.discogs.com/artists/410860"
+        },
+        {
+          "name": "Rick Nowels",
+          "anv": "",
+          "join": "",
+          "role": "Keyboards, Bass [Juno Bass], Acoustic Guitar, Drums",
+          "tracks": "",
+          "id": 67614,
+          "resource_url": "https://api.discogs.com/artists/67614"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Rick Nowels",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 67614,
+          "resource_url": "https://api.discogs.com/artists/67614"
+        },
+        {
+          "name": "Chris Garcia (5)",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Additional]",
+          "tracks": "",
+          "id": 2904686,
+          "resource_url": "https://api.discogs.com/artists/2904686"
+        },
+        {
+          "name": "Jordan Stilwell",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Additional]",
+          "tracks": "",
+          "id": 1821190,
+          "resource_url": "https://api.discogs.com/artists/1821190"
+        },
+        {
+          "name": "Tim Pierce",
+          "anv": "",
+          "join": "",
+          "role": "Slide Guitar",
+          "tracks": "",
+          "id": 274702,
+          "resource_url": "https://api.discogs.com/artists/274702"
+        },
+        {
+          "name": "Patrick Warren",
+          "anv": "",
+          "join": "",
+          "role": "Strings, Glockenspiel, Brass, Organ, Electric Guitar, Piano, Synthesizer",
+          "tracks": "",
+          "id": 251634,
+          "resource_url": "https://api.discogs.com/artists/251634"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Rick Nowels",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 67614,
+          "resource_url": "https://api.discogs.com/artists/67614"
+        }
+      ],
+      "duration": "4:21"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Body Electric",
+      "extraartists": [
+        {
+          "name": "Patrick Warren",
+          "anv": "",
+          "join": "",
+          "role": "Guitar, Organ, Dulcitone, Synthesizer [Moog], Piano, Bells, Piano [Optigon], Mellotron",
+          "tracks": "",
+          "id": 251634,
+          "resource_url": "https://api.discogs.com/artists/251634"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Kieron Menzies",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 410860,
+          "resource_url": "https://api.discogs.com/artists/410860"
+        },
+        {
+          "name": "Dan Heath",
+          "anv": "",
+          "join": "",
+          "role": "Orchestra, Percussion",
+          "tracks": "",
+          "id": 2462249,
+          "resource_url": "https://api.discogs.com/artists/2462249"
+        },
+        {
+          "name": "Rick Nowels",
+          "anv": "",
+          "join": "",
+          "role": "Piano, Mellotron, Strings",
+          "tracks": "",
+          "id": 67614,
+          "resource_url": "https://api.discogs.com/artists/67614"
+        },
+        {
+          "name": "Dan Heath",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2462249,
+          "resource_url": "https://api.discogs.com/artists/2462249"
+        },
+        {
+          "name": "Rick Nowels",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 67614,
+          "resource_url": "https://api.discogs.com/artists/67614"
+        },
+        {
+          "name": "Chris Garcia (5)",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 2904686,
+          "resource_url": "https://api.discogs.com/artists/2904686"
+        },
+        {
+          "name": "Dan Heath",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 2462249,
+          "resource_url": "https://api.discogs.com/artists/2462249"
+        },
+        {
+          "name": "Kieron Menzies",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 410860,
+          "resource_url": "https://api.discogs.com/artists/410860"
+        },
+        {
+          "name": "Tim Pierce",
+          "anv": "",
+          "join": "",
+          "role": "Slide Guitar [Electronic]",
+          "tracks": "",
+          "id": 274702,
+          "resource_url": "https://api.discogs.com/artists/274702"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Rick Nowels",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 67614,
+          "resource_url": "https://api.discogs.com/artists/67614"
+        }
+      ],
+      "duration": "3:53"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Blue Velvet",
+      "extraartists": [
+        {
+          "name": "Larry Gold",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [Strings]",
+          "tracks": "",
+          "id": 213280,
+          "resource_url": "https://api.discogs.com/artists/213280"
+        },
+        {
+          "name": "Spencer Burgess Jr.",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Recording Engineer]",
+          "tracks": "",
+          "id": 3007596,
+          "resource_url": "https://api.discogs.com/artists/3007596"
+        },
+        {
+          "name": "Tom Elmhirst",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 122559,
+          "resource_url": "https://api.discogs.com/artists/122559"
+        },
+        {
+          "name": "Ben Baptie",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assistant]",
+          "tracks": "",
+          "id": 2227368,
+          "resource_url": "https://api.discogs.com/artists/2227368"
+        },
+        {
+          "name": "Emile Haynie",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1135338,
+          "resource_url": "https://api.discogs.com/artists/1135338"
+        },
+        {
+          "name": "The Larry Gold Orchestra",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 3007598,
+          "resource_url": "https://api.discogs.com/artists/3007598"
+        },
+        {
+          "name": "Bernie Wayne",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 287248,
+          "resource_url": "https://api.discogs.com/artists/287248"
+        },
+        {
+          "name": "Lee Morris (3)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 880734,
+          "resource_url": "https://api.discogs.com/artists/880734"
+        }
+      ],
+      "duration": "2:39"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Gods And Monsters",
+      "extraartists": [
+        {
+          "name": "Emile Haynie",
+          "anv": "",
+          "join": "",
+          "role": "Keyboards [Additional], Drums",
+          "tracks": "",
+          "id": 1135338,
+          "resource_url": "https://api.discogs.com/artists/1135338"
+        },
+        {
+          "name": "Tim \"Rolf\" Larcombe",
+          "anv": "Tim Larcombe",
+          "join": "",
+          "role": "Keyboards, Guitar, Drums",
+          "tracks": "",
+          "id": 375226,
+          "resource_url": "https://api.discogs.com/artists/375226"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Robert Orton",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 110365,
+          "resource_url": "https://api.discogs.com/artists/110365"
+        },
+        {
+          "name": "Tim \"Rolf\" Larcombe",
+          "anv": "Tim Larcombe",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 375226,
+          "resource_url": "https://api.discogs.com/artists/375226"
+        },
+        {
+          "name": "Emile Haynie",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Additional]",
+          "tracks": "",
+          "id": 1135338,
+          "resource_url": "https://api.discogs.com/artists/1135338"
+        },
+        {
+          "name": "Dan Heath",
+          "anv": "",
+          "join": "",
+          "role": "Strings [Arranged By], Horns",
+          "tracks": "",
+          "id": 2462249,
+          "resource_url": "https://api.discogs.com/artists/2462249"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Tim \"Rolf\" Larcombe",
+          "anv": "Tim Larcombe",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 375226,
+          "resource_url": "https://api.discogs.com/artists/375226"
+        }
+      ],
+      "duration": "3:57"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Yayo",
+      "extraartists": [
+        {
+          "name": "Emile Haynie",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Keyboards [Additional]",
+          "tracks": "",
+          "id": 1135338,
+          "resource_url": "https://api.discogs.com/artists/1135338"
+        },
+        {
+          "name": "Graham Archer",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Vocal]",
+          "tracks": "",
+          "id": 973554,
+          "resource_url": "https://api.discogs.com/artists/973554"
+        },
+        {
+          "name": "Jeremy Cochise Ball",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 3007721,
+          "resource_url": "https://api.discogs.com/artists/3007721"
+        },
+        {
+          "name": "Dan Heath",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2462249,
+          "resource_url": "https://api.discogs.com/artists/2462249"
+        },
+        {
+          "name": "Emile Haynie",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1135338,
+          "resource_url": "https://api.discogs.com/artists/1135338"
+        },
+        {
+          "name": "Dan Heath",
+          "anv": "",
+          "join": "",
+          "role": "Strings, Keyboards",
+          "tracks": "",
+          "id": 2462249,
+          "resource_url": "https://api.discogs.com/artists/2462249"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        }
+      ],
+      "duration": "5:21"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Bel Air",
+      "extraartists": [
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Dan Heath",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 2462249,
+          "resource_url": "https://api.discogs.com/artists/2462249"
+        },
+        {
+          "name": "Nikki Calvert",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 3007722,
+          "resource_url": "https://api.discogs.com/artists/3007722"
+        },
+        {
+          "name": "Tucker Robinson",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 2343310,
+          "resource_url": "https://api.discogs.com/artists/2343310"
+        },
+        {
+          "name": "Peter Stanislaus",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Mix]",
+          "tracks": "",
+          "id": 1922400,
+          "resource_url": "https://api.discogs.com/artists/1922400"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Jeff Rothschild",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 354273,
+          "resource_url": "https://api.discogs.com/artists/354273"
+        },
+        {
+          "name": "Dan Heath",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2462249,
+          "resource_url": "https://api.discogs.com/artists/2462249"
+        },
+        {
+          "name": "Dan Heath",
+          "anv": "",
+          "join": "",
+          "role": "Strings, Piano",
+          "tracks": "",
+          "id": 2462249,
+          "resource_url": "https://api.discogs.com/artists/2462249"
+        },
+        {
+          "name": "Kathleen Sloan",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 3006865,
+          "resource_url": "https://api.discogs.com/artists/3006865"
+        },
+        {
+          "name": "Songa Lee",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 381869,
+          "resource_url": "https://api.discogs.com/artists/381869"
+        },
+        {
+          "name": "Dan Heath",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2462249,
+          "resource_url": "https://api.discogs.com/artists/2462249"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        }
+      ],
+      "duration": "4:00"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "John Davis (4)",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 366507,
+      "resource_url": "https://api.discogs.com/artists/366507"
+    },
+    {
+      "name": "Nicole Nodland",
+      "anv": "",
+      "join": "",
+      "role": "Photography By [Cover]",
+      "tracks": "",
+      "id": 1335005,
+      "resource_url": "https://api.discogs.com/artists/1335005"
+    },
+    {
+      "name": "Emile Haynie",
+      "anv": "",
+      "join": "",
+      "role": "Producer [Album]",
+      "tracks": "",
+      "id": 1135338,
+      "resource_url": "https://api.discogs.com/artists/1135338"
+    },
+    {
+      "name": "Lana Del Rey",
+      "anv": "",
+      "join": "",
+      "role": "Vocals",
+      "tracks": "",
+      "id": 2445772,
+      "resource_url": "https://api.discogs.com/artists/2445772"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/FXiyk8NyTZDnTQd7WfS2v9Kx_WqliqqE0v6hggTYQKU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgw/NTE5LTE2OTA0NzI4/MjEtOTE2Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/FXiyk8NyTZDnTQd7WfS2v9Kx_WqliqqE0v6hggTYQKU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgw/NTE5LTE2OTA0NzI4/MjEtOTE2Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/j236wQEqfa6W1cDp45RvXffnPNq3uki4SkpulDbOffU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgw/NTE5LTE2OTA0NzI4/MjEtOTE2Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/xS-aabL0A1r_ZhCnuG5fKXY4sdlFxaXevAS8zKbItYQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgw/NTE5LTE2OTA0NzI4/MjEtNDI4MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/xS-aabL0A1r_ZhCnuG5fKXY4sdlFxaXevAS8zKbItYQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgw/NTE5LTE2OTA0NzI4/MjEtNDI4MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/3PXC3u9eMj9VNfvQ2__ro-lITj25lm6FGxRzZuih6Xo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgw/NTE5LTE2OTA0NzI4/MjEtNDI4MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 595
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/bk3LXEgtAZhmJTo99xeh7DAEWoPhi7s24Yi0Lbn0F4M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgw/NTE5LTE2OTA0NzI4/MjEtNDc2Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/bk3LXEgtAZhmJTo99xeh7DAEWoPhi7s24Yi0Lbn0F4M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgw/NTE5LTE2OTA0NzI4/MjEtNDc2Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/cmBI3mpFNMxAo7Vq19EHR-3s9dQbXsXVb6qHfKRG964/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgw/NTE5LTE2OTA0NzI4/MjEtNDc2Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/wqjvUbgTahmXmfSTfO9lVJT3PdGUdryfV5jEz1hRYvA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgw/NTE5LTE2OTA0NzI4/MjEtNDY4Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/wqjvUbgTahmXmfSTfO9lVJT3PdGUdryfV5jEz1hRYvA/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgw/NTE5LTE2OTA0NzI4/MjEtNDY4Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/aHoiD-875FtUrCDCr-4qeOf2R7Pme_ZYfKmXSzSqJkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgw/NTE5LTE2OTA0NzI4/MjEtNDY4Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ku8XXUSxaUsc87Yb75xJzbOp6l-qC6LMEuOUp7eewyM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgw/NTE5LTE2OTA0NzI4/MjEtNzc3MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ku8XXUSxaUsc87Yb75xJzbOp6l-qC6LMEuOUp7eewyM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgw/NTE5LTE2OTA0NzI4/MjEtNzc3MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/gGdsT0Dedpe4h0Ak9yofMrTAU-CV1MESaVEDAK3Wvhk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgw/NTE5LTE2OTA0NzI4/MjEtNzc3MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 595
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/flr7tZR22CJmEXRKbCIh84Pk-Aq-atdTAGtOO7UXyjA/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgw/NTE5LTE2Njk2NjIz/MDEtMjk0OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/flr7tZR22CJmEXRKbCIh84Pk-Aq-atdTAGtOO7UXyjA/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgw/NTE5LTE2Njk2NjIz/MDEtMjk0OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/qaVud09P6bigsavc80UEtRTAN2c3iWlWRwKzZmp94iQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgw/NTE5LTE2Njk2NjIz/MDEtMjk0OS5qcGVn.jpeg",
+      "width": 595,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ey46Scb-5f2ElbCYeDZGNNowt7nNqmnMNdIfCboiPL0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgw/NTE5LTE2MjMxODA2/NzYtNDU2OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ey46Scb-5f2ElbCYeDZGNNowt7nNqmnMNdIfCboiPL0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgw/NTE5LTE2MjMxODA2/NzYtNDU2OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/BRgl5LwFo3TLwGYEi0sNHGI5cTts3zsKkJ24oPpwp9A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgw/NTE5LTE2MjMxODA2/NzYtNDU2OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/j236wQEqfa6W1cDp45RvXffnPNq3uki4SkpulDbOffU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4NTgw/NTE5LTE2OTA0NzI4/MjEtOTE2Mi5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

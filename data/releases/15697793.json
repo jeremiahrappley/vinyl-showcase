@@ -1,0 +1,513 @@
+{
+  "id": 15697793,
+  "status": "Accepted",
+  "year": 2020,
+  "resource_url": "https://api.discogs.com/releases/15697793",
+  "uri": "https://www.discogs.com/release/15697793-Grimes-4-Art-Angels",
+  "artists": [
+    {
+      "name": "Grimes (4)",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 1993487,
+      "resource_url": "https://api.discogs.com/artists/1993487",
+      "thumbnail_url": "https://i.discogs.com/AMzUKaUrDucrTY0TjnJx8Xw-B66zOiXIGNDrrApGJw4/rs:fit/g:sm/q:90/h:600/w:496/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE5OTM0/ODctMTY0ODA3MTUy/MC00MjU4LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Grimes (4)",
+  "labels": [
+    {
+      "name": "4AD",
+      "catno": "CAD3535",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 634,
+      "resource_url": "https://api.discogs.com/labels/634",
+      "thumbnail_url": "https://i.discogs.com/2xCfhG-Zmz-gt18imyL4Q9pbuzOhEHEZ1EEW1qJ0r5I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTYzNC0x/NDk4MTU1NzY0LTI3/MDIucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Nazgul Publishing LLC",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 935749,
+      "resource_url": "https://api.discogs.com/labels/935749"
+    },
+    {
+      "name": "Sony / ATV Music Publishing",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 115653,
+      "resource_url": "https://api.discogs.com/labels/115653",
+      "thumbnail_url": "https://i.discogs.com/hs37I82N0L-lLEvaPEFzJYP33Gfas0FdKoWLBvo1dKw/rs:fit/g:sm/q:90/h:157/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExNTY1/My0xNTU0MzQyNDIw/LTYwMDYucG5n.jpeg"
+    },
+    {
+      "name": "Jane Lle Publishing",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 588263,
+      "resource_url": "https://api.discogs.com/labels/588263"
+    },
+    {
+      "name": "Aristophanes Productions",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 935750,
+      "resource_url": "https://api.discogs.com/labels/935750"
+    },
+    {
+      "name": "Mixsuite LA",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 431810,
+      "resource_url": "https://api.discogs.com/labels/431810",
+      "thumbnail_url": "https://i.discogs.com/E1bgpO2jwm4nfUx5uKBnT7dvB7CAQhfUYlEb9DFX0Ho/rs:fit/g:sm/q:90/h:172/w:292/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMTgx/MC0xMzU0NTcwMDMy/LTU1OTguanBlZw.jpeg"
+    },
+    {
+      "name": "Sterling Sound",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 264060,
+      "resource_url": "https://api.discogs.com/labels/264060",
+      "thumbnail_url": "https://i.discogs.com/Z8f0gMBrt5jLL4TAcCYDGXmMPOLi9V0UW593WXP6BUU/rs:fit/g:sm/q:90/h:118/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDA2/MC0xNTAwMjgzMzYy/LTMyMTguanBlZw.jpeg"
+    },
+    {
+      "name": "Universal Music Publishing",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 193558,
+      "resource_url": "https://api.discogs.com/labels/193558",
+      "thumbnail_url": "https://i.discogs.com/8JfQxX4GdfEjS770zVg2u_MNt5kHr8j0hBhuLa6D0XE/rs:fit/g:sm/q:90/h:176/w:286/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5MzU1/OC0xMzg0NzQ0MDI5/LTk1NTIuanBlZw.jpeg"
+    },
+    {
+      "name": "4AD",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 634,
+      "resource_url": "https://api.discogs.com/labels/634",
+      "thumbnail_url": "https://i.discogs.com/2xCfhG-Zmz-gt18imyL4Q9pbuzOhEHEZ1EEW1qJ0r5I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTYzNC0x/NDk4MTU1NzY0LTI3/MDIucG5n.jpeg"
+    },
+    {
+      "name": "4AD",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 634,
+      "resource_url": "https://api.discogs.com/labels/634",
+      "thumbnail_url": "https://i.discogs.com/2xCfhG-Zmz-gt18imyL4Q9pbuzOhEHEZ1EEW1qJ0r5I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTYzNC0x/NDk4MTU1NzY0LTI3/MDIucG5n.jpeg"
+    },
+    {
+      "name": "MPO",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 56025,
+      "resource_url": "https://api.discogs.com/labels/56025",
+      "thumbnail_url": "https://i.discogs.com/ESRU3eTUmc1632Us6_7LBipnaQGV6lJe-D5nyFxssyw/rs:fit/g:sm/q:90/h:336/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU2MDI1/LTEzMTQ2OTg5ODQu/anBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Repress"
+      ],
+      "text": "MPO Pressing"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 1710,
+    "want": 760,
+    "rating": {
+      "count": 118,
+      "average": 4.6
+    },
+    "submitter": {
+      "username": "splintered8080",
+      "resource_url": "https://api.discogs.com/users/splintered8080"
+    },
+    "contributors": [
+      {
+        "username": "splintered8080",
+        "resource_url": "https://api.discogs.com/users/splintered8080"
+      },
+      {
+        "username": "asrogger",
+        "resource_url": "https://api.discogs.com/users/asrogger"
+      },
+      {
+        "username": "anonym.cz",
+        "resource_url": "https://api.discogs.com/users/anonym.cz"
+      },
+      {
+        "username": "holycowrecords",
+        "resource_url": "https://api.discogs.com/users/holycowrecords"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2020-07-30T06:32:14-07:00",
+  "date_changed": "2025-02-13T17:25:44-08:00",
+  "num_for_sale": 14,
+  "lowest_price": 26.67,
+  "master_id": 910103,
+  "master_url": "https://api.discogs.com/masters/910103",
+  "title": "Art Angels",
+  "country": "UK, Europe & US",
+  "released": "2020",
+  "notes": "Repress from the 2015 release. Artwork and 7 inserts, all the same. Only difference on both labels. No old MPO \"rings\" present. \n\nIncludes download code for entire album plus the tracks \"Realiti\" and \"REALiTi (Demo)\", minus the track \"Butterfly\".  Release includes 14 art prints designed by Grimes. Gatefold sleeve.\n\n\"Butterfly\" contains a sample from \"Penguin Dancer\" co-written by Masayoshi Takanaka and Shu Suzuki.\n\nJanelle Monáe appears courtesy of Wondaland/Atlantic Recording Corporation.",
+  "released_formatted": "2020",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "652637353518"
+    },
+    {
+      "type": "Rights Society",
+      "value": "ASCAP"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MPO CAD 3535 A [MPO Logo] ® 20 159697",
+      "description": "Side A runout, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MPO CAD 3535 B² [MPO Logo] ® 20 159698",
+      "description": "Side B runout, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MPO CAD 3535 A [MPO Logo] ® 21 214284",
+      "description": "Side A runout, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MPO CAD 3535 B² [MPO Logo] ® 21 214285",
+      "description": "Side B runout, variant 2"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=NpYRccmcIbM",
+      "title": "Grimes Ft. Janelle Monáe - Venus Fly (2020 LP) on a 1963 Garrard 301 / Shure M55e",
+      "description": "Grimes Ft. Janelle Monáe - Venus Fly \n\nFrom the album: Art Angels \n\nThis song really highlights the dynamics of a vinyl record! \nFun Fact: 10th video recorded! Let's keep bringing the Garrard 301 sound to new songs!\nDiscogs page of the Album: https://www.",
+      "duration": 252,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=eTLTXDHrgtw",
+      "title": "Grimes ft. Janelle Monáe - Venus Fly (Official Video)",
+      "description": "From 'Art Angels', out now: http://grimesmusic.com\n\nDirected + Edited by:\nGrimes \n\nStarring:\nGrimes \nJanelle Monáe \n\nProduced by:\nRoute Eleven \n\nProduced by:\nRyan Tremblay \nNeil Hansen \nMac Boucher \n\nDirector of Photography:\nNeil Hansen \n\nColor:\nGrimes \n",
+      "duration": 445,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ADPk5PpkjMg",
+      "title": "Grimes - Butterfly [Official Video]",
+      "description": "Starring Grimes & Hana \nDirected + edited by Claire Boucher\nDP Mac Boucher\n\nhttps://www.instagram.com/grimes\nhttps://twitter.com/Grimezsz\nhttp://actuallygrimes.tumblr.com\nhttps://www.facebook.com/actuallygrimes",
+      "duration": 276,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Aqp3Ic8iwWE",
+      "title": "Grimes - SCREAM ft. Aristophanes [Official Video]",
+      "description": "Directed by Claire Boucher\nStarring Aristophanes, Grimes, Hana, Linda, Alyson\nDP Mac Boucher\nConcept & Art direction by Claire Boucher\nPost by Claire Boucher\n\n[Verse 1]\n藏在肺裡的尖叫\n藏在骨頭和肌肉裡的\n沒有爆破前 毋庸置疑的\n都",
+      "duration": 176,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Tv9YoYCKNoE",
+      "title": "Grimes - Flesh without Blood/Life in the Vivid Dream",
+      "description": "From the new album ‘Art Angels’ out November 6th and available for download here: http://smarturl.it/artangels?IQid=YTFWB\n\nDirected by Grimes\n\nhttps://www.grimesmusic.com\nhttps://twitter.com/Grimezsz\nhttps://www.actuallygrimes.tumblr.com/\nhttps://www.",
+      "duration": 412,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=c2EJMd7ZN7w",
+      "title": "Grimes - Kill V. Maim",
+      "description": "From the new album ‘Art Angels’ out now and available for download here: http://smarturl.it/artangels?IQid=YTFWB\n\nhttp://www.grimesmusic.com\nhttps://twitter.com/Grimezsz\nhttp://www.actuallygrimes.tumblr.com/\nhttps://www.facebook.com/actuallygrimes\nhtt",
+      "duration": 278,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=N9XKLqGqwLA",
+      "title": "Grimes - REALiTi",
+      "description": "since this is no longer gonna be on the album, I’m releasing it as a special thank you to everyone in Singapore, KL, Manila, Jakarta, HK, Shanghai, Beijing, Taipei, Seoul, Osaka, Nagoya and Tokyo who came out to the shows!  It was an honor to play with ",
+      "duration": 264,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=NpYRccmcIbM",
+      "title": "Grimes Ft. Janelle Monáe - Venus Fly (2020 LP) on a 1963 Garrard 301 / Shure M55e",
+      "description": "Grimes Ft. Janelle Monáe - Venus Fly \n\nFrom the album: Art Angels \n\nThis song really highlights the dynamics of a vinyl record! \nFun Fact: 10th video recorded! Let's keep bringing the Garrard 301 sound to new songs!\nDiscogs page of the Album: https://www.",
+      "duration": 252,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=OsCfufAp2tM",
+      "title": "Grimes - California",
+      "description": "‘California’, by Grimes. From the new album ‘Art Angels’, out now and available for download here: http://smarturl.it/Art_Angels_i\n\nhttp://www.grimesmusic.com\nhttps://twitter.com/Grimezsz\nhttp://www.actuallygrimes.tumblr.com/\nhttps://www.facebook.com/actu",
+      "duration": 207,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=HpAsOEsamA0",
+      "title": "Grimes - Belly of the Beat [Official Video]",
+      "description": "From the AC!D Reign Chronicles\n\nDirected by Claire and Mac Boucher\nStarring Grimes Linda Davis and Alyson Van\nDP Mac Boucher\nConcept/ Art direction + edit by Claire Boucher",
+      "duration": 207,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=EOwhuTlxE54",
+      "title": "Grimes - World Princess Part II [Official Video]",
+      "description": "From the AC!D Reign Chronicles\n\nDirected by Claire Boucher\nStarring Grimes & Hana \nDP Mac Boucher\nConcept & Art direction by Claire Boucher\nPost by Claire Boucher\n\nhttps://www.instagram.com/grimes\nhttps://twitter.com/Grimezsz\nhttp://actuallygrimes.tumblr.",
+      "duration": 337,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=oQRcWRzq6Mw",
+      "title": "Grimes - World Princess Part II",
+      "description": "From the album \"Art Angels\" (2015).\n\nI do not own the rights to this song, nor do I intend to profit from sharing it.",
+      "duration": 309,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=UDkT42jIvuQ",
+      "title": "Artangels",
+      "description": "Provided to YouTube by Beggars Group Digital Ltd.\n\nArtangels · Grimes\n\nArt Angels\n\n℗ 2015 4AD Ltd\n\nReleased on: 2015-11-06\n\nAssociated  Performer: Grimes\nProducer: Grimes\nMixer: Mark Stent\nMusic  Publisher: Sony\nMusic  Publisher: ATV Songs LLC\nMusic  Publ",
+      "duration": 248,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Pop"
+  ],
+  "styles": [
+    "Synth-pop",
+    "Experimental"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Laughing And Not Being Normal",
+      "duration": "1:47"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "California",
+      "duration": "3:18"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Scream",
+      "extraartists": [
+        {
+          "name": "Aristophanes (3)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 4931981,
+          "resource_url": "https://api.discogs.com/artists/4931981"
+        },
+        {
+          "name": "Pan Wei-Ju",
+          "anv": "",
+          "join": "",
+          "role": "Written-By [Co-Written By]",
+          "tracks": "",
+          "id": 4756849,
+          "resource_url": "https://api.discogs.com/artists/4756849"
+        }
+      ],
+      "duration": "2:20"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Flesh Without Blood",
+      "duration": "4:24"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Belly Of The Beat",
+      "duration": "3:25"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Kill V. Maim",
+      "duration": "4:06"
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "title": "Artangels",
+      "duration": "4:07"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Easily",
+      "duration": "3:03"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Pin",
+      "duration": "3:32"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "World Princess, Pt. II",
+      "duration": "5:05"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Venus Fly",
+      "extraartists": [
+        {
+          "name": "Janelle Monáe",
+          "anv": "",
+          "join": "",
+          "role": "Written-By [Co-Written By], Featuring",
+          "tracks": "",
+          "id": 445868,
+          "resource_url": "https://api.discogs.com/artists/445868"
+        }
+      ],
+      "duration": "3:45"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Life In The Vivid Dream",
+      "duration": "1:27"
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Butterfly",
+      "duration": "4:12"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Randy Merrill",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 1485708,
+      "resource_url": "https://api.discogs.com/artists/1485708"
+    },
+    {
+      "name": "Tom Coyne",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 272899,
+      "resource_url": "https://api.discogs.com/artists/272899"
+    },
+    {
+      "name": "Mark Stent",
+      "anv": "Mark \"Spike\" Stent",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "",
+      "id": 211449,
+      "resource_url": "https://api.discogs.com/artists/211449"
+    },
+    {
+      "name": "Geoff Swan",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By [Assisted By]",
+      "tracks": "",
+      "id": 3269967,
+      "resource_url": "https://api.discogs.com/artists/3269967"
+    },
+    {
+      "name": "Grimes (4)",
+      "anv": "",
+      "join": "",
+      "role": "Producer, Performer, Engineer, Written-By",
+      "tracks": "",
+      "id": 1993487,
+      "resource_url": "https://api.discogs.com/artists/1993487"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/7-teFXgkg4fzi95QCcJM69h3EPLF7ZQ3sT6mkWlR6wk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk3/NzkzLTE1OTYxMTY5/MjAtNzc1Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/7-teFXgkg4fzi95QCcJM69h3EPLF7ZQ3sT6mkWlR6wk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk3/NzkzLTE1OTYxMTY5/MjAtNzc1Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/bVv-6bc3cCEJz4JFjsh92LiuKpmXNEH-Xm6auUHyjM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk3/NzkzLTE1OTYxMTY5/MjAtNzc1Ny5qcGVn.jpeg",
+      "width": 599,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/zkawlI03DTPlvRNVtJKSY8z_7cZkN4syrMtgvE0VpGs/rs:fit/g:sm/q:90/h:600/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk3/NzkzLTE1OTYxMTY5/MTktODI2Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/zkawlI03DTPlvRNVtJKSY8z_7cZkN4syrMtgvE0VpGs/rs:fit/g:sm/q:90/h:600/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk3/NzkzLTE1OTYxMTY5/MTktODI2Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/kLh8K6UnwSrBN0AZ4oBDVVVOu0Jq8_bBooVVF6qOXxM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk3/NzkzLTE1OTYxMTY5/MTktODI2Mi5qcGVn.jpeg",
+      "width": 570,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/yjzAh69WkLZqeXG4zLEVMS3rQ8qAeReiafTlYW677QE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk3/NzkzLTE1OTYxMTY5/MzMtMzQ5Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/yjzAh69WkLZqeXG4zLEVMS3rQ8qAeReiafTlYW677QE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk3/NzkzLTE1OTYxMTY5/MzMtMzQ5Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/u-LRCeFUwtUEt_HqSceSOaxAqg2CjsAxe7Wy9Su8pt8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk3/NzkzLTE1OTYxMTY5/MzMtMzQ5Ni5qcGVn.jpeg",
+      "width": 599,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Muh_9wAPDNVYb8EjwlEIMtWiOMCeM6ycih3Wd07FhcY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk3/NzkzLTE1OTYxMTY5/MzMtNjI2Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Muh_9wAPDNVYb8EjwlEIMtWiOMCeM6ycih3Wd07FhcY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk3/NzkzLTE1OTYxMTY5/MzMtNjI2Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/TpKpL97fYaVnSfQiLO5GlHDw1ir0diyMbfD5Q4t_Ns0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk3/NzkzLTE1OTYxMTY5/MzMtNjI2Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/drPhm7-6t5a2S5J6qULoeo9ynhOHzJrkMkfcPrvmo7U/rs:fit/g:sm/q:90/h:111/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk3/NzkzLTE1OTYxMTY5/MzMtNzYyMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/drPhm7-6t5a2S5J6qULoeo9ynhOHzJrkMkfcPrvmo7U/rs:fit/g:sm/q:90/h:111/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk3/NzkzLTE1OTYxMTY5/MzMtNzYyMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/6uv_eKzxOKWzSuwkeqQ9I7nO4ANpukgBFmshTjnFM88/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk3/NzkzLTE1OTYxMTY5/MzMtNzYyMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 111
+    }
+  ],
+  "thumb": "https://i.discogs.com/bVv-6bc3cCEJz4JFjsh92LiuKpmXNEH-Xm6auUHyjM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Njk3/NzkzLTE1OTYxMTY5/MjAtNzc1Ny5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

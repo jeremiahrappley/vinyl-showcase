@@ -1,0 +1,1151 @@
+{
+  "id": 17886490,
+  "status": "Accepted",
+  "year": 2021,
+  "resource_url": "https://api.discogs.com/releases/17886490",
+  "uri": "https://www.discogs.com/release/17886490-Lana-Del-Rey-Chemtrails-Over-The-Country-Club",
+  "artists": [
+    {
+      "name": "Lana Del Rey",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 2445772,
+      "resource_url": "https://api.discogs.com/artists/2445772",
+      "thumbnail_url": "https://i.discogs.com/u1CyaiZEzHnXUNX7Wr2wBSbPW4DTVQyClVPIe4uHbig/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI0NDU3/NzItMTc3NTMyNTg1/NC04OTA1LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Lana Del Rey",
+  "labels": [
+    {
+      "name": "Polydor",
+      "catno": "3549780",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1610,
+      "resource_url": "https://api.discogs.com/labels/1610",
+      "thumbnail_url": "https://i.discogs.com/aNZfcLSVMW8xdCMyTxY3PspGfkoD4lsz8_uyffeyRcw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2MTAt/MTU4ODY3Mzk0Ny0x/NjI2LmpwZWc.jpeg"
+    },
+    {
+      "name": "Interscope Records",
+      "catno": "3549780",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 2311,
+      "resource_url": "https://api.discogs.com/labels/2311",
+      "thumbnail_url": "https://i.discogs.com/58MHEZ0kBRytN0Ivvqvnirp57RFfiqWh1YGJLsn62ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTEt/MTUxNzAxMTEyMy00/NjEwLmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Lana Del Rey",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 294927,
+      "resource_url": "https://api.discogs.com/labels/294927"
+    },
+    {
+      "name": "Lana Del Rey",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 294927,
+      "resource_url": "https://api.discogs.com/labels/294927"
+    },
+    {
+      "name": "Universal Music Operations Ltd.",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 120257,
+      "resource_url": "https://api.discogs.com/labels/120257",
+      "thumbnail_url": "https://i.discogs.com/V_wCq2yiBeTzd3BTY-Y3dNJZfLamTsE-l69r2d3rH0I/rs:fit/g:sm/q:90/h:142/w:436/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMDI1/Ny0xNjQ5OTU5MzA2/LTU5MDAuanBlZw.jpeg"
+    },
+    {
+      "name": "Universal International Music B.V.",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 220303,
+      "resource_url": "https://api.discogs.com/labels/220303",
+      "thumbnail_url": "https://i.discogs.com/I4i4T2e8mUrn6IA2-f829jPWwU1CCZYPHtu1mbRipeU/rs:fit/g:sm/q:90/h:81/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIyMDMw/My0xNjU3MjEzNTMy/LTc1MDUucG5n.jpeg"
+    },
+    {
+      "name": "MPO",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 56025,
+      "resource_url": "https://api.discogs.com/labels/56025",
+      "thumbnail_url": "https://i.discogs.com/ESRU3eTUmc1632Us6_7LBipnaQGV6lJe-D5nyFxssyw/rs:fit/g:sm/q:90/h:336/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU2MDI1/LTEzMTQ2OTg5ODQu/anBlZw.jpeg"
+    },
+    {
+      "name": "Sterling Sound",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 264060,
+      "resource_url": "https://api.discogs.com/labels/264060",
+      "thumbnail_url": "https://i.discogs.com/Z8f0gMBrt5jLL4TAcCYDGXmMPOLi9V0UW593WXP6BUU/rs:fit/g:sm/q:90/h:118/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDA2/MC0xNTAwMjgzMzYy/LTMyMTguanBlZw.jpeg"
+    },
+    {
+      "name": "Sterling Sound",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 264060,
+      "resource_url": "https://api.discogs.com/labels/264060",
+      "thumbnail_url": "https://i.discogs.com/Z8f0gMBrt5jLL4TAcCYDGXmMPOLi9V0UW593WXP6BUU/rs:fit/g:sm/q:90/h:118/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDA2/MC0xNTAwMjgzMzYy/LTMyMTguanBlZw.jpeg"
+    },
+    {
+      "name": "Conway Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 265937,
+      "resource_url": "https://api.discogs.com/labels/265937",
+      "thumbnail_url": "https://i.discogs.com/yH8pXOLciN257RutJRe8Zk3ogg-Rd-ER5dMZsM1atsg/rs:fit/g:sm/q:90/h:243/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTkz/Ny0xNDQ4ODkxNDU3/LTIzMzAuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "text": "Gatefold"
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 12243,
+    "want": 1275,
+    "rating": {
+      "count": 808,
+      "average": 4.44
+    },
+    "submitter": {
+      "username": "oldies-dot-com",
+      "resource_url": "https://api.discogs.com/users/oldies-dot-com"
+    },
+    "contributors": [
+      {
+        "username": "oldies-dot-com",
+        "resource_url": "https://api.discogs.com/users/oldies-dot-com"
+      },
+      {
+        "username": "manug",
+        "resource_url": "https://api.discogs.com/users/manug"
+      },
+      {
+        "username": "Myriad",
+        "resource_url": "https://api.discogs.com/users/Myriad"
+      },
+      {
+        "username": "Plattensammler",
+        "resource_url": "https://api.discogs.com/users/Plattensammler"
+      },
+      {
+        "username": "supicru",
+        "resource_url": "https://api.discogs.com/users/supicru"
+      },
+      {
+        "username": "mjk37",
+        "resource_url": "https://api.discogs.com/users/mjk37"
+      },
+      {
+        "username": "dlebryk",
+        "resource_url": "https://api.discogs.com/users/dlebryk"
+      },
+      {
+        "username": "Tomderich",
+        "resource_url": "https://api.discogs.com/users/Tomderich"
+      },
+      {
+        "username": "JEmilio",
+        "resource_url": "https://api.discogs.com/users/JEmilio"
+      },
+      {
+        "username": "DaFuzzFatendirekt",
+        "resource_url": "https://api.discogs.com/users/DaFuzzFatendirekt"
+      },
+      {
+        "username": "vpaluzga",
+        "resource_url": "https://api.discogs.com/users/vpaluzga"
+      },
+      {
+        "username": "Nordikk",
+        "resource_url": "https://api.discogs.com/users/Nordikk"
+      },
+      {
+        "username": "Audioear",
+        "resource_url": "https://api.discogs.com/users/Audioear"
+      },
+      {
+        "username": "HulloderSM",
+        "resource_url": "https://api.discogs.com/users/HulloderSM"
+      },
+      {
+        "username": "NicolasBourbaki",
+        "resource_url": "https://api.discogs.com/users/NicolasBourbaki"
+      },
+      {
+        "username": "teffjweedy",
+        "resource_url": "https://api.discogs.com/users/teffjweedy"
+      },
+      {
+        "username": "Spinning_Discs",
+        "resource_url": "https://api.discogs.com/users/Spinning_Discs"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2021-03-17T10:17:49-07:00",
+  "date_changed": "2026-02-18T06:55:14-08:00",
+  "num_for_sale": 179,
+  "lowest_price": 19.99,
+  "master_id": 2030455,
+  "master_url": "https://api.discogs.com/masters/2030455",
+  "title": "Chemtrails Over The Country Club",
+  "country": "USA & Europe",
+  "released": "2021-03-19",
+  "notes": "A Polydor Records Release / An Interscope Records Release In The U.S.A.:\n℗ & © 2021 Lana Del Rey, under exclusive licence to Universal Music Operations Limited.\nMade In France.\n\nCertain copies made available on the official store included a signed 12“x12“ Art Card\n\nRunout pattern all etched, except the stamped \"STERLING [MPO logo]®\" with following numbers - on both sides or on one side only.\n\nLacquer cut by credit and company derived from runouts JN-H STERLING\nPressing plant derived from MPO logo in runouts.\n",
+  "released_formatted": "19 Mar 2021",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02435 49780 8",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "602435497808",
+      "description": "Scanned"
+    },
+    {
+      "type": "Other",
+      "value": "00602435497808",
+      "description": "on cover rear"
+    },
+    {
+      "type": "Label Code",
+      "value": "LC00309"
+    },
+    {
+      "type": "Rights Society",
+      "value": "BIEM/SDRM"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0602435497808A JN-H STERLING",
+      "description": "Side A, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "06024 35497808B JN-H STERLING [MPO logo]® 21 199586",
+      "description": "Side B, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0602435497808A JN-H STERLING [MPO logo]® 21 197110",
+      "description": "Side A, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "06024 35497808B JN-H STERLING [MPO logo]® 21 19708",
+      "description": "Side B, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "06024 35497808A JN-H STERLING [MPO logo]® 21 198639",
+      "description": "Side A, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "06024 35497808B JN-H STERLING",
+      "description": "Side B, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0602435497808A [MPO logo]® 21 199950 JN-H STERLING",
+      "description": "Side A, variant 4"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0602435497808 B2 3549780-B (2) [MPO logo]® 21 200555 JN-H STERLING",
+      "description": "Side B, variant 4"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0602435497808A [MPO logo]® 21199368JN-H STERLING",
+      "description": "Side A, variant 5"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "06024 35497808B JN-H STERLING [MPO logo]® 21199659 ",
+      "description": "Side B, variant 5"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0602435497808A JN-H STERLING MPOⓇ 21197634",
+      "description": "Side A, variant 6"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "06024 35497808B MPOⓇ 21197267 JN-H STERLING",
+      "description": "Side B, variant 6"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0602435497808A JN-H STERLING",
+      "description": "Side A, variant 7"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "06024 35497808B [MPO logo]® 21 199047 JN-H STERLING",
+      "description": "Side B, variant 7"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0602435497808A  JN-H STERLING  [MPO logo]® 21199584",
+      "description": "Side A, variant 8"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "06024 35497808B  JN-H STERLING  [MPO logo]® 21199555",
+      "description": "Side B, variant 8"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    "Pop",
+    "Folk, World, & Country"
+  ],
+  "styles": [
+    "Pop Rock",
+    "Folk"
+  ],
+  "tracklist": [
+    {
+      "position": "A1 ",
+      "type_": "track",
+      "title": "White Dress",
+      "extraartists": [
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Author, Written-By, Producer, Mixed By, Piano, Bass, Drums, Guitar",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Author, Written-By, Vocals, Producer",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "John Rooney (10)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assisted by]",
+          "tracks": "",
+          "id": 7124434,
+          "resource_url": "https://api.discogs.com/artists/7124434"
+        },
+        {
+          "name": "Jon Sher",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assisted by]",
+          "tracks": "",
+          "id": 2694300,
+          "resource_url": "https://api.discogs.com/artists/2694300"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Engineer, Mixed By",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        }
+      ],
+      "duration": "5:33"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Chemtrails Over The Country Club",
+      "extraartists": [
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Author, Written-By, Producer, Mixed By, Piano, Mellotron, 12-String Acoustic Guitar, Guitar, Bass, Drums",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Author, Written-By, Producer, Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "John Rooney (10)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assisted by]",
+          "tracks": "",
+          "id": 7124434,
+          "resource_url": "https://api.discogs.com/artists/7124434"
+        },
+        {
+          "name": "Jon Sher",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assisted by]",
+          "tracks": "",
+          "id": 2694300,
+          "resource_url": "https://api.discogs.com/artists/2694300"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Engineer, Mixed By",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Evan Smith (2)",
+          "anv": "",
+          "join": "",
+          "role": "Horns",
+          "tracks": "",
+          "id": 2428561,
+          "resource_url": "https://api.discogs.com/artists/2428561"
+        },
+        {
+          "name": "Dan Heath",
+          "anv": "Daniel Heath",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 2462249,
+          "resource_url": "https://api.discogs.com/artists/2462249"
+        }
+      ],
+      "duration": "4:31"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Tulsa Jesus Freak",
+      "extraartists": [
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Author, Written-By, Producer, Guitar, Synth, Synthesizer [Model D], Bass [Synth], Percussion, Drums",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Author, Written-By, Producer, Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "John Rooney (10)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assisted by]",
+          "tracks": "",
+          "id": 7124434,
+          "resource_url": "https://api.discogs.com/artists/7124434"
+        },
+        {
+          "name": "Jon Sher",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assisted by]",
+          "tracks": "",
+          "id": 2694300,
+          "resource_url": "https://api.discogs.com/artists/2694300"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Engineer, Mixed By",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        }
+      ],
+      "duration": "3:35"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Let Me Love You Like A Woman",
+      "extraartists": [
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Author, Written-By, Producer, Mixed By, Acoustic Guitar, Electric Guitar, Slide Guitar, Piano, Organ [Hammond B3], Programmed By, Bass, Percussion, Drums, Engineer",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Author, Written-By, Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "John Rooney (10)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assisted by]",
+          "tracks": "",
+          "id": 7124434,
+          "resource_url": "https://api.discogs.com/artists/7124434"
+        },
+        {
+          "name": "Jon Sher",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assisted by]",
+          "tracks": "",
+          "id": 2694300,
+          "resource_url": "https://api.discogs.com/artists/2694300"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Engineer, Mixed By",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        }
+      ],
+      "duration": "3:21"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Wild At Heart",
+      "extraartists": [
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Author, Written-By, Producer, Mixed By, Piano, Mellotron, Synth, 12-String Acoustic Guitar, Guitar, Bass, Drums [Drumsby]",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Author, Written-By, Vocals, Producer",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "John Rooney (10)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assisted by]",
+          "tracks": "",
+          "id": 7124434,
+          "resource_url": "https://api.discogs.com/artists/7124434"
+        },
+        {
+          "name": "Jon Sher",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assisted by]",
+          "tracks": "",
+          "id": 2694300,
+          "resource_url": "https://api.discogs.com/artists/2694300"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Engineer, Mixed By",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Evan Smith (2)",
+          "anv": "",
+          "join": "",
+          "role": "Horns",
+          "tracks": "",
+          "id": 2428561,
+          "resource_url": "https://api.discogs.com/artists/2428561"
+        }
+      ],
+      "duration": "4:06"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Dark But Just A Game",
+      "extraartists": [
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Author, Written-By, Producer, 12-String Acoustic Guitar, Guitar, Mellotron, Bass, Synth, Percussion, Drums, Mixed By",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Author, Written-By, Vocals, Producer",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "John Rooney (10)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assisted by]",
+          "tracks": "",
+          "id": 7124434,
+          "resource_url": "https://api.discogs.com/artists/7124434"
+        },
+        {
+          "name": "Jon Sher",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assisted by]",
+          "tracks": "",
+          "id": 2694300,
+          "resource_url": "https://api.discogs.com/artists/2694300"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Engineer, Mixed By",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        }
+      ],
+      "duration": "3:55"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Not All Who Wander Are Lost",
+      "extraartists": [
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Author, Written-By, Producer, 12-String Acoustic Guitar, Guitar, Organ, Bass, Mixed By",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Author, Written-By, Vocals, Producer",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "John Rooney (10)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assisted by]",
+          "tracks": "",
+          "id": 7124434,
+          "resource_url": "https://api.discogs.com/artists/7124434"
+        },
+        {
+          "name": "Jon Sher",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assisted by]",
+          "tracks": "",
+          "id": 2694300,
+          "resource_url": "https://api.discogs.com/artists/2694300"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Engineer, Mixed By",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        }
+      ],
+      "duration": "4:07"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Yosemite ",
+      "extraartists": [
+        {
+          "name": "Rick Nowels",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Author, Written-By, Producer, Acoustic Guitar, Keyboards, Mellotron, Bass",
+          "tracks": "",
+          "id": 67614,
+          "resource_url": "https://api.discogs.com/artists/67614"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Author, Written-By, Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Aaron Sterling",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Percussion",
+          "tracks": "",
+          "id": 602823,
+          "resource_url": "https://api.discogs.com/artists/602823"
+        },
+        {
+          "name": "Trevor Yasuda",
+          "anv": "",
+          "join": "",
+          "role": "Effects [Sound], Engineer",
+          "tracks": "",
+          "id": 2735866,
+          "resource_url": "https://api.discogs.com/artists/2735866"
+        },
+        {
+          "name": "John Christopher Fee",
+          "anv": "John Fee",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 7372633,
+          "resource_url": "https://api.discogs.com/artists/7372633"
+        },
+        {
+          "name": "Dean Reid",
+          "anv": "",
+          "join": "",
+          "role": "Engineer, Mixed By",
+          "tracks": "",
+          "id": 705458,
+          "resource_url": "https://api.discogs.com/artists/705458"
+        },
+        {
+          "name": "Kieron Menzies",
+          "anv": "",
+          "join": "",
+          "role": "Engineer, Mixed By",
+          "tracks": "",
+          "id": 410860,
+          "resource_url": "https://api.discogs.com/artists/410860"
+        }
+      ],
+      "duration": "5:04"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Breaking Up Slowly",
+      "extraartists": [
+        {
+          "name": "Nikki Lane",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Author, Written-By, Vocals [Additional]",
+          "tracks": "",
+          "id": 2583918,
+          "resource_url": "https://api.discogs.com/artists/2583918"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Author, Written-By, Vocals, Producer",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "John Rooney (10)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assisted by]",
+          "tracks": "",
+          "id": 7124434,
+          "resource_url": "https://api.discogs.com/artists/7124434"
+        },
+        {
+          "name": "Jon Sher",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assisted by]",
+          "tracks": "",
+          "id": 2694300,
+          "resource_url": "https://api.discogs.com/artists/2694300"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Engineer, Mixed By",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Mikey Freedom Hart",
+          "anv": "",
+          "join": "",
+          "role": "Pedal Steel Guitar",
+          "tracks": "",
+          "id": 4022760,
+          "resource_url": "https://api.discogs.com/artists/4022760"
+        }
+      ],
+      "duration": "2:57"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Dance Till We Die",
+      "extraartists": [
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Author, Written-By, Vocals, Producer",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "John Rooney (10)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assisted by]",
+          "tracks": "",
+          "id": 7124434,
+          "resource_url": "https://api.discogs.com/artists/7124434"
+        },
+        {
+          "name": "Jon Sher",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assisted by]",
+          "tracks": "",
+          "id": 2694300,
+          "resource_url": "https://api.discogs.com/artists/2694300"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Engineer, Mixed By",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Evan Smith (2)",
+          "anv": "",
+          "join": "",
+          "role": "Horns, Accordion",
+          "tracks": "",
+          "id": 2428561,
+          "resource_url": "https://api.discogs.com/artists/2428561"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Guitar, Bass, Mixed By, Composed By, Author, Written-By, Drums, Percussion, Electric Piano [Rhodes]",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        }
+      ],
+      "duration": "4:01"
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "For Free",
+      "extraartists": [
+        {
+          "name": "Weyes Blood",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals [Additional]",
+          "tracks": "",
+          "id": 3733968,
+          "resource_url": "https://api.discogs.com/artists/3733968"
+        },
+        {
+          "name": "Zella Day",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals [Additional]",
+          "tracks": "",
+          "id": 3558510,
+          "resource_url": "https://api.discogs.com/artists/3558510"
+        },
+        {
+          "name": "John Rooney (10)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assisted by]",
+          "tracks": "",
+          "id": 7124434,
+          "resource_url": "https://api.discogs.com/artists/7124434"
+        },
+        {
+          "name": "Jon Sher",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assisted by]",
+          "tracks": "",
+          "id": 2694300,
+          "resource_url": "https://api.discogs.com/artists/2694300"
+        },
+        {
+          "name": "Evan Smith (2)",
+          "anv": "",
+          "join": "",
+          "role": "Horns",
+          "tracks": "",
+          "id": 2428561,
+          "resource_url": "https://api.discogs.com/artists/2428561"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By, Engineer",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By, Producer, Piano, Mellotron, Guitar, Bass",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Mikey Freedom Hart",
+          "anv": "",
+          "join": "",
+          "role": "Piano, Guitar, Mellotron",
+          "tracks": "",
+          "id": 4022760,
+          "resource_url": "https://api.discogs.com/artists/4022760"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Joni Mitchell",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 90233,
+          "resource_url": "https://api.discogs.com/artists/90233"
+        }
+      ],
+      "duration": "4:11"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Joe Nino-Hernes",
+      "anv": "JN-H",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 6012918,
+      "resource_url": "https://api.discogs.com/artists/6012918"
+    },
+    {
+      "name": "Chris Gehringer",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 326440,
+      "resource_url": "https://api.discogs.com/artists/326440"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/6kDKz6hkgya_-kqfWAtGOvKBmgHxI-A4WTHyOUKqGsY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2MTYyMjk0/MDQtMzMyOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/6kDKz6hkgya_-kqfWAtGOvKBmgHxI-A4WTHyOUKqGsY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2MTYyMjk0/MDQtMzMyOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/4W7a3tqc3g2dM2raAqVjcILEJqiGZZEAg76_KmprpcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2MTYyMjk0/MDQtMzMyOC5qcGVn.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/7BNHHqINAENpaQO2tRQ7Dn6JQgcWph7iPblu_UV2Des/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2MTYyMjk0/MDUtODc5Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/7BNHHqINAENpaQO2tRQ7Dn6JQgcWph7iPblu_UV2Des/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2MTYyMjk0/MDUtODc5Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/zfuZhvzllvvEK-qlNFS2NCEKd536MPjEFYp7bYfSpos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2MTYyMjk0/MDUtODc5Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 593
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/xoCMlH0sUhDXBVQDWRvsS0u70WoXJhljiAZyVWQ-D0c/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2MTYyMjk0/MDUtNDg2Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/xoCMlH0sUhDXBVQDWRvsS0u70WoXJhljiAZyVWQ-D0c/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2MTYyMjk0/MDUtNDg2Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Ee9T-7nflcnpUbbEeKt3RqG5QQqN0cnlsXSc3X1Eyxg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2MTYyMjk0/MDUtNDg2Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 592
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/uEFM03xeur5hTwXBGeFdV5H70ZTTI93HNu1wmA3zdRI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2MTYyMjk0/MDYtMjkyNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/uEFM03xeur5hTwXBGeFdV5H70ZTTI93HNu1wmA3zdRI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2MTYyMjk0/MDYtMjkyNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/2BHfsY-H0oGlqkeg9BofAVOf-txEyh8nZfo8IjNqXOI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2MTYyMjk0/MDYtMjkyNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 595
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/oUooJWaGTppbEegauq4tIN_54q-enkans5Y-s1O2EZ0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2Mzc5NTUy/ODctMzYxOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/oUooJWaGTppbEegauq4tIN_54q-enkans5Y-s1O2EZ0/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2Mzc5NTUy/ODctMzYxOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/5yczt2Qx5V01ypk8qY8QmLYZ8v37eOkxH9tAhgj_ejw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2Mzc5NTUy/ODctMzYxOC5qcGVn.jpeg",
+      "width": 597,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/7nT-q-aaRNT9B7_3zEv4ah7s_Yv5wR9J76l_HBA-tFg/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2Mzc5NTUy/ODctOTc5Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/7nT-q-aaRNT9B7_3zEv4ah7s_Yv5wR9J76l_HBA-tFg/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2Mzc5NTUy/ODctOTc5Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ZMhGuyysToCByuxCDhBvjVuvJyXJSW8825Zlb3A6M24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2Mzc5NTUy/ODctOTc5Ny5qcGVn.jpeg",
+      "width": 592,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/O6cKnlwrsqydmeycvzDmNhyoUKbfZHbK6nByzUB05-4/rs:fit/g:sm/q:90/h:313/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2MTYyMjk0/MDYtOTgxOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/O6cKnlwrsqydmeycvzDmNhyoUKbfZHbK6nByzUB05-4/rs:fit/g:sm/q:90/h:313/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2MTYyMjk0/MDYtOTgxOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/2dO7f-zPUoB8FbVj4GQiA3CWylQxHgRXW6YUNjlqcLk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2MTYyMjk0/MDYtOTgxOS5qcGVn.jpeg",
+      "width": 600,
+      "height": 313
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/xT-Vgg036Z_DeL3TSrZBbbflRlg7jx6kXKZhKAOsUVo/rs:fit/g:sm/q:90/h:133/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2MTYyMjk0/MDctNTY2My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/xT-Vgg036Z_DeL3TSrZBbbflRlg7jx6kXKZhKAOsUVo/rs:fit/g:sm/q:90/h:133/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2MTYyMjk0/MDctNTY2My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/38TVAyBLPyrow8YW76S7wfuGeOsRIGQ6QKEGX4Zl9tQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2MTYyMjk0/MDctNTY2My5qcGVn.jpeg",
+      "width": 600,
+      "height": 133
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/hMCD7QP6kaK7JOtYj7QRtcVtR_nCaVHT3m0uFD4hT2c/rs:fit/g:sm/q:90/h:257/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2MTYyMjk0/MDctMzQxNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/hMCD7QP6kaK7JOtYj7QRtcVtR_nCaVHT3m0uFD4hT2c/rs:fit/g:sm/q:90/h:257/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2MTYyMjk0/MDctMzQxNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/eAZD3tHpuD8raVKBDN8g7MWDUobEqHec_wMONZm8knk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2MTYyMjk0/MDctMzQxNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 257
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/fMm_fL7mwokc5Dsn7Zk0K8V6SzUOWkWeoi0kjaAbhik/rs:fit/g:sm/q:90/h:168/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2MTYyMjk0/MDctMTA4MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/fMm_fL7mwokc5Dsn7Zk0K8V6SzUOWkWeoi0kjaAbhik/rs:fit/g:sm/q:90/h:168/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2MTYyMjk0/MDctMTA4MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/M4HRQCweJI9p5qrHzdkYnHbxBlvluGvGslB466gqpzk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2MTYyMjk0/MDctMTA4MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 168
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Jqnoq0ZckQMMzplwYE3kXlkZSBjCRLQqB7PvqNqEmCc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE3NzE0MjY0/OTctMTk4Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Jqnoq0ZckQMMzplwYE3kXlkZSBjCRLQqB7PvqNqEmCc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE3NzE0MjY0/OTctMTk4Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ao9OfBkuCOCLwugSq2xhxeImmaspCJ7lxbkcMzkxvh0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE3NzE0MjY0/OTctMTk4Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/fdRUkiodsvPvxDYVydXa9PjVmecoBB3ovt7vLMEgne0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE3NzE0MjY0/OTYtMjAyNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/fdRUkiodsvPvxDYVydXa9PjVmecoBB3ovt7vLMEgne0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE3NzE0MjY0/OTYtMjAyNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/IQsL6XBrjDPlB-RyqTD66pVlIgzF4bHxW3PQcUjR7do/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE3NzE0MjY0/OTYtMjAyNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/4W7a3tqc3g2dM2raAqVjcILEJqiGZZEAg76_KmprpcY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3ODg2/NDkwLTE2MTYyMjk0/MDQtMzMyOC5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

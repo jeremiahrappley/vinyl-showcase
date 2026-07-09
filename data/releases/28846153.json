@@ -1,0 +1,410 @@
+{
+  "id": 28846153,
+  "status": "Accepted",
+  "year": 2023,
+  "resource_url": "https://api.discogs.com/releases/28846153",
+  "uri": "https://www.discogs.com/release/28846153-Maeta-When-I-Hear-Your-Name",
+  "artists": [
+    {
+      "name": "Maeta",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 6623123,
+      "resource_url": "https://api.discogs.com/artists/6623123",
+      "thumbnail_url": "https://i.discogs.com/Om2336l2lTzYG0QpZLBy_gZmrck34eYxUc2u8-cl8MQ/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY2MjMx/MjMtMTY2ODcxMjcw/Ni03NjEyLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Maeta",
+  "labels": [
+    {
+      "name": "Roc Nation",
+      "catno": "ROC00585-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 286913,
+      "resource_url": "https://api.discogs.com/labels/286913",
+      "thumbnail_url": "https://i.discogs.com/1lWAu5gO6aXldghELFDi_AJCJlBsb36sVu0X0ZzLxos/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4Njkx/My0xNzUxMzEyMTkw/LTQ5NjEuanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Roc Nation Records, LLC",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 1508715,
+      "resource_url": "https://api.discogs.com/labels/1508715"
+    },
+    {
+      "name": "Roc Nation Records, LLC",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 1508715,
+      "resource_url": "https://api.discogs.com/labels/1508715"
+    },
+    {
+      "name": "UMG Commercial Services",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 1419182,
+      "resource_url": "https://api.discogs.com/labels/1419182"
+    },
+    {
+      "name": "GZ Media",
+      "catno": "267132E",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    },
+    {
+      "name": "Precision Record Pressing",
+      "catno": "10-101118",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 523699,
+      "resource_url": "https://api.discogs.com/labels/523699",
+      "thumbnail_url": "https://i.discogs.com/DfWvGCw34Q127_Eqz8MBLNwe-7lZqvAuM3xxalopIBo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUyMzY5/OS0xNjk5MzgyMzgz/LTIwNDYucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "text": "Red"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 274,
+    "want": 93,
+    "rating": {
+      "count": 21,
+      "average": 4.81
+    },
+    "submitter": {
+      "username": "jazzycats",
+      "resource_url": "https://api.discogs.com/users/jazzycats"
+    },
+    "contributors": [
+      {
+        "username": "jazzycats",
+        "resource_url": "https://api.discogs.com/users/jazzycats"
+      },
+      {
+        "username": "BurntFennel",
+        "resource_url": "https://api.discogs.com/users/BurntFennel"
+      },
+      {
+        "username": "Xmipod",
+        "resource_url": "https://api.discogs.com/users/Xmipod"
+      },
+      {
+        "username": "xx1385",
+        "resource_url": "https://api.discogs.com/users/xx1385"
+      },
+      {
+        "username": "sandblasted",
+        "resource_url": "https://api.discogs.com/users/sandblasted"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2023-11-09T04:30:10-08:00",
+  "date_changed": "2025-05-25T12:37:19-07:00",
+  "num_for_sale": 13,
+  "lowest_price": 15,
+  "title": "When I Hear Your Name",
+  "country": "US",
+  "released": "2023-11-03",
+  "released_formatted": "03 Nov 2023",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "810093559275",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "10-101118 / ROC0058501 - A 267132E1/A",
+      "description": "Runout Side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "10-101118 / ROC0058501 - B 267132E2/A",
+      "description": "Runout Side B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "10-101118 / ROC0058501 - C 267132E3/C",
+      "description": "Runout Side C"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "10-101118 / ROC0058501 - D 267132E4/A",
+      "description": "Runout Side D"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Contemporary R&B"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Sexual Love",
+      "extraartists": [
+        {
+          "name": "James Fauntleroy II",
+          "anv": "James Fauntleroy",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 737282,
+          "resource_url": "https://api.discogs.com/artists/737282"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Cool Cat",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Anybody",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Control Freak",
+      "extraartists": [
+        {
+          "name": "Ambré",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 8771260,
+          "resource_url": "https://api.discogs.com/artists/8771260"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Questions",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "F**k Your Friend",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Clarity",
+      "extraartists": [
+        {
+          "name": "Lucky Daye",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 10000549,
+          "resource_url": "https://api.discogs.com/artists/10000549"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "ASMR",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Kissing New People",
+      "extraartists": [
+        {
+          "name": "Ty$",
+          "anv": "Ty Dolla $ign",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1825654,
+          "resource_url": "https://api.discogs.com/artists/1825654"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Something Happens When I Hear Your Name",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "See You Around",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "S(EX)",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "title": "Through The Night",
+      "extraartists": [
+        {
+          "name": "The Free Nationals",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 4550604,
+          "resource_url": "https://api.discogs.com/artists/4550604"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Cool Cat [Live]",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Something Happens When I Hear Your Name [Live]",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Through The Night [Live]",
+      "extraartists": [
+        {
+          "name": "The Free Nationals",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 4550604,
+          "resource_url": "https://api.discogs.com/artists/4550604"
+        }
+      ],
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/14u0mFT4SdjyH1eZkUN6KLYiYzu_2amVMpweS5JKQSM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/MzgtNTAxNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/14u0mFT4SdjyH1eZkUN6KLYiYzu_2amVMpweS5JKQSM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/MzgtNTAxNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/esXEAWnbNqixKUiPbsIjYGPs41yncqf5HQT7-1kL4BI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/MzgtNTAxNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/zxZs9Vbb-uG5S-kM7tP_fHvYo3NbbuSTyHY6_F7f8fk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/NDYtNDQ2OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/zxZs9Vbb-uG5S-kM7tP_fHvYo3NbbuSTyHY6_F7f8fk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/NDYtNDQ2OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/jd76vgbdcmhKAOE_WG3LbON5zPqskQMo3QF0nC_YnPw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/NDYtNDQ2OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/xGojgVqsVb4GagXUI8yBCTvkz52IZYh5AnmmcTHfToc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/NTUtNDE1Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/xGojgVqsVb4GagXUI8yBCTvkz52IZYh5AnmmcTHfToc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/NTUtNDE1Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/GrZ_36OBQ8aBUySG1-8CrhndevZpzEvzVxWSMut137g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/NTUtNDE1Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/cyh9ihX4iCIrJ_UmvTkJfNDeG-5x-M_ltMfEF6Laoto/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/NjItMzMyOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/cyh9ihX4iCIrJ_UmvTkJfNDeG-5x-M_ltMfEF6Laoto/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/NjItMzMyOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/J-HCC59nUPQd0-lrp1HGEJZr2Uco_HZFj5E5MCM2_bo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/NjItMzMyOS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/D25XBhTQubfGu5uGYio8l3ji8pCQfZeZ3nbFdxX1WWs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/NjktMTcyNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/D25XBhTQubfGu5uGYio8l3ji8pCQfZeZ3nbFdxX1WWs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/NjktMTcyNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/3al8I_o-QgP0TAA1UiCDV3Vxnw8W8Cj3XCPk_h_VWts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/NjktMTcyNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/tSi_s8a9VohewTcaYEINkpmDsdlGNpiZZ9Km9xbXh6M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/NzYtNDIxOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/tSi_s8a9VohewTcaYEINkpmDsdlGNpiZZ9Km9xbXh6M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/NzYtNDIxOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/cyAbGeC_7he9CFvpzJ1uUibLLI93jCpfXp1tkWvmEa0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/NzYtNDIxOC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/sVnUPG7q-XN5_Qkb77oBeYWkcNXCqA3nxriJ1xqmvog/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/ODQtNjA4MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/sVnUPG7q-XN5_Qkb77oBeYWkcNXCqA3nxriJ1xqmvog/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/ODQtNjA4MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/uLQF50oCjAWM3jMkNQSIpZE9StwPgcAE80FnAx6lqig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/ODQtNjA4MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/3-vNvmdh9sdk0aeIcip6ji8gFBatvhXvWEJsc_9cPvc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/OTAtODExNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/3-vNvmdh9sdk0aeIcip6ji8gFBatvhXvWEJsc_9cPvc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/OTAtODExNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/u3TDtM4edvIX83WIjyHSZmdmydcwZoe1yOQc09BF-fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/OTAtODExNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/-gpkA31JOz3cPf8XFNWyihUzcbfQmgSqOzziKMdtoq0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/OTUtMTI0MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/-gpkA31JOz3cPf8XFNWyihUzcbfQmgSqOzziKMdtoq0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/OTUtMTI0MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/6kt1OgP7S_zBroU9G4t17TD70rfYfKwFIEjvxbjxzkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/OTUtMTI0MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/esXEAWnbNqixKUiPbsIjYGPs41yncqf5HQT7-1kL4BI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4ODQ2/MTUzLTE2OTk1MzM3/MzgtNTAxNy5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

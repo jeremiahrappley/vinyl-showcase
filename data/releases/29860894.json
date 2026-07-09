@@ -1,0 +1,417 @@
+{
+  "id": 29860894,
+  "status": "Accepted",
+  "year": 2024,
+  "resource_url": "https://api.discogs.com/releases/29860894",
+  "uri": "https://www.discogs.com/release/29860894-Tove-Lo-Dirt-Femme",
+  "artists": [
+    {
+      "name": "Tove Lo",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 3506702,
+      "resource_url": "https://api.discogs.com/artists/3506702",
+      "thumbnail_url": "https://i.discogs.com/V1BSkbzz-xWUs3W_DeMJw9Dtssb5IkOlf9i1ZiUy7YE/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM1MDY3/MDItMTY3MDA4NjI5/Mi05MzE2LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Tove Lo",
+  "labels": [
+    {
+      "name": "Mtheory",
+      "catno": "MT00814LPB",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 2815592,
+      "resource_url": "https://api.discogs.com/labels/2815592"
+    },
+    {
+      "name": "Pretty Swede Records",
+      "catno": "MT00814LPB",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 2859047,
+      "resource_url": "https://api.discogs.com/labels/2859047",
+      "thumbnail_url": "https://i.discogs.com/7Tkc1Bja2ZU3cLvteW-xnfNeA-uu3uS7WLMMIGlr6wI/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4NTkw/NDctMTcxNjc3MDc5/Mi0yNDQ4LmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Pretty Swede Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 2859047,
+      "resource_url": "https://api.discogs.com/labels/2859047",
+      "thumbnail_url": "https://i.discogs.com/7Tkc1Bja2ZU3cLvteW-xnfNeA-uu3uS7WLMMIGlr6wI/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4NTkw/NDctMTcxNjc3MDc5/Mi0yNDQ4LmpwZWc.jpeg"
+    },
+    {
+      "name": "Mtheory",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 2815592,
+      "resource_url": "https://api.discogs.com/labels/2815592"
+    },
+    {
+      "name": "Pretty Swede Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 2859047,
+      "resource_url": "https://api.discogs.com/labels/2859047",
+      "thumbnail_url": "https://i.discogs.com/7Tkc1Bja2ZU3cLvteW-xnfNeA-uu3uS7WLMMIGlr6wI/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4NTkw/NDctMTcxNjc3MDc5/Mi0yNDQ4LmpwZWc.jpeg"
+    },
+    {
+      "name": "Mtheory",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 2815592,
+      "resource_url": "https://api.discogs.com/labels/2815592"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 358,
+    "want": 128,
+    "rating": {
+      "count": 25,
+      "average": 4.8
+    },
+    "submitter": {
+      "username": "alexlopezez",
+      "resource_url": "https://api.discogs.com/users/alexlopezez"
+    },
+    "contributors": [
+      {
+        "username": "alexlopezez",
+        "resource_url": "https://api.discogs.com/users/alexlopezez"
+      },
+      {
+        "username": "EntePips",
+        "resource_url": "https://api.discogs.com/users/EntePips"
+      },
+      {
+        "username": "remco2502",
+        "resource_url": "https://api.discogs.com/users/remco2502"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2024-02-20T02:41:11-08:00",
+  "date_changed": "2024-03-03T13:00:48-08:00",
+  "num_for_sale": 0,
+  "lowest_price": null,
+  "master_id": 2823962,
+  "master_url": "https://api.discogs.com/masters/2823962",
+  "title": "Dirt Femme",
+  "country": "Europe",
+  "released": "2024-02-00",
+  "notes": "Standard black vinyl reissue in 33 ⅓ RPM.\n\nSticker \"Made in Germany\" on the back.",
+  "released_formatted": "Feb 2024",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 53738 91211 6"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MT00814-A (2) 00653738912116 JN-H STERLING -63022-I",
+      "description": "Side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MT00814-B (2) 00653738912116 JN-H STERLING -63022-I",
+      "description": "Side B"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=CMWLX0KXwF4",
+      "title": "Tove Lo - No One Dies From Love (Official Music Video)",
+      "description": "Tove Lo - No One Dies From Love (Official Music Video)\n\nStream ‘No One Dies From Love’ Out Now:https://tovelo.ffm.to/nodfl\n\nDirected by Alaska\nProduced by Iconoclast and Tove Lo\n\nInés Valderas as Annie 3000\n\nIconoclast EP: Francesco Colombo\nIconoclast Mex",
+      "duration": 288,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=BgqSwrDQgYk",
+      "title": "Tove Lo - Suburbia (Scene 2)",
+      "description": "Tove Lo - Suburbia (Scene 2)\n\n‘Dirt Femme Out Now 🦂: https://tovelo.ffm.to/dirtfemme\n\n\nDirector: Kenny Laubbacher\nDirector of Photography: Tamara Santos\nPhotographer:  Moni Haworth\nColorist: Kaitlyn Battistelli\nCreative Director: Charlie Twaddle\nProducer:",
+      "duration": 200,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=eUSkZCoGalo",
+      "title": "Tove Lo - 2 Die 4 (Official Music Video)",
+      "description": "Tove Lo - 2 Die 4 (Official Music Video)\n\nWe wanted to make a pop bitch y2k experience. With all the choreo, the outfits, the wetness. I think we more than delivered.  \n#2Die4 video out now 💦🌸\n\nStream ‘2 Die 4’ Out Now: https://tovelo.ffm.to/2die4\nPre-Ord",
+      "duration": 203,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=pvbEAkFbcPo",
+      "title": "Tove Lo - True Romance (Scene 4)",
+      "description": "Tove Lo - True Romance (Scene 4) \n\nStream ‘True Romance’ Out Now: https://tovelo.ffm.to/trueromance\n‘Dirt Femme’ out now: https://tovelo.komi.io/\n\nDirector: Kenny Laubbacher\nDirector of Photography: Tamara Santos\nCreative Director: Charlie Twaddle\nProduce",
+      "duration": 247,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=K52kfSE4N5U",
+      "title": "Tove Lo - Grapefruit (Official Music Video)",
+      "description": "Tove Lo - Grapefruit (Official Music Video)\n\nDirt Femme Out Now 🦂: https://tovelo.ffm.to/dirtfemme\n\n❗️TW❗️\n\nI’ve tried to write this song for over 10 years. I know I haven’t talked about it a lot in interviews or even in my music which is my most honest p",
+      "duration": 243,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=WoVvmBh8_Yg",
+      "title": "Tove Lo - Cute & Cruel (feat First Aid Kit - Scene 6)",
+      "description": "Tove Lo - Cute & Cruel (feat First Aid Kit - Scene 6)\n\nDirt Femme Out Now 🦂: https://tovelo.ffm.to/dirtfemme\n\n\nDirector: Kenny Laubbacher\nDirector of Photography: Tamara Santos\nPhotographer:  Moni Haworth\nColorist: Kaitlyn Battistelli\nCreative Director: C",
+      "duration": 181,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ooNzY674MW8",
+      "title": "Tove Lo - Call On Me (with SG Lewis - Scene 7)",
+      "description": "Tove Lo - Call On Me (with SG Lewis - Scene 7)\n\nDirector: Moni Haworth\nDirector of Photography: Moni Haworth & Juliana \"Juju\" Sorelli & Collin Black\nEditor: Jessica Mae \nCreative Director: Charlie Twaddle\nProducer: Juliana \"Juju\" Sorelli\n\nLyrics \n\nLay und",
+      "duration": 197,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=OXmLfIFyjZg",
+      "title": "Attention Whore (feat Channel Tres - Scene 8)",
+      "description": "Attention Whore (feat Channel Tres - Scene 8)\n\nDirt Femme Out Now 🦂 https://tovelo.ffm.to/dirtfemme\n\nAttention Whore (feat. Channel Tres)\nDirector: Kenny Laubbacher\nDirector of Photography: Tamara Santos\nPhotographer: Moni Haworth\nColorist: Kaitlyn Battis",
+      "duration": 191,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5xUTW1QgxNs",
+      "title": "Pineapple Slice (with SG Lewis - Scene 9)",
+      "description": "Pineapple Slice (with SG Lewis - Scene 9)\n\nDirt Femme Out Now 🦂 https://tovelo.ffm.to/dirtfemme\n\nDirector: Moni Haworth\nDirector of Photography: Moni Haworth & Juliana \"Juju\" Sorelli\nEditor: Jessica Mae \nCreative Director: Charlie Twaddle\nProducer: Julian",
+      "duration": 177,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ZCzvzRxUvsM",
+      "title": "Tove Lo - I'm To Blame (Scene 10)",
+      "description": "Tove Lo - I'm To Blame (Scene 10)\n\nDirt Femme Out Now 🦂 https://tovelo.ffm.to/dirtfemme\n\nDirector: Kenny Laubbacher\nDirector of Photography: Tamara Santos\nPhotographer:  Moni Haworth\nColorist: Kaitlyn Battistelli\nCreative Director: Charlie Twaddle\nProduce",
+      "duration": 218,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=FyeBmi7AVe0",
+      "title": "Tove Lo - Kick In The Head (Scene 11)",
+      "description": "Tove Lo - Kick In The Head (Scene 11)\n\nDirt Femme Out Now 🦂 https://tovelo.ffm.to/dirtfemme\n\nDirector: Kenny Laubbacher\nDirector of Photography: Tamara Santos\nPhotographer:  Moni Haworth\nColorist: Kaitlyn Battistelli\nCreative Director: Charlie Twaddle\nPro",
+      "duration": 196,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5FNCukepaS8",
+      "title": "Tove Lo - How Long (Official Video)",
+      "description": "Tove Lo – How Long (Official Video)\nhttps://ToveLo.lnk.to/How_Long\n\n\nProduction Company: PRETTYBIRD\nExecutive Producer: Candice Dragonas, Tove Lo, Charlie Twaddle\nLine Producer: Nandi George\nDirectors: KENTEN\nMakeup: Lily Keys\nHair: Preston Wada\nStyling: ",
+      "duration": 201,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic"
+  ],
+  "styles": [
+    "Dance-pop",
+    "Synth-pop"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "No One Dies From Love",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Suburbia",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "2 Die 4",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "True Romance",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Grapefruit",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Cute & Cruel",
+      "extraartists": [
+        {
+          "name": "First Aid Kit",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1097350,
+          "resource_url": "https://api.discogs.com/artists/1097350"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Call On Me",
+      "extraartists": [
+        {
+          "name": "Sg Lewis",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 4401954,
+          "resource_url": "https://api.discogs.com/artists/4401954"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Attention Whore",
+      "extraartists": [
+        {
+          "name": "Channel Tres",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 5592814,
+          "resource_url": "https://api.discogs.com/artists/5592814"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Pineapple Slice",
+      "extraartists": [
+        {
+          "name": "Sg Lewis",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 4401954,
+          "resource_url": "https://api.discogs.com/artists/4401954"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "I'm To Blame",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Kick In The Head",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "How Long",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/tCEyGcxoK5i0Y4eSYQYhrJ932mAOjTDTK9Mkl57tRq0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYw/ODk0LTE3MDg0MzI1/NTMtNjQ1Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/tCEyGcxoK5i0Y4eSYQYhrJ932mAOjTDTK9Mkl57tRq0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYw/ODk0LTE3MDg0MzI1/NTMtNjQ1Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/GaKLLpVHKUUJUS0wbTVFBkfA_snUscOeAdmgK2fHbx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYw/ODk0LTE3MDg0MzI1/NTMtNjQ1Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/R4WvTVYG1QeNGZk0udRYOt_zmOCiY3V8hDGjw--dzq0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYw/ODk0LTE3MDg0MzI1/NTMtNjY3OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/R4WvTVYG1QeNGZk0udRYOt_zmOCiY3V8hDGjw--dzq0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYw/ODk0LTE3MDg0MzI1/NTMtNjY3OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Cwva67t6pX4uQlcYu9xIQUsnfqEoaRgvjaD2Zk71WTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYw/ODk0LTE3MDg0MzI1/NTMtNjY3OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Xgw5vWpQk6_x-kqdsZeZOlNAZnyHNeAebLw_5TN4Mnw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYw/ODk0LTE3MDg0MzI1/NTItNDYxNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Xgw5vWpQk6_x-kqdsZeZOlNAZnyHNeAebLw_5TN4Mnw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYw/ODk0LTE3MDg0MzI1/NTItNDYxNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/s-d0jkIa3odKWRq9NeiwJd0iCR_DfsiR-XIhI37F51I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYw/ODk0LTE3MDg0MzI1/NTItNDYxNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/wVRNY6N_LwSCTp6A5EuL-TAXrJG-UqE1G7rDXrPxKTo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYw/ODk0LTE3MDg0MzI1/NTMtMjU0MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/wVRNY6N_LwSCTp6A5EuL-TAXrJG-UqE1G7rDXrPxKTo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYw/ODk0LTE3MDg0MzI1/NTMtMjU0MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/8VYJXRD0s5hA_8Qqq12v5c8eAFEr7uMYHVdCBKKUR2w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYw/ODk0LTE3MDg0MzI1/NTMtMjU0MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/y62Ym-h36uBrqiNLF4nvGxeFfzt2ZeQu6PKDbcjtYmM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYw/ODk0LTE3MDg0MzI1/NTMtNjIyNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/y62Ym-h36uBrqiNLF4nvGxeFfzt2ZeQu6PKDbcjtYmM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYw/ODk0LTE3MDg0MzI1/NTMtNjIyNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/_MmpWqY34wUlyBXh3PAuSBw-NjQhkcFIoPanIvy1LSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYw/ODk0LTE3MDg0MzI1/NTMtNjIyNi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/llBRfOq72DN6Ps_M6NRjS3p4ShhxpqB1cLBXXFYCYhE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYw/ODk0LTE3MDg0MzI1/NTQtNDA5MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/llBRfOq72DN6Ps_M6NRjS3p4ShhxpqB1cLBXXFYCYhE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYw/ODk0LTE3MDg0MzI1/NTQtNDA5MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/018gIMuv4QpSdjo6qOSoinqEjfWfHRu5bwkwjpva4Gc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYw/ODk0LTE3MDg0MzI1/NTQtNDA5MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/bK-mcKTwJWJOOU_JpVe0lIXABBxQA3akgsgBi3a2vEM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYw/ODk0LTE3MDg0MzI1/NTEtNTkxMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/bK-mcKTwJWJOOU_JpVe0lIXABBxQA3akgsgBi3a2vEM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYw/ODk0LTE3MDg0MzI1/NTEtNTkxMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/GBN9navxaw2WegmrzGU36alhnOM7_w0HQntmVtbd6io/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYw/ODk0LTE3MDg0MzI1/NTEtNTkxMy5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/GaKLLpVHKUUJUS0wbTVFBkfA_snUscOeAdmgK2fHbx8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5ODYw/ODk0LTE3MDg0MzI1/NTMtNjQ1Ni5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

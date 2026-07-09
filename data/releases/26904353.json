@@ -1,0 +1,553 @@
+{
+  "id": 26904353,
+  "status": "Accepted",
+  "year": 2022,
+  "resource_url": "https://api.discogs.com/releases/26904353",
+  "uri": "https://www.discogs.com/release/26904353-Drake-Views",
+  "artists": [
+    {
+      "name": "Drake",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 151199,
+      "resource_url": "https://api.discogs.com/artists/151199",
+      "thumbnail_url": "https://i.discogs.com/SCU2bmCyMN21mfYL7uoQenQJsjEM9Mtz3k6htdW6slg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE1MTE5/OS0xNjU1NTczODc5/LTgyMDMuanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Drake",
+  "labels": [
+    {
+      "name": "Young Money",
+      "catno": "B0025236-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 211066,
+      "resource_url": "https://api.discogs.com/labels/211066",
+      "thumbnail_url": "https://i.discogs.com/EKG7axr0UDcju_jAN9AlBjqvcI3bEV4x6OZmK_3l9Lk/rs:fit/g:sm/q:90/h:202/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxMTA2/Ni0xNzI1NzI3NDYx/LTgwNTUuanBlZw.jpeg"
+    },
+    {
+      "name": "Cash Money Records",
+      "catno": "B0025236-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 19799,
+      "resource_url": "https://api.discogs.com/labels/19799",
+      "thumbnail_url": "https://i.discogs.com/DOJAy2_H-CJsw0a9XtVIDDBpUM7BRHfNWiHyuZ0FvcY/rs:fit/g:sm/q:90/h:600/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5Nzk5/LTE0ODg5MTgwNTct/Mzg1OS5wbmc.jpeg"
+    },
+    {
+      "name": "Republic Records",
+      "catno": "B0025236-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Young Money",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 211066,
+      "resource_url": "https://api.discogs.com/labels/211066",
+      "thumbnail_url": "https://i.discogs.com/EKG7axr0UDcju_jAN9AlBjqvcI3bEV4x6OZmK_3l9Lk/rs:fit/g:sm/q:90/h:202/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxMTA2/Ni0xNzI1NzI3NDYx/LTgwNTUuanBlZw.jpeg"
+    },
+    {
+      "name": "Cash Money Records, Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 273837,
+      "resource_url": "https://api.discogs.com/labels/273837"
+    },
+    {
+      "name": "Young Money",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 211066,
+      "resource_url": "https://api.discogs.com/labels/211066",
+      "thumbnail_url": "https://i.discogs.com/EKG7axr0UDcju_jAN9AlBjqvcI3bEV4x6OZmK_3l9Lk/rs:fit/g:sm/q:90/h:202/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxMTA2/Ni0xNzI1NzI3NDYx/LTgwNTUuanBlZw.jpeg"
+    },
+    {
+      "name": "Cash Money Records, Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 273837,
+      "resource_url": "https://api.discogs.com/labels/273837"
+    },
+    {
+      "name": "Republic Records",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    },
+    {
+      "name": "Republic Records",
+      "catno": "",
+      "entity_type": "8",
+      "entity_type_name": "Marketed By",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    },
+    {
+      "name": "UMG Recordings, Inc.",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 272782,
+      "resource_url": "https://api.discogs.com/labels/272782",
+      "thumbnail_url": "https://i.discogs.com/WX78Ss6rJPzD8aWRj-wynSuGlTwtQLp2QLnUFGDI3Pg/rs:fit/g:sm/q:90/h:80/w:534/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Mjc4/Mi0xNDU3MDEyNDAw/LTExMzYuanBlZw.jpeg"
+    },
+    {
+      "name": "Universal Music Distribution",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 115478,
+      "resource_url": "https://api.discogs.com/labels/115478"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 1723,
+    "want": 457,
+    "rating": {
+      "count": 177,
+      "average": 4.56
+    },
+    "submitter": {
+      "username": "vernshobbies",
+      "resource_url": "https://api.discogs.com/users/vernshobbies"
+    },
+    "contributors": [
+      {
+        "username": "vernshobbies",
+        "resource_url": "https://api.discogs.com/users/vernshobbies"
+      },
+      {
+        "username": "Xmipod",
+        "resource_url": "https://api.discogs.com/users/Xmipod"
+      },
+      {
+        "username": "MarioLTZ",
+        "resource_url": "https://api.discogs.com/users/MarioLTZ"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2023-04-27T14:18:34-07:00",
+  "date_changed": "2024-12-27T11:39:29-08:00",
+  "num_for_sale": 22,
+  "lowest_price": 0.11,
+  "master_id": 997631,
+  "master_url": "https://api.discogs.com/masters/997631",
+  "title": "Views",
+  "country": "US",
+  "released": "2022",
+  "released_formatted": "2022",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02547 97336 8"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4797333-A 147933E1/D",
+      "description": "Side A runout, etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4797333-B 147933E2/E",
+      "description": "Side B runout, etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4797335-A 147933E3/H",
+      "description": "Side C runout, etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "4797335-B 147933E4/H",
+      "description": "Side D runout, etched"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=zcGjOC_LjoQ",
+      "title": "Drake - Views (Audio)",
+      "description": "Drake comes in at 0:32 in the song",
+      "duration": 313,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=zrgH95-sqls",
+      "title": "Drake - U With Me?",
+      "description": "Official audio for Drake “U With Me?” off the album ‘Views’",
+      "duration": 329,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=WstYC1BH6VQ",
+      "title": "Drake - Feel No Ways",
+      "description": "Official audio for Drake “Feel No Ways” off the album ‘Views’",
+      "duration": 272,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=d9BDizRLzVc",
+      "title": "Drake- Weston Road Flows \"Views\" (2016)",
+      "description": "Drake- Weston Road Flows \"Views\" (2016)",
+      "duration": 255,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=M31W34zYreM",
+      "title": "Drake - Views",
+      "description": "Official audio for Drake “Views” off the album ‘Views’",
+      "duration": 313,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=q50SwIodCwg",
+      "title": "Drake - 9",
+      "description": "Official audio for Drake “9” off the album ‘Views’",
+      "duration": 287,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=AI1h7t1NRi8",
+      "title": "Drake - Redemption",
+      "description": "Official audio for Drake “Redemption” off the album ‘Views’",
+      "duration": 365,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=p8qTu5eyQ7Q",
+      "title": "Drake - Still Here",
+      "description": "Official audio for Drake “Still Here” off the album ‘Views’",
+      "duration": 191,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Hip Hop",
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Contemporary R&B",
+    "Pop Rap",
+    "Trap"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Keep The Family Close",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "9",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "U With Me?",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Feel No Ways",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Hype",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Weston Road Flows",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Redemption",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "With You",
+      "extraartists": [
+        {
+          "name": "PartyNextDoor",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3554300,
+          "resource_url": "https://api.discogs.com/artists/3554300"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Faithful",
+      "extraartists": [
+        {
+          "name": "Dvsn (2)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 4965698,
+          "resource_url": "https://api.discogs.com/artists/4965698"
+        },
+        {
+          "name": "Pimp C",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 175575,
+          "resource_url": "https://api.discogs.com/artists/175575"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Still Here",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Controlla",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "One Dance",
+      "extraartists": [
+        {
+          "name": "Kyla (3)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1003686,
+          "resource_url": "https://api.discogs.com/artists/1003686"
+        },
+        {
+          "name": "WizKid (4)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3292269,
+          "resource_url": "https://api.discogs.com/artists/3292269"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Grammys",
+      "extraartists": [
+        {
+          "name": "Future (4)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 221673,
+          "resource_url": "https://api.discogs.com/artists/221673"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "Childs Play",
+      "duration": ""
+    },
+    {
+      "position": "C5",
+      "type_": "track",
+      "title": "Pop Style",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Too Good",
+      "extraartists": [
+        {
+          "name": "Rihanna",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 321128,
+          "resource_url": "https://api.discogs.com/artists/321128"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Summers Over Interlude",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Fire & Desire",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "title": "Views",
+      "duration": ""
+    },
+    {
+      "position": "D5",
+      "type_": "track",
+      "title": "Hotline Bling (Bonus)",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Aubrey Graham",
+      "anv": "Aubrey Drake Graham",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 1557579,
+      "resource_url": "https://api.discogs.com/artists/1557579"
+    },
+    {
+      "name": "Noah Shebib",
+      "anv": "Noah \"40\" Shebib",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 895435,
+      "resource_url": "https://api.discogs.com/artists/895435"
+    },
+    {
+      "name": "Chris Athens",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 237914,
+      "resource_url": "https://api.discogs.com/artists/237914"
+    },
+    {
+      "name": "Noel Campbell",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "",
+      "id": 1379473,
+      "resource_url": "https://api.discogs.com/artists/1379473"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/5DtHS-bYTIl0bTg6PRH_c9dMCclQ9lx9KFcDVxH3uIs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTA0/MzUzLTE2ODI2MzE0/NjctNTk2Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/5DtHS-bYTIl0bTg6PRH_c9dMCclQ9lx9KFcDVxH3uIs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTA0/MzUzLTE2ODI2MzE0/NjctNTk2Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ZXGSTqKpNxs76VOO5YItOFCqptFtzMBBPhaJSc4FzBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTA0/MzUzLTE2ODI2MzE0/NjctNTk2Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/vUavzuAYDfaSQ1bkWp6Ek4t1N91YO-GyJaE45oaXvbU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTA0/MzUzLTE2ODI2MzE0/NjctNTYzNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/vUavzuAYDfaSQ1bkWp6Ek4t1N91YO-GyJaE45oaXvbU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTA0/MzUzLTE2ODI2MzE0/NjctNTYzNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Tz6Q-DPlW69lcir3YBv27MLfErYW-vf6w1y-D7qV9r4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTA0/MzUzLTE2ODI2MzE0/NjctNTYzNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ZpBKzJf_MVSqqay9QI4uK7XSK6Mgz4Az0oWp344nDbo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTA0/MzUzLTE2ODI2MzE0/NjctMjY4NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ZpBKzJf_MVSqqay9QI4uK7XSK6Mgz4Az0oWp344nDbo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTA0/MzUzLTE2ODI2MzE0/NjctMjY4NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/9M_yas031QbMfzOSt269xn9okxf26CtMkqnzQB5csC8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTA0/MzUzLTE2ODI2MzE0/NjctMjY4NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/DqYcE9-Eht06auqKXabSEyT3aprQ4x4m9e6ueS3tjnw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTA0/MzUzLTE2ODI2MzE0/NjctNTE1NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/DqYcE9-Eht06auqKXabSEyT3aprQ4x4m9e6ueS3tjnw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTA0/MzUzLTE2ODI2MzE0/NjctNTE1NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/mjsWx-2TH5MVyIbuSRhDl2b0uQuRqu96VI_j5A3I1Zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTA0/MzUzLTE2ODI2MzE0/NjctNTE1NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/n7dRkpdBBsX2HycmaNFD-dqKRYTADuhGyRlzuZf6IoM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTA0/MzUzLTE2ODI2MzE0/NjQtNDc0Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/n7dRkpdBBsX2HycmaNFD-dqKRYTADuhGyRlzuZf6IoM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTA0/MzUzLTE2ODI2MzE0/NjQtNDc0Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/obeI-81KKEmdUKyCCeq6bmNc6XYZc2VM7c-SX3yILKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTA0/MzUzLTE2ODI2MzE0/NjQtNDc0Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Q9GVRSPbw9uNZDVCIW8avo6x6HyisIuCLKpEdkkEefA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTA0/MzUzLTE2ODI2MzE0/NjUtNzg1Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Q9GVRSPbw9uNZDVCIW8avo6x6HyisIuCLKpEdkkEefA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTA0/MzUzLTE2ODI2MzE0/NjUtNzg1Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/AJcZ29r05DUifu5hJfN90708ThitXKFKUE8Yvk-oMa8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTA0/MzUzLTE2ODI2MzE0/NjUtNzg1Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/ZXGSTqKpNxs76VOO5YItOFCqptFtzMBBPhaJSc4FzBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2OTA0/MzUzLTE2ODI2MzE0/NjctNTk2Ni5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

@@ -1,0 +1,507 @@
+{
+  "id": 26304458,
+  "status": "Accepted",
+  "year": 2023,
+  "resource_url": "https://api.discogs.com/releases/26304458",
+  "uri": "https://www.discogs.com/release/26304458-Kali-Uchis-Red-Moon-In-Venus",
+  "artists": [
+    {
+      "name": "Kali Uchis",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 3741760,
+      "resource_url": "https://api.discogs.com/artists/3741760",
+      "thumbnail_url": "https://i.discogs.com/OPuUzWav0YIa5dKNDf7GihiQBKu8pEBJHTWclPjl3cE/rs:fit/g:sm/q:90/h:569/w:569/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM3NDE3/NjAtMTc1NzQ2ODEw/NS02NTAzLnBuZw.jpeg"
+    }
+  ],
+  "artists_sort": "Kali Uchis",
+  "labels": [
+    {
+      "name": "Interscope Records",
+      "catno": "B0037156-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 2311,
+      "resource_url": "https://api.discogs.com/labels/2311",
+      "thumbnail_url": "https://i.discogs.com/58MHEZ0kBRytN0Ivvqvnirp57RFfiqWh1YGJLsn62ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTEt/MTUxNzAxMTEyMy00/NjEwLmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Interscope Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 2311,
+      "resource_url": "https://api.discogs.com/labels/2311",
+      "thumbnail_url": "https://i.discogs.com/58MHEZ0kBRytN0Ivvqvnirp57RFfiqWh1YGJLsn62ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTEt/MTUxNzAxMTEyMy00/NjEwLmpwZWc.jpeg"
+    },
+    {
+      "name": "Interscope Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 2311,
+      "resource_url": "https://api.discogs.com/labels/2311",
+      "thumbnail_url": "https://i.discogs.com/58MHEZ0kBRytN0Ivvqvnirp57RFfiqWh1YGJLsn62ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTEt/MTUxNzAxMTEyMy00/NjEwLmpwZWc.jpeg"
+    },
+    {
+      "name": "Black Belt Mastering",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 590709,
+      "resource_url": "https://api.discogs.com/labels/590709",
+      "thumbnail_url": "https://i.discogs.com/iG00tAGytf43gLO6VjibQ5siy6pxav987zOoQoR3Ve8/rs:fit/g:sm/q:90/h:279/w:180/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU5MDcw/OS0xNDU5ODA5NDIy/LTcxNTAucG5n.jpeg"
+    },
+    {
+      "name": "Record Technology Incorporated",
+      "catno": "40799",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 66254,
+      "resource_url": "https://api.discogs.com/labels/66254",
+      "thumbnail_url": "https://i.discogs.com/NZIJOUdgmVHURy9AfZAXM0L0OB6S3lijFX4CZ_-nWh4/rs:fit/g:sm/q:90/h:240/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY2MjU0/LTE1MTYyOTg3NDIt/NDQxMS5wbmc.jpeg"
+    },
+    {
+      "name": "Urban Outfitters",
+      "catno": "",
+      "entity_type": "42",
+      "entity_type_name": "Exclusive Retailer",
+      "id": 109593,
+      "resource_url": "https://api.discogs.com/labels/109593",
+      "thumbnail_url": "https://i.discogs.com/y2ZTu36Kbs5pYeZk2Mgp8h0f0VWd87vIqaTFKED-6u8/rs:fit/g:sm/q:90/h:339/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwOTU5/My0xNjI2ODA0MzIw/LTQ5MjYuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "text": "Salmon"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 1832,
+    "want": 815,
+    "rating": {
+      "count": 93,
+      "average": 4.65
+    },
+    "submitter": {
+      "username": "leewayland",
+      "resource_url": "https://api.discogs.com/users/leewayland"
+    },
+    "contributors": [
+      {
+        "username": "leewayland",
+        "resource_url": "https://api.discogs.com/users/leewayland"
+      },
+      {
+        "username": "Nattygirl6",
+        "resource_url": "https://api.discogs.com/users/Nattygirl6"
+      },
+      {
+        "username": "forslayage",
+        "resource_url": "https://api.discogs.com/users/forslayage"
+      },
+      {
+        "username": ".CellarDoor.",
+        "resource_url": "https://api.discogs.com/users/.CellarDoor."
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2023-03-04T11:51:28-08:00",
+  "date_changed": "2025-07-12T19:27:48-07:00",
+  "num_for_sale": 9,
+  "lowest_price": 45,
+  "master_id": 3002282,
+  "master_url": "https://api.discogs.com/masters/3002282",
+  "title": "Red Moon In Venus",
+  "country": "US",
+  "released": "2023-03-03",
+  "notes": "Urban Outfitters Exclusive, on Salmon Vinyl - Limited to 2,000 units.\n\nBack cover and inner sleeve lists \"Amanecer\" as Track 7, but it's \"Como Te Quiero Yo.\"\n\nHype sticker says \"B0037156-01\" as catalog number, but spine/center label says \"B0036620-01.\"\n\nInterscope Records 2220 Colorado Ave., Santa Monica, CA 90404.\nDistributed by UMG Commercial Services PC 2023 Interscope Records\nAll rights reserved. B0036620-01\n\nBarcode on sticker on shrink over stock jacket. Made in USA stamped on back cover.",
+  "released_formatted": "03 Mar 2023",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02448 42996 4",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "602448429964",
+      "description": "Scanned"
+    },
+    {
+      "type": "Label Code",
+      "value": "B0036620-01"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0036620-01-A BLACKBELT-LEVI 40799.1(3)...",
+      "description": "Side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0036620-01-B BLACKBELT-LEVI 40799.2(3)...",
+      "description": "Side B"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=-Y7zc0eO26k",
+      "title": "Kali Uchis - I Wish you Roses (Official Music Video)",
+      "description": "Stream Kali Uchis' new single \"I Wish you Roses\" here: https://kaliuchis.lnk.to/IWishyouRoses\n\nFollow/Seguir Kali Uchis:\nWebsite: http://kaliuchis.com/\nTikTok: https://www.tiktok.com/@kaliuchis \nInstagram: https://www.instagram.com/kaliuchis/\nTwitter: htt",
+      "duration": 224,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=8F7Q-4PZCjA",
+      "title": "Kali Uchis - Moonlight (Official Lyric Video)",
+      "description": "Stream Kali Uchis' new album #RedMoonInVenus: https://KaliUchis.lnk.to/RedMoonInVenus\n\nFollow/Seguir Kali Uchis: \nWebsite: http://kaliuchis.com/ \nInstagram: https://www.instagram.com/kaliuchis/ \nTwitter: https://www.twitter.com/KALIUCHIS \nFacebook: https:",
+      "duration": 188,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=dA-9qtVpySU",
+      "title": "Kali Uchis - Love Between… [Official Audio]",
+      "description": "Stream Kali Uchis’ new album ‘Red Moon in Venus’ out now: https://kaliuchis.lnk.to/RedMoonInVenus\n\nFollow/Seguir Kali Uchis: \nWebsite: http://kaliuchis.com/ \nInstagram: https://www.instagram.com/kaliuchis/ \nTwitter: https://www.twitter.com/KALIUCHIS \nFace",
+      "duration": 156,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=t_CLW5WTQp4",
+      "title": "Kali Uchis - Endlessly [Official Audio]",
+      "description": "Stream Kali Uchis’ new album ‘Red Moon in Venus’ out now: https://kaliuchis.lnk.to/RedMoonInVenus\n\nFollow/Seguir Kali Uchis: \nWebsite: http://kaliuchis.com/ \nInstagram: https://www.instagram.com/kaliuchis/ \nTwitter: https://www.twitter.com/KALIUCHIS \nFace",
+      "duration": 156,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=B1j5uwd6r0c",
+      "title": "Kali Uchis - Blue [Official Audio]",
+      "description": "Stream Kali Uchis’ new album ‘Red Moon in Venus’ out now: https://kaliuchis.lnk.to/RedMoonInVenus\n\nFollow/Seguir Kali Uchis: \nWebsite: http://kaliuchis.com/ \nInstagram: https://www.instagram.com/kaliuchis/ \nTwitter: https://www.twitter.com/KALIUCHIS \nFace",
+      "duration": 193,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KhR_DvOuDKQ",
+      "title": "Kali Uchis - All Mine [Official Audio]",
+      "description": "Stream Kali Uchis’ new album ‘Red Moon in Venus’ out now: https://kaliuchis.lnk.to/RedMoonInVenus\n\nFollow/Seguir Kali Uchis: \nWebsite: http://kaliuchis.com/ \nInstagram: https://www.instagram.com/kaliuchis/ \nTwitter: https://www.twitter.com/KALIUCHIS \nFace",
+      "duration": 210,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=48JNU9_EN6Q",
+      "title": "Kali Uchis - Happy Now [Official Audio]",
+      "description": "Stream Kali Uchis’ new album ‘Red Moon in Venus’ out now: https://kaliuchis.lnk.to/RedMoonInVenus\n\nFollow/Seguir Kali Uchis: \nWebsite: http://kaliuchis.com/ \nInstagram: https://www.instagram.com/kaliuchis/ \nTwitter: https://www.twitter.com/KALIUCHIS \nFace",
+      "duration": 230,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=_zpTLc06u5Q",
+      "title": "Kali Uchis - Como Te Quiero Yo [Official Audio]",
+      "description": "Stream Kali Uchis’ new album ‘Red Moon in Venus’ out now: https://kaliuchis.lnk.to/RedMoonInVenus\n\nFollow/Seguir Kali Uchis: \nWebsite: http://kaliuchis.com/ \nInstagram: https://www.instagram.com/kaliuchis/ \nTwitter: https://www.twitter.com/KALIUCHIS \nFace",
+      "duration": 135,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=zylcqYw_oQM",
+      "title": "Kali Uchis - in My Garden… [Official Audio]",
+      "description": "Stream Kali Uchis’ new album ‘Red Moon in Venus’ out now: https://kaliuchis.lnk.to/RedMoonInVenus\n\nFollow/Seguir Kali Uchis: \nWebsite: http://kaliuchis.com/ \nInstagram: https://www.instagram.com/kaliuchis/ \nTwitter: https://www.twitter.com/KALIUCHIS \nFace",
+      "duration": 31,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ch5i_Bpd98Q",
+      "title": "Kali Uchis, Omar Apollo - Worth The Wait [Official Audio]",
+      "description": "Stream Kali Uchis’ new album ‘Red Moon in Venus’ out now: https://kaliuchis.lnk.to/RedMoonInVenus\n\nFollow/Seguir Kali Uchis: \nWebsite: http://kaliuchis.com/ \nInstagram: https://www.instagram.com/kaliuchis/ \nTwitter: https://www.twitter.com/KALIUCHIS \nFace",
+      "duration": 151,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KYT93GC5NIg",
+      "title": "Kali Uchis - Moral Conscience [Official Audio]",
+      "description": "Stream Kali Uchis’ new album ‘Red Moon in Venus’ out now: https://kaliuchis.lnk.to/RedMoonInVenus\n\nFollow/Seguir Kali Uchis: \nWebsite: http://kaliuchis.com/ \nInstagram: https://www.instagram.com/kaliuchis/ \nTwitter: https://www.twitter.com/KALIUCHIS \nFace",
+      "duration": 213,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=wfXyBDZX-zw",
+      "title": "Kali Uchis - Not Too Late (Interlude) [Official Audio]",
+      "description": "Stream Kali Uchis’ new album ‘Red Moon in Venus’ out now: https://kaliuchis.lnk.to/RedMoonInVenus\n\nFollow/Seguir Kali Uchis: \nWebsite: http://kaliuchis.com/ \nInstagram: https://www.instagram.com/kaliuchis/ \nTwitter: https://www.twitter.com/KALIUCHIS \nFace",
+      "duration": 156,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=UNPKGM-XbvM",
+      "title": "Red Moon In Venus Trailer",
+      "description": "The NEW kali Uchis’ Album Red Moon In Venus OUT 3/3/23\n\nFollow/Seguir Kali Uchis:\nWebsite: http://kaliuchis.com/\nTikTok: https://www.tiktok.com/@kaliuchis\nInstagram: https://www.instagram.com/kaliuchis/\nTwitter: https://www.twitter.com/KALIUCHIS\nFacebook:",
+      "duration": 36,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=7dq8CvY9a0g",
+      "title": "Kali Uchis, Summer Walker - Deserve Me [Official Audio]",
+      "description": "Stream Kali Uchis’ new album ‘Red Moon in Venus’ out now: https://kaliuchis.lnk.to/RedMoonInVenus\n\nFollow/Seguir Kali Uchis: \nWebsite: http://kaliuchis.com/ \nInstagram: https://www.instagram.com/kaliuchis/ \nTwitter: https://www.twitter.com/KALIUCHIS \nFace",
+      "duration": 266,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KWkx5jTtZ_0",
+      "title": "Kali Uchis, Don Toliver - Fantasy [Official Audio]",
+      "description": "Stream Kali Uchis’ new album ‘Red Moon in Venus’ out now: https://kaliuchis.lnk.to/RedMoonInVenus\n\nFollow/Seguir Kali Uchis: \nWebsite: http://kaliuchis.com/ \nInstagram: https://www.instagram.com/kaliuchis/ \nTwitter: https://www.twitter.com/KALIUCHIS \nFace",
+      "duration": 179,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=95zGz91WjOs",
+      "title": "All Red Moon In Venus snippets (so far) [English/Español]",
+      "description": "#KaliUchis #RedMoonInVenus\n\nAll this snippets are available on tiktok but some of them were takin down by the own Kali.\n\nTracklist: \n0:04 - I Wish You Roses\n0:32 - Worth The Wait (Ft. Omar Apollo)\n1:02 - Love Between\n1:17 - Hasta Cuando\n1:51 - Endlessly\n2",
+      "duration": 285,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=YtbObhyCg9k",
+      "title": "Kali Uchis - Hasta Cuando [Official Audio]",
+      "description": "Stream Kali Uchis’ new album ‘Red Moon in Venus’ out now: https://kaliuchis.lnk.to/RedMoonInVenus\n\nFollow/Seguir Kali Uchis: \nWebsite: http://kaliuchis.com/ \nInstagram: https://www.instagram.com/kaliuchis/ \nTwitter: https://www.twitter.com/KALIUCHIS \nFace",
+      "duration": 130,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=zBukbgTN0cE",
+      "title": "Kali Uchis - Moonlight (Official Music Video)",
+      "description": "Stream Kali Uchis’ new album ‘Red Moon in Venus’ out now: https://kaliuchis.lnk.to/RedMoonInVenus\n\nFollow/Seguir Kali Uchis: \nWebsite: http://kaliuchis.com/ \nInstagram: https://www.instagram.com/kaliuchis/ \nTwitter: https://www.twitter.com/KALIUCHIS \nFace",
+      "duration": 188,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Latin",
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Contemporary R&B",
+    "Neo Soul",
+    "Psychedelic",
+    "Funk"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "In My Garden...",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "I Wish You Roses",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Worth The Wait",
+      "extraartists": [
+        {
+          "name": "Omar Apollo",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 6812117,
+          "resource_url": "https://api.discogs.com/artists/6812117"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Love Between...",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "All Mine",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Fantasy",
+      "extraartists": [
+        {
+          "name": "Don Toliver",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 6775860,
+          "resource_url": "https://api.discogs.com/artists/6775860"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "title": "Como Te Quiero Yo",
+      "duration": ""
+    },
+    {
+      "position": "A8",
+      "type_": "track",
+      "title": "Hasta Cuando",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Endlessly",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Moral Conscience",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Not Too Late (Interlude)",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Blue",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Deserve Me",
+      "extraartists": [
+        {
+          "name": "Summer Walker",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1396401,
+          "resource_url": "https://api.discogs.com/artists/1396401"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Moonlight",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "title": "Happy Now",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Levi Seitz",
+      "anv": "Levi",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 2759326,
+      "resource_url": "https://api.discogs.com/artists/2759326"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/gyqoh3eVSltxuk1tXyqcskQcpWO9M6DiJ-iefwTQE3g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzA0/NDU4LTE2Nzc5NjEw/NjYtNzY2My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/gyqoh3eVSltxuk1tXyqcskQcpWO9M6DiJ-iefwTQE3g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzA0/NDU4LTE2Nzc5NjEw/NjYtNzY2My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/eTDOUzY-4M5XDPPgjllj6q4eWLQQjI7brNZZ1S59Bx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzA0/NDU4LTE2Nzc5NjEw/NjYtNzY2My5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/e_uhx63PgBQi5HvMdbtepppLfO0Y_FWFexfGeBk320w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzA0/NDU4LTE2Nzc5NjEw/NjAtNjE0NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/e_uhx63PgBQi5HvMdbtepppLfO0Y_FWFexfGeBk320w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzA0/NDU4LTE2Nzc5NjEw/NjAtNjE0NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/M1vtiFLXiUyuO88IMvTH0NpqhEBoObyr_5XhtjNa5OY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzA0/NDU4LTE2Nzc5NjEw/NjAtNjE0NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/8f5Y7N6KcBP2HHY3JO7Al0t6meLUCdUPfR9wXPp0h-w/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzA0/NDU4LTE2Nzc5NjY2/MjAtNzQyMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/8f5Y7N6KcBP2HHY3JO7Al0t6meLUCdUPfR9wXPp0h-w/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzA0/NDU4LTE2Nzc5NjY2/MjAtNzQyMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/4MVBhBPhUxPftit_hk9efs0cPx_JJe6Egmd_to8oik8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzA0/NDU4LTE2Nzc5NjY2/MjAtNzQyMi5qcGVn.jpeg",
+      "width": 586,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/nxrAEiJod1XmH4Ye8ZybrAzmlZpo3r13H1ibVPh3zis/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzA0/NDU4LTE2Nzc5NjY2/MjAtOTgyNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/nxrAEiJod1XmH4Ye8ZybrAzmlZpo3r13H1ibVPh3zis/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzA0/NDU4LTE2Nzc5NjY2/MjAtOTgyNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/STKGZ4agW-FCKDtLdbWGXxMo5m1Kajxld160BtOfE-c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzA0/NDU4LTE2Nzc5NjY2/MjAtOTgyNC5qcGVn.jpeg",
+      "width": 596,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/mCb1t-xZyeRQi2Q81sMRl1CKUJ1mh-lgKGKEnDpP08c/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzA0/NDU4LTE2Nzc5NjY2/MjAtMjIwNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/mCb1t-xZyeRQi2Q81sMRl1CKUJ1mh-lgKGKEnDpP08c/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzA0/NDU4LTE2Nzc5NjY2/MjAtMjIwNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/R16FGNtZbM1CMSLJB3O5FE6YgkGDlfJ69iMiD58tGfM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzA0/NDU4LTE2Nzc5NjY2/MjAtMjIwNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 594
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/peCAauNRBSNfXpYFmyPWqfSsCBdzOYtohgE-DEHoLuQ/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzA0/NDU4LTE2Nzc5NjY2/MjAtMjYxOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/peCAauNRBSNfXpYFmyPWqfSsCBdzOYtohgE-DEHoLuQ/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzA0/NDU4LTE2Nzc5NjY2/MjAtMjYxOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/0jywzRhUSMqS22aG5BXdsMQ7j3WCcmC4EFa8mHLLqls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzA0/NDU4LTE2Nzc5NjY2/MjAtMjYxOC5qcGVn.jpeg",
+      "width": 600,
+      "height": 588
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/y5qMH0kzwfmics92aHrueLGdyy1HLvgdeX-5aSlAeUc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzA0/NDU4LTE2Nzc5NjY2/MTktNzI1Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/y5qMH0kzwfmics92aHrueLGdyy1HLvgdeX-5aSlAeUc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzA0/NDU4LTE2Nzc5NjY2/MTktNzI1Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/dcm0aph2vCoL7mZU-HrAtN1OCFAcj6hiXcmRI9lNqMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzA0/NDU4LTE2Nzc5NjY2/MTktNzI1Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ZhgOZUyS4XGqAksReL-40kbzJ-nvygQs1FJ2RXZIQyA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzA0/NDU4LTE2Nzc5NjEw/NzAtMTQ5OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ZhgOZUyS4XGqAksReL-40kbzJ-nvygQs1FJ2RXZIQyA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzA0/NDU4LTE2Nzc5NjEw/NzAtMTQ5OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/UjZ7JxVJayJLcNlo-jFtzaYOxM8Wz_7xVnkjInEmzXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzA0/NDU4LTE2Nzc5NjEw/NzAtMTQ5OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/eTDOUzY-4M5XDPPgjllj6q4eWLQQjI7brNZZ1S59Bx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MzA0/NDU4LTE2Nzc5NjEw/NjYtNzY2My5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

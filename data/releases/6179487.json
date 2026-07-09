@@ -1,0 +1,1213 @@
+{
+  "id": 6179487,
+  "status": "Accepted",
+  "year": 2014,
+  "resource_url": "https://api.discogs.com/releases/6179487",
+  "uri": "https://www.discogs.com/release/6179487-Tove-Lo-Queen-Of-The-Clouds",
+  "artists": [
+    {
+      "name": "Tove Lo",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 3506702,
+      "resource_url": "https://api.discogs.com/artists/3506702",
+      "thumbnail_url": "https://i.discogs.com/V1BSkbzz-xWUs3W_DeMJw9Dtssb5IkOlf9i1ZiUy7YE/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM1MDY3/MDItMTY3MDA4NjI5/Mi05MzE2LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Tove Lo",
+  "labels": [
+    {
+      "name": "Island Records",
+      "catno": "B0021923-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 8377,
+      "resource_url": "https://api.discogs.com/labels/8377",
+      "thumbnail_url": "https://i.discogs.com/Fxrre24n1gnsNRrmjrwjMC79o2Sp-rGzcuYQ-yqUyUU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgzNzct/MTYzNjU4Mjc0NC04/MDg5LmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Universal Music AB",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 75083,
+      "resource_url": "https://api.discogs.com/labels/75083",
+      "thumbnail_url": "https://i.discogs.com/jz4Nq29VT0SgVpSEkCqpTHCFKy_gw3iQNziRkgNsZYM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MDgz/LTE3ODE3ODM5MDQt/MzIwMC5qcGVn.jpeg"
+    },
+    {
+      "name": "Universal Music AB",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 75083,
+      "resource_url": "https://api.discogs.com/labels/75083",
+      "thumbnail_url": "https://i.discogs.com/jz4Nq29VT0SgVpSEkCqpTHCFKy_gw3iQNziRkgNsZYM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MDgz/LTE3ODE3ODM5MDQt/MzIwMC5qcGVn.jpeg"
+    },
+    {
+      "name": "Island Records",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 8377,
+      "resource_url": "https://api.discogs.com/labels/8377",
+      "thumbnail_url": "https://i.discogs.com/Fxrre24n1gnsNRrmjrwjMC79o2Sp-rGzcuYQ-yqUyUU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgzNzct/MTYzNjU4Mjc0NC04/MDg5LmpwZWc.jpeg"
+    },
+    {
+      "name": "UMG Recordings, Inc.",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 272782,
+      "resource_url": "https://api.discogs.com/labels/272782",
+      "thumbnail_url": "https://i.discogs.com/WX78Ss6rJPzD8aWRj-wynSuGlTwtQLp2QLnUFGDI3Pg/rs:fit/g:sm/q:90/h:80/w:534/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Mjc4/Mi0xNDU3MDEyNDAw/LTExMzYuanBlZw.jpeg"
+    },
+    {
+      "name": "Universal Music Distribution",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 115478,
+      "resource_url": "https://api.discogs.com/labels/115478"
+    },
+    {
+      "name": "Sterling Sound",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 264060,
+      "resource_url": "https://api.discogs.com/labels/264060",
+      "thumbnail_url": "https://i.discogs.com/Z8f0gMBrt5jLL4TAcCYDGXmMPOLi9V0UW593WXP6BUU/rs:fit/g:sm/q:90/h:118/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDA2/MC0xNTAwMjgzMzYy/LTMyMTguanBlZw.jpeg"
+    },
+    {
+      "name": "United Record Pressing",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 238322,
+      "resource_url": "https://api.discogs.com/labels/238322",
+      "thumbnail_url": "https://i.discogs.com/wXejTcaBZif0vNl1Wx8ZmvUBcAwkQ21T3AduA-BjUg8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzODMy/Mi0xNDk3Nzk0Njg4/LTg0MzAucG5n.jpeg"
+    },
+    {
+      "name": "Cutting Room",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 264474,
+      "resource_url": "https://api.discogs.com/labels/264474",
+      "thumbnail_url": "https://i.discogs.com/9LO3hAWJBviSfu1qU6FguVP8hra4Ng_HynK1O2E-fqw/rs:fit/g:sm/q:90/h:105/w:405/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDQ3/NC0xNDI2NTU3NDk1/LTQ4ODkuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 1871,
+    "want": 1190,
+    "rating": {
+      "count": 120,
+      "average": 4.36
+    },
+    "submitter": {
+      "username": "killernugget14",
+      "resource_url": "https://api.discogs.com/users/killernugget14"
+    },
+    "contributors": [
+      {
+        "username": "killernugget14",
+        "resource_url": "https://api.discogs.com/users/killernugget14"
+      },
+      {
+        "username": "SpinnersClub",
+        "resource_url": "https://api.discogs.com/users/SpinnersClub"
+      },
+      {
+        "username": "DiscogsUpdateBot",
+        "resource_url": "https://api.discogs.com/users/DiscogsUpdateBot"
+      },
+      {
+        "username": "Dusty_Sleeves",
+        "resource_url": "https://api.discogs.com/users/Dusty_Sleeves"
+      },
+      {
+        "username": "S2A4",
+        "resource_url": "https://api.discogs.com/users/S2A4"
+      },
+      {
+        "username": "dnlkdwll",
+        "resource_url": "https://api.discogs.com/users/dnlkdwll"
+      },
+      {
+        "username": "jweijde",
+        "resource_url": "https://api.discogs.com/users/jweijde"
+      },
+      {
+        "username": "Diognes_The_Fox",
+        "resource_url": "https://api.discogs.com/users/Diognes_The_Fox"
+      },
+      {
+        "username": "TMW-TheBand",
+        "resource_url": "https://api.discogs.com/users/TMW-TheBand"
+      },
+      {
+        "username": "MinkandWilly",
+        "resource_url": "https://api.discogs.com/users/MinkandWilly"
+      },
+      {
+        "username": "MrXavier4",
+        "resource_url": "https://api.discogs.com/users/MrXavier4"
+      },
+      {
+        "username": "ManneMusic",
+        "resource_url": "https://api.discogs.com/users/ManneMusic"
+      },
+      {
+        "username": "curefortheitch",
+        "resource_url": "https://api.discogs.com/users/curefortheitch"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2014-10-11T10:06:15-07:00",
+  "date_changed": "2024-09-23T15:13:09-07:00",
+  "num_for_sale": 11,
+  "lowest_price": 24,
+  "master_id": 739398,
+  "master_url": "https://api.discogs.com/masters/739398",
+  "title": "Queen Of The Clouds",
+  "country": "US",
+  "released": "2014-10-14",
+  "notes": "Housed in a gatefold sleeve and includes a voucher for digital downloading (MP3 format) of the album (As advertised on round hype sticker)\nEach 130 grams vinyl is housed in a printed inner sleeve, both inserted in the right side of the gatefold cover\n\nSome copies sold on the Webstore as a \"Signed Ultimate Vinyl Bundle\" came with additional rolling papers and exclusive SIGNED 11x17\" poster. (Vinyl included is the same as the regular release listed here)\n\nOn labels and back cover:\n℗© 2014 Universal Music AB. under exclusive license in the United States to Island Records, a division of UMG Recordings, Inc.\nDistributed by Universal Music Distribution\nMastered at Cuttingroom, Stockholm",
+  "released_formatted": "14 Oct 2014",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "602547019592",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "6025-4701-9608-A ",
+      "description": "A-Side Runout Etching"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "6025-4701-9608-B ",
+      "description": "B-Side Runout Etching"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "6025-4701-9615-C ",
+      "description": "C-Side Runout Etching"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "6025-4701-9615-D ",
+      "description": "D-Side Runout Etching"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "RJ [STERLING] ⓤ",
+      "description": "In runout groove areas, etched and [stamped]"
+    },
+    {
+      "type": "Barcode",
+      "value": "6 02547 01959 2",
+      "description": "Text"
+    },
+    {
+      "type": "Rights Society",
+      "value": "STIM"
+    },
+    {
+      "type": "Rights Society",
+      "value": "ASCAP"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=0YSITPoTPnQ",
+      "title": "THE SEX (Intro)",
+      "description": "Provided to YouTube by Universal Music Group\n\nTHE SEX (Intro) · Tove Lo\n\nQueen Of The Clouds\n\n℗ 2014 Universal Music AB\n\nReleased on: 2014-01-01\n\nProducer, Associated  Performer, Spoken  Word: Tove Lo\nStudio  Personnel, Mastering  Engineer: Björn Engelman",
+      "duration": 6,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=LL4iTD61unw",
+      "title": "My Gun",
+      "description": "Provided to YouTube by Universal Music Group\n\nMy Gun · Tove Lo\n\nQueen Of The Clouds\n\n℗ 2014 Universal Music AB\n\nReleased on: 2014-01-01\n\nAssociated  Performer, Vocals, Background  Vocalist: Tove Lo\nProducer, Associated  Performer, Keyboards, Bass  Guitar,",
+      "duration": 217,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=DYU2aCy8k5Y",
+      "title": "Like Em Young",
+      "description": "Provided to YouTube by Universal Music Group\n\nLike Em Young · Tove Lo\n\nQueen Of The Clouds\n\n℗ 2014 Universal Music AB\n\nReleased on: 2014-01-01\n\nAssociated  Performer, Vocals: Tove Lo\nProducer, Associated  Performer, Synthesizer: The Struts\nStudio  Personn",
+      "duration": 220,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=AzRyxGBGiAE",
+      "title": "Tove Lo - Talking Body",
+      "description": "Listen to more music! https://Tove.lnk.to/DY3hMm6nID\n\nSocials:\nIG: https://www.instagram.com/tovelo/\nFB: https://www.facebook.com/tovelo\n\n#ToveLo #TalkingBody",
+      "duration": 237,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=BLEVRNV4CVQ",
+      "title": "Tove Lo - Timebomb",
+      "description": "Playlist Best of Tove Lo https://goo.gl/AKQhp1\nSubscribe for more https://goo.gl/ieLWqq\nListen to Tove Lo’s debut album Queen Of The Clouds here:\nhttp://umusicswe.lnk.to/QueenOfTheClouds\n\nProduction Company: London Alley Entertainment \nDirector: Emil Nava",
+      "duration": 223,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=j5I-YQVoRAk",
+      "title": "THE LOVE (Interlude)",
+      "description": "Provided to YouTube by Universal Music Group\n\nTHE LOVE (Interlude) · Tove Lo\n\nQueen Of The Clouds\n\n℗ 2014 Universal Music AB\n\nReleased on: 2014-01-01\n\nProducer, Associated  Performer, Spoken  Word: Tove Lo\nStudio  Personnel, Mastering  Engineer: Björn Eng",
+      "duration": 6,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=W8tbQgXyn1c",
+      "title": "Tove Lo - Moments",
+      "description": "Playlist Best of Tove Lo https://goo.gl/AKQhp1\nSubscribe for more https://goo.gl/ieLWqq\nGet the album ‘Queen Of The Clouds’ here: http://po.st/QOTCyt\nWatch more Tove Lo videos here: https://Seeb.lnk.to/VEVOPlaylist\n\nThe fourth single from Tove Lo’s debut ",
+      "duration": 272,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=20-YJzIjTOQ",
+      "title": "The Way That I Am",
+      "description": "Provided to YouTube by Universal Music Group\n\nThe Way That I Am · Tove Lo\n\nQueen Of The Clouds\n\n℗ 2014 Universal Music AB\n\nReleased on: 2014-01-01\n\nAssociated  Performer, Vocals: Tove Lo\nProducer, Associated  Performer, Synthesizer: Ali Payami\nStudio  Per",
+      "duration": 188,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Oc7o4-VHm-8",
+      "title": "Got Love",
+      "description": "Provided to YouTube by Universal Music Group\n\nGot Love · Tove Lo\n\nQueen Of The Clouds\n\n℗ 2014 Universal Music AB\n\nReleased on: 2014-01-01\n\nAssociated  Performer, Vocals: Tove Lo\nProducer, Associated  Performer, Synthesizer: The Struts\nAssociated  Performe",
+      "duration": 229,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=9-Qkx9TAM10",
+      "title": "Tove Lo - Not On Drugs",
+      "description": "Listen to more music! https://Tove.lnk.to/DY3hMm6nID\n\nSocials:\nIG: https://www.instagram.com/tovelo/\nFB: https://www.facebook.com/tovelo\n\n#ToveLo #NotOnDrugs",
+      "duration": 185,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=N22eMUTSa2E",
+      "title": "THE PAIN (Interlude)",
+      "description": "Provided to YouTube by Universal Music Group\n\nTHE PAIN (Interlude) · Tove Lo\n\nQueen Of The Clouds\n\n℗ 2014 Universal Music AB\n\nReleased on: 2014-01-01\n\nProducer, Associated  Performer, Spoken  Word: Tove Lo\nStudio  Personnel, Mastering  Engineer: Björn Eng",
+      "duration": 6,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=UpLVRzpW10I",
+      "title": "Tove Lo - Thousand Miles",
+      "description": "Get the new album, \"Blue Lips [lady wood phase II]\", here: https://ToveLo.lnk.to/ToveLoBlueLips",
+      "duration": 217,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=oh2LWWORoiM",
+      "title": "Tove Lo - Habits (Stay High)",
+      "description": "Listen to more music! https://Tove.lnk.to/DY3hMm6nID\n\nSocials:\nIG: https://www.instagram.com/tovelo/\nFB: https://www.facebook.com/tovelo\n\n#ToveLo #Habits",
+      "duration": 209,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Trrn6QUdx-w",
+      "title": "This Time Around",
+      "description": "Provided to YouTube by Universal Music Group\n\nThis Time Around · Tove Lo\n\nQueen Of The Clouds\n\n℗ 2014 Universal Music AB\n\nReleased on: 2014-01-01\n\nProducer, Unknown, Other: Kyle Shearer\nStudio  Personnel, Engineer: Robert Marvin\nStudio  Personnel, Editor:",
+      "duration": 245,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Y3pu4-yBNbQ",
+      "title": "Run On Love (QOTC Edit)",
+      "description": "Provided to YouTube by Universal Music Group\n\nRun On Love (QOTC Edit) · Tove Lo · Lucas Nord\n\nQueen Of The Clouds\n\n℗ 2014 Hybris, Under exclusive license to Universal Music AB\n\nReleased on: 2014-01-01\n\nProducer, Studio  Personnel, Mixer: Lucas Nord\nAssoci",
+      "duration": 241,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=z_t7zOKQd-M",
+      "title": "Tove Lo - Love Ballad",
+      "description": "Available on Spotify!!\n♫ Tove Lo http://spoti.fi/Tg71Yj  #Spotify \n\nFollow me on twitter: http://twitter.com/iamtovelo\n\nSoundcloud: https://soundcloud.com/tovelo\n\nFacebook page: http://www.facebook.com/pages/Tove-Lo/215644225119164\n\nWritten by: Tove Lo an",
+      "duration": 210,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=SYM-RJwSGQ8",
+      "title": "Tove Lo - Habits (Stay High) - Hippie Sabotage Remix",
+      "description": "Listen to more music! https://Tove.lnk.to/DY3hMm6nID\n\nSocials:\nIG: https://www.instagram.com/tovelo/\nFB: https://www.facebook.com/tovelo\n\n#ToveLo #Habits",
+      "duration": 264,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=LL4iTD61unw",
+      "title": "My Gun",
+      "description": "Provided to YouTube by Universal Music Group\n\nMy Gun · Tove Lo\n\nQueen Of The Clouds\n\n℗ 2014 Universal Music AB\n\nReleased on: 2014-01-01\n\nAssociated  Performer, Vocals, Background  Vocalist: Tove Lo\nProducer, Associated  Performer, Keyboards, Bass  Guitar,",
+      "duration": 217,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=DYU2aCy8k5Y",
+      "title": "Like Em Young",
+      "description": "Provided to YouTube by Universal Music Group\n\nLike Em Young · Tove Lo\n\nQueen Of The Clouds\n\n℗ 2014 Universal Music AB\n\nReleased on: 2014-01-01\n\nAssociated  Performer, Vocals: Tove Lo\nProducer, Associated  Performer, Synthesizer: The Struts\nStudio  Personn",
+      "duration": 220,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=AzRyxGBGiAE",
+      "title": "Tove Lo - Talking Body",
+      "description": "Listen to more music! https://Tove.lnk.to/DY3hMm6nID\n\nSocials:\nIG: https://www.instagram.com/tovelo/\nFB: https://www.facebook.com/tovelo\n\n#ToveLo #TalkingBody",
+      "duration": 237,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=BLEVRNV4CVQ",
+      "title": "Tove Lo - Timebomb",
+      "description": "Playlist Best of Tove Lo https://goo.gl/AKQhp1\nSubscribe for more https://goo.gl/ieLWqq\nListen to Tove Lo’s debut album Queen Of The Clouds here:\nhttp://umusicswe.lnk.to/QueenOfTheClouds\n\nProduction Company: London Alley Entertainment \nDirector: Emil Nava",
+      "duration": 223,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=W8tbQgXyn1c",
+      "title": "Tove Lo - Moments",
+      "description": "Playlist Best of Tove Lo https://goo.gl/AKQhp1\nSubscribe for more https://goo.gl/ieLWqq\nGet the album ‘Queen Of The Clouds’ here: http://po.st/QOTCyt\nWatch more Tove Lo videos here: https://Seeb.lnk.to/VEVOPlaylist\n\nThe fourth single from Tove Lo’s debut ",
+      "duration": 272,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=20-YJzIjTOQ",
+      "title": "The Way That I Am",
+      "description": "Provided to YouTube by Universal Music Group\n\nThe Way That I Am · Tove Lo\n\nQueen Of The Clouds\n\n℗ 2014 Universal Music AB\n\nReleased on: 2014-01-01\n\nAssociated  Performer, Vocals: Tove Lo\nProducer, Associated  Performer, Synthesizer: Ali Payami\nStudio  Per",
+      "duration": 188,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Oc7o4-VHm-8",
+      "title": "Got Love",
+      "description": "Provided to YouTube by Universal Music Group\n\nGot Love · Tove Lo\n\nQueen Of The Clouds\n\n℗ 2014 Universal Music AB\n\nReleased on: 2014-01-01\n\nAssociated  Performer, Vocals: Tove Lo\nProducer, Associated  Performer, Synthesizer: The Struts\nAssociated  Performe",
+      "duration": 229,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=9-Qkx9TAM10",
+      "title": "Tove Lo - Not On Drugs",
+      "description": "Listen to more music! https://Tove.lnk.to/DY3hMm6nID\n\nSocials:\nIG: https://www.instagram.com/tovelo/\nFB: https://www.facebook.com/tovelo\n\n#ToveLo #NotOnDrugs",
+      "duration": 185,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=UpLVRzpW10I",
+      "title": "Tove Lo - Thousand Miles",
+      "description": "Get the new album, \"Blue Lips [lady wood phase II]\", here: https://ToveLo.lnk.to/ToveLoBlueLips",
+      "duration": 217,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=oh2LWWORoiM",
+      "title": "Tove Lo - Habits (Stay High)",
+      "description": "Listen to more music! https://Tove.lnk.to/DY3hMm6nID\n\nSocials:\nIG: https://www.instagram.com/tovelo/\nFB: https://www.facebook.com/tovelo\n\n#ToveLo #Habits",
+      "duration": 209,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Trrn6QUdx-w",
+      "title": "This Time Around",
+      "description": "Provided to YouTube by Universal Music Group\n\nThis Time Around · Tove Lo\n\nQueen Of The Clouds\n\n℗ 2014 Universal Music AB\n\nReleased on: 2014-01-01\n\nProducer, Unknown, Other: Kyle Shearer\nStudio  Personnel, Engineer: Robert Marvin\nStudio  Personnel, Editor:",
+      "duration": 245,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Y3pu4-yBNbQ",
+      "title": "Run On Love (QOTC Edit)",
+      "description": "Provided to YouTube by Universal Music Group\n\nRun On Love (QOTC Edit) · Tove Lo · Lucas Nord\n\nQueen Of The Clouds\n\n℗ 2014 Hybris, Under exclusive license to Universal Music AB\n\nReleased on: 2014-01-01\n\nProducer, Studio  Personnel, Mixer: Lucas Nord\nAssoci",
+      "duration": 241,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=z_t7zOKQd-M",
+      "title": "Tove Lo - Love Ballad",
+      "description": "Available on Spotify!!\n♫ Tove Lo http://spoti.fi/Tg71Yj  #Spotify \n\nFollow me on twitter: http://twitter.com/iamtovelo\n\nSoundcloud: https://soundcloud.com/tovelo\n\nFacebook page: http://www.facebook.com/pages/Tove-Lo/215644225119164\n\nWritten by: Tove Lo an",
+      "duration": 210,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=SYM-RJwSGQ8",
+      "title": "Tove Lo - Habits (Stay High) - Hippie Sabotage Remix",
+      "description": "Listen to more music! https://Tove.lnk.to/DY3hMm6nID\n\nSocials:\nIG: https://www.instagram.com/tovelo/\nFB: https://www.facebook.com/tovelo\n\n#ToveLo #Habits",
+      "duration": 264,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Pop"
+  ],
+  "styles": [
+    "Synth-pop",
+    "Europop",
+    "Ballad",
+    "Eurodance"
+  ],
+  "tracklist": [
+    {
+      "position": "",
+      "type_": "heading",
+      "title": "The Sex",
+      "duration": ""
+    },
+    {
+      "position": "A1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "The Sex",
+      "duration": "0:06"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "My Gun",
+      "duration": "3:36"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "Like Em Young",
+      "duration": "3:39"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "Talking Body",
+      "duration": "3:58"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "Timebomb",
+      "duration": "3:34"
+    },
+    {
+      "position": "",
+      "type_": "heading",
+      "title": "The Love",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "The Love",
+      "duration": "0:05"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "Moments",
+      "duration": "3:22"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "The Way That I Am",
+      "duration": "3:07"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "Got Love",
+      "duration": "3:48"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "Not On Drugs",
+      "duration": "3:02"
+    },
+    {
+      "position": "",
+      "type_": "heading",
+      "title": "The Pain",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "The Pain",
+      "duration": "0:05"
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "Thousand Miles",
+      "duration": "3:34"
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "Habits (Stay High)",
+      "duration": "3:29"
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "This Time Around",
+      "duration": "4:04"
+    },
+    {
+      "position": "C5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Lucas Nord",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 2827659,
+          "resource_url": "https://api.discogs.com/artists/2827659"
+        }
+      ],
+      "title": "Run On Love (QOTC Edit)",
+      "extraartists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "duration": "4:00"
+    },
+    {
+      "position": "",
+      "type_": "heading",
+      "title": "For You",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "Love Ballad",
+      "duration": "3:30"
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "Not On Drugs (The Knocks Remix)",
+      "extraartists": [
+        {
+          "name": "The Knocks",
+          "anv": "",
+          "join": "",
+          "role": "Remix",
+          "tracks": "",
+          "id": 1094278,
+          "resource_url": "https://api.discogs.com/artists/1094278"
+        }
+      ],
+      "duration": "4:34"
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "Over",
+      "extraartists": [
+        {
+          "name": "Jason Gill",
+          "anv": "",
+          "join": "",
+          "role": "Programmed By, Drums, Keyboards, Bass",
+          "tracks": "",
+          "id": 753906,
+          "resource_url": "https://api.discogs.com/artists/753906"
+        }
+      ],
+      "duration": "3:44"
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "title": "Habits (Stay High) - Hippie Sabotage Remix",
+      "extraartists": [
+        {
+          "name": "Hippie Sabotage",
+          "anv": "",
+          "join": "",
+          "role": "Remix",
+          "tracks": "",
+          "id": 2567682,
+          "resource_url": "https://api.discogs.com/artists/2567682"
+        }
+      ],
+      "duration": "4:18"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Peter Hart (4)",
+      "anv": "",
+      "join": "",
+      "role": "A&R",
+      "tracks": "",
+      "id": 2201632,
+      "resource_url": "https://api.discogs.com/artists/2201632"
+    },
+    {
+      "name": "Julius Petersson",
+      "anv": "",
+      "join": "",
+      "role": "A&R [For Warner Chappell Publishing]",
+      "tracks": "",
+      "id": 4954137,
+      "resource_url": "https://api.discogs.com/artists/4954137"
+    },
+    {
+      "name": "Daniel Werner (3)",
+      "anv": "",
+      "join": "",
+      "role": "A&R [US A&R]",
+      "tracks": "",
+      "id": 2011961,
+      "resource_url": "https://api.discogs.com/artists/2011961"
+    },
+    {
+      "name": "Daniel Åberg (2)",
+      "anv": "",
+      "join": "",
+      "role": "Art Direction, Design",
+      "tracks": "",
+      "id": 3747168,
+      "resource_url": "https://api.discogs.com/artists/3747168"
+    },
+    {
+      "name": "Creative Labs",
+      "anv": "",
+      "join": "",
+      "role": "Art Direction, Design, Typography [Hand Lettering Front & Chapters]",
+      "tracks": "",
+      "id": 8654853,
+      "resource_url": "https://api.discogs.com/artists/8654853"
+    },
+    {
+      "name": "The Windish Agency",
+      "anv": "",
+      "join": "",
+      "role": "Booking [North America Booking]",
+      "tracks": "",
+      "id": 4390096,
+      "resource_url": "https://api.discogs.com/artists/4390096"
+    },
+    {
+      "name": "Doug Croy",
+      "anv": "",
+      "join": "",
+      "role": "Booking [North America, Agent]",
+      "tracks": "",
+      "id": 5348741,
+      "resource_url": "https://api.discogs.com/artists/5348741"
+    },
+    {
+      "name": "Pitch & Smith",
+      "anv": "Pitch and Smith",
+      "join": "",
+      "role": "Booking [X North America Booking]",
+      "tracks": "",
+      "id": 3668478,
+      "resource_url": "https://api.discogs.com/artists/3668478"
+    },
+    {
+      "name": "Kalle Lundgren",
+      "anv": "Kalle Lundgren Smith",
+      "join": "",
+      "role": "Booking [X North America, Agent]",
+      "tracks": "",
+      "id": 2973605,
+      "resource_url": "https://api.discogs.com/artists/2973605"
+    },
+    {
+      "name": "Clara Tägström",
+      "anv": "",
+      "join": "",
+      "role": "Design [Cover Design]",
+      "tracks": "",
+      "id": 4085904,
+      "resource_url": "https://api.discogs.com/artists/4085904"
+    },
+    {
+      "name": "Daniel Åberg (2)",
+      "anv": "",
+      "join": "",
+      "role": "Design [Cover Design]",
+      "tracks": "",
+      "id": 3747168,
+      "resource_url": "https://api.discogs.com/artists/3747168"
+    },
+    {
+      "name": "Johannes Helje",
+      "anv": "",
+      "join": "",
+      "role": "Design [Cover Design]",
+      "tracks": "",
+      "id": 2853669,
+      "resource_url": "https://api.discogs.com/artists/2853669"
+    },
+    {
+      "name": "Tove Lo",
+      "anv": "",
+      "join": "",
+      "role": "Design [Cover Design]",
+      "tracks": "",
+      "id": 3506702,
+      "resource_url": "https://api.discogs.com/artists/3506702"
+    },
+    {
+      "name": "Ray Janos",
+      "anv": "RJ",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 339229,
+      "resource_url": "https://api.discogs.com/artists/339229"
+    },
+    {
+      "name": "Bird & Bird Advokat KB",
+      "anv": "",
+      "join": "",
+      "role": "Legal",
+      "tracks": "",
+      "id": 6076994,
+      "resource_url": "https://api.discogs.com/artists/6076994"
+    },
+    {
+      "name": "Jerker Edström",
+      "anv": "",
+      "join": "",
+      "role": "Legal [Management]",
+      "tracks": "",
+      "id": 5348740,
+      "resource_url": "https://api.discogs.com/artists/5348740"
+    },
+    {
+      "name": "Tove Lo",
+      "anv": "",
+      "join": "",
+      "role": "Liner Notes",
+      "tracks": "",
+      "id": 3506702,
+      "resource_url": "https://api.discogs.com/artists/3506702"
+    },
+    {
+      "name": "Björn Engelmann",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 362223,
+      "resource_url": "https://api.discogs.com/artists/362223"
+    },
+    {
+      "name": "Johannes Helje",
+      "anv": "",
+      "join": "",
+      "role": "Photography By, Image Editor [Photo Editing]",
+      "tracks": "",
+      "id": 2853669,
+      "resource_url": "https://api.discogs.com/artists/2853669"
+    },
+    {
+      "name": "Caiti Green",
+      "anv": "",
+      "join": "",
+      "role": "Promotion [US Marketing]",
+      "tracks": "",
+      "id": 4577386,
+      "resource_url": "https://api.discogs.com/artists/4577386"
+    },
+    {
+      "name": "Oskar Wettergren",
+      "anv": "",
+      "join": "",
+      "role": "Typography [Hand Lettering Front & Chapters]",
+      "tracks": "",
+      "id": 3747164,
+      "resource_url": "https://api.discogs.com/artists/3747164"
+    },
+    {
+      "name": "Tove Lo",
+      "anv": "",
+      "join": "",
+      "role": "Typography [Hand Lettering Titles]",
+      "tracks": "",
+      "id": 3506702,
+      "resource_url": "https://api.discogs.com/artists/3506702"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/xX5crSxUTrwZobYVPrQHvShOWVBw17hrnSeum5aGNRA/rs:fit/g:sm/q:90/h:600/w:567/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTY0NzExNDc3/NS01MjUzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/xX5crSxUTrwZobYVPrQHvShOWVBw17hrnSeum5aGNRA/rs:fit/g:sm/q:90/h:600/w:567/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTY0NzExNDc3/NS01MjUzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/hSRqGA1h9xXCNAuU9vFpqmNVWgAciwu58gi72MFu7sg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTY0NzExNDc3/NS01MjUzLmpwZWc.jpeg",
+      "width": 567,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/dlOrS5qMg4rX4SdHPJC6plBfaYsaePqxAoWB0bCU1z4/rs:fit/g:sm/q:90/h:562/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTY0NzExNDg1/MC04ODA1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/dlOrS5qMg4rX4SdHPJC6plBfaYsaePqxAoWB0bCU1z4/rs:fit/g:sm/q:90/h:562/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTY0NzExNDg1/MC04ODA1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/Ynrf6gERKCaxnIcw95MoxfFeygRJBk6SLeA7XBfpIcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTY0NzExNDg1/MC04ODA1LmpwZWc.jpeg",
+      "width": 600,
+      "height": 562
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/KcCemH028GfqBFOTnnv1kq4H5NNsgW14sqGAFKiR-gM/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTYy/Ni01NTA5LnBuZw.jpeg",
+      "resource_url": "https://i.discogs.com/KcCemH028GfqBFOTnnv1kq4H5NNsgW14sqGAFKiR-gM/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTYy/Ni01NTA5LnBuZw.jpeg",
+      "uri150": "https://i.discogs.com/eMtnayu6B4uNMWiNTDComBOVnIJ832_r27wNsbtpMrg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTYy/Ni01NTA5LnBuZw.jpeg",
+      "width": 600,
+      "height": 297
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/6GcZJsGbVtNxk7ue3ZcWIsFRzN8msajM1jK43wUaxIk/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTY0NzExNDkw/Mi04MjQyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/6GcZJsGbVtNxk7ue3ZcWIsFRzN8msajM1jK43wUaxIk/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTY0NzExNDkw/Mi04MjQyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/eiqpuHgfdpOXGNEKdwM4WJ51JtwS4Uik7WHoeQawyMM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTY0NzExNDkw/Mi04MjQyLmpwZWc.jpeg",
+      "width": 600,
+      "height": 569
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/8G3UNpmSBPxIqqqm7oeMK6N2mvA-4NXbAxWwyylRKu4/rs:fit/g:sm/q:90/h:600/w:569/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTY0NzExNDkw/MS0xODU5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/8G3UNpmSBPxIqqqm7oeMK6N2mvA-4NXbAxWwyylRKu4/rs:fit/g:sm/q:90/h:600/w:569/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTY0NzExNDkw/MS0xODU5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/cXTLGtnq0nFCtBren11Nr-sLMC6gmA_x3hmTF1na4P0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTY0NzExNDkw/MS0xODU5LmpwZWc.jpeg",
+      "width": 569,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/sd8vq9jfAH_K9Q-1bJdzmO6wvrhNVRT8yp0VKk3IjEM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTcy/MC00NjU2LnBuZw.jpeg",
+      "resource_url": "https://i.discogs.com/sd8vq9jfAH_K9Q-1bJdzmO6wvrhNVRT8yp0VKk3IjEM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTcy/MC00NjU2LnBuZw.jpeg",
+      "uri150": "https://i.discogs.com/82vX3tb_bwlbJ7bucuJU-pZfZBrvzYPY_qnbhuMi0ag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTcy/MC00NjU2LnBuZw.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/YwA3N5hNIs7O7lGIM8nvxmBujM8k8nDvafVYmy0V27k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTgw/NS0xMjcxLnBuZw.jpeg",
+      "resource_url": "https://i.discogs.com/YwA3N5hNIs7O7lGIM8nvxmBujM8k8nDvafVYmy0V27k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTgw/NS0xMjcxLnBuZw.jpeg",
+      "uri150": "https://i.discogs.com/UkKLuIvhDAL5REPV-HVNqD1PFnv3hSTKWDExQQXG498/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTgw/NS0xMjcxLnBuZw.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/vygdcf7-nX-_oVikcAzvgFuSDjby2ridI4HOeCQokUE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTkw/MC0zNDY2LnBuZw.jpeg",
+      "resource_url": "https://i.discogs.com/vygdcf7-nX-_oVikcAzvgFuSDjby2ridI4HOeCQokUE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTkw/MC0zNDY2LnBuZw.jpeg",
+      "uri150": "https://i.discogs.com/wE3wSD_uQkGgE1lPmzaUGV4XqjuCbg_6Q7IWGKM3bMs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTkw/MC0zNDY2LnBuZw.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ipZIqSPLas9YsCjMh_wfln2VScMIccm-qS91iiTHXTw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTkw/NC01MjYxLnBuZw.jpeg",
+      "resource_url": "https://i.discogs.com/ipZIqSPLas9YsCjMh_wfln2VScMIccm-qS91iiTHXTw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTkw/NC01MjYxLnBuZw.jpeg",
+      "uri150": "https://i.discogs.com/RKdzlYq_YQoUNjSBXcKKOsUrdL50MjfcXVl7-nyHIV8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTkw/NC01MjYxLnBuZw.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Rddg6D1yDRMyGHyjlBgyrkKpd7pod-YExxTGrZEPLZs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTc2/MS0yNzYxLnBuZw.jpeg",
+      "resource_url": "https://i.discogs.com/Rddg6D1yDRMyGHyjlBgyrkKpd7pod-YExxTGrZEPLZs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTc2/MS0yNzYxLnBuZw.jpeg",
+      "uri150": "https://i.discogs.com/mrA0nBMIJL8RoDPAbmZ_WDZqiNuymsA10uS401-Xcw4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTc2/MS0yNzYxLnBuZw.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/FkjmfCN-c1hiZpoBujIfuk5vSi9whuXQN_ds0t0te3E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTc0/MC04MDk0LnBuZw.jpeg",
+      "resource_url": "https://i.discogs.com/FkjmfCN-c1hiZpoBujIfuk5vSi9whuXQN_ds0t0te3E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTc0/MC04MDk0LnBuZw.jpeg",
+      "uri150": "https://i.discogs.com/TN47YPsLeqn_B1zmcqUZVXz7BjZ7lLfkMYh3rr5RFBc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTc0/MC04MDk0LnBuZw.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/PZm6D10ITSu3SjZSacDQkT5J-8L_v3FabznszHSX6fI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTc4/My0yNzAxLnBuZw.jpeg",
+      "resource_url": "https://i.discogs.com/PZm6D10ITSu3SjZSacDQkT5J-8L_v3FabznszHSX6fI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTc4/My0yNzAxLnBuZw.jpeg",
+      "uri150": "https://i.discogs.com/f0cMhxyEGNIlFpGeiasAcq9C39s_lhnaecYW3P-a3n4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTc4/My0yNzAxLnBuZw.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/MjDHKAn-LFbR2sfho7g7_6qIK5wp3DRhj9pRu-IaYuI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTc1/NC05NjA4LnBuZw.jpeg",
+      "resource_url": "https://i.discogs.com/MjDHKAn-LFbR2sfho7g7_6qIK5wp3DRhj9pRu-IaYuI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTc1/NC05NjA4LnBuZw.jpeg",
+      "uri150": "https://i.discogs.com/oPd0Bk7hs0r5BV6N0225QuEsC4NDNaSHw3gfPdkbfjg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTc1/NC05NjA4LnBuZw.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/BhgmciwjwfNzAZx-50eDKPhEfTP3HHOCcpuqi3bHlYU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTkx/NC03MDIxLnBuZw.jpeg",
+      "resource_url": "https://i.discogs.com/BhgmciwjwfNzAZx-50eDKPhEfTP3HHOCcpuqi3bHlYU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTkx/NC03MDIxLnBuZw.jpeg",
+      "uri150": "https://i.discogs.com/Q4qJQtl8gi2Yjt8Z548x76bD1LVE2mWpMe_637Pk8gI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTkx/NC03MDIxLnBuZw.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/8z_VwMnYyO7su5UuKd03YYTOCfaVF09KHj3_O9ut3kA/rs:fit/g:sm/q:90/h:35/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTY0NzExNTAw/OC00OTE5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/8z_VwMnYyO7su5UuKd03YYTOCfaVF09KHj3_O9ut3kA/rs:fit/g:sm/q:90/h:35/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTY0NzExNTAw/OC00OTE5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/wHo3uJwfTmBZIh2nX5jPjiHz-DWDuJj9HrkDysg8Muw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTY0NzExNTAw/OC00OTE5LmpwZWc.jpeg",
+      "width": 600,
+      "height": 35
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/lBSDGas__-ze2pMmU-qGsmVclmGc7fGlnwBf_7myab8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTkw/Ny04MDA0LnBuZw.jpeg",
+      "resource_url": "https://i.discogs.com/lBSDGas__-ze2pMmU-qGsmVclmGc7fGlnwBf_7myab8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTkw/Ny04MDA0LnBuZw.jpeg",
+      "uri150": "https://i.discogs.com/rJ3hWIDX2YiLRRbzXya01NcW3wC9Dr-QVq7ZiD_dRho/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTkw/Ny04MDA0LnBuZw.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/lBQOXdQ53VfPatczW3kth7yFeDTicOcRRoNlbDR2jV0/rs:fit/g:sm/q:90/h:312/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTg3/MS01NDAwLnBuZw.jpeg",
+      "resource_url": "https://i.discogs.com/lBQOXdQ53VfPatczW3kth7yFeDTicOcRRoNlbDR2jV0/rs:fit/g:sm/q:90/h:312/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTg3/MS01NDAwLnBuZw.jpeg",
+      "uri150": "https://i.discogs.com/thYMzSy_GhW40CBT4tviKmd9_NkhqKjHMNLKPvWQP9s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTQ0Njg0NTg3/MS01NDAwLnBuZw.jpeg",
+      "width": 600,
+      "height": 312
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Nc9-ocpj89ZaDTq1sjUyNR_4pV9kYi7aw5OetRZfZqE/rs:fit/g:sm/q:90/h:600/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTY0NzExNDc0/NS05MTQ4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/Nc9-ocpj89ZaDTq1sjUyNR_4pV9kYi7aw5OetRZfZqE/rs:fit/g:sm/q:90/h:600/w:570/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTY0NzExNDc0/NS05MTQ4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/hDfQvBHNyHvyjDblqHonNl0Nv4NRdCU52XTEmO5K6m0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTY0NzExNDc0/NS05MTQ4LmpwZWc.jpeg",
+      "width": 570,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/hSRqGA1h9xXCNAuU9vFpqmNVWgAciwu58gi72MFu7sg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYxNzk0/ODctMTY0NzExNDc3/NS01MjUzLmpwZWc.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

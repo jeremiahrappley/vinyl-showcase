@@ -1,0 +1,569 @@
+{
+  "id": 31244683,
+  "status": "Accepted",
+  "year": 2024,
+  "resource_url": "https://api.discogs.com/releases/31244683",
+  "uri": "https://www.discogs.com/release/31244683-John-Summit-Comfort-In-Chaos",
+  "artists": [
+    {
+      "name": "John Summit",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 6687674,
+      "resource_url": "https://api.discogs.com/artists/6687674",
+      "thumbnail_url": "https://i.discogs.com/aOFjQuugVVKrZvNYlAAzAzEJyqd7G2My85J1PGgPkVo/rs:fit/g:sm/q:90/h:554/w:554/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY2ODc2/NzQtMTY5Mjk1OTY4/MS02NTExLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "John Summit",
+  "labels": [
+    {
+      "name": "Experts Only",
+      "catno": "EO040D",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 3407479,
+      "resource_url": "https://api.discogs.com/labels/3407479",
+      "thumbnail_url": "https://i.discogs.com/AlA98fFPUC3Ll-JlITtE8FgcuOteLlBGWZ11cehZOzE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM0MDc0/NzktMTY5NDgyODIx/NS0yNzI2LmpwZWc.jpeg"
+    },
+    {
+      "name": "Darkroom (4)",
+      "catno": "602465688672",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1175230,
+      "resource_url": "https://api.discogs.com/labels/1175230",
+      "thumbnail_url": "https://i.discogs.com/sd_HWz6vK-wCoq-luhWFkEvELFyQ71k3PXiwteKZESc/rs:fit/g:sm/q:90/h:240/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExNzUy/MzAtMTYzODc3MTg3/My00Mjk1LnBuZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Special Edition"
+      ],
+      "text": "White w/ Blue Splatter"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 472,
+    "want": 117,
+    "rating": {
+      "count": 44,
+      "average": 4.89
+    },
+    "submitter": {
+      "username": "wolfbarbecue",
+      "resource_url": "https://api.discogs.com/users/wolfbarbecue"
+    },
+    "contributors": [
+      {
+        "username": "wolfbarbecue",
+        "resource_url": "https://api.discogs.com/users/wolfbarbecue"
+      },
+      {
+        "username": "donjorge",
+        "resource_url": "https://api.discogs.com/users/donjorge"
+      },
+      {
+        "username": "msanchez1536",
+        "resource_url": "https://api.discogs.com/users/msanchez1536"
+      },
+      {
+        "username": "jake.mccullum",
+        "resource_url": "https://api.discogs.com/users/jake.mccullum"
+      },
+      {
+        "username": "djdocterry",
+        "resource_url": "https://api.discogs.com/users/djdocterry"
+      },
+      {
+        "username": "henry.jimmy",
+        "resource_url": "https://api.discogs.com/users/henry.jimmy"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2024-07-17T03:07:55-07:00",
+  "date_changed": "2026-01-01T19:00:40-08:00",
+  "num_for_sale": 5,
+  "lowest_price": 33.15,
+  "master_id": 3549209,
+  "master_url": "https://api.discogs.com/masters/3549209",
+  "title": "Comfort In Chaos",
+  "country": "US",
+  "released": "2024-07-12",
+  "notes": "Marketed as 'Comfort Edition' Blue Splatter vinyl.\nAvailable exclusively via the John Summit US merch store.\nHoused in a printed white inner sleeve inside a full colour gatefold jacket.",
+  "released_formatted": "12 Jul 2024",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "602465688672",
+      "description": "Scanned"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=mBQEfQox348",
+      "title": "John Summit - Comfort In Chaos (Official Visualizer)",
+      "description": "John Summit - Comfort In Chaos (Official Visualizer) \n\nArtwork By: Marcos Alvarado\nAnimation By: Natalie Cook\n\nfollow me:\nhttps://instagram.com/johnsummit\nhttps://twitter.com/johnsummit\n​https://facebook.com/itsjohnsummit\n​https://soundcloud.com/johnsummi",
+      "duration": 268,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=e_ecxFG1LEM",
+      "title": "John Summit - Tears (with Paige Cavell) [Official Music Video]",
+      "description": "John Summit - Tears (with Paige Cavell) [Official Music Video]\n\nLyrics:\nI’ve been feeling like you let me go \nAm I dreaming \nLately you’ve been cold \n\nI don’t wanna feel your love if you’re gonna take it away \nI don’t wanna taste your kiss if your gonna f",
+      "duration": 271,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=TtMg6GWAJko",
+      "title": "John Summit & Of The Trees - Stay With Me (Official Visualizer)",
+      "description": "John Summit & Of The Trees - Stay With Me (Official Visualizer)\n\nLyrics:\nI just wanna make it last \nI feel your eyes on me  \nPulling  \nDeep \nAnd I can’t go back  \nAnd I don’t wanna wake up  \n\nStay with me \nIn my arms \nIn my arms \nDon’t let me down \n\nStay ",
+      "duration": 263,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=LlTkluUkbLk",
+      "title": "John Summit & Hayla - Shiver (Official Music Video)",
+      "description": "John Summit & Hayla - Shiver (Official Music Video)\n\nLyrics:\nVerse \n(Ooo’s) \n\nIn the darkness \nCollide in the night \nI was heartless \nUntil my soul came to life \n\nPre\nAnd I feel it now \nWant this forever \nAnd I feel it now \nYou make me shiver \n\nAnd I feel",
+      "duration": 235,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=fORtaB4MalY",
+      "title": "John Summit - EAT THE BASS (Official Lyric Visualizer)",
+      "description": "John Summit - EAT THE BASS (Official Lyric Visualizer)\n\nLyrics:\nI wanna feel your body\nDon't want romance\nI just need to eat the bass\nSo let me dance\n\nI wanna feel your body\nDon't want romance\nI just need to eat the bass\nSo let me dance (x3)\n\nI just need ",
+      "duration": 203,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=7KtDvGTXFBw",
+      "title": "John Summit - comedown (Official Visualizer)",
+      "description": "John Summit - comedown (Official Visualizer)\n\nArtwork By: Marcos Alvarado\nAnimation By: Natalie Cook\n\nfollow me:\nhttps://instagram.com/johnsummit\nhttps://twitter.com/johnsummit\n​https://facebook.com/itsjohnsummit\n​https://soundcloud.com/johnsummit",
+      "duration": 116,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=nUQfBn4i7uo",
+      "title": "John Summit & Kaskade - Resonate (ft. Julia Church) [Official Visualizer]",
+      "description": "John Summit & Kaskade - Resonate (ft. Julia Church) [Official Visualizer]\n\nArtwork By: Marcos Alvarado\n\nfollow me:\nhttps://instagram.com/johnsummit\nhttps://twitter.com/johnsummit\n​https://facebook.com/itsjohnsummit\n​https://soundcloud.com/johnsummit",
+      "duration": 242,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=d7zbPz56ZPI",
+      "title": "John Summit & Elderbrook - Give Me Anything (Official Lyric Video)",
+      "description": "John Summit & Elderbrook - Give Me Anything (Official Lyric Video)\n\nLyrics:\nI just want to feel \nSomething again\nFeel the touch on my skin\n\nIs somebody there?\nI need you to hear me \nJust a voice in the air \nOr a touch or a feeling\n\nOoh give me anything \nC",
+      "duration": 219,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5BqjhUmldDc",
+      "title": "John Summit & Hayla - Where You Are (Lyric Visualizer)",
+      "description": "John Summit & Hayla - Where You Are (Lyric Visualizer)\n\nListen & Download: http://Johnsummit.lnk.to/WYA\n\nVideo By: Michael Cullen\n\nSubscribe to Experts Only: https://youtube.com/@expertsonly\nOfficial Merchandise: https://expertsonlyrecs.com/merch\n\nFollow ",
+      "duration": 236,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Pj0wgA4z-UQ",
+      "title": "John Summit - Undo (ft. KOATES) [Official Lyric Video]",
+      "description": "John Summit - Undo (ft. KOATES) [Official Lyric Video]\n\nLyrics:\nYou, where are you?\nHiding where the light is\nSunset on your eyelids\nDo, do you do\nthings to make you happy?\nLife it never could be\n\nYou should know this\nI only wish your wishes come true\nAnd",
+      "duration": 256,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=o9Bgl8HUFZA",
+      "title": "John Summit & Sub Focus - Go Back (ft. Julia Church) [Official Lyric Visualizer]",
+      "description": "John Summit & Sub Focus - Go Back (ft. Julia Church)\n\nLyrics:\nVERSE\nI knew it from the start\nYou’d leave me in the stars\nLike heaven in the dark\nI’m a dreamer\nTake me deeper\n\nPRE-CHORUS\nTell me it’s more than a memory\nCause deep in my heart you belong to ",
+      "duration": 221,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=d2jQjvNtawA",
+      "title": "John Summit & venbee - palm of my hands (Official Lyric Video)",
+      "description": "John Summit & venbee - palm of my hands (Official Lyric Video)\n\nLyrics:\nNo shits are given\nIt’s my life \nImma live it \nI don’t need your permission \nFlying solo on a mission \n\nIt’s my own game, I’ll play it on my own \nWhere I end up, only heaven knows \n\nI",
+      "duration": 126,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic"
+  ],
+  "styles": [
+    "Progressive House",
+    "Tech House",
+    "House",
+    "Drum n Bass",
+    "Techno"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "John Summit",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 6687674,
+          "resource_url": "https://api.discogs.com/artists/6687674"
+        }
+      ],
+      "title": "Comfort In Chaos",
+      "duration": "4:27"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "John Summit",
+          "anv": "",
+          "join": "With ",
+          "role": "",
+          "tracks": "",
+          "id": 6687674,
+          "resource_url": "https://api.discogs.com/artists/6687674"
+        },
+        {
+          "name": "Paige Cavell",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 8843449,
+          "resource_url": "https://api.discogs.com/artists/8843449"
+        }
+      ],
+      "title": "Tears",
+      "duration": "3:56"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "John Summit",
+          "anv": "",
+          "join": "With ",
+          "role": "",
+          "tracks": "",
+          "id": 6687674,
+          "resource_url": "https://api.discogs.com/artists/6687674"
+        },
+        {
+          "name": "Of The Trees",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3433292,
+          "resource_url": "https://api.discogs.com/artists/3433292"
+        }
+      ],
+      "title": "Stay With Me",
+      "duration": "4:22"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "John Summit",
+          "anv": "",
+          "join": "With",
+          "role": "",
+          "tracks": "",
+          "id": 6687674,
+          "resource_url": "https://api.discogs.com/artists/6687674"
+        },
+        {
+          "name": "Hayla (2)",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 7773835,
+          "resource_url": "https://api.discogs.com/artists/7773835"
+        }
+      ],
+      "title": "Shiver",
+      "duration": "3:54"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "John Summit",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 6687674,
+          "resource_url": "https://api.discogs.com/artists/6687674"
+        }
+      ],
+      "title": "Eat The Bass ",
+      "duration": "3:22"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "John Summit",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 6687674,
+          "resource_url": "https://api.discogs.com/artists/6687674"
+        }
+      ],
+      "title": "Comedown",
+      "duration": "1:55"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "John Summit",
+          "anv": "",
+          "join": "With",
+          "role": "",
+          "tracks": "",
+          "id": 6687674,
+          "resource_url": "https://api.discogs.com/artists/6687674"
+        },
+        {
+          "name": "Kaskade",
+          "anv": "",
+          "join": "feat.",
+          "role": "",
+          "tracks": "",
+          "id": 19116,
+          "resource_url": "https://api.discogs.com/artists/19116"
+        },
+        {
+          "name": "Julia Church",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4781849,
+          "resource_url": "https://api.discogs.com/artists/4781849"
+        }
+      ],
+      "title": "Resonate",
+      "duration": "4:02"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "John Summit",
+          "anv": "",
+          "join": "With",
+          "role": "",
+          "tracks": "",
+          "id": 6687674,
+          "resource_url": "https://api.discogs.com/artists/6687674"
+        },
+        {
+          "name": "Elderbrook",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4099723,
+          "resource_url": "https://api.discogs.com/artists/4099723"
+        }
+      ],
+      "title": "Give Me Anything ",
+      "duration": "3:38"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "John Summit",
+          "anv": "",
+          "join": "With",
+          "role": "",
+          "tracks": "",
+          "id": 6687674,
+          "resource_url": "https://api.discogs.com/artists/6687674"
+        },
+        {
+          "name": "Hayla (2)",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 7773835,
+          "resource_url": "https://api.discogs.com/artists/7773835"
+        }
+      ],
+      "title": "Where You Are ",
+      "duration": "3:56"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "John Summit",
+          "anv": "",
+          "join": "feat.",
+          "role": "",
+          "tracks": "",
+          "id": 6687674,
+          "resource_url": "https://api.discogs.com/artists/6687674"
+        },
+        {
+          "name": "Koates",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 14830084,
+          "resource_url": "https://api.discogs.com/artists/14830084"
+        }
+      ],
+      "title": "Undo",
+      "duration": "4:15"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "John Summit",
+          "anv": "",
+          "join": "With",
+          "role": "",
+          "tracks": "",
+          "id": 6687674,
+          "resource_url": "https://api.discogs.com/artists/6687674"
+        },
+        {
+          "name": "Sub Focus",
+          "anv": "",
+          "join": "feat.",
+          "role": "",
+          "tracks": "",
+          "id": 142440,
+          "resource_url": "https://api.discogs.com/artists/142440"
+        },
+        {
+          "name": "Julia Church",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4781849,
+          "resource_url": "https://api.discogs.com/artists/4781849"
+        }
+      ],
+      "title": "Go Back",
+      "duration": "3:41"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "John Summit",
+          "anv": "",
+          "join": "With",
+          "role": "",
+          "tracks": "",
+          "id": 6687674,
+          "resource_url": "https://api.discogs.com/artists/6687674"
+        },
+        {
+          "name": "Venbee",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 11947949,
+          "resource_url": "https://api.discogs.com/artists/11947949"
+        }
+      ],
+      "title": "Palm Of My Hands",
+      "duration": "2:11"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/YVSjE-crCUI6k25kJx9pUoGqdsE6DVX9O8iBL4QdrOs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ0/NjgzLTE3NjczMjI4/MTQtNzM0My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/YVSjE-crCUI6k25kJx9pUoGqdsE6DVX9O8iBL4QdrOs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ0/NjgzLTE3NjczMjI4/MTQtNzM0My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/7JSOvs3yXQc6HOoEz4jm8TIxi882xiOGPL8Wdp4YZ_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ0/NjgzLTE3NjczMjI4/MTQtNzM0My5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/k5jVB89W41e-kebhGxMnGI_WioMx0LSdSma7i-UTa04/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ0/NjgzLTE3NjczMjI4/MTMtMTI2OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/k5jVB89W41e-kebhGxMnGI_WioMx0LSdSma7i-UTa04/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ0/NjgzLTE3NjczMjI4/MTMtMTI2OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/efUaRRti3b1iGVTng1MnopPuYbvSWrb1SyiPgK3b4tk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ0/NjgzLTE3NjczMjI4/MTMtMTI2OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Diap_uw_h3Sgq54tw7vRX-8JBkaB11VkQEzJ0Z_XCxE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ0/NjgzLTE3NjczMjI4/MTQtNjg3NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Diap_uw_h3Sgq54tw7vRX-8JBkaB11VkQEzJ0Z_XCxE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ0/NjgzLTE3NjczMjI4/MTQtNjg3NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/zC3qsiLVsFxqzD8WKD-Sr7X3YbkMajV6kvZyeASVh3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ0/NjgzLTE3NjczMjI4/MTQtNjg3NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/L3IDJK89F7JBg167pWSvKa7RHbbQ2CmkKawCogngksk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ0/NjgzLTE3NjczMjI4/MTMtNDIxNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/L3IDJK89F7JBg167pWSvKa7RHbbQ2CmkKawCogngksk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ0/NjgzLTE3NjczMjI4/MTMtNDIxNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/lV7znL_X_iut0A6rYMQaOp4dcDzvftv4eiWh1uDVrs0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ0/NjgzLTE3NjczMjI4/MTMtNDIxNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/60LKG2fpoLzMWc0iX4vMGCTSm361uY1Kb89Y0bfrJ1g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ0/NjgzLTE3NjczMjI4/MTQtNjExOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/60LKG2fpoLzMWc0iX4vMGCTSm361uY1Kb89Y0bfrJ1g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ0/NjgzLTE3NjczMjI4/MTQtNjExOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/xUW_1VO-siVCS821Uvwm05WqRZ81mRP20rNV3wSm9-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ0/NjgzLTE3NjczMjI4/MTQtNjExOS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/1lxVXfMN0DW9TcdthjY8E8gK0lxNMEuvRlOA3kRaDVA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ0/NjgzLTE3MjEyNDM2/MTktMjA2NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/1lxVXfMN0DW9TcdthjY8E8gK0lxNMEuvRlOA3kRaDVA/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ0/NjgzLTE3MjEyNDM2/MTktMjA2NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/j2VRfGFDHT_ALHl90fpenSyLjNfAnMicXqCBnXIiF1U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ0/NjgzLTE3MjEyNDM2/MTktMjA2NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 596
+    }
+  ],
+  "thumb": "https://i.discogs.com/7JSOvs3yXQc6HOoEz4jm8TIxi882xiOGPL8Wdp4YZ_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjQ0/NjgzLTE3NjczMjI4/MTQtNzM0My5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

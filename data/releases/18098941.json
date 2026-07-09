@@ -1,0 +1,1521 @@
+{
+  "id": 18098941,
+  "status": "Accepted",
+  "year": 2015,
+  "resource_url": "https://api.discogs.com/releases/18098941",
+  "uri": "https://www.discogs.com/release/18098941-Frank-Sinatra-Ultimate-Sinatra",
+  "artists": [
+    {
+      "name": "Frank Sinatra",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 52833,
+      "resource_url": "https://api.discogs.com/artists/52833",
+      "thumbnail_url": "https://i.discogs.com/TeUjVQjVAUsWgbxtFL4MzDCPbNf5VJrccVtcCVRfpTg/rs:fit/g:sm/q:90/h:600/w:485/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUyODMz/LTE2MTMzMjU5NTMt/ODY3Mi5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "Frank Sinatra",
+  "labels": [
+    {
+      "name": "Capitol Records",
+      "catno": "B0022437-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 654,
+      "resource_url": "https://api.discogs.com/labels/654",
+      "thumbnail_url": "https://i.discogs.com/jOm50Ncnop3VOhKg0rYbdvq7epxn5mnXdOWfVQNjOBg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY1NC0x/NzgxODU0Mzk3LTU2/MzcuanBlZw.jpeg"
+    },
+    {
+      "name": "UMe",
+      "catno": "B0022437-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 68029,
+      "resource_url": "https://api.discogs.com/labels/68029",
+      "thumbnail_url": "https://i.discogs.com/M8dUXs4KvT0ntyk7C_Xbzh3z3vTBp9EBxecfUb13p74/rs:fit/g:sm/q:90/h:233/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY4MDI5/LTE1MDM0MTYxNTkt/OTAxNy5wbmc.jpeg"
+    },
+    {
+      "name": "Signature Sinatra",
+      "catno": "B0022437-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 633312,
+      "resource_url": "https://api.discogs.com/labels/633312",
+      "thumbnail_url": "https://i.discogs.com/yLvItDYCh6V8GpsTxMq16gcflgTvck5rsR8wR7jUX1s/rs:fit/g:sm/q:90/h:236/w:459/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTYzMzMx/Mi0xNDUwNjM3NzE1/LTg3MjEuanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "UMG Recordings, Inc.",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 272782,
+      "resource_url": "https://api.discogs.com/labels/272782",
+      "thumbnail_url": "https://i.discogs.com/WX78Ss6rJPzD8aWRj-wynSuGlTwtQLp2QLnUFGDI3Pg/rs:fit/g:sm/q:90/h:80/w:534/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Mjc4/Mi0xNDU3MDEyNDAw/LTExMzYuanBlZw.jpeg"
+    },
+    {
+      "name": "Universal Music Enterprises",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 276180,
+      "resource_url": "https://api.discogs.com/labels/276180",
+      "thumbnail_url": "https://i.discogs.com/sUobPfry1gSRuIE5eNUFsXRF4l_cL-IIZxpmBx0bQ40/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3NjE4/MC0xNTI4NTUyNTU3/LTk1NDkuanBlZw.jpeg"
+    },
+    {
+      "name": "Universal Music Enterprises",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 276180,
+      "resource_url": "https://api.discogs.com/labels/276180",
+      "thumbnail_url": "https://i.discogs.com/sUobPfry1gSRuIE5eNUFsXRF4l_cL-IIZxpmBx0bQ40/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3NjE4/MC0xNTI4NTUyNTU3/LTk1NDkuanBlZw.jpeg"
+    },
+    {
+      "name": "Universal Music Distribution",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 115478,
+      "resource_url": "https://api.discogs.com/labels/115478"
+    },
+    {
+      "name": "Universal Music Enterprises",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 276180,
+      "resource_url": "https://api.discogs.com/labels/276180",
+      "thumbnail_url": "https://i.discogs.com/sUobPfry1gSRuIE5eNUFsXRF4l_cL-IIZxpmBx0bQ40/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3NjE4/MC0xNTI4NTUyNTU3/LTk1NDkuanBlZw.jpeg"
+    },
+    {
+      "name": "Frank Sinatra Enterprises, LLC",
+      "catno": "",
+      "entity_type": "6",
+      "entity_type_name": "Licensed From",
+      "id": 303809,
+      "resource_url": "https://api.discogs.com/labels/303809",
+      "thumbnail_url": "https://i.discogs.com/_MszBjSC2_paNRnsG_y-bd3WGdpQW1H3Jy_uqQpZT7Q/rs:fit/g:sm/q:90/h:454/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwMzgw/OS0xNjQ2OTc1OTEz/LTQxMDMuanBlZw.jpeg"
+    },
+    {
+      "name": "Capitol Studios",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 263812,
+      "resource_url": "https://api.discogs.com/labels/263812",
+      "thumbnail_url": "https://i.discogs.com/F2isIifmR7yCijoligmZMUhc2JKJkIfNNI1b29-PX7M/rs:fit/g:sm/q:90/h:282/w:437/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2Mzgx/Mi0xNjM5Nzg1NTE4/LTQ2ODYuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Compilation",
+        "Deluxe Edition",
+        "Reissue"
+      ],
+      "text": "180 grams"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 5429,
+    "want": 295,
+    "rating": {
+      "count": 273,
+      "average": 4.52
+    },
+    "submitter": {
+      "username": "vrp_pdx",
+      "resource_url": "https://api.discogs.com/users/vrp_pdx"
+    },
+    "contributors": [
+      {
+        "username": "vrp_pdx",
+        "resource_url": "https://api.discogs.com/users/vrp_pdx"
+      },
+      {
+        "username": "Kuzen",
+        "resource_url": "https://api.discogs.com/users/Kuzen"
+      },
+      {
+        "username": "somebetterplace",
+        "resource_url": "https://api.discogs.com/users/somebetterplace"
+      },
+      {
+        "username": "Germanas",
+        "resource_url": "https://api.discogs.com/users/Germanas"
+      },
+      {
+        "username": "danielblindta",
+        "resource_url": "https://api.discogs.com/users/danielblindta"
+      },
+      {
+        "username": "jweijde",
+        "resource_url": "https://api.discogs.com/users/jweijde"
+      },
+      {
+        "username": "kdaffolder",
+        "resource_url": "https://api.discogs.com/users/kdaffolder"
+      },
+      {
+        "username": "FredBas",
+        "resource_url": "https://api.discogs.com/users/FredBas"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2021-03-31T18:38:04-07:00",
+  "date_changed": "2026-04-20T12:19:20-07:00",
+  "num_for_sale": 29,
+  "lowest_price": 28,
+  "master_id": 828339,
+  "master_url": "https://api.discogs.com/masters/828339",
+  "title": "Ultimate Sinatra",
+  "country": "US",
+  "released": "2015-04-21",
+  "notes": "Sinatra's Ultimate Hits! Features 24 of \"The Chairman Of The Board's\" best from Columbia, Capitol, and Reprise. Together for the very first time on two deluxe 180 gram LPs.\n\nGatefold Sleeve\nCapitol Records, Signature Sinatra logos appear on spine with B0022437-01.\nCapitol Records, UMe, and Signature Sinatra logos appear on labels with B0022437-01 and A, B, C, or D depending on side.\nCapitol Records, UMe, Universal Music Group International, and Signature Sinatra logos appear on inner sleeve.\nBack cover fine print shows 2 lines of text for first paragraph.\n\n©2015 Universal Music Enterprises, a division of UMG Recordings, Inc. B0022437-01",
+  "released_formatted": "21 Apr 2015",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02547 13702 9",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "602547137029",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0022437-01-A  IS  33031.1 (3)... MASTERED BY CAPITOL",
+      "description": "Side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0022437-01-B  IS  33031.2 (3)...",
+      "description": "Side B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0022437-01-C  IS  33031.3 (3)... MASTERED BY CAPITOL",
+      "description": "Side C"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0022437-01-D RE2  IS  33050.4 (3)...",
+      "description": "Side D"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    "Jazz",
+    "Pop"
+  ],
+  "styles": [
+    "Vocal",
+    "Swing",
+    "Ballad",
+    "Easy Listening"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "anv": "",
+          "join": "With",
+          "role": "",
+          "tracks": "",
+          "id": 52833,
+          "resource_url": "https://api.discogs.com/artists/52833"
+        },
+        {
+          "name": "Harry James And His Orchestra",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 265635,
+          "resource_url": "https://api.discogs.com/artists/265635"
+        }
+      ],
+      "title": "All Or Nothing At All",
+      "extraartists": [
+        {
+          "name": "Andy Gibson",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 332582,
+          "resource_url": "https://api.discogs.com/artists/332582"
+        },
+        {
+          "name": "Arthur Altman",
+          "anv": "A. Altman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 721303,
+          "resource_url": "https://api.discogs.com/artists/721303"
+        },
+        {
+          "name": "Jack Lawrence (2)",
+          "anv": "J. Lawrence",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 638169,
+          "resource_url": "https://api.discogs.com/artists/638169"
+        }
+      ],
+      "duration": "2:58"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "anv": "",
+          "join": "With",
+          "role": "",
+          "tracks": "",
+          "id": 52833,
+          "resource_url": "https://api.discogs.com/artists/52833"
+        },
+        {
+          "name": "Tommy Dorsey And His Orchestra",
+          "anv": "",
+          "join": "And",
+          "role": "",
+          "tracks": "",
+          "id": 253855,
+          "resource_url": "https://api.discogs.com/artists/253855"
+        },
+        {
+          "name": "The Pied Pipers",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 399303,
+          "resource_url": "https://api.discogs.com/artists/399303"
+        }
+      ],
+      "title": "I'll Never Smile Again",
+      "extraartists": [
+        {
+          "name": "Fred Stulce",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 313075,
+          "resource_url": "https://api.discogs.com/artists/313075"
+        },
+        {
+          "name": "Ruth Lowe",
+          "anv": "R. Lowe",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 675388,
+          "resource_url": "https://api.discogs.com/artists/675388"
+        }
+      ],
+      "duration": "3:10"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 52833,
+          "resource_url": "https://api.discogs.com/artists/52833"
+        }
+      ],
+      "title": "Saturday Night (Is The Loneliest Night Of The Week)",
+      "extraartists": [
+        {
+          "name": "George Siravo",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 386441,
+          "resource_url": "https://api.discogs.com/artists/386441"
+        },
+        {
+          "name": "Jule Styne And Sammy Cahn",
+          "anv": "J. Styne, S. Cahn",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2376276,
+          "resource_url": "https://api.discogs.com/artists/2376276"
+        }
+      ],
+      "duration": "2:44"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 52833,
+          "resource_url": "https://api.discogs.com/artists/52833"
+        }
+      ],
+      "title": "Nancy (With The Laughing Face)",
+      "extraartists": [
+        {
+          "name": "Axel Stordahl",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 299962,
+          "resource_url": "https://api.discogs.com/artists/299962"
+        },
+        {
+          "name": "Jimmy Van Heusen",
+          "anv": "J. Van Heusen",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 255313,
+          "resource_url": "https://api.discogs.com/artists/255313"
+        },
+        {
+          "name": "Ted Koehler",
+          "anv": "T. Koehler",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 556375,
+          "resource_url": "https://api.discogs.com/artists/556375"
+        }
+      ],
+      "duration": "3:13"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 52833,
+          "resource_url": "https://api.discogs.com/artists/52833"
+        }
+      ],
+      "title": "I've Got The World On A String",
+      "extraartists": [
+        {
+          "name": "Nelson Riddle",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 59402,
+          "resource_url": "https://api.discogs.com/artists/59402"
+        },
+        {
+          "name": "Harold Arlen",
+          "anv": "H. Arlen",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 301975,
+          "resource_url": "https://api.discogs.com/artists/301975"
+        },
+        {
+          "name": "Ted Koehler",
+          "anv": "T. Koehler",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 556375,
+          "resource_url": "https://api.discogs.com/artists/556375"
+        }
+      ],
+      "duration": "2:10"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 52833,
+          "resource_url": "https://api.discogs.com/artists/52833"
+        }
+      ],
+      "title": "Young At Heart",
+      "extraartists": [
+        {
+          "name": "Nelson Riddle",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 59402,
+          "resource_url": "https://api.discogs.com/artists/59402"
+        },
+        {
+          "name": "Carolyn Leigh",
+          "anv": "C. Leigh",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 629478,
+          "resource_url": "https://api.discogs.com/artists/629478"
+        },
+        {
+          "name": "Johnny Richards",
+          "anv": "J. Richards",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 689119,
+          "resource_url": "https://api.discogs.com/artists/689119"
+        }
+      ],
+      "duration": "2:49"
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 52833,
+          "resource_url": "https://api.discogs.com/artists/52833"
+        }
+      ],
+      "title": "In The Wee Small Hours Of The Morning",
+      "extraartists": [
+        {
+          "name": "Nelson Riddle",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 59402,
+          "resource_url": "https://api.discogs.com/artists/59402"
+        },
+        {
+          "name": "Bob Hilliard",
+          "anv": "B. Hilliard",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 632719,
+          "resource_url": "https://api.discogs.com/artists/632719"
+        },
+        {
+          "name": "David Mann (3)",
+          "anv": "D. Mann",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 735033,
+          "resource_url": "https://api.discogs.com/artists/735033"
+        }
+      ],
+      "duration": "2:59"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 52833,
+          "resource_url": "https://api.discogs.com/artists/52833"
+        }
+      ],
+      "title": "Learnin' The Blues",
+      "extraartists": [
+        {
+          "name": "Nelson Riddle",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 59402,
+          "resource_url": "https://api.discogs.com/artists/59402"
+        },
+        {
+          "name": "Dolores Vicki Silvers",
+          "anv": "D. Silvers",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 567603,
+          "resource_url": "https://api.discogs.com/artists/567603"
+        }
+      ],
+      "duration": "3:01"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 52833,
+          "resource_url": "https://api.discogs.com/artists/52833"
+        }
+      ],
+      "title": "Love And Marriage",
+      "extraartists": [
+        {
+          "name": "Nelson Riddle",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 59402,
+          "resource_url": "https://api.discogs.com/artists/59402"
+        },
+        {
+          "name": "Sammy Cahn & Jimmy Van Heusen",
+          "anv": "S. Cahn, J. Van Heusen",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 932826,
+          "resource_url": "https://api.discogs.com/artists/932826"
+        }
+      ],
+      "duration": "2:38"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 52833,
+          "resource_url": "https://api.discogs.com/artists/52833"
+        }
+      ],
+      "title": "I've Got You Under My Skin",
+      "extraartists": [
+        {
+          "name": "Nelson Riddle",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 59402,
+          "resource_url": "https://api.discogs.com/artists/59402"
+        },
+        {
+          "name": "Cole Porter",
+          "anv": "C. Porter",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 264026,
+          "resource_url": "https://api.discogs.com/artists/264026"
+        }
+      ],
+      "duration": "3:42"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 52833,
+          "resource_url": "https://api.discogs.com/artists/52833"
+        }
+      ],
+      "title": "Witchcraft",
+      "extraartists": [
+        {
+          "name": "Nelson Riddle",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 59402,
+          "resource_url": "https://api.discogs.com/artists/59402"
+        },
+        {
+          "name": "Carolyn Leigh",
+          "anv": "C. Leigh",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 629478,
+          "resource_url": "https://api.discogs.com/artists/629478"
+        },
+        {
+          "name": "Cy Coleman",
+          "anv": "C. Coleman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 276433,
+          "resource_url": "https://api.discogs.com/artists/276433"
+        }
+      ],
+      "duration": "2:52"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 52833,
+          "resource_url": "https://api.discogs.com/artists/52833"
+        }
+      ],
+      "title": "All The Way",
+      "extraartists": [
+        {
+          "name": "Nelson Riddle",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 59402,
+          "resource_url": "https://api.discogs.com/artists/59402"
+        },
+        {
+          "name": "Sammy Cahn & Jimmy Van Heusen",
+          "anv": "S. Cahn, J. Van Heusen",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 932826,
+          "resource_url": "https://api.discogs.com/artists/932826"
+        }
+      ],
+      "duration": "2:52"
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 52833,
+          "resource_url": "https://api.discogs.com/artists/52833"
+        }
+      ],
+      "title": "Come Fly With Me",
+      "extraartists": [
+        {
+          "name": "Billy May",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 254886,
+          "resource_url": "https://api.discogs.com/artists/254886"
+        },
+        {
+          "name": "Sammy Cahn & Jimmy Van Heusen",
+          "anv": "S. Cahn, J. Van Heusen",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 932826,
+          "resource_url": "https://api.discogs.com/artists/932826"
+        }
+      ],
+      "duration": "3:18"
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 52833,
+          "resource_url": "https://api.discogs.com/artists/52833"
+        }
+      ],
+      "title": "One For My Baby (And One More For The Road)",
+      "extraartists": [
+        {
+          "name": "Nelson Riddle",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 59402,
+          "resource_url": "https://api.discogs.com/artists/59402"
+        },
+        {
+          "name": "Harold Arlen",
+          "anv": "H. Arlen",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 301975,
+          "resource_url": "https://api.discogs.com/artists/301975"
+        },
+        {
+          "name": "Johnny Mercer",
+          "anv": "J. Mercer",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 164574,
+          "resource_url": "https://api.discogs.com/artists/164574"
+        }
+      ],
+      "duration": "4:24"
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 52833,
+          "resource_url": "https://api.discogs.com/artists/52833"
+        }
+      ],
+      "title": "The Way You Look Tonight",
+      "extraartists": [
+        {
+          "name": "Nelson Riddle",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 59402,
+          "resource_url": "https://api.discogs.com/artists/59402"
+        },
+        {
+          "name": "Dorothy Fields",
+          "anv": "D. Fields",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 301992,
+          "resource_url": "https://api.discogs.com/artists/301992"
+        },
+        {
+          "name": "Jerome Kern",
+          "anv": "J. Kern",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 166685,
+          "resource_url": "https://api.discogs.com/artists/166685"
+        }
+      ],
+      "duration": "3:21"
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 52833,
+          "resource_url": "https://api.discogs.com/artists/52833"
+        }
+      ],
+      "title": "My Kind Of Town",
+      "extraartists": [
+        {
+          "name": "Nelson Riddle",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 59402,
+          "resource_url": "https://api.discogs.com/artists/59402"
+        },
+        {
+          "name": "Sammy Cahn & Jimmy Van Heusen",
+          "anv": "S. Cahn, J. Van Heusen",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 932826,
+          "resource_url": "https://api.discogs.com/artists/932826"
+        }
+      ],
+      "duration": "3:09"
+    },
+    {
+      "position": "C5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "anv": "",
+          "join": "With",
+          "role": "",
+          "tracks": "",
+          "id": 52833,
+          "resource_url": "https://api.discogs.com/artists/52833"
+        },
+        {
+          "name": "Count Basie Orchestra",
+          "anv": "Count Basie And His Orchestra",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 253011,
+          "resource_url": "https://api.discogs.com/artists/253011"
+        }
+      ],
+      "title": "Fly Me To The Moon (In Other Words)",
+      "extraartists": [
+        {
+          "name": "Quincy Jones",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 17546,
+          "resource_url": "https://api.discogs.com/artists/17546"
+        },
+        {
+          "name": "Bart Howard",
+          "anv": "B. Howard",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 370782,
+          "resource_url": "https://api.discogs.com/artists/370782"
+        }
+      ],
+      "duration": "2:27"
+    },
+    {
+      "position": "C6",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 52833,
+          "resource_url": "https://api.discogs.com/artists/52833"
+        }
+      ],
+      "title": "It Was A Very Good Year",
+      "extraartists": [
+        {
+          "name": "Gordon Jenkins",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 326469,
+          "resource_url": "https://api.discogs.com/artists/326469"
+        },
+        {
+          "name": "Ervin Drake",
+          "anv": "E. Drake",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 636380,
+          "resource_url": "https://api.discogs.com/artists/636380"
+        }
+      ],
+      "duration": "4:26"
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 52833,
+          "resource_url": "https://api.discogs.com/artists/52833"
+        }
+      ],
+      "title": "Strangers In The Night",
+      "extraartists": [
+        {
+          "name": "Ernie Freeman",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 253435,
+          "resource_url": "https://api.discogs.com/artists/253435"
+        },
+        {
+          "name": "Bert Kaempfert",
+          "anv": "B. Kaempfert",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 89631,
+          "resource_url": "https://api.discogs.com/artists/89631"
+        },
+        {
+          "name": "Charles Singleton",
+          "anv": "C. Singleton",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 634420,
+          "resource_url": "https://api.discogs.com/artists/634420"
+        },
+        {
+          "name": "Eddie Snyder",
+          "anv": "E. Snyder",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 634415,
+          "resource_url": "https://api.discogs.com/artists/634415"
+        }
+      ],
+      "duration": "2:36"
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 52833,
+          "resource_url": "https://api.discogs.com/artists/52833"
+        }
+      ],
+      "title": "Summer Wind",
+      "extraartists": [
+        {
+          "name": "Nelson Riddle",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 59402,
+          "resource_url": "https://api.discogs.com/artists/59402"
+        },
+        {
+          "name": "Hans Bradtke",
+          "anv": "H. Bradtke",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 573351,
+          "resource_url": "https://api.discogs.com/artists/573351"
+        },
+        {
+          "name": "Heinz Meier",
+          "anv": "H. Meier",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 640815,
+          "resource_url": "https://api.discogs.com/artists/640815"
+        },
+        {
+          "name": "Johnny Mercer",
+          "anv": "J. Mercer",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 164574,
+          "resource_url": "https://api.discogs.com/artists/164574"
+        }
+      ],
+      "duration": "2:55"
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 52833,
+          "resource_url": "https://api.discogs.com/artists/52833"
+        }
+      ],
+      "title": "That's Life",
+      "extraartists": [
+        {
+          "name": "Ernie Freeman",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 253435,
+          "resource_url": "https://api.discogs.com/artists/253435"
+        },
+        {
+          "name": "Dean Kay",
+          "anv": "D. Thompson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 642236,
+          "resource_url": "https://api.discogs.com/artists/642236"
+        },
+        {
+          "name": "Kelly Gordon",
+          "anv": "K. Gordon",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 599442,
+          "resource_url": "https://api.discogs.com/artists/599442"
+        }
+      ],
+      "duration": "3:06"
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 52833,
+          "resource_url": "https://api.discogs.com/artists/52833"
+        }
+      ],
+      "title": "My Way",
+      "extraartists": [
+        {
+          "name": "Don Costa",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 270262,
+          "resource_url": "https://api.discogs.com/artists/270262"
+        },
+        {
+          "name": "Claude François",
+          "anv": "C. François",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 270795,
+          "resource_url": "https://api.discogs.com/artists/270795"
+        },
+        {
+          "name": "Gilles Thibaut",
+          "anv": "G. Thibaut",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 662752,
+          "resource_url": "https://api.discogs.com/artists/662752"
+        },
+        {
+          "name": "Jacques Revaux",
+          "anv": "J. Revaux",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 475255,
+          "resource_url": "https://api.discogs.com/artists/475255"
+        },
+        {
+          "name": "Paul Anka",
+          "anv": "P. Anka",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 312014,
+          "resource_url": "https://api.discogs.com/artists/312014"
+        }
+      ],
+      "duration": "4:35"
+    },
+    {
+      "position": "D5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 52833,
+          "resource_url": "https://api.discogs.com/artists/52833"
+        }
+      ],
+      "title": "(Theme From) New York, New York",
+      "extraartists": [
+        {
+          "name": "Don Costa",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 270262,
+          "resource_url": "https://api.discogs.com/artists/270262"
+        },
+        {
+          "name": "Fred Ebb",
+          "anv": "F. Ebb",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 451569,
+          "resource_url": "https://api.discogs.com/artists/451569"
+        },
+        {
+          "name": "John Kander",
+          "anv": "J. Kander",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 534305,
+          "resource_url": "https://api.discogs.com/artists/534305"
+        }
+      ],
+      "duration": "3:24"
+    },
+    {
+      "position": "D6",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 52833,
+          "resource_url": "https://api.discogs.com/artists/52833"
+        }
+      ],
+      "title": "Put Your Dreams Away",
+      "extraartists": [
+        {
+          "name": "Nelson Riddle",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 59402,
+          "resource_url": "https://api.discogs.com/artists/59402"
+        },
+        {
+          "name": "Paul Mann",
+          "anv": "P. Mann",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 614990,
+          "resource_url": "https://api.discogs.com/artists/614990"
+        },
+        {
+          "name": "Ruth Lowe",
+          "anv": "R. Lowe",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 675388,
+          "resource_url": "https://api.discogs.com/artists/675388"
+        },
+        {
+          "name": "Stephan Weiss",
+          "anv": "S. Weiss",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 758113,
+          "resource_url": "https://api.discogs.com/artists/758113"
+        }
+      ],
+      "duration": "3:11"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Vartan (4)",
+      "anv": "",
+      "join": "",
+      "role": "Art Direction",
+      "tracks": "",
+      "id": 515729,
+      "resource_url": "https://api.discogs.com/artists/515729"
+    },
+    {
+      "name": "Charles Pignone",
+      "anv": "",
+      "join": "",
+      "role": "Compilation Producer",
+      "tracks": "",
+      "id": 1260561,
+      "resource_url": "https://api.discogs.com/artists/1260561"
+    },
+    {
+      "name": "Andy Engel",
+      "anv": "",
+      "join": "",
+      "role": "Design",
+      "tracks": "",
+      "id": 692297,
+      "resource_url": "https://api.discogs.com/artists/692297"
+    },
+    {
+      "name": "Meire Murakami",
+      "anv": "",
+      "join": "",
+      "role": "Design [Cover]",
+      "tracks": "",
+      "id": 1844663,
+      "resource_url": "https://api.discogs.com/artists/1844663"
+    },
+    {
+      "name": "Robert Vosgien",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 395566,
+      "resource_url": "https://api.discogs.com/artists/395566"
+    },
+    {
+      "name": "Larry Walsh",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By, Restoration [Audio Restoration]",
+      "tracks": "",
+      "id": 348567,
+      "resource_url": "https://api.discogs.com/artists/348567"
+    },
+    {
+      "name": "Liuba Shapiro",
+      "anv": "",
+      "join": "",
+      "role": "Product Manager",
+      "tracks": "",
+      "id": 1874266,
+      "resource_url": "https://api.discogs.com/artists/1874266"
+    },
+    {
+      "name": "David Noily",
+      "anv": "",
+      "join": "",
+      "role": "Production Manager",
+      "tracks": "",
+      "id": 4678748,
+      "resource_url": "https://api.discogs.com/artists/4678748"
+    },
+    {
+      "name": "Frank Collura",
+      "anv": "",
+      "join": "",
+      "role": "Project Manager",
+      "tracks": "",
+      "id": 650771,
+      "resource_url": "https://api.discogs.com/artists/650771"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/Oz8Je52Dcpv6T2u3K9ZZ5qNONspblzm3fdryz1QGnkQ/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MTcyNDEy/NjgtNzEzNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Oz8Je52Dcpv6T2u3K9ZZ5qNONspblzm3fdryz1QGnkQ/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MTcyNDEy/NjgtNzEzNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/kpBw9PBdEKvj1WzPI7CY3rJERChGZpTZ3gmkMe_a_QI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MTcyNDEy/NjgtNzEzNS5qcGVn.jpeg",
+      "width": 500,
+      "height": 500
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/nCT22vAtIuW9O1PSilJJbVEG7k8Jj4BQ3K00MqaVGPY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTItNjYxMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/nCT22vAtIuW9O1PSilJJbVEG7k8Jj4BQ3K00MqaVGPY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTItNjYxMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/511g0ZjEv-Qvccr4AuwPQZNS7r3sbB4MxvM2362Px9Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTItNjYxMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ogIFdfvkXXpkhlfVNw_mSGSACvwpdPHJxcKnWhYcX_4/rs:fit/g:sm/q:90/h:302/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTQtNzAxMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ogIFdfvkXXpkhlfVNw_mSGSACvwpdPHJxcKnWhYcX_4/rs:fit/g:sm/q:90/h:302/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTQtNzAxMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/SWaPBIvwJCTTkTqfVOJbuvKQFSZidkqKpfLCS2djG0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTQtNzAxMy5qcGVn.jpeg",
+      "width": 600,
+      "height": 302
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/s4Bs4W3GAv-stqOWh8Xd2i_42eOFv6AiKbSYp_GhhSQ/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTMtMjAxMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/s4Bs4W3GAv-stqOWh8Xd2i_42eOFv6AiKbSYp_GhhSQ/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTMtMjAxMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/FYLRsAovfrz9fecx9dYauYBOlkSv6cQkkRWKvNuUXXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTMtMjAxMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 583
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/mmu9IR79XAllwOeTQE_jx91wDITGyaxwqR1HDvOaFvQ/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTQtMjgzOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/mmu9IR79XAllwOeTQE_jx91wDITGyaxwqR1HDvOaFvQ/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTQtMjgzOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/4wrsaRMEuWyuz08Ka0vIAxBGi7aNkwwGIOM_NQnsRgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTQtMjgzOC5qcGVn.jpeg",
+      "width": 600,
+      "height": 574
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/EHl8EpFdKEp0u3UpKTZ8JNi61VorwJAMkL-_9A-O7Nc/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTItMzgyNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/EHl8EpFdKEp0u3UpKTZ8JNi61VorwJAMkL-_9A-O7Nc/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTItMzgyNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ksOnVS01-MFuX0Ir8vHbA0h8rXYyQczlEUztrdyuzgs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTItMzgyNy5qcGVn.jpeg",
+      "width": 578,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/WQ672EIPTj6OjL_rztKE6DmL2Cq1Xs50F2fxWKSePjw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTMtMzgzNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/WQ672EIPTj6OjL_rztKE6DmL2Cq1Xs50F2fxWKSePjw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTMtMzgzNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/kl3mmPo4yEtf9nAoGDoB8kbOTWj2VwW7dNzUn1Hk8pw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTMtMzgzNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/xBUS9iAVwO0-pKgu1fFcXZmN7CWMJuYYdtOYRAd6ilM/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTQtMTM1Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/xBUS9iAVwO0-pKgu1fFcXZmN7CWMJuYYdtOYRAd6ilM/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTQtMTM1Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Ye0MOrANeXpQ3tXodKkUhbqCsMQQJ8bwxzHXyge392U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTQtMTM1Mi5qcGVn.jpeg",
+      "width": 595,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/OgZP5OWOgcFONkuwti8hDbVIWUBHY7LhnC_LFfoGCJc/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTMtNzE4NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/OgZP5OWOgcFONkuwti8hDbVIWUBHY7LhnC_LFfoGCJc/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTMtNzE4NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/uiBIZY5JK4w4xC9bLVmwAIreoi4VTyB7b0Q39OGY64g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTMtNzE4NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 592
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/np4r5EbmAJ1wooxZuZ_X3SZjbTEnCiSvKdw8AK8VJ-w/rs:fit/g:sm/q:90/h:563/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTQtNjE5NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/np4r5EbmAJ1wooxZuZ_X3SZjbTEnCiSvKdw8AK8VJ-w/rs:fit/g:sm/q:90/h:563/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTQtNjE5NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/anSUsdRL_tAtLNs2gyO0f8qeTpM62zQnizkHqqRy4h8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTQtNjE5NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 563
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/r46npd4ErG-V78j5FfPv_BivXPdrKCBv8K-5x9lWxEE/rs:fit/g:sm/q:90/h:269/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTItNTc3Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/r46npd4ErG-V78j5FfPv_BivXPdrKCBv8K-5x9lWxEE/rs:fit/g:sm/q:90/h:269/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTItNTc3Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/PzpbArcTLBkfRVduNLj1x-9MHVWp6m5GN3syUiqgU0Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjE5Nzk1/NTItNTc3Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 269
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/QHmistmjyvOsAuovvjEX4TV5BlbNhgOacMOdWBIWSXk/rs:fit/g:sm/q:90/h:112/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MTcyNDEy/NzEtNDMxOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/QHmistmjyvOsAuovvjEX4TV5BlbNhgOacMOdWBIWSXk/rs:fit/g:sm/q:90/h:112/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MTcyNDEy/NzEtNDMxOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/1pORRNWBZXmMRzp8c6kLANmLWURQRdy_qrFQK_BI2mw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MTcyNDEy/NzEtNDMxOS5qcGVn.jpeg",
+      "width": 600,
+      "height": 112
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/uiHwZMhkiQXp1s2Jo4mnlvfEb2h6t4zI4MNeWNDu9vM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjgxNTg4/MjktNTk4My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/uiHwZMhkiQXp1s2Jo4mnlvfEb2h6t4zI4MNeWNDu9vM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjgxNTg4/MjktNTk4My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/gdNzUzKrFamEzBgGYIuHAk555_mv6JgxtgBzjnJa7pg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MjgxNTg4/MjktNTk4My5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/kpBw9PBdEKvj1WzPI7CY3rJERChGZpTZ3gmkMe_a_QI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MDk4/OTQxLTE2MTcyNDEy/NjgtNzEzNS5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

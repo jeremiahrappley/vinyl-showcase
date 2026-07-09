@@ -1,0 +1,257 @@
+{
+  "id": 7378029,
+  "status": "Accepted",
+  "year": 2015,
+  "resource_url": "https://api.discogs.com/releases/7378029",
+  "uri": "https://www.discogs.com/release/7378029-The-Weeknd-Thursday",
+  "artists": [
+    {
+      "name": "The Weeknd",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 2171152,
+      "resource_url": "https://api.discogs.com/artists/2171152",
+      "thumbnail_url": "https://i.discogs.com/LtkvbtrtZxt0LY5IqGmt4KHX0-_QNv6xloFNdzy-i7Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxNzEx/NTItMTc2MDQ4MTA2/OS03NzM4LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Weeknd, The",
+  "labels": [
+    {
+      "name": "Republic Records",
+      "catno": "B0022933-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "United Record Pressing",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 238322,
+      "resource_url": "https://api.discogs.com/labels/238322",
+      "thumbnail_url": "https://i.discogs.com/wXejTcaBZif0vNl1Wx8ZmvUBcAwkQ21T3AduA-BjUg8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzODMy/Mi0xNDk3Nzk0Njg4/LTg0MzAucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Mixtape",
+        "Reissue"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 5836,
+    "want": 2723,
+    "rating": {
+      "count": 371,
+      "average": 4.5
+    },
+    "submitter": {
+      "username": "GoVinylGo",
+      "resource_url": "https://api.discogs.com/users/GoVinylGo"
+    },
+    "contributors": [
+      {
+        "username": "GoVinylGo",
+        "resource_url": "https://api.discogs.com/users/GoVinylGo"
+      },
+      {
+        "username": "CD_WAREHOUSE_817",
+        "resource_url": "https://api.discogs.com/users/CD_WAREHOUSE_817"
+      },
+      {
+        "username": "infamous31",
+        "resource_url": "https://api.discogs.com/users/infamous31"
+      },
+      {
+        "username": "Sonik_Grooves",
+        "resource_url": "https://api.discogs.com/users/Sonik_Grooves"
+      },
+      {
+        "username": "djsgribbs",
+        "resource_url": "https://api.discogs.com/users/djsgribbs"
+      },
+      {
+        "username": "LostSoundsFound",
+        "resource_url": "https://api.discogs.com/users/LostSoundsFound"
+      },
+      {
+        "username": "foreveryoungrecords",
+        "resource_url": "https://api.discogs.com/users/foreveryoungrecords"
+      },
+      {
+        "username": "AustinSimard",
+        "resource_url": "https://api.discogs.com/users/AustinSimard"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2015-08-21T13:18:37-07:00",
+  "date_changed": "2024-01-21T14:10:51-08:00",
+  "num_for_sale": 21,
+  "lowest_price": 17.85,
+  "master_id": 874599,
+  "master_url": "https://api.discogs.com/masters/874599",
+  "title": "Thursday",
+  "country": "US",
+  "released": "2015-08-21",
+  "notes": "Ⓟ & Ⓒ 2012 XO&co. Inc.\n\nIn a gatefold sleeve.",
+  "released_formatted": "21 Aug 2015",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "602547264930"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0017792 · 01 LP03 - A Ⓤ",
+      "description": "Runout Side A [etched]"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0017792 · 01 LP03 - B Ⓤ",
+      "description": "Runout Side B [etched]"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0017792 · 01 LP04 - A Ⓤ",
+      "description": "Runout Side C [etched]"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0017792 · 01 LP04 - B Ⓤ",
+      "description": "Runout Side D [etched]"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    "Electronic",
+    "Hip Hop",
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Contemporary R&B"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Lonely Star",
+      "duration": "5:49"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Life Of The Party",
+      "duration": "4:57"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Thursday",
+      "duration": "5:20"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "The Zone",
+      "extraartists": [
+        {
+          "name": "Drake",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 151199,
+          "resource_url": "https://api.discogs.com/artists/151199"
+        }
+      ],
+      "duration": "6:59"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "The Birds Part 1",
+      "duration": "3:34"
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "The Birds Part 2",
+      "duration": "5:51"
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Gone",
+      "duration": "8:08"
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Rolling Stone",
+      "duration": "3:51"
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Heaven Or Las Vegas",
+      "duration": "5:53"
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Valerie",
+      "duration": "4:46"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Illangelo",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By, Mixed By",
+      "tracks": "",
+      "id": 2186765,
+      "resource_url": "https://api.discogs.com/artists/2186765"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/qfXSLGcvKP-N98A7wo_EuZIN4fjY8EW0cgcDXUjB_Cg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzgw/MjktMTYyMTcyMzgx/MC05ODUxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/qfXSLGcvKP-N98A7wo_EuZIN4fjY8EW0cgcDXUjB_Cg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzgw/MjktMTYyMTcyMzgx/MC05ODUxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/gGmofY0RaDbhVL2M8nwWjUj2Pa-Wz_uEFf65hOEIefw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzgw/MjktMTYyMTcyMzgx/MC05ODUxLmpwZWc.jpeg",
+      "width": 600,
+      "height": 595
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/p6-CrL8W98fO9xhesx9XGzGrevM_kNUv9h_lqyYHMhI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzgw/MjktMTY0Nzk3Mjkz/OS04MDM1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/p6-CrL8W98fO9xhesx9XGzGrevM_kNUv9h_lqyYHMhI/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzgw/MjktMTY0Nzk3Mjkz/OS04MDM1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/cX6oTwzAkMKOtFeKJPKNmsfX84tEfWM-KF68UMhytYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzgw/MjktMTY0Nzk3Mjkz/OS04MDM1LmpwZWc.jpeg",
+      "width": 600,
+      "height": 595
+    }
+  ],
+  "thumb": "https://i.discogs.com/gGmofY0RaDbhVL2M8nwWjUj2Pa-Wz_uEFf65hOEIefw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzgw/MjktMTYyMTcyMzgx/MC05ODUxLmpwZWc.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

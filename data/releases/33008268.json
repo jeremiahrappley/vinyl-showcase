@@ -1,0 +1,434 @@
+{
+  "id": 33008268,
+  "status": "Accepted",
+  "year": 2025,
+  "resource_url": "https://api.discogs.com/releases/33008268",
+  "uri": "https://www.discogs.com/release/33008268-The-Weeknd-Hurry-Up-Tomorrow",
+  "artists": [
+    {
+      "name": "The Weeknd",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 2171152,
+      "resource_url": "https://api.discogs.com/artists/2171152",
+      "thumbnail_url": "https://i.discogs.com/LtkvbtrtZxt0LY5IqGmt4KHX0-_QNv6xloFNdzy-i7Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxNzEx/NTItMTc2MDQ4MTA2/OS03NzM4LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Weeknd, The",
+  "labels": [
+    {
+      "name": "XO",
+      "catno": "602465994759",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 344571,
+      "resource_url": "https://api.discogs.com/labels/344571",
+      "thumbnail_url": "https://i.discogs.com/j9COP9wfWV1fEC4Yc9cxmJkrcRO3MF4eXbXxtg2sIjw/rs:fit/g:sm/q:90/h:600/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM0NDU3/MS0xNDg4ODM5NTYx/LTcwMjEucG5n.jpeg"
+    },
+    {
+      "name": "Republic Records",
+      "catno": "602465994759",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "The Weeknd XO Music ULC",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 3309552,
+      "resource_url": "https://api.discogs.com/labels/3309552"
+    },
+    {
+      "name": "The Weeknd XO Music ULC",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 3309552,
+      "resource_url": "https://api.discogs.com/labels/3309552"
+    },
+    {
+      "name": "Republic Records",
+      "catno": "",
+      "entity_type": "8",
+      "entity_type_name": "Marketed By",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    },
+    {
+      "name": "Universal Music Distribution",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 115478,
+      "resource_url": "https://api.discogs.com/labels/115478"
+    },
+    {
+      "name": "Vantiva, Guadalajara, Mexico",
+      "catno": "1285229",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 3269847,
+      "resource_url": "https://api.discogs.com/labels/3269847",
+      "thumbnail_url": "https://i.discogs.com/-xZFh7VUKRftcfw2qd8LSudyThsXYs2xz09rPU-_BOE/rs:fit/g:sm/q:90/h:320/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMyNjk4/NDctMTY4NDg1OTc2/NS03NTU0LmpwZWc.jpeg"
+    },
+    {
+      "name": "Vantiva, Guadalajara, Mexico",
+      "catno": "1285230",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 3269847,
+      "resource_url": "https://api.discogs.com/labels/3269847",
+      "thumbnail_url": "https://i.discogs.com/-xZFh7VUKRftcfw2qd8LSudyThsXYs2xz09rPU-_BOE/rs:fit/g:sm/q:90/h:320/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMyNjk4/NDctMTY4NDg1OTc2/NS03NTU0LmpwZWc.jpeg"
+    },
+    {
+      "name": "East Iris Studios",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 269214,
+      "resource_url": "https://api.discogs.com/labels/269214",
+      "thumbnail_url": "https://i.discogs.com/m9X472oJZt6HS-15uN3QjR3tB7nFZP3WtaOtcjMNAk8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2OTIx/NC0xNTY4MDAwOTM1/LTQ5NjUuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Stereo"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 5050,
+    "want": 479,
+    "rating": {
+      "count": 409,
+      "average": 4.34
+    },
+    "submitter": {
+      "username": "CD_WAREHOUSE_817",
+      "resource_url": "https://api.discogs.com/users/CD_WAREHOUSE_817"
+    },
+    "contributors": [
+      {
+        "username": "CD_WAREHOUSE_817",
+        "resource_url": "https://api.discogs.com/users/CD_WAREHOUSE_817"
+      },
+      {
+        "username": "soldoutvinylrecords",
+        "resource_url": "https://api.discogs.com/users/soldoutvinylrecords"
+      },
+      {
+        "username": "myvinyldiscography",
+        "resource_url": "https://api.discogs.com/users/myvinyldiscography"
+      },
+      {
+        "username": "TheRealGreg",
+        "resource_url": "https://api.discogs.com/users/TheRealGreg"
+      },
+      {
+        "username": "Xmipod",
+        "resource_url": "https://api.discogs.com/users/Xmipod"
+      },
+      {
+        "username": "spwalsh187",
+        "resource_url": "https://api.discogs.com/users/spwalsh187"
+      },
+      {
+        "username": "kraftmatic",
+        "resource_url": "https://api.discogs.com/users/kraftmatic"
+      },
+      {
+        "username": "Revolution_Rock",
+        "resource_url": "https://api.discogs.com/users/Revolution_Rock"
+      },
+      {
+        "username": "thefrascafamily",
+        "resource_url": "https://api.discogs.com/users/thefrascafamily"
+      },
+      {
+        "username": "vtmntscoat",
+        "resource_url": "https://api.discogs.com/users/vtmntscoat"
+      },
+      {
+        "username": "mh.23",
+        "resource_url": "https://api.discogs.com/users/mh.23"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2025-01-31T08:45:37-08:00",
+  "date_changed": "2025-02-05T09:50:24-08:00",
+  "num_for_sale": 67,
+  "lowest_price": 9.99,
+  "master_id": 3737196,
+  "master_url": "https://api.discogs.com/masters/3737196",
+  "title": "Hurry Up Tomorrow",
+  "country": "US",
+  "released": "2025-01-31",
+  "notes": "Features a shortened tracklist compared to the digital release, as well as \"Society\" and \"Runaway,\" two bonus tracks exclusive to first pressing copies.\n\n\"VINYL MADE IN MEXICO\" printed on rear shrink wrap.",
+  "released_formatted": "31 Jan 2025",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02465 99475 9",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "602465994759",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "(1285229) 02010116 VAN 006024655995449 •AV• Kevin Reeves @ East Iris 4 Max",
+      "description": "Side A runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "(1285230) 02010108 VAN 006024655995449 •BV• Kevin Reeves @ East Iris 4 Caza",
+      "description": "Side B runout"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=2kjolTLZ_Mg",
+      "title": "The Weeknd - São Paulo (Official Music Video)",
+      "description": "FULL SONG NOW LIVE ON ALL STREAMING PLATFORMS: http://theweeknd.co/SaoPaulo\n\nPre order The Weeknd’s upcoming album ‘Hurry Up Tomorrow’: http://theweeknd.co/HurryUpTomorrow\n\nCredits:\nDirected by Freeka Tet\nDOP : Ben Carey\nProduced by Phantasm\nExecutive Pro",
+      "duration": 210,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=GT8ornYrDEs",
+      "title": "The Weeknd - Hurry Up Tomorrow (Official Music Video)",
+      "description": "Official music video for \"Hurry Up Tomorrow\", available everywhere now: http://theweeknd.co/HurryUpTomorrow\n\nHurry Up Tomorrow now playing in theaters: http://theweeknd.co/HUTMovieGlobal\n\n#TheWeeknd #HurryUpTomorrow",
+      "duration": 293,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5EpyN_6dqyk",
+      "title": "The Weeknd, Playboi Carti - Timeless",
+      "description": "Music video by The Weeknd, Playboi Carti performing Timeless.© 2024 The Weeknd XO Music ULC, marketed by Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 257,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=16jA-6hiSUo",
+      "title": "The Weeknd, Playboi Carti - Timeless (Official Lyric Video)",
+      "description": "Official lyric video for \"Timeless\" with Playboi Carti, available everywhere here: http://theweeknd.co/Timeless\n\nPre-order the upcoming album ‘Hurry Up Tomorrow’ now: http://theweeknd.co/HurryUpTomorrow\n\n#THEWEEKND #PLAYBOICARTI #TIMELESS",
+      "duration": 257,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=AQ5NlI-SJR0",
+      "title": "The Weeknd - São Paulo (Official Audio)",
+      "description": "Official audio for “São Paulo” feat. Anitta, available everywhere now: http://theweeknd.co/SaoPaulo\n\nPre order The Weeknd’s upcoming album ‘Hurry Up Tomorrow’: http://theweeknd.co/HurryUpTomorrow\n\n#TheWeeknd #Anitta #SãoPaulo\n\n\n\nMusic video by The Weeknd,",
+      "duration": 302,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Fv2Y1odMjvE",
+      "title": "The Weeknd - Drive (Official Music Video)",
+      "description": "Early Fan Event Tickets to See Hurry Up Tomorrow Movie On Sale Now: https://www.hurryuptomorrow.movie/tickets/\n\nOfficial music video for “Drive” available everywhere now: http://theweeknd.co/HurryUpTomorrow\n\nDirected by Trey Shults \n\n#TheWeeknd #Drive #Hu",
+      "duration": 274,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=mX19AV35PhI",
+      "title": "The Weeknd, Playboi Carti - Timeless (Audio)",
+      "description": "Music video by The Weeknd, Playboi Carti performing Timeless (Audio).© 2025 The Weeknd XO Music ULC, marketed by Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 257,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=S3ncfrQPpjs",
+      "title": "The Weeknd, Lana Del Rey - The Abyss (Audio)",
+      "description": "Music video by The Weeknd, Lana Del Rey performing The Abyss (Audio).© 2025 The Weeknd XO Music ULC, marketed by Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 283,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ll6sBa3Dafs",
+      "title": "The Weeknd - Open Hearts (Audio)",
+      "description": "Music video by The Weeknd performing Open Hearts (Audio).© 2025 The Weeknd XO Music ULC, marketed by Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 236,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=HxWx5UuznGI",
+      "title": "The Weeknd - Niagara Falls (Audio)",
+      "description": "Music video by The Weeknd performing Niagara Falls (Audio).© 2025 The Weeknd XO Music ULC, marketed by Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 278,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=WH7L9e07uSQ",
+      "title": "The Weeknd - Baptized In Fear (Audio)",
+      "description": "Music video by The Weeknd performing Baptized In Fear (Audio).© 2025 The Weeknd XO Music ULC, marketed by Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 233,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=qnM9cUpdIJg",
+      "title": "Reflections Laughing",
+      "description": "Provided to YouTube by Universal Music Group\n\nReflections Laughing · The Weeknd · Travis Scott · Florence + The Machine\n\nHurry Up Tomorrow\n\n℗ 2025 The Weeknd XO Music ULC, marketed by Republic Records, a division of UMG Recordings, Inc.\n\nReleased on: 2025",
+      "duration": 292,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KVgDjivrjjM",
+      "title": "Cry For Me",
+      "description": "Provided to YouTube by Universal Music Group\n\nCry For Me · The Weeknd\n\nHurry Up Tomorrow\n\n℗ 2025 The Weeknd XO Music ULC, marketed by Republic Records, a division of UMG Recordings, Inc.\n\nReleased on: 2025-01-30\n\nProgrammer, Producer, Vocalist: The Weeknd",
+      "duration": 225,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=b9jHP7XhMDg",
+      "title": "The Weeknd, Future - Enjoy The Show (Audio)",
+      "description": "Music video by The Weeknd, Future performing Enjoy The Show (Audio).© 2025 The Weeknd XO Music ULC, marketed by Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 302,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=QNGCMgvcbpA",
+      "title": "The Weeknd, Justice - Wake Me Up (Audio)",
+      "description": "Music video by The Weeknd, Justice performing Wake Me Up (Audio).© 2025 The Weeknd XO Music ULC, marketed by Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 309,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=l8-rIurGwAE",
+      "title": "The Weeknd - I Can't Wait To Get There (Audio)",
+      "description": "Music video by The Weeknd performing I Can't Wait To Get There (Audio).© 2025 The Weeknd XO Music ULC, marketed by Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 190,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=1FopqsTIfY0",
+      "title": "The Weeknd, Giorgio Moroder - Big Sleep (Audio)",
+      "description": "Music video by The Weeknd, Giorgio Moroder performing Big Sleep (Audio).© 2025 The Weeknd XO Music ULC, marketed by Republic Records, a division of UMG Recordings, Inc.",
+      "duration": 226,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Hip Hop",
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Contemporary R&B",
+    "Synth-pop",
+    "Synthwave"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Without A Warning",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Cry For Me",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "São Paulo",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Society",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Take Me Back To LA",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "The Abyss",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Open Hearts",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Timeless",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Give Me Mercy",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Runaway",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Red Terror",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Kevin Reeves",
+      "anv": "",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 203586,
+      "resource_url": "https://api.discogs.com/artists/203586"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/9e5ai7zwnoF9e3CsF_H47T_U46DmnPAqCmVoxFibj3k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDA4/MjY4LTE3Mzg1MzQ5/MjctMjg5MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/9e5ai7zwnoF9e3CsF_H47T_U46DmnPAqCmVoxFibj3k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDA4/MjY4LTE3Mzg1MzQ5/MjctMjg5MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ygKrOE2aF_TXefkHVkn9tmTKaZ6AFOiG08rruozwcOs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDA4/MjY4LTE3Mzg1MzQ5/MjctMjg5MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/ygKrOE2aF_TXefkHVkn9tmTKaZ6AFOiG08rruozwcOs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzMDA4/MjY4LTE3Mzg1MzQ5/MjctMjg5MS5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

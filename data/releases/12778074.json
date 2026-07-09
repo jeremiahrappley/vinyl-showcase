@@ -1,0 +1,375 @@
+{
+  "id": 12778074,
+  "status": "Accepted",
+  "year": 2018,
+  "resource_url": "https://api.discogs.com/releases/12778074",
+  "uri": "https://www.discogs.com/release/12778074-TheWeeknd-Kiss-Land",
+  "artists": [
+    {
+      "name": "The Weeknd",
+      "anv": "TheWeeknd",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 2171152,
+      "resource_url": "https://api.discogs.com/artists/2171152",
+      "thumbnail_url": "https://i.discogs.com/LtkvbtrtZxt0LY5IqGmt4KHX0-_QNv6xloFNdzy-i7Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxNzEx/NTItMTc2MDQ4MTA2/OS03NzM4LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Weeknd, The",
+  "labels": [
+    {
+      "name": "Republic Records",
+      "catno": "00602567812906",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    },
+    {
+      "name": "XO",
+      "catno": "00602567812906",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 344571,
+      "resource_url": "https://api.discogs.com/labels/344571",
+      "thumbnail_url": "https://i.discogs.com/j9COP9wfWV1fEC4Yc9cxmJkrcRO3MF4eXbXxtg2sIjw/rs:fit/g:sm/q:90/h:600/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM0NDU3/MS0xNDg4ODM5NTYx/LTcwMjEucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Republic Records",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    },
+    {
+      "name": "GZ Media",
+      "catno": "113649E",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Reissue"
+      ],
+      "text": "Green [Seafoam]"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 4534,
+    "want": 1171,
+    "rating": {
+      "count": 428,
+      "average": 4.76
+    },
+    "submitter": {
+      "username": "vinyleers",
+      "resource_url": "https://api.discogs.com/users/vinyleers"
+    },
+    "contributors": [
+      {
+        "username": "vinyleers",
+        "resource_url": "https://api.discogs.com/users/vinyleers"
+      },
+      {
+        "username": "Sonik_Grooves",
+        "resource_url": "https://api.discogs.com/users/Sonik_Grooves"
+      },
+      {
+        "username": "NeonIcon",
+        "resource_url": "https://api.discogs.com/users/NeonIcon"
+      },
+      {
+        "username": "_jules",
+        "resource_url": "https://api.discogs.com/users/_jules"
+      },
+      {
+        "username": "Juank-19",
+        "resource_url": "https://api.discogs.com/users/Juank-19"
+      },
+      {
+        "username": "momento",
+        "resource_url": "https://api.discogs.com/users/momento"
+      },
+      {
+        "username": "stingdk",
+        "resource_url": "https://api.discogs.com/users/stingdk"
+      },
+      {
+        "username": "AzureDarko",
+        "resource_url": "https://api.discogs.com/users/AzureDarko"
+      },
+      {
+        "username": "Xmipod",
+        "resource_url": "https://api.discogs.com/users/Xmipod"
+      },
+      {
+        "username": "HoliestKaty",
+        "resource_url": "https://api.discogs.com/users/HoliestKaty"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2018-11-09T05:31:33-08:00",
+  "date_changed": "2024-09-27T16:29:04-07:00",
+  "num_for_sale": 30,
+  "lowest_price": 43.44,
+  "master_id": 596234,
+  "master_url": "https://api.discogs.com/masters/596234",
+  "title": "Kiss Land",
+  "country": "Europe",
+  "released": "2018-11-09",
+  "notes": "Exclusive 5 Year Anniversary Edition\nDeluxe gatefold sleeve with outer box.\n\nEach inner sleeve and record have their own catalogue number.\nMade in the EU",
+  "released_formatted": "09 Nov 2018",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "602567812906"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "113649E1/C 3751293 - A",
+      "description": "Side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "113649E2/C 3751293 - B",
+      "description": "Side B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "113649E3/B 3751293 - C",
+      "description": "Side C"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "113649E4/B 3751293 - D",
+      "description": "Side D"
+    },
+    {
+      "type": "Label Code",
+      "value": "LC 01846"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=lYO77zNhWl4",
+      "title": "The Weeknd - Belong To The World (Official Video)",
+      "description": "BUY TICKETS FOR THE KISS LAND FALL TOUR http://www.ticketmaster.com/The-Weeknd-tickets/artist/1697014 \niTunes: http://smarturl.it/WeekndWeBelong\nAmazon: http://smarturl.it/WeekndBelongAZ\nGoogle Play: http://goo.gl/d3XmE\nMusic video by The Weeknd performin",
+      "duration": 475,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=weweLG6Or-g",
+      "title": "The Weeknd - Love In The Sky",
+      "description": "http://theweeknd.co/BeautyBehindTheMadness\n\nTHE MADNESS FALL TOUR 2015: http://republicrec.co/BBTMtickets",
+      "duration": 103,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=GLr0usOC2_k",
+      "title": "The Weeknd - Live For ft. Drake (Explicit) (Official Video)",
+      "description": "Download this song: http://smarturl.it/TheWeekndKissLand  Taken from the new album Kiss Land\nDIRECTOR: Sam Pilling\nPRODUCER: Marc Milliard\n\nMusic video by The Weeknd performing Live For (Explicit). ©: The Weeknd XO, Inc., under exclusive license to Republ",
+      "duration": 223,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Wq6V9YpE1aE",
+      "title": "The Weeknd - Kiss Land (Official Video)",
+      "description": "http://theweeknd.co/BeautyBehindTheMadness\n\nTHE MADNESS FALL TOUR 2015: http://republicrec.co/BBTMtickets",
+      "duration": 258,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=HxilwT1sKSo",
+      "title": "The Weeknd - Pretty (Explicit) (Official Video)",
+      "description": "The Weeknd -- Pretty (Explicit) from the album \"Kiss Land\" is available to download here http://smarturl.it/TheWeekndKissLand \nDirector: Sam Pilling\n\n\nMusic video by The Weeknd performing Pretty (Explicit) . ©: The Weeknd XO, Inc., under exclusive license",
+      "duration": 331,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=vlrC-y1I3go",
+      "title": "Wanderlust",
+      "description": "Provided to YouTube by Universal Music Group\n\nWanderlust · The Weeknd\n\nKiss Land\n\n℗ 2013 The Weeknd XO, Inc., Manufactured and Marketed by Universal Republic Records, a Division of UMG Recordings, Inc.\n\nReleased on: 2013-01-01\n\nRecording Engineer, Produce",
+      "duration": 307,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Hip Hop",
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Contemporary R&B"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Professional",
+      "duration": "6:08"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "The Town",
+      "duration": "5:07"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Adaptation",
+      "extraartists": [
+        {
+          "name": "Abel Tesfaye",
+          "anv": "A. Tesfaye",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2838279,
+          "resource_url": "https://api.discogs.com/artists/2838279"
+        },
+        {
+          "name": "Ahmad Balshe",
+          "anv": "A. Balshe",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1518059,
+          "resource_url": "https://api.discogs.com/artists/1518059"
+        },
+        {
+          "name": "Danny \"styles\" Schofield",
+          "anv": "D. Schofield",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1112179,
+          "resource_url": "https://api.discogs.com/artists/1112179"
+        },
+        {
+          "name": "Jason Quenneville",
+          "anv": "J. Quenneville",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2846474,
+          "resource_url": "https://api.discogs.com/artists/2846474"
+        },
+        {
+          "name": "Sting",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 13961,
+          "resource_url": "https://api.discogs.com/artists/13961"
+        }
+      ],
+      "duration": "4:43"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Love In The Sky",
+      "duration": "4:28"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Belong To The World",
+      "duration": "5:07"
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Live For",
+      "extraartists": [
+        {
+          "name": "Drake",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 151199,
+          "resource_url": "https://api.discogs.com/artists/151199"
+        }
+      ],
+      "duration": "3:44"
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Wanderlust",
+      "duration": "5:05"
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Kiss Land",
+      "duration": "7:35"
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Pretty",
+      "duration": "6:21"
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Tears In The Rain",
+      "duration": "7:24"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/kYN1Scxg9erf7MuAQ0vg343YAAkQx4CX81E_gxWJPBQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc4/MDc0LTE1NDE3NzA2/MzUtNjM1Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/kYN1Scxg9erf7MuAQ0vg343YAAkQx4CX81E_gxWJPBQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc4/MDc0LTE1NDE3NzA2/MzUtNjM1Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/GhUyBHNDL03KPCMRkq8Q4PGwkCxjFSinN2XYWpQgaeE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc4/MDc0LTE1NDE3NzA2/MzUtNjM1Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/WOuWf09I4iISj5qTBTNiPtOIwViYWSrvWF4tNmU8kgE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc4/MDc0LTE1NDE4MDkx/OTktNTE4NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/WOuWf09I4iISj5qTBTNiPtOIwViYWSrvWF4tNmU8kgE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc4/MDc0LTE1NDE4MDkx/OTktNTE4NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/QTDNQI4_Ayl1cKsc8Z0k7xiDhnAY7G7n_mRnC-_Mhlc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc4/MDc0LTE1NDE4MDkx/OTktNTE4NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/1XsrUB1z_vOmXoFgmiaDY3t7X7jwVy0ZrWrI43FURWM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc4/MDc0LTE2OTgzNTEx/ODItNTM5My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/1XsrUB1z_vOmXoFgmiaDY3t7X7jwVy0ZrWrI43FURWM/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc4/MDc0LTE2OTgzNTEx/ODItNTM5My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/iyrq4gZkXuhHoxL5oWJAyg7Q0GNibkKDMNuOOjfgUdM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc4/MDc0LTE2OTgzNTEx/ODItNTM5My5qcGVn.jpeg",
+      "width": 600,
+      "height": 450
+    }
+  ],
+  "thumb": "https://i.discogs.com/GhUyBHNDL03KPCMRkq8Q4PGwkCxjFSinN2XYWpQgaeE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzc4/MDc0LTE1NDE3NzA2/MzUtNjM1Mi5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

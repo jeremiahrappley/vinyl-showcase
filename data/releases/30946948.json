@@ -1,0 +1,923 @@
+{
+  "id": 30946948,
+  "status": "Accepted",
+  "year": 2024,
+  "resource_url": "https://api.discogs.com/releases/30946948",
+  "uri": "https://www.discogs.com/release/30946948-Fred-again-USB001",
+  "artists": [
+    {
+      "name": "Fred again..",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 8664813,
+      "resource_url": "https://api.discogs.com/artists/8664813",
+      "thumbnail_url": "https://i.discogs.com/LH7r3x73kvPnfRKWOs9-_CrG9UyGJGN4KlteMM8WsfU/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTg2NjQ4/MTMtMTY1NTU4NzQ1/Mi0zMDgxLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Fred again..",
+  "labels": [
+    {
+      "name": "Warner Music UK Ltd.",
+      "catno": "5054197957161",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 22328,
+      "resource_url": "https://api.discogs.com/labels/22328",
+      "thumbnail_url": "https://i.discogs.com/nWDwupZCLnkCwVs_ixgEnHIEanasSny8CjbDuDg_ep4/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIyMzI4/LTE1MTkyNDA3NDAt/MTExMS5qcGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Atlantic Records UK",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 534568,
+      "resource_url": "https://api.discogs.com/labels/534568"
+    },
+    {
+      "name": "Optimal Media GmbH",
+      "catno": "BO09757",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 313190,
+      "resource_url": "https://api.discogs.com/labels/313190",
+      "thumbnail_url": "https://i.discogs.com/VHruzHmKvGgDvoWX6iI_4n5eC7mKyVei1mNz573rJtk/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxMzE5/MC0xNTE2MzgxNjk2/LTIzMTgucG5n.jpeg"
+    },
+    {
+      "name": "Optimal Media GmbH",
+      "catno": "BO09325",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 313190,
+      "resource_url": "https://api.discogs.com/labels/313190",
+      "thumbnail_url": "https://i.discogs.com/VHruzHmKvGgDvoWX6iI_4n5eC7mKyVei1mNz573rJtk/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxMzE5/MC0xNTE2MzgxNjk2/LTIzMTgucG5n.jpeg"
+    },
+    {
+      "name": "Fred Gibson",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 2602039,
+      "resource_url": "https://api.discogs.com/labels/2602039"
+    },
+    {
+      "name": "Fred Gibson",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 2602039,
+      "resource_url": "https://api.discogs.com/labels/2602039"
+    },
+    {
+      "name": "Warner Music UK Ltd.",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 22328,
+      "resource_url": "https://api.discogs.com/labels/22328",
+      "thumbnail_url": "https://i.discogs.com/nWDwupZCLnkCwVs_ixgEnHIEanasSny8CjbDuDg_ep4/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIyMzI4/LTE1MTkyNDA3NDAt/MTExMS5qcGVn.jpeg"
+    },
+    {
+      "name": "Warner Music UK Ltd.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 22328,
+      "resource_url": "https://api.discogs.com/labels/22328",
+      "thumbnail_url": "https://i.discogs.com/nWDwupZCLnkCwVs_ixgEnHIEanasSny8CjbDuDg_ep4/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIyMzI4/LTE1MTkyNDA3NDAt/MTExMS5qcGVn.jpeg"
+    },
+    {
+      "name": "Warner Music UK Ltd.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 22328,
+      "resource_url": "https://api.discogs.com/labels/22328",
+      "thumbnail_url": "https://i.discogs.com/nWDwupZCLnkCwVs_ixgEnHIEanasSny8CjbDuDg_ep4/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIyMzI4/LTE1MTkyNDA3NDAt/MTExMS5qcGVn.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Stereo"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 4528,
+    "want": 959,
+    "rating": {
+      "count": 317,
+      "average": 4.71
+    },
+    "submitter": {
+      "username": "JoshuaEsveld",
+      "resource_url": "https://api.discogs.com/users/JoshuaEsveld"
+    },
+    "contributors": [
+      {
+        "username": "JoshuaEsveld",
+        "resource_url": "https://api.discogs.com/users/JoshuaEsveld"
+      },
+      {
+        "username": "ninjakarlsej",
+        "resource_url": "https://api.discogs.com/users/ninjakarlsej"
+      },
+      {
+        "username": "avvy",
+        "resource_url": "https://api.discogs.com/users/avvy"
+      },
+      {
+        "username": "Tiffspot",
+        "resource_url": "https://api.discogs.com/users/Tiffspot"
+      },
+      {
+        "username": "Milk_chan",
+        "resource_url": "https://api.discogs.com/users/Milk_chan"
+      },
+      {
+        "username": "god-injeans",
+        "resource_url": "https://api.discogs.com/users/god-injeans"
+      },
+      {
+        "username": "djsgribbs",
+        "resource_url": "https://api.discogs.com/users/djsgribbs"
+      },
+      {
+        "username": "MadCrab",
+        "resource_url": "https://api.discogs.com/users/MadCrab"
+      },
+      {
+        "username": "DH-MMXX",
+        "resource_url": "https://api.discogs.com/users/DH-MMXX"
+      },
+      {
+        "username": "aphextobin",
+        "resource_url": "https://api.discogs.com/users/aphextobin"
+      },
+      {
+        "username": "riddimrecord",
+        "resource_url": "https://api.discogs.com/users/riddimrecord"
+      },
+      {
+        "username": "idratherbereading",
+        "resource_url": "https://api.discogs.com/users/idratherbereading"
+      },
+      {
+        "username": "snap07801",
+        "resource_url": "https://api.discogs.com/users/snap07801"
+      },
+      {
+        "username": "okreyd",
+        "resource_url": "https://api.discogs.com/users/okreyd"
+      },
+      {
+        "username": "DwarfeD",
+        "resource_url": "https://api.discogs.com/users/DwarfeD"
+      },
+      {
+        "username": "njcollects",
+        "resource_url": "https://api.discogs.com/users/njcollects"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2024-06-12T21:37:51-07:00",
+  "date_changed": "2026-06-01T16:10:48-07:00",
+  "num_for_sale": 87,
+  "lowest_price": 25.76,
+  "master_id": 3379432,
+  "master_url": "https://api.discogs.com/masters/3379432",
+  "title": "USB001",
+  "country": "UK & Europe",
+  "released": "2024-06-14",
+  "notes": "All text on the front and back cover and the spine are embossed.\n\nLabels 4c CMYK / Inner Bag, 180 gsm sulphate board, 4/0c CMYK, matt dispersion varnish / Gatefold 6 mm, 350 gsm GC1, 1/0c black,  Matt anti-scratch laminate\n\nSide A: Under exclusive licence to Warner Music UK Limited. An Atlantic Records UK release. ℗ and © 2024 Fred Gibson except for track 4 under exclusive licence to Warner Music UK Limited ℗ and © 2023 Fred Gibson. Side B, C and D ℗ and © 2022 Warner Music UK Limited except for Side D track 1 under exclusive licence to Warner Music UK Limited. ℗ and © 2023 Fred Gibson.",
+  "released_formatted": "14 Jun 2024",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "5054197957161"
+    },
+    {
+      "type": "Rights Society",
+      "value": "GEMA/MCPS"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BO09757-01 A1 1|T 5054197595547 Stu.",
+      "description": "A side Run-Out, Variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BO09325-01 B1 +|1 5054197595547",
+      "description": "B side Run-Out, Variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BO09325-02 C1 1|1 5054197595547",
+      "description": "C side Run-Out, Variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BO09325-02 D1 1+ 5054197595547",
+      "description": "D side Run-Out, Variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BO09757-01 A1 1++ 5054197595547 Stu.",
+      "description": "A side Run-Out, Variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BO09325-01 B1 1=+ 5054197595547",
+      "description": "B side Run-Out, Variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BO09325-02 C1 1X 5054197595547",
+      "description": "C side Run-Out, Variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BO09325-02 D1 1X 5054197595547",
+      "description": "D side Run-Out, Variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BO09757-01 A1 1+T 5054197595547 Stu.",
+      "description": "A side Run-Out, Variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BO09325-01 B1 1=L 5054197595547",
+      "description": "B side Run-Out, Variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BO09325-02 C1 1=V 5054197595547",
+      "description": "C side Run-Out, Variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BO09325-02 D1 1=△ 5054197595547",
+      "description": "D side Run-Out, Variant 3"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=aKkZenuoB8Y",
+      "title": "Fred Again - Jungle",
+      "description": "To discover or re-listen to forgotten or unknown sounds, from all countries, all decades and all styles.\n\nAlbum: Fred again.. – USB001\n\nTitle: Jungle\n\nLabel: Warner Music UK Ltd. – 5054197957161, Atlantic Records UK – 5054197957161\n\n#vinyl #vinylcollectio",
+      "duration": 199,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KgjAXrhbLqw",
+      "title": "ItsNotREEAALLLLLLLL",
+      "description": "Provided to YouTube by Atlantic Records UK\n\nItsNotREEAALLLLLLLL · Fred again.. · Duoteque · Orion Sun\n\nUSB\n\n℗ An Atlantic Records UK release, ℗ 2024 Warner Music UK Limited\n\nAdditional  Producer: Archie Wall\nEngineer, Masterer, Mixer, Producer: Fred again",
+      "duration": 328,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=on61q_AG4HA",
+      "title": "BerwynGesaffNeighbours",
+      "description": "Provided to YouTube by Atlantic Records UK\n\nBerwynGesaffNeighbours · Fred again.. · BERWYN\n\nUSB\n\n℗ An Atlantic Records UK release, ℗ 2024 Warner Music UK Limited\n\nVocals: BERWYN\nEngineer, Masterer, Mixer, Producer: Fred again..\nProgrammer: Fred again..\nWr",
+      "duration": 124,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=7z25ZZ3DHds",
+      "title": "Skrillex, Fred again.. & Flowdan - Rumble [Official Audio]",
+      "description": "Skrillex, Fred again.. & Flowdan - Rumble [Official Audio]\nStream/DL: https://skrillex.lnk.to/RumbleID\n\nSubscribe for more official content from Skrillex:\nhttps://Skrillex.lnk.to/SkrillexSubscribe\n\nFollow Skrillex\nhttp://fb.com/skrillex\nhttps://discord.gg",
+      "duration": 147,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=uV_QtFVDV-0",
+      "title": "Baby again..",
+      "description": "Provided to YouTube by Atlantic Records UK\n\nBaby again.. · Fred again.. · Skrillex · Four Tet\n\nUSB\n\n℗ An Atlantic Records UK release, ℗ 2022 Warner Music UK Limited\n\nProducer: Four Tet\nProgrammer: Four Tet\nEngineer, Producer: Fred again..\nProgrammer: Fred",
+      "duration": 320,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Q22MCFC0CP0",
+      "title": "Fred again.. x Swedish House Mafia - Turn On The Lights again.. (feat. Future) [Visualiser]",
+      "description": "Turn on the lights again…. issssss\nOUT NOWWWWW\nhttps://fredagain.lnk.to/TOTLA\n\nActual Life 3 (january 1 – september 9 2022) new album out now. Listen here: http://fredagain.lnk.to/actuallife3 \n\nEnormous love to Swedish House Mafia, total legends in the ga",
+      "duration": 265,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=jDXOa9V2agQ",
+      "title": "Fred again.. - Jungle (Rico Nasty Remix) [Visualiser]",
+      "description": "Jungle wit the one and only Rico Nasty is. out. NOWWWWW\n\nhttps://fredagain.lnk.to/Jungle-Rico-Nasty-Remix \n\nRico is to me like if this song was a person! \nSo it’s really q great to have her on it!\n🙈🏜🐅🦁🤯🏜🙈\n\nVideo by LOOSE\n\nActual Life 3 (january 1 – septem",
+      "duration": 212,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=oXMrkydM6cY",
+      "title": "Lights Out (HAAi Remix)",
+      "description": "Provided to YouTube by Atlantic Records UK\n\nLights Out (HAAi Remix) · Fred again.. · Romy · HAAi\n\nLights Out (HAAi Remix)\n\n℗ An Atlantic Records UK release, ℗ 2022 Warner Music UK Limited\n\nEngineer, Producer: Fred again..\nProgrammer: Fred again..\nProducer",
+      "duration": 376,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=aKkZenuoB8Y",
+      "title": "Fred Again - Jungle",
+      "description": "To discover or re-listen to forgotten or unknown sounds, from all countries, all decades and all styles.\n\nAlbum: Fred again.. – USB001\n\nTitle: Jungle\n\nLabel: Warner Music UK Ltd. – 5054197957161, Atlantic Records UK – 5054197957161\n\n#vinyl #vinylcollectio",
+      "duration": 199,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KgjAXrhbLqw",
+      "title": "ItsNotREEAALLLLLLLL",
+      "description": "Provided to YouTube by Atlantic Records UK\n\nItsNotREEAALLLLLLLL · Fred again.. · Duoteque · Orion Sun\n\nUSB\n\n℗ An Atlantic Records UK release, ℗ 2024 Warner Music UK Limited\n\nAdditional  Producer: Archie Wall\nEngineer, Masterer, Mixer, Producer: Fred again",
+      "duration": 328,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=on61q_AG4HA",
+      "title": "BerwynGesaffNeighbours",
+      "description": "Provided to YouTube by Atlantic Records UK\n\nBerwynGesaffNeighbours · Fred again.. · BERWYN\n\nUSB\n\n℗ An Atlantic Records UK release, ℗ 2024 Warner Music UK Limited\n\nVocals: BERWYN\nEngineer, Masterer, Mixer, Producer: Fred again..\nProgrammer: Fred again..\nWr",
+      "duration": 124,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=7z25ZZ3DHds",
+      "title": "Skrillex, Fred again.. & Flowdan - Rumble [Official Audio]",
+      "description": "Skrillex, Fred again.. & Flowdan - Rumble [Official Audio]\nStream/DL: https://skrillex.lnk.to/RumbleID\n\nSubscribe for more official content from Skrillex:\nhttps://Skrillex.lnk.to/SkrillexSubscribe\n\nFollow Skrillex\nhttp://fb.com/skrillex\nhttps://discord.gg",
+      "duration": 147,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=uV_QtFVDV-0",
+      "title": "Baby again..",
+      "description": "Provided to YouTube by Atlantic Records UK\n\nBaby again.. · Fred again.. · Skrillex · Four Tet\n\nUSB\n\n℗ An Atlantic Records UK release, ℗ 2022 Warner Music UK Limited\n\nProducer: Four Tet\nProgrammer: Four Tet\nEngineer, Producer: Fred again..\nProgrammer: Fred",
+      "duration": 320,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic"
+  ],
+  "styles": [
+    "Drum n Bass",
+    "Electro",
+    "UK Garage",
+    "House",
+    "Beatdown",
+    "Bass Music",
+    "Dubstep"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Fred again..",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 8664813,
+          "resource_url": "https://api.discogs.com/artists/8664813"
+        },
+        {
+          "name": "Duoteque",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 286327,
+          "resource_url": "https://api.discogs.com/artists/286327"
+        },
+        {
+          "name": "Orion Sun",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 6630986,
+          "resource_url": "https://api.discogs.com/artists/6630986"
+        }
+      ],
+      "title": "Itsnotreeaallllllll",
+      "duration": "5:27"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Fred again..",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 8664813,
+          "resource_url": "https://api.discogs.com/artists/8664813"
+        },
+        {
+          "name": "Berwyn",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 7873531,
+          "resource_url": "https://api.discogs.com/artists/7873531"
+        },
+        {
+          "name": "Gesaffelstein",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 1067369,
+          "resource_url": "https://api.discogs.com/artists/1067369"
+        }
+      ],
+      "title": "Berwyngesaffneighbours",
+      "duration": "2:03"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Fred again..",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 8664813,
+          "resource_url": "https://api.discogs.com/artists/8664813"
+        },
+        {
+          "name": "Lil Yachty",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 4938476,
+          "resource_url": "https://api.discogs.com/artists/4938476"
+        },
+        {
+          "name": "Overmono",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 5179029,
+          "resource_url": "https://api.discogs.com/artists/5179029"
+        }
+      ],
+      "title": "Stayinit",
+      "duration": "4:34"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Fred again..",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 8664813,
+          "resource_url": "https://api.discogs.com/artists/8664813"
+        },
+        {
+          "name": "Baby Keem",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 8394033,
+          "resource_url": "https://api.discogs.com/artists/8394033"
+        }
+      ],
+      "title": "Leavemealone",
+      "duration": "3:42"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Fred again..",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 8664813,
+          "resource_url": "https://api.discogs.com/artists/8664813"
+        },
+        {
+          "name": "Skrillex",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 1472585,
+          "resource_url": "https://api.discogs.com/artists/1472585"
+        },
+        {
+          "name": "Four Tet",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3543,
+          "resource_url": "https://api.discogs.com/artists/3543"
+        }
+      ],
+      "title": "Baby Again..",
+      "duration": "5:19"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Skrillex",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 1472585,
+          "resource_url": "https://api.discogs.com/artists/1472585"
+        },
+        {
+          "name": "Fred again..",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 8664813,
+          "resource_url": "https://api.discogs.com/artists/8664813"
+        },
+        {
+          "name": "Flow Dan",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 227234,
+          "resource_url": "https://api.discogs.com/artists/227234"
+        }
+      ],
+      "title": "Rumble",
+      "duration": "2:26"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Fred again..",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 8664813,
+          "resource_url": "https://api.discogs.com/artists/8664813"
+        },
+        {
+          "name": "Swedish House Mafia",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 1801598,
+          "resource_url": "https://api.discogs.com/artists/1801598"
+        },
+        {
+          "name": "Future (4)",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 221673,
+          "resource_url": "https://api.discogs.com/artists/221673"
+        }
+      ],
+      "title": "Turn On The Lights Again..",
+      "duration": "4:27"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Fred again..",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 8664813,
+          "resource_url": "https://api.discogs.com/artists/8664813"
+        }
+      ],
+      "title": "Jungle",
+      "duration": "3:18"
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Fred again..",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 8664813,
+          "resource_url": "https://api.discogs.com/artists/8664813"
+        },
+        {
+          "name": "India Jordan",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 5870404,
+          "resource_url": "https://api.discogs.com/artists/5870404"
+        }
+      ],
+      "title": "Admit It (U Dont Want 2) ",
+      "duration": "6:25"
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Fred again..",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 8664813,
+          "resource_url": "https://api.discogs.com/artists/8664813"
+        },
+        {
+          "name": "Romy (28)",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 13514437,
+          "resource_url": "https://api.discogs.com/artists/13514437"
+        },
+        {
+          "name": "HAAi",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 5987632,
+          "resource_url": "https://api.discogs.com/artists/5987632"
+        }
+      ],
+      "title": "Lights Out",
+      "duration": "4:48"
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Fred again..",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 8664813,
+          "resource_url": "https://api.discogs.com/artists/8664813"
+        },
+        {
+          "name": "Baby Keem",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 8394033,
+          "resource_url": "https://api.discogs.com/artists/8394033"
+        }
+      ],
+      "title": "Leavemealone (Nia Archives Remix)",
+      "extraartists": [
+        {
+          "name": "Nia Archives",
+          "anv": "",
+          "join": "",
+          "role": "Remix",
+          "tracks": "",
+          "id": 9824716,
+          "resource_url": "https://api.discogs.com/artists/9824716"
+        }
+      ],
+      "duration": "2:59"
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Fred again..",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 8664813,
+          "resource_url": "https://api.discogs.com/artists/8664813"
+        }
+      ],
+      "title": "Jungle (Rico Nasty Remix)",
+      "extraartists": [
+        {
+          "name": "Rico Nasty",
+          "anv": "",
+          "join": "",
+          "role": "Remix",
+          "tracks": "",
+          "id": 5690323,
+          "resource_url": "https://api.discogs.com/artists/5690323"
+        }
+      ],
+      "duration": "3:33"
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Fred again..",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 8664813,
+          "resource_url": "https://api.discogs.com/artists/8664813"
+        },
+        {
+          "name": "Romy (28)",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 13514437,
+          "resource_url": "https://api.discogs.com/artists/13514437"
+        },
+        {
+          "name": "HAAi",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 5987632,
+          "resource_url": "https://api.discogs.com/artists/5987632"
+        }
+      ],
+      "title": "Lights Out (HAAi Remix) ",
+      "extraartists": [
+        {
+          "name": "HAAi",
+          "anv": "",
+          "join": "",
+          "role": "Remix",
+          "tracks": "",
+          "id": 5987632,
+          "resource_url": "https://api.discogs.com/artists/5987632"
+        }
+      ],
+      "duration": "6:15"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Stuart Hawkes",
+      "anv": "Stu.",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 300468,
+      "resource_url": "https://api.discogs.com/artists/300468"
+    },
+    {
+      "name": "Fred again..",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 8664813,
+      "resource_url": "https://api.discogs.com/artists/8664813"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/Tg9VYB_PMYM6rDWHsNonmw6g6AA16AnLFZ0RZ4CBuOs/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIw/NTQtNTkwMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Tg9VYB_PMYM6rDWHsNonmw6g6AA16AnLFZ0RZ4CBuOs/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIw/NTQtNTkwMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Vg_gQzeTPkN-ndaXWN-R9vP2MQl64Zuq4e5fWzYuELQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIw/NTQtNTkwMC5qcGVn.jpeg",
+      "width": 585,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/C9GINlXwBS-0p28V1RgbQr7eAVAws2UFaJVV8vE5ECg/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIw/NTQtOTQyMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/C9GINlXwBS-0p28V1RgbQr7eAVAws2UFaJVV8vE5ECg/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIw/NTQtOTQyMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Rf_e17zIvdG8deANL_wVgHY0QliySEYiFoq7ZHXjstA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIw/NTQtOTQyMC5qcGVn.jpeg",
+      "width": 595,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/elexQ8LOyvbLWq1VEN5OcvLQmbX0AUabU0__NVj6LqI/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIw/NTUtOTg5Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/elexQ8LOyvbLWq1VEN5OcvLQmbX0AUabU0__NVj6LqI/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIw/NTUtOTg5Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/oq-k7_xoF-qEqiH0wlMrSBEc047hPdLYwZ1C0gBywlg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIw/NTUtOTg5Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 300
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/-HQmFS8fxX8Spzn3NVKksqRXSSHu7KPx4uOj7-9ebis/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIx/MDItMzk0Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/-HQmFS8fxX8Spzn3NVKksqRXSSHu7KPx4uOj7-9ebis/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIx/MDItMzk0Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/wCP5JFbsMBm006Irh6NFLvcl9q88TU5KC_ruuyAqhUo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIx/MDItMzk0Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 593
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/0UPkrMzufNA_BCJjisr7atWszHeDFMBxNtWSGFKNObc/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIx/MDEtMTQzNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/0UPkrMzufNA_BCJjisr7atWszHeDFMBxNtWSGFKNObc/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIx/MDEtMTQzNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/1h8UIaGPBgISbaCsZLDHzqd0IilK2mCG73-UkDDmX7A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIx/MDEtMTQzNS5qcGVn.jpeg",
+      "width": 589,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/EjOtEC16hB_laEYbl6aANJZxYPFzH8i-Q9Nvj5GkXcU/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIx/MDQtMTgzOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/EjOtEC16hB_laEYbl6aANJZxYPFzH8i-Q9Nvj5GkXcU/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIx/MDQtMTgzOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/mO4O42mszRQmW1KXXBIgpni743OE94itAoPae2beBTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIx/MDQtMTgzOS5qcGVn.jpeg",
+      "width": 600,
+      "height": 589
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/a6dVCKqw3U0Qvogz34WqJg7J5Se5q0SrpNNxdDzWKtw/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIx/MDMtNDQ3Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/a6dVCKqw3U0Qvogz34WqJg7J5Se5q0SrpNNxdDzWKtw/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIx/MDMtNDQ3Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/qyM6IWTioz6BKc472tOfUCQe9XG5V01EGZOA3mLIdNQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIx/MDMtNDQ3Ny5qcGVn.jpeg",
+      "width": 588,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/jkHyKRRu36YGzQogDOWFZrpm2Rj1gD3Y5VOSx8LZxMc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIx/MDItMTQ5MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/jkHyKRRu36YGzQogDOWFZrpm2Rj1gD3Y5VOSx8LZxMc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIx/MDItMTQ5MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/DMuyk4gJWfAr22N7mS5MiRonXcLqiOcbj9UiQ8e9lfE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIx/MDItMTQ5MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 591
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/6cwnHgF8BCKa6ZWANfU3dOvdSV1MUuKRmKkfcb_G7dc/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIx/MDItMTQwNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/6cwnHgF8BCKa6ZWANfU3dOvdSV1MUuKRmKkfcb_G7dc/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIx/MDItMTQwNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/eXlVXEx-dQJk5GdUt2ADBltmXRrm7YQnqM7NhXbOEq8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIx/MDItMTQwNy5qcGVn.jpeg",
+      "width": 594,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/I0LMtOdaOzr6OCFNBDTNv87Oc353YQuSsHvA-VZR91c/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIw/NTQtNzgyNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/I0LMtOdaOzr6OCFNBDTNv87Oc353YQuSsHvA-VZR91c/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIw/NTQtNzgyNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/hSU_acP6TJVUll2iGGMCQdAtu6wpZMGvl9aRdW1-a9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIw/NTQtNzgyNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 597
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Rnt1jpCGxjqwwNGTEHHemJqQO2WJ0XaRzz139NFItiw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIw/NTQtODI5OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Rnt1jpCGxjqwwNGTEHHemJqQO2WJ0XaRzz139NFItiw/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIw/NTQtODI5OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/0Z7nWEVduKN0eSiIsJbAnuc-BVR-c0p1uYT_OwYZcDc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIw/NTQtODI5OS5qcGVn.jpeg",
+      "width": 599,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/Vg_gQzeTPkN-ndaXWN-R9vP2MQl64Zuq4e5fWzYuELQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwOTQ2/OTQ4LTE3MTg0MDIw/NTQtNTkwMC5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

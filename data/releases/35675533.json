@@ -1,0 +1,679 @@
+{
+  "id": 35675533,
+  "status": "Accepted",
+  "year": 2025,
+  "resource_url": "https://api.discogs.com/releases/35675533",
+  "uri": "https://www.discogs.com/release/35675533-Justin-Bieber-Swag",
+  "artists": [
+    {
+      "name": "Justin Bieber",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 1602787,
+      "resource_url": "https://api.discogs.com/artists/1602787",
+      "thumbnail_url": "https://i.discogs.com/w2h91g9rQsoUe4o9-O_N5nk8JDGY3y4CAQr3LaoQaAw/rs:fit/g:sm/q:90/h:600/w:427/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE2MDI3/ODctMTUxNTI3ODEy/NC04Mjc0LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Justin Bieber",
+  "labels": [
+    {
+      "name": "Def Jam Recordings",
+      "catno": "602478750519",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 4241,
+      "resource_url": "https://api.discogs.com/labels/4241",
+      "thumbnail_url": "https://i.discogs.com/zueTHMMGjUzQWjoHJgHWCKAjf4hiKsUjdiYuj4mXCbs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQyNDEt/MTYwNDY3ODAzMi0y/NzA3LnBuZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "ILH Production Co. LLC",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 2735513,
+      "resource_url": "https://api.discogs.com/labels/2735513"
+    },
+    {
+      "name": "ILH Production Co. LLC",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 2735513,
+      "resource_url": "https://api.discogs.com/labels/2735513"
+    },
+    {
+      "name": "Def Jam Recordings",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 4241,
+      "resource_url": "https://api.discogs.com/labels/4241",
+      "thumbnail_url": "https://i.discogs.com/zueTHMMGjUzQWjoHJgHWCKAjf4hiKsUjdiYuj4mXCbs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQyNDEt/MTYwNDY3ODAzMi0y/NzA3LnBuZw.jpeg"
+    },
+    {
+      "name": "UMG Commercial Services",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 1419182,
+      "resource_url": "https://api.discogs.com/labels/1419182"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 1750,
+    "want": 484,
+    "rating": {
+      "count": 271,
+      "average": 4.69
+    },
+    "submitter": {
+      "username": "kad_0918",
+      "resource_url": "https://api.discogs.com/users/kad_0918"
+    },
+    "contributors": [
+      {
+        "username": "kad_0918",
+        "resource_url": "https://api.discogs.com/users/kad_0918"
+      },
+      {
+        "username": "deoinkc",
+        "resource_url": "https://api.discogs.com/users/deoinkc"
+      },
+      {
+        "username": "Zero5000",
+        "resource_url": "https://api.discogs.com/users/Zero5000"
+      },
+      {
+        "username": "riddimrecord",
+        "resource_url": "https://api.discogs.com/users/riddimrecord"
+      },
+      {
+        "username": "Gab91X",
+        "resource_url": "https://api.discogs.com/users/Gab91X"
+      },
+      {
+        "username": "Melaa8",
+        "resource_url": "https://api.discogs.com/users/Melaa8"
+      },
+      {
+        "username": "leewayland",
+        "resource_url": "https://api.discogs.com/users/leewayland"
+      },
+      {
+        "username": "vinylsoverlover",
+        "resource_url": "https://api.discogs.com/users/vinylsoverlover"
+      },
+      {
+        "username": "mrdoum",
+        "resource_url": "https://api.discogs.com/users/mrdoum"
+      },
+      {
+        "username": "choan",
+        "resource_url": "https://api.discogs.com/users/choan"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2025-11-15T17:11:46-08:00",
+  "date_changed": "2026-04-27T22:40:41-07:00",
+  "num_for_sale": 58,
+  "lowest_price": 38.3,
+  "master_id": 3905749,
+  "master_url": "https://api.discogs.com/masters/3905749",
+  "title": "Swag",
+  "country": "USA & Europe",
+  "released": "2025-11-14",
+  "notes": "Two black 180g vinyl records housed in a gatefold jacket\n\n\"VINYL MADE IN MEXICO\" printed on the shrink-wrap.\n\"FBI ANTI-PIRACY WARNING\" on the back.",
+  "released_formatted": "14 Nov 2025",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02478 75051 9",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "602478750519",
+      "description": "Scanned"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=QyvREl7epGY",
+      "title": "Justin Bieber - DAISIES (Music Video)",
+      "description": "DAISIES by Justin Bieber\nOfficial Audio: https://www.youtube.com/watch?v=msGuqelopMA\n\nStream/Download: https://JustinBieber.lnk.to/SWAG\nShop: https://JustinBieber.lnk.to/Shop\n\nFollow Justin:\nhttps://www.instagram.com/lilbieber\nhttps://x.com/justinbieber\nh",
+      "duration": 178,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=27ZV7_fRHiQ",
+      "title": "Justin Bieber, Gunna - WAY IT IS (Audio)",
+      "description": "Music video by Justin Bieber, Gunna performing WAY IT IS (Audio).© 2025 ILH Production Co. LLC, under exclusive license to Def Jam Recordings, a division of UMG Recordings, Inc.",
+      "duration": 196,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Contemporary R&B",
+    "Neo Soul",
+    "New Jack Swing",
+    "Alt-Pop"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 1602787,
+          "resource_url": "https://api.discogs.com/artists/1602787"
+        }
+      ],
+      "title": "All I Can Take",
+      "duration": "4:08"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 1602787,
+          "resource_url": "https://api.discogs.com/artists/1602787"
+        }
+      ],
+      "title": "Daisies",
+      "duration": "2:56"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 1602787,
+          "resource_url": "https://api.discogs.com/artists/1602787"
+        }
+      ],
+      "title": "Yukon",
+      "duration": "2:44"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 1602787,
+          "resource_url": "https://api.discogs.com/artists/1602787"
+        }
+      ],
+      "title": "Go Baby",
+      "duration": "3:15"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 1602787,
+          "resource_url": "https://api.discogs.com/artists/1602787"
+        }
+      ],
+      "title": "Things You Do",
+      "duration": "1:48"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 1602787,
+          "resource_url": "https://api.discogs.com/artists/1602787"
+        }
+      ],
+      "title": "Butterflies",
+      "duration": "3:14"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 1602787,
+          "resource_url": "https://api.discogs.com/artists/1602787"
+        },
+        {
+          "name": "Gunna",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 1689451,
+          "resource_url": "https://api.discogs.com/artists/1689451"
+        }
+      ],
+      "title": "Way It Is",
+      "duration": "3:15"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 1602787,
+          "resource_url": "https://api.discogs.com/artists/1602787"
+        }
+      ],
+      "title": "First Place",
+      "duration": "3:20"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 1602787,
+          "resource_url": "https://api.discogs.com/artists/1602787"
+        },
+        {
+          "name": "Druski",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4984811,
+          "resource_url": "https://api.discogs.com/artists/4984811"
+        }
+      ],
+      "title": "Soulful",
+      "duration": "0:37"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 1602787,
+          "resource_url": "https://api.discogs.com/artists/1602787"
+        }
+      ],
+      "title": "Walking Away",
+      "duration": "4:04"
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 1602787,
+          "resource_url": "https://api.discogs.com/artists/1602787"
+        }
+      ],
+      "title": "Glory Voice Memo",
+      "duration": "1:25"
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 1602787,
+          "resource_url": "https://api.discogs.com/artists/1602787"
+        },
+        {
+          "name": "Dijon",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 222909,
+          "resource_url": "https://api.discogs.com/artists/222909"
+        }
+      ],
+      "title": "Devotion",
+      "duration": "3:54"
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 1602787,
+          "resource_url": "https://api.discogs.com/artists/1602787"
+        },
+        {
+          "name": "Lil B",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 434143,
+          "resource_url": "https://api.discogs.com/artists/434143"
+        }
+      ],
+      "title": "Dadz Love",
+      "duration": "2:25"
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 1602787,
+          "resource_url": "https://api.discogs.com/artists/1602787"
+        },
+        {
+          "name": "Druski",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4984811,
+          "resource_url": "https://api.discogs.com/artists/4984811"
+        }
+      ],
+      "title": "Therapy Session",
+      "duration": "1:19"
+    },
+    {
+      "position": "C5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 1602787,
+          "resource_url": "https://api.discogs.com/artists/1602787"
+        },
+        {
+          "name": "Sexyy Red",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 12863537,
+          "resource_url": "https://api.discogs.com/artists/12863537"
+        }
+      ],
+      "title": "Sweet Spot",
+      "duration": "3:05"
+    },
+    {
+      "position": "C6",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 1602787,
+          "resource_url": "https://api.discogs.com/artists/1602787"
+        },
+        {
+          "name": "Druski",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4984811,
+          "resource_url": "https://api.discogs.com/artists/4984811"
+        }
+      ],
+      "title": "Standing On Business",
+      "duration": "0:50"
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 1602787,
+          "resource_url": "https://api.discogs.com/artists/1602787"
+        }
+      ],
+      "title": "405",
+      "duration": "3:33"
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 1602787,
+          "resource_url": "https://api.discogs.com/artists/1602787"
+        },
+        {
+          "name": "Cash Cobain",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 9689944,
+          "resource_url": "https://api.discogs.com/artists/9689944"
+        },
+        {
+          "name": "Eddie Benjamin",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 8242705,
+          "resource_url": "https://api.discogs.com/artists/8242705"
+        }
+      ],
+      "title": "Swag",
+      "duration": "2:30"
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 1602787,
+          "resource_url": "https://api.discogs.com/artists/1602787"
+        }
+      ],
+      "title": "Zuma House",
+      "duration": "1:23"
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 1602787,
+          "resource_url": "https://api.discogs.com/artists/1602787"
+        }
+      ],
+      "title": "Too Long",
+      "duration": "3:05"
+    },
+    {
+      "position": "D5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 1602787,
+          "resource_url": "https://api.discogs.com/artists/1602787"
+        },
+        {
+          "name": "Marvin Winans",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 348490,
+          "resource_url": "https://api.discogs.com/artists/348490"
+        }
+      ],
+      "title": "Forgiveness",
+      "duration": "1:31"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/wIEU-l8k0P8Eer8CPVL9MZ0Hty63hfp0eDq1KiNm_Z8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njc1/NTMzLTE3NjQ0NDc1/MDQtMzc4Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/wIEU-l8k0P8Eer8CPVL9MZ0Hty63hfp0eDq1KiNm_Z8/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njc1/NTMzLTE3NjQ0NDc1/MDQtMzc4Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/PFGJCTxiXqPre8cYKNwdRt7pIcJTDAz1B-9X28YkF5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njc1/NTMzLTE3NjQ0NDc1/MDQtMzc4Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 594
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Vsi4PPnPpWiAzdRmSr52DrjcWh6nX_NHjBEENbZXoRg/rs:fit/g:sm/q:90/h:305/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njc1/NTMzLTE3NjQ0NDc1/NjgtMzUyNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Vsi4PPnPpWiAzdRmSr52DrjcWh6nX_NHjBEENbZXoRg/rs:fit/g:sm/q:90/h:305/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njc1/NTMzLTE3NjQ0NDc1/NjgtMzUyNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Z5brRejrNtSn5Q2N0ehU99XTzjf1ityCMbdr_SkM8o8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njc1/NTMzLTE3NjQ0NDc1/NjgtMzUyNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 305
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ad0lALRQ_brysWnI81uoazhMfuR1hx0hNUmeOYyucAg/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njc1/NTMzLTE3NjMyNTU1/MDgtNDUzNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ad0lALRQ_brysWnI81uoazhMfuR1hx0hNUmeOYyucAg/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njc1/NTMzLTE3NjMyNTU1/MDgtNDUzNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/bKKWFliPc7tf7E3Si0kTiexCROcRQuVaPw8IzdcJW3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njc1/NTMzLTE3NjMyNTU1/MDgtNDUzNy5qcGVn.jpeg",
+      "width": 591,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/YVWzeTUr8Wx5lwJTHPafrLzQEFQb-UaSVv6V25DVCqo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njc1/NTMzLTE3NjY0NDI4/ODUtNzUwOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/YVWzeTUr8Wx5lwJTHPafrLzQEFQb-UaSVv6V25DVCqo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njc1/NTMzLTE3NjY0NDI4/ODUtNzUwOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Q_2cZwFoRn-wLlR3hGQOCSTe88h1EOQqRg0uluACy_w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njc1/NTMzLTE3NjY0NDI4/ODUtNzUwOS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/6tiFi2WAbBBLQe3-9iPcLuechSZ4tXWTUsn74j0R5L8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njc1/NTMzLTE3NjY0NDI5/MzYtMzMzNi5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/6tiFi2WAbBBLQe3-9iPcLuechSZ4tXWTUsn74j0R5L8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njc1/NTMzLTE3NjY0NDI5/MzYtMzMzNi5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/EM5a5iADh8pIJtrrvq1S0RtRNQrdQpFtjAZDANbP5Fc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njc1/NTMzLTE3NjY0NDI5/MzYtMzMzNi5wbmc.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/PFGJCTxiXqPre8cYKNwdRt7pIcJTDAz1B-9X28YkF5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njc1/NTMzLTE3NjQ0NDc1/MDQtMzc4Ni5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

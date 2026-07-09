@@ -1,0 +1,2261 @@
+{
+  "id": 5805965,
+  "status": "Accepted",
+  "year": 2014,
+  "resource_url": "https://api.discogs.com/releases/5805965",
+  "uri": "https://www.discogs.com/release/5805965-Lana-Del-Rey-Ultraviolence",
+  "artists": [
+    {
+      "name": "Lana Del Rey",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 2445772,
+      "resource_url": "https://api.discogs.com/artists/2445772",
+      "thumbnail_url": "https://i.discogs.com/u1CyaiZEzHnXUNX7Wr2wBSbPW4DTVQyClVPIe4uHbig/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI0NDU3/NzItMTc3NTMyNTg1/NC04OTA1LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Lana Del Rey",
+  "labels": [
+    {
+      "name": "Polydor",
+      "catno": "3787448",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1610,
+      "resource_url": "https://api.discogs.com/labels/1610",
+      "thumbnail_url": "https://i.discogs.com/aNZfcLSVMW8xdCMyTxY3PspGfkoD4lsz8_uyffeyRcw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2MTAt/MTU4ODY3Mzk0Ny0x/NjI2LmpwZWc.jpeg"
+    },
+    {
+      "name": "Interscope Records",
+      "catno": "3787448",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 2311,
+      "resource_url": "https://api.discogs.com/labels/2311",
+      "thumbnail_url": "https://i.discogs.com/58MHEZ0kBRytN0Ivvqvnirp57RFfiqWh1YGJLsn62ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTEt/MTUxNzAxMTEyMy00/NjEwLmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Lana Del Rey",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 294927,
+      "resource_url": "https://api.discogs.com/labels/294927"
+    },
+    {
+      "name": "Lana Del Rey",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 294927,
+      "resource_url": "https://api.discogs.com/labels/294927"
+    },
+    {
+      "name": "Polydor Ltd. (UK)",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 100642,
+      "resource_url": "https://api.discogs.com/labels/100642",
+      "thumbnail_url": "https://i.discogs.com/gL-tiAOkdZC2Ugg2lch57J0PJv3QxY7DsTvpCro4fws/rs:fit/g:sm/q:90/h:146/w:167/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDY0/Mi0xNjIwOTExMjY0/LTM3MzguanBlZw.jpeg"
+    },
+    {
+      "name": "Interscope Records",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 2311,
+      "resource_url": "https://api.discogs.com/labels/2311",
+      "thumbnail_url": "https://i.discogs.com/58MHEZ0kBRytN0Ivvqvnirp57RFfiqWh1YGJLsn62ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTEt/MTUxNzAxMTEyMy00/NjEwLmpwZWc.jpeg"
+    },
+    {
+      "name": "Copyright Control",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 48207,
+      "resource_url": "https://api.discogs.com/labels/48207",
+      "thumbnail_url": "https://i.discogs.com/YSCMEY8Esx1UlDlBP31zJU6tN7SVv6ACBIh6JeQZqIk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQ4MjA3/LTE3NDQ1NTcxNTQt/NzA3NC5qcGVn.jpeg"
+    },
+    {
+      "name": "Edward Kassner Music Co. Ltd.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 283017,
+      "resource_url": "https://api.discogs.com/labels/283017",
+      "thumbnail_url": "https://i.discogs.com/rBAKkcv6VA29j1OwLkNcnvvmF-Y4fbs_ZY1o18H5dLw/rs:fit/g:sm/q:90/h:81/w:432/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4MzAx/Ny0xNTM3NzA5MjIx/LTY5NDUuanBlZw.jpeg"
+    },
+    {
+      "name": "EMI April Music Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 264623,
+      "resource_url": "https://api.discogs.com/labels/264623",
+      "thumbnail_url": "https://i.discogs.com/6YZ9yNsvSzkXXtmAiAgG0HFyMo0ba1AIgfIuB88wqi4/rs:fit/g:sm/q:90/h:134/w:270/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDYy/My0xNTg4OTgwMTEw/LTc0MDUuanBlZw.jpeg"
+    },
+    {
+      "name": "Hour Box Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 374432,
+      "resource_url": "https://api.discogs.com/labels/374432"
+    },
+    {
+      "name": "Kurstin Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 271324,
+      "resource_url": "https://api.discogs.com/labels/271324"
+    },
+    {
+      "name": "R-Rated Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 345118,
+      "resource_url": "https://api.discogs.com/labels/345118"
+    },
+    {
+      "name": "Songs Music Publishing",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 116393,
+      "resource_url": "https://api.discogs.com/labels/116393",
+      "thumbnail_url": "https://i.discogs.com/LanNXo8mbw-bI8t_eICJnB-Wy-D7SJa4nOATj8KJtmE/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExNjM5/My0xNDgyMzQxMDc0/LTY1NDcuanBlZw.jpeg"
+    },
+    {
+      "name": "Sony / ATV Music Publishing",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 115653,
+      "resource_url": "https://api.discogs.com/labels/115653",
+      "thumbnail_url": "https://i.discogs.com/hs37I82N0L-lLEvaPEFzJYP33Gfas0FdKoWLBvo1dKw/rs:fit/g:sm/q:90/h:157/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExNTY1/My0xNTU0MzQyNDIw/LTYwMDYucG5n.jpeg"
+    },
+    {
+      "name": "Wixen Music Publishing, Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 347581,
+      "resource_url": "https://api.discogs.com/labels/347581",
+      "thumbnail_url": "https://i.discogs.com/BLcif3Pao5o9VTqM_rtIO0_luohoPf1bO7UlscmoE58/rs:fit/g:sm/q:90/h:64/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM0NzU4/MS0xNDQ4ODg3OTgw/LTY1NDUucG5n.jpeg"
+    },
+    {
+      "name": "The Bridge Recording, Glendale, CA",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 3171071,
+      "resource_url": "https://api.discogs.com/labels/3171071",
+      "thumbnail_url": "https://i.discogs.com/0OKYeJhmeqyuELANTXYakKIq1u-2iqlCX1BGpBygTXY/rs:fit/g:sm/q:90/h:104/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxNzEw/NzEtMTY3ODcwNzQ3/MS05OTk3LmdpZg.jpeg"
+    },
+    {
+      "name": "Easy Eye Sound Studios, Nashville, TN",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 1496137,
+      "resource_url": "https://api.discogs.com/labels/1496137",
+      "thumbnail_url": "https://i.discogs.com/lPE5UCS_lxPeXsyztQB0tuypXJ44oXmPtkpDIknr_bE/rs:fit/g:sm/q:90/h:580/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE0OTYx/MzctMTY2OTkyNzcw/Ni00NTAzLnBuZw.jpeg"
+    },
+    {
+      "name": "Echo Studio, Los Angeles, CA",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 445623,
+      "resource_url": "https://api.discogs.com/labels/445623",
+      "thumbnail_url": "https://i.discogs.com/MPAV2kLhAuSToKB6DGTnbh65PAQZP9s3XsF3vMKfCj8/rs:fit/g:sm/q:90/h:366/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQ0NTYy/My0xMzQ4MzYxOTQx/LTI1ODEuanBlZw.jpeg"
+    },
+    {
+      "name": "Electric Lady Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 267980,
+      "resource_url": "https://api.discogs.com/labels/267980",
+      "thumbnail_url": "https://i.discogs.com/wqwrHJAVS3D4DOqCaLm5HB-lPwSLeGvfxwvp---L108/rs:fit/g:sm/q:90/h:475/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2Nzk4/MC0xNDEwOTY5Nzgw/LTc4OTkuanBlZw.jpeg"
+    },
+    {
+      "name": "The Church, London",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 273118,
+      "resource_url": "https://api.discogs.com/labels/273118",
+      "thumbnail_url": "https://i.discogs.com/wrxGx_QAUyzv2NzWOWhoJ5ZXtKmrvfBXQUn7sZVsPyg/rs:fit/g:sm/q:90/h:343/w:378/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MzEx/OC0xNjA2MjE2NjU2/LTIwMDEuanBlZw.jpeg"
+    },
+    {
+      "name": "The Green Building, Santa Monica",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 493232,
+      "resource_url": "https://api.discogs.com/labels/493232"
+    },
+    {
+      "name": "Easy Eye Sound Studios, Nashville, TN",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 1496137,
+      "resource_url": "https://api.discogs.com/labels/1496137",
+      "thumbnail_url": "https://i.discogs.com/lPE5UCS_lxPeXsyztQB0tuypXJ44oXmPtkpDIknr_bE/rs:fit/g:sm/q:90/h:580/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE0OTYx/MzctMTY2OTkyNzcw/Ni00NTAzLnBuZw.jpeg"
+    },
+    {
+      "name": "Electric Lady Studios",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 267980,
+      "resource_url": "https://api.discogs.com/labels/267980",
+      "thumbnail_url": "https://i.discogs.com/wqwrHJAVS3D4DOqCaLm5HB-lPwSLeGvfxwvp---L108/rs:fit/g:sm/q:90/h:475/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2Nzk4/MC0xNDEwOTY5Nzgw/LTc4OTkuanBlZw.jpeg"
+    },
+    {
+      "name": "Hot Rocks Studios",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 358625,
+      "resource_url": "https://api.discogs.com/labels/358625"
+    },
+    {
+      "name": "Record Industry",
+      "catno": "99815",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 267164,
+      "resource_url": "https://api.discogs.com/labels/267164",
+      "thumbnail_url": "https://i.discogs.com/O-Hxe1Kov2i8WglqGPPH_MOH2tRwDR7PcnrGNdcFh7I/rs:fit/g:sm/q:90/h:596/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NzE2/NC0xNjQ4NzExMzM5/LTI1MDQuanBlZw.jpeg"
+    },
+    {
+      "name": "Gateway Mastering",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 265594,
+      "resource_url": "https://api.discogs.com/labels/265594",
+      "thumbnail_url": "https://i.discogs.com/4HnkaZBiC6dByYPD1mdHlZb6cVLJ1_OVsFSoCzGRLwo/rs:fit/g:sm/q:90/h:154/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTU5/NC0xNjU3OTE4MjUx/LTU3ODEuanBlZw.jpeg"
+    },
+    {
+      "name": "Metropolis Studios",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 265000,
+      "resource_url": "https://api.discogs.com/labels/265000",
+      "thumbnail_url": "https://i.discogs.com/I1lIoi6xVEM2p0oWKVZsJNhazSc21cHC2z35bdknhq8/rs:fit/g:sm/q:90/h:200/w:223/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTAw/MC0xMzQ3ODEzMzgz/LTIxMzcuanBlZw.jpeg"
+    },
+    {
+      "name": "Big Active",
+      "catno": "",
+      "entity_type": "33",
+      "entity_type_name": "Designed At",
+      "id": 270541,
+      "resource_url": "https://api.discogs.com/labels/270541",
+      "thumbnail_url": "https://i.discogs.com/esZq0KXzqpTnR9kemqrI3WITQdEB6pxEu5xVSOZ_Gk0/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MDU0/MS0xNDM3NDUzODE5/LTU5NTAuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Deluxe Edition",
+        "Stereo"
+      ],
+      "text": "180 Gram"
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 19529,
+    "want": 4207,
+    "rating": {
+      "count": 1558,
+      "average": 4.65
+    },
+    "submitter": {
+      "username": "Phonographix",
+      "resource_url": "https://api.discogs.com/users/Phonographix"
+    },
+    "contributors": [
+      {
+        "username": "Phonographix",
+        "resource_url": "https://api.discogs.com/users/Phonographix"
+      },
+      {
+        "username": "pghmusiclover",
+        "resource_url": "https://api.discogs.com/users/pghmusiclover"
+      },
+      {
+        "username": "PseudoHumanus",
+        "resource_url": "https://api.discogs.com/users/PseudoHumanus"
+      },
+      {
+        "username": "Myriad",
+        "resource_url": "https://api.discogs.com/users/Myriad"
+      },
+      {
+        "username": "michael_c",
+        "resource_url": "https://api.discogs.com/users/michael_c"
+      },
+      {
+        "username": "erdeimano",
+        "resource_url": "https://api.discogs.com/users/erdeimano"
+      },
+      {
+        "username": "Silver-Tentacle",
+        "resource_url": "https://api.discogs.com/users/Silver-Tentacle"
+      },
+      {
+        "username": "behemot",
+        "resource_url": "https://api.discogs.com/users/behemot"
+      },
+      {
+        "username": "ignored",
+        "resource_url": "https://api.discogs.com/users/ignored"
+      },
+      {
+        "username": "nightwink",
+        "resource_url": "https://api.discogs.com/users/nightwink"
+      },
+      {
+        "username": "alexhawkins",
+        "resource_url": "https://api.discogs.com/users/alexhawkins"
+      },
+      {
+        "username": "Juank-19",
+        "resource_url": "https://api.discogs.com/users/Juank-19"
+      },
+      {
+        "username": "dianardo",
+        "resource_url": "https://api.discogs.com/users/dianardo"
+      },
+      {
+        "username": "joejags2000",
+        "resource_url": "https://api.discogs.com/users/joejags2000"
+      },
+      {
+        "username": "aladdinsane84",
+        "resource_url": "https://api.discogs.com/users/aladdinsane84"
+      },
+      {
+        "username": "mjk37",
+        "resource_url": "https://api.discogs.com/users/mjk37"
+      },
+      {
+        "username": "alvarodquin26",
+        "resource_url": "https://api.discogs.com/users/alvarodquin26"
+      },
+      {
+        "username": "mcbefey",
+        "resource_url": "https://api.discogs.com/users/mcbefey"
+      },
+      {
+        "username": "zin",
+        "resource_url": "https://api.discogs.com/users/zin"
+      },
+      {
+        "username": "Uniformcigarboy",
+        "resource_url": "https://api.discogs.com/users/Uniformcigarboy"
+      },
+      {
+        "username": "tajvdz",
+        "resource_url": "https://api.discogs.com/users/tajvdz"
+      },
+      {
+        "username": "aboutTOdetonate",
+        "resource_url": "https://api.discogs.com/users/aboutTOdetonate"
+      },
+      {
+        "username": "othall",
+        "resource_url": "https://api.discogs.com/users/othall"
+      },
+      {
+        "username": "suffolk.audiophile",
+        "resource_url": "https://api.discogs.com/users/suffolk.audiophile"
+      },
+      {
+        "username": "DAVE-I.D.",
+        "resource_url": "https://api.discogs.com/users/DAVE-I.D."
+      },
+      {
+        "username": "Speedsadist",
+        "resource_url": "https://api.discogs.com/users/Speedsadist"
+      },
+      {
+        "username": "Mr.Rooibos",
+        "resource_url": "https://api.discogs.com/users/Mr.Rooibos"
+      },
+      {
+        "username": "MrXavier4",
+        "resource_url": "https://api.discogs.com/users/MrXavier4"
+      },
+      {
+        "username": "timohanen",
+        "resource_url": "https://api.discogs.com/users/timohanen"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2014-06-19T04:43:00-07:00",
+  "date_changed": "2025-08-01T16:19:57-07:00",
+  "num_for_sale": 67,
+  "lowest_price": 39.11,
+  "master_id": 697600,
+  "master_url": "https://api.discogs.com/masters/697600",
+  "title": "Ultraviolence",
+  "country": "UK",
+  "released": "2014-06-13",
+  "notes": "180 gram black vinyl. Gatefold sleeve. Includes download voucher.\n\n℗ 2014 Lana Del Rey, under exclusive license to Polydor Ltd. (UK). Under exclusive license to Interscope Records in the USA. © 2014 Lana Del Rey, under exclusive license to Polydor Ltd. (UK). Under exclusive license to Interscope Records in the USA. The copyright in this sound recording is owned by Lana Del Rey, under exclusive license to Polydor Ltd. (UK). Under exclusive license to Interscope Records in the USA.\n\n\"Cruel World\" published by Copyright Control/Sony/ATV Music Publishing. Mixed at Hot Rocks Studios. Mastered at Metropolis Studios, London. Recorded at Easy Eye Sound, Nashville, TN. USA.\n\n\"Ultraviolence\" published by Songs Publishing/Sony/ATV Music Publishing. Mastered at Metropolis Studios, London. Recorded & mixed at Easy Eye Sound, Nashville, TN. USA.\n\n\"Shades Of Cool\" published by R-Rated Music administered by EMI April Music Inc. (ASCAP)/Sony ATV Music Publishing Ltd. Mixed at Hot Rocks Studios. Mastered at Metropolis Studios, London. Recorded at Easy Eye Sound, Nashville, TN. USA.\n\n\"Brooklyn Baby\" published by Copyright Control/Sony/ATV Music Publishing. Mixed at Hot Rocks Studios. Mastered at Metropolis Studios, London. Recorded at Easy Eye Sound, Nashville, TN. USA.\n\n\"West Coast\" published by R-Rated Music administered by EMI April Music Inc. (ASCAP)/Sony/ATV Music Publishing. Mastered at Gateway Mastering Studios, Portland, Maine.\n\n\"Sad Girl\" published by R-Rated Music administered by EMI April Music Inc. (ASCAP)/Sony/ATV Music Publishing. Mixed at Hot Rocks Studios. Vocals recorded at The Green Building (Santa Monica). Recorded at Easy Eye Sound, Nashville, TN. USA.\n\n\"Pretty When You Cry\" published by Copyright Control/Sony/ATV Music Publishing. Mixed at Hot Rocks Studios. Mastered at Metropolis Studios, London. Recorded at Electric Lady Studios NYC.\n\n\"Money Power Glory\" published by Kurstin Music/EMI April Music, Inc. (ASCAP)/Sony/ATV Music Publishing. Mastered at Metropolis Studios, London. Recorded at Echo Studio, Los Angeles, CA. USA.\n\n\"Fucked My Way Up To The Top\" published by Songs Publishing/Sony/ATV Music Publishing. Mixed at Hot Rocks Studios. Mastered at Metropolis Studios, London. Recorded at Easy Eye Sound, Nashville, TN. USA.\n\n\"Old Money\" published by Songs Publishing/Sony/ATV Music Publishing. Mixed at Hot Rocks Studios. Strings recorded at The Bridge, Glendale, LA. Mastered at Metropolis Studios, London.\n\n\"The Other Woman\" published by Edward Kassner Music Co. Ltd. Mixed at Hot Rocks Studios.\n\n\"Black Beauty\" published by R-Rated Music administered by EMI April Music Inc. (ASCAP)/Sony/ATV Music Publishing. Mastered at Metropolis Studios, London. Recorded at The Church Studios, London, UK and The Green Building, Santa Monica, USA.\n\n\"Guns And Roses\" published by R-Rated Music administered by EMI April Music Inc. (ASCAP)/Sony/ATV Music Publishing. Mastered at Metropolis Studios, London. Recorded and mixed at Electric Lady Studios NYC, USA.\n\n\"Florida Kilos\" published by Copyright Control/Hour Box Music (BMI), administered by Wixen Music Publishing, Inc./Sony/ATV Music Publishing. Mastered at Metropolis Studios, London. Recorded at Easy Eye Sound, Nashville, TN. USA.\n\nCatalog numbers/identifiers  -\nVinyl insert 1: 3787446\nVinyl insert 2: 53787447\nDownload card: 3787448\nVinyl label side B: 00602537874460\nVinyl label side D: 00602537874477\n\nSticker on sleeve -\nPARENTAL\nADVISORY\nEXPLICIT CONTENT\n\nAdditional sticker on sleeve when item sold in Australian stores -\nWARNING\nMODERATE impact\ncoarse language\nand/or themes\nUNIVERSAL\n\nTrack durations not listed on release.",
+  "released_formatted": "13 Jun 2014",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "00602537874484",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "602537874484",
+      "description": "Scanned"
+    },
+    {
+      "type": "Label Code",
+      "value": "LC00309"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "99815 1A 3787448 A1 JohnD B",
+      "description": "Side A runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "99815 1B 3787448 B1 B",
+      "description": "Side B runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "99815 1C 3787448 A1 JohnD B",
+      "description": "Side C runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "99815 1D 3787448 B1 B",
+      "description": "Side D runout"
+    },
+    {
+      "type": "Rights Society",
+      "value": "ASCAP"
+    },
+    {
+      "type": "Rights Society",
+      "value": "BMI"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=8EzYoUxkg9c",
+      "title": "Cruel World",
+      "description": "Provided to YouTube by Universal Music Group\n\nCruel World · Lana Del Rey\n\nUltraviolence\n\n℗ 2014 Lana Del Rey\n\nReleased on: 2014-01-01\n\nVocalist, Composer Lyricist: Lana Del Rey\nProducer: Dan Auerbach\nEngineer: Collin Dupuis\nMixing Engineer: Robert Orton\nM",
+      "duration": 400,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=EJSk2RySqKg",
+      "title": "Lana Del Rey - Ultraviolence (Audio)",
+      "description": "Lana Del Rey - Ultraviolence (Official Audio)\nBrand new album 'Lust for Life' out now. Listen: https://lana.lnk.to/LFLaID\n\nSign up for updates: http://smarturl.it/LanaDelRey.News\n\nFollow Lana Del Rey:\nhttp://www.instagram.com/lanadelrey\nhttp://www.faceboo",
+      "duration": 253,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KuX_xwghhsw",
+      "title": "Lana Del Rey - Shades of Cool (Official Audio)",
+      "description": "Lana Del Rey - Shades Of Cool (Official Audio)\n\nSign up for updates: http://smarturl.it/LanaDelRey.News\n\nFollow Lana Del Rey:\nhttp://www.instagram.com/lanadelrey\nhttp://www.facebook.com/lanadelrey\nhttp://www.twitter.com/lanadelrey\nhttp://lanadelrey.tumblr",
+      "duration": 329,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=T5xcnjAG8pE",
+      "title": "Lana Del Rey - Brooklyn Baby (Official Audio)",
+      "description": "Lana Del Rey - Brooklyn Baby (Official Audio)\n\nSign up for updates: http://smarturl.it/LanaDelRey.News\n\nFollow Lana Del Rey:\nhttp://www.instagram.com/lanadelrey\nhttp://www.facebook.com/lanadelrey\nhttp://www.twitter.com/lanadelrey\nhttp://lanadelrey.tumblr.",
+      "duration": 354,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=qD8S6t00C2g",
+      "title": "Sad Girl",
+      "description": "Provided to YouTube by Universal Music Group\n\nSad Girl · Lana Del Rey\n\nUltraviolence\n\n℗ 2014 Lana Del Rey\n\nReleased on: 2014-01-01\n\nVocalist, Composer Lyricist: Lana Del Rey\nProducer: Dan Auerbach\nEngineer: Collin Dupuis\nProducer, Composer Lyricist: Rick ",
+      "duration": 318,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=MDpH-AMA5-8",
+      "title": "Pretty When You Cry",
+      "description": "Provided to YouTube by Universal Music Group\n\nPretty When You Cry · Lana Del Rey\n\nUltraviolence\n\n℗ 2014 Lana Del Rey\n\nReleased on: 2014-01-01\n\nComposer Lyricist, Vocalist, Producer: Lana Del Rey\nComposer Lyricist, Producer: Blake Stranathan\nCo Producer: L",
+      "duration": 235,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Q0XzQAmvnmw",
+      "title": "Money Power Glory",
+      "description": "Provided to YouTube by Universal Music Group\n\nMoney Power Glory · Lana Del Rey\n\nUltraviolence\n\n℗ 2014 Lana Del Rey\n\nReleased on: 2014-01-01\n\nComposer Lyricist, Vocalist: Lana Del Rey\nEngineer, Producer, Mixing Engineer, Composer Lyricist: Greg Kurstin\nEng",
+      "duration": 271,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=0EEz_SXr0d8",
+      "title": "Lana Del Rey - Fucked My Way Up To The Top",
+      "description": "Buy Ultraviolence! Lyrics in description\nLife is awesome, I confess\nWhat I do, I do best.\nYou got nothing, I got tested\nAnd I passed, yes.\n\nLay me down tonight in my linen and curls\nLay me down tonight, Riviera girls.\n\nI fucked my way up to the top,\nThis ",
+      "duration": 213,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=wlb7DqvLdPk",
+      "title": "Old Money",
+      "description": "Provided to YouTube by Universal Music Group\n\nOld Money · Lana Del Rey\n\nUltraviolence\n\n℗ 2014 Lana Del Rey\n\nReleased on: 2014-01-01\n\nVocalist: Lana Del Rey\nComposer Lyricist, Producer, Recordingarranger: Daniel Heath\nEngineer: Milton Gutierrez\nRecording S",
+      "duration": 272,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=NQH_1QFwd8w",
+      "title": "The Other Woman",
+      "description": "Provided to YouTube by Universal Music Group\n\nThe Other Woman · Lana Del Rey\n\nUltraviolence\n\n℗ 2014 Lana Del Rey\n\nReleased on: 2014-01-01\n\nVocalist: Lana Del Rey\nProducer: Dan Auerbach\nEngineer: Collin Dupuis\nMixing Engineer: Robert Orton\nMastering Engine",
+      "duration": 182,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=pqg73BLoyFU",
+      "title": "Lana Del Rey - West Coast (Radio Mix/Alternate Version)",
+      "description": "Lana Del Rey performing West Coast. © 2014.\nAn alternate, new mix of Lana's latest single, sent to German radio stations.\n\nULTRAVIOLENCE out June 13, 2014. \n\nNo copyright infrigment intended. This video is meant to be promoting Lana's new single and album",
+      "duration": 227,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=FeX85zF5iHo",
+      "title": "Black Beauty",
+      "description": "Provided to YouTube by Universal Music Group\n\nBlack Beauty · Lana Del Rey\n\nUltraviolence\n\n℗ 2014 Lana Del Rey\n\nReleased on: 2014-01-01\n\nComposer Lyricist, Vocalist: Lana Del Rey\nProducer: Paul Epworth\nEngineer: Matt Wiggins\nComposer Lyricist, Producer: Ri",
+      "duration": 315,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=yZBHQGbYB3I",
+      "title": "Guns And Roses",
+      "description": "Provided to YouTube by Universal Music Group\n\nGuns And Roses · Lana Del Rey\n\nUltraviolence\n\n℗ 2014 Lana Del Rey\n\nReleased on: 2014-01-01\n\nComposer Lyricist, Vocalist, Producer: Lana Del Rey\nCo Producer: Lee Foster\nProducer, Composer Lyricist: Rick Nowels\n",
+      "duration": 271,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=RBoBFqD-y4I",
+      "title": "Florida Kilos",
+      "description": "Provided to YouTube by Universal Music Group\n\nFlorida Kilos · Lana Del Rey\n\nUltraviolence\n\n℗ 2014 Lana Del Rey\n\nReleased on: 2014-01-01\n\nVocalist, Composer Lyricist: Lana Del Rey\nComposer Lyricist, Background Vocalist, Producer, Mixing Engineer: Dan Auerb",
+      "duration": 257,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=SHK0UU74ucI",
+      "title": "Lana Del Rey - Ultraviolence / unboxing cd /",
+      "description": "",
+      "duration": 95,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=6YbviJnFnvM",
+      "title": "Lana Del Rey - Ultraviolence / unboxing vinyl LP /",
+      "description": "Polydor - 3787448, Interscope Records - 3787448\n2 × Vinyl, LP , 180g\nUK 13 Jun 2014",
+      "duration": 112,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=rJABBmAMXnY",
+      "title": "Lana Del Rey - Shades Of Cool",
+      "description": "Lana Del Rey - Shades Of Cool (Official Music Video)\n\nSign up for updates: http://smarturl.it/LanaDelRey.News\n\nFollow Lana Del Rey:\nhttp://www.instagram.com/lanadelrey\nhttp://www.facebook.com/lanadelrey\nhttp://www.twitter.com/lanadelrey\nhttp://lanadelrey.",
+      "duration": 344,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ZFWC4SiZBao",
+      "title": "Lana Del Rey - Ultraviolence",
+      "description": "Lana Del Rey - Ultraviolence (Official Music Video)\nBrand new album 'Lust for Life' out now. Listen: https://lana.lnk.to/LFLaID\n\nSign up for updates: http://smarturl.it/LanaDelRey.News\n\nFollow Lana Del Rey:\nhttp://www.instagram.com/lanadelrey\nhttp://www.f",
+      "duration": 264,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Rock",
+    "Pop"
+  ],
+  "styles": [
+    "Ballad",
+    "Dream Pop",
+    "Downtempo"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Cruel World",
+      "extraartists": [
+        {
+          "name": "Max Weissenfeldt",
+          "anv": "Maximilian Weissenfeldt",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 382519,
+          "resource_url": "https://api.discogs.com/artists/382519"
+        },
+        {
+          "name": "Nick Movshon",
+          "anv": "",
+          "join": "",
+          "role": "Electric Bass",
+          "tracks": "",
+          "id": 308966,
+          "resource_url": "https://api.discogs.com/artists/308966"
+        },
+        {
+          "name": "Dan Auerbach",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 266197,
+          "resource_url": "https://api.discogs.com/artists/266197"
+        },
+        {
+          "name": "Kenny Vaughan (2)",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 1329010,
+          "resource_url": "https://api.discogs.com/artists/1329010"
+        },
+        {
+          "name": "Dan Auerbach",
+          "anv": "",
+          "join": "",
+          "role": "Handclaps",
+          "tracks": "",
+          "id": 266197,
+          "resource_url": "https://api.discogs.com/artists/266197"
+        },
+        {
+          "name": "Leon Michels",
+          "anv": "Leon Michaels",
+          "join": "",
+          "role": "Handclaps",
+          "tracks": "",
+          "id": 308964,
+          "resource_url": "https://api.discogs.com/artists/308964"
+        },
+        {
+          "name": "Max Weissenfeldt",
+          "anv": "Maximilian Weissenfeldt",
+          "join": "",
+          "role": "Handclaps",
+          "tracks": "",
+          "id": 382519,
+          "resource_url": "https://api.discogs.com/artists/382519"
+        },
+        {
+          "name": "Nick Movshon",
+          "anv": "",
+          "join": "",
+          "role": "Handclaps",
+          "tracks": "",
+          "id": 308966,
+          "resource_url": "https://api.discogs.com/artists/308966"
+        },
+        {
+          "name": "Seth Kauffman",
+          "anv": "Seth Kaufman",
+          "join": "",
+          "role": "Handclaps",
+          "tracks": "",
+          "id": 540020,
+          "resource_url": "https://api.discogs.com/artists/540020"
+        },
+        {
+          "name": "Leon Michels",
+          "anv": "Leon Michaels",
+          "join": "",
+          "role": "Mellotron",
+          "tracks": "",
+          "id": 308964,
+          "resource_url": "https://api.discogs.com/artists/308964"
+        },
+        {
+          "name": "Russ Pahl",
+          "anv": "",
+          "join": "",
+          "role": "Pedal Steel Guitar",
+          "tracks": "",
+          "id": 521910,
+          "resource_url": "https://api.discogs.com/artists/521910"
+        },
+        {
+          "name": "Leon Michels",
+          "anv": "Leon Michaels",
+          "join": "",
+          "role": "Synthesizer",
+          "tracks": "",
+          "id": 308964,
+          "resource_url": "https://api.discogs.com/artists/308964"
+        },
+        {
+          "name": "Seth Kauffman",
+          "anv": "Seth Kaufman",
+          "join": "",
+          "role": "Synthesizer",
+          "tracks": "",
+          "id": 540020,
+          "resource_url": "https://api.discogs.com/artists/540020"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Ultraviolence",
+      "extraartists": [
+        {
+          "name": "Alfreda McCrary",
+          "anv": "Alfreda McCrary Lee",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 995124,
+          "resource_url": "https://api.discogs.com/artists/995124"
+        },
+        {
+          "name": "Ann McCrary",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 441964,
+          "resource_url": "https://api.discogs.com/artists/441964"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Regina McCrary",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 1254536,
+          "resource_url": "https://api.discogs.com/artists/1254536"
+        },
+        {
+          "name": "Collin Dupuis",
+          "anv": "",
+          "join": "",
+          "role": "Drum Programming",
+          "tracks": "",
+          "id": 597684,
+          "resource_url": "https://api.discogs.com/artists/597684"
+        },
+        {
+          "name": "Max Weissenfeldt",
+          "anv": "Maximilian Weissenfeldt",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 382519,
+          "resource_url": "https://api.discogs.com/artists/382519"
+        },
+        {
+          "name": "Nick Movshon",
+          "anv": "",
+          "join": "",
+          "role": "Electric Bass",
+          "tracks": "",
+          "id": 308966,
+          "resource_url": "https://api.discogs.com/artists/308966"
+        },
+        {
+          "name": "Dan Auerbach",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 266197,
+          "resource_url": "https://api.discogs.com/artists/266197"
+        },
+        {
+          "name": "Kenny Vaughan (2)",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 1329010,
+          "resource_url": "https://api.discogs.com/artists/1329010"
+        },
+        {
+          "name": "Seth Kauffman",
+          "anv": "Seth Kaufman",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 540020,
+          "resource_url": "https://api.discogs.com/artists/540020"
+        },
+        {
+          "name": "Leon Michels",
+          "anv": "Leon Michaels",
+          "join": "",
+          "role": "Mellotron",
+          "tracks": "",
+          "id": 308964,
+          "resource_url": "https://api.discogs.com/artists/308964"
+        },
+        {
+          "name": "Russ Pahl",
+          "anv": "",
+          "join": "",
+          "role": "Pedal Steel Guitar",
+          "tracks": "",
+          "id": 521910,
+          "resource_url": "https://api.discogs.com/artists/521910"
+        },
+        {
+          "name": "Leon Michels",
+          "anv": "Leon Michaels",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 308964,
+          "resource_url": "https://api.discogs.com/artists/308964"
+        },
+        {
+          "name": "Leon Michels",
+          "anv": "Leon Michaels",
+          "join": "",
+          "role": "Synthesizer",
+          "tracks": "",
+          "id": 308964,
+          "resource_url": "https://api.discogs.com/artists/308964"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Shades Of Cool",
+      "extraartists": [
+        {
+          "name": "Collin Dupuis",
+          "anv": "",
+          "join": "",
+          "role": "Drum Programming",
+          "tracks": "",
+          "id": 597684,
+          "resource_url": "https://api.discogs.com/artists/597684"
+        },
+        {
+          "name": "Max Weissenfeldt",
+          "anv": "Maximilian Weissenfeldt",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 382519,
+          "resource_url": "https://api.discogs.com/artists/382519"
+        },
+        {
+          "name": "Nick Movshon",
+          "anv": "",
+          "join": "",
+          "role": "Electric Bass",
+          "tracks": "",
+          "id": 308966,
+          "resource_url": "https://api.discogs.com/artists/308966"
+        },
+        {
+          "name": "Dan Auerbach",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 266197,
+          "resource_url": "https://api.discogs.com/artists/266197"
+        },
+        {
+          "name": "Kenny Vaughan (2)",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 1329010,
+          "resource_url": "https://api.discogs.com/artists/1329010"
+        },
+        {
+          "name": "Russ Pahl",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 521910,
+          "resource_url": "https://api.discogs.com/artists/521910"
+        },
+        {
+          "name": "Leon Michels",
+          "anv": "Leon Michaels",
+          "join": "",
+          "role": "Mellotron",
+          "tracks": "",
+          "id": 308964,
+          "resource_url": "https://api.discogs.com/artists/308964"
+        },
+        {
+          "name": "Seth Kauffman",
+          "anv": "Seth Kaufman",
+          "join": "",
+          "role": "Omnichord",
+          "tracks": "",
+          "id": 540020,
+          "resource_url": "https://api.discogs.com/artists/540020"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Brooklyn Baby",
+      "extraartists": [
+        {
+          "name": "Kenny Vaughan (2)",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar",
+          "tracks": "",
+          "id": 1329010,
+          "resource_url": "https://api.discogs.com/artists/1329010"
+        },
+        {
+          "name": "Russ Pahl",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar",
+          "tracks": "",
+          "id": 521910,
+          "resource_url": "https://api.discogs.com/artists/521910"
+        },
+        {
+          "name": "Seth Kauffman",
+          "anv": "Seth Kaufman",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 540020,
+          "resource_url": "https://api.discogs.com/artists/540020"
+        },
+        {
+          "name": "Nick Movshon",
+          "anv": "",
+          "join": "",
+          "role": "Double Bass [Upright bass]",
+          "tracks": "",
+          "id": 308966,
+          "resource_url": "https://api.discogs.com/artists/308966"
+        },
+        {
+          "name": "Max Weissenfeldt",
+          "anv": "Maximilian Weissenfeldt",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 382519,
+          "resource_url": "https://api.discogs.com/artists/382519"
+        },
+        {
+          "name": "Nick Movshon",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 308966,
+          "resource_url": "https://api.discogs.com/artists/308966"
+        },
+        {
+          "name": "Dan Auerbach",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 266197,
+          "resource_url": "https://api.discogs.com/artists/266197"
+        },
+        {
+          "name": "Seth Kauffman",
+          "anv": "Seth Kaufman",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 540020,
+          "resource_url": "https://api.discogs.com/artists/540020"
+        },
+        {
+          "name": "Leon Michels",
+          "anv": "Leon Michaels",
+          "join": "",
+          "role": "Mellotron",
+          "tracks": "",
+          "id": 308964,
+          "resource_url": "https://api.discogs.com/artists/308964"
+        },
+        {
+          "name": "Russ Pahl",
+          "anv": "",
+          "join": "",
+          "role": "Pedal Steel Guitar",
+          "tracks": "",
+          "id": 521910,
+          "resource_url": "https://api.discogs.com/artists/521910"
+        },
+        {
+          "name": "Leon Michels",
+          "anv": "Leon Michaels",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 308964,
+          "resource_url": "https://api.discogs.com/artists/308964"
+        },
+        {
+          "name": "Seth Kauffman",
+          "anv": "Seth Kaufman",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 540020,
+          "resource_url": "https://api.discogs.com/artists/540020"
+        },
+        {
+          "name": "Leon Michels",
+          "anv": "Leon Michaels",
+          "join": "",
+          "role": "Tambourine",
+          "tracks": "",
+          "id": 308964,
+          "resource_url": "https://api.discogs.com/artists/308964"
+        },
+        {
+          "name": "Leon Michels",
+          "anv": "Leon Michaels",
+          "join": "",
+          "role": "Tenor Saxophone",
+          "tracks": "",
+          "id": 308964,
+          "resource_url": "https://api.discogs.com/artists/308964"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "West Coast",
+      "extraartists": [
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Collin Dupuis",
+          "anv": "",
+          "join": "",
+          "role": "Drum Programming",
+          "tracks": "",
+          "id": 597684,
+          "resource_url": "https://api.discogs.com/artists/597684"
+        },
+        {
+          "name": "Max Weissenfeldt",
+          "anv": "Maximilian Weissenfeldt",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 382519,
+          "resource_url": "https://api.discogs.com/artists/382519"
+        },
+        {
+          "name": "Nick Movshon",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 308966,
+          "resource_url": "https://api.discogs.com/artists/308966"
+        },
+        {
+          "name": "Nick Movshon",
+          "anv": "",
+          "join": "",
+          "role": "Electric Bass",
+          "tracks": "",
+          "id": 308966,
+          "resource_url": "https://api.discogs.com/artists/308966"
+        },
+        {
+          "name": "Dan Auerbach",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 266197,
+          "resource_url": "https://api.discogs.com/artists/266197"
+        },
+        {
+          "name": "Kenny Vaughan (2)",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 1329010,
+          "resource_url": "https://api.discogs.com/artists/1329010"
+        },
+        {
+          "name": "Seth Kauffman",
+          "anv": "",
+          "join": "",
+          "role": "Mellotron",
+          "tracks": "",
+          "id": 540020,
+          "resource_url": "https://api.discogs.com/artists/540020"
+        },
+        {
+          "name": "Russ Pahl",
+          "anv": "",
+          "join": "",
+          "role": "Pedal Steel Guitar",
+          "tracks": "",
+          "id": 521910,
+          "resource_url": "https://api.discogs.com/artists/521910"
+        },
+        {
+          "name": "Dan Auerbach",
+          "anv": "",
+          "join": "",
+          "role": "Shaker",
+          "tracks": "",
+          "id": 266197,
+          "resource_url": "https://api.discogs.com/artists/266197"
+        },
+        {
+          "name": "Dan Auerbach",
+          "anv": "",
+          "join": "",
+          "role": "Synthesizer",
+          "tracks": "",
+          "id": 266197,
+          "resource_url": "https://api.discogs.com/artists/266197"
+        },
+        {
+          "name": "Dan Auerbach",
+          "anv": "",
+          "join": "",
+          "role": "Twelve-String Guitar",
+          "tracks": "",
+          "id": 266197,
+          "resource_url": "https://api.discogs.com/artists/266197"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Sad Girl",
+      "extraartists": [
+        {
+          "name": "Russ Pahl",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar",
+          "tracks": "",
+          "id": 521910,
+          "resource_url": "https://api.discogs.com/artists/521910"
+        },
+        {
+          "name": "Nick Movshon",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 308966,
+          "resource_url": "https://api.discogs.com/artists/308966"
+        },
+        {
+          "name": "Dan Auerbach",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 266197,
+          "resource_url": "https://api.discogs.com/artists/266197"
+        },
+        {
+          "name": "Seth Kauffman",
+          "anv": "Seth Kaufman",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 540020,
+          "resource_url": "https://api.discogs.com/artists/540020"
+        },
+        {
+          "name": "Kenny Vaughan (2)",
+          "anv": "",
+          "join": "",
+          "role": "Mellotron",
+          "tracks": "",
+          "id": 1329010,
+          "resource_url": "https://api.discogs.com/artists/1329010"
+        },
+        {
+          "name": "Leon Michels",
+          "anv": "Leon Michaels",
+          "join": "",
+          "role": "Mellotron",
+          "tracks": "",
+          "id": 308964,
+          "resource_url": "https://api.discogs.com/artists/308964"
+        },
+        {
+          "name": "Collin Dupuis",
+          "anv": "",
+          "join": "",
+          "role": "Synthesizer",
+          "tracks": "",
+          "id": 597684,
+          "resource_url": "https://api.discogs.com/artists/597684"
+        },
+        {
+          "name": "Dan Auerbach",
+          "anv": "",
+          "join": "",
+          "role": "Synthesizer",
+          "tracks": "",
+          "id": 266197,
+          "resource_url": "https://api.discogs.com/artists/266197"
+        },
+        {
+          "name": "Kenny Vaughan (2)",
+          "anv": "",
+          "join": "",
+          "role": "Synthesizer",
+          "tracks": "",
+          "id": 1329010,
+          "resource_url": "https://api.discogs.com/artists/1329010"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Pretty When You Cry",
+      "extraartists": [
+        {
+          "name": "Brian Griffin (4)",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 3869484,
+          "resource_url": "https://api.discogs.com/artists/3869484"
+        },
+        {
+          "name": "Blake Stranathan",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 3869486,
+          "resource_url": "https://api.discogs.com/artists/3869486"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Money Power Glory",
+      "extraartists": [
+        {
+          "name": "Greg Kurstin",
+          "anv": "",
+          "join": "",
+          "role": "Bass Guitar",
+          "tracks": "",
+          "id": 277673,
+          "resource_url": "https://api.discogs.com/artists/277673"
+        },
+        {
+          "name": "Greg Kurstin",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 277673,
+          "resource_url": "https://api.discogs.com/artists/277673"
+        },
+        {
+          "name": "Greg Kurstin",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 277673,
+          "resource_url": "https://api.discogs.com/artists/277673"
+        },
+        {
+          "name": "Greg Kurstin",
+          "anv": "",
+          "join": "",
+          "role": "Keyboards",
+          "tracks": "",
+          "id": 277673,
+          "resource_url": "https://api.discogs.com/artists/277673"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Fucked My Way Up To The Top",
+      "extraartists": [
+        {
+          "name": "Collin Dupuis",
+          "anv": "",
+          "join": "",
+          "role": "Drum Programming",
+          "tracks": "",
+          "id": 597684,
+          "resource_url": "https://api.discogs.com/artists/597684"
+        },
+        {
+          "name": "Max Weissenfeldt",
+          "anv": "Maximilian Weissenfeldt",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 382519,
+          "resource_url": "https://api.discogs.com/artists/382519"
+        },
+        {
+          "name": "Nick Movshon",
+          "anv": "",
+          "join": "",
+          "role": "Electric Bass",
+          "tracks": "",
+          "id": 308966,
+          "resource_url": "https://api.discogs.com/artists/308966"
+        },
+        {
+          "name": "Dan Auerbach",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 266197,
+          "resource_url": "https://api.discogs.com/artists/266197"
+        },
+        {
+          "name": "Kenny Vaughan (2)",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 1329010,
+          "resource_url": "https://api.discogs.com/artists/1329010"
+        },
+        {
+          "name": "Seth Kauffman",
+          "anv": "Seth Kaufman",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 540020,
+          "resource_url": "https://api.discogs.com/artists/540020"
+        },
+        {
+          "name": "Leon Michels",
+          "anv": "Leon Michaels",
+          "join": "",
+          "role": "Mellotron",
+          "tracks": "",
+          "id": 308964,
+          "resource_url": "https://api.discogs.com/artists/308964"
+        },
+        {
+          "name": "Russ Pahl",
+          "anv": "",
+          "join": "",
+          "role": "Pedal Steel Guitar",
+          "tracks": "",
+          "id": 521910,
+          "resource_url": "https://api.discogs.com/artists/521910"
+        },
+        {
+          "name": "Leon Michels",
+          "anv": "Leon Michaels",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 308964,
+          "resource_url": "https://api.discogs.com/artists/308964"
+        },
+        {
+          "name": "Leon Michels",
+          "anv": "Leon Michaels",
+          "join": "",
+          "role": "Synthesizer",
+          "tracks": "",
+          "id": 308964,
+          "resource_url": "https://api.discogs.com/artists/308964"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "Old Money",
+      "extraartists": [
+        {
+          "name": "Dan Heath",
+          "anv": "Daniel Heath",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 2462249,
+          "resource_url": "https://api.discogs.com/artists/2462249"
+        },
+        {
+          "name": "Matthew McGaughey",
+          "anv": "",
+          "join": "",
+          "role": "Orchestrated By",
+          "tracks": "",
+          "id": 3869489,
+          "resource_url": "https://api.discogs.com/artists/3869489"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "The Other Woman",
+      "extraartists": [
+        {
+          "name": "Nick Movshon",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 308966,
+          "resource_url": "https://api.discogs.com/artists/308966"
+        },
+        {
+          "name": "Kenny Vaughan (2)",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 1329010,
+          "resource_url": "https://api.discogs.com/artists/1329010"
+        },
+        {
+          "name": "Leon Michels",
+          "anv": "Leon Michaels",
+          "join": "",
+          "role": "Mellotron",
+          "tracks": "",
+          "id": 308964,
+          "resource_url": "https://api.discogs.com/artists/308964"
+        },
+        {
+          "name": "Russ Pahl",
+          "anv": "",
+          "join": "",
+          "role": "Pedal Steel Guitar",
+          "tracks": "",
+          "id": 521910,
+          "resource_url": "https://api.discogs.com/artists/521910"
+        },
+        {
+          "name": "Leon Michels",
+          "anv": "Leon Michaels",
+          "join": "",
+          "role": "Saxophone",
+          "tracks": "",
+          "id": 308964,
+          "resource_url": "https://api.discogs.com/artists/308964"
+        },
+        {
+          "name": "Dan Auerbach",
+          "anv": "",
+          "join": "",
+          "role": "Synthesizer",
+          "tracks": "",
+          "id": 266197,
+          "resource_url": "https://api.discogs.com/artists/266197"
+        },
+        {
+          "name": "Leon Michels",
+          "anv": "Leon Michaels",
+          "join": "",
+          "role": "Synthesizer",
+          "tracks": "",
+          "id": 308964,
+          "resource_url": "https://api.discogs.com/artists/308964"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "",
+      "type_": "heading",
+      "title": "Bonus Tracks",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Black Beauty",
+      "extraartists": [
+        {
+          "name": "Tom Herbert",
+          "anv": "",
+          "join": "",
+          "role": "Bass Guitar",
+          "tracks": "",
+          "id": 420149,
+          "resource_url": "https://api.discogs.com/artists/420149"
+        },
+        {
+          "name": "Leo Taylor",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 254524,
+          "resource_url": "https://api.discogs.com/artists/254524"
+        },
+        {
+          "name": "Nikolaj Torp Larsen",
+          "anv": "",
+          "join": "",
+          "role": "Electric Organ [Philicorda], Mellotron",
+          "tracks": "",
+          "id": 2015455,
+          "resource_url": "https://api.discogs.com/artists/2015455"
+        },
+        {
+          "name": "Pablo Tato",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 3869490,
+          "resource_url": "https://api.discogs.com/artists/3869490"
+        },
+        {
+          "name": "Ed Harcourt",
+          "anv": "",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 164001,
+          "resource_url": "https://api.discogs.com/artists/164001"
+        },
+        {
+          "name": "Rick Nowels",
+          "anv": "",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 67614,
+          "resource_url": "https://api.discogs.com/artists/67614"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Guns And Roses",
+      "extraartists": [
+        {
+          "name": "Brian Griffin (4)",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 3869484,
+          "resource_url": "https://api.discogs.com/artists/3869484"
+        },
+        {
+          "name": "Blake Stranathan",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 3869486,
+          "resource_url": "https://api.discogs.com/artists/3869486"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "title": "Florida Kilos",
+      "extraartists": [
+        {
+          "name": "Dan Auerbach",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 266197,
+          "resource_url": "https://api.discogs.com/artists/266197"
+        },
+        {
+          "name": "Seth Kauffman",
+          "anv": "Seth Kaufman",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 540020,
+          "resource_url": "https://api.discogs.com/artists/540020"
+        },
+        {
+          "name": "Collin Dupuis",
+          "anv": "",
+          "join": "",
+          "role": "Drum Programming",
+          "tracks": "",
+          "id": 597684,
+          "resource_url": "https://api.discogs.com/artists/597684"
+        },
+        {
+          "name": "Nick Movshon",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 308966,
+          "resource_url": "https://api.discogs.com/artists/308966"
+        },
+        {
+          "name": "Dan Auerbach",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 266197,
+          "resource_url": "https://api.discogs.com/artists/266197"
+        },
+        {
+          "name": "Russ Pahl",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 521910,
+          "resource_url": "https://api.discogs.com/artists/521910"
+        },
+        {
+          "name": "Leon Michels",
+          "anv": "Leon Michaels",
+          "join": "",
+          "role": "Mellotron",
+          "tracks": "",
+          "id": 308964,
+          "resource_url": "https://api.discogs.com/artists/308964"
+        },
+        {
+          "name": "Dan Auerbach",
+          "anv": "",
+          "join": "",
+          "role": "Synthesizer",
+          "tracks": "",
+          "id": 266197,
+          "resource_url": "https://api.discogs.com/artists/266197"
+        },
+        {
+          "name": "Leon Michels",
+          "anv": "Leon Michaels",
+          "join": "",
+          "role": "Synthesizer",
+          "tracks": "",
+          "id": 308964,
+          "resource_url": "https://api.discogs.com/artists/308964"
+        }
+      ],
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Mat Maitland",
+      "anv": "",
+      "join": "",
+      "role": "Design",
+      "tracks": "",
+      "id": 568148,
+      "resource_url": "https://api.discogs.com/artists/568148"
+    },
+    {
+      "name": "Collin Dupuis",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "A1 to B3, C3, D1, D4",
+      "id": 597684,
+      "resource_url": "https://api.discogs.com/artists/597684"
+    },
+    {
+      "name": "Matt Wiggins",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "D2",
+      "id": 670677,
+      "resource_url": "https://api.discogs.com/artists/670677"
+    },
+    {
+      "name": "Milton Guitérrez",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "C4",
+      "id": 3869491,
+      "resource_url": "https://api.discogs.com/artists/3869491"
+    },
+    {
+      "name": "Phil Joly",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "C1",
+      "id": 2024690,
+      "resource_url": "https://api.discogs.com/artists/2024690"
+    },
+    {
+      "name": "Alex Pasco",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Additional Engineering]",
+      "tracks": "C2",
+      "id": 2239634,
+      "resource_url": "https://api.discogs.com/artists/2239634"
+    },
+    {
+      "name": "Julian Burg",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Additional Engineering]",
+      "tracks": "C2",
+      "id": 3636461,
+      "resource_url": "https://api.discogs.com/artists/3636461"
+    },
+    {
+      "name": "Andy Zisakis",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant Engineer]",
+      "tracks": "C4",
+      "id": 1921006,
+      "resource_url": "https://api.discogs.com/artists/1921006"
+    },
+    {
+      "name": "Vira Byramji",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant Engineer]",
+      "tracks": "D3",
+      "id": 3869485,
+      "resource_url": "https://api.discogs.com/artists/3869485"
+    },
+    {
+      "name": "Phil Joly",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Mix Engineer]",
+      "tracks": "D3",
+      "id": 2024690,
+      "resource_url": "https://api.discogs.com/artists/2024690"
+    },
+    {
+      "name": "Phil Joly",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Tracking Engineer]",
+      "tracks": "D3",
+      "id": 2024690,
+      "resource_url": "https://api.discogs.com/artists/2024690"
+    },
+    {
+      "name": "Kieron Menzies",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Vocals Engineered By]",
+      "tracks": "B3, D2",
+      "id": 410860,
+      "resource_url": "https://api.discogs.com/artists/410860"
+    },
+    {
+      "name": "John Davis (4)",
+      "anv": "",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 366507,
+      "resource_url": "https://api.discogs.com/artists/366507"
+    },
+    {
+      "name": "Ben Mawson",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 2770243,
+      "resource_url": "https://api.discogs.com/artists/2770243"
+    },
+    {
+      "name": "Ed Millett",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 603876,
+      "resource_url": "https://api.discogs.com/artists/603876"
+    },
+    {
+      "name": "Bob Ludwig",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "B2",
+      "id": 271098,
+      "resource_url": "https://api.discogs.com/artists/271098"
+    },
+    {
+      "name": "John Davis (4)",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "A1 to  B1, B3 to C4, D2 to D4",
+      "id": 366507,
+      "resource_url": "https://api.discogs.com/artists/366507"
+    },
+    {
+      "name": "Collin Dupuis",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "A2, D4",
+      "id": 597684,
+      "resource_url": "https://api.discogs.com/artists/597684"
+    },
+    {
+      "name": "Dan Auerbach",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "A2, D4",
+      "id": 266197,
+      "resource_url": "https://api.discogs.com/artists/266197"
+    },
+    {
+      "name": "Greg Kurstin",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "C2",
+      "id": 277673,
+      "resource_url": "https://api.discogs.com/artists/277673"
+    },
+    {
+      "name": "Robert Orton",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "A1, A3, B1, B3, C1, C3 to D2",
+      "id": 110365,
+      "resource_url": "https://api.discogs.com/artists/110365"
+    },
+    {
+      "name": "Phil Joly",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By [Mix Engineer]",
+      "tracks": "D3",
+      "id": 2024690,
+      "resource_url": "https://api.discogs.com/artists/2024690"
+    },
+    {
+      "name": "Neil Krug",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 2321540,
+      "resource_url": "https://api.discogs.com/artists/2321540"
+    },
+    {
+      "name": "Blake Stranathan",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "C1",
+      "id": 3869486,
+      "resource_url": "https://api.discogs.com/artists/3869486"
+    },
+    {
+      "name": "Dan Auerbach",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "A1 to B3, C3, D1, D4",
+      "id": 266197,
+      "resource_url": "https://api.discogs.com/artists/266197"
+    },
+    {
+      "name": "Dan Heath",
+      "anv": "Daniel Heath",
+      "join": "",
+      "role": "Producer",
+      "tracks": "C4",
+      "id": 2462249,
+      "resource_url": "https://api.discogs.com/artists/2462249"
+    },
+    {
+      "name": "Greg Kurstin",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "C2",
+      "id": 277673,
+      "resource_url": "https://api.discogs.com/artists/277673"
+    },
+    {
+      "name": "Lana Del Rey",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "C1, D3",
+      "id": 2445772,
+      "resource_url": "https://api.discogs.com/artists/2445772"
+    },
+    {
+      "name": "Lee Foster (3)",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "C1, D3",
+      "id": 3869487,
+      "resource_url": "https://api.discogs.com/artists/3869487"
+    },
+    {
+      "name": "Paul Epworth",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "D2",
+      "id": 260950,
+      "resource_url": "https://api.discogs.com/artists/260950"
+    },
+    {
+      "name": "Rick Nowels",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "D3",
+      "id": 67614,
+      "resource_url": "https://api.discogs.com/artists/67614"
+    },
+    {
+      "name": "Rick Nowels",
+      "anv": "",
+      "join": "",
+      "role": "Producer [Vocals Produced By]",
+      "tracks": "B3, D2",
+      "id": 67614,
+      "resource_url": "https://api.discogs.com/artists/67614"
+    },
+    {
+      "name": "Lana Del Rey",
+      "anv": "",
+      "join": "",
+      "role": "Vocals",
+      "tracks": "",
+      "id": 2445772,
+      "resource_url": "https://api.discogs.com/artists/2445772"
+    },
+    {
+      "name": "Barrie O'Neill",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "B1",
+      "id": 3870704,
+      "resource_url": "https://api.discogs.com/artists/3870704"
+    },
+    {
+      "name": "Blake Stranathan",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A1, C1",
+      "id": 3869486,
+      "resource_url": "https://api.discogs.com/artists/3869486"
+    },
+    {
+      "name": "Dan Auerbach",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "D4",
+      "id": 266197,
+      "resource_url": "https://api.discogs.com/artists/266197"
+    },
+    {
+      "name": "Dan Heath",
+      "anv": "Daniel Heath",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A2, C3, C4",
+      "id": 2462249,
+      "resource_url": "https://api.discogs.com/artists/2462249"
+    },
+    {
+      "name": "Greg Kurstin",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "C2",
+      "id": 277673,
+      "resource_url": "https://api.discogs.com/artists/277673"
+    },
+    {
+      "name": "Harmony Korine",
+      "anv": "Harmony Corrine",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "D4",
+      "id": 254228,
+      "resource_url": "https://api.discogs.com/artists/254228"
+    },
+    {
+      "name": "Jessie Mae Robinson",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "D1",
+      "id": 512890,
+      "resource_url": "https://api.discogs.com/artists/512890"
+    },
+    {
+      "name": "Lana Del Rey",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A1 to C4, D2 to D4",
+      "id": 2445772,
+      "resource_url": "https://api.discogs.com/artists/2445772"
+    },
+    {
+      "name": "Rick Nowels",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A3, B2, B3, D2, D3",
+      "id": 67614,
+      "resource_url": "https://api.discogs.com/artists/67614"
+    },
+    {
+      "name": "Robbie Fitzsimmons",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "C4",
+      "id": 3870705,
+      "resource_url": "https://api.discogs.com/artists/3870705"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/KemiCJGxZFgdN8Xl7NcE6sluCpZIF-IpPAqsok3zkMU/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/My00MjU1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/KemiCJGxZFgdN8Xl7NcE6sluCpZIF-IpPAqsok3zkMU/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/My00MjU1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/4sb2ed4cB3GWmsyePU1jwGCyFKh4G7qeoja8cVacSh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/My00MjU1LmpwZWc.jpeg",
+      "width": 589,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/mdDjUxtA3NJRKWH7viv9fZBLDgbfbn1hsVqRI-LF5hg/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/NC0zNTg4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/mdDjUxtA3NJRKWH7viv9fZBLDgbfbn1hsVqRI-LF5hg/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/NC0zNTg4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/Nga8CXA2GunaYHA0l_XxuNBr8Y107kvP30jZTQIoFQc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/NC0zNTg4LmpwZWc.jpeg",
+      "width": 600,
+      "height": 295
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/IJ95CduUXFFGEleXMK435GvfW0536kW82PKt0A22FBY/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/NC02OTA0LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/IJ95CduUXFFGEleXMK435GvfW0536kW82PKt0A22FBY/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/NC02OTA0LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/C3qp1ANVhmdPvTwTQklehOHLbuVm3oboV8MkQ6fFNbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/NC02OTA0LmpwZWc.jpeg",
+      "width": 590,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/jBEiftD9I180en5IYe7-879992d_NW1T0kfzd_7fgS0/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/Ny01Mjk2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/jBEiftD9I180en5IYe7-879992d_NW1T0kfzd_7fgS0/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/Ny01Mjk2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/-n1_vwqXtXePGtlVL07aL3X_eM6MXpGvPeUiuHy_KzA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/Ny01Mjk2LmpwZWc.jpeg",
+      "width": 585,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/_YgCmuDCjvVrvuxyHRecT3DC-frvfQ1FbS8AAhMjdgY/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/Ny05MjYyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/_YgCmuDCjvVrvuxyHRecT3DC-frvfQ1FbS8AAhMjdgY/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/Ny05MjYyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/HH8taC_7irP_r6tIU4T2imkd7mNHoo_Wr998URA_23g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/Ny05MjYyLmpwZWc.jpeg",
+      "width": 589,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/aVYV6vqalQXUAQHhTJv-uXjjQJDiGKfTlpI8-vH1eV0/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/OC04MzkyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/aVYV6vqalQXUAQHhTJv-uXjjQJDiGKfTlpI8-vH1eV0/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/OC04MzkyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/JF3K44NgMHgiy8nhgRuFbkIXrLJyuk3LHZYROOo1dts/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/OC04MzkyLmpwZWc.jpeg",
+      "width": 586,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/_2y_-ySq3rd9QyGxIKg2JcROMwLiSbNWT2h7ZoUGWDg/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/OS04OTcxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/_2y_-ySq3rd9QyGxIKg2JcROMwLiSbNWT2h7ZoUGWDg/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/OS04OTcxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/DHkJjrg2istKgybcgSl5cmjvDEcPKIFYo5hjyzSo8JI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/OS04OTcxLmpwZWc.jpeg",
+      "width": 586,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ZmQIhWSkxbSyyzoaJpUsKTEod05PmzDB4j64Cuz4rwk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/NS05NDAyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/ZmQIhWSkxbSyyzoaJpUsKTEod05PmzDB4j64Cuz4rwk/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/NS05NDAyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/Xt3sIyBivfLetisJWQlCR9iM9gvWmKjWtRD0bmoM808/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/NS05NDAyLmpwZWc.jpeg",
+      "width": 600,
+      "height": 591
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/exPrM-0QJ5n_Whq88bnNGeOempxIO36hhoqeGluZWak/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/NS00NDQxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/exPrM-0QJ5n_Whq88bnNGeOempxIO36hhoqeGluZWak/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/NS00NDQxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/-VT7pchxn9veCR3ihSFKN1AupeW_fDLxpeucwNPm20A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/NS00NDQxLmpwZWc.jpeg",
+      "width": 600,
+      "height": 569
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/R3UEzGkZ0Rp5N5_sZn_hp1ZC1VjpddM1Rezr9LKfF28/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/Ni01Mjc2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/R3UEzGkZ0Rp5N5_sZn_hp1ZC1VjpddM1Rezr9LKfF28/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/Ni01Mjc2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/rTlwS5s_DggqxpxRf0Hezn9Q41rkae0G2Slbqn8OX6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/Ni01Mjc2LmpwZWc.jpeg",
+      "width": 600,
+      "height": 586
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/A55bjuw9rjMKYRYUbfLgeon902p78r6NKgdo03vm_M0/rs:fit/g:sm/q:90/h:568/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/Ni0xOTgzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/A55bjuw9rjMKYRYUbfLgeon902p78r6NKgdo03vm_M0/rs:fit/g:sm/q:90/h:568/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/Ni0xOTgzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/QiVo7OVK_oQVT5VMznBHzghJDJeoAaa2QxuPZ-sFhB8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/Ni0xOTgzLmpwZWc.jpeg",
+      "width": 600,
+      "height": 568
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/oySJRhQPLjyzn7MkDz2bJNYlpJJjsErFghRuXAh0oOs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTczNDQ0Mzgx/My0yNzI5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/oySJRhQPLjyzn7MkDz2bJNYlpJJjsErFghRuXAh0oOs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTczNDQ0Mzgx/My0yNzI5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/BswtCku9i_zN_RMPHezEsLlfURAeUne8A6EPOPR-mvU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTczNDQ0Mzgx/My0yNzI5LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/2cfPfYQMmFt1_5d-XTqTy9pB5C7enCycfPE3dmeTri0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTQ1OTM1NzQ2/Mi05MjQ4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/2cfPfYQMmFt1_5d-XTqTy9pB5C7enCycfPE3dmeTri0/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTQ1OTM1NzQ2/Mi05MjQ4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/DOVWjhjmLYFFucsRXmuo6Vs3BCuG8kYnE7VQaFfqFHc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTQ1OTM1NzQ2/Mi05MjQ4LmpwZWc.jpeg",
+      "width": 600,
+      "height": 592
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/cquFzHlOFDffc23YOLb_vxfnkZ2lTxNnVLmKQ7enNSs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTczNDQ0Mzky/Ny03OTc2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/cquFzHlOFDffc23YOLb_vxfnkZ2lTxNnVLmKQ7enNSs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTczNDQ0Mzky/Ny03OTc2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/MxRww7NTsCubYRvo5dF3ulR7tpnilhexfY82SZcN_Bk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTczNDQ0Mzky/Ny03OTc2LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/yaNOqouTyqOfytzoGBTMrVO5D6d8NVv6QHEr3aUF9Oo/rs:fit/g:sm/q:90/h:241/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTczNDQ0NDQw/MS00NDAwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/yaNOqouTyqOfytzoGBTMrVO5D6d8NVv6QHEr3aUF9Oo/rs:fit/g:sm/q:90/h:241/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTczNDQ0NDQw/MS00NDAwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/tfmBSJ2GNJRkbTYfNtn2IE9tLeg97VdlEIvutfudxFc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTczNDQ0NDQw/MS00NDAwLmpwZWc.jpeg",
+      "width": 600,
+      "height": 241
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/V2th0CegBkgW886z1JbDARueioMN28JkVSv_jXavMfI/rs:fit/g:sm/q:90/h:474/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/OS0zMDA3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/V2th0CegBkgW886z1JbDARueioMN28JkVSv_jXavMfI/rs:fit/g:sm/q:90/h:474/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/OS0zMDA3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/UrhpkxApddM01lwsSWVJVX8QKSW7fPMhD3XbN6e1nR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/OS0zMDA3LmpwZWc.jpeg",
+      "width": 600,
+      "height": 474
+    }
+  ],
+  "thumb": "https://i.discogs.com/4sb2ed4cB3GWmsyePU1jwGCyFKh4G7qeoja8cVacSh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4MDU5/NjUtMTYzNzA4MDU3/My00MjU1LmpwZWc.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

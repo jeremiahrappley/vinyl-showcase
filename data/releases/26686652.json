@@ -1,0 +1,2163 @@
+{
+  "id": 26686652,
+  "status": "Accepted",
+  "year": 2023,
+  "resource_url": "https://api.discogs.com/releases/26686652",
+  "uri": "https://www.discogs.com/release/26686652-Rihanna-A-Girl-Like-Me",
+  "artists": [
+    {
+      "name": "Rihanna",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 321128,
+      "resource_url": "https://api.discogs.com/artists/321128",
+      "thumbnail_url": "https://i.discogs.com/TCuNTls49Gi4KG2y5-ZmMLOkiEHeX29kpHW7_vWJ1MM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMyMTEy/OC0xNzYwNDgxNzY0/LTYyNjguanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Rihanna",
+  "labels": [
+    {
+      "name": "Def Jam Recordings",
+      "catno": "00602498798980",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 4241,
+      "resource_url": "https://api.discogs.com/labels/4241",
+      "thumbnail_url": "https://i.discogs.com/zueTHMMGjUzQWjoHJgHWCKAjf4hiKsUjdiYuj4mXCbs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQyNDEt/MTYwNDY3ODAzMi0y/NzA3LnBuZw.jpeg"
+    },
+    {
+      "name": "SRP Records",
+      "catno": "00602498798980",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 118632,
+      "resource_url": "https://api.discogs.com/labels/118632",
+      "thumbnail_url": "https://i.discogs.com/eth1VkpR4a1mbQb0HuJb9sGGd-rP0Mvy77-PooQHv-A/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExODYz/Mi0xNTAzNDE1NDM3/LTE5MTkucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Barmitzvah Hall Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 405886,
+      "resource_url": "https://api.discogs.com/labels/405886"
+    },
+    {
+      "name": "The Loft Recording Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 391293,
+      "resource_url": "https://api.discogs.com/labels/391293",
+      "thumbnail_url": "https://i.discogs.com/gUIRE_62hPHDviJevZXv03znUreHEq2jEwRRbnO1lKA/rs:fit/g:sm/q:90/h:83/w:523/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM5MTI5/My0xMzQ0OTgwNjQ1/LTMzMDUuanBlZw.jpeg"
+    },
+    {
+      "name": "Blue Wave Recording Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 273049,
+      "resource_url": "https://api.discogs.com/labels/273049",
+      "thumbnail_url": "https://i.discogs.com/-cFSXx3X5RY6EzTHoBr6mfFwDLhuQDZgJel2W5fr_1E/rs:fit/g:sm/q:90/h:221/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MzA0/OS0xMzk5OTU0OTgz/LTM0NDUuanBlZw.jpeg"
+    },
+    {
+      "name": "Battery Studios, New York",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 279879,
+      "resource_url": "https://api.discogs.com/labels/279879",
+      "thumbnail_url": "https://i.discogs.com/8QfRWR_d8qR8XHwi2tZRhkuRUw8s1Iym7PTQ4vinG4I/rs:fit/g:sm/q:90/h:178/w:252/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3OTg3/OS0xMzYyNTIwNDgy/LTMzMzguanBlZw.jpeg"
+    },
+    {
+      "name": "Avatar Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 264960,
+      "resource_url": "https://api.discogs.com/labels/264960",
+      "thumbnail_url": "https://i.discogs.com/FSSqGZqI2aRCmV28px3rRNN8C9AyOHftEF6q_Kg7v94/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDk2/MC0xMzUwMTA4NTA1/LTkxNDYuanBlZw.jpeg"
+    },
+    {
+      "name": "Digital Insight Recording Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 404635,
+      "resource_url": "https://api.discogs.com/labels/404635",
+      "thumbnail_url": "https://i.discogs.com/7-Xpj50jf2pLsOudyo03yRcaiCAksCTAteTI4MLhkjA/rs:fit/g:sm/q:90/h:150/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQwNDYz/NS0xNTE5MDI4NTkw/LTM2MzEuanBlZw.jpeg"
+    },
+    {
+      "name": "Hinge Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 321595,
+      "resource_url": "https://api.discogs.com/labels/321595",
+      "thumbnail_url": "https://i.discogs.com/UvOO1tSrJk8K0a9speu-n_g_yW7f_rHWiHVYggyGQYI/rs:fit/g:sm/q:90/h:386/w:464/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMyMTU5/NS0xMzI4NDU3MjIz/LmpwZWc.jpeg"
+    },
+    {
+      "name": "2 Hard Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 283258,
+      "resource_url": "https://api.discogs.com/labels/283258"
+    },
+    {
+      "name": "Conway Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 265937,
+      "resource_url": "https://api.discogs.com/labels/265937",
+      "thumbnail_url": "https://i.discogs.com/yH8pXOLciN257RutJRe8Zk3ogg-Rd-ER5dMZsM1atsg/rs:fit/g:sm/q:90/h:243/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTkz/Ny0xNDQ4ODkxNDU3/LTIzMzAuanBlZw.jpeg"
+    },
+    {
+      "name": "Record Plant, Los Angeles",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 304319,
+      "resource_url": "https://api.discogs.com/labels/304319",
+      "thumbnail_url": "https://i.discogs.com/LLydeqd2WB6jXG6OABBkFMMrbbqIdDVIpSzaaYGD1qY/rs:fit/g:sm/q:90/h:252/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwNDMx/OS0xNjQ1MjMzMjE0/LTkxODcuanBlZw.jpeg"
+    },
+    {
+      "name": "Sony Music Studios, New York City",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 295805,
+      "resource_url": "https://api.discogs.com/labels/295805",
+      "thumbnail_url": "https://i.discogs.com/q18s2qoxIXMiPjV4KCaHpQWHIg26Ic0KZBzaWB-SALg/rs:fit/g:sm/q:90/h:500/w:375/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5NTgw/NS0xMzUyODUyOTk3/LTI4NDguanBlZw.jpeg"
+    },
+    {
+      "name": "Silent Sound Studios",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 307351,
+      "resource_url": "https://api.discogs.com/labels/307351",
+      "thumbnail_url": "https://i.discogs.com/7dGexe2t2dihBdknIOPPCZJmHSD1asvlBLLq7Le54po/rs:fit/g:sm/q:90/h:382/w:478/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwNzM1/MS0xNjQxNzkwMDMy/LTI3NTUuanBlZw.jpeg"
+    },
+    {
+      "name": "The Loft Recording Studios",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 391293,
+      "resource_url": "https://api.discogs.com/labels/391293",
+      "thumbnail_url": "https://i.discogs.com/gUIRE_62hPHDviJevZXv03znUreHEq2jEwRRbnO1lKA/rs:fit/g:sm/q:90/h:83/w:523/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM5MTI5/My0xMzQ0OTgwNjQ1/LTMzMDUuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 732,
+    "want": 76,
+    "rating": {
+      "count": 52,
+      "average": 4.65
+    },
+    "submitter": {
+      "username": "PokemonBlueVersion",
+      "resource_url": "https://api.discogs.com/users/PokemonBlueVersion"
+    },
+    "contributors": [
+      {
+        "username": "PokemonBlueVersion",
+        "resource_url": "https://api.discogs.com/users/PokemonBlueVersion"
+      },
+      {
+        "username": "vinylmaddy",
+        "resource_url": "https://api.discogs.com/users/vinylmaddy"
+      },
+      {
+        "username": "Britney-Spears",
+        "resource_url": "https://api.discogs.com/users/Britney-Spears"
+      },
+      {
+        "username": "donut_borsch",
+        "resource_url": "https://api.discogs.com/users/donut_borsch"
+      },
+      {
+        "username": "indievynl",
+        "resource_url": "https://api.discogs.com/users/indievynl"
+      },
+      {
+        "username": "hip-hop-head",
+        "resource_url": "https://api.discogs.com/users/hip-hop-head"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2023-04-07T20:38:40-07:00",
+  "date_changed": "2025-07-18T12:41:54-07:00",
+  "num_for_sale": 24,
+  "lowest_price": 10.82,
+  "master_id": 20320,
+  "master_url": "https://api.discogs.com/masters/20320",
+  "title": "A Girl Like Me",
+  "country": "USA & Canada",
+  "released": "2023",
+  "notes": "Pressed on two black 180 gram discs, Made in Canada sticker. Includes track information insert.",
+  "released_formatted": "2023",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 0249879898 0"
+    },
+    {
+      "type": "Barcode",
+      "value": "602498798980",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "10-95558",
+      "description": "Stamped (All Sides)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B000616501-A 245309E1/A",
+      "description": "Stamped (Disc One, Side A)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B000616501-B 245309E2/B",
+      "description": "Stamped (Disc One, Side B)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B000616501-C 245309E3/A",
+      "description": "Stamped (Disc Two, Side A)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B000616501-D 245309E4/B",
+      "description": "Stamped (Disc Two, Side B)"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=OVFcaZoaJbM",
+      "title": "Rihanna- Who Ya Gonna Run To? (2006)",
+      "description": "This song (written by Carl Sturken, Evan Rogers & Robyn Fenty) was released on Japanese Editions of her 2nd album: \"A Girl Like Me\" (track 14) :)",
+      "duration": 251,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5K1t6DQXQeA",
+      "title": "Rihanna- Coulda Been The One (2006)",
+      "description": "This song (written by Carl Sturken & Evan Rogers) was released on Japanese Editions of her 2nd album: \"A Girl Like Me\" (track 16) :)",
+      "duration": 227,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=35ATgSF2cQw",
+      "title": "Rihanna- Hypnotized (2005)",
+      "description": "This song (written by Carl Sturken, Evan Rogers & Robyn Fenty) was released on Japanese Editions of her debut album: \"Music Of The Sun\" (track 15) :)",
+      "duration": 265,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=rp4UwPZfRis",
+      "title": "Rihanna - Unfaithful (Official Music Video)",
+      "description": "REMASTERED IN HD!\nGet Rihanna’s eighth studio album ANTI now:\nDownload on TIDAL: http://smarturl.it/downloadANTI\nStream on TIDAL: http://smarturl.it/streamANTIdlx\nDownload on iTunes: http://smarturl.it/dlxANTI\nDownload on Google Play: http://smarturl.it/A",
+      "duration": 297,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=IXmF4GbA86E",
+      "title": "Rihanna - SOS (Official Music Video)",
+      "description": "REMASTERED IN HD!\nGet Rihanna’s eighth studio album ANTI now:\nDownload on TIDAL: http://smarturl.it/downloadANTI\nStream on TIDAL: http://smarturl.it/streamANTIdlx\nDownload on iTunes: http://smarturl.it/dlxANTI\nDownload on Google Play: http://smarturl.it/A",
+      "duration": 242,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=mSvYu5204ls",
+      "title": "P.S. (I'm Still Not Over You)",
+      "description": "Provided to YouTube by Universal Music Group\n\nP.S. (I'm Still Not Over You) · Rihanna\n\nA Girl Like Me\n\n℗ 2006 Def Jam Recordings, a division of UMG Recordings, Inc.\n\nReleased on: 2006-01-01\n\nProducer, Composer Lyricist: Evan Rogers\nComposer Lyricist, Prod",
+      "duration": 250,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=QlMfkx0r55A",
+      "title": "Rihanna - A Girl Like Me (Original)",
+      "description": "Rihanna - A Girl Like Me from A Girl Like Me",
+      "duration": 258,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=aFB9hl_iaQQ",
+      "title": "Rihanna - A Million Miles Away (Original)",
+      "description": "Rihanna - A Million Miles Away from A Girl Like Me",
+      "duration": 252,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=o9EHxH-_urw",
+      "title": "Million Miles Away by Rihanna",
+      "description": "music vids of rihanna's million miles one of my most fave song. Love Rihanna",
+      "duration": 252,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=pgfay7NtbSg",
+      "title": "Rihanna - A Girl Like Me Album Comercial",
+      "description": "The promotional Comercial for Rihanna's second album \"A Girl Like Me\"\r\n\r\ncredit // www.oh-rihanna.com",
+      "duration": 28,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=gpTLF6g0Dms",
+      "title": "Rihanna   A Girl Like Me Album Comercial",
+      "description": "A Girl Like Me is the second studio album by singer Rihanna. It was released by Def Jam Recordings on April 19, 2006 in Japan, on April 24 in the UK and April 25 in the United States.",
+      "duration": 28,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Hip Hop",
+    "Reggae",
+    "Pop"
+  ],
+  "styles": [
+    "Progressive House",
+    "Electro",
+    "Reggae-Pop",
+    "Ballad",
+    "Contemporary R&B"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "SOS",
+      "extraartists": [
+        {
+          "name": "Evan Rogers",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 142012,
+          "resource_url": "https://api.discogs.com/artists/142012"
+        },
+        {
+          "name": "Rob Skipworth",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Mix]",
+          "tracks": "",
+          "id": 496015,
+          "resource_url": "https://api.discogs.com/artists/496015"
+        },
+        {
+          "name": "Jonathan \"J.R.\" Rotem",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 283029,
+          "resource_url": "https://api.discogs.com/artists/283029"
+        },
+        {
+          "name": "Jonathan \"J.R.\" Rotem",
+          "anv": "Jonathan Rotem",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 283029,
+          "resource_url": "https://api.discogs.com/artists/283029"
+        },
+        {
+          "name": "Evan Kidd Bogart",
+          "anv": "E. Kidd Bogart",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 933563,
+          "resource_url": "https://api.discogs.com/artists/933563"
+        },
+        {
+          "name": "Jonathan \"J.R.\" Rotem",
+          "anv": "J. Rotem",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 283029,
+          "resource_url": "https://api.discogs.com/artists/283029"
+        },
+        {
+          "name": "Ed Cobb",
+          "anv": "E. Cobb",
+          "join": "",
+          "role": "Written-By [Excerpts]",
+          "tracks": "",
+          "id": 262947,
+          "resource_url": "https://api.discogs.com/artists/262947"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Kisses Don't Lie",
+      "extraartists": [
+        {
+          "name": "Evan Rogers",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 142012,
+          "resource_url": "https://api.discogs.com/artists/142012"
+        },
+        {
+          "name": "Carl Sturken",
+          "anv": "",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 142013,
+          "resource_url": "https://api.discogs.com/artists/142013"
+        },
+        {
+          "name": "Carl Sturken",
+          "anv": "C. Sturken",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 142013,
+          "resource_url": "https://api.discogs.com/artists/142013"
+        },
+        {
+          "name": "Evan Rogers",
+          "anv": "E. Rogers",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 142012,
+          "resource_url": "https://api.discogs.com/artists/142012"
+        },
+        {
+          "name": "Robyn Fenty",
+          "anv": "R. Fenty",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1986565,
+          "resource_url": "https://api.discogs.com/artists/1986565"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Unfaithful",
+      "extraartists": [
+        {
+          "name": "Rob Mounsey",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [Strings], Conductor",
+          "tracks": "",
+          "id": 253349,
+          "resource_url": "https://api.discogs.com/artists/253349"
+        },
+        {
+          "name": "John Beal",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 307621,
+          "resource_url": "https://api.discogs.com/artists/307621"
+        },
+        {
+          "name": "Judy Sugarman",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 516352,
+          "resource_url": "https://api.discogs.com/artists/516352"
+        },
+        {
+          "name": "Eugene Briskin",
+          "anv": "",
+          "join": "",
+          "role": "Cello",
+          "tracks": "",
+          "id": 516356,
+          "resource_url": "https://api.discogs.com/artists/516356"
+        },
+        {
+          "name": "Eugene Moye",
+          "anv": "Gene Moy",
+          "join": "",
+          "role": "Cello",
+          "tracks": "",
+          "id": 394615,
+          "resource_url": "https://api.discogs.com/artists/394615"
+        },
+        {
+          "name": "Richard Locker",
+          "anv": "",
+          "join": "",
+          "role": "Cello",
+          "tracks": "",
+          "id": 211172,
+          "resource_url": "https://api.discogs.com/artists/211172"
+        },
+        {
+          "name": "Ann Leathers",
+          "anv": "",
+          "join": "",
+          "role": "Concertmaster, Violin",
+          "tracks": "",
+          "id": 328534,
+          "resource_url": "https://api.discogs.com/artists/328534"
+        },
+        {
+          "name": "Debbie Mounsey",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Assistant]",
+          "tracks": "",
+          "id": 516362,
+          "resource_url": "https://api.discogs.com/artists/516362"
+        },
+        {
+          "name": "Makeba Riddick",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocal]",
+          "tracks": "",
+          "id": 421324,
+          "resource_url": "https://api.discogs.com/artists/421324"
+        },
+        {
+          "name": "Malcolm Pollack",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 380219,
+          "resource_url": "https://api.discogs.com/artists/380219"
+        },
+        {
+          "name": "Mikkel S. Eriksen",
+          "anv": "Mikkel Eriksen",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 88563,
+          "resource_url": "https://api.discogs.com/artists/88563"
+        },
+        {
+          "name": "Tiger Stylz",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 516341,
+          "resource_url": "https://api.discogs.com/artists/516341"
+        },
+        {
+          "name": "Crystal Garner",
+          "anv": "",
+          "join": "",
+          "role": "Viola",
+          "tracks": "",
+          "id": 516344,
+          "resource_url": "https://api.discogs.com/artists/516344"
+        },
+        {
+          "name": "Jill Jaffe",
+          "anv": "",
+          "join": "",
+          "role": "Viola",
+          "tracks": "",
+          "id": 257373,
+          "resource_url": "https://api.discogs.com/artists/257373"
+        },
+        {
+          "name": "Mary Hammann",
+          "anv": "Mary Hamman",
+          "join": "",
+          "role": "Viola",
+          "tracks": "",
+          "id": 1025663,
+          "resource_url": "https://api.discogs.com/artists/1025663"
+        },
+        {
+          "name": "Sue Pray",
+          "anv": "",
+          "join": "",
+          "role": "Viola",
+          "tracks": "",
+          "id": 295881,
+          "resource_url": "https://api.discogs.com/artists/295881"
+        },
+        {
+          "name": "Abe Appleman",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 516349,
+          "resource_url": "https://api.discogs.com/artists/516349"
+        },
+        {
+          "name": "Cenovia Cummins",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 307548,
+          "resource_url": "https://api.discogs.com/artists/307548"
+        },
+        {
+          "name": "Jan Mullen",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 328526,
+          "resource_url": "https://api.discogs.com/artists/328526"
+        },
+        {
+          "name": "Jean Ingraham",
+          "anv": "Jeanne Ingram",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 474297,
+          "resource_url": "https://api.discogs.com/artists/474297"
+        },
+        {
+          "name": "Katherine Livolsi-Stern",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 328520,
+          "resource_url": "https://api.discogs.com/artists/328520"
+        },
+        {
+          "name": "Marti Sweet",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 363874,
+          "resource_url": "https://api.discogs.com/artists/363874"
+        },
+        {
+          "name": "Maura Giannini",
+          "anv": "Maura Gianni",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 719155,
+          "resource_url": "https://api.discogs.com/artists/719155"
+        },
+        {
+          "name": "Richard Sortomme",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 315732,
+          "resource_url": "https://api.discogs.com/artists/315732"
+        },
+        {
+          "name": "Yana Goichman",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 516357,
+          "resource_url": "https://api.discogs.com/artists/516357"
+        },
+        {
+          "name": "Yuri Vodovoz",
+          "anv": "Uri Vodovoz",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 661858,
+          "resource_url": "https://api.discogs.com/artists/661858"
+        },
+        {
+          "name": "Mikkel S. Eriksen",
+          "anv": "M. Eriksen",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 88563,
+          "resource_url": "https://api.discogs.com/artists/88563"
+        },
+        {
+          "name": "Shaffer Smith",
+          "anv": "S. Smith",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 479950,
+          "resource_url": "https://api.discogs.com/artists/479950"
+        },
+        {
+          "name": "Tor Erik Hermansen",
+          "anv": "T. Hermansen",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 390381,
+          "resource_url": "https://api.discogs.com/artists/390381"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "We Ride",
+      "extraartists": [
+        {
+          "name": "Mikkel S. Eriksen",
+          "anv": "Mikkel S. Ericksen",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 88563,
+          "resource_url": "https://api.discogs.com/artists/88563"
+        },
+        {
+          "name": "Tor Erik Hermansen",
+          "anv": "",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 390381,
+          "resource_url": "https://api.discogs.com/artists/390381"
+        },
+        {
+          "name": "James Auwarter",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 516351,
+          "resource_url": "https://api.discogs.com/artists/516351"
+        },
+        {
+          "name": "Mikkel S. Eriksen",
+          "anv": "Mikkel Ericksen",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 88563,
+          "resource_url": "https://api.discogs.com/artists/88563"
+        },
+        {
+          "name": "Makeba Riddick",
+          "anv": "M. Riddick",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 421324,
+          "resource_url": "https://api.discogs.com/artists/421324"
+        },
+        {
+          "name": "Mikkel S. Eriksen",
+          "anv": "M. Ericksen",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 88563,
+          "resource_url": "https://api.discogs.com/artists/88563"
+        },
+        {
+          "name": "Tor Erik Hermansen",
+          "anv": "T. Hermansen",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 390381,
+          "resource_url": "https://api.discogs.com/artists/390381"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Dem Haters",
+      "extraartists": [
+        {
+          "name": "Evan Rogers",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 142012,
+          "resource_url": "https://api.discogs.com/artists/142012"
+        },
+        {
+          "name": "Dwane Husbands",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 933562,
+          "resource_url": "https://api.discogs.com/artists/933562"
+        },
+        {
+          "name": "Mike City",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Mixed By",
+          "tracks": "",
+          "id": 64877,
+          "resource_url": "https://api.discogs.com/artists/64877"
+        },
+        {
+          "name": "Franny Graham",
+          "anv": "Franny \"Franchise\" Graham",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 488615,
+          "resource_url": "https://api.discogs.com/artists/488615"
+        },
+        {
+          "name": "Aion Clarke",
+          "anv": "A. Clarke",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 952085,
+          "resource_url": "https://api.discogs.com/artists/952085"
+        },
+        {
+          "name": "Carl Sturken",
+          "anv": "C. Sturken",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 142013,
+          "resource_url": "https://api.discogs.com/artists/142013"
+        },
+        {
+          "name": "Evan Rogers",
+          "anv": "E. Rogers",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 142012,
+          "resource_url": "https://api.discogs.com/artists/142012"
+        },
+        {
+          "name": "Melanie Hallim",
+          "anv": "M. Hallim",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 985638,
+          "resource_url": "https://api.discogs.com/artists/985638"
+        },
+        {
+          "name": "Michael Flowers",
+          "anv": "M. Flowers",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 823074,
+          "resource_url": "https://api.discogs.com/artists/823074"
+        },
+        {
+          "name": "Vincent Morgan",
+          "anv": "V. Morgan",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 805568,
+          "resource_url": "https://api.discogs.com/artists/805568"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Final Goodbye",
+      "extraartists": [
+        {
+          "name": "Rob Mounsey",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [Strings], Conductor",
+          "tracks": "",
+          "id": 253349,
+          "resource_url": "https://api.discogs.com/artists/253349"
+        },
+        {
+          "name": "John Beal",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 307621,
+          "resource_url": "https://api.discogs.com/artists/307621"
+        },
+        {
+          "name": "Judy Sugarman",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 516352,
+          "resource_url": "https://api.discogs.com/artists/516352"
+        },
+        {
+          "name": "Eugene Briskin",
+          "anv": "",
+          "join": "",
+          "role": "Cello",
+          "tracks": "",
+          "id": 516356,
+          "resource_url": "https://api.discogs.com/artists/516356"
+        },
+        {
+          "name": "Eugene Moye",
+          "anv": "Gene Moy",
+          "join": "",
+          "role": "Cello",
+          "tracks": "",
+          "id": 394615,
+          "resource_url": "https://api.discogs.com/artists/394615"
+        },
+        {
+          "name": "Richard Locker",
+          "anv": "",
+          "join": "",
+          "role": "Cello",
+          "tracks": "",
+          "id": 211172,
+          "resource_url": "https://api.discogs.com/artists/211172"
+        },
+        {
+          "name": "Evan Rogers",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 142012,
+          "resource_url": "https://api.discogs.com/artists/142012"
+        },
+        {
+          "name": "Carl Sturken",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer, Keyboards, Programmed By",
+          "tracks": "",
+          "id": 142013,
+          "resource_url": "https://api.discogs.com/artists/142013"
+        },
+        {
+          "name": "Ann Leathers",
+          "anv": "",
+          "join": "",
+          "role": "Concertmaster, Violin",
+          "tracks": "",
+          "id": 328534,
+          "resource_url": "https://api.discogs.com/artists/328534"
+        },
+        {
+          "name": "Luke McMaster",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 516359,
+          "resource_url": "https://api.discogs.com/artists/516359"
+        },
+        {
+          "name": "The Conglomerate",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 516342,
+          "resource_url": "https://api.discogs.com/artists/516342"
+        },
+        {
+          "name": "Debbie Mounsey",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Assistant]",
+          "tracks": "",
+          "id": 516362,
+          "resource_url": "https://api.discogs.com/artists/516362"
+        },
+        {
+          "name": "Crystal Garner",
+          "anv": "",
+          "join": "",
+          "role": "Viola",
+          "tracks": "",
+          "id": 516344,
+          "resource_url": "https://api.discogs.com/artists/516344"
+        },
+        {
+          "name": "Jill Jaffe",
+          "anv": "",
+          "join": "",
+          "role": "Viola",
+          "tracks": "",
+          "id": 257373,
+          "resource_url": "https://api.discogs.com/artists/257373"
+        },
+        {
+          "name": "Mary Hammann",
+          "anv": "Mary Hamman",
+          "join": "",
+          "role": "Viola",
+          "tracks": "",
+          "id": 1025663,
+          "resource_url": "https://api.discogs.com/artists/1025663"
+        },
+        {
+          "name": "Sue Pray",
+          "anv": "",
+          "join": "",
+          "role": "Viola",
+          "tracks": "",
+          "id": 295881,
+          "resource_url": "https://api.discogs.com/artists/295881"
+        },
+        {
+          "name": "Abe Appleman",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 516349,
+          "resource_url": "https://api.discogs.com/artists/516349"
+        },
+        {
+          "name": "Cenovia Cummins",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 307548,
+          "resource_url": "https://api.discogs.com/artists/307548"
+        },
+        {
+          "name": "Jan Mullen",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 328526,
+          "resource_url": "https://api.discogs.com/artists/328526"
+        },
+        {
+          "name": "Jean Ingraham",
+          "anv": "Jeanne Ingram",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 474297,
+          "resource_url": "https://api.discogs.com/artists/474297"
+        },
+        {
+          "name": "Katherine Livolsi-Stern",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 328520,
+          "resource_url": "https://api.discogs.com/artists/328520"
+        },
+        {
+          "name": "Marti Sweet",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 363874,
+          "resource_url": "https://api.discogs.com/artists/363874"
+        },
+        {
+          "name": "Maura Giannini",
+          "anv": "Maura Gianni",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 719155,
+          "resource_url": "https://api.discogs.com/artists/719155"
+        },
+        {
+          "name": "Richard Sortomme",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 315732,
+          "resource_url": "https://api.discogs.com/artists/315732"
+        },
+        {
+          "name": "Yana Goichman",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 516357,
+          "resource_url": "https://api.discogs.com/artists/516357"
+        },
+        {
+          "name": "Yuri Vodovoz",
+          "anv": "Uri Vodovoz",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 661858,
+          "resource_url": "https://api.discogs.com/artists/661858"
+        },
+        {
+          "name": "Charlene Gilliam",
+          "anv": "C. Gilliam",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 952082,
+          "resource_url": "https://api.discogs.com/artists/952082"
+        },
+        {
+          "name": "Curtis Richardson",
+          "anv": "C. Richardson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 474892,
+          "resource_url": "https://api.discogs.com/artists/474892"
+        },
+        {
+          "name": "Luke McMaster",
+          "anv": "L. McMaster",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 516359,
+          "resource_url": "https://api.discogs.com/artists/516359"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Break It Off",
+      "extraartists": [
+        {
+          "name": "Jeremy Harding",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 192901,
+          "resource_url": "https://api.discogs.com/artists/192901"
+        },
+        {
+          "name": "Donovan Bennett",
+          "anv": "",
+          "join": "",
+          "role": "Engineer, Mixed By",
+          "tracks": "",
+          "id": 601333,
+          "resource_url": "https://api.discogs.com/artists/601333"
+        },
+        {
+          "name": "Sean Paul",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 111502,
+          "resource_url": "https://api.discogs.com/artists/111502"
+        },
+        {
+          "name": "Donovan Bennett",
+          "anv": "Donovan \"Vendetta\" Bennett",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 601333,
+          "resource_url": "https://api.discogs.com/artists/601333"
+        },
+        {
+          "name": "Don Corleon",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 210634,
+          "resource_url": "https://api.discogs.com/artists/210634"
+        },
+        {
+          "name": "Donovan Bennett",
+          "anv": "D. Bennett",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 601333,
+          "resource_url": "https://api.discogs.com/artists/601333"
+        },
+        {
+          "name": "Kirk \"Cool Face\" Ford",
+          "anv": "K. Ford",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 387011,
+          "resource_url": "https://api.discogs.com/artists/387011"
+        },
+        {
+          "name": "Robyn Fenty",
+          "anv": "R. Fenty",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1986565,
+          "resource_url": "https://api.discogs.com/artists/1986565"
+        },
+        {
+          "name": "Sean Henriques",
+          "anv": "S. Henriques",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 244633,
+          "resource_url": "https://api.discogs.com/artists/244633"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Crazy Little Thing Called Love",
+      "extraartists": [
+        {
+          "name": "Augustus \"Gussie\" Clarke",
+          "anv": "Gussie Clarke",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 142107,
+          "resource_url": "https://api.discogs.com/artists/142107"
+        },
+        {
+          "name": "J-Status",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 374173,
+          "resource_url": "https://api.discogs.com/artists/374173"
+        },
+        {
+          "name": "Carl Sturken",
+          "anv": "",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 142013,
+          "resource_url": "https://api.discogs.com/artists/142013"
+        },
+        {
+          "name": "Andrew Barwise",
+          "anv": "A. Barwise",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 952084,
+          "resource_url": "https://api.discogs.com/artists/952084"
+        },
+        {
+          "name": "Andrew Thompson (7)",
+          "anv": "A. Thompson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 959203,
+          "resource_url": "https://api.discogs.com/artists/959203"
+        },
+        {
+          "name": "Byron Barwise",
+          "anv": "B. Barwise",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 952086,
+          "resource_url": "https://api.discogs.com/artists/952086"
+        },
+        {
+          "name": "Carl Sturken",
+          "anv": "C. Sturken",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 142013,
+          "resource_url": "https://api.discogs.com/artists/142013"
+        },
+        {
+          "name": "Dale Virgo",
+          "anv": "D. Virgo",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 952081,
+          "resource_url": "https://api.discogs.com/artists/952081"
+        },
+        {
+          "name": "Evan Rogers",
+          "anv": "E. Rogers",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 142012,
+          "resource_url": "https://api.discogs.com/artists/142012"
+        },
+        {
+          "name": "Oraine Stewart",
+          "anv": "O. Stewart",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 952083,
+          "resource_url": "https://api.discogs.com/artists/952083"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Selfish Girl",
+      "extraartists": [
+        {
+          "name": "Andy Bassford",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 367313,
+          "resource_url": "https://api.discogs.com/artists/367313"
+        },
+        {
+          "name": "Carl Sturken",
+          "anv": "",
+          "join": "",
+          "role": "Keyboards, Drum Programming",
+          "tracks": "",
+          "id": 142013,
+          "resource_url": "https://api.discogs.com/artists/142013"
+        },
+        {
+          "name": "Cedric \"Im\" Brooks",
+          "anv": "Cedric Brooks",
+          "join": "",
+          "role": "Saxophone [Tenor]",
+          "tracks": "",
+          "id": 333839,
+          "resource_url": "https://api.discogs.com/artists/333839"
+        },
+        {
+          "name": "Clark Gayton",
+          "anv": "",
+          "join": "",
+          "role": "Trombone",
+          "tracks": "",
+          "id": 24651,
+          "resource_url": "https://api.discogs.com/artists/24651"
+        },
+        {
+          "name": "Kevin Batchelor",
+          "anv": "",
+          "join": "",
+          "role": "Trumpet",
+          "tracks": "",
+          "id": 291555,
+          "resource_url": "https://api.discogs.com/artists/291555"
+        },
+        {
+          "name": "Carl Sturken",
+          "anv": "C. Sturken",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 142013,
+          "resource_url": "https://api.discogs.com/artists/142013"
+        },
+        {
+          "name": "Evan Rogers",
+          "anv": "E. Rogers",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 142012,
+          "resource_url": "https://api.discogs.com/artists/142012"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "P.S. (I'm Still Not Over You)",
+      "extraartists": [
+        {
+          "name": "Carl Sturken",
+          "anv": "",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 142013,
+          "resource_url": "https://api.discogs.com/artists/142013"
+        },
+        {
+          "name": "Carl Sturken",
+          "anv": "C. Sturken",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 142013,
+          "resource_url": "https://api.discogs.com/artists/142013"
+        },
+        {
+          "name": "Evan Rogers",
+          "anv": "E. Rogers",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 142012,
+          "resource_url": "https://api.discogs.com/artists/142012"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "A Girl Like Me",
+      "extraartists": [
+        {
+          "name": "Carl Sturken",
+          "anv": "",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 142013,
+          "resource_url": "https://api.discogs.com/artists/142013"
+        },
+        {
+          "name": "Carl Sturken",
+          "anv": "C. Sturken",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 142013,
+          "resource_url": "https://api.discogs.com/artists/142013"
+        },
+        {
+          "name": "Evan Rogers",
+          "anv": "E. Rogers",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 142012,
+          "resource_url": "https://api.discogs.com/artists/142012"
+        },
+        {
+          "name": "Robyn Fenty",
+          "anv": "R. Fenty",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1986565,
+          "resource_url": "https://api.discogs.com/artists/1986565"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "A Million Miles Away",
+      "extraartists": [
+        {
+          "name": "Rob Mounsey",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [Strings], Conductor",
+          "tracks": "",
+          "id": 253349,
+          "resource_url": "https://api.discogs.com/artists/253349"
+        },
+        {
+          "name": "John Beal",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 307621,
+          "resource_url": "https://api.discogs.com/artists/307621"
+        },
+        {
+          "name": "Judy Sugarman",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 516352,
+          "resource_url": "https://api.discogs.com/artists/516352"
+        },
+        {
+          "name": "Eugene Briskin",
+          "anv": "",
+          "join": "",
+          "role": "Cello",
+          "tracks": "",
+          "id": 516356,
+          "resource_url": "https://api.discogs.com/artists/516356"
+        },
+        {
+          "name": "Eugene Moye",
+          "anv": "Gene Moy",
+          "join": "",
+          "role": "Cello",
+          "tracks": "",
+          "id": 394615,
+          "resource_url": "https://api.discogs.com/artists/394615"
+        },
+        {
+          "name": "Richard Locker",
+          "anv": "",
+          "join": "",
+          "role": "Cello",
+          "tracks": "",
+          "id": 211172,
+          "resource_url": "https://api.discogs.com/artists/211172"
+        },
+        {
+          "name": "Ann Leathers",
+          "anv": "",
+          "join": "",
+          "role": "Concertmaster, Violin",
+          "tracks": "",
+          "id": 328534,
+          "resource_url": "https://api.discogs.com/artists/328534"
+        },
+        {
+          "name": "Ted Hemberger",
+          "anv": "",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 516353,
+          "resource_url": "https://api.discogs.com/artists/516353"
+        },
+        {
+          "name": "Carl Sturken",
+          "anv": "",
+          "join": "",
+          "role": "Piano, Guitar",
+          "tracks": "",
+          "id": 142013,
+          "resource_url": "https://api.discogs.com/artists/142013"
+        },
+        {
+          "name": "Debbie Mounsey",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Assistant]",
+          "tracks": "",
+          "id": 516362,
+          "resource_url": "https://api.discogs.com/artists/516362"
+        },
+        {
+          "name": "Crystal Garner",
+          "anv": "",
+          "join": "",
+          "role": "Viola",
+          "tracks": "",
+          "id": 516344,
+          "resource_url": "https://api.discogs.com/artists/516344"
+        },
+        {
+          "name": "Jill Jaffe",
+          "anv": "",
+          "join": "",
+          "role": "Viola",
+          "tracks": "",
+          "id": 257373,
+          "resource_url": "https://api.discogs.com/artists/257373"
+        },
+        {
+          "name": "Mary Hammann",
+          "anv": "Mary Hamman",
+          "join": "",
+          "role": "Viola",
+          "tracks": "",
+          "id": 1025663,
+          "resource_url": "https://api.discogs.com/artists/1025663"
+        },
+        {
+          "name": "Sue Pray",
+          "anv": "",
+          "join": "",
+          "role": "Viola",
+          "tracks": "",
+          "id": 295881,
+          "resource_url": "https://api.discogs.com/artists/295881"
+        },
+        {
+          "name": "Abe Appleman",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 516349,
+          "resource_url": "https://api.discogs.com/artists/516349"
+        },
+        {
+          "name": "Cenovia Cummins",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 307548,
+          "resource_url": "https://api.discogs.com/artists/307548"
+        },
+        {
+          "name": "Jan Mullen",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 328526,
+          "resource_url": "https://api.discogs.com/artists/328526"
+        },
+        {
+          "name": "Jean Ingraham",
+          "anv": "Jeanne Ingram",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 474297,
+          "resource_url": "https://api.discogs.com/artists/474297"
+        },
+        {
+          "name": "Katherine Livolsi-Stern",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 328520,
+          "resource_url": "https://api.discogs.com/artists/328520"
+        },
+        {
+          "name": "Marti Sweet",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 363874,
+          "resource_url": "https://api.discogs.com/artists/363874"
+        },
+        {
+          "name": "Maura Giannini",
+          "anv": "Maura Gianni",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 719155,
+          "resource_url": "https://api.discogs.com/artists/719155"
+        },
+        {
+          "name": "Richard Sortomme",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 315732,
+          "resource_url": "https://api.discogs.com/artists/315732"
+        },
+        {
+          "name": "Yana Goichman",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 516357,
+          "resource_url": "https://api.discogs.com/artists/516357"
+        },
+        {
+          "name": "Yuri Vodovoz",
+          "anv": "Uri Vodovoz",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 661858,
+          "resource_url": "https://api.discogs.com/artists/661858"
+        },
+        {
+          "name": "Carl Sturken",
+          "anv": "C. Sturken",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 142013,
+          "resource_url": "https://api.discogs.com/artists/142013"
+        },
+        {
+          "name": "Evan Rogers",
+          "anv": "E. Rogers",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 142012,
+          "resource_url": "https://api.discogs.com/artists/142012"
+        }
+      ],
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Jay Brown (3)",
+      "anv": "",
+      "join": "",
+      "role": "A&R",
+      "tracks": "",
+      "id": 1867004,
+      "resource_url": "https://api.discogs.com/artists/1867004"
+    },
+    {
+      "name": "Tyran \"Ty Ty\" Smith",
+      "anv": "",
+      "join": "",
+      "role": "A&R",
+      "tracks": "",
+      "id": 1931347,
+      "resource_url": "https://api.discogs.com/artists/1931347"
+    },
+    {
+      "name": "Adrienne Muhammad",
+      "anv": "Adrienne Muhammed",
+      "join": "",
+      "role": "A&R [Administration]",
+      "tracks": "",
+      "id": 409576,
+      "resource_url": "https://api.discogs.com/artists/409576"
+    },
+    {
+      "name": "Leesa D. Brunson",
+      "anv": "",
+      "join": "",
+      "role": "A&R [Operations]",
+      "tracks": "",
+      "id": 1872055,
+      "resource_url": "https://api.discogs.com/artists/1872055"
+    },
+    {
+      "name": "Alli Truch",
+      "anv": "",
+      "join": "",
+      "role": "Art Direction",
+      "tracks": "",
+      "id": 1884107,
+      "resource_url": "https://api.discogs.com/artists/1884107"
+    },
+    {
+      "name": "Nichell Delvaille",
+      "anv": "",
+      "join": "",
+      "role": "Artwork [Art Coordination]",
+      "tracks": "",
+      "id": 1861972,
+      "resource_url": "https://api.discogs.com/artists/1861972"
+    },
+    {
+      "name": "Rihanna",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "1, 2, 4 to 6, 8 to 11",
+      "id": 321128,
+      "resource_url": "https://api.discogs.com/artists/321128"
+    },
+    {
+      "name": "Valerie Wagner",
+      "anv": "",
+      "join": "",
+      "role": "Design",
+      "tracks": "",
+      "id": 1832807,
+      "resource_url": "https://api.discogs.com/artists/1832807"
+    },
+    {
+      "name": "Sam Holland",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant Recording]",
+      "tracks": "9, 10, 12",
+      "id": 516338,
+      "resource_url": "https://api.discogs.com/artists/516338"
+    },
+    {
+      "name": "The Carter Administration",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 2702599,
+      "resource_url": "https://api.discogs.com/artists/2702599"
+    },
+    {
+      "name": "Carl Sturken",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer [Co-executive, For Syndicated Rhythm Productions]",
+      "tracks": "",
+      "id": 142013,
+      "resource_url": "https://api.discogs.com/artists/142013"
+    },
+    {
+      "name": "Evan Rogers",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer [Co-executive, For Syndicated Rhythm Productions]",
+      "tracks": "",
+      "id": 142012,
+      "resource_url": "https://api.discogs.com/artists/142012"
+    },
+    {
+      "name": "Michael Mitnick",
+      "anv": "",
+      "join": "",
+      "role": "Management [Business Management]",
+      "tracks": "",
+      "id": 1641500,
+      "resource_url": "https://api.discogs.com/artists/1641500"
+    },
+    {
+      "name": "Michael Tasch",
+      "anv": "",
+      "join": "",
+      "role": "Management [Business Management]",
+      "tracks": "",
+      "id": 1641497,
+      "resource_url": "https://api.discogs.com/artists/1641497"
+    },
+    {
+      "name": "Peter Gounis",
+      "anv": "",
+      "join": "",
+      "role": "Management [Business Management]",
+      "tracks": "",
+      "id": 1641498,
+      "resource_url": "https://api.discogs.com/artists/1641498"
+    },
+    {
+      "name": "Christa Shaub",
+      "anv": "",
+      "join": "",
+      "role": "Management [For Rebel One]",
+      "tracks": "",
+      "id": 1641499,
+      "resource_url": "https://api.discogs.com/artists/1641499"
+    },
+    {
+      "name": "Marc Jordan (2)",
+      "anv": "",
+      "join": "",
+      "role": "Management [For Rebel One]",
+      "tracks": "",
+      "id": 1550530,
+      "resource_url": "https://api.discogs.com/artists/1550530"
+    },
+    {
+      "name": "Andrea Derby",
+      "anv": "",
+      "join": "",
+      "role": "Management [Production Manager For Syndicated Record Productions]",
+      "tracks": "",
+      "id": 542971,
+      "resource_url": "https://api.discogs.com/artists/542971"
+    },
+    {
+      "name": "Chris Gehringer",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 326440,
+      "resource_url": "https://api.discogs.com/artists/326440"
+    },
+    {
+      "name": "Al Hemberger",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "2, 5, 6, 8 to 12",
+      "id": 158175,
+      "resource_url": "https://api.discogs.com/artists/158175"
+    },
+    {
+      "name": "Phil Tan",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "1, 3, 4",
+      "id": 94953,
+      "resource_url": "https://api.discogs.com/artists/94953"
+    },
+    {
+      "name": "Antoinette Trotman",
+      "anv": "",
+      "join": "",
+      "role": "Other [Business Affairs]",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Heath Kudler",
+      "anv": "",
+      "join": "",
+      "role": "Other [Business Affairs]",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Ian Allen",
+      "anv": "",
+      "join": "",
+      "role": "Other [Business Affairs]",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Tippi Shorter @ Epiphany",
+      "anv": "",
+      "join": "",
+      "role": "Other [Hair]",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Evan Freifeld",
+      "anv": "",
+      "join": "",
+      "role": "Other [Legal Counsel, For Freifeld & Felcher, Llp]",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Scott Felcher",
+      "anv": "",
+      "join": "",
+      "role": "Other [Legal Counsel, For Freifeld & Felcher, Llp]",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Mylah Morales @ Blynn Group",
+      "anv": "",
+      "join": "",
+      "role": "Other [Make-up]",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Tracey Waples",
+      "anv": "",
+      "join": "",
+      "role": "Other [Marketing]",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Rob Heselden",
+      "anv": "",
+      "join": "",
+      "role": "Other [Production Assistant For Syndicated Record Productions]",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Deborah Mannisgardner For DMG Clearances, Inc",
+      "anv": "",
+      "join": "",
+      "role": "Other [Sample Clearance Agent]",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Dawn Boony-Achlito @ M M A",
+      "anv": "",
+      "join": "",
+      "role": "Other [Wardrobe Stylist]",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Nichell Delvaille",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 1861972,
+      "resource_url": "https://api.discogs.com/artists/1861972"
+    },
+    {
+      "name": "Tony Duran (2)",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 2268117,
+      "resource_url": "https://api.discogs.com/artists/2268117"
+    },
+    {
+      "name": "Carl Sturken",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "2, 8 to 12",
+      "id": 142013,
+      "resource_url": "https://api.discogs.com/artists/142013"
+    },
+    {
+      "name": "Evan Rogers",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "2, 8 to 12",
+      "id": 142012,
+      "resource_url": "https://api.discogs.com/artists/142012"
+    },
+    {
+      "name": "StarGate (2)",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "3, 4",
+      "id": 79704,
+      "resource_url": "https://api.discogs.com/artists/79704"
+    },
+    {
+      "name": "Carl Sturken",
+      "anv": "",
+      "join": "",
+      "role": "Producer [Vocal]",
+      "tracks": "1, 4, 5",
+      "id": 142013,
+      "resource_url": "https://api.discogs.com/artists/142013"
+    },
+    {
+      "name": "Evan Rogers",
+      "anv": "",
+      "join": "",
+      "role": "Producer [Vocal]",
+      "tracks": "1, 4, 5",
+      "id": 142012,
+      "resource_url": "https://api.discogs.com/artists/142012"
+    },
+    {
+      "name": "Doug Joswick",
+      "anv": "",
+      "join": "",
+      "role": "Product Manager [Package Production]",
+      "tracks": "",
+      "id": 1938756,
+      "resource_url": "https://api.discogs.com/artists/1938756"
+    },
+    {
+      "name": "Al Hemberger",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "1 to 6, 8 to 12",
+      "id": 158175,
+      "resource_url": "https://api.discogs.com/artists/158175"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/sYYeltGj4qXzOiO_m02yTdKzN8ZpYcUDjWPw2Qa92xM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg2/NjUyLTE2ODA5MjYw/NDQtNjAyMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/sYYeltGj4qXzOiO_m02yTdKzN8ZpYcUDjWPw2Qa92xM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg2/NjUyLTE2ODA5MjYw/NDQtNjAyMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/9ZMaX6kzGJG87QryOn2C7eum_3KUIHY3T3MbG50KLkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg2/NjUyLTE2ODA5MjYw/NDQtNjAyMC5qcGVn.jpeg",
+      "width": 600,
+      "height": 593
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/JWv3aNipobavBdDcmisq1LE9bybtGxlb52YV2f2qg8I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg2/NjUyLTE3NTI4Njc2/OTItMTQ4OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/JWv3aNipobavBdDcmisq1LE9bybtGxlb52YV2f2qg8I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg2/NjUyLTE3NTI4Njc2/OTItMTQ4OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/418DbfIKrwwaH_uovfwlHZ4rnwP5ygfkU9BzknJpMIM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg2/NjUyLTE3NTI4Njc2/OTItMTQ4OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/hmgw_w4wup0je13ZZ0D4VGSAYSxesUOFrRKhkIvgflU/rs:fit/g:sm/q:90/h:332/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg2/NjUyLTE3MjUzNDEz/NDYtMzY4OC5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/hmgw_w4wup0je13ZZ0D4VGSAYSxesUOFrRKhkIvgflU/rs:fit/g:sm/q:90/h:332/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg2/NjUyLTE3MjUzNDEz/NDYtMzY4OC5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/haWuEGbZhXjctQTR_C252TwaOCnY1U9I2N-cHI6cBNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg2/NjUyLTE3MjUzNDEz/NDYtMzY4OC5wbmc.jpeg",
+      "width": 600,
+      "height": 332
+    }
+  ],
+  "thumb": "https://i.discogs.com/9ZMaX6kzGJG87QryOn2C7eum_3KUIHY3T3MbG50KLkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2Njg2/NjUyLTE2ODA5MjYw/NDQtNjAyMC5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

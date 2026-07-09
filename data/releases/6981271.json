@@ -1,0 +1,1643 @@
+{
+  "id": 6981271,
+  "status": "Accepted",
+  "year": 1985,
+  "resource_url": "https://api.discogs.com/releases/6981271",
+  "uri": "https://www.discogs.com/release/6981271-Whitney-Houston-Whitney-Houston",
+  "artists": [
+    {
+      "name": "Whitney Houston",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 30542,
+      "resource_url": "https://api.discogs.com/artists/30542",
+      "thumbnail_url": "https://i.discogs.com/1hsJs_3Wzi8WI3lDopYsvlh_Y6rL8kL-Cl25RwGGYPQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMwNTQy/LTE2NTg3NTg4NDkt/NzUxMC5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "Whitney Houston",
+  "labels": [
+    {
+      "name": "Arista",
+      "catno": "AL 8-8212",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 362,
+      "resource_url": "https://api.discogs.com/labels/362",
+      "thumbnail_url": "https://i.discogs.com/LtFQ5vk9L_iX2QuscmOFE0TAcLtsQB7olAcijyQUZdA/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM2Mi0x/NTUwNzg3ODg4LTc0/ODguanBlZw.jpeg"
+    },
+    {
+      "name": "Arista",
+      "catno": "AL8-8212",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 362,
+      "resource_url": "https://api.discogs.com/labels/362",
+      "thumbnail_url": "https://i.discogs.com/LtFQ5vk9L_iX2QuscmOFE0TAcLtsQB7olAcijyQUZdA/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM2Mi0x/NTUwNzg3ODg4LTc0/ODguanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Arista Records, Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 264254,
+      "resource_url": "https://api.discogs.com/labels/264254",
+      "thumbnail_url": "https://i.discogs.com/75q_nROo1ZC2axF1w5wykMRjZvZouOKGCt_x2ieQwiA/rs:fit/g:sm/q:90/h:107/w:337/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDI1/NC0xMzcyMDQ4NTY3/LTYzMzUuanBlZw.jpeg"
+    },
+    {
+      "name": "Elektra Records, Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 573385,
+      "resource_url": "https://api.discogs.com/labels/573385"
+    },
+    {
+      "name": "Arista Records, Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 264254,
+      "resource_url": "https://api.discogs.com/labels/264254",
+      "thumbnail_url": "https://i.discogs.com/75q_nROo1ZC2axF1w5wykMRjZvZouOKGCt_x2ieQwiA/rs:fit/g:sm/q:90/h:107/w:337/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDI1/NC0xMzcyMDQ4NTY3/LTYzMzUuanBlZw.jpeg"
+    },
+    {
+      "name": "Arista Records, Inc.",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 264254,
+      "resource_url": "https://api.discogs.com/labels/264254",
+      "thumbnail_url": "https://i.discogs.com/75q_nROo1ZC2axF1w5wykMRjZvZouOKGCt_x2ieQwiA/rs:fit/g:sm/q:90/h:107/w:337/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDI1/NC0xMzcyMDQ4NTY3/LTYzMzUuanBlZw.jpeg"
+    },
+    {
+      "name": "Prince Street Productions, Inc.",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 684226,
+      "resource_url": "https://api.discogs.com/labels/684226"
+    },
+    {
+      "name": "Perfection Light Productions Inc.",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 312053,
+      "resource_url": "https://api.discogs.com/labels/312053"
+    },
+    {
+      "name": "The New Music Group",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 361623,
+      "resource_url": "https://api.discogs.com/labels/361623"
+    },
+    {
+      "name": "MCA Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 32380,
+      "resource_url": "https://api.discogs.com/labels/32380",
+      "thumbnail_url": "https://i.discogs.com/BgJe8g1C4lt21e9y8NaKFGxWw9wvKAhZIN28t-7dC1w/rs:fit/g:sm/q:90/h:155/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMyMzgw/LTE2NDYzNjMxNzAt/ODU4Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Kashif Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 279551,
+      "resource_url": "https://api.discogs.com/labels/279551"
+    },
+    {
+      "name": "Warner Brothers Music Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 972656,
+      "resource_url": "https://api.discogs.com/labels/972656"
+    },
+    {
+      "name": "Prince Street Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 281516,
+      "resource_url": "https://api.discogs.com/labels/281516"
+    },
+    {
+      "name": "Screen Gems-EMI Music Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 271521,
+      "resource_url": "https://api.discogs.com/labels/271521",
+      "thumbnail_url": "https://i.discogs.com/oNcSzXGcjlTNaA0PT09jqCMMUDwVRrFKPy15tBKIROo/rs:fit/g:sm/q:90/h:45/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MTUy/MS0xNzMxNjcwOTgz/LTQ0NjUuanBlZw.jpeg"
+    },
+    {
+      "name": "Ensign Music Corp.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 264509,
+      "resource_url": "https://api.discogs.com/labels/264509",
+      "thumbnail_url": "https://i.discogs.com/_k4JfUCmv3CeTlLeA7-yOb1lunRpN0TfqeE2QpTNYOs/rs:fit/g:sm/q:90/h:58/w:234/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDUw/OS0xNjYwNTg4MDY0/LTY5ODYucG5n.jpeg"
+    },
+    {
+      "name": "Irving Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 268364,
+      "resource_url": "https://api.discogs.com/labels/268364",
+      "thumbnail_url": "https://i.discogs.com/wV-U5F2nhxqe9IKU9O1u-kncoeRXjCmsAQ8kUBsVAmM/rs:fit/g:sm/q:90/h:193/w:511/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2ODM2/NC0xNzMyNTU0NjM2/LTc0NjcuanBlZw.jpeg"
+    },
+    {
+      "name": "Almo Music Corp.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 264350,
+      "resource_url": "https://api.discogs.com/labels/264350",
+      "thumbnail_url": "https://i.discogs.com/lE4u_Y8Die0wvJpsT8GVyyaCXsRxwP4CdVOjlgFS624/rs:fit/g:sm/q:90/h:162/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDM1/MC0xNzAyNjE3ODY5/LTQ3NDkuanBlZw.jpeg"
+    },
+    {
+      "name": "March 9 Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 312484,
+      "resource_url": "https://api.discogs.com/labels/312484"
+    },
+    {
+      "name": "April Music Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 273076,
+      "resource_url": "https://api.discogs.com/labels/273076",
+      "thumbnail_url": "https://i.discogs.com/TG1n85DEVOAK-WaD8Q3Drl0N5TNkk7QFZD9FFocrGSQ/rs:fit/g:sm/q:90/h:238/w:537/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MzA3/Ni0xNjk2MjIzMzQ4/LTE0NjkuanBlZw.jpeg"
+    },
+    {
+      "name": "And New And Used Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 302208,
+      "resource_url": "https://api.discogs.com/labels/302208"
+    },
+    {
+      "name": "Peso Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 302204,
+      "resource_url": "https://api.discogs.com/labels/302204",
+      "thumbnail_url": "https://i.discogs.com/8TOaRgj6YoVFcdY79yKQLxWJxXsjLz4yURSLgumB9HE/rs:fit/g:sm/q:90/h:93/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwMjIw/NC0xNzEyNjgxNTY0/LTc1NzYuanBlZw.jpeg"
+    },
+    {
+      "name": "Golden Torch Music Corp.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 273003,
+      "resource_url": "https://api.discogs.com/labels/273003",
+      "thumbnail_url": "https://i.discogs.com/jl6vHoEGbumD6grxeC2hkbbTIxBT8_ukvb-p1ngN0F4/rs:fit/g:sm/q:90/h:360/w:381/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MzAw/My0xNzI3MjQyNjI5/LTc4MjQuanBlZw.jpeg"
+    },
+    {
+      "name": "Gold Horizon Music Corp.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 267368,
+      "resource_url": "https://api.discogs.com/labels/267368",
+      "thumbnail_url": "https://i.discogs.com/7yPYCOmcFUgBPyu-eXXZ-KkoWzEvUojG3qTVwk4gz4c/rs:fit/g:sm/q:90/h:304/w:363/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NzM2/OC0xNzI3MjQyNzAy/LTI0NzEuanBlZw.jpeg"
+    },
+    {
+      "name": "DeCreed Music Publishing Company",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 353673,
+      "resource_url": "https://api.discogs.com/labels/353673"
+    },
+    {
+      "name": "Music Corporation Of America, Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 279549,
+      "resource_url": "https://api.discogs.com/labels/279549",
+      "thumbnail_url": "https://i.discogs.com/K0eLPq1T7sWpZkvid5XGiHg6_a2Pb-xyj37ma74-9t4/rs:fit/g:sm/q:90/h:105/w:254/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3OTU0/OS0xNjU5MjIwNTUw/LTc4MTYuanBlZw.jpeg"
+    },
+    {
+      "name": "The Mastering Lab",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 186075,
+      "resource_url": "https://api.discogs.com/labels/186075",
+      "thumbnail_url": "https://i.discogs.com/30WifI0ttd4y3IdHe_PioUXwm95y-6aQ96WO4y8F200/rs:fit/g:sm/q:90/h:280/w:274/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjA3/NS0xMzk3NjgzNjI4/LTQzODkuanBlZw.jpeg"
+    },
+    {
+      "name": "RCA Records Pressing Plant, Indianapolis",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 406973,
+      "resource_url": "https://api.discogs.com/labels/406973",
+      "thumbnail_url": "https://i.discogs.com/p_Qla4SdKYhhQnjY9s-VoLNzHOitiwfDGxLvhjBaBX0/rs:fit/g:sm/q:90/h:294/w:288/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQwNjk3/My0xNDY0MDU5OTcz/LTk3MDMuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "text": "Indianapolis Pressing"
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 7225,
+    "want": 935,
+    "rating": {
+      "count": 312,
+      "average": 4.21
+    },
+    "submitter": {
+      "username": "MusicManRecords",
+      "resource_url": "https://api.discogs.com/users/MusicManRecords"
+    },
+    "contributors": [
+      {
+        "username": "MusicManRecords",
+        "resource_url": "https://api.discogs.com/users/MusicManRecords"
+      },
+      {
+        "username": "csroper",
+        "resource_url": "https://api.discogs.com/users/csroper"
+      },
+      {
+        "username": "JoeSaul",
+        "resource_url": "https://api.discogs.com/users/JoeSaul"
+      },
+      {
+        "username": "smashdc",
+        "resource_url": "https://api.discogs.com/users/smashdc"
+      },
+      {
+        "username": "Chapp33.3",
+        "resource_url": "https://api.discogs.com/users/Chapp33.3"
+      },
+      {
+        "username": "amoebasinger",
+        "resource_url": "https://api.discogs.com/users/amoebasinger"
+      },
+      {
+        "username": "kittycollection",
+        "resource_url": "https://api.discogs.com/users/kittycollection"
+      },
+      {
+        "username": "boz1on1",
+        "resource_url": "https://api.discogs.com/users/boz1on1"
+      },
+      {
+        "username": "plasticshuttle",
+        "resource_url": "https://api.discogs.com/users/plasticshuttle"
+      },
+      {
+        "username": "kassiem90210",
+        "resource_url": "https://api.discogs.com/users/kassiem90210"
+      },
+      {
+        "username": "Uniques_Records",
+        "resource_url": "https://api.discogs.com/users/Uniques_Records"
+      },
+      {
+        "username": "djtarzanboy",
+        "resource_url": "https://api.discogs.com/users/djtarzanboy"
+      },
+      {
+        "username": "wadcorp",
+        "resource_url": "https://api.discogs.com/users/wadcorp"
+      },
+      {
+        "username": "joeybowie1980",
+        "resource_url": "https://api.discogs.com/users/joeybowie1980"
+      },
+      {
+        "username": "RPFiller",
+        "resource_url": "https://api.discogs.com/users/RPFiller"
+      },
+      {
+        "username": "katomako",
+        "resource_url": "https://api.discogs.com/users/katomako"
+      },
+      {
+        "username": "DisneyDjMike",
+        "resource_url": "https://api.discogs.com/users/DisneyDjMike"
+      },
+      {
+        "username": "TReimer",
+        "resource_url": "https://api.discogs.com/users/TReimer"
+      },
+      {
+        "username": "1st_Of_A_Kind",
+        "resource_url": "https://api.discogs.com/users/1st_Of_A_Kind"
+      },
+      {
+        "username": "Derekjmn",
+        "resource_url": "https://api.discogs.com/users/Derekjmn"
+      },
+      {
+        "username": "bobEE",
+        "resource_url": "https://api.discogs.com/users/bobEE"
+      },
+      {
+        "username": "the_mean",
+        "resource_url": "https://api.discogs.com/users/the_mean"
+      },
+      {
+        "username": "MaximusMagnus",
+        "resource_url": "https://api.discogs.com/users/MaximusMagnus"
+      },
+      {
+        "username": "arsenal1990",
+        "resource_url": "https://api.discogs.com/users/arsenal1990"
+      },
+      {
+        "username": "JumpJumpMusic",
+        "resource_url": "https://api.discogs.com/users/JumpJumpMusic"
+      },
+      {
+        "username": "christofchristof",
+        "resource_url": "https://api.discogs.com/users/christofchristof"
+      },
+      {
+        "username": "mpoloukhine",
+        "resource_url": "https://api.discogs.com/users/mpoloukhine"
+      },
+      {
+        "username": "holycowrecords",
+        "resource_url": "https://api.discogs.com/users/holycowrecords"
+      },
+      {
+        "username": "davidfiskum",
+        "resource_url": "https://api.discogs.com/users/davidfiskum"
+      },
+      {
+        "username": "josesgaraje",
+        "resource_url": "https://api.discogs.com/users/josesgaraje"
+      },
+      {
+        "username": "Sotos_Scott",
+        "resource_url": "https://api.discogs.com/users/Sotos_Scott"
+      },
+      {
+        "username": "ardentwave",
+        "resource_url": "https://api.discogs.com/users/ardentwave"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2015-05-06T08:01:16-07:00",
+  "date_changed": "2026-04-08T23:23:58-07:00",
+  "num_for_sale": 153,
+  "lowest_price": 2.39,
+  "master_id": 51607,
+  "master_url": "https://api.discogs.com/masters/51607",
+  "title": "Whitney Houston",
+  "country": "US",
+  "released": "1985",
+  "notes": "This is the original version that has \"Greatest Love Of All\" with a track time of 4:55.\nA very similar Indianapolis pressing, [r=458608], has different Side B labels with B4 as 4:49.\n\n℗ & © 1985 Arista Records, Inc.\n\nCatalog #AL 8-8212 can be found on labels.\nCatalog #AL8-8212 can be found on the spine, hype sticker and back cover (lower right quadrant).\n\nRunouts are etched except for The Mastering Lab IDs \"TML-M\", \"TML-S\", & \"TML-X\"; Indianapolis \"I\" and some mastering IDs, i.e. \"A2\". For Variant 6, the \"K\" on Side A is etched over an \"E\".\n\nPublishing:\nA1 by The New Music Group/MCA Music (BMI)\nA2 by Kashif Music/The New Music Group/MCA Music (BMI)\nA3 by Warner Brother Music (ASCAP)\nA4 by Prince St. Music (ASCAP)/Screen Gems-EMI Music Inc. (BMI)\nA5 by Ensign Music Corporation (BMI)\nB1 by Irving Music (BMI)\nB2 by Almo Music Corp. (ASCAP)/March 9 Music (ASCAP)/Prince Street Music (ASCAP)\nB3 by April Music Inc./And New And Used Music (ASCAP)/Peso Music (BMI)\nB4 by Golden Touch Music Corp. (ASCAP)/Gold Horizon Music Corp. (BMI)\nB5 by Prince St. Music (ASCAP)/DeCreed Music Publishing Company/Music Corp. of America (BMI)\n\nSome copies came with a hype sticker (check photos).\nSome copies were pressed on dark brownish translucent vinyl.",
+  "released_formatted": "1985",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "0 7822-18212-1",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "078221821216",
+      "description": "Scanned"
+    },
+    {
+      "type": "Rights Society",
+      "value": "ASCAP",
+      "description": "A3, A4, B2 to B5"
+    },
+    {
+      "type": "Rights Society",
+      "value": "BMI",
+      "description": "A1, A2, A4 to B1, B3 to B5"
+    },
+    {
+      "type": "Pressing Plant ID",
+      "value": "I",
+      "description": "In runouts"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL 8-8212 SA",
+      "description": "Label side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL 8-8212 SB",
+      "description": "Label side B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL8-8212-SA-7 TML-S I A1 F F",
+      "description": "Runout side A, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL8-8212-SB-11 TML-S I A1 E E",
+      "description": "Runout side A, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL8-8212-SA-7 TML-S I A4 N",
+      "description": "Runout side A, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL8-8212-SB9 TML-X I A2 R",
+      "description": "Runout side A, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL8-8212-SA-2 TML-S I A4 D D",
+      "description": "Runout side A, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL8-8212-SB-1 TML-M I A3 L",
+      "description": "Runout side A, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL8-8212-SA-7 TML-S I A1 C C",
+      "description": "Runout side A, variant 4"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL8-8212-SB11 TML-S I A1 H",
+      "description": "Runout side B, variant 4"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL 8-8212-SA-2 TML-S I A7 I I",
+      "description": "Runout side A, variant 5"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL-8-8212-SB-2 TML-S I A4 PP",
+      "description": "Runout side A, variant 5"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL 8-8212-SA-3 TML-M I A2K",
+      "description": "Runout side A, variant 6"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL 8-8212-SB-3 TML-M I A4 E",
+      "description": "Runout side B, variant 6"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL 8-8212-SA-7 TML-S I A2",
+      "description": "Runout side A, variant 7"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL 8-8212-SB 5 TML-X I A6",
+      "description": "Runout side B, variant 7"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL8-8212-SA-7 TML-S I A4 O",
+      "description": "Runout side A, variant 8"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL8-8212-SB11 TML-S I A1 FE",
+      "description": "Runout side B, variant 8"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL 8-8212-SA-5 I TML-M A2H  ",
+      "description": "Runout side A, variant 9"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL 8-8212-SB 5 TML-X I ICU",
+      "description": "Runout side B, variant 9"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL8-8212-SA-7 TML-S I A4 I",
+      "description": "Runout side A, variant 10"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL 8-8212-SB-10 TML-M I A1 II II",
+      "description": "Runout side B, variant 10"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL8-8212-SA-2 TML-S I A5CC",
+      "description": "Runout side A, variant 11"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL8-8212-SB-1 TML-M I A4C",
+      "description": "Runout side B, variant 11"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL 8-8212-SA-7 TML-S I A2 R",
+      "description": "Runout side A, variant 12"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL8-8212-SB9 TML-X I A2 C",
+      "description": "Runout side B, variant 12"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL 8-8212-SA-2 TML-S I D5 I",
+      "description": "Runout side A, variant 13"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL8 8212 SB 4 TML-M I A1 H",
+      "description": "Runout side B, variant 13"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=YVhTb8pWCl0",
+      "title": "Whitney Houston &.Jermaine Jackson - Nobody Loves Me Like You Do 1984",
+      "description": " ",
+      "duration": 231,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=dY7PmX6Oz58",
+      "title": "Whitney Houston - You Give Good Love (Official HD Video)",
+      "description": "Official HD Video for ”You Give Good Love” by Whitney Houston\nListen to Whitney Houston: https://WhitneyHouston.lnk.to/listenYD\nWatch more Whitney Houston videos: https://WhitneyHouston.lnk.to/listenYC/youtube\n\nSubscribe to the official Whitney Houston Yo",
+      "duration": 247,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=IYzlVDlE72w",
+      "title": "Whitney Houston - Greatest Love Of All (Official 4K Video)",
+      "description": "Official 4K Video for ”Greatest Love Of All” by Whitney Houston\r\nListen to Whitney Houston: https://WhitneyHouston.lnk.to/listenYD\r\nWatch more Whitney Houston videos: https://WhitneyHouston.lnk.to/listenYC/youtube\r\n\r\nSubscribe to the official Whitney Hous",
+      "duration": 292,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ewxmv2tyeRs",
+      "title": "Whitney Houston - Saving All My Love For You (Official HD Video)",
+      "description": "Official HD Video for ”Saving All My Love For You” by Whitney Houston\r\nListen to Whitney Houston: https://WhitneyHouston.lnk.to/listenYD\r\nWatch more Whitney Houston videos: https://WhitneyHouston.lnk.to/listenYC/youtube\r\n\r\nSubscribe to the official Whitne",
+      "duration": 238,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=m3-hY-hlhBg",
+      "title": "Whitney Houston - How Will I Know (Official HD Video)",
+      "description": "Official HD Video for ”How Will I Know” by Whitney Houston\nListen to Whitney Houston: https://WhitneyHouston.lnk.to/listenYD\nWatch more Whitney Houston videos: https://WhitneyHouston.lnk.to/listenYC/youtube\n\nSubscribe to the official Whitney Houston YouTu",
+      "duration": 273,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=YVhTb8pWCl0",
+      "title": "Whitney Houston &.Jermaine Jackson - Nobody Loves Me Like You Do 1984",
+      "description": " ",
+      "duration": 231,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=dY7PmX6Oz58",
+      "title": "Whitney Houston - You Give Good Love (Official HD Video)",
+      "description": "Official HD Video for ”You Give Good Love” by Whitney Houston\nListen to Whitney Houston: https://WhitneyHouston.lnk.to/listenYD\nWatch more Whitney Houston videos: https://WhitneyHouston.lnk.to/listenYC/youtube\n\nSubscribe to the official Whitney Houston Yo",
+      "duration": 247,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=IYzlVDlE72w",
+      "title": "Whitney Houston - Greatest Love Of All (Official 4K Video)",
+      "description": "Official 4K Video for ”Greatest Love Of All” by Whitney Houston\r\nListen to Whitney Houston: https://WhitneyHouston.lnk.to/listenYD\r\nWatch more Whitney Houston videos: https://WhitneyHouston.lnk.to/listenYC/youtube\r\n\r\nSubscribe to the official Whitney Hous",
+      "duration": 292,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ewxmv2tyeRs",
+      "title": "Whitney Houston - Saving All My Love For You (Official HD Video)",
+      "description": "Official HD Video for ”Saving All My Love For You” by Whitney Houston\r\nListen to Whitney Houston: https://WhitneyHouston.lnk.to/listenYD\r\nWatch more Whitney Houston videos: https://WhitneyHouston.lnk.to/listenYC/youtube\r\n\r\nSubscribe to the official Whitne",
+      "duration": 238,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=m3-hY-hlhBg",
+      "title": "Whitney Houston - How Will I Know (Official HD Video)",
+      "description": "Official HD Video for ”How Will I Know” by Whitney Houston\nListen to Whitney Houston: https://WhitneyHouston.lnk.to/listenYD\nWatch more Whitney Houston videos: https://WhitneyHouston.lnk.to/listenYC/youtube\n\nSubscribe to the official Whitney Houston YouTu",
+      "duration": 273,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Wc26f-n64Kk",
+      "title": "Whitney Houston | All At Once | Official Music Video",
+      "description": "by JaviFer Productions Ltd.\n\nNo tengo ganancias con los videos que hago, lo hago porque me gusta hacer videomixes y remixes sin lucrarme. Los derechos de las imágenes, vídeos y voces que aparecen, correspondes a sus respectivos productores, escritores y c",
+      "duration": 269,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Rock",
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Soul",
+    "Ballad",
+    "Contemporary R&B",
+    "Dance-pop",
+    "Vocal"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "You Give Good Love",
+      "extraartists": [
+        {
+          "name": "La La",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals, Written-By",
+          "tracks": "",
+          "id": 112470,
+          "resource_url": "https://api.discogs.com/artists/112470"
+        },
+        {
+          "name": "Michael O'Reilly",
+          "anv": "",
+          "join": "",
+          "role": "Engineer, Mixed By",
+          "tracks": "",
+          "id": 165496,
+          "resource_url": "https://api.discogs.com/artists/165496"
+        },
+        {
+          "name": "Kashif",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Arranged By",
+          "tracks": "",
+          "id": 64489,
+          "resource_url": "https://api.discogs.com/artists/64489"
+        }
+      ],
+      "duration": "4:33"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Thinking About You",
+      "extraartists": [
+        {
+          "name": "La La",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals, Written-By",
+          "tracks": "",
+          "id": 112470,
+          "resource_url": "https://api.discogs.com/artists/112470"
+        },
+        {
+          "name": "Michael O'Reilly",
+          "anv": "",
+          "join": "",
+          "role": "Engineer, Mixed By",
+          "tracks": "",
+          "id": 165496,
+          "resource_url": "https://api.discogs.com/artists/165496"
+        },
+        {
+          "name": "Kashif",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Written-By, Arranged By",
+          "tracks": "",
+          "id": 64489,
+          "resource_url": "https://api.discogs.com/artists/64489"
+        }
+      ],
+      "duration": "5:27"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Someone For Me",
+      "extraartists": [
+        {
+          "name": "Bill Bottrell",
+          "anv": "Billy Bottrell",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 27468,
+          "resource_url": "https://api.discogs.com/artists/27468"
+        },
+        {
+          "name": "Michael O'Reilly",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 165496,
+          "resource_url": "https://api.discogs.com/artists/165496"
+        },
+        {
+          "name": "Jermaine Jackson",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 17971,
+          "resource_url": "https://api.discogs.com/artists/17971"
+        },
+        {
+          "name": "Freddie Washington",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 253976,
+          "resource_url": "https://api.discogs.com/artists/253976"
+        },
+        {
+          "name": "Raymond Jones",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 268616,
+          "resource_url": "https://api.discogs.com/artists/268616"
+        }
+      ],
+      "duration": "4:57"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Saving All My Love For You",
+      "extraartists": [
+        {
+          "name": "Michael Mancini",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 456249,
+          "resource_url": "https://api.discogs.com/artists/456249"
+        },
+        {
+          "name": "Russell Schmitt",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 456250,
+          "resource_url": "https://api.discogs.com/artists/456250"
+        },
+        {
+          "name": "Bill Schnee",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 41106,
+          "resource_url": "https://api.discogs.com/artists/41106"
+        },
+        {
+          "name": "Michael Masser",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Written-By",
+          "tracks": "",
+          "id": 41107,
+          "resource_url": "https://api.discogs.com/artists/41107"
+        },
+        {
+          "name": "Tom Scott",
+          "anv": "",
+          "join": "",
+          "role": "Saxophone",
+          "tracks": "",
+          "id": 69621,
+          "resource_url": "https://api.discogs.com/artists/69621"
+        },
+        {
+          "name": "Gerry Goffin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 241547,
+          "resource_url": "https://api.discogs.com/artists/241547"
+        }
+      ],
+      "duration": "3:57"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Nobody Loves Me Like You Do",
+      "extraartists": [
+        {
+          "name": "Bill Bottrell",
+          "anv": "Billy Bottrell",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 27468,
+          "resource_url": "https://api.discogs.com/artists/27468"
+        },
+        {
+          "name": "Michael O'Reilly",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 165496,
+          "resource_url": "https://api.discogs.com/artists/165496"
+        },
+        {
+          "name": "Jermaine Jackson",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Vocals [Duet With]",
+          "tracks": "",
+          "id": 17971,
+          "resource_url": "https://api.discogs.com/artists/17971"
+        },
+        {
+          "name": "James Dunne",
+          "anv": "James P. Dunne",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 702977,
+          "resource_url": "https://api.discogs.com/artists/702977"
+        },
+        {
+          "name": "Pamela Phillips",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 734184,
+          "resource_url": "https://api.discogs.com/artists/734184"
+        }
+      ],
+      "duration": "3:46"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "How Will I Know",
+      "extraartists": [
+        {
+          "name": "Cissy Houston",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 175255,
+          "resource_url": "https://api.discogs.com/artists/175255"
+        },
+        {
+          "name": "Michael Barbiero",
+          "anv": "Mike Barbiero",
+          "join": "",
+          "role": "Engineer, Mixed By",
+          "tracks": "",
+          "id": 41643,
+          "resource_url": "https://api.discogs.com/artists/41643"
+        },
+        {
+          "name": "Narada Michael Walden",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Arranged By",
+          "tracks": "",
+          "id": 49530,
+          "resource_url": "https://api.discogs.com/artists/49530"
+        },
+        {
+          "name": "George Merrill",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 450827,
+          "resource_url": "https://api.discogs.com/artists/450827"
+        },
+        {
+          "name": "Narada Michael Walden",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 49530,
+          "resource_url": "https://api.discogs.com/artists/49530"
+        },
+        {
+          "name": "Shannon Rubicam",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 685160,
+          "resource_url": "https://api.discogs.com/artists/685160"
+        }
+      ],
+      "duration": "4:33"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "All At Once",
+      "extraartists": [
+        {
+          "name": "Bill Schnee",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 41106,
+          "resource_url": "https://api.discogs.com/artists/41106"
+        },
+        {
+          "name": "Michael Masser",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Written-By",
+          "tracks": "",
+          "id": 41107,
+          "resource_url": "https://api.discogs.com/artists/41107"
+        },
+        {
+          "name": "Jeffrey Osborne",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 80019,
+          "resource_url": "https://api.discogs.com/artists/80019"
+        }
+      ],
+      "duration": "4:26"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Take Good Care Of My Heart",
+      "extraartists": [
+        {
+          "name": "Bill Bottrell",
+          "anv": "Billy Bottrell",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 27468,
+          "resource_url": "https://api.discogs.com/artists/27468"
+        },
+        {
+          "name": "Jermaine Jackson",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Vocals [Duet With]",
+          "tracks": "",
+          "id": 17971,
+          "resource_url": "https://api.discogs.com/artists/17971"
+        },
+        {
+          "name": "Peter McCann",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 367237,
+          "resource_url": "https://api.discogs.com/artists/367237"
+        },
+        {
+          "name": "Steve Dorff",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 195397,
+          "resource_url": "https://api.discogs.com/artists/195397"
+        }
+      ],
+      "duration": "4:13"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Greatest Love Of All",
+      "extraartists": [
+        {
+          "name": "Michael Mancini",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 456249,
+          "resource_url": "https://api.discogs.com/artists/456249"
+        },
+        {
+          "name": "Russell Schmitt",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 456250,
+          "resource_url": "https://api.discogs.com/artists/456250"
+        },
+        {
+          "name": "Bill Schnee",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 41106,
+          "resource_url": "https://api.discogs.com/artists/41106"
+        },
+        {
+          "name": "Michael Masser",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Written-By",
+          "tracks": "",
+          "id": 41107,
+          "resource_url": "https://api.discogs.com/artists/41107"
+        },
+        {
+          "name": "Linda Creed",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 387498,
+          "resource_url": "https://api.discogs.com/artists/387498"
+        }
+      ],
+      "duration": "4:55"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Hold Me",
+      "extraartists": [
+        {
+          "name": "Bill Schnee",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 41106,
+          "resource_url": "https://api.discogs.com/artists/41106"
+        },
+        {
+          "name": "Michael Masser",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Written-By",
+          "tracks": "",
+          "id": 41107,
+          "resource_url": "https://api.discogs.com/artists/41107"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "anv": "",
+          "join": "",
+          "role": "Vocals [Duet With]",
+          "tracks": "",
+          "id": 41105,
+          "resource_url": "https://api.discogs.com/artists/41105"
+        },
+        {
+          "name": "Linda Creed",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 387498,
+          "resource_url": "https://api.discogs.com/artists/387498"
+        }
+      ],
+      "duration": "6:00"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Donn Davenport",
+      "anv": "",
+      "join": "",
+      "role": "Art Direction",
+      "tracks": "",
+      "id": 1830752,
+      "resource_url": "https://api.discogs.com/artists/1830752"
+    },
+    {
+      "name": "Brenda Gorsky",
+      "anv": "",
+      "join": "",
+      "role": "Coordinator",
+      "tracks": "",
+      "id": 2066186,
+      "resource_url": "https://api.discogs.com/artists/2066186"
+    },
+    {
+      "name": "Norma Kamali",
+      "anv": "",
+      "join": "",
+      "role": "Costume Designer [Bathing Suit]",
+      "tracks": "",
+      "id": 2288530,
+      "resource_url": "https://api.discogs.com/artists/2288530"
+    },
+    {
+      "name": "Giovanni De Maura",
+      "anv": "Giovanne De Maura",
+      "join": "",
+      "role": "Costume Designer [Gown]",
+      "tracks": "",
+      "id": 10328482,
+      "resource_url": "https://api.discogs.com/artists/10328482"
+    },
+    {
+      "name": "Clive Davis",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 233669,
+      "resource_url": "https://api.discogs.com/artists/233669"
+    },
+    {
+      "name": "Jeffrey Woodley",
+      "anv": "",
+      "join": "",
+      "role": "Hair",
+      "tracks": "",
+      "id": 4755782,
+      "resource_url": "https://api.discogs.com/artists/4755782"
+    },
+    {
+      "name": "Whitney Houston",
+      "anv": "Whitney",
+      "join": "",
+      "role": "Liner Notes",
+      "tracks": "",
+      "id": 30542,
+      "resource_url": "https://api.discogs.com/artists/30542"
+    },
+    {
+      "name": "Quietfire (2)",
+      "anv": "",
+      "join": "",
+      "role": "Make-Up",
+      "tracks": "",
+      "id": 5060559,
+      "resource_url": "https://api.discogs.com/artists/5060559"
+    },
+    {
+      "name": "Tara Productions",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 2322927,
+      "resource_url": "https://api.discogs.com/artists/2322927"
+    },
+    {
+      "name": "Bashiri Johnson",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A1, A2",
+      "id": 144589,
+      "resource_url": "https://api.discogs.com/artists/144589"
+    },
+    {
+      "name": "Cissy Houston",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "B1",
+      "id": 175255,
+      "resource_url": "https://api.discogs.com/artists/175255"
+    },
+    {
+      "name": "Corrado Rustici",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "B1",
+      "id": 176436,
+      "resource_url": "https://api.discogs.com/artists/176436"
+    },
+    {
+      "name": "Dann Huff",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A4, B2, B4, B5",
+      "id": 271408,
+      "resource_url": "https://api.discogs.com/artists/271408"
+    },
+    {
+      "name": "David Williams (4)",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A3, A5, B3",
+      "id": 457690,
+      "resource_url": "https://api.discogs.com/artists/457690"
+    },
+    {
+      "name": "Deborah Thomas",
+      "anv": "Debbie Thomas",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A4, B2, B4, B5",
+      "id": 419411,
+      "resource_url": "https://api.discogs.com/artists/419411"
+    },
+    {
+      "name": "Ed Greene (2)",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A3, A5, B3",
+      "id": 508304,
+      "resource_url": "https://api.discogs.com/artists/508304"
+    },
+    {
+      "name": "Ernie Watts",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A3, A5, B3",
+      "id": 252993,
+      "resource_url": "https://api.discogs.com/artists/252993"
+    },
+    {
+      "name": "Freddie Washington",
+      "anv": "Ready Freddie Washington",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A3, A5, B3",
+      "id": 253976,
+      "resource_url": "https://api.discogs.com/artists/253976"
+    },
+    {
+      "name": "Greg Phillinganes",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A3, A5, B3",
+      "id": 108475,
+      "resource_url": "https://api.discogs.com/artists/108475"
+    },
+    {
+      "name": "Ira Siegel",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A1, A2",
+      "id": 298025,
+      "resource_url": "https://api.discogs.com/artists/298025"
+    },
+    {
+      "name": "J.T. Lewis",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A1, A2",
+      "id": 283873,
+      "resource_url": "https://api.discogs.com/artists/283873"
+    },
+    {
+      "name": "Jermaine Jackson",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A3, A5, B3",
+      "id": 17971,
+      "resource_url": "https://api.discogs.com/artists/17971"
+    },
+    {
+      "name": "John Barnes",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A3, A5, B3",
+      "id": 293896,
+      "resource_url": "https://api.discogs.com/artists/293896"
+    },
+    {
+      "name": "John Robinson (2)",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A3, A5, B3",
+      "id": 310251,
+      "resource_url": "https://api.discogs.com/artists/310251"
+    },
+    {
+      "name": "Julia Waters",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A4, B2, B4, B5",
+      "id": 259386,
+      "resource_url": "https://api.discogs.com/artists/259386"
+    },
+    {
+      "name": "Kashif",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A1, A2",
+      "id": 64489,
+      "resource_url": "https://api.discogs.com/artists/64489"
+    },
+    {
+      "name": "La La",
+      "anv": "LaLa",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A1, A2",
+      "id": 112470,
+      "resource_url": "https://api.discogs.com/artists/112470"
+    },
+    {
+      "name": "Louie Shelton",
+      "anv": "Lou Shelton",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A4, B2, B4, B5",
+      "id": 249833,
+      "resource_url": "https://api.discogs.com/artists/249833"
+    },
+    {
+      "name": "Mary Canty",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "B1",
+      "id": 775099,
+      "resource_url": "https://api.discogs.com/artists/775099"
+    },
+    {
+      "name": "Maxine Waters",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A4, B2, B4, B5",
+      "id": 259388,
+      "resource_url": "https://api.discogs.com/artists/259388"
+    },
+    {
+      "name": "Narada Michael Walden",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "B1",
+      "id": 49530,
+      "resource_url": "https://api.discogs.com/artists/49530"
+    },
+    {
+      "name": "Nathan East",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A3 to A5, B2 to B5",
+      "id": 215920,
+      "resource_url": "https://api.discogs.com/artists/215920"
+    },
+    {
+      "name": "Oren Waters",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A4, B2, B4, B5",
+      "id": 112806,
+      "resource_url": "https://api.discogs.com/artists/112806"
+    },
+    {
+      "name": "Paul Jackson Jr.",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A3 to A5, B2 to B5",
+      "id": 266403,
+      "resource_url": "https://api.discogs.com/artists/266403"
+    },
+    {
+      "name": "Preston Glass",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "B1",
+      "id": 135434,
+      "resource_url": "https://api.discogs.com/artists/135434"
+    },
+    {
+      "name": "Randy Jackson (2)",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "B1",
+      "id": 449016,
+      "resource_url": "https://api.discogs.com/artists/449016"
+    },
+    {
+      "name": "Randy Kerber",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A4, B2, B4, B5",
+      "id": 356228,
+      "resource_url": "https://api.discogs.com/artists/356228"
+    },
+    {
+      "name": "Richard Marx",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A4, B2, B4, B5",
+      "id": 268131,
+      "resource_url": "https://api.discogs.com/artists/268131"
+    },
+    {
+      "name": "Robbie Buchanan",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A4, B2, B4, B5",
+      "id": 114977,
+      "resource_url": "https://api.discogs.com/artists/114977"
+    },
+    {
+      "name": "Roy Wooten",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A1, A2",
+      "id": 1158740,
+      "resource_url": "https://api.discogs.com/artists/1158740"
+    },
+    {
+      "name": "Russell Tubbs",
+      "anv": "Premik Russell Tubbs",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "B1",
+      "id": 339680,
+      "resource_url": "https://api.discogs.com/artists/339680"
+    },
+    {
+      "name": "Steve Rucker",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A3, A5, B3",
+      "id": 361059,
+      "resource_url": "https://api.discogs.com/artists/361059"
+    },
+    {
+      "name": "Tim May",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A3, A5, B3",
+      "id": 356231,
+      "resource_url": "https://api.discogs.com/artists/356231"
+    },
+    {
+      "name": "Yogi Lee",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "A1, A2",
+      "id": 294779,
+      "resource_url": "https://api.discogs.com/artists/294779"
+    },
+    {
+      "name": "Yvonne Lewis",
+      "anv": "",
+      "join": "",
+      "role": "Musician [The Players]",
+      "tracks": "B1",
+      "id": 69687,
+      "resource_url": "https://api.discogs.com/artists/69687"
+    },
+    {
+      "name": "Garry Gross",
+      "anv": "Gary Gross",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 2034233,
+      "resource_url": "https://api.discogs.com/artists/2034233"
+    },
+    {
+      "name": "Tiagi Lambert",
+      "anv": "",
+      "join": "",
+      "role": "Stylist [Fashion Stylist]",
+      "tracks": "",
+      "id": 8110901,
+      "resource_url": "https://api.discogs.com/artists/8110901"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/L6JA11Bzt7QnAZxrh62WU0hFQsFD__0W5PDItVW4wSY/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODEy/NzEtMTUxMzU2OTQ5/My01NjYxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/L6JA11Bzt7QnAZxrh62WU0hFQsFD__0W5PDItVW4wSY/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODEy/NzEtMTUxMzU2OTQ5/My01NjYxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/9dckX4xeJ4SfQe71Suie0gF4VnYWRm2Ba97-0iapuyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODEy/NzEtMTUxMzU2OTQ5/My01NjYxLmpwZWc.jpeg",
+      "width": 600,
+      "height": 593
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/TpuGRP-qKEYPcLYalmD2Fe0BQ7LAarZYu9fho-u-IO4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODEy/NzEtMTUxMzU2OTQ5/My01MjE5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/TpuGRP-qKEYPcLYalmD2Fe0BQ7LAarZYu9fho-u-IO4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODEy/NzEtMTUxMzU2OTQ5/My01MjE5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/i5nbMg66yCahmboIECcm_DNHzb3ftuIQ4FEbqxowYtM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODEy/NzEtMTUxMzU2OTQ5/My01MjE5LmpwZWc.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/bLBK9a5rdCiDVvoUcqP9PG6i66DN7z5Mn-GPNW6jlgY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODEy/NzEtMTUxMzU2OTY2/OC0yMTc5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/bLBK9a5rdCiDVvoUcqP9PG6i66DN7z5Mn-GPNW6jlgY/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODEy/NzEtMTUxMzU2OTY2/OC0yMTc5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/mS7rL3wD6IKFtWyBsVRaJ_ojyOkAYNdTweSeCVEMEHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODEy/NzEtMTUxMzU2OTY2/OC0yMTc5LmpwZWc.jpeg",
+      "width": 600,
+      "height": 597
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/AdBaKDzxrxX3M3vbH5R4kouHEv9ASGgIw9dMYM89PT4/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODEy/NzEtMTUxMzU2OTY2/OC03MTY5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/AdBaKDzxrxX3M3vbH5R4kouHEv9ASGgIw9dMYM89PT4/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODEy/NzEtMTUxMzU2OTY2/OC03MTY5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/zQQfnQyfI0hbeBGfpD6By_ZmRQ672kqdE0uWD13-bhQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODEy/NzEtMTUxMzU2OTY2/OC03MTY5LmpwZWc.jpeg",
+      "width": 600,
+      "height": 595
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/368Tq4OuLkBoDwpvo-nYWcCp2K7Cx1e7j9lfqlvwt1o/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODEy/NzEtMTY5Mjc5MTE1/OS02OTc0LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/368Tq4OuLkBoDwpvo-nYWcCp2K7Cx1e7j9lfqlvwt1o/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODEy/NzEtMTY5Mjc5MTE1/OS02OTc0LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/JFPypDMG4DsGIKrz_YP8ZNzdHaAm9bI3tTP8iLiEb24/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODEy/NzEtMTY5Mjc5MTE1/OS02OTc0LmpwZWc.jpeg",
+      "width": 600,
+      "height": 592
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Ho4CRqsvjMG8mhQd9170ekkF00pbyleXIJ-LUTLN0b4/rs:fit/g:sm/q:90/h:394/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODEy/NzEtMTUyMDgyMTU5/MC02Nzg0LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/Ho4CRqsvjMG8mhQd9170ekkF00pbyleXIJ-LUTLN0b4/rs:fit/g:sm/q:90/h:394/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODEy/NzEtMTUyMDgyMTU5/MC02Nzg0LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/MlkcZsVhJ5utBvGLo9lCezvWT8AYr4IkdWSBq3eSo1s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODEy/NzEtMTUyMDgyMTU5/MC02Nzg0LmpwZWc.jpeg",
+      "width": 600,
+      "height": 394
+    }
+  ],
+  "thumb": "https://i.discogs.com/9dckX4xeJ4SfQe71Suie0gF4VnYWRm2Ba97-0iapuyg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5ODEy/NzEtMTUxMzU2OTQ5/My01NjYxLmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

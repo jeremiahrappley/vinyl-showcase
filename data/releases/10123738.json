@@ -1,0 +1,1857 @@
+{
+  "id": 10123738,
+  "status": "Accepted",
+  "year": 2017,
+  "resource_url": "https://api.discogs.com/releases/10123738",
+  "uri": "https://www.discogs.com/release/10123738-Khalid-16-American-Teen",
+  "artists": [
+    {
+      "name": "Khalid (16)",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 5779975,
+      "resource_url": "https://api.discogs.com/artists/5779975",
+      "thumbnail_url": "https://i.discogs.com/L6GJRdzpDVyFGgPCnl52UHlBLyvi1EHz7XQDnSe5jtA/rs:fit/g:sm/q:90/h:320/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU3Nzk5/NzUtMTc2MDU0MzE0/Ny02MDg2LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Khalid (16)",
+  "labels": [
+    {
+      "name": "RCA",
+      "catno": "88985-41432-1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 895,
+      "resource_url": "https://api.discogs.com/labels/895",
+      "thumbnail_url": "https://i.discogs.com/q-zL2IXAAZL18V9Ova8MTy7NXCoGMloDEKM1yaHpays/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg5NS0x/NzY4MDgxMjYxLTMw/NDIuanBlZw.jpeg"
+    },
+    {
+      "name": "Right Hand Music Group",
+      "catno": "88985-41432-1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1188045,
+      "resource_url": "https://api.discogs.com/labels/1188045"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "RCA Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 29656,
+      "resource_url": "https://api.discogs.com/labels/29656",
+      "thumbnail_url": "https://i.discogs.com/EN9PpsplNgyWdRKTy1QohI1E5-1H-AkSgtzqej8WFu0/rs:fit/g:sm/q:90/h:94/w:283/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5NjU2/LTE0OTAwODk0MTQt/MjI5My5wbmc.jpeg"
+    },
+    {
+      "name": "RCA Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 29656,
+      "resource_url": "https://api.discogs.com/labels/29656",
+      "thumbnail_url": "https://i.discogs.com/EN9PpsplNgyWdRKTy1QohI1E5-1H-AkSgtzqej8WFu0/rs:fit/g:sm/q:90/h:94/w:283/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5NjU2/LTE0OTAwODk0MTQt/MjI5My5wbmc.jpeg"
+    },
+    {
+      "name": "Sony Music Entertainment",
+      "catno": "",
+      "entity_type": "8",
+      "entity_type_name": "Marketed By",
+      "id": 29073,
+      "resource_url": "https://api.discogs.com/labels/29073",
+      "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+    },
+    {
+      "name": "Sony Music Entertainment",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 29073,
+      "resource_url": "https://api.discogs.com/labels/29073",
+      "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+    },
+    {
+      "name": "Nashville Record Productions",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 301710,
+      "resource_url": "https://api.discogs.com/labels/301710",
+      "thumbnail_url": "https://i.discogs.com/IcalAteMbdmR9J0RZL7DNIgwoUFgumvzbzqKsx9Rve4/rs:fit/g:sm/q:90/h:253/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwMTcx/MC0xNjQwMzg4MTcx/LTYwMzAuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 14437,
+    "want": 1681,
+    "rating": {
+      "count": 608,
+      "average": 4.34
+    },
+    "submitter": {
+      "username": "CD_WAREHOUSE_817",
+      "resource_url": "https://api.discogs.com/users/CD_WAREHOUSE_817"
+    },
+    "contributors": [
+      {
+        "username": "CD_WAREHOUSE_817",
+        "resource_url": "https://api.discogs.com/users/CD_WAREHOUSE_817"
+      },
+      {
+        "username": "soulvibes88",
+        "resource_url": "https://api.discogs.com/users/soulvibes88"
+      },
+      {
+        "username": "Wicked_Dreamer",
+        "resource_url": "https://api.discogs.com/users/Wicked_Dreamer"
+      },
+      {
+        "username": "N-D",
+        "resource_url": "https://api.discogs.com/users/N-D"
+      },
+      {
+        "username": "jweijde",
+        "resource_url": "https://api.discogs.com/users/jweijde"
+      },
+      {
+        "username": "jclicona2005",
+        "resource_url": "https://api.discogs.com/users/jclicona2005"
+      },
+      {
+        "username": "factoryjones",
+        "resource_url": "https://api.discogs.com/users/factoryjones"
+      },
+      {
+        "username": "ksnell3",
+        "resource_url": "https://api.discogs.com/users/ksnell3"
+      },
+      {
+        "username": "prkrmtthw",
+        "resource_url": "https://api.discogs.com/users/prkrmtthw"
+      },
+      {
+        "username": "recordnumber",
+        "resource_url": "https://api.discogs.com/users/recordnumber"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2017-04-12T12:51:13-07:00",
+  "date_changed": "2025-12-29T19:55:10-08:00",
+  "num_for_sale": 86,
+  "lowest_price": 5,
+  "master_id": 1154812,
+  "master_url": "https://api.discogs.com/masters/1154812",
+  "title": "American Teen",
+  "country": "US",
+  "released": "2017-04-14",
+  "released_formatted": "14 Apr 2017",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "8 8985-41432-1 3",
+      "description": "Printed"
+    },
+    {
+      "type": "Barcode",
+      "value": "889854143213",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "88985 414321-A 3 WG/NRP",
+      "description": "Side A (Variant 1)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "88985 414321-B III WG/NRP",
+      "description": "Side B (Variant 1)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "88985 414321-C 3 WG/NRP",
+      "description": "Side C (Variant 1)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "88985 414321-D 3 WG/NRP",
+      "description": "Side D (Variant 1)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "88985 414321-A Ⅱ WG/NRP ⓤ",
+      "description": "Side A (Variant 2)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "88985 414321-B Ⅱ WG/NRP ⓤ",
+      "description": "Side B (Variant 2)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "88985 414321-C³ WG/NRP ⓤ",
+      "description": "Side C (Variant 2)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "88985 414321-D³ WG/NRP ⓤ",
+      "description": "Side D (Variant 2)"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=by3yRdlQvzs",
+      "title": "Khalid - Location (Official Music Video)",
+      "description": "Get Khalid's debut album 'American Teen' featuring \"Let's Go\", \"Saved\", and the hit single \"Location\" Apple Music: http://smarturl.it/iAmericanTeen?IQid=yt Amazon Music:http://smarturl.it/azAmericanTeen?IQid=yt Google Play: http://smarturl.it/gpAmericanTe",
+      "duration": 222,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=0fVe809KbUM",
+      "title": "Khalid - Shot Down (Official Music Video)",
+      "description": "Pre-Order Khalid's debut album 'American Teen' featuring \"Let's Go\", \"Saved\", and the hit single \"Location\"\nApple Music: http://smarturl.it/iAmericanTeen?IQid=yt\nAmazon Music:http://smarturl.it/azAmericanTeen?IQid=yt\nGoogle Play: http://smarturl.it/gpAmer",
+      "duration": 162,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=0NChtZCDCsY",
+      "title": "Khalid - American Teen (Official Music Video)",
+      "description": "Get Khalid's debut album 'American Teen' featuring \"Let's Go\", \"Saved\", and the hit single \"Location\"\nApple Music: http://smarturl.it/iAmericanTeen?IQid=yt\nAmazon Music:http://smarturl.it/azAmericanTeen?IQid=yt\nGoogle Play: http://smarturl.it/gpAmericanTe",
+      "duration": 229,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=IPfJnp1guPc",
+      "title": "Khalid - Young Dumb & Broke (Official Music Video)",
+      "description": "Get Khalid's debut album 'American Teen' featuring \"Young, Dumb & Broke\", \"Let's Go\", and the hit single \"Location\"\nApple Music: http://smarturl.it/iAmericanTeen?IQid=yt\nAmazon Music:http://smarturl.it/azAmericanTeen?IQid=yt\nGoogle Play: http://smarturl.i",
+      "duration": 248,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Oapebl0bADA",
+      "title": "Khalid - Saved (Official Music Video)",
+      "description": "Get Khalid's debut album 'American Teen' featuring \"Let's Go\", \"Saved\", and the hit single \"Location\"\nApple Music: http://smarturl.it/iAmericanTeen?IQid=yt\nAmazon Music:http://smarturl.it/azAmericanTeen?IQid=yt\nGoogle Play: http://smarturl.it/gpAmericanTe",
+      "duration": 225,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=by3yRdlQvzs",
+      "title": "Khalid - Location (Official Video)",
+      "description": "Get Khalid's debut album 'American Teen' featuring \"Let's Go\", \"Saved\", and the hit single \"Location\" Apple Music: http://smarturl.it/iAmericanTeen?IQid=yt Amazon Music:http://smarturl.it/azAmericanTeen?IQid=yt Google Play: http://smarturl.it/gpAmericanTe",
+      "duration": 222,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=by3yRdlQvzs",
+      "title": "Khalid - Location (Official Video)",
+      "description": "Get Khalid's debut album 'American Teen' featuring \"Let's Go\", \"Saved\", and the hit single \"Location\" Apple Music: http://smarturl.it/iAmericanTeen?IQid=yt Amazon Music:http://smarturl.it/azAmericanTeen?IQid=yt Google Play: http://smarturl.it/gpAmericanTe",
+      "duration": 222,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=by3yRdlQvzs",
+      "title": "Khalid - Location (Official Video)",
+      "description": "Get Khalid's debut album 'American Teen' featuring \"Let's Go\", \"Saved\", and the hit single \"Location\" Apple Music: http://smarturl.it/iAmericanTeen?IQid=yt Amazon Music:http://smarturl.it/azAmericanTeen?IQid=yt Google Play: http://smarturl.it/gpAmericanTe",
+      "duration": 222,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=by3yRdlQvzs",
+      "title": "Khalid - Location (Official Video)",
+      "description": "Get Khalid's debut album 'American Teen' featuring \"Let's Go\", \"Saved\", and the hit single \"Location\" Apple Music: http://smarturl.it/iAmericanTeen?IQid=yt Amazon Music:http://smarturl.it/azAmericanTeen?IQid=yt Google Play: http://smarturl.it/gpAmericanTe",
+      "duration": 222,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=by3yRdlQvzs",
+      "title": "Khalid - Location (Official Video)",
+      "description": "Get Khalid's debut album 'American Teen' featuring \"Let's Go\", \"Saved\", and the hit single \"Location\" Apple Music: http://smarturl.it/iAmericanTeen?IQid=yt Amazon Music:http://smarturl.it/azAmericanTeen?IQid=yt Google Play: http://smarturl.it/gpAmericanTe",
+      "duration": 222,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=M5t_fgRuLLM",
+      "title": "American Teen",
+      "description": "Provided to YouTube by Right Hand Music Group, LLC/RCA Records\n\nAmerican Teen · Khalid\n\nAmerican Teen\n\n℗ 2017 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2017-03-03\n\nAssociated Performer: Khalid\nLyricist, Acoustic Guitar, Composer, A",
+      "duration": 251,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=YhK2NwPIdt4",
+      "title": "Young Dumb & Broke",
+      "description": "Provided to YouTube by Right Hand Music Group, LLC/RCA Records\n\nYoung Dumb & Broke · Khalid\n\nAmerican Teen\n\n℗ 2017 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2017-03-03\n\nAssociated Performer: Khalid\nEngineer, Lyricist, Associated Pe",
+      "duration": 203,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Jxcoi0GZVLU",
+      "title": "Location",
+      "description": "Provided to YouTube by Right Hand Music Group, LLC/RCA Records\n\nLocation · Khalid\n\nAmerican Teen\n\n℗ 2016 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2017-03-03\n\nAssociated Performer: Khalid\nProgrammer, Producer: Smash David\nProducer,",
+      "duration": 220,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=9lFgevsAUUc",
+      "title": "Another Sad Love Song",
+      "description": "Provided to YouTube by Right Hand Music Group, LLC/RCA Records\n\nAnother Sad Love Song · Khalid\n\nAmerican Teen\n\n℗ 2017 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2017-03-03\n\nAssociated Performer: Khalid\nLyricist, Composer: Khalid Rob",
+      "duration": 245,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=WRco-6kqGUA",
+      "title": "Saved",
+      "description": "Provided to YouTube by Right Hand Music Group, LLC/RCA Records\n\nSaved · Khalid\n\nAmerican Teen\n\n℗ 2017 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2017-03-03\n\nAssociated Performer: Khalid\nProducer, Composer, Guitar, Lyricist: Bryan Me",
+      "duration": 207,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=H2394gxZAws",
+      "title": "Coaster",
+      "description": "Provided to YouTube by Right Hand Music Group, LLC/RCA Records\n\nCoaster · Khalid\n\nCoaster\n\n℗ 2016 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2016-12-16\n\nComposer, Lyricist: Khalid Robinson\nComposer, Lyricist: Nathaniel Hernandez\nPro",
+      "duration": 201,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=HM-nqhPI7ho",
+      "title": "8TEEN",
+      "description": "Provided to YouTube by Right Hand Music Group, LLC/RCA Records\n\n8TEEN · Khalid\n\nAmerican Teen\n\n℗ 2017 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2017-03-03\n\nAssociated Performer: Khalid\nLyricist, Associated Performer, Composer, Prod",
+      "duration": 229,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=-nr6z0CVtik",
+      "title": "Let's Go",
+      "description": "Provided to YouTube by Right Hand Music Group, LLC/RCA Records\n\nLet's Go · Khalid\n\nLet's Go\n\n℗ 2016 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2016-09-12\n\nComposer, Lyricist: Khalid Robinson\nProducer: OZ\nComposer, Lyricist: Ozan Yil",
+      "duration": 205,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=HjvIWQ69msw",
+      "title": "Hopeless",
+      "description": "Provided to YouTube by Right Hand Music Group, LLC/RCA Records\n\nHopeless · Khalid\n\nHopeless\n\n℗ 2016 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2016-10-27\n\nComposer, Lyricist: Khalid Robinson\nComposer, Lyricist: Atilla Elci\nProducer:",
+      "duration": 170,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=OuFSuqLHe58",
+      "title": "Cold Blooded",
+      "description": "Provided to YouTube by Right Hand Music Group, LLC/RCA Records\n\nCold Blooded · Khalid\n\nAmerican Teen\n\n℗ 2017 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2017-03-03\n\nAssociated Performer: Khalid\nComposer, Lyricist: Khalid Robinson\nCom",
+      "duration": 208,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=HTo_nBTU-vA",
+      "title": "Winter",
+      "description": "Provided to YouTube by Right Hand Music Group, LLC/RCA Records\n\nWinter · Khalid\n\nAmerican Teen\n\n℗ 2017 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2017-03-03\n\nAssociated Performer: Khalid\nLyricist, Composer: Khalid Robinson\nProducer,",
+      "duration": 242,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=6oxD5hvzOoA",
+      "title": "Therapy",
+      "description": "Provided to YouTube by Right Hand Music Group, LLC/RCA Records\n\nTherapy · Khalid\n\nAmerican Teen\n\n℗ 2017 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2017-03-03\n\nAssociated Performer: Khalid\nProducer, Composer, Associated Performer, Ly",
+      "duration": 258,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=IRX_gxMhB_k",
+      "title": "Keep Me",
+      "description": "Provided to YouTube by Right Hand Music Group, LLC/RCA Records\n\nKeep Me · Khalid\n\nAmerican Teen\n\n℗ 2017 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2017-03-03\n\nAssociated Performer: Khalid\nComposer, Guiro, Lyricist: Jake Austin\nBackg",
+      "duration": 277,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=CiqsSRuqvqg",
+      "title": "Shot Down",
+      "description": "Provided to YouTube by Right Hand Music Group, LLC/RCA Records\n\nShot Down · Khalid\n\nShot Down\n\n℗ 2017 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2017-02-03\n\nAssociated Performer: Khalid\nProgrammer, Producer: Syk Sense\nProgrammer, Pr",
+      "duration": 210,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=xtTy9wVU_5c",
+      "title": "Angels",
+      "description": "Provided to YouTube by Right Hand Music Group, LLC/RCA Records\n\nAngels · Khalid\n\nAmerican Teen\n\n℗ 2017 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2017-03-03\n\nAssociated Performer: Khalid\nRecording Engineer, Composer, Programmer, Lyr",
+      "duration": 171,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=by3yRdlQvzs",
+      "title": "Khalid - Location (Official Music Video)",
+      "description": "Get Khalid's debut album 'American Teen' featuring \"Let's Go\", \"Saved\", and the hit single \"Location\" Apple Music: http://smarturl.it/iAmericanTeen?IQid=yt Amazon Music:http://smarturl.it/azAmericanTeen?IQid=yt Google Play: http://smarturl.it/gpAmericanTe",
+      "duration": 222,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=0fVe809KbUM",
+      "title": "Khalid - Shot Down (Official Music Video)",
+      "description": "Pre-Order Khalid's debut album 'American Teen' featuring \"Let's Go\", \"Saved\", and the hit single \"Location\"\nApple Music: http://smarturl.it/iAmericanTeen?IQid=yt\nAmazon Music:http://smarturl.it/azAmericanTeen?IQid=yt\nGoogle Play: http://smarturl.it/gpAmer",
+      "duration": 162,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=0NChtZCDCsY",
+      "title": "Khalid - American Teen (Official Music Video)",
+      "description": "Get Khalid's debut album 'American Teen' featuring \"Let's Go\", \"Saved\", and the hit single \"Location\"\nApple Music: http://smarturl.it/iAmericanTeen?IQid=yt\nAmazon Music:http://smarturl.it/azAmericanTeen?IQid=yt\nGoogle Play: http://smarturl.it/gpAmericanTe",
+      "duration": 229,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=IPfJnp1guPc",
+      "title": "Khalid - Young Dumb & Broke (Official Music Video)",
+      "description": "Get Khalid's debut album 'American Teen' featuring \"Young, Dumb & Broke\", \"Let's Go\", and the hit single \"Location\"\nApple Music: http://smarturl.it/iAmericanTeen?IQid=yt\nAmazon Music:http://smarturl.it/azAmericanTeen?IQid=yt\nGoogle Play: http://smarturl.i",
+      "duration": 248,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=by3yRdlQvzs",
+      "title": "Khalid - Location (Official Video)",
+      "description": "Get Khalid's debut album 'American Teen' featuring \"Let's Go\", \"Saved\", and the hit single \"Location\" Apple Music: http://smarturl.it/iAmericanTeen?IQid=yt Amazon Music:http://smarturl.it/azAmericanTeen?IQid=yt Google Play: http://smarturl.it/gpAmericanTe",
+      "duration": 222,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=by3yRdlQvzs",
+      "title": "Khalid - Location (Official Video)",
+      "description": "Get Khalid's debut album 'American Teen' featuring \"Let's Go\", \"Saved\", and the hit single \"Location\" Apple Music: http://smarturl.it/iAmericanTeen?IQid=yt Amazon Music:http://smarturl.it/azAmericanTeen?IQid=yt Google Play: http://smarturl.it/gpAmericanTe",
+      "duration": 222,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=by3yRdlQvzs",
+      "title": "Khalid - Location (Official Video)",
+      "description": "Get Khalid's debut album 'American Teen' featuring \"Let's Go\", \"Saved\", and the hit single \"Location\" Apple Music: http://smarturl.it/iAmericanTeen?IQid=yt Amazon Music:http://smarturl.it/azAmericanTeen?IQid=yt Google Play: http://smarturl.it/gpAmericanTe",
+      "duration": 222,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=by3yRdlQvzs",
+      "title": "Khalid - Location (Official Video)",
+      "description": "Get Khalid's debut album 'American Teen' featuring \"Let's Go\", \"Saved\", and the hit single \"Location\" Apple Music: http://smarturl.it/iAmericanTeen?IQid=yt Amazon Music:http://smarturl.it/azAmericanTeen?IQid=yt Google Play: http://smarturl.it/gpAmericanTe",
+      "duration": 222,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=by3yRdlQvzs",
+      "title": "Khalid - Location (Official Video)",
+      "description": "Get Khalid's debut album 'American Teen' featuring \"Let's Go\", \"Saved\", and the hit single \"Location\" Apple Music: http://smarturl.it/iAmericanTeen?IQid=yt Amazon Music:http://smarturl.it/azAmericanTeen?IQid=yt Google Play: http://smarturl.it/gpAmericanTe",
+      "duration": 222,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Oapebl0bADA",
+      "title": "Khalid - Saved (Official Music Video)",
+      "description": "Get Khalid's debut album 'American Teen' featuring \"Let's Go\", \"Saved\", and the hit single \"Location\"\nApple Music: http://smarturl.it/iAmericanTeen?IQid=yt\nAmazon Music:http://smarturl.it/azAmericanTeen?IQid=yt\nGoogle Play: http://smarturl.it/gpAmericanTe",
+      "duration": 225,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Contemporary R&B"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "American Teen",
+      "extraartists": [
+        {
+          "name": "Orlando Gomez",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar",
+          "tracks": "",
+          "id": 6022820,
+          "resource_url": "https://api.discogs.com/artists/6022820"
+        },
+        {
+          "name": "Leslie Johnson (8)",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 5634861,
+          "resource_url": "https://api.discogs.com/artists/5634861"
+        },
+        {
+          "name": "Alfredo Gonzalez (5)",
+          "anv": "",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 6022834,
+          "resource_url": "https://api.discogs.com/artists/6022834"
+        },
+        {
+          "name": "Hiko Momoji",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 6022832,
+          "resource_url": "https://api.discogs.com/artists/6022832"
+        },
+        {
+          "name": "Alfredo Gonzalez (5)",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 6022834,
+          "resource_url": "https://api.discogs.com/artists/6022834"
+        },
+        {
+          "name": "Orlando Gomez",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Assisted By]",
+          "tracks": "",
+          "id": 6022820,
+          "resource_url": "https://api.discogs.com/artists/6022820"
+        },
+        {
+          "name": "Alfredo Gonzalez (5)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6022834,
+          "resource_url": "https://api.discogs.com/artists/6022834"
+        },
+        {
+          "name": "Atilla Elci",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6022833,
+          "resource_url": "https://api.discogs.com/artists/6022833"
+        },
+        {
+          "name": "Khalid Robinson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5752939,
+          "resource_url": "https://api.discogs.com/artists/5752939"
+        },
+        {
+          "name": "Leslie Johnson (8)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5634861,
+          "resource_url": "https://api.discogs.com/artists/5634861"
+        },
+        {
+          "name": "Orlando Gomez",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6022820,
+          "resource_url": "https://api.discogs.com/artists/6022820"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Young Dumb & Broke",
+      "extraartists": [
+        {
+          "name": "Joel Little",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 966295,
+          "resource_url": "https://api.discogs.com/artists/966295"
+        },
+        {
+          "name": "Joel Little",
+          "anv": "",
+          "join": "",
+          "role": "Instrumentation By",
+          "tracks": "",
+          "id": 966295,
+          "resource_url": "https://api.discogs.com/artists/966295"
+        },
+        {
+          "name": "Joel Little",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 966295,
+          "resource_url": "https://api.discogs.com/artists/966295"
+        },
+        {
+          "name": "Joel Little",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 966295,
+          "resource_url": "https://api.discogs.com/artists/966295"
+        },
+        {
+          "name": "Khalid Robinson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5752939,
+          "resource_url": "https://api.discogs.com/artists/5752939"
+        },
+        {
+          "name": "Talay Riley",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1689956,
+          "resource_url": "https://api.discogs.com/artists/1689956"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Location",
+      "extraartists": [
+        {
+          "name": "Smash David",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4305559,
+          "resource_url": "https://api.discogs.com/artists/4305559"
+        },
+        {
+          "name": "Syk Sense",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3314152,
+          "resource_url": "https://api.discogs.com/artists/3314152"
+        },
+        {
+          "name": "Tunji Ige",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4674198,
+          "resource_url": "https://api.discogs.com/artists/4674198"
+        },
+        {
+          "name": "Alfredo Gonzalez (5)",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Additional Production]",
+          "tracks": "",
+          "id": 6022834,
+          "resource_url": "https://api.discogs.com/artists/6022834"
+        },
+        {
+          "name": "Alfredo Gonzalez (5)",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 6022834,
+          "resource_url": "https://api.discogs.com/artists/6022834"
+        },
+        {
+          "name": "Orlando Gomez",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Assisted By]",
+          "tracks": "",
+          "id": 6022820,
+          "resource_url": "https://api.discogs.com/artists/6022820"
+        },
+        {
+          "name": "Alfredo Gonzalez (5)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6022834,
+          "resource_url": "https://api.discogs.com/artists/6022834"
+        },
+        {
+          "name": "Joshua Scruggs",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3341407,
+          "resource_url": "https://api.discogs.com/artists/3341407"
+        },
+        {
+          "name": "Khalid Robinson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5752939,
+          "resource_url": "https://api.discogs.com/artists/5752939"
+        },
+        {
+          "name": "Samuel David Jimenez",
+          "anv": "Samuel David Jiminez",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4880482,
+          "resource_url": "https://api.discogs.com/artists/4880482"
+        },
+        {
+          "name": "Tunji Ige",
+          "anv": "Olatunji Ige",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4674198,
+          "resource_url": "https://api.discogs.com/artists/4674198"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Another Sad Love Song",
+      "extraartists": [
+        {
+          "name": "DJ Dodger Stadium",
+          "anv": "DJDS",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2637978,
+          "resource_url": "https://api.discogs.com/artists/2637978"
+        },
+        {
+          "name": "DJ Dodger Stadium",
+          "anv": "DJDS",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 2637978,
+          "resource_url": "https://api.discogs.com/artists/2637978"
+        },
+        {
+          "name": "Jerome Potter",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1739291,
+          "resource_url": "https://api.discogs.com/artists/1739291"
+        },
+        {
+          "name": "Khalid Robinson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5752939,
+          "resource_url": "https://api.discogs.com/artists/5752939"
+        },
+        {
+          "name": "Samuel Griesemer",
+          "anv": "Sam Griesemer",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5375388,
+          "resource_url": "https://api.discogs.com/artists/5375388"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Saved",
+      "extraartists": [
+        {
+          "name": "Bryan Medina",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 6022827,
+          "resource_url": "https://api.discogs.com/artists/6022827"
+        },
+        {
+          "name": "Cameron Hale",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 6022826,
+          "resource_url": "https://api.discogs.com/artists/6022826"
+        },
+        {
+          "name": "Bryan Medina",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 6022827,
+          "resource_url": "https://api.discogs.com/artists/6022827"
+        },
+        {
+          "name": "OZ (39)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4438842,
+          "resource_url": "https://api.discogs.com/artists/4438842"
+        },
+        {
+          "name": "Syk Sense",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3314152,
+          "resource_url": "https://api.discogs.com/artists/3314152"
+        },
+        {
+          "name": "Tiggi (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Additional Production]",
+          "tracks": "",
+          "id": 6022828,
+          "resource_url": "https://api.discogs.com/artists/6022828"
+        },
+        {
+          "name": "Tiggi (2)",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 6022828,
+          "resource_url": "https://api.discogs.com/artists/6022828"
+        },
+        {
+          "name": "Bryan Medina",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6022827,
+          "resource_url": "https://api.discogs.com/artists/6022827"
+        },
+        {
+          "name": "Calvin Tarvin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6022825,
+          "resource_url": "https://api.discogs.com/artists/6022825"
+        },
+        {
+          "name": "Cameron Hale",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6022826,
+          "resource_url": "https://api.discogs.com/artists/6022826"
+        },
+        {
+          "name": "Joshua Scruggs",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3341407,
+          "resource_url": "https://api.discogs.com/artists/3341407"
+        },
+        {
+          "name": "Khalid Robinson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5752939,
+          "resource_url": "https://api.discogs.com/artists/5752939"
+        },
+        {
+          "name": "Ozan Yildirim",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1028976,
+          "resource_url": "https://api.discogs.com/artists/1028976"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Coaster",
+      "extraartists": [
+        {
+          "name": "Skrittzy",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 6022839,
+          "resource_url": "https://api.discogs.com/artists/6022839"
+        },
+        {
+          "name": "Orlando Gomez",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 6022820,
+          "resource_url": "https://api.discogs.com/artists/6022820"
+        },
+        {
+          "name": "Khalid Robinson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5752939,
+          "resource_url": "https://api.discogs.com/artists/5752939"
+        },
+        {
+          "name": "Nathaniel Hernandez",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6022822,
+          "resource_url": "https://api.discogs.com/artists/6022822"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "8Teen",
+      "extraartists": [
+        {
+          "name": "Joel Little",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 966295,
+          "resource_url": "https://api.discogs.com/artists/966295"
+        },
+        {
+          "name": "Joel Little",
+          "anv": "",
+          "join": "",
+          "role": "Instrumentation By",
+          "tracks": "",
+          "id": 966295,
+          "resource_url": "https://api.discogs.com/artists/966295"
+        },
+        {
+          "name": "Joel Little",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 966295,
+          "resource_url": "https://api.discogs.com/artists/966295"
+        },
+        {
+          "name": "Joel Little",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 966295,
+          "resource_url": "https://api.discogs.com/artists/966295"
+        },
+        {
+          "name": "Khalid Robinson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5752939,
+          "resource_url": "https://api.discogs.com/artists/5752939"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Let's Go",
+      "extraartists": [
+        {
+          "name": "Hiko Momoji",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 6022832,
+          "resource_url": "https://api.discogs.com/artists/6022832"
+        },
+        {
+          "name": "OZ (39)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4438842,
+          "resource_url": "https://api.discogs.com/artists/4438842"
+        },
+        {
+          "name": "Daniel Picciotto",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Additional Production]",
+          "tracks": "",
+          "id": 6022821,
+          "resource_url": "https://api.discogs.com/artists/6022821"
+        },
+        {
+          "name": "Komari Bailey",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 6022837,
+          "resource_url": "https://api.discogs.com/artists/6022837"
+        },
+        {
+          "name": "Atilla Elci",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6022833,
+          "resource_url": "https://api.discogs.com/artists/6022833"
+        },
+        {
+          "name": "Daniel Picciotto",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6022821,
+          "resource_url": "https://api.discogs.com/artists/6022821"
+        },
+        {
+          "name": "Khalid Robinson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5752939,
+          "resource_url": "https://api.discogs.com/artists/5752939"
+        },
+        {
+          "name": "Noah Gale",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6022840,
+          "resource_url": "https://api.discogs.com/artists/6022840"
+        },
+        {
+          "name": "Ozan Yildirim",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1028976,
+          "resource_url": "https://api.discogs.com/artists/1028976"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Hopeless",
+      "extraartists": [
+        {
+          "name": "Hiko Momoji",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 6022832,
+          "resource_url": "https://api.discogs.com/artists/6022832"
+        },
+        {
+          "name": "Alfredo Gonzalez (5)",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 6022834,
+          "resource_url": "https://api.discogs.com/artists/6022834"
+        },
+        {
+          "name": "Orlando Gomez",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Assisted By]",
+          "tracks": "",
+          "id": 6022820,
+          "resource_url": "https://api.discogs.com/artists/6022820"
+        },
+        {
+          "name": "Atilla Elci",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6022833,
+          "resource_url": "https://api.discogs.com/artists/6022833"
+        },
+        {
+          "name": "Khalid Robinson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5752939,
+          "resource_url": "https://api.discogs.com/artists/5752939"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Cold Blooded",
+      "extraartists": [
+        {
+          "name": "The Arcade",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2435273,
+          "resource_url": "https://api.discogs.com/artists/2435273"
+        },
+        {
+          "name": "UNO Stereo",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Additional Production]",
+          "tracks": "",
+          "id": 6022819,
+          "resource_url": "https://api.discogs.com/artists/6022819"
+        },
+        {
+          "name": "Carl Dimataga",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 806758,
+          "resource_url": "https://api.discogs.com/artists/806758"
+        },
+        {
+          "name": "Jon Mills",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 191893,
+          "resource_url": "https://api.discogs.com/artists/191893"
+        },
+        {
+          "name": "Khalid Robinson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5752939,
+          "resource_url": "https://api.discogs.com/artists/5752939"
+        },
+        {
+          "name": "Kurtis Mckenzie",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2779966,
+          "resource_url": "https://api.discogs.com/artists/2779966"
+        },
+        {
+          "name": "Nick Martin (17)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6022823,
+          "resource_url": "https://api.discogs.com/artists/6022823"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Winter",
+      "extraartists": [
+        {
+          "name": "Mike \"Scribz\" Riley",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3227489,
+          "resource_url": "https://api.discogs.com/artists/3227489"
+        },
+        {
+          "name": "Mike \"Scribz\" Riley",
+          "anv": "Scribz Riley",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 3227489,
+          "resource_url": "https://api.discogs.com/artists/3227489"
+        },
+        {
+          "name": "Khalid Robinson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5752939,
+          "resource_url": "https://api.discogs.com/artists/5752939"
+        },
+        {
+          "name": "Mike \"Scribz\" Riley",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3227489,
+          "resource_url": "https://api.discogs.com/artists/3227489"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Therapy",
+      "extraartists": [
+        {
+          "name": "Joel Little",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 966295,
+          "resource_url": "https://api.discogs.com/artists/966295"
+        },
+        {
+          "name": "Joel Little",
+          "anv": "",
+          "join": "",
+          "role": "Instrumentation By",
+          "tracks": "",
+          "id": 966295,
+          "resource_url": "https://api.discogs.com/artists/966295"
+        },
+        {
+          "name": "Joel Little",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 966295,
+          "resource_url": "https://api.discogs.com/artists/966295"
+        },
+        {
+          "name": "Joel Little",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 966295,
+          "resource_url": "https://api.discogs.com/artists/966295"
+        },
+        {
+          "name": "Khalid Robinson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5752939,
+          "resource_url": "https://api.discogs.com/artists/5752939"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Keep Me",
+      "extraartists": [
+        {
+          "name": "VanJess",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 2923540,
+          "resource_url": "https://api.discogs.com/artists/2923540"
+        },
+        {
+          "name": "Jake Austin",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 6022838,
+          "resource_url": "https://api.discogs.com/artists/6022838"
+        },
+        {
+          "name": "OZ (39)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4438842,
+          "resource_url": "https://api.discogs.com/artists/4438842"
+        },
+        {
+          "name": "Sevn Thomas",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3833210,
+          "resource_url": "https://api.discogs.com/artists/3833210"
+        },
+        {
+          "name": "Syk Sense",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3314152,
+          "resource_url": "https://api.discogs.com/artists/3314152"
+        },
+        {
+          "name": "Dave Savaóe",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Additional Production]",
+          "tracks": "",
+          "id": 6022835,
+          "resource_url": "https://api.discogs.com/artists/6022835"
+        },
+        {
+          "name": "Mike Sabri",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 6022829,
+          "resource_url": "https://api.discogs.com/artists/6022829"
+        },
+        {
+          "name": "Tiggi (2)",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 6022828,
+          "resource_url": "https://api.discogs.com/artists/6022828"
+        },
+        {
+          "name": "Jake Austin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6022838,
+          "resource_url": "https://api.discogs.com/artists/6022838"
+        },
+        {
+          "name": "Joshua Scruggs",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3341407,
+          "resource_url": "https://api.discogs.com/artists/3341407"
+        },
+        {
+          "name": "Khalid Robinson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5752939,
+          "resource_url": "https://api.discogs.com/artists/5752939"
+        },
+        {
+          "name": "Ozan Yildirim",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1028976,
+          "resource_url": "https://api.discogs.com/artists/1028976"
+        },
+        {
+          "name": "Rupert Thomas Jr.",
+          "anv": "Rupert Thomas, Jr.",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3775418,
+          "resource_url": "https://api.discogs.com/artists/3775418"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Shot Down",
+      "extraartists": [
+        {
+          "name": "Illmind",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 186449,
+          "resource_url": "https://api.discogs.com/artists/186449"
+        },
+        {
+          "name": "Syk Sense",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3314152,
+          "resource_url": "https://api.discogs.com/artists/3314152"
+        },
+        {
+          "name": "Alfredo Gonzalez (5)",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 6022834,
+          "resource_url": "https://api.discogs.com/artists/6022834"
+        },
+        {
+          "name": "Orlando Gomez",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 6022820,
+          "resource_url": "https://api.discogs.com/artists/6022820"
+        },
+        {
+          "name": "Joshua Scruggs",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3341407,
+          "resource_url": "https://api.discogs.com/artists/3341407"
+        },
+        {
+          "name": "Khalid Robinson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5752939,
+          "resource_url": "https://api.discogs.com/artists/5752939"
+        },
+        {
+          "name": "Ramon Ibanga",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1566069,
+          "resource_url": "https://api.discogs.com/artists/1566069"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "title": "Angels",
+      "extraartists": [
+        {
+          "name": "Alfredo Gonzalez (5)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 6022834,
+          "resource_url": "https://api.discogs.com/artists/6022834"
+        },
+        {
+          "name": "Syk Sense",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3314152,
+          "resource_url": "https://api.discogs.com/artists/3314152"
+        },
+        {
+          "name": "Alfredo Gonzalez (5)",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 6022834,
+          "resource_url": "https://api.discogs.com/artists/6022834"
+        },
+        {
+          "name": "Orlando Gomez",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 6022820,
+          "resource_url": "https://api.discogs.com/artists/6022820"
+        },
+        {
+          "name": "Jacob Del Olmo",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Assisted By]",
+          "tracks": "",
+          "id": 6022824,
+          "resource_url": "https://api.discogs.com/artists/6022824"
+        },
+        {
+          "name": "Robert Macias",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Assisted By]",
+          "tracks": "",
+          "id": 221193,
+          "resource_url": "https://api.discogs.com/artists/221193"
+        },
+        {
+          "name": "Alfredo Gonzalez (5)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6022834,
+          "resource_url": "https://api.discogs.com/artists/6022834"
+        },
+        {
+          "name": "Joshua Scruggs",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3341407,
+          "resource_url": "https://api.discogs.com/artists/3341407"
+        },
+        {
+          "name": "Khalid Robinson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5752939,
+          "resource_url": "https://api.discogs.com/artists/5752939"
+        }
+      ],
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Tunji Balogun",
+      "anv": "",
+      "join": "",
+      "role": "A&R",
+      "tracks": "",
+      "id": 2265984,
+      "resource_url": "https://api.discogs.com/artists/2265984"
+    },
+    {
+      "name": "Tina Ibañez",
+      "anv": "",
+      "join": "",
+      "role": "Art Direction, Design",
+      "tracks": "",
+      "id": 1987786,
+      "resource_url": "https://api.discogs.com/artists/1987786"
+    },
+    {
+      "name": "Timothy Reynolds (2)",
+      "anv": "",
+      "join": "",
+      "role": "Coordinator [A&R Coordination]",
+      "tracks": "",
+      "id": 6022836,
+      "resource_url": "https://api.discogs.com/artists/6022836"
+    },
+    {
+      "name": "Erwin Gorostiza",
+      "anv": "",
+      "join": "",
+      "role": "Creative Director [RCA]",
+      "tracks": "",
+      "id": 1829923,
+      "resource_url": "https://api.discogs.com/artists/1829923"
+    },
+    {
+      "name": "Courtney Stewart",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 2415937,
+      "resource_url": "https://api.discogs.com/artists/2415937"
+    },
+    {
+      "name": "Tunji Balogun",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 2265984,
+      "resource_url": "https://api.discogs.com/artists/2265984"
+    },
+    {
+      "name": "Joshua Scruggs",
+      "anv": "Joshua \"Syk Sense\" Scruggs",
+      "join": "",
+      "role": "Executive-Producer [Co]",
+      "tracks": "",
+      "id": 3341407,
+      "resource_url": "https://api.discogs.com/artists/3341407"
+    },
+    {
+      "name": "Wes Garland",
+      "anv": "",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 2135761,
+      "resource_url": "https://api.discogs.com/artists/2135761"
+    },
+    {
+      "name": "Todd Rubenstein Law, Inc.",
+      "anv": "",
+      "join": "",
+      "role": "Legal",
+      "tracks": "",
+      "id": 6022830,
+      "resource_url": "https://api.discogs.com/artists/6022830"
+    },
+    {
+      "name": "Dave Kutch",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 410696,
+      "resource_url": "https://api.discogs.com/artists/410696"
+    },
+    {
+      "name": "Erik Madrid",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "",
+      "id": 1280303,
+      "resource_url": "https://api.discogs.com/artists/1280303"
+    },
+    {
+      "name": "Jorge Gutierrez (3)",
+      "anv": "Jorge Gutiérrez",
+      "join": "",
+      "role": "Mixed By [Assisted By]",
+      "tracks": "",
+      "id": 5366515,
+      "resource_url": "https://api.discogs.com/artists/5366515"
+    },
+    {
+      "name": "Stephanie Smith",
+      "anv": "",
+      "join": "",
+      "role": "Other [Groomer]",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Sue Choi",
+      "anv": "",
+      "join": "",
+      "role": "Other [Styling]",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Kacie Tomita",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 6022831,
+      "resource_url": "https://api.discogs.com/artists/6022831"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/R1Ydw18cwOOzdtVKr7W8j7jxioBLlyFhSUG47gZYwW0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjAtOTI0NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/R1Ydw18cwOOzdtVKr7W8j7jxioBLlyFhSUG47gZYwW0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjAtOTI0NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/6aVZqX0HYavLZjeU7GIS8syBeMFKfCo7o0zb3RKpKNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjAtOTI0NC5qcGVn.jpeg",
+      "width": 599,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/GgIA2WMk3jw8scyIAyhSBiiSO7YCkbOiXpQAd1YtbYU/rs:fit/g:sm/q:90/h:279/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjItMTkwNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/GgIA2WMk3jw8scyIAyhSBiiSO7YCkbOiXpQAd1YtbYU/rs:fit/g:sm/q:90/h:279/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjItMTkwNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/6KbmAdtFgxxyIy2QfXIi6jjEVX4OJkSQGoU5Sz_78C0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjItMTkwNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 279
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/fiHcePDGt4CuEgVb4j-kavDK7gSyiK2grUxrGIHQ92I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjItOTgzMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/fiHcePDGt4CuEgVb4j-kavDK7gSyiK2grUxrGIHQ92I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjItOTgzMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ffbssIRMmsntJKVs-Um4X54kCjd20bhBz6OqbLsmrwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjItOTgzMy5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/hB2yzLezF9M5MRh4d7NDuRAMIoceFGJSR-vtOsVJkic/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjAtNjIxNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/hB2yzLezF9M5MRh4d7NDuRAMIoceFGJSR-vtOsVJkic/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjAtNjIxNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Nbe0NDEanvNuqqgvuJg8awgwivrQ8WxoHMxatkokJk0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjAtNjIxNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/R7TKbNhJDP8XCmmBTQJ-w1Cw7TetzRUse0epTRGlLF4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MTktMTA5NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/R7TKbNhJDP8XCmmBTQJ-w1Cw7TetzRUse0epTRGlLF4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MTktMTA5NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/uO6cWMLDv1oSQOuksMg7vkLtRGWy39WYIehED0H6rMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MTktMTA5NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/UI8y_gJUynEPayN9xtyHHKyf4UBCGOAItNOC2tyh-ag/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjAtMzk1Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/UI8y_gJUynEPayN9xtyHHKyf4UBCGOAItNOC2tyh-ag/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjAtMzk1Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/AQR3ATHC-ddg8A3OGazXZs4KWNkgOB_r4hbVsPcHdyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjAtMzk1Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/oEUKifJ0nS2oTX_fQG78m08zI4kwPHmDi1vRyqjzKOI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjAtNzM3Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/oEUKifJ0nS2oTX_fQG78m08zI4kwPHmDi1vRyqjzKOI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjAtNzM3Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/0BUuQRixy4kyayGgjEvQhJhZulPDPb4B9WnxyBlGGco/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjAtNzM3Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/nl7rxC3SlvAa4yYziTGYDTHePQtbPjx9MmP0C4dmuLE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjItNTY0OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/nl7rxC3SlvAa4yYziTGYDTHePQtbPjx9MmP0C4dmuLE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjItNTY0OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/_v7npcHW-kLMcUnpOXxT1l-LxYzSTsXKYaaZ6QRoDfw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjItNTY0OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/McQT7HCBR03F6IUnxQa7Bn9CNwQTuEoBLXGcgBC6nuM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjItNTc4My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/McQT7HCBR03F6IUnxQa7Bn9CNwQTuEoBLXGcgBC6nuM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjItNTc4My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/C0na6SglbXL5lWByuhafqPAOHvg-d0Ch8rkeCb2VQtQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjItNTc4My5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/beYqg1SRqP6aR3ZXvlrm7Gfw84B7_0BvIYG0RXhkP14/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjItODU1MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/beYqg1SRqP6aR3ZXvlrm7Gfw84B7_0BvIYG0RXhkP14/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjItODU1MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/KGltNI_SG1w3C_gpsSfjBQb9AKFCESI5ngrJt7cXFVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjItODU1MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/bNRAAIm7cV7yP1HLoqZESmvKbT66kVIIs8XTutTIlhs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjItOTAyOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/bNRAAIm7cV7yP1HLoqZESmvKbT66kVIIs8XTutTIlhs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjItOTAyOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/FjBg5E65wb74EDfrtmsQFNoZWuwR6wHK-TQoXEP-EY0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjItOTAyOC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/TZdFCkL6Fmh5cCA4DR3DZCX7iaRkvqZnc3HsQiPUh4o/rs:fit/g:sm/q:90/h:600/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE0OTIwMjY4/MDMtMzY0MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/TZdFCkL6Fmh5cCA4DR3DZCX7iaRkvqZnc3HsQiPUh4o/rs:fit/g:sm/q:90/h:600/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE0OTIwMjY4/MDMtMzY0MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/RPKut7gJS1U6DSLP6aSO65vm31fy4DJ036DcvwB94lg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE0OTIwMjY4/MDMtMzY0MC5qcGVn.jpeg",
+      "width": 568,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/6aVZqX0HYavLZjeU7GIS8syBeMFKfCo7o0zb3RKpKNc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMTIz/NzM4LTE3MDg5OTcw/MjAtOTI0NC5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

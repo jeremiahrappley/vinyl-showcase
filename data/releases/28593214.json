@@ -1,0 +1,338 @@
+{
+  "id": 28593214,
+  "status": "Accepted",
+  "year": 2023,
+  "resource_url": "https://api.discogs.com/releases/28593214",
+  "uri": "https://www.discogs.com/release/28593214-Troye-Sivan-Something-To-Give-Each-Other",
+  "artists": [
+    {
+      "name": "Troye Sivan",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 4402206,
+      "resource_url": "https://api.discogs.com/artists/4402206",
+      "thumbnail_url": "https://i.discogs.com/ry2L80Bu5ttiAaE_-yVxupp9gr3tg3ZwZsT8g64a9Uk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ0MDIy/MDYtMTc3NTMyNjI1/NC02NDIxLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Troye Sivan",
+  "labels": [
+    {
+      "name": "EMI",
+      "catno": "B003838101",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 26126,
+      "resource_url": "https://api.discogs.com/labels/26126",
+      "thumbnail_url": "https://i.discogs.com/kyUkdCkRdB9c0UbyACsewybDBqUqAVAU6ndQAp2VII4/rs:fit/g:sm/q:90/h:331/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2MTI2/LTEyMDY0Njg0NTEu/anBlZw.jpeg"
+    },
+    {
+      "name": "Capitol Records",
+      "catno": "B003838101",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 654,
+      "resource_url": "https://api.discogs.com/labels/654",
+      "thumbnail_url": "https://i.discogs.com/jOm50Ncnop3VOhKg0rYbdvq7epxn5mnXdOWfVQNjOBg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY1NC0x/NzgxODU0Mzk3LTU2/MzcuanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "GZ Media",
+      "catno": "266269E",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 2760,
+    "want": 429,
+    "rating": {
+      "count": 179,
+      "average": 4.62
+    },
+    "submitter": {
+      "username": "CD_WAREHOUSE_817",
+      "resource_url": "https://api.discogs.com/users/CD_WAREHOUSE_817"
+    },
+    "contributors": [
+      {
+        "username": "CD_WAREHOUSE_817",
+        "resource_url": "https://api.discogs.com/users/CD_WAREHOUSE_817"
+      },
+      {
+        "username": "gil.semple",
+        "resource_url": "https://api.discogs.com/users/gil.semple"
+      },
+      {
+        "username": "SP_Vinyl",
+        "resource_url": "https://api.discogs.com/users/SP_Vinyl"
+      },
+      {
+        "username": "nathanpotatoes",
+        "resource_url": "https://api.discogs.com/users/nathanpotatoes"
+      },
+      {
+        "username": "angemoon75",
+        "resource_url": "https://api.discogs.com/users/angemoon75"
+      },
+      {
+        "username": "lanny_kaster",
+        "resource_url": "https://api.discogs.com/users/lanny_kaster"
+      },
+      {
+        "username": "MadCrab",
+        "resource_url": "https://api.discogs.com/users/MadCrab"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2023-10-14T10:51:31-07:00",
+  "date_changed": "2024-06-21T11:21:38-07:00",
+  "num_for_sale": 14,
+  "lowest_price": 27.6,
+  "master_id": 3272203,
+  "master_url": "https://api.discogs.com/masters/3272203",
+  "title": "Something To Give Each Other",
+  "country": "US",
+  "released": "2023-10-13",
+  "notes": "Standard Black Edition.\nTimings listed on labels and sleeve reverse",
+  "released_formatted": "13 Oct 2023",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "602455826503",
+      "description": "Scanned"
+    },
+    {
+      "type": "Barcode",
+      "value": "6 02455 82650 3",
+      "description": "Printed"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "266269E1/E 00602455826503-A",
+      "description": "A side run-out"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "266269E2/I 00602455826503-B",
+      "description": "B side run-out"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=b53QJYP-lqY",
+      "title": "Troye Sivan - Rush (Official Video)",
+      "description": "Get the album ‘Something To Give Each Other’ by Troye Sivan here: https://troyesivan.lnk.to/SomethingToGiveEachOtherID\nStream Troye’s Music: https://troyesivan.lnk.to/Complete\nWatch Troye’s Official Music Videos: https://www.youtube.com/playlist?list=PLCr",
+      "duration": 223,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=WjLcVqjIkLo",
+      "title": "Troye Sivan - Got Me Started (Official Video)",
+      "description": "Made with the support of sustainable, LGBTQ+ owned and operated Explorer Cold Brew. Elevate your day – and your coffee ritual – with a 30% discount code here https://explorercoldbrew.com/discount/TROYE30 (USA Residents only).\n\nGet the album ‘Something To ",
+      "duration": 197,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ZhGl8McrOHo",
+      "title": "Troye Sivan - One of Your Girls (Official Video)",
+      "description": "Get the album ‘Something to Give Each Other’ by Troye Sivan: https://troyesivan.lnk.to/SomethingToGiveEachOtherID\n\nWatch Troye’s Music Videos: https://youtube.com/playlist?list=PLCruzMXby65nwW7AcuE8Zh84ZPrEdTFDv\n\nFollow me!\nhttps://www.troyesivan.com\nhttp",
+      "duration": 190,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5mnwCbIZ6rg",
+      "title": "Troye Sivan - What's The Time Where You Are? (Official Audio)",
+      "description": "Get the album ‘Something to Give Each Other’ by Troye Sivan: https://troyesivan.lnk.to/SomethingToGiveEachOtherID\n\nWatch Troye’s Music Videos: https://youtube.com/playlist?list=PLCruzMXby65nwW7AcuE8Zh84ZPrEdTFDv\n\nFollow me!\nhttps://www.troyesivan.com\nhttp",
+      "duration": 204,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=nX92lStRfMo",
+      "title": "Troye Sivan - In My Room (ft. Guitarricadelafuente) (Official Audio)",
+      "description": "Get the album ‘Something to Give Each Other’ by Troye Sivan: https://troyesivan.lnk.to/SomethingToGiveEachOtherID\n\nWatch Troye’s Music Videos: https://youtube.com/playlist?list=PLCruzMXby65nwW7AcuE8Zh84ZPrEdTFDv\n\nFollow me!\nhttps://www.troyesivan.com\nhttp",
+      "duration": 194,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=39OUkc1b-HQ",
+      "title": "Troye Sivan - Still Got It (Official Audio)",
+      "description": "Get the album ‘Something to Give Each Other’ by Troye Sivan: https://troyesivan.lnk.to/SomethingToGiveEachOtherID\n\nWatch Troye’s Music Videos: https://youtube.com/playlist?list=PLCruzMXby65nwW7AcuE8Zh84ZPrEdTFDv\n\nFollow me!\nhttps://www.troyesivan.com\nhttp",
+      "duration": 209,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=rS0e7nRzrUQ",
+      "title": "Troye Sivan - Can't Go Back, Baby (Official Audio)",
+      "description": "Get the album ‘Something to Give Each Other’ by Troye Sivan: https://troyesivan.lnk.to/SomethingToGiveEachOtherID\n\nWatch Troye’s Music Videos: https://youtube.com/playlist?list=PLCruzMXby65nwW7AcuE8Zh84ZPrEdTFDv\n\nFollow me!\nhttps://www.troyesivan.com\nhttp",
+      "duration": 202,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=oO5SXI-b_dg",
+      "title": "Troye Sivan - Silly (Official Audio)",
+      "description": "Get the album ‘Something to Give Each Other’ by Troye Sivan: https://troyesivan.lnk.to/SomethingToGiveEachOtherID\n\nWatch Troye’s Music Videos: https://youtube.com/playlist?list=PLCruzMXby65nwW7AcuE8Zh84ZPrEdTFDv\n\nFollow me!\nhttps://www.troyesivan.com\nhttp",
+      "duration": 219,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=VmiBaxJEzuw",
+      "title": "Troye Sivan - Honey (Official Audio)",
+      "description": "Get the album ‘Something to Give Each Other’ by Troye Sivan: https://troyesivan.lnk.to/SomethingToGiveEachOtherID\n\nWatch Troye’s Music Videos: https://youtube.com/playlist?list=PLCruzMXby65nwW7AcuE8Zh84ZPrEdTFDv\n\nFollow me!\nhttps://www.troyesivan.com\nhttp",
+      "duration": 207,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=gGXll5TIOEk",
+      "title": "Troye Sivan - How to Stay with You (Official Audio)",
+      "description": "Get the album ‘Something to Give Each Other’ by Troye Sivan: https://troyesivan.lnk.to/SomethingToGiveEachOtherID\n\nWatch Troye’s Music Videos: https://youtube.com/playlist?list=PLCruzMXby65nwW7AcuE8Zh84ZPrEdTFDv\n\nFollow me!\nhttps://www.troyesivan.com\nhttp",
+      "duration": 197,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=BD3HGADlqh0",
+      "title": "Troye Sivan - Rush (Official Video)",
+      "description": "Stream or download “Rush” by Troye Sivan here: https://TroyeSivan.lnk.to/Rush\n\nFollow me!\nhttps://www.troyesivan.com\nhttps://twitter.com/troyesivan\nhttps://youtube.com/user/TroyeSivan18\nhttps://instagram.com/troyesivan\nhttps://facebook.com/troyesivan\nhttp",
+      "duration": 171,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Pop"
+  ],
+  "styles": [
+    "Dance-pop"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Rush",
+      "duration": "2:36"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "What's The Time Where You Are?",
+      "duration": "3:23"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "One Of Your Girls ",
+      "duration": "3:01"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "In My Room ",
+      "extraartists": [
+        {
+          "name": "Guitarricadelafuente",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 7214852,
+          "resource_url": "https://api.discogs.com/artists/7214852"
+        }
+      ],
+      "duration": "3:13"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Still Got It ",
+      "duration": "3:28"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Can't Go Back, Baby ",
+      "duration": "3:21"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Got Me Started ",
+      "duration": "3:18"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Silly ",
+      "duration": "3:38"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Honey ",
+      "duration": "3:26"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "How  To Stay With You ",
+      "duration": "3:16"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/iaZzjHaY05AzDRZwlfPRHhuBVYZC8JmNWnsmDrktfuw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTkz/MjE0LTE2OTczNzg0/NjQtOTEyMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/iaZzjHaY05AzDRZwlfPRHhuBVYZC8JmNWnsmDrktfuw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTkz/MjE0LTE2OTczNzg0/NjQtOTEyMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/sIW53Oj9E4IsjkRpG37HUAGtz0Rtmlgty2UAGCRciaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTkz/MjE0LTE2OTczNzg0/NjQtOTEyMy5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/G9CrHgvcOyOTQoIgLtKAQ9Nm1Bji2RgIXX7CmhYwKMg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTkz/MjE0LTE2OTczNzg0/NjQtNjU1OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/G9CrHgvcOyOTQoIgLtKAQ9Nm1Bji2RgIXX7CmhYwKMg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTkz/MjE0LTE2OTczNzg0/NjQtNjU1OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/IcTjVUERVDqSrQdJ9GBxoNdC4DcrPn3CO8yot_FxgdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTkz/MjE0LTE2OTczNzg0/NjQtNjU1OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/bB_V2_qskViQ5jImsTKhYW-RC6hmkknkw5DVMBe06gg/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTkz/MjE0LTE2OTc0MTA5/NjYtMzMyOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/bB_V2_qskViQ5jImsTKhYW-RC6hmkknkw5DVMBe06gg/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTkz/MjE0LTE2OTc0MTA5/NjYtMzMyOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/-DhQYBKlAYgoMYV0k-4GB8SREaAUmISzJHj5rgpVM0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTkz/MjE0LTE2OTc0MTA5/NjYtMzMyOC5qcGVn.jpeg",
+      "width": 450,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ZiBUuWMGYTjoTgH5g9K1Us4LLpgM94HYQPYiccSV5Do/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTkz/MjE0LTE2OTc0MTA5/NjUtMTY3OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ZiBUuWMGYTjoTgH5g9K1Us4LLpgM94HYQPYiccSV5Do/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTkz/MjE0LTE2OTc0MTA5/NjUtMTY3OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/YeaTWevnp1HZd4kPlMB01C4kvHyTGVCESf25nqkVvdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTkz/MjE0LTE2OTc0MTA5/NjUtMTY3OC5qcGVn.jpeg",
+      "width": 450,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/sIW53Oj9E4IsjkRpG37HUAGtz0Rtmlgty2UAGCRciaU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTkz/MjE0LTE2OTczNzg0/NjQtOTEyMy5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

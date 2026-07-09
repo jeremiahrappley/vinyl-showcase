@@ -1,0 +1,2477 @@
+{
+  "id": 17121801,
+  "status": "Accepted",
+  "year": 2020,
+  "resource_url": "https://api.discogs.com/releases/17121801",
+  "uri": "https://www.discogs.com/release/17121801-Adele-3-21",
+  "artists": [
+    {
+      "name": "Adele (3)",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 819015,
+      "resource_url": "https://api.discogs.com/artists/819015",
+      "thumbnail_url": "https://i.discogs.com/YljpB4UqaQeFCgOMCrvJqsAIXmkchPjxQBza_Gpdjxs/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgxOTAx/NS0xNjM3NTQ5Nzk4/LTUzNTYuanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Adele (3)",
+  "labels": [
+    {
+      "name": "XL Recordings",
+      "catno": "XL1138LP",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 160,
+      "resource_url": "https://api.discogs.com/labels/160",
+      "thumbnail_url": "https://i.discogs.com/932wWIy-irN7e63hKJxyhvNn1NkxqiKg4vlaTd7BLcc/rs:fit/g:sm/q:90/h:434/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2MC0x/NDk2MTcwNjcxLTQz/NDAucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "XL Recordings Ltd.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 43718,
+      "resource_url": "https://api.discogs.com/labels/43718"
+    },
+    {
+      "name": "XL Recordings Ltd.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 43718,
+      "resource_url": "https://api.discogs.com/labels/43718"
+    },
+    {
+      "name": "Universal - Songs Of Polygram International, Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 320241,
+      "resource_url": "https://api.discogs.com/labels/320241"
+    },
+    {
+      "name": "EMI Blackwood Music Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 269235,
+      "resource_url": "https://api.discogs.com/labels/269235",
+      "thumbnail_url": "https://i.discogs.com/31KJ3DJOR3mHnluFpNAUjTBPWQ-VB9wfp9e2V9Y16bQ/rs:fit/g:sm/q:90/h:92/w:314/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2OTIz/NS0xNTY4NzQyMTg4/LTY1NzYucG5n.jpeg"
+    },
+    {
+      "name": "EMI Music Publishing Ltd.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 265460,
+      "resource_url": "https://api.discogs.com/labels/265460",
+      "thumbnail_url": "https://i.discogs.com/QUVURY3OB4iixKDJbWXcejxXVjfw64FEPr6tx2MyyFc/rs:fit/g:sm/q:90/h:192/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTQ2/MC0xNjE3MDIxMTM3/LTQxMjguanBlZw.jpeg"
+    },
+    {
+      "name": "Write 2 Live",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 310694,
+      "resource_url": "https://api.discogs.com/labels/310694"
+    },
+    {
+      "name": "Kobalt Songs Music Publishing, Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 686725,
+      "resource_url": "https://api.discogs.com/labels/686725"
+    },
+    {
+      "name": "Chrysalis Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 113559,
+      "resource_url": "https://api.discogs.com/labels/113559",
+      "thumbnail_url": "https://i.discogs.com/3Eo-roR6r2SwkOLpOC6sgxl02EmXIn_Crmp6FlcHmVk/rs:fit/g:sm/q:90/h:308/w:460/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExMzU1/OS0xNDEwNjc5MjIz/LTM4MTMuanBlZw.jpeg"
+    },
+    {
+      "name": "Sugar Lake Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 537250,
+      "resource_url": "https://api.discogs.com/labels/537250"
+    },
+    {
+      "name": "Chrysalis Songs",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 277109,
+      "resource_url": "https://api.discogs.com/labels/277109",
+      "thumbnail_url": "https://i.discogs.com/tJTsk4_SSCaPkTQCKsF6w-Re2L1g1z_mRRqJluMkJoc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3NzEw/OS0xMzQ0Njc3Njcy/LTM4MzEuanBlZw.jpeg"
+    },
+    {
+      "name": "Sony/ATV Songs LLC",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 303651,
+      "resource_url": "https://api.discogs.com/labels/303651",
+      "thumbnail_url": "https://i.discogs.com/_1RjD6n_UmQhwJSBpfM5RUbiSvkc2ZQVjJTtwZs2g6c/rs:fit/g:sm/q:90/h:60/w:314/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwMzY1/MS0xNTY4NzQyNTE0/LTM1MTkucG5n.jpeg"
+    },
+    {
+      "name": "Sony/ATV Music Publishing (UK) Ltd.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 281871,
+      "resource_url": "https://api.discogs.com/labels/281871"
+    },
+    {
+      "name": "Firehouse Cat Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 606642,
+      "resource_url": "https://api.discogs.com/labels/606642"
+    },
+    {
+      "name": "Universal Music-MGB Songs",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 370446,
+      "resource_url": "https://api.discogs.com/labels/370446"
+    },
+    {
+      "name": "Shangri-La, Malibu, CA",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 1030841,
+      "resource_url": "https://api.discogs.com/labels/1030841",
+      "thumbnail_url": "https://i.discogs.com/0MLgwNkRP5zVsvu9wPeKMDkryVvCJYLyNgBKSnWty7U/rs:fit/g:sm/q:90/h:202/w:188/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMzA4/NDEtMTQ2NzA1MDQy/OS0zMTA3LmpwZWc.jpeg"
+    },
+    {
+      "name": "Eastcote Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 265157,
+      "resource_url": "https://api.discogs.com/labels/265157",
+      "thumbnail_url": "https://i.discogs.com/NkWHk2amPx6cSi4JPdd0ZXT20swZj-iiKoA_8XEoUgE/rs:fit/g:sm/q:90/h:480/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTE1/Ny0xNjc1NDU2MTQy/LTU4NjUuanBlZw.jpeg"
+    },
+    {
+      "name": "Sphere Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 293329,
+      "resource_url": "https://api.discogs.com/labels/293329",
+      "thumbnail_url": "https://i.discogs.com/fOfQV44nDW84CFwiCa22ydNGfIbkT4np1YipyBECBLc/rs:fit/g:sm/q:90/h:206/w:244/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MzMy/OS0xNTQ5MTAxNjE2/LTk2NjUuanBlZw.jpeg"
+    },
+    {
+      "name": "MyAudiotonic Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 437121,
+      "resource_url": "https://api.discogs.com/labels/437121"
+    },
+    {
+      "name": "Angel Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 267348,
+      "resource_url": "https://api.discogs.com/labels/267348",
+      "thumbnail_url": "https://i.discogs.com/N8imtURexzsS-LnefnCXOyaJ2BgvPKCXfp_KKH4GdN4/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NzM0/OC0xNzU3NTg5OTA5/LTM2ODkuanBlZw.jpeg"
+    },
+    {
+      "name": "Serenity Sound",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 436924,
+      "resource_url": "https://api.discogs.com/labels/436924"
+    },
+    {
+      "name": "Air Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 264566,
+      "resource_url": "https://api.discogs.com/labels/264566",
+      "thumbnail_url": "https://i.discogs.com/hNFXiItiGrB6sAnTcX6UvDebyJUeofiuB7pGD2VF5RM/rs:fit/g:sm/q:90/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDU2/Ni0xMzE4MjMyODQ4/LmdpZg.jpeg"
+    },
+    {
+      "name": "Metropolis Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 265000,
+      "resource_url": "https://api.discogs.com/labels/265000",
+      "thumbnail_url": "https://i.discogs.com/I1lIoi6xVEM2p0oWKVZsJNhazSc21cHC2z35bdknhq8/rs:fit/g:sm/q:90/h:200/w:223/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTAw/MC0xMzQ3ODEzMzgz/LTIxMzcuanBlZw.jpeg"
+    },
+    {
+      "name": "Harmony Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 299382,
+      "resource_url": "https://api.discogs.com/labels/299382"
+    },
+    {
+      "name": "Punkerpad West",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 286486,
+      "resource_url": "https://api.discogs.com/labels/286486",
+      "thumbnail_url": "https://i.discogs.com/ccLloOh587X_g3yPLgdYmnRTNsJJn8g7tF-9rjJCyxc/rs:fit/g:sm/q:90/h:324/w:486/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4NjQ4/Ni0xNDY4OTYxODU5/LTQyNTQuanBlZw.jpeg"
+    },
+    {
+      "name": "Sterling Sound",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 264060,
+      "resource_url": "https://api.discogs.com/labels/264060",
+      "thumbnail_url": "https://i.discogs.com/Z8f0gMBrt5jLL4TAcCYDGXmMPOLi9V0UW593WXP6BUU/rs:fit/g:sm/q:90/h:118/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDA2/MC0xNTAwMjgzMzYy/LTMyMTguanBlZw.jpeg"
+    },
+    {
+      "name": "Optimal Media GmbH",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 313190,
+      "resource_url": "https://api.discogs.com/labels/313190",
+      "thumbnail_url": "https://i.discogs.com/VHruzHmKvGgDvoWX6iI_4n5eC7mKyVei1mNz573rJtk/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxMzE5/MC0xNTE2MzgxNjk2/LTIzMTgucG5n.jpeg"
+    },
+    {
+      "name": "Optimal Media GmbH",
+      "catno": "BK23298",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 313190,
+      "resource_url": "https://api.discogs.com/labels/313190",
+      "thumbnail_url": "https://i.discogs.com/VHruzHmKvGgDvoWX6iI_4n5eC7mKyVei1mNz573rJtk/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxMzE5/MC0xNTE2MzgxNjk2/LTIzMTgucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 10258,
+    "want": 1427,
+    "rating": {
+      "count": 532,
+      "average": 4.59
+    },
+    "submitter": {
+      "username": "CD_WAREHOUSE_817",
+      "resource_url": "https://api.discogs.com/users/CD_WAREHOUSE_817"
+    },
+    "contributors": [
+      {
+        "username": "CD_WAREHOUSE_817",
+        "resource_url": "https://api.discogs.com/users/CD_WAREHOUSE_817"
+      },
+      {
+        "username": "vrp_pdx",
+        "resource_url": "https://api.discogs.com/users/vrp_pdx"
+      },
+      {
+        "username": "fnord23",
+        "resource_url": "https://api.discogs.com/users/fnord23"
+      },
+      {
+        "username": "remco2502",
+        "resource_url": "https://api.discogs.com/users/remco2502"
+      },
+      {
+        "username": "Audioear",
+        "resource_url": "https://api.discogs.com/users/Audioear"
+      },
+      {
+        "username": "Detecteurdefumee",
+        "resource_url": "https://api.discogs.com/users/Detecteurdefumee"
+      },
+      {
+        "username": "evermorebrianna",
+        "resource_url": "https://api.discogs.com/users/evermorebrianna"
+      },
+      {
+        "username": "addicted0403",
+        "resource_url": "https://api.discogs.com/users/addicted0403"
+      },
+      {
+        "username": "SP_Vinyl",
+        "resource_url": "https://api.discogs.com/users/SP_Vinyl"
+      },
+      {
+        "username": "The-Name-Of-The-Rose",
+        "resource_url": "https://api.discogs.com/users/The-Name-Of-The-Rose"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2021-01-26T14:22:26-08:00",
+  "date_changed": "2024-11-10T10:23:21-08:00",
+  "num_for_sale": 47,
+  "lowest_price": 19.95,
+  "master_id": 303567,
+  "master_url": "https://api.discogs.com/masters/303567",
+  "title": "21",
+  "country": "USA & Europe",
+  "released": "2020-12-01",
+  "notes": "℗ & © 2011 XL Recordings Ltd.",
+  "released_formatted": "01 Dec 2020",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "1 91404 11381 3",
+      "description": "Printed"
+    },
+    {
+      "type": "Barcode",
+      "value": "191404113813",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "XLLP520 XL-1138 A BK23298-01 A1 KR",
+      "description": "Side A runout, variant 1 etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "XLLP520 XL-1138-B BK23298-01 B1 KR",
+      "description": "Side B runout, variant 1 etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "XLLP520 1I BK23298-01 A1 KR",
+      "description": "Side A runout, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "XLLP520 1I BK23298-01 B1 KR",
+      "description": "Side B runout, variant 2"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=rYEDA3JcQqw",
+      "title": "Adele - Rolling in the Deep (Official Music Video)",
+      "description": "Listen to \"Easy On Me\" here: http://Adele.lnk.to/EOM\nPre-order Adele's new album \"30\" before its release on November 19:  https://www.adele.com\nShop the \"Adele\" collection here: http://shop.adele.com\n\nBuy/Listen 25: http://smarturl.it/25Album?IQid=yt Buy/",
+      "duration": 234,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=0y_NdA3Q5b0",
+      "title": "Adele - He Won't Go (Visualizer)",
+      "description": "Visualizer for \"He Won't Go\" by ADELE from Adele's 21: the inspiration - part 3\n\nLyrics\nSome say, I'll be better without you\nBut they don't know you like I do\nOr at least the sides I thought I knew\nI can't bear this time\nIt drags on, as I lose my mind\nRem",
+      "duration": 278,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=WjqYTpE6Qdg",
+      "title": "Adele - Set Fire to the Rain",
+      "description": "Adele - Set Fire To The Rain\nLyrics:\nI let it fall, my heart\nAnd as it fell you rose to claim it\nIt was dark and I was over\nUntil you kissed my lips and you saved me\n\nMy hands, they're strong\nBut my knees were far too weak\nTo stand in your arms\nWithout fa",
+      "duration": 240,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=hLQl3WQQoQ0",
+      "title": "Adele - Someone Like You (Official Music Video)",
+      "description": "Listen to \"Easy On Me\" here: http://Adele.lnk.to/EOM\nPre-order Adele's new album \"30\" before its release on November 19:  https://www.adele.com\nShop the \"Adele\" collection here: http://shop.adele.com\n\nBuy/Listen 25: http://smarturl.it/25Album?IQid=yt Buy/",
+      "duration": 285,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=3SojhAemf34",
+      "title": "Turning Tables",
+      "description": "Provided to YouTube by Beggars Group Digital Ltd.\n\nTurning Tables · Adele\n\n21\n\n℗ 2010 XL Recordings Ltd\n\nReleased on: 2011-01-24\n\nAssociated  Performer: Adele Adkins\nProducer, Mixing Engineer: Jim Abbiss\nMixing Engineer: Ian Dowling\nStudio Musician: Bogus",
+      "duration": 250,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=dJg4_rL9h7Q",
+      "title": "One And Only",
+      "description": "Provided to YouTube by Beggars Group Digital Ltd.\n\nOne And Only · Adele\n\n21\n\n℗ 2011 XL Recordings Ltd\n\nReleased on: 2011-01-24\n\nAssociated  Performer: Adele Adkins\nChoir: Carmen Carter\nChoir: Carmen Twillie\nEngineer: Greg Fidelman\nChoir: James Gilstrap\nCh",
+      "duration": 349,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=C1G3jmtoOfk",
+      "title": "Rumour Has It",
+      "description": "Provided to YouTube by Beggars Group Digital Ltd.\n\nRumour Has It · Adele\n\n21\n\n℗ 2010 XL Recordings Ltd\n\nReleased on: 2011-01-24\n\nAssociated  Performer: Adele Adkins\nProducer, Programmer: Ryan Tedder\nMixing Engineer: Tom Elmhirst\nStudio Musician: Jerrod \"S",
+      "duration": 224,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=UHE7qT9f3Ok",
+      "title": "Take It All",
+      "description": "Provided to YouTube by Beggars Group Digital Ltd.\n\nTake It All · Adele\n\n21\n\n℗ 2010 XL Recordings Ltd\n\nReleased on: 2011-01-24\n\nAssociated  Performer: Adele Adkins\nChoir: Carmen Carter\nChoir: Carmen Twillie\nChoir: James Gilstrap\nProducer, Mixing Engineer: ",
+      "duration": 229,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=tQw1_sX9ipc",
+      "title": "Don't You Remember",
+      "description": "Provided to YouTube by Beggars Group Digital Ltd.\n\nDon't You Remember · Adele\n\n21\n\n℗ 2010 XL Recordings Ltd\n\nReleased on: 2011-01-24\n\nAssociated  Performer: Adele Adkins\nEngineer: Greg Fidelman\nEngineer: Philip Broussard Jr.\nProducer: Rick Rubin\nEngineer:",
+      "duration": 244,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=naUqWQ-of6o",
+      "title": "Lovesong",
+      "description": "Provided to YouTube by Beggars Group Digital Ltd.\n\nLovesong · Adele\n\n21\n\n℗ 2010 XL Recordings Ltd\n\nReleased on: 2011-01-24\n\nAssociated  Performer: Adele Adkins\nEngineer: Greg Fidelman\nEngineer: Philip Broussard Jr.\nProducer: Rick Rubin\nEngineer: Sara Lyn ",
+      "duration": 317,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=qCCbvS9clVY",
+      "title": "I'll Be Waiting",
+      "description": "Provided to YouTube by Beggars Group Digital Ltd.\n\nI'll Be Waiting · Adele\n\n21\n\n℗ 2010 XL Recordings Ltd\n\nReleased on: 2011-01-24\n\nAssociated  Performer: Adele Adkins\nStudio Musician: Paul Epworth\nChoir: Carmen Carter\nChoir: Carmen Twillie\nChoir: James Gi",
+      "duration": 242,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Jazz",
+    "Funk / Soul",
+    "Blues",
+    "Pop"
+  ],
+  "styles": [
+    "Soul-Jazz",
+    "Acoustic",
+    "Piano Blues",
+    "Neo Soul"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Rolling In The Deep",
+      "extraartists": [
+        {
+          "name": "Paul Epworth",
+          "anv": "",
+          "join": "",
+          "role": "Bass, Acoustic Guitar, Electric Guitar, Percussion, Backing Vocals",
+          "tracks": "",
+          "id": 260950,
+          "resource_url": "https://api.discogs.com/artists/260950"
+        },
+        {
+          "name": "Leo Taylor",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 254524,
+          "resource_url": "https://api.discogs.com/artists/254524"
+        },
+        {
+          "name": "Mark Rankin",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 377875,
+          "resource_url": "https://api.discogs.com/artists/377875"
+        },
+        {
+          "name": "Tom Elmhirst",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 122559,
+          "resource_url": "https://api.discogs.com/artists/122559"
+        },
+        {
+          "name": "Daniel Parry",
+          "anv": "Dan Parry",
+          "join": "",
+          "role": "Mixed By [Assisted By]",
+          "tracks": "",
+          "id": 485227,
+          "resource_url": "https://api.discogs.com/artists/485227"
+        },
+        {
+          "name": "Neil Cowley",
+          "anv": "",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 56470,
+          "resource_url": "https://api.discogs.com/artists/56470"
+        },
+        {
+          "name": "Paul Epworth",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 260950,
+          "resource_url": "https://api.discogs.com/artists/260950"
+        },
+        {
+          "name": "Ray Carless",
+          "anv": "",
+          "join": "",
+          "role": "Tenor Saxophone",
+          "tracks": "",
+          "id": 56747,
+          "resource_url": "https://api.discogs.com/artists/56747"
+        },
+        {
+          "name": "Noel Langley",
+          "anv": "",
+          "join": "",
+          "role": "Trumpet",
+          "tracks": "",
+          "id": 379829,
+          "resource_url": "https://api.discogs.com/artists/379829"
+        },
+        {
+          "name": "Adele Adkins",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1638187,
+          "resource_url": "https://api.discogs.com/artists/1638187"
+        },
+        {
+          "name": "Paul Epworth",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 260950,
+          "resource_url": "https://api.discogs.com/artists/260950"
+        }
+      ],
+      "duration": "3:49"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Rumour Has It",
+      "extraartists": [
+        {
+          "name": "Ryan Tedder",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar, Bass, Piano, Organ [B3], Drums, Strings [Arrangement]",
+          "tracks": "",
+          "id": 193421,
+          "resource_url": "https://api.discogs.com/artists/193421"
+        },
+        {
+          "name": "Ryan Tedder",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 193421,
+          "resource_url": "https://api.discogs.com/artists/193421"
+        },
+        {
+          "name": "Jerrod Bettis",
+          "anv": "Jerrod 'Skins' Bettis",
+          "join": "",
+          "role": "Drums, Acoustic Guitar",
+          "tracks": "",
+          "id": 1924963,
+          "resource_url": "https://api.discogs.com/artists/1924963"
+        },
+        {
+          "name": "Ryan Tedder",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 193421,
+          "resource_url": "https://api.discogs.com/artists/193421"
+        },
+        {
+          "name": "Tom Elmhirst",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 122559,
+          "resource_url": "https://api.discogs.com/artists/122559"
+        },
+        {
+          "name": "Daniel Parry",
+          "anv": "Dan Parry",
+          "join": "",
+          "role": "Mixed By [Assisted By]",
+          "tracks": "",
+          "id": 485227,
+          "resource_url": "https://api.discogs.com/artists/485227"
+        },
+        {
+          "name": "Ryan Tedder",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 193421,
+          "resource_url": "https://api.discogs.com/artists/193421"
+        },
+        {
+          "name": "Ryan Tedder",
+          "anv": "",
+          "join": "",
+          "role": "Programmed By",
+          "tracks": "",
+          "id": 193421,
+          "resource_url": "https://api.discogs.com/artists/193421"
+        },
+        {
+          "name": "Daniel Parry",
+          "anv": "Dan Parry",
+          "join": "",
+          "role": "Recorded By [Additional Vocals]",
+          "tracks": "",
+          "id": 485227,
+          "resource_url": "https://api.discogs.com/artists/485227"
+        },
+        {
+          "name": "Adele Adkins",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1638187,
+          "resource_url": "https://api.discogs.com/artists/1638187"
+        },
+        {
+          "name": "Ryan Tedder",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 193421,
+          "resource_url": "https://api.discogs.com/artists/193421"
+        }
+      ],
+      "duration": "3:43"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Turning Tables",
+      "extraartists": [
+        {
+          "name": "Chris Elliott",
+          "anv": "Chris Elliot",
+          "join": "",
+          "role": "Arranged By [Strings]",
+          "tracks": "",
+          "id": 345341,
+          "resource_url": "https://api.discogs.com/artists/345341"
+        },
+        {
+          "name": "Ian Dowling",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 422309,
+          "resource_url": "https://api.discogs.com/artists/422309"
+        },
+        {
+          "name": "Jim Abbiss",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 252100,
+          "resource_url": "https://api.discogs.com/artists/252100"
+        },
+        {
+          "name": "Neil Cowley",
+          "anv": "",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 56470,
+          "resource_url": "https://api.discogs.com/artists/56470"
+        },
+        {
+          "name": "Jim Abbiss",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 252100,
+          "resource_url": "https://api.discogs.com/artists/252100"
+        },
+        {
+          "name": "Boguslaw Kostecki",
+          "anv": "",
+          "join": "",
+          "role": "Strings [Performed By]",
+          "tracks": "",
+          "id": 344538,
+          "resource_url": "https://api.discogs.com/artists/344538"
+        },
+        {
+          "name": "Bruce White",
+          "anv": "",
+          "join": "",
+          "role": "Strings [Performed By]",
+          "tracks": "",
+          "id": 274521,
+          "resource_url": "https://api.discogs.com/artists/274521"
+        },
+        {
+          "name": "Caroline Dale",
+          "anv": "",
+          "join": "",
+          "role": "Strings [Performed By]",
+          "tracks": "",
+          "id": 294676,
+          "resource_url": "https://api.discogs.com/artists/294676"
+        },
+        {
+          "name": "Cathy Thompson",
+          "anv": "",
+          "join": "",
+          "role": "Strings [Performed By]",
+          "tracks": "",
+          "id": 304476,
+          "resource_url": "https://api.discogs.com/artists/304476"
+        },
+        {
+          "name": "Chris Laurence",
+          "anv": "",
+          "join": "",
+          "role": "Strings [Performed By]",
+          "tracks": "",
+          "id": 268095,
+          "resource_url": "https://api.discogs.com/artists/268095"
+        },
+        {
+          "name": "Chris Worsey",
+          "anv": "",
+          "join": "",
+          "role": "Strings [Performed By]",
+          "tracks": "",
+          "id": 271685,
+          "resource_url": "https://api.discogs.com/artists/271685"
+        },
+        {
+          "name": "David Daniels",
+          "anv": "",
+          "join": "",
+          "role": "Strings [Performed By]",
+          "tracks": "",
+          "id": 304511,
+          "resource_url": "https://api.discogs.com/artists/304511"
+        },
+        {
+          "name": "Emlyn Singleton",
+          "anv": "",
+          "join": "",
+          "role": "Strings [Performed By]",
+          "tracks": "",
+          "id": 297875,
+          "resource_url": "https://api.discogs.com/artists/297875"
+        },
+        {
+          "name": "Jackie Shave",
+          "anv": "",
+          "join": "",
+          "role": "Strings [Performed By]",
+          "tracks": "",
+          "id": 274528,
+          "resource_url": "https://api.discogs.com/artists/274528"
+        },
+        {
+          "name": "Julian Leaper",
+          "anv": "",
+          "join": "",
+          "role": "Strings [Performed By]",
+          "tracks": "",
+          "id": 392333,
+          "resource_url": "https://api.discogs.com/artists/392333"
+        },
+        {
+          "name": "Patrick Kiernan",
+          "anv": "",
+          "join": "",
+          "role": "Strings [Performed By]",
+          "tracks": "",
+          "id": 274522,
+          "resource_url": "https://api.discogs.com/artists/274522"
+        },
+        {
+          "name": "Peter Lale",
+          "anv": "",
+          "join": "",
+          "role": "Strings [Performed By]",
+          "tracks": "",
+          "id": 273998,
+          "resource_url": "https://api.discogs.com/artists/273998"
+        },
+        {
+          "name": "Rachel Bolt",
+          "anv": "Rachel Stephanie Bolt",
+          "join": "",
+          "role": "Strings [Performed By]",
+          "tracks": "",
+          "id": 447081,
+          "resource_url": "https://api.discogs.com/artists/447081"
+        },
+        {
+          "name": "Rita Manning",
+          "anv": "",
+          "join": "",
+          "role": "Strings [Performed By]",
+          "tracks": "",
+          "id": 344520,
+          "resource_url": "https://api.discogs.com/artists/344520"
+        },
+        {
+          "name": "Steve Morris",
+          "anv": "Stephen Morris",
+          "join": "",
+          "role": "Strings [Performed By]",
+          "tracks": "",
+          "id": 304527,
+          "resource_url": "https://api.discogs.com/artists/304527"
+        },
+        {
+          "name": "Tom Pigott-Smith",
+          "anv": "",
+          "join": "",
+          "role": "Strings [Performed By]",
+          "tracks": "",
+          "id": 447074,
+          "resource_url": "https://api.discogs.com/artists/447074"
+        },
+        {
+          "name": "Warren Zielinski",
+          "anv": "",
+          "join": "",
+          "role": "Strings [Performed By]",
+          "tracks": "",
+          "id": 392335,
+          "resource_url": "https://api.discogs.com/artists/392335"
+        },
+        {
+          "name": "Adele Adkins",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1638187,
+          "resource_url": "https://api.discogs.com/artists/1638187"
+        },
+        {
+          "name": "Ryan Tedder",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 193421,
+          "resource_url": "https://api.discogs.com/artists/193421"
+        }
+      ],
+      "duration": "4:10"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Don't You Remember",
+      "extraartists": [
+        {
+          "name": "David Hidalgo",
+          "anv": "",
+          "join": "",
+          "role": "Banjo, Accordion",
+          "tracks": "",
+          "id": 310405,
+          "resource_url": "https://api.discogs.com/artists/310405"
+        },
+        {
+          "name": "Pino Palladino",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 208234,
+          "resource_url": "https://api.discogs.com/artists/208234"
+        },
+        {
+          "name": "Carmen Carter",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 298680,
+          "resource_url": "https://api.discogs.com/artists/298680"
+        },
+        {
+          "name": "Carmen Twillie",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 287251,
+          "resource_url": "https://api.discogs.com/artists/287251"
+        },
+        {
+          "name": "Jim Gilstrap",
+          "anv": "James Gilstrap",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 219823,
+          "resource_url": "https://api.discogs.com/artists/219823"
+        },
+        {
+          "name": "Josef Powell",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 701680,
+          "resource_url": "https://api.discogs.com/artists/701680"
+        },
+        {
+          "name": "Julia Tillman Waters",
+          "anv": "Julia Waters Tillman",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 441634,
+          "resource_url": "https://api.discogs.com/artists/441634"
+        },
+        {
+          "name": "Maxine Waters",
+          "anv": "Lorna Maxine Water",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 259388,
+          "resource_url": "https://api.discogs.com/artists/259388"
+        },
+        {
+          "name": "Terry Young",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 276794,
+          "resource_url": "https://api.discogs.com/artists/276794"
+        },
+        {
+          "name": "Oren Waters",
+          "anv": "",
+          "join": "",
+          "role": "Choir [Directed By]",
+          "tracks": "",
+          "id": 112806,
+          "resource_url": "https://api.discogs.com/artists/112806"
+        },
+        {
+          "name": "Lindsay Chase",
+          "anv": "",
+          "join": "",
+          "role": "Coordinator [Production]",
+          "tracks": "",
+          "id": 277675,
+          "resource_url": "https://api.discogs.com/artists/277675"
+        },
+        {
+          "name": "Chris Dave",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 661928,
+          "resource_url": "https://api.discogs.com/artists/661928"
+        },
+        {
+          "name": "Matt Sweeney",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 247495,
+          "resource_url": "https://api.discogs.com/artists/247495"
+        },
+        {
+          "name": "Smokey Hormel",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 293886,
+          "resource_url": "https://api.discogs.com/artists/293886"
+        },
+        {
+          "name": "Stephanie Bennett",
+          "anv": "",
+          "join": "",
+          "role": "Harp",
+          "tracks": "",
+          "id": 407599,
+          "resource_url": "https://api.discogs.com/artists/407599"
+        },
+        {
+          "name": "Andrew Scheps",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 450831,
+          "resource_url": "https://api.discogs.com/artists/450831"
+        },
+        {
+          "name": "Phillip Broussard",
+          "anv": "Phillip Broussard Jr.",
+          "join": "",
+          "role": "Mixed By [Assisted By]",
+          "tracks": "",
+          "id": 359729,
+          "resource_url": "https://api.discogs.com/artists/359729"
+        },
+        {
+          "name": "Lenny Castro",
+          "anv": "",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 252196,
+          "resource_url": "https://api.discogs.com/artists/252196"
+        },
+        {
+          "name": "James Poyser",
+          "anv": "",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 21363,
+          "resource_url": "https://api.discogs.com/artists/21363"
+        },
+        {
+          "name": "Rick Rubin",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 68211,
+          "resource_url": "https://api.discogs.com/artists/68211"
+        },
+        {
+          "name": "Greg Fidelman",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 268779,
+          "resource_url": "https://api.discogs.com/artists/268779"
+        },
+        {
+          "name": "Sara Killion",
+          "anv": "Sara Lyn Killion",
+          "join": "",
+          "role": "Recorded By [Assisted By]",
+          "tracks": "",
+          "id": 529668,
+          "resource_url": "https://api.discogs.com/artists/529668"
+        },
+        {
+          "name": "David Campbell",
+          "anv": "",
+          "join": "",
+          "role": "Strings [Arranged By]",
+          "tracks": "",
+          "id": 341947,
+          "resource_url": "https://api.discogs.com/artists/341947"
+        },
+        {
+          "name": "Adele Adkins",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1638187,
+          "resource_url": "https://api.discogs.com/artists/1638187"
+        },
+        {
+          "name": "Dan Wilson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 303989,
+          "resource_url": "https://api.discogs.com/artists/303989"
+        }
+      ],
+      "duration": "4:03"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Set Fire To The Rain",
+      "extraartists": [
+        {
+          "name": "Rosie Danvers",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [String Arrangement Written-by]",
+          "tracks": "",
+          "id": 1008387,
+          "resource_url": "https://api.discogs.com/artists/1008387"
+        },
+        {
+          "name": "Fraser T Smith",
+          "anv": "Fraser T. Smith",
+          "join": "",
+          "role": "Bass, Guitar, Piano",
+          "tracks": "",
+          "id": 281721,
+          "resource_url": "https://api.discogs.com/artists/281721"
+        },
+        {
+          "name": "Ash Soan",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 460467,
+          "resource_url": "https://api.discogs.com/artists/460467"
+        },
+        {
+          "name": "Isabel Seeliger-Morley",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For My Audiotonic Productions - Assistant]",
+          "tracks": "",
+          "id": 2100134,
+          "resource_url": "https://api.discogs.com/artists/2100134"
+        },
+        {
+          "name": "Beatriz Artola",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [For My Audiotonic Productions]",
+          "tracks": "",
+          "id": 532652,
+          "resource_url": "https://api.discogs.com/artists/532652"
+        },
+        {
+          "name": "Steve Price (6)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Strings Session]",
+          "tracks": "",
+          "id": 1431771,
+          "resource_url": "https://api.discogs.com/artists/1431771"
+        },
+        {
+          "name": "Fraser T Smith",
+          "anv": "Fraser T. Smith",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 281721,
+          "resource_url": "https://api.discogs.com/artists/281721"
+        },
+        {
+          "name": "Fraser T Smith",
+          "anv": "Fraser T. Smith",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 281721,
+          "resource_url": "https://api.discogs.com/artists/281721"
+        },
+        {
+          "name": "Eleanor Mathieson",
+          "anv": "",
+          "join": "",
+          "role": "Strings [Performed By]",
+          "tracks": "",
+          "id": 1240405,
+          "resource_url": "https://api.discogs.com/artists/1240405"
+        },
+        {
+          "name": "Hayley Pomfrett",
+          "anv": "",
+          "join": "",
+          "role": "Strings [Performed By]",
+          "tracks": "",
+          "id": 1240403,
+          "resource_url": "https://api.discogs.com/artists/1240403"
+        },
+        {
+          "name": "Jenny Sacha",
+          "anv": "",
+          "join": "",
+          "role": "Strings [Performed By]",
+          "tracks": "",
+          "id": 1028003,
+          "resource_url": "https://api.discogs.com/artists/1028003"
+        },
+        {
+          "name": "Jo Allen",
+          "anv": "",
+          "join": "",
+          "role": "Strings [Performed By]",
+          "tracks": "",
+          "id": 520202,
+          "resource_url": "https://api.discogs.com/artists/520202"
+        },
+        {
+          "name": "Kotono Sato",
+          "anv": "",
+          "join": "",
+          "role": "Strings [Performed By]",
+          "tracks": "",
+          "id": 1032481,
+          "resource_url": "https://api.discogs.com/artists/1032481"
+        },
+        {
+          "name": "Natalia Bonner",
+          "anv": "",
+          "join": "",
+          "role": "Strings [Performed By]",
+          "tracks": "",
+          "id": 404331,
+          "resource_url": "https://api.discogs.com/artists/404331"
+        },
+        {
+          "name": "Ruston Pomeroy",
+          "anv": "Rustom Pomeroy",
+          "join": "",
+          "role": "Strings [Performed By]",
+          "tracks": "",
+          "id": 408968,
+          "resource_url": "https://api.discogs.com/artists/408968"
+        },
+        {
+          "name": "Stephanie Cavey",
+          "anv": "",
+          "join": "",
+          "role": "Strings [Performed By]",
+          "tracks": "",
+          "id": 2015448,
+          "resource_url": "https://api.discogs.com/artists/2015448"
+        },
+        {
+          "name": "Amy Stanford",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 937981,
+          "resource_url": "https://api.discogs.com/artists/937981"
+        },
+        {
+          "name": "Emma Owens",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 473103,
+          "resource_url": "https://api.discogs.com/artists/473103"
+        },
+        {
+          "name": "Jane Oliver",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 625309,
+          "resource_url": "https://api.discogs.com/artists/625309"
+        },
+        {
+          "name": "Lucy Shaw",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 406200,
+          "resource_url": "https://api.discogs.com/artists/406200"
+        },
+        {
+          "name": "Rosie Danvers",
+          "anv": "",
+          "join": "",
+          "role": "Violin",
+          "tracks": "",
+          "id": 1008387,
+          "resource_url": "https://api.discogs.com/artists/1008387"
+        },
+        {
+          "name": "Adele Adkins",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1638187,
+          "resource_url": "https://api.discogs.com/artists/1638187"
+        },
+        {
+          "name": "Fraser T Smith",
+          "anv": "Fraser T. Smith",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 281721,
+          "resource_url": "https://api.discogs.com/artists/281721"
+        }
+      ],
+      "duration": "4:01"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "He Won't Go",
+      "extraartists": [
+        {
+          "name": "David Hidalgo",
+          "anv": "",
+          "join": "",
+          "role": "Banjo, Accordion",
+          "tracks": "",
+          "id": 310405,
+          "resource_url": "https://api.discogs.com/artists/310405"
+        },
+        {
+          "name": "Pino Palladino",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 208234,
+          "resource_url": "https://api.discogs.com/artists/208234"
+        },
+        {
+          "name": "Carmen Carter",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 298680,
+          "resource_url": "https://api.discogs.com/artists/298680"
+        },
+        {
+          "name": "Carmen Twillie",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 287251,
+          "resource_url": "https://api.discogs.com/artists/287251"
+        },
+        {
+          "name": "Jim Gilstrap",
+          "anv": "James Gilstrap",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 219823,
+          "resource_url": "https://api.discogs.com/artists/219823"
+        },
+        {
+          "name": "Josef Powell",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 701680,
+          "resource_url": "https://api.discogs.com/artists/701680"
+        },
+        {
+          "name": "Julia Tillman Waters",
+          "anv": "Julia Waters Tillman",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 441634,
+          "resource_url": "https://api.discogs.com/artists/441634"
+        },
+        {
+          "name": "Maxine Waters",
+          "anv": "Lorna Maxine Water",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 259388,
+          "resource_url": "https://api.discogs.com/artists/259388"
+        },
+        {
+          "name": "Terry Young",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 276794,
+          "resource_url": "https://api.discogs.com/artists/276794"
+        },
+        {
+          "name": "Oren Waters",
+          "anv": "",
+          "join": "",
+          "role": "Choir [Directed By]",
+          "tracks": "",
+          "id": 112806,
+          "resource_url": "https://api.discogs.com/artists/112806"
+        },
+        {
+          "name": "Lindsay Chase",
+          "anv": "",
+          "join": "",
+          "role": "Coordinator [Production]",
+          "tracks": "",
+          "id": 277675,
+          "resource_url": "https://api.discogs.com/artists/277675"
+        },
+        {
+          "name": "Chris Dave",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 661928,
+          "resource_url": "https://api.discogs.com/artists/661928"
+        },
+        {
+          "name": "Matt Sweeney",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 247495,
+          "resource_url": "https://api.discogs.com/artists/247495"
+        },
+        {
+          "name": "Smokey Hormel",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 293886,
+          "resource_url": "https://api.discogs.com/artists/293886"
+        },
+        {
+          "name": "Stephanie Bennett",
+          "anv": "",
+          "join": "",
+          "role": "Harp",
+          "tracks": "",
+          "id": 407599,
+          "resource_url": "https://api.discogs.com/artists/407599"
+        },
+        {
+          "name": "Andrew Scheps",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 450831,
+          "resource_url": "https://api.discogs.com/artists/450831"
+        },
+        {
+          "name": "Phillip Broussard",
+          "anv": "Phillip Broussard Jr.",
+          "join": "",
+          "role": "Mixed By [Assisted By]",
+          "tracks": "",
+          "id": 359729,
+          "resource_url": "https://api.discogs.com/artists/359729"
+        },
+        {
+          "name": "Lenny Castro",
+          "anv": "",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 252196,
+          "resource_url": "https://api.discogs.com/artists/252196"
+        },
+        {
+          "name": "James Poyser",
+          "anv": "",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 21363,
+          "resource_url": "https://api.discogs.com/artists/21363"
+        },
+        {
+          "name": "Rick Rubin",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 68211,
+          "resource_url": "https://api.discogs.com/artists/68211"
+        },
+        {
+          "name": "Greg Fidelman",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 268779,
+          "resource_url": "https://api.discogs.com/artists/268779"
+        },
+        {
+          "name": "Sara Killion",
+          "anv": "Sara Lyn Killion",
+          "join": "",
+          "role": "Recorded By [Assisted By]",
+          "tracks": "",
+          "id": 529668,
+          "resource_url": "https://api.discogs.com/artists/529668"
+        },
+        {
+          "name": "David Campbell",
+          "anv": "",
+          "join": "",
+          "role": "Strings [Arranged By]",
+          "tracks": "",
+          "id": 341947,
+          "resource_url": "https://api.discogs.com/artists/341947"
+        },
+        {
+          "name": "Adele Adkins",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1638187,
+          "resource_url": "https://api.discogs.com/artists/1638187"
+        },
+        {
+          "name": "Paul Epworth",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 260950,
+          "resource_url": "https://api.discogs.com/artists/260950"
+        }
+      ],
+      "duration": "4:37"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Take It All",
+      "extraartists": [
+        {
+          "name": "Ian Dowling",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 422309,
+          "resource_url": "https://api.discogs.com/artists/422309"
+        },
+        {
+          "name": "Jim Abbiss",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 252100,
+          "resource_url": "https://api.discogs.com/artists/252100"
+        },
+        {
+          "name": "Neil Cowley",
+          "anv": "",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 56470,
+          "resource_url": "https://api.discogs.com/artists/56470"
+        },
+        {
+          "name": "Jim Abbiss",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 252100,
+          "resource_url": "https://api.discogs.com/artists/252100"
+        },
+        {
+          "name": "Adele Adkins",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1638187,
+          "resource_url": "https://api.discogs.com/artists/1638187"
+        },
+        {
+          "name": "Francis White",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 592057,
+          "resource_url": "https://api.discogs.com/artists/592057"
+        }
+      ],
+      "duration": "3:48"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "I'll Be Waiting",
+      "extraartists": [
+        {
+          "name": "Ben Thomas (9)",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar, Electric Guitar",
+          "tracks": "",
+          "id": 1219133,
+          "resource_url": "https://api.discogs.com/artists/1219133"
+        },
+        {
+          "name": "Harry Brown",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [Trombone And Horn]",
+          "tracks": "",
+          "id": 422208,
+          "resource_url": "https://api.discogs.com/artists/422208"
+        },
+        {
+          "name": "Paul Epworth",
+          "anv": "",
+          "join": "",
+          "role": "Bass, Acoustic Guitar, Electric Guitar, Percussion, Backing Vocals",
+          "tracks": "",
+          "id": 260950,
+          "resource_url": "https://api.discogs.com/artists/260950"
+        },
+        {
+          "name": "Leo Taylor",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 254524,
+          "resource_url": "https://api.discogs.com/artists/254524"
+        },
+        {
+          "name": "Mark Rankin",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 377875,
+          "resource_url": "https://api.discogs.com/artists/377875"
+        },
+        {
+          "name": "Tom Elmhirst",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 122559,
+          "resource_url": "https://api.discogs.com/artists/122559"
+        },
+        {
+          "name": "Daniel Parry",
+          "anv": "Dan Parry",
+          "join": "",
+          "role": "Mixed By [Assisted By]",
+          "tracks": "",
+          "id": 485227,
+          "resource_url": "https://api.discogs.com/artists/485227"
+        },
+        {
+          "name": "Neil Cowley",
+          "anv": "",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 56470,
+          "resource_url": "https://api.discogs.com/artists/56470"
+        },
+        {
+          "name": "Paul Epworth",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 260950,
+          "resource_url": "https://api.discogs.com/artists/260950"
+        },
+        {
+          "name": "Ray Carless",
+          "anv": "",
+          "join": "",
+          "role": "Tenor Saxophone [Tenor Sax]",
+          "tracks": "",
+          "id": 56747,
+          "resource_url": "https://api.discogs.com/artists/56747"
+        },
+        {
+          "name": "Noel Langley",
+          "anv": "",
+          "join": "",
+          "role": "Trumpet",
+          "tracks": "",
+          "id": 379829,
+          "resource_url": "https://api.discogs.com/artists/379829"
+        },
+        {
+          "name": "Adele Adkins",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1638187,
+          "resource_url": "https://api.discogs.com/artists/1638187"
+        },
+        {
+          "name": "Paul Epworth",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 260950,
+          "resource_url": "https://api.discogs.com/artists/260950"
+        }
+      ],
+      "duration": "4:01"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "One And Only",
+      "extraartists": [
+        {
+          "name": "David Campbell",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [Strings]",
+          "tracks": "",
+          "id": 341947,
+          "resource_url": "https://api.discogs.com/artists/341947"
+        },
+        {
+          "name": "David Hidalgo",
+          "anv": "",
+          "join": "",
+          "role": "Banjo, Accordion",
+          "tracks": "",
+          "id": 310405,
+          "resource_url": "https://api.discogs.com/artists/310405"
+        },
+        {
+          "name": "Pino Palladino",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 208234,
+          "resource_url": "https://api.discogs.com/artists/208234"
+        },
+        {
+          "name": "Carmen Carter",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 298680,
+          "resource_url": "https://api.discogs.com/artists/298680"
+        },
+        {
+          "name": "Carmen Twillie",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 287251,
+          "resource_url": "https://api.discogs.com/artists/287251"
+        },
+        {
+          "name": "Jim Gilstrap",
+          "anv": "James Gilstrap",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 219823,
+          "resource_url": "https://api.discogs.com/artists/219823"
+        },
+        {
+          "name": "Josef Powell",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 701680,
+          "resource_url": "https://api.discogs.com/artists/701680"
+        },
+        {
+          "name": "Julia Tillman Waters",
+          "anv": "Julia Waters Tillman",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 441634,
+          "resource_url": "https://api.discogs.com/artists/441634"
+        },
+        {
+          "name": "Maxine Waters",
+          "anv": "Lorna Maxine Water",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 259388,
+          "resource_url": "https://api.discogs.com/artists/259388"
+        },
+        {
+          "name": "Terry Young",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 276794,
+          "resource_url": "https://api.discogs.com/artists/276794"
+        },
+        {
+          "name": "Lindsay Chase",
+          "anv": "",
+          "join": "",
+          "role": "Coordinator [Production]",
+          "tracks": "",
+          "id": 277675,
+          "resource_url": "https://api.discogs.com/artists/277675"
+        },
+        {
+          "name": "Oren Waters",
+          "anv": "",
+          "join": "",
+          "role": "Directed By [Choir]",
+          "tracks": "",
+          "id": 112806,
+          "resource_url": "https://api.discogs.com/artists/112806"
+        },
+        {
+          "name": "Chris Dave",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 661928,
+          "resource_url": "https://api.discogs.com/artists/661928"
+        },
+        {
+          "name": "Matt Sweeney",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 247495,
+          "resource_url": "https://api.discogs.com/artists/247495"
+        },
+        {
+          "name": "Smokey Hormel",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 293886,
+          "resource_url": "https://api.discogs.com/artists/293886"
+        },
+        {
+          "name": "Stephanie Bennett",
+          "anv": "",
+          "join": "",
+          "role": "Harp",
+          "tracks": "",
+          "id": 407599,
+          "resource_url": "https://api.discogs.com/artists/407599"
+        },
+        {
+          "name": "Andrew Scheps",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 450831,
+          "resource_url": "https://api.discogs.com/artists/450831"
+        },
+        {
+          "name": "Lenny Castro",
+          "anv": "",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 252196,
+          "resource_url": "https://api.discogs.com/artists/252196"
+        },
+        {
+          "name": "James Poyser",
+          "anv": "",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 21363,
+          "resource_url": "https://api.discogs.com/artists/21363"
+        },
+        {
+          "name": "Rick Rubin",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 68211,
+          "resource_url": "https://api.discogs.com/artists/68211"
+        },
+        {
+          "name": "Greg Fidelman",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 268779,
+          "resource_url": "https://api.discogs.com/artists/268779"
+        },
+        {
+          "name": "Phillip Broussard",
+          "anv": "Phillip Broussard Jr.",
+          "join": "",
+          "role": "Recorded By [Assisted By]",
+          "tracks": "",
+          "id": 359729,
+          "resource_url": "https://api.discogs.com/artists/359729"
+        },
+        {
+          "name": "Sara Killion",
+          "anv": "Sara Lyn Killion",
+          "join": "",
+          "role": "Recorded By [Assisted By]",
+          "tracks": "",
+          "id": 529668,
+          "resource_url": "https://api.discogs.com/artists/529668"
+        },
+        {
+          "name": "Adele Adkins",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1638187,
+          "resource_url": "https://api.discogs.com/artists/1638187"
+        },
+        {
+          "name": "Dan Wilson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 303989,
+          "resource_url": "https://api.discogs.com/artists/303989"
+        },
+        {
+          "name": "Greg Wells",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 230625,
+          "resource_url": "https://api.discogs.com/artists/230625"
+        }
+      ],
+      "duration": "5:48"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Lovesong",
+      "extraartists": [
+        {
+          "name": "David Campbell",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [Strings]",
+          "tracks": "",
+          "id": 341947,
+          "resource_url": "https://api.discogs.com/artists/341947"
+        },
+        {
+          "name": "David Hidalgo",
+          "anv": "",
+          "join": "",
+          "role": "Banjo, Accordion",
+          "tracks": "",
+          "id": 310405,
+          "resource_url": "https://api.discogs.com/artists/310405"
+        },
+        {
+          "name": "Pino Palladino",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 208234,
+          "resource_url": "https://api.discogs.com/artists/208234"
+        },
+        {
+          "name": "Carmen Carter",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 298680,
+          "resource_url": "https://api.discogs.com/artists/298680"
+        },
+        {
+          "name": "Carmen Twillie",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 287251,
+          "resource_url": "https://api.discogs.com/artists/287251"
+        },
+        {
+          "name": "Jim Gilstrap",
+          "anv": "James Gilstrap",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 219823,
+          "resource_url": "https://api.discogs.com/artists/219823"
+        },
+        {
+          "name": "Josef Powell",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 701680,
+          "resource_url": "https://api.discogs.com/artists/701680"
+        },
+        {
+          "name": "Julia Tillman Waters",
+          "anv": "Julia Waters Tillman",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 441634,
+          "resource_url": "https://api.discogs.com/artists/441634"
+        },
+        {
+          "name": "Maxine Waters",
+          "anv": "Lorna Maxine Water",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 259388,
+          "resource_url": "https://api.discogs.com/artists/259388"
+        },
+        {
+          "name": "Terry Young",
+          "anv": "",
+          "join": "",
+          "role": "Choir",
+          "tracks": "",
+          "id": 276794,
+          "resource_url": "https://api.discogs.com/artists/276794"
+        },
+        {
+          "name": "Lindsay Chase",
+          "anv": "",
+          "join": "",
+          "role": "Coordinator [Production]",
+          "tracks": "",
+          "id": 277675,
+          "resource_url": "https://api.discogs.com/artists/277675"
+        },
+        {
+          "name": "Oren Waters",
+          "anv": "",
+          "join": "",
+          "role": "Directed By [Choir]",
+          "tracks": "",
+          "id": 112806,
+          "resource_url": "https://api.discogs.com/artists/112806"
+        },
+        {
+          "name": "Chris Dave",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 661928,
+          "resource_url": "https://api.discogs.com/artists/661928"
+        },
+        {
+          "name": "Matt Sweeney",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 247495,
+          "resource_url": "https://api.discogs.com/artists/247495"
+        },
+        {
+          "name": "Smokey Hormel",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 293886,
+          "resource_url": "https://api.discogs.com/artists/293886"
+        },
+        {
+          "name": "Stephanie Bennett",
+          "anv": "",
+          "join": "",
+          "role": "Harp",
+          "tracks": "",
+          "id": 407599,
+          "resource_url": "https://api.discogs.com/artists/407599"
+        },
+        {
+          "name": "Andrew Scheps",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 450831,
+          "resource_url": "https://api.discogs.com/artists/450831"
+        },
+        {
+          "name": "Lenny Castro",
+          "anv": "",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 252196,
+          "resource_url": "https://api.discogs.com/artists/252196"
+        },
+        {
+          "name": "James Poyser",
+          "anv": "",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 21363,
+          "resource_url": "https://api.discogs.com/artists/21363"
+        },
+        {
+          "name": "Rick Rubin",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 68211,
+          "resource_url": "https://api.discogs.com/artists/68211"
+        },
+        {
+          "name": "Greg Fidelman",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 268779,
+          "resource_url": "https://api.discogs.com/artists/268779"
+        },
+        {
+          "name": "Phillip Broussard",
+          "anv": "Phillip Broussard Jr.",
+          "join": "",
+          "role": "Recorded By [Assisted By]",
+          "tracks": "",
+          "id": 359729,
+          "resource_url": "https://api.discogs.com/artists/359729"
+        },
+        {
+          "name": "Sara Killion",
+          "anv": "Sara Lyn Killion",
+          "join": "",
+          "role": "Recorded By [Assisted By]",
+          "tracks": "",
+          "id": 529668,
+          "resource_url": "https://api.discogs.com/artists/529668"
+        },
+        {
+          "name": "Boris Williams",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 412943,
+          "resource_url": "https://api.discogs.com/artists/412943"
+        },
+        {
+          "name": "Laurence Tolhurst",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 309134,
+          "resource_url": "https://api.discogs.com/artists/309134"
+        },
+        {
+          "name": "Porl Thompson",
+          "anv": "Paul Thompson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 285585,
+          "resource_url": "https://api.discogs.com/artists/285585"
+        },
+        {
+          "name": "Robert Smith",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 73783,
+          "resource_url": "https://api.discogs.com/artists/73783"
+        },
+        {
+          "name": "Roger O'Donnell",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 246984,
+          "resource_url": "https://api.discogs.com/artists/246984"
+        },
+        {
+          "name": "Simon Gallup",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 412942,
+          "resource_url": "https://api.discogs.com/artists/412942"
+        }
+      ],
+      "duration": "5:16"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Someone Like You",
+      "extraartists": [
+        {
+          "name": "Philip Allen",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 2100278,
+          "resource_url": "https://api.discogs.com/artists/2100278"
+        },
+        {
+          "name": "Tom Elmhirst",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 122559,
+          "resource_url": "https://api.discogs.com/artists/122559"
+        },
+        {
+          "name": "Daniel Parry",
+          "anv": "Dan Parry",
+          "join": "",
+          "role": "Mixed By [Assisted By]",
+          "tracks": "",
+          "id": 485227,
+          "resource_url": "https://api.discogs.com/artists/485227"
+        },
+        {
+          "name": "Dan Wilson",
+          "anv": "",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 303989,
+          "resource_url": "https://api.discogs.com/artists/303989"
+        },
+        {
+          "name": "Adele (3)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 819015,
+          "resource_url": "https://api.discogs.com/artists/819015"
+        },
+        {
+          "name": "Dan Wilson",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 303989,
+          "resource_url": "https://api.discogs.com/artists/303989"
+        },
+        {
+          "name": "Adele (3)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 819015,
+          "resource_url": "https://api.discogs.com/artists/819015"
+        },
+        {
+          "name": "Dan Wilson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 303989,
+          "resource_url": "https://api.discogs.com/artists/303989"
+        }
+      ],
+      "duration": "4:47"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Adele (3)",
+      "anv": "",
+      "join": "",
+      "role": "Design",
+      "tracks": "",
+      "id": 819015,
+      "resource_url": "https://api.discogs.com/artists/819015"
+    },
+    {
+      "name": "Phil Lee (5)",
+      "anv": "",
+      "join": "",
+      "role": "Design",
+      "tracks": "",
+      "id": 1833022,
+      "resource_url": "https://api.discogs.com/artists/1833022"
+    },
+    {
+      "name": "Martin Krafft (2)",
+      "anv": "KR",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 13719835,
+      "resource_url": "https://api.discogs.com/artists/13719835"
+    },
+    {
+      "name": "Tom Coyne",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 272899,
+      "resource_url": "https://api.discogs.com/artists/272899"
+    },
+    {
+      "name": "Lauren Dukoff",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 954839,
+      "resource_url": "https://api.discogs.com/artists/954839"
+    },
+    {
+      "name": "Adele (3)",
+      "anv": "",
+      "join": "",
+      "role": "Vocals",
+      "tracks": "",
+      "id": 819015,
+      "resource_url": "https://api.discogs.com/artists/819015"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/OSS2HQhnLKMwyagVDVEYTlHL8q3BlFCQy2Sb8oF18e0/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIx/ODAxLTE3MzEyNjI4/NzgtNTk4Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/OSS2HQhnLKMwyagVDVEYTlHL8q3BlFCQy2Sb8oF18e0/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIx/ODAxLTE3MzEyNjI4/NzgtNTk4Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/bktDKZ44hX_wIcbd1IMLS7xe7vtG469_jkLnczm1qrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIx/ODAxLTE3MzEyNjI4/NzgtNTk4Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Ck7h7EEHlyZv0EQ5wJvgSwCLt4r-m5-ISE3q6i6s1mM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIx/ODAxLTE3MzEyNjI4/NzgtODU3OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Ck7h7EEHlyZv0EQ5wJvgSwCLt4r-m5-ISE3q6i6s1mM/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIx/ODAxLTE3MzEyNjI4/NzgtODU3OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ZrUV6wH6JOo-rojSBSZCuyU3vBhBRQTRse7vI1M2g4E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIx/ODAxLTE3MzEyNjI4/NzgtODU3OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 593
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/6KOUEaEGHgUpSBegwycYHjyfUlsnV7CbQLBzslmiiXc/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIx/ODAxLTE2NTg2MTE3/NDgtNTg3My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/6KOUEaEGHgUpSBegwycYHjyfUlsnV7CbQLBzslmiiXc/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIx/ODAxLTE2NTg2MTE3/NDgtNTg3My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/16j0pBOmUsea1_Zam0J1CwndQgVyESfDGJVOpuWwB5o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIx/ODAxLTE2NTg2MTE3/NDgtNTg3My5qcGVn.jpeg",
+      "width": 597,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ngd3GNwAiRnL22px3T92oqQBHmRLyNIv0nh59JiahlQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIx/ODAxLTE2NTg2MTE4/OTctMTUyMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ngd3GNwAiRnL22px3T92oqQBHmRLyNIv0nh59JiahlQ/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIx/ODAxLTE2NTg2MTE4/OTctMTUyMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/rjSK6LIA0ZNBmDMdAjy7V04C_Ftdn2uLisoTSOEn4wM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIx/ODAxLTE2NTg2MTE4/OTctMTUyMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/6QW44VLVTm85lIjUuonNHs7CVo0e0RRoGYlhQZeO5GM/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIx/ODAxLTE3MzEyNjI4/NzktMTE1My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/6QW44VLVTm85lIjUuonNHs7CVo0e0RRoGYlhQZeO5GM/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIx/ODAxLTE3MzEyNjI4/NzktMTE1My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/7kGKmPOIbjLINZRvx56BKL9_dLVYS2osOw-LRs1feeo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIx/ODAxLTE3MzEyNjI4/NzktMTE1My5qcGVn.jpeg",
+      "width": 600,
+      "height": 587
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/llUfbNTKShHq_clBxxzQkty2Q5F0Le9xZF-6bPnmxTU/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIx/ODAxLTE3MzEyNjI4/ODAtMjU0OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/llUfbNTKShHq_clBxxzQkty2Q5F0Le9xZF-6bPnmxTU/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIx/ODAxLTE3MzEyNjI4/ODAtMjU0OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/8UJL8xNl4fBSkDZhx47--kFjy5s4tIayYW0Hj24yDMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIx/ODAxLTE3MzEyNjI4/ODAtMjU0OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 591
+    }
+  ],
+  "thumb": "https://i.discogs.com/bktDKZ44hX_wIcbd1IMLS7xe7vtG469_jkLnczm1qrk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3MTIx/ODAxLTE3MzEyNjI4/NzgtNTk4Ni5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

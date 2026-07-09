@@ -1,0 +1,822 @@
+{
+  "id": 24600890,
+  "status": "Accepted",
+  "year": 2022,
+  "resource_url": "https://api.discogs.com/releases/24600890",
+  "uri": "https://www.discogs.com/release/24600890-Beyoncé-Renaissance",
+  "artists": [
+    {
+      "name": "Beyoncé",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 52835,
+      "resource_url": "https://api.discogs.com/artists/52835",
+      "thumbnail_url": "https://i.discogs.com/lQS2ubThR3mJZ-bq8MnXBS4vwJQ-EQNx17uvqOBmxRc/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUyODM1/LTE2NDI0NjA3NDMt/MzQwNS5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "Beyoncé",
+  "labels": [
+    {
+      "name": "Parkwood Entertainment",
+      "catno": "19658719671",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 256388,
+      "resource_url": "https://api.discogs.com/labels/256388",
+      "thumbnail_url": "https://i.discogs.com/CZr5D-RVyxV3lS0BRZ7lv6hr-5NxerkY_FXnILcXNc8/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NjM4/OC0xNDY0NDgzMDc4/LTM0MDguanBlZw.jpeg"
+    },
+    {
+      "name": "Columbia",
+      "catno": "19658719671",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Parkwood Entertainment LLC",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 965780,
+      "resource_url": "https://api.discogs.com/labels/965780"
+    },
+    {
+      "name": "Parkwood Entertainment LLC",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 965780,
+      "resource_url": "https://api.discogs.com/labels/965780"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "8",
+      "entity_type_name": "Marketed By",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Record Technology Incorporated",
+      "catno": "40040",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 66254,
+      "resource_url": "https://api.discogs.com/labels/66254",
+      "thumbnail_url": "https://i.discogs.com/NZIJOUdgmVHURy9AfZAXM0L0OB6S3lijFX4CZ_-nWh4/rs:fit/g:sm/q:90/h:240/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY2MjU0/LTE1MTYyOTg3NDIt/NDQxMS5wbmc.jpeg"
+    },
+    {
+      "name": "Record Technology Incorporated",
+      "catno": "40170",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 66254,
+      "resource_url": "https://api.discogs.com/labels/66254",
+      "thumbnail_url": "https://i.discogs.com/NZIJOUdgmVHURy9AfZAXM0L0OB6S3lijFX4CZ_-nWh4/rs:fit/g:sm/q:90/h:240/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY2MjU0/LTE1MTYyOTg3NDIt/NDQxMS5wbmc.jpeg"
+    },
+    {
+      "name": "Record Technology Incorporated",
+      "catno": "40150",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 66254,
+      "resource_url": "https://api.discogs.com/labels/66254",
+      "thumbnail_url": "https://i.discogs.com/NZIJOUdgmVHURy9AfZAXM0L0OB6S3lijFX4CZ_-nWh4/rs:fit/g:sm/q:90/h:240/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY2MjU0/LTE1MTYyOTg3NDIt/NDQxMS5wbmc.jpeg"
+    },
+    {
+      "name": "Black Belt Mastering",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 590709,
+      "resource_url": "https://api.discogs.com/labels/590709",
+      "thumbnail_url": "https://i.discogs.com/iG00tAGytf43gLO6VjibQ5siy6pxav987zOoQoR3Ve8/rs:fit/g:sm/q:90/h:279/w:180/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU5MDcw/OS0xNDU5ODA5NDIy/LTcxNTAucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP"
+      ],
+      "text": "180g"
+    },
+    {
+      "name": "Box Set",
+      "qty": "1",
+      "descriptions": [
+        "Album"
+      ],
+      "text": "Collector's Edition"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 19926,
+    "want": 2360,
+    "rating": {
+      "count": 1315,
+      "average": 4.83
+    },
+    "submitter": {
+      "username": "brandosoul",
+      "resource_url": "https://api.discogs.com/users/brandosoul"
+    },
+    "contributors": [
+      {
+        "username": "brandosoul",
+        "resource_url": "https://api.discogs.com/users/brandosoul"
+      },
+      {
+        "username": "Anakdotcom",
+        "resource_url": "https://api.discogs.com/users/Anakdotcom"
+      },
+      {
+        "username": "GalaxyKnowah",
+        "resource_url": "https://api.discogs.com/users/GalaxyKnowah"
+      },
+      {
+        "username": "beebotjean",
+        "resource_url": "https://api.discogs.com/users/beebotjean"
+      },
+      {
+        "username": "leonardoaraujo",
+        "resource_url": "https://api.discogs.com/users/leonardoaraujo"
+      },
+      {
+        "username": "PokemonBlueVersion",
+        "resource_url": "https://api.discogs.com/users/PokemonBlueVersion"
+      },
+      {
+        "username": "soulvibes88",
+        "resource_url": "https://api.discogs.com/users/soulvibes88"
+      },
+      {
+        "username": "jctrl",
+        "resource_url": "https://api.discogs.com/users/jctrl"
+      },
+      {
+        "username": "Midugno",
+        "resource_url": "https://api.discogs.com/users/Midugno"
+      },
+      {
+        "username": "teeuwen",
+        "resource_url": "https://api.discogs.com/users/teeuwen"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 3,
+  "date_added": "2022-09-22T16:02:56-07:00",
+  "date_changed": "2026-05-14T08:39:05-07:00",
+  "num_for_sale": 69,
+  "lowest_price": 28.92,
+  "master_id": 2726912,
+  "master_url": "https://api.discogs.com/masters/2726912",
+  "title": "Renaissance",
+  "country": "US",
+  "released": "2022-10-07",
+  "notes": "Similar to the [url=https://www.discogs.com/release/23949476-Beyoncé-Renaissance]Alternate Cover[/url] release, this original first pressing contains the interpolation of \"Milkshake\" by Kelis on track B2 \"Energy\", as well as the original offending lyric on track C4 \"Heated\", which were later changed on downloadable and streaming versions of the album, followed by [url=https://www.discogs.com/release/26411657-Beyoncé-Renaissance]new pressings[/url] of the album on [url=https://www.discogs.com/release/26478590-Beyoncé-Renaissance]Vinyl[/url] and CD. The runout markings on the discs help distinguish the original pressing from the later repressed versions.\n\n\nCollector's Edition housed in premium hard slipcase package\n2 printed jackets + 2 printed inner sleeves\n36-page photo booklet with lyrics and album credits\nIncludes 1 of 3 randomized 24\" x 36\" collectible double-sided posters\nDouble 180-gram vinyl set",
+  "released_formatted": "07 Oct 2022",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "1 9658719671 4",
+      "description": "Text, sticker found on back of shrink-wrap."
+    },
+    {
+      "type": "Barcode",
+      "value": "196587196714",
+      "description": "Scanned, sticker found on back of shrink-wrap."
+    },
+    {
+      "type": "Other",
+      "value": "19658719671S2",
+      "description": "Catalog number on hype sticker"
+    },
+    {
+      "type": "Other",
+      "value": "19658719671 JK1",
+      "description": "Catalog number printed on A/B jacket."
+    },
+    {
+      "type": "Other",
+      "value": "19658719671 JK2",
+      "description": "Catalog number printed on C/D jacket."
+    },
+    {
+      "type": "Other",
+      "value": "AL19658719671",
+      "description": "Side A catalog number printed on label."
+    },
+    {
+      "type": "Other",
+      "value": "BL19658719671",
+      "description": "Side B catalog number printed on label."
+    },
+    {
+      "type": "Other",
+      "value": "CL19658719671",
+      "description": "Side C catalog number printed on label."
+    },
+    {
+      "type": "Other",
+      "value": "DL19658719671",
+      "description": "Side D catalog number printed on label."
+    },
+    {
+      "type": "Other",
+      "value": "19658719671",
+      "description": "Catalog number printed on inner sleeves"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL19658719671 + BLACK BELT - LEVI + 40040.1(3)... 6 #26",
+      "description": "Side A etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BL19658719671 + BLACK BELT - LEVI + 40040.2(3)... 7 #9",
+      "description": "Side B etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "CL19658719671 + BLACK BELT - LEVI + REI.. 40170.3(3)... 65 #19",
+      "description": "Side C etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "DL19658719671 + BLACK BELT - LEVI + REI.. 40150.4(3)... #33",
+      "description": "Side D etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL19658719671 IV +BLACKBELT-LEVI+ 40040.1(3)",
+      "description": "Side A etched (version 2)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BL19658719671 IV +BLACKBELT-LEVI+ 40040.2(3)",
+      "description": "Side B etched (version 2)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "CL19658719671 3 II +BLACKBELT-LEVI+REI.. 40171.3(3)..2",
+      "description": "Side C etched (version 2)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "DL19658719671 (5) +BLACKBELT-LEVI+REI.. 40150.1(3)5",
+      "description": "Side D etched (version 2)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "40040.1(3)... 7 #21 AL19658719671 +BLACKBELT-LEVI+",
+      "description": "Side A etched (version 3)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "40040.2(3)... 8 #21 BL19658719671 +BLACKBELT-LEVI+",
+      "description": "Side B etched (version 3)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "40171.3(3).. #4 CL19658719671 +BLACKBELT-LEVI+ REI..",
+      "description": "Side C etched (version 3)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "40150.4(3) 7 #74 DL19658719671 +BLACKBELT-LEVI+ REI..",
+      "description": "Side D etched (version 3)"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=_Hd2WpRFgro",
+      "title": "Beyoncé - RENAISSANCE...",
+      "description": "Music video by Beyoncé performing RENAISSANCE.... (C) 2022 Parkwood Entertainment LLC, under exclusive license to Columbia Records, a Division of Sony Music Entertainment\n\nhttp://vevo.ly/zSPzC8",
+      "duration": 18,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=09z3qcegpHU",
+      "title": "Beyoncé - I’M THAT GIRL (Official Teaser)",
+      "description": "Official teaser for “I’M THAT GIRL” by Beyoncé.\n \nListen & Download ‘RENAISSANCE’ out now: https://beyonce.lnk.to/RENAISSANCE\n \nAmazon Music - https://beyonce.lnk.to/RENAISSANCE/amazonmusic\nApple Music - https://beyonce.lnk.to/RENAISSANCE/applemusic\nDeeze",
+      "duration": 217,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=iz1rIp1-b-Y",
+      "title": "Beyoncé - BREAK MY SOUL (Official Visualizer)",
+      "description": "Official visualizer for \"BREAK MY SOUL\" by Beyoncé.\n \nAmazon Music - https://beyonce.lnk.to/BREAKMYSOUL/amazonmusic\nApple Music - https://beyonce.lnk.to/BREAKMYSOUL/applemusic\nDeezer - https://beyonce.lnk.to/BREAKMYSOUL/deezer\niTunes - https://beyonce.lnk",
+      "duration": 279,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Ballroom",
+    "House",
+    "Dance-pop",
+    "Contemporary R&B",
+    "Hip-House"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "I'm That Girl",
+      "duration": "3:28"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Cozy",
+      "duration": "3:30"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Alien Superstar",
+      "duration": "3:35"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Cuff It",
+      "duration": "3:45"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Energy",
+      "extraartists": [
+        {
+          "name": "Beam (18)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 4371227,
+          "resource_url": "https://api.discogs.com/artists/4371227"
+        }
+      ],
+      "duration": "1:56"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Break My Soul",
+      "duration": "4:38"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Church Girl",
+      "duration": "3:44"
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Plastic Off The Sofa",
+      "duration": "4:14"
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Virgo's Groove",
+      "duration": "6:08"
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Move",
+      "extraartists": [
+        {
+          "name": "Grace Jones",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 13932,
+          "resource_url": "https://api.discogs.com/artists/13932"
+        },
+        {
+          "name": "Tems (2)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 8035520,
+          "resource_url": "https://api.discogs.com/artists/8035520"
+        }
+      ],
+      "duration": "3:23"
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "Heated",
+      "duration": "4:20"
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Thique",
+      "duration": "4:04"
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "All Up In Your Mind",
+      "duration": "2:49"
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "America Has A Problem",
+      "duration": "3:18"
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "title": "Pure / Honey",
+      "duration": "4:48"
+    },
+    {
+      "position": "D5",
+      "type_": "track",
+      "title": "Summer Renaissance",
+      "duration": "4:34"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Mariel Gomerez",
+      "anv": "",
+      "join": "",
+      "role": "A&R",
+      "tracks": "",
+      "id": 9766018,
+      "resource_url": "https://api.discogs.com/artists/9766018"
+    },
+    {
+      "name": "Big Jon Platt",
+      "anv": "",
+      "join": "",
+      "role": "A&R [A&R Executive]",
+      "tracks": "",
+      "id": 757439,
+      "resource_url": "https://api.discogs.com/artists/757439"
+    },
+    {
+      "name": "Kelly Shami",
+      "anv": "",
+      "join": "",
+      "role": "Artwork [Album], Design",
+      "tracks": "",
+      "id": 11594873,
+      "resource_url": "https://api.discogs.com/artists/11594873"
+    },
+    {
+      "name": "Simon Renggli",
+      "anv": "",
+      "join": "",
+      "role": "Artwork [Album], Design",
+      "tracks": "",
+      "id": 4180855,
+      "resource_url": "https://api.discogs.com/artists/4180855"
+    },
+    {
+      "name": "Andrew Makadsi",
+      "anv": "",
+      "join": "",
+      "role": "Creative Director",
+      "tracks": "",
+      "id": 9766021,
+      "resource_url": "https://api.discogs.com/artists/9766021"
+    },
+    {
+      "name": "Hillary Coy",
+      "anv": "",
+      "join": "",
+      "role": "Creative Director [Creative Producer]",
+      "tracks": "",
+      "id": 11594882,
+      "resource_url": "https://api.discogs.com/artists/11594882"
+    },
+    {
+      "name": "Lauren Baker (6)",
+      "anv": "",
+      "join": "",
+      "role": "Creative Director [Senior Creative Producer]",
+      "tracks": "",
+      "id": 11594885,
+      "resource_url": "https://api.discogs.com/artists/11594885"
+    },
+    {
+      "name": "Beyoncé Knowles Carter",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer [Executive Produced By]",
+      "tracks": "",
+      "id": 5021638,
+      "resource_url": "https://api.discogs.com/artists/5021638"
+    },
+    {
+      "name": "Laura Germida",
+      "anv": "",
+      "join": "",
+      "role": "Image Editor",
+      "tracks": "",
+      "id": 5308534,
+      "resource_url": "https://api.discogs.com/artists/5308534"
+    },
+    {
+      "name": "Sumire Fukuda",
+      "anv": "",
+      "join": "",
+      "role": "Image Editor",
+      "tracks": "",
+      "id": 11594876,
+      "resource_url": "https://api.discogs.com/artists/11594876"
+    },
+    {
+      "name": "Tyler Johnson (11)",
+      "anv": "",
+      "join": "",
+      "role": "Image Editor",
+      "tracks": "",
+      "id": 11594879,
+      "resource_url": "https://api.discogs.com/artists/11594879"
+    },
+    {
+      "name": "Levi Seitz",
+      "anv": "LEVI",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 2759326,
+      "resource_url": "https://api.discogs.com/artists/2759326"
+    },
+    {
+      "name": "Damien Smith (2)",
+      "anv": "",
+      "join": "",
+      "role": "Management [Parkwood Head of Music & Touring]",
+      "tracks": "",
+      "id": 2438096,
+      "resource_url": "https://api.discogs.com/artists/2438096"
+    },
+    {
+      "name": "Stuart White",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "",
+      "id": 964768,
+      "resource_url": "https://api.discogs.com/artists/964768"
+    },
+    {
+      "name": "Carlijn Jacobs",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 7981308,
+      "resource_url": "https://api.discogs.com/artists/7981308"
+    },
+    {
+      "name": "Mason Poole",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 3598002,
+      "resource_url": "https://api.discogs.com/artists/3598002"
+    },
+    {
+      "name": "Ricky Lawson (2)",
+      "anv": "",
+      "join": "",
+      "role": "Project Manager",
+      "tracks": "",
+      "id": 9766033,
+      "resource_url": "https://api.discogs.com/artists/9766033"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/IChfdfyax5z8kMZgi3ThGEdfOme5zmETFNhyiOsUAGA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE3MjY2OTk5/NzUtMTQyNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/IChfdfyax5z8kMZgi3ThGEdfOme5zmETFNhyiOsUAGA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE3MjY2OTk5/NzUtMTQyNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/hiRcX3MCNJEA1Zhj66QF4SMg17UhS9z0Ae73nEErEoo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE3MjY2OTk5/NzUtMTQyNi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/V8zg-JQQIFahLkJ6NL4p_q5_ZcfsMPUUu8H81LXNBcw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE3MjY2OTk5/MjAtNjI0OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/V8zg-JQQIFahLkJ6NL4p_q5_ZcfsMPUUu8H81LXNBcw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE3MjY2OTk5/MjAtNjI0OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/cBq6Wbeg2-MIquedXNzlv-kjVxloSfjH5e0ecvFtsAo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE3MjY2OTk5/MjAtNjI0OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Tm6xuOZYwRKFOLBOek1w4Lh6nSscuOsK1nLhm_bUxCU/rs:fit/g:sm/q:90/h:510/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4OTYw/NDMtODc2MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Tm6xuOZYwRKFOLBOek1w4Lh6nSscuOsK1nLhm_bUxCU/rs:fit/g:sm/q:90/h:510/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4OTYw/NDMtODc2MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/AnO2kfuK5emAJzGmxxLnaqoYFqwjrKo1CLX9OwC3KRA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4OTYw/NDMtODc2MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 510
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/iL8iQc_8vQevURnV6D8J3bxtKrUgUJF6T-4Td8zQDKw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/NDItNjc2Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/iL8iQc_8vQevURnV6D8J3bxtKrUgUJF6T-4Td8zQDKw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/NDItNjc2Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Lmvlhb_PraKi-wz85xcmEilNxftbDGvbZpEcG41P61Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/NDItNjc2Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/g8Im14YXxJMKNsWuuslEqDUmJvy7u2lIwZbiQ-9qJqs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/NDQtNTQ1Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/g8Im14YXxJMKNsWuuslEqDUmJvy7u2lIwZbiQ-9qJqs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/NDQtNTQ1Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/gESc5eatjs_N05VDFwFaBPsK0Z9OPbPkfAi_1RKtc2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/NDQtNTQ1Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/kad4jbW7ZFtySB39UjtORtB8KBngI21RzPrqrYLH4Q4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/NDQtOTA3NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/kad4jbW7ZFtySB39UjtORtB8KBngI21RzPrqrYLH4Q4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/NDQtOTA3NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/a5C3TAtvkx9cXLRWP5gpAYpr1hPt10CHH7YCauBZgak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/NDQtOTA3NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/JLF4ks0KThqp-aDptfJpphKAZlsyL0DOUw6iQ0ntRws/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/NDQtNzMxNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/JLF4ks0KThqp-aDptfJpphKAZlsyL0DOUw6iQ0ntRws/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/NDQtNzMxNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/z3e-ToJqfKPVpupqHMdwbSFS3pLTY3fIu0U8p5g5ak8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/NDQtNzMxNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ejkHF9vlt7yn_nCXPCnip9R5SG4AXhXfjk01myRvOT8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/MzgtMjA1NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ejkHF9vlt7yn_nCXPCnip9R5SG4AXhXfjk01myRvOT8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/MzgtMjA1NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/YZzt3kBRSjhgh88tE-VfXLIxFmH5QvKsWUCl4bZDfTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/MzgtMjA1NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/FSdzbGd1sh5dvdep9yp6sN0aPLvQp00MtZ4lf2LO1vY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/MzktOTc2MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/FSdzbGd1sh5dvdep9yp6sN0aPLvQp00MtZ4lf2LO1vY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/MzktOTc2MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/AuouLHVzp9EsyVMUkFbfaJlLr0oevG1BlSRAs4wW524/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/MzktOTc2MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/4AZmT-9npsyaiEsZ8GvNLCJRyYQ0fT8ZKuxetkSSKww/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/NDAtODM4MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/4AZmT-9npsyaiEsZ8GvNLCJRyYQ0fT8ZKuxetkSSKww/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/NDAtODM4MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ywdnuWq-of1-XN2BBi_p0JVbsQujpdEgpVSr73rorrI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/NDAtODM4MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/m5gAZekOE-xCM3StNENcpyFOBDIRaap6jpxoTPHoSZQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/NDItODM5Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/m5gAZekOE-xCM3StNENcpyFOBDIRaap6jpxoTPHoSZQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/NDItODM5Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/O08IwnlKBbHBhKIPN0JZ4di6EFaI1pSgMSLmgWvZ6ZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/NDItODM5Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/g2uvt7GWLTmP_m3xegAISyt0yt0SJDYTO824j4yhRGs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/NDItODIwNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/g2uvt7GWLTmP_m3xegAISyt0yt0SJDYTO824j4yhRGs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/NDItODIwNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/xKcwl_fhHhPvimWBpoX1w_a3dey-1LRWMyYKUzkLmdY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/NDItODIwNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/_yc6sTYgWTBcfjeFB5SN1x2B2TiZuwIQpi9TMvWBQDw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/NDQtMzQxOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/_yc6sTYgWTBcfjeFB5SN1x2B2TiZuwIQpi9TMvWBQDw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/NDQtMzQxOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/BL7x0FgnTDV0K9Oqd-Yx3q3L0oLvR-d0RU6Zvg1tp0w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/NDQtMzQxOC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/7KmFFNG9GYWU6HD055VOCwE33uye_Y5J0da_Hp6w_QQ/rs:fit/g:sm/q:90/h:600/w:511/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjQzMTY2/MzUtMzQ1Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/7KmFFNG9GYWU6HD055VOCwE33uye_Y5J0da_Hp6w_QQ/rs:fit/g:sm/q:90/h:600/w:511/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjQzMTY2/MzUtMzQ1Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/oLnnER7_PLUOl-SrM870d7aav6Th22MTKYRvixGcxm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjQzMTY2/MzUtMzQ1Ny5qcGVn.jpeg",
+      "width": 511,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Ue3Xyxse3BLSeW8LhVTb8cUZvTMBGl0NqcU4RHFGN5g/rs:fit/g:sm/q:90/h:600/w:501/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjQzMTY2/MzUtNzQxNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Ue3Xyxse3BLSeW8LhVTb8cUZvTMBGl0NqcU4RHFGN5g/rs:fit/g:sm/q:90/h:600/w:501/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjQzMTY2/MzUtNzQxNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/qfgfU7XGMg5EkcTix6Mnd5istYpo0nOdfeYM0ULxC0g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjQzMTY2/MzUtNzQxNS5qcGVn.jpeg",
+      "width": 501,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/kSnskdfWEy2Hs7klA0glA6Zhg7oty6aPMOWxWtu2pE0/rs:fit/g:sm/q:90/h:419/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjUyNTgx/OTMtOTUyNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/kSnskdfWEy2Hs7klA0glA6Zhg7oty6aPMOWxWtu2pE0/rs:fit/g:sm/q:90/h:419/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjUyNTgx/OTMtOTUyNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/mxIC5zsA00V7E0XKe9yxM7s8r4a3dtzPdGM-8zaHzCM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjUyNTgx/OTMtOTUyNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 419
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/9N5Sal_9JmpXAT6CPNqtLr_D3Ggjff75JrfVwyGefTk/rs:fit/g:sm/q:90/h:444/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjUyNTgx/OTgtNDU5MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/9N5Sal_9JmpXAT6CPNqtLr_D3Ggjff75JrfVwyGefTk/rs:fit/g:sm/q:90/h:444/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjUyNTgx/OTgtNDU5MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/fk-OZLw3wfqL4VLi9iVZEISuLqnEiOlIP7t3TKpc34g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjUyNTgx/OTgtNDU5MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 444
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/L8L3g-Zu1_oxVZmhvqWQwBQSGw8ZaZa_95Z8RiNJEJk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjUyNTg1/NzMtMzEzOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/L8L3g-Zu1_oxVZmhvqWQwBQSGw8ZaZa_95Z8RiNJEJk/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjUyNTg1/NzMtMzEzOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ruOEA8ZRGJggJPt7hJ_VMikIXUGkGUVgbEeXqRAgdB0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjUyNTg1/NzMtMzEzOS5qcGVn.jpeg",
+      "width": 600,
+      "height": 450
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/evIrSjq-tcSlzXM9m7Ub0P0YE2_T-ffD8aA9ZDbFYew/rs:fit/g:sm/q:90/h:427/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjUyNzgx/OTgtNjIwOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/evIrSjq-tcSlzXM9m7Ub0P0YE2_T-ffD8aA9ZDbFYew/rs:fit/g:sm/q:90/h:427/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjUyNzgx/OTgtNjIwOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/vOxabRe1aMN0Jl1pGBd2f94OUdrQOmtoEHlQLxOZXPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjUyNzgx/OTgtNjIwOC5qcGVn.jpeg",
+      "width": 600,
+      "height": 427
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/EcCYH7QT2MZGoXvAijnBaFYDX_zVUGIqSWnHwoe7J6k/rs:fit/g:sm/q:90/h:29/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc3/OTctOTcyNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/EcCYH7QT2MZGoXvAijnBaFYDX_zVUGIqSWnHwoe7J6k/rs:fit/g:sm/q:90/h:29/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc3/OTctOTcyNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/aK2wADRjVzLBBqlnY52ks8qP83WAnwTpK-J6ZqNn6yo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc3/OTctOTcyNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 29
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/629lks0FbbosQ9B3R1gTwtIc8Ev0VVl0Ljw_TwUkHzk/rs:fit/g:sm/q:90/h:600/w:554/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjUyNTky/ODctNzA2OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/629lks0FbbosQ9B3R1gTwtIc8Ev0VVl0Ljw_TwUkHzk/rs:fit/g:sm/q:90/h:600/w:554/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjUyNTky/ODctNzA2OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/SauJ5Q1I8AZTjmhJvP7oIu2nrvy3DUCQFAIX2W2PNtk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjUyNTky/ODctNzA2OC5qcGVn.jpeg",
+      "width": 554,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/OwMrM7QF_CQcHvEC6DXIaHMwNja9CosKo4-_f-lJek8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/MzMtMjIzNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/OwMrM7QF_CQcHvEC6DXIaHMwNja9CosKo4-_f-lJek8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/MzMtMjIzNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/8_30moT_qTQ_kzVXea7GgGTzNeL6flpflXw-1WYl-zg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE2NjM4ODc4/MzMtMjIzNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/hiRcX3MCNJEA1Zhj66QF4SMg17UhS9z0Ae73nEErEoo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NjAw/ODkwLTE3MjY2OTk5/NzUtMTQyNi5qcGVn.jpeg",
+  "estimated_weight": 690,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

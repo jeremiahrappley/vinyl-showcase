@@ -1,0 +1,474 @@
+{
+  "id": 18190789,
+  "status": "Accepted",
+  "year": 2021,
+  "resource_url": "https://api.discogs.com/releases/18190789",
+  "uri": "https://www.discogs.com/release/18190789-Ariana-Grande-Positions",
+  "artists": [
+    {
+      "name": "Ariana Grande",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 3310737,
+      "resource_url": "https://api.discogs.com/artists/3310737",
+      "thumbnail_url": "https://i.discogs.com/ns2Lr4_vKieO-26rNH1Uzj5CreZtJlFsHv_Y4ebasps/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMzMTA3/MzctMTc3OTAzOTgw/NS0yMDQ1LnBuZw.jpeg"
+    }
+  ],
+  "artists_sort": "Ariana Grande",
+  "labels": [
+    {
+      "name": "Republic Records",
+      "catno": "B0033223-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Republic Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    },
+    {
+      "name": "Republic Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    },
+    {
+      "name": "UMG Recordings, Inc.",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 272782,
+      "resource_url": "https://api.discogs.com/labels/272782",
+      "thumbnail_url": "https://i.discogs.com/WX78Ss6rJPzD8aWRj-wynSuGlTwtQLp2QLnUFGDI3Pg/rs:fit/g:sm/q:90/h:80/w:534/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Mjc4/Mi0xNDU3MDEyNDAw/LTExMzYuanBlZw.jpeg"
+    },
+    {
+      "name": "UMG Commercial Services",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 1419182,
+      "resource_url": "https://api.discogs.com/labels/1419182"
+    },
+    {
+      "name": "Sterling Sound Nashville",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 1524469,
+      "resource_url": "https://api.discogs.com/labels/1524469",
+      "thumbnail_url": "https://i.discogs.com/vvvZti0YxdLBHed8OuOZXwJO1_0Xmf2CKhCW4jYOIcs/rs:fit/g:sm/q:90/h:190/w:265/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1MjQ0/NjktMTU4OTk4NzE4/OS0yNDc2LmpwZWc.jpeg"
+    },
+    {
+      "name": "GZ Media",
+      "catno": "219197E",
+      "entity_type": "44",
+      "entity_type_name": "Plated At",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album"
+      ],
+      "text": "Green Translucent [Coke Bottle Clear]"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 10492,
+    "want": 1999,
+    "rating": {
+      "count": 960,
+      "average": 4.68
+    },
+    "submitter": {
+      "username": "bangs-and-burns",
+      "resource_url": "https://api.discogs.com/users/bangs-and-burns"
+    },
+    "contributors": [
+      {
+        "username": "bangs-and-burns",
+        "resource_url": "https://api.discogs.com/users/bangs-and-burns"
+      },
+      {
+        "username": "wvdvinyl",
+        "resource_url": "https://api.discogs.com/users/wvdvinyl"
+      },
+      {
+        "username": "dreamshop",
+        "resource_url": "https://api.discogs.com/users/dreamshop"
+      },
+      {
+        "username": "SlyCooper",
+        "resource_url": "https://api.discogs.com/users/SlyCooper"
+      },
+      {
+        "username": "_LennonG_",
+        "resource_url": "https://api.discogs.com/users/_LennonG_"
+      },
+      {
+        "username": "soul_glitch",
+        "resource_url": "https://api.discogs.com/users/soul_glitch"
+      },
+      {
+        "username": "greg_vinyl",
+        "resource_url": "https://api.discogs.com/users/greg_vinyl"
+      },
+      {
+        "username": "sethriv",
+        "resource_url": "https://api.discogs.com/users/sethriv"
+      },
+      {
+        "username": "vrp_pdx",
+        "resource_url": "https://api.discogs.com/users/vrp_pdx"
+      },
+      {
+        "username": "triplestan",
+        "resource_url": "https://api.discogs.com/users/triplestan"
+      },
+      {
+        "username": "bentukua",
+        "resource_url": "https://api.discogs.com/users/bentukua"
+      },
+      {
+        "username": "xvxvinyl",
+        "resource_url": "https://api.discogs.com/users/xvxvinyl"
+      },
+      {
+        "username": "SP_Vinyl",
+        "resource_url": "https://api.discogs.com/users/SP_Vinyl"
+      },
+      {
+        "username": "Xmipod",
+        "resource_url": "https://api.discogs.com/users/Xmipod"
+      },
+      {
+        "username": "Uniquely.Aidan",
+        "resource_url": "https://api.discogs.com/users/Uniquely.Aidan"
+      },
+      {
+        "username": "otanko_nasby",
+        "resource_url": "https://api.discogs.com/users/otanko_nasby"
+      },
+      {
+        "username": "myvinyldiscography",
+        "resource_url": "https://api.discogs.com/users/myvinyldiscography"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2021-04-07T05:30:12-07:00",
+  "date_changed": "2025-10-30T02:09:52-07:00",
+  "num_for_sale": 39,
+  "lowest_price": 19.5,
+  "master_id": 1831958,
+  "master_url": "https://api.discogs.com/masters/1831958",
+  "title": "Positions",
+  "country": "US",
+  "released": "2021-04-09",
+  "notes": "Standard release.\n\nIn the runouts, the first catalog number & RKS are hand-etched, STERLING is stamped, and the rest is machine-engraved.",
+  "released_formatted": "09 Apr 2021",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02435 45090 2",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "602435450902",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0033223-01-A B0033223-01A 219197E1 923443 RKS STERLING",
+      "description": "Side A runout, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0033223-01-B B0033223-01B 219197E2 922679 RKS STERLING",
+      "description": "Side B runout, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0033223-01-A B0033223-01A 922678 219197E1 RKS STERLING",
+      "description": "Side A runout, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0033223-01-B B0033223-01B 219197E2 923448 RKS STERLING",
+      "description": "Side B runout, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0033223-01-A B0033223-01A 219197E1 885305 RKS STERLING",
+      "description": "Side A runout, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0033223-01-B B0033223-01B 219197E2 885308 RKS STERLING",
+      "description": "Side B runout, variant 3"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=B6_iQvaIjXw",
+      "title": "Ariana Grande - 34+35 (official video)",
+      "description": "The official “34+35” music video by Ariana Grande. Listen & download Positions (the album) here: http://arianagrande.lnk.to/positions\n\n►Subscribe to Ariana Grande: https://arianagrande.lnk.to/subscribe\n\n►Shop Exclusive Merch: https://arianagrande.lnk.to/s",
+      "duration": 221,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=tcYodQoapMg",
+      "title": "Ariana Grande - positions (official video)",
+      "description": "The official “positions” music video by Ariana Grande. Listen & download the song here: http://arianagrande.lnk.to/positions \n\n►Subscribe to Ariana Grande: https://arianagrande.lnk.to/subscribe \n\n►Shop Exclusive Merch: https://shop.arianagrande.com \n\n►Fol",
+      "duration": 178,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Cvofj7K_5Iw",
+      "title": "Ariana Grande - pov (official lyric video)",
+      "description": "The official “POV” lyric and dance video by Ariana Grande. Listen & download Positions (the album) here: http://arianagrande.lnk.to/positions\n\n►Shop Merch: https://arianagrande.lnk.to/shop\n\n►Follow Ariana Grande:\nwww.arianagrande.com\nhttps://instagram.com",
+      "duration": 202,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Hip Hop",
+    "Jazz",
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Contemporary R&B"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Shut Up",
+      "duration": "2:37"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "34+35",
+      "duration": "2:53"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Motive",
+      "extraartists": [
+        {
+          "name": "Doja Cat",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3970719,
+          "resource_url": "https://api.discogs.com/artists/3970719"
+        }
+      ],
+      "duration": "2:47"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Just Like Magic",
+      "duration": "2:29"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Off The Table",
+      "extraartists": [
+        {
+          "name": "The Weeknd",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2171152,
+          "resource_url": "https://api.discogs.com/artists/2171152"
+        }
+      ],
+      "duration": "3:59"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Six Thirty",
+      "duration": "3:04"
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "title": "Safety Net",
+      "extraartists": [
+        {
+          "name": "Ty$",
+          "anv": "Ty Dolla $ign",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1825654,
+          "resource_url": "https://api.discogs.com/artists/1825654"
+        }
+      ],
+      "duration": "3:28"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "My Hair",
+      "duration": "2:38"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Nasty",
+      "duration": "3:20"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "West Side",
+      "duration": "2:12"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Love Language",
+      "duration": "2:59"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Positions",
+      "duration": "2:52"
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Obvious",
+      "duration": "2:38"
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "title": "POV",
+      "duration": "3:21"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/DsYAd9-sAWqabVP8HEWfL3_qE_y2rBIPgW8F71J7vpA/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMDIx/MDAtNzE5NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/DsYAd9-sAWqabVP8HEWfL3_qE_y2rBIPgW8F71J7vpA/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMDIx/MDAtNzE5NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/M0MRv6tO9P0_mj6aoqc6f4m58oOKJ9fgkwOi8LDRPv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMDIx/MDAtNzE5NS5qcGVn.jpeg",
+      "width": 591,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/t0j4-UPJoVi3EcIa5HuOAwL9p0LE2pWUmluFpbpWWg4/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMDIw/OTktNDM3Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/t0j4-UPJoVi3EcIa5HuOAwL9p0LE2pWUmluFpbpWWg4/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMDIw/OTktNDM3Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/b7-MAU-IidWwX4u55jK8rGkJVIkcCCkUcEPNrheepuc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMDIw/OTktNDM3Ny5qcGVn.jpeg",
+      "width": 584,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/NM9yz5_dx-RNzqTS5ptmpU9zX-wQB4mFRI6MFSYrKSY/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMDIw/OTktMjI0Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/NM9yz5_dx-RNzqTS5ptmpU9zX-wQB4mFRI6MFSYrKSY/rs:fit/g:sm/q:90/h:600/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMDIw/OTktMjI0Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/20mwzPYxnohmXxoAP5nr07vF7zYNhA7_fZZx0UEXVW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMDIw/OTktMjI0Mi5qcGVn.jpeg",
+      "width": 590,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/yOp17ggZHDirHnQ1DALaDC4ce11hucH6T5C_fVQq5PQ/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMDIx/MDAtODE1My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/yOp17ggZHDirHnQ1DALaDC4ce11hucH6T5C_fVQq5PQ/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMDIx/MDAtODE1My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/GRp5GOjPAnD8qpVS_HGoL_Il91eO64vkKkHzvNp8zVA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMDIx/MDAtODE1My5qcGVn.jpeg",
+      "width": 585,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ocl4h_XVFZtu26Q1tMLQNKfDoXoerPA8FiXgIdXxqxY/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMDIw/OTktNzgzMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ocl4h_XVFZtu26Q1tMLQNKfDoXoerPA8FiXgIdXxqxY/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMDIw/OTktNzgzMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/BfOwxutth0xAN76pcQbZQqLEFGMzJcZxsDyLVCQudAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMDIw/OTktNzgzMC5qcGVn.jpeg",
+      "width": 596,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/641tRfniI7ouI9T9K_XmtZaRFpd02WN8z2rLgEV3I1I/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMDIw/OTktODE3My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/641tRfniI7ouI9T9K_XmtZaRFpd02WN8z2rLgEV3I1I/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMDIw/OTktODE3My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/6DUMhDvJMVcY0Bg7qMIxwQJobNWL4WxqaA_5jBoXlaI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMDIw/OTktODE3My5qcGVn.jpeg",
+      "width": 583,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/y-lrQvjawarONbNN56tsOHzk-TUlS3uLa8Mi2Kxi8-4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMDIx/MDAtMjMyOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/y-lrQvjawarONbNN56tsOHzk-TUlS3uLa8Mi2Kxi8-4/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMDIx/MDAtMjMyOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/5Mlw6_LvCOt7GazeqYyOTPduHOk_GJcU8ZGV97RJWoo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMDIx/MDAtMjMyOC5qcGVn.jpeg",
+      "width": 599,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/S9BY8IWHhhcr4UwcNokgxWQSTH82DQOZVTxCnxtm2pU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMDIx/MDAtMjk5Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/S9BY8IWHhhcr4UwcNokgxWQSTH82DQOZVTxCnxtm2pU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMDIx/MDAtMjk5Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/zG_KcprPdwXNGYeQNsllRAI1xGRFrnVadGeE1h1TIvY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMDIx/MDAtMjk5Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/HmXFsunWreKaSnhHmR4zOP3tK6oB-J0OajxxtVIPv7A/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMTQy/NTMtNTEwNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/HmXFsunWreKaSnhHmR4zOP3tK6oB-J0OajxxtVIPv7A/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMTQy/NTMtNTEwNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/U864s_yKXZka7ZV-1JiMxRypQsP56Um8pc-lhbj_LCo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMTQy/NTMtNTEwNC5qcGVn.jpeg",
+      "width": 500,
+      "height": 500
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/_LpbMvdZ_3VSWuD5n0QfmAZeEHu4TvApZ7hlqbApwZo/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMTQy/NTItNTIxNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/_LpbMvdZ_3VSWuD5n0QfmAZeEHu4TvApZ7hlqbApwZo/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMTQy/NTItNTIxNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/DxLrVkzTwq0SAbY2-umRv2LaYaWaov0Tmg6gIPtNHH0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMTQy/NTItNTIxNy5qcGVn.jpeg",
+      "width": 500,
+      "height": 500
+    }
+  ],
+  "thumb": "https://i.discogs.com/M0MRv6tO9P0_mj6aoqc6f4m58oOKJ9fgkwOi8LDRPv8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4MTkw/Nzg5LTE3MTYzMDIx/MDAtNzE5NS5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

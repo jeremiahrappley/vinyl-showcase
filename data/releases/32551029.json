@@ -1,0 +1,439 @@
+{
+  "id": 32551029,
+  "status": "Accepted",
+  "year": 2024,
+  "resource_url": "https://api.discogs.com/releases/32551029",
+  "uri": "https://www.discogs.com/release/32551029-Nicki-Minaj-The-Pinkprint",
+  "artists": [
+    {
+      "name": "Nicki Minaj",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 1615988,
+      "resource_url": "https://api.discogs.com/artists/1615988",
+      "thumbnail_url": "https://i.discogs.com/YIBvaMaBBR2hwvbLzChn_rj1LF7XJYYYz7rjZZ-ovNg/rs:fit/g:sm/q:90/h:549/w:549/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE2MTU5/ODgtMTY4NTEzMTE0/NS05MTkxLnBuZw.jpeg"
+    }
+  ],
+  "artists_sort": "Nicki Minaj",
+  "labels": [
+    {
+      "name": "Cash Money Records",
+      "catno": "602475097488",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 19799,
+      "resource_url": "https://api.discogs.com/labels/19799",
+      "thumbnail_url": "https://i.discogs.com/DOJAy2_H-CJsw0a9XtVIDDBpUM7BRHfNWiHyuZ0FvcY/rs:fit/g:sm/q:90/h:600/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5Nzk5/LTE0ODg5MTgwNTct/Mzg1OS5wbmc.jpeg"
+    },
+    {
+      "name": "Republic Records",
+      "catno": "602475097488",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Cash Money Records, Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 273837,
+      "resource_url": "https://api.discogs.com/labels/273837"
+    },
+    {
+      "name": "Cash Money Records, Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 273837,
+      "resource_url": "https://api.discogs.com/labels/273837"
+    },
+    {
+      "name": "UMG Commercial Services",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 1419182,
+      "resource_url": "https://api.discogs.com/labels/1419182"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 314,
+    "want": 53,
+    "rating": {
+      "count": 30,
+      "average": 4.63
+    },
+    "submitter": {
+      "username": "alx_swae",
+      "resource_url": "https://api.discogs.com/users/alx_swae"
+    },
+    "contributors": [
+      {
+        "username": "alx_swae",
+        "resource_url": "https://api.discogs.com/users/alx_swae"
+      },
+      {
+        "username": "rendydayrin",
+        "resource_url": "https://api.discogs.com/users/rendydayrin"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2024-12-12T19:55:06-08:00",
+  "date_changed": "2024-12-15T16:27:40-08:00",
+  "num_for_sale": 11,
+  "lowest_price": 37.76,
+  "master_id": 769161,
+  "master_url": "https://api.discogs.com/masters/769161",
+  "title": "The Pinkprint",
+  "country": "US",
+  "released": "2024-11-22",
+  "notes": "Hype sticker:\nNICKI MINAJ\nthe pinkprint\nFIRST TIME ON VINYL\nFeaturing \"ANACONDA\" & \"ONLY\"\n\n602475097488-0 on center label.",
+  "released_formatted": "22 Nov 2024",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02475 09748 8",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "602475097488",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "10-107269 / 602475097488 - A 289866E1/B",
+      "description": "Side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "10-107269 / 602475097488 - B 289866E2/A",
+      "description": "Side B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "602475097488 - C 28966E3/C",
+      "description": "Side C"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "602475097488 - D 289866E4/B",
+      "description": "Side D"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=LDZX4ooRsWs",
+      "title": "Nicki Minaj - Anaconda",
+      "description": "The Pinkprint Available now! http://smarturl.it/NickiPinkprntDlxExiT\nBuy Now!\nNicki Minaj \"Anaconda\" is available for download now!\nDevice Aware: http://smarturl.it/NickiMinajAnaconda\n\nSubscribe here: https://goo.gl/HKJZwr",
+      "duration": 290,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=IvN5h9BE444",
+      "title": "Nicki Minaj - The Night Is Still Young",
+      "description": "Watch Nicki Minaj's The Night Is Still Young music video on Vevo. http://bit.ly/1G1qNi2\nDon’t miss our daily premieres, awesome performances and killer playlists – discover your new fave!\n\nSubscribe here: https://goo.gl/HKJZwr",
+      "duration": 247,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=f7ld-3nZUxA",
+      "title": "Nicki Minaj - Pills N Potions (Official)",
+      "description": "The Pinkprint Available now! http://smarturl.it/NickiPinkprntDlxExiT\n\nMusic video by Nicki Minaj performing Pills N Potions. (C) 2014 Cash Money Records Inc.",
+      "duration": 274,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=zXtsGAkyeIo",
+      "title": "Nicki Minaj - Only ft. Drake, Lil Wayne, Chris Brown",
+      "description": "The Pinkprint Available now! http://smarturl.it/NickiPinkprntDlxExiT\nOut Now! http://smarturl.it/NickiMinajOnlyEXP",
+      "duration": 358,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Hip Hop",
+    "Pop"
+  ],
+  "styles": [
+    "Breakbeat",
+    "Hip Hop"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "All Things Go",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "I Lied ",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "The Crying Game",
+      "extraartists": [
+        {
+          "name": "Jessie Ware",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1885206,
+          "resource_url": "https://api.discogs.com/artists/1885206"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Get On Your Knees ",
+      "extraartists": [
+        {
+          "name": "Ariana Grande",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3310737,
+          "resource_url": "https://api.discogs.com/artists/3310737"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Feeling Myself",
+      "extraartists": [
+        {
+          "name": "Beyoncé",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 52835,
+          "resource_url": "https://api.discogs.com/artists/52835"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Only",
+      "extraartists": [
+        {
+          "name": "Chris Brown (4)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 357753,
+          "resource_url": "https://api.discogs.com/artists/357753"
+        },
+        {
+          "name": "Drake",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 151199,
+          "resource_url": "https://api.discogs.com/artists/151199"
+        },
+        {
+          "name": "Lil Wayne",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1065010,
+          "resource_url": "https://api.discogs.com/artists/1065010"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Want Some More",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Four Door Aventador",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Favourite ",
+      "extraartists": [
+        {
+          "name": "Jeremih",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1502171,
+          "resource_url": "https://api.discogs.com/artists/1502171"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Buy A Heart",
+      "extraartists": [
+        {
+          "name": "Meek Mill",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2082945,
+          "resource_url": "https://api.discogs.com/artists/2082945"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Trini Dem Girls",
+      "extraartists": [
+        {
+          "name": "LunchMoney Lewis",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 5060563,
+          "resource_url": "https://api.discogs.com/artists/5060563"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Anaconda",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "The Night Is Still Young",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "Pills N Potions",
+      "duration": ""
+    },
+    {
+      "position": "C5",
+      "type_": "track",
+      "title": "Bed Of Lies",
+      "extraartists": [
+        {
+          "name": "Skylar Grey",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2044778,
+          "resource_url": "https://api.discogs.com/artists/2044778"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Grand Piano",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Big Daddy",
+      "extraartists": [
+        {
+          "name": "Meek Mill",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2082945,
+          "resource_url": "https://api.discogs.com/artists/2082945"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Shanghai ",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "title": "Win Again",
+      "duration": ""
+    },
+    {
+      "position": "D5",
+      "type_": "track",
+      "title": "Truffle Butter ",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/x_J_43Qgj9rzI2-qgf4td0PfecdqN3FPvzjidHqACjQ/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTUx/MDI5LTE3MzQzMDg4/MzYtMTEyNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/x_J_43Qgj9rzI2-qgf4td0PfecdqN3FPvzjidHqACjQ/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTUx/MDI5LTE3MzQzMDg4/MzYtMTEyNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/49EnCeVvH8D9Lyf4ARyFqIBS0m-GZPRubxDbvaXUkTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTUx/MDI5LTE3MzQzMDg4/MzYtMTEyNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 591
+    }
+  ],
+  "thumb": "https://i.discogs.com/49EnCeVvH8D9Lyf4ARyFqIBS0m-GZPRubxDbvaXUkTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyNTUx/MDI5LTE3MzQzMDg4/MzYtMTEyNS5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

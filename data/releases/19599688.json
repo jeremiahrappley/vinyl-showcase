@@ -1,0 +1,1639 @@
+{
+  "id": 19599688,
+  "status": "Accepted",
+  "year": 2021,
+  "resource_url": "https://api.discogs.com/releases/19599688",
+  "uri": "https://www.discogs.com/release/19599688-Miley-Cyrus-Plastic-Hearts",
+  "artists": [
+    {
+      "name": "Miley Cyrus",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 676432,
+      "resource_url": "https://api.discogs.com/artists/676432",
+      "thumbnail_url": "https://i.discogs.com/GYN5C-C_AUUEbySInzMTahicQh6vrEaVJChxjIp37eU/rs:fit/g:sm/q:90/h:600/w:405/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY3NjQz/Mi0xNzc3NDEwNjg1/LTQ1MDQuanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Miley Cyrus",
+  "labels": [
+    {
+      "name": "RCA",
+      "catno": "19439-83735-1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 895,
+      "resource_url": "https://api.discogs.com/labels/895",
+      "thumbnail_url": "https://i.discogs.com/q-zL2IXAAZL18V9Ova8MTy7NXCoGMloDEKM1yaHpays/rs:fit/g:sm/q:90/h:287/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg5NS0x/NzY4MDgxMjYxLTMw/NDIuanBlZw.jpeg"
+    },
+    {
+      "name": "Sony Music",
+      "catno": "19439-83735-1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 25487,
+      "resource_url": "https://api.discogs.com/labels/25487",
+      "thumbnail_url": "https://i.discogs.com/O7quXBkakkeeljzb5ApIswR86acqIHTQ3qzBrCHmqzA/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NDg3/LTE3MDA5NDA1ODgt/MTYwNS5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "RCA Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 29656,
+      "resource_url": "https://api.discogs.com/labels/29656",
+      "thumbnail_url": "https://i.discogs.com/EN9PpsplNgyWdRKTy1QohI1E5-1H-AkSgtzqej8WFu0/rs:fit/g:sm/q:90/h:94/w:283/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5NjU2/LTE0OTAwODk0MTQt/MjI5My5wbmc.jpeg"
+    },
+    {
+      "name": "RCA Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 29656,
+      "resource_url": "https://api.discogs.com/labels/29656",
+      "thumbnail_url": "https://i.discogs.com/EN9PpsplNgyWdRKTy1QohI1E5-1H-AkSgtzqej8WFu0/rs:fit/g:sm/q:90/h:94/w:283/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5NjU2/LTE0OTAwODk0MTQt/MjI5My5wbmc.jpeg"
+    },
+    {
+      "name": "Sony Music Entertainment",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 29073,
+      "resource_url": "https://api.discogs.com/labels/29073",
+      "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+    },
+    {
+      "name": "Sterling Sound",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 264060,
+      "resource_url": "https://api.discogs.com/labels/264060",
+      "thumbnail_url": "https://i.discogs.com/Z8f0gMBrt5jLL4TAcCYDGXmMPOLi9V0UW593WXP6BUU/rs:fit/g:sm/q:90/h:118/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDA2/MC0xNTAwMjgzMzYy/LTMyMTguanBlZw.jpeg"
+    },
+    {
+      "name": "Gold Tooth Music Studio, Beverly Hills, CA",
+      "catno": "",
+      "entity_type": "24",
+      "entity_type_name": "Engineered At",
+      "id": 1672117,
+      "resource_url": "https://api.discogs.com/labels/1672117"
+    },
+    {
+      "name": "Kitchy Studio",
+      "catno": "",
+      "entity_type": "24",
+      "entity_type_name": "Engineered At",
+      "id": 1987293,
+      "resource_url": "https://api.discogs.com/labels/1987293"
+    },
+    {
+      "name": "Abbey Road Studios",
+      "catno": "",
+      "entity_type": "24",
+      "entity_type_name": "Engineered At",
+      "id": 217694,
+      "resource_url": "https://api.discogs.com/labels/217694",
+      "thumbnail_url": "https://i.discogs.com/XDYTZcjSSoTI3eUuMARX4Yjr7f6Ajl1tGgCYQr24Qms/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxNzY5/NC0xNTI0Njg3MDc3/LTM2NzEucG5n.jpeg"
+    },
+    {
+      "name": "Glenwood Place Studios",
+      "catno": "",
+      "entity_type": "24",
+      "entity_type_name": "Engineered At",
+      "id": 276393,
+      "resource_url": "https://api.discogs.com/labels/276393",
+      "thumbnail_url": "https://i.discogs.com/wKYKip8OfdwzNHMgtHkDVYIk_NACWeUy4Wgd63wj5NQ/rs:fit/g:sm/q:90/h:233/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3NjM5/My0xNTYwNDU3Mzk2/LTYzODIucG5n.jpeg"
+    },
+    {
+      "name": "Zelig Studios",
+      "catno": "",
+      "entity_type": "24",
+      "entity_type_name": "Engineered At",
+      "id": 787235,
+      "resource_url": "https://api.discogs.com/labels/787235"
+    },
+    {
+      "name": "Electric Lady Studios",
+      "catno": "",
+      "entity_type": "24",
+      "entity_type_name": "Engineered At",
+      "id": 267980,
+      "resource_url": "https://api.discogs.com/labels/267980",
+      "thumbnail_url": "https://i.discogs.com/wqwrHJAVS3D4DOqCaLm5HB-lPwSLeGvfxwvp---L108/rs:fit/g:sm/q:90/h:475/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2Nzk4/MC0xNDEwOTY5Nzgw/LTc4OTkuanBlZw.jpeg"
+    },
+    {
+      "name": "Shangri-La, Malibu, CA",
+      "catno": "",
+      "entity_type": "24",
+      "entity_type_name": "Engineered At",
+      "id": 1030841,
+      "resource_url": "https://api.discogs.com/labels/1030841",
+      "thumbnail_url": "https://i.discogs.com/0MLgwNkRP5zVsvu9wPeKMDkryVvCJYLyNgBKSnWty7U/rs:fit/g:sm/q:90/h:202/w:188/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMzA4/NDEtMTQ2NzA1MDQy/OS0zMTA3LmpwZWc.jpeg"
+    },
+    {
+      "name": "Bonnie Hill Studios, Los Angeles, CA",
+      "catno": "",
+      "entity_type": "24",
+      "entity_type_name": "Engineered At",
+      "id": 1698657,
+      "resource_url": "https://api.discogs.com/labels/1698657"
+    },
+    {
+      "name": "Tileyard Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 704403,
+      "resource_url": "https://api.discogs.com/labels/704403",
+      "thumbnail_url": "https://i.discogs.com/ryKI-WdON8auwuh6ich-3aKeVTooOJ5Do2tPP35ba7M/rs:fit/g:sm/q:90/h:339/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTcwNDQw/My0xNDk3OTY2MTk4/LTMxODEuanBlZw.jpeg"
+    },
+    {
+      "name": "Bonnie Hill Studios, Los Angeles, CA",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 1698657,
+      "resource_url": "https://api.discogs.com/labels/1698657"
+    },
+    {
+      "name": "Rockhouse Studios, Long Beach, New York",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 1987296,
+      "resource_url": "https://api.discogs.com/labels/1987296"
+    },
+    {
+      "name": "Mixsuite LA",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 431810,
+      "resource_url": "https://api.discogs.com/labels/431810",
+      "thumbnail_url": "https://i.discogs.com/E1bgpO2jwm4nfUx5uKBnT7dvB7CAQhfUYlEb9DFX0Ho/rs:fit/g:sm/q:90/h:172/w:292/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMTgx/MC0xMzU0NTcwMDMy/LTU1OTguanBlZw.jpeg"
+    },
+    {
+      "name": "MixStar Studios",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 263950,
+      "resource_url": "https://api.discogs.com/labels/263950",
+      "thumbnail_url": "https://i.discogs.com/qG6PaPI2ofn5JXPJA48pHQ0jtOf2mG-nOlLHuixaImk/rs:fit/g:sm/q:90/h:195/w:456/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2Mzk1/MC0xMzU0NDYzODcx/LTYzOTkuZ2lm.jpeg"
+    },
+    {
+      "name": "Electric Lady Studios",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 267980,
+      "resource_url": "https://api.discogs.com/labels/267980",
+      "thumbnail_url": "https://i.discogs.com/wqwrHJAVS3D4DOqCaLm5HB-lPwSLeGvfxwvp---L108/rs:fit/g:sm/q:90/h:475/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2Nzk4/MC0xNDEwOTY5Nzgw/LTc4OTkuanBlZw.jpeg"
+    },
+    {
+      "name": "SST GmbH",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 1419912,
+      "resource_url": "https://api.discogs.com/labels/1419912",
+      "thumbnail_url": "https://i.discogs.com/lqL7M3zQvSbc8BAMsJkc0W9tHEXaxl_jybcnKn5XioA/rs:fit/g:sm/q:90/h:320/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE0MTk5/MTItMTUxODc2OTU4/OC03ODE1LmpwZWc.jpeg"
+    },
+    {
+      "name": "Noiseland Industries",
+      "catno": "21-0327",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 49318,
+      "resource_url": "https://api.discogs.com/labels/49318",
+      "thumbnail_url": "https://i.discogs.com/u8xgTsH7li-xkNf9-w3FuNJ53Dg-_xvyYp5NVaUBxok/rs:fit/g:sm/q:90/h:557/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQ5MzE4/LTEzMzA0NDUyNzgu/anBlZw.jpeg"
+    },
+    {
+      "name": "Schallplattenfabrik Pallas GmbH",
+      "catno": "58181",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 271440,
+      "resource_url": "https://api.discogs.com/labels/271440",
+      "thumbnail_url": "https://i.discogs.com/1oEfQath40RFwuPMf5klufULyv1EzUZh8XH2ptL07o4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MTQ0/MC0xNjk1MTExNzMw/LTkwMzguanBlZw.jpeg"
+    },
+    {
+      "name": "Schallplattenfabrik Pallas GmbH",
+      "catno": "58460",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 271440,
+      "resource_url": "https://api.discogs.com/labels/271440",
+      "thumbnail_url": "https://i.discogs.com/1oEfQath40RFwuPMf5klufULyv1EzUZh8XH2ptL07o4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MTQ0/MC0xNjk1MTExNzMw/LTkwMzguanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 2310,
+    "want": 611,
+    "rating": {
+      "count": 182,
+      "average": 4.74
+    },
+    "submitter": {
+      "username": "remco2502",
+      "resource_url": "https://api.discogs.com/users/remco2502"
+    },
+    "contributors": [
+      {
+        "username": "remco2502",
+        "resource_url": "https://api.discogs.com/users/remco2502"
+      },
+      {
+        "username": "richelsen",
+        "resource_url": "https://api.discogs.com/users/richelsen"
+      },
+      {
+        "username": "og4life",
+        "resource_url": "https://api.discogs.com/users/og4life"
+      },
+      {
+        "username": "areg",
+        "resource_url": "https://api.discogs.com/users/areg"
+      },
+      {
+        "username": "SlayRecords",
+        "resource_url": "https://api.discogs.com/users/SlayRecords"
+      },
+      {
+        "username": "MrXavier4",
+        "resource_url": "https://api.discogs.com/users/MrXavier4"
+      },
+      {
+        "username": "anto1977",
+        "resource_url": "https://api.discogs.com/users/anto1977"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2021-07-23T11:41:10-07:00",
+  "date_changed": "2026-04-02T01:45:49-07:00",
+  "num_for_sale": 50,
+  "lowest_price": 29.05,
+  "master_id": 1847448,
+  "master_url": "https://api.discogs.com/masters/1847448",
+  "title": "Plastic Hearts",
+  "country": "Europe",
+  "released": "2021-07-23",
+  "notes": "Housed in a gatefold jacket. \nEach record comes inside a black-paper inner sleeve.\nIncludes a 12-page vinyl sized booklet, with pictures and credits for each song. \n\n[r=19570501] - Bigger \"Parental Advisory - Explicit Content\", label on front (bottom left)\n[r=19599688] - Smaller \"Parental Advisory - Explicit Content\", label on front (bottom left) (this release)\n\n© 2021 & © 2020 RCA Records, a division of Sony Music Entertainment. Distributed by Sony Music Entertainment. \nSony Music Entertainment International Services GmbH, PO Box 510, 33311 Gütersloh, Germany.\nMade in the EU. LC00316 / 19439-83735-1",
+  "released_formatted": "23 Jul 2021",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "1 9439-83735-1 5",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "194398373515",
+      "description": "Scanned"
+    },
+    {
+      "type": "Label Code",
+      "value": "LC00316"
+    },
+    {
+      "type": "Rights Society",
+      "value": "BIEM/GEMA"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "21-0327NL-19439-837351 A -58181- Kr SST",
+      "description": "Side A runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "21-0327NL-19439-837351 B -58181-Ⅰ Kr SST",
+      "description": "Side B runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "21-0327NL-19439-837351 C -58460- Kr SST",
+      "description": "Side C runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "21-0327NL-19439-837351 D -58460-Ⅰ Kr SST",
+      "description": "Side D runout"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=yqwYgpnCRGA",
+      "title": "Miley Cyrus - WTF Do I Know (Audio)",
+      "description": "Miley’s New Album Plastic Hearts is Available Now: https://mileyl.ink/PlasticHearts\n \nView merch at Miley’s official store now! https://smarturl.it/MileyStore?iQid=yt  \n\nFollow Miley on Spotify, Apple Music or Deezer to get new music as soon as it’s out: ",
+      "duration": 174,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=vStru2voDjY",
+      "title": "Miley Cyrus - Plastic Hearts (Audio)",
+      "description": "Miley’s New Album Plastic Hearts is Available Now: https://mileyl.ink/PlasticHearts\n \nView merch at Miley’s official store now! https://smarturl.it/MileyStore?iQid=yt  \n\nFollow Miley on Spotify, Apple Music or Deezer to get new music as soon as it’s out: ",
+      "duration": 208,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Y0ORhLyJWuc",
+      "title": "Miley Cyrus - Angels Like You (Official Video)",
+      "description": "Miley’s New Album Plastic Hearts is Available Now: https://mileyl.ink/PlasticHearts\n \nView merch at Miley’s official store now! https://smarturl.it/MileyStore?iQid=yt  \n\nFollow Miley on Spotify, Apple Music or Deezer to get new music as soon as it’s out: ",
+      "duration": 246,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=0ir1qkPXPVM",
+      "title": "Miley Cyrus - Prisoner (Official Video) ft. Dua Lipa",
+      "description": "Miley’s New Album Plastic Hearts is Available Now: https://mileyl.ink/PlasticHearts\n \nDirected By Alana O’Herlihy & Miley Cyrus\n \nView merch at Miley’s official store now! https://smarturl.it/MileyStore?iQid=yt  \n\nFollow Miley on Spotify, Apple Music or D",
+      "duration": 195,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=_knNYThfGOQ",
+      "title": "Miley Cyrus - Gimme What I Want (Audio)",
+      "description": "Miley’s New Album Plastic Hearts is Available Now: https://mileyl.ink/PlasticHearts\n \nView merch at Miley’s official store now! https://smarturl.it/MileyStore?iQid=yt  \n\nFollow Miley on Spotify, Apple Music or Deezer to get new music as soon as it’s out: ",
+      "duration": 154,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=xeEtfHz5D3c",
+      "title": "Miley Cyrus - Night Crawling (Audio) ft. Billy Idol",
+      "description": "Miley’s New Album Plastic Hearts is Available Now: https://mileyl.ink/PlasticHearts\n \nView merch at Miley’s official store now! https://smarturl.it/MileyStore?iQid=yt  \n\nFollow Miley on Spotify, Apple Music or Deezer to get new music as soon as it’s out: ",
+      "duration": 191,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=aS1no1myeTM",
+      "title": "Miley Cyrus - Midnight Sky (Official Video)",
+      "description": "Miley’s New Album Plastic Hearts is Available Now: https://mileyl.ink/PlasticHearts\n\nMiley’s new single “Midnight Sky” is available now: http://mileyl.ink/midnightsky\niTunes: http://mileyl.ink/midnightsky/itunes\nApple Music: http://mileyl.ink/midnightsky/",
+      "duration": 223,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=uQNa4b5ZROU",
+      "title": "Miley Cyrus - High (Audio)",
+      "description": "Miley’s New Album Plastic Hearts is Available Now: https://mileyl.ink/PlasticHearts\n \nView merch at Miley’s official store now! https://smarturl.it/MileyStore?iQid=yt  \n\nFollow Miley on Spotify, Apple Music or Deezer to get new music as soon as it’s out: ",
+      "duration": 199,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=tcn7WU9-HMI",
+      "title": "Miley Cyrus - Hate Me (Audio)",
+      "description": "Miley’s New Album Plastic Hearts is Available Now: https://mileyl.ink/PlasticHearts\n \nView merch at Miley’s official store now! https://smarturl.it/MileyStore?iQid=yt  \n\nFollow Miley on Spotify, Apple Music or Deezer to get new music as soon as it’s out: ",
+      "duration": 160,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Gy_sqp-t_H8",
+      "title": "Miley Cyrus - Bad Karma (Official Audio) ft. Joan Jett",
+      "description": "Miley’s New Album Plastic Hearts is Available Now: https://mileyl.ink/PlasticHearts\n \nView merch at Miley’s official store now! https://smarturl.it/MileyStore?iQid=yt  \n\nFollow Miley on Spotify, Apple Music or Deezer to get new music as soon as it’s out: ",
+      "duration": 190,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=qniEbNzBT20",
+      "title": "Miley Cyrus - Never Be Me (Audio)",
+      "description": "Miley’s New Album Plastic Hearts is Available Now: https://mileyl.ink/PlasticHearts\n \nView merch at Miley’s official store now! https://smarturl.it/MileyStore?iQid=yt  \n\nFollow Miley on Spotify, Apple Music or Deezer to get new music as soon as it’s out: ",
+      "duration": 218,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=6HKCsWmZLcU",
+      "title": "Miley Cyrus - Golden G String (Audio)",
+      "description": "Miley’s New Album Plastic Hearts is Available Now: https://mileyl.ink/PlasticHearts\n \nView merch at Miley’s official store now! https://smarturl.it/MileyStore?iQid=yt  \n\nFollow Miley on Spotify, Apple Music or Deezer to get new music as soon as it’s out: ",
+      "duration": 238,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Rock",
+    "Pop"
+  ],
+  "styles": [
+    "Arena Rock",
+    "Power Pop",
+    "Soft Rock",
+    "Pop Rock",
+    "Ballad"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "WTF Do I Know",
+      "extraartists": [
+        {
+          "name": "Andrew Wotman",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5573675,
+          "resource_url": "https://api.discogs.com/artists/5573675"
+        },
+        {
+          "name": "Louis Bell (4)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5262065,
+          "resource_url": "https://api.discogs.com/artists/5262065"
+        },
+        {
+          "name": "Ali Tamposi",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2463790,
+          "resource_url": "https://api.discogs.com/artists/2463790"
+        },
+        {
+          "name": "Andrew Wotman",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5573675,
+          "resource_url": "https://api.discogs.com/artists/5573675"
+        },
+        {
+          "name": "Louis Bell (4)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5262065,
+          "resource_url": "https://api.discogs.com/artists/5262065"
+        },
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        },
+        {
+          "name": "Ryan Tedder",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 193421,
+          "resource_url": "https://api.discogs.com/artists/193421"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Plastic Hearts",
+      "extraartists": [
+        {
+          "name": "Andrew Wotman",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5573675,
+          "resource_url": "https://api.discogs.com/artists/5573675"
+        },
+        {
+          "name": "Louis Bell (4)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5262065,
+          "resource_url": "https://api.discogs.com/artists/5262065"
+        },
+        {
+          "name": "Ali Tamposi",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2463790,
+          "resource_url": "https://api.discogs.com/artists/2463790"
+        },
+        {
+          "name": "Andrew Wotman",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5573675,
+          "resource_url": "https://api.discogs.com/artists/5573675"
+        },
+        {
+          "name": "Louis Bell (4)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5262065,
+          "resource_url": "https://api.discogs.com/artists/5262065"
+        },
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        },
+        {
+          "name": "Ryan Tedder",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 193421,
+          "resource_url": "https://api.discogs.com/artists/193421"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Angels Like You",
+      "extraartists": [
+        {
+          "name": "Andrew Wotman",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5573675,
+          "resource_url": "https://api.discogs.com/artists/5573675"
+        },
+        {
+          "name": "Louis Bell (4)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5262065,
+          "resource_url": "https://api.discogs.com/artists/5262065"
+        },
+        {
+          "name": "Ali Tamposi",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2463790,
+          "resource_url": "https://api.discogs.com/artists/2463790"
+        },
+        {
+          "name": "Andrew Wotman",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5573675,
+          "resource_url": "https://api.discogs.com/artists/5573675"
+        },
+        {
+          "name": "Louis Bell (4)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5262065,
+          "resource_url": "https://api.discogs.com/artists/5262065"
+        },
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        },
+        {
+          "name": "Ryan Tedder",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 193421,
+          "resource_url": "https://api.discogs.com/artists/193421"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Prisoner",
+      "extraartists": [
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        },
+        {
+          "name": "Andrew Wotman",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5573675,
+          "resource_url": "https://api.discogs.com/artists/5573675"
+        },
+        {
+          "name": "The Monsters & Strangerz",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3403320,
+          "resource_url": "https://api.discogs.com/artists/3403320"
+        },
+        {
+          "name": "Ali Tamposi",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2463790,
+          "resource_url": "https://api.discogs.com/artists/2463790"
+        },
+        {
+          "name": "Andrew Wotman",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5573675,
+          "resource_url": "https://api.discogs.com/artists/5573675"
+        },
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        },
+        {
+          "name": "Jon Bellion",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3283860,
+          "resource_url": "https://api.discogs.com/artists/3283860"
+        },
+        {
+          "name": "Jordan Johnson (2)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3293619,
+          "resource_url": "https://api.discogs.com/artists/3293619"
+        },
+        {
+          "name": "Marcus Lomax",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2360054,
+          "resource_url": "https://api.discogs.com/artists/2360054"
+        },
+        {
+          "name": "Michael Pollack (5)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5910293,
+          "resource_url": "https://api.discogs.com/artists/5910293"
+        },
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        },
+        {
+          "name": "Stefan Johnson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1782822,
+          "resource_url": "https://api.discogs.com/artists/1782822"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Gimme What I Want",
+      "extraartists": [
+        {
+          "name": "Andrew Wotman",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5573675,
+          "resource_url": "https://api.discogs.com/artists/5573675"
+        },
+        {
+          "name": "Louis Bell (4)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5262065,
+          "resource_url": "https://api.discogs.com/artists/5262065"
+        },
+        {
+          "name": "Ali Tamposi",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2463790,
+          "resource_url": "https://api.discogs.com/artists/2463790"
+        },
+        {
+          "name": "Andrew Wotman",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5573675,
+          "resource_url": "https://api.discogs.com/artists/5573675"
+        },
+        {
+          "name": "Louis Bell (4)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5262065,
+          "resource_url": "https://api.discogs.com/artists/5262065"
+        },
+        {
+          "name": "Majid Al Maskati",
+          "anv": "M. Al-Maskati",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3444180,
+          "resource_url": "https://api.discogs.com/artists/3444180"
+        },
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Night Crawling",
+      "extraartists": [
+        {
+          "name": "Billy Idol",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 46373,
+          "resource_url": "https://api.discogs.com/artists/46373"
+        },
+        {
+          "name": "Andrew Wotman",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5573675,
+          "resource_url": "https://api.discogs.com/artists/5573675"
+        },
+        {
+          "name": "Happy Perez",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 403992,
+          "resource_url": "https://api.discogs.com/artists/403992"
+        },
+        {
+          "name": "Ali Tamposi",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2463790,
+          "resource_url": "https://api.discogs.com/artists/2463790"
+        },
+        {
+          "name": "Andrew Wotman",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5573675,
+          "resource_url": "https://api.discogs.com/artists/5573675"
+        },
+        {
+          "name": "Billy Idol",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 46373,
+          "resource_url": "https://api.discogs.com/artists/46373"
+        },
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        },
+        {
+          "name": "Ryan Tedder",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 193421,
+          "resource_url": "https://api.discogs.com/artists/193421"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Midnight Sky",
+      "extraartists": [
+        {
+          "name": "Andrew Wotman",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5573675,
+          "resource_url": "https://api.discogs.com/artists/5573675"
+        },
+        {
+          "name": "Louis Bell (4)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5262065,
+          "resource_url": "https://api.discogs.com/artists/5262065"
+        },
+        {
+          "name": "Ali Tamposi",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2463790,
+          "resource_url": "https://api.discogs.com/artists/2463790"
+        },
+        {
+          "name": "Andrew Wotman",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5573675,
+          "resource_url": "https://api.discogs.com/artists/5573675"
+        },
+        {
+          "name": "Ilsey Juber",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2292310,
+          "resource_url": "https://api.discogs.com/artists/2292310"
+        },
+        {
+          "name": "Jon Bellion",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3283860,
+          "resource_url": "https://api.discogs.com/artists/3283860"
+        },
+        {
+          "name": "Louis Bell (4)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5262065,
+          "resource_url": "https://api.discogs.com/artists/5262065"
+        },
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "High",
+      "extraartists": [
+        {
+          "name": "Andrew Wotman",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5573675,
+          "resource_url": "https://api.discogs.com/artists/5573675"
+        },
+        {
+          "name": "Mark Ronson",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 151634,
+          "resource_url": "https://api.discogs.com/artists/151634"
+        },
+        {
+          "name": "Take A Daytrip",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4667379,
+          "resource_url": "https://api.discogs.com/artists/4667379"
+        },
+        {
+          "name": "Mark Ronson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 151634,
+          "resource_url": "https://api.discogs.com/artists/151634"
+        },
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Hate Me",
+      "extraartists": [
+        {
+          "name": "Andrew Wotman",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5573675,
+          "resource_url": "https://api.discogs.com/artists/5573675"
+        },
+        {
+          "name": "Louis Bell (4)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5262065,
+          "resource_url": "https://api.discogs.com/artists/5262065"
+        },
+        {
+          "name": "Caitlyn Smith",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3325578,
+          "resource_url": "https://api.discogs.com/artists/3325578"
+        },
+        {
+          "name": "Jennifer Decilveo",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3357247,
+          "resource_url": "https://api.discogs.com/artists/3357247"
+        },
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Bad Karma",
+      "extraartists": [
+        {
+          "name": "Joan Jett",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 283542,
+          "resource_url": "https://api.discogs.com/artists/283542"
+        },
+        {
+          "name": "Andrew Wotman",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5573675,
+          "resource_url": "https://api.discogs.com/artists/5573675"
+        },
+        {
+          "name": "Mark Ronson",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 151634,
+          "resource_url": "https://api.discogs.com/artists/151634"
+        },
+        {
+          "name": "Picard Brothers",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3608230,
+          "resource_url": "https://api.discogs.com/artists/3608230"
+        },
+        {
+          "name": "Mark Ronson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 151634,
+          "resource_url": "https://api.discogs.com/artists/151634"
+        },
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Never Be Me",
+      "extraartists": [
+        {
+          "name": "Mark Ronson",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 151634,
+          "resource_url": "https://api.discogs.com/artists/151634"
+        },
+        {
+          "name": "Ilsey Juber",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2292310,
+          "resource_url": "https://api.discogs.com/artists/2292310"
+        },
+        {
+          "name": "Mark Ronson",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 151634,
+          "resource_url": "https://api.discogs.com/artists/151634"
+        },
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "Golden G String",
+      "extraartists": [
+        {
+          "name": "Andrew Wyatt",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 537250,
+          "resource_url": "https://api.discogs.com/artists/537250"
+        },
+        {
+          "name": "Emile Haynie",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1135338,
+          "resource_url": "https://api.discogs.com/artists/1135338"
+        },
+        {
+          "name": "Andrew Wyatt",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 537250,
+          "resource_url": "https://api.discogs.com/artists/537250"
+        },
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Edge Of Midnight (Midnight Sky Remix)",
+      "extraartists": [
+        {
+          "name": "Stevie Nicks",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 13735,
+          "resource_url": "https://api.discogs.com/artists/13735"
+        },
+        {
+          "name": "Ali Tamposi",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2463790,
+          "resource_url": "https://api.discogs.com/artists/2463790"
+        },
+        {
+          "name": "Andrew Wyatt",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 537250,
+          "resource_url": "https://api.discogs.com/artists/537250"
+        },
+        {
+          "name": "Ilsey Juber",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2292310,
+          "resource_url": "https://api.discogs.com/artists/2292310"
+        },
+        {
+          "name": "Jon Bellion",
+          "anv": "Jonathan Bellion",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3283860,
+          "resource_url": "https://api.discogs.com/artists/3283860"
+        },
+        {
+          "name": "Louis Bell (4)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5262065,
+          "resource_url": "https://api.discogs.com/artists/5262065"
+        },
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        },
+        {
+          "name": "Stevie Nicks",
+          "anv": "Stephanie Nicks",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 13735,
+          "resource_url": "https://api.discogs.com/artists/13735"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Heart Of Glass (Live From The iHeart Festival)",
+      "extraartists": [
+        {
+          "name": "Chris Stein",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 79326,
+          "resource_url": "https://api.discogs.com/artists/79326"
+        },
+        {
+          "name": "Deborah Harry",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 57477,
+          "resource_url": "https://api.discogs.com/artists/57477"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Zombie (Live From The NIVA Save Our Stages Festival)",
+      "extraartists": [
+        {
+          "name": "Dolores O'Riordan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 72683,
+          "resource_url": "https://api.discogs.com/artists/72683"
+        }
+      ],
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Andrew Watt (3)",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 3821409,
+      "resource_url": "https://api.discogs.com/artists/3821409"
+    },
+    {
+      "name": "Miley Cyrus",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 676432,
+      "resource_url": "https://api.discogs.com/artists/676432"
+    },
+    {
+      "name": "Daniel Krieger",
+      "anv": "Kr",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 716158,
+      "resource_url": "https://api.discogs.com/artists/716158"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/M-_1FernDmCzoUz9MJR7cbGwLuWSP7yxP1-C8wTo4DA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItNzkxNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/M-_1FernDmCzoUz9MJR7cbGwLuWSP7yxP1-C8wTo4DA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItNzkxNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/oNCbkofDqsDbd0pRnbaRWxYgvjTD8gPqIIZdBAFHTDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItNzkxNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 594
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/21QDc_wz9nzLpcj5heJcxduGtNIWp7iYU2r7JKndUAE/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjEtNzM4Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/21QDc_wz9nzLpcj5heJcxduGtNIWp7iYU2r7JKndUAE/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjEtNzM4Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/lWHZyG4cbU4vbQrF4RDSIxF8HfuRdE6JFvKr0ysF350/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjEtNzM4Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 587
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/UZmhqQpclOdLr2GwdGHsZvahxLJHfycMqQLgXtYfqck/rs:fit/g:sm/q:90/h:289/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE3MzQ3ODEy/MjUtMzM4Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/UZmhqQpclOdLr2GwdGHsZvahxLJHfycMqQLgXtYfqck/rs:fit/g:sm/q:90/h:289/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE3MzQ3ODEy/MjUtMzM4Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/NsjZ-5H3tWFmhH8MtI243VjMm3vhbdORUujunF78uPU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE3MzQ3ODEy/MjUtMzM4Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 289
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/NXuRHJqDQljz7uBnL7MfFIXHICJFZfEYvmk3eP8l2Q4/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjEtOTYyMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/NXuRHJqDQljz7uBnL7MfFIXHICJFZfEYvmk3eP8l2Q4/rs:fit/g:sm/q:90/h:580/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjEtOTYyMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/4l5G4hl6DowPJUOuHkpdJjOojm2_4dU2p5ZaztWN2IA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjEtOTYyMy5qcGVn.jpeg",
+      "width": 600,
+      "height": 580
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ejbXmELs308gwp3RER6O-kcrKCIso-S4ggbm3iRLVWE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjEtNjYxOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ejbXmELs308gwp3RER6O-kcrKCIso-S4ggbm3iRLVWE/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjEtNjYxOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ifT5lseBf8SnGdPJVH3v-4fYGUOAsVmXOGSxXzYMr4M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjEtNjYxOC5qcGVn.jpeg",
+      "width": 600,
+      "height": 597
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/dZMQ5uZhGYml9eWg_6wJSF567Sc1sTT8ItLvLHXLOCM/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjEtMzg4MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/dZMQ5uZhGYml9eWg_6wJSF567Sc1sTT8ItLvLHXLOCM/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjEtMzg4MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/b37KmdRz_hTh5eakqen2W4bUjWh7cMlE025Iy0pFbX0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjEtMzg4MS5qcGVn.jpeg",
+      "width": 595,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/PrYscHNocWoHGv3UGR01x1poQSslFmvTNLmSfPfwALU/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItNzE1NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/PrYscHNocWoHGv3UGR01x1poQSslFmvTNLmSfPfwALU/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItNzE1NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ZxQcnZR9J-gUJrolci8ZODOpeDTP6uS9Afk5eOSwphE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItNzE1NS5qcGVn.jpeg",
+      "width": 596,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/9Yad61COqjT5lUT172GZbWkS3NMA4zSAz2hUiFjzJ7Q/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItNzQ3Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/9Yad61COqjT5lUT172GZbWkS3NMA4zSAz2hUiFjzJ7Q/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItNzQ3Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/tmKCZ3PD6voz7j_RGzooHL3pl4bVXSXOKQIjV9wpfzc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItNzQ3Ny5qcGVn.jpeg",
+      "width": 596,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/AOMGkP95zzW9AoMpSohlMMbMo1C9Z_-jmMDqseU88qU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjEtMTY1OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/AOMGkP95zzW9AoMpSohlMMbMo1C9Z_-jmMDqseU88qU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjEtMTY1OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/KgJ8-LEsAZb36z5BWUurFmmXQHTAz_0o2etlPH9Y1y8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjEtMTY1OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/KpA9BdwyV4dZaqepTaEiHNmLrOvWdBr6t1kgXAO34B8/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjg2/MTAtNjQwMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/KpA9BdwyV4dZaqepTaEiHNmLrOvWdBr6t1kgXAO34B8/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjg2/MTAtNjQwMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/S3t8lGpQtg7oYEF5hycy9171rCcJToyhry0amlzJrbY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjg2/MTAtNjQwMS5qcGVn.jpeg",
+      "width": 596,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/lwUEfsoL1y_1RLFfOIf5CeplKUoYIYjcSZDIWpu0H6E/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItNzczMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/lwUEfsoL1y_1RLFfOIf5CeplKUoYIYjcSZDIWpu0H6E/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItNzczMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/IahIsG9S0ExjMVdrPGBUfK_kVbPlXD26zmiVfJHmkZ8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItNzczMC5qcGVn.jpeg",
+      "width": 597,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/PzhW0cYj_np619yQ651B8pok_eWACFh8-DZc_YZ1LZk/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE3MzQ3ODIz/NTktMzAzNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/PzhW0cYj_np619yQ651B8pok_eWACFh8-DZc_YZ1LZk/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE3MzQ3ODIz/NTktMzAzNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Atkefece-2naypAcFgjZ75zPse5JW3I6VMHUybuIGzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE3MzQ3ODIz/NTktMzAzNi5qcGVn.jpeg",
+      "width": 600,
+      "height": 300
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ncGtuR9l0BRCHfAHa2avzHV2b4hwYJzsSudzL8p3Q1A/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItMzUzNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ncGtuR9l0BRCHfAHa2avzHV2b4hwYJzsSudzL8p3Q1A/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItMzUzNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/r0SgC22GdNR8sHA8a3u1z6BGbQEoJ-Tucqeb-iqcT54/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItMzUzNi5qcGVn.jpeg",
+      "width": 592,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/MrS54TLRS8SKSQKMI6dpUg2hLa00IlrvznfxmNbE76o/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItODQ0My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/MrS54TLRS8SKSQKMI6dpUg2hLa00IlrvznfxmNbE76o/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItODQ0My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/OlGbH0JMMX1ts_welxAMstCYvHXnWxKHyu6Xh4GYujw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItODQ0My5qcGVn.jpeg",
+      "width": 597,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/t1vNJ7V-xoOilzRCNZ4HnzFSdhqyxdKt08pK3ZetfaA/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE3MzQ3ODIz/NTktMjYyOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/t1vNJ7V-xoOilzRCNZ4HnzFSdhqyxdKt08pK3ZetfaA/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE3MzQ3ODIz/NTktMjYyOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/HjL30m8XQsY9haNKC3op0KvSWaEJMiidD9LIt3LM4TM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE3MzQ3ODIz/NTktMjYyOC5qcGVn.jpeg",
+      "width": 600,
+      "height": 298
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/HTaEd2XSd37Cq8hSU8qmaHOukbNYRt7w5dAYwdb-R_k/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjEtNzc3My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/HTaEd2XSd37Cq8hSU8qmaHOukbNYRt7w5dAYwdb-R_k/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjEtNzc3My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/tCsGXBeDJ9950QrlnjvIH9GLsPGWFaEP1ObEjAv5J_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjEtNzc3My5qcGVn.jpeg",
+      "width": 595,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/WspsuPbkwbwRCBTVHuoCp1zhOzu9g0_Om_6UOxJoc_Q/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItNTIzNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/WspsuPbkwbwRCBTVHuoCp1zhOzu9g0_Om_6UOxJoc_Q/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItNTIzNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/X-rM1tYrprBnESgq6K_mOMhm2HaSfXISmuoh_OeFQBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItNTIzNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 591
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/I8qq2wZTci9Py3O9geqRKhhWA_40EJtluqXyzlIXixs/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE3MzQ3ODIz/NTktODI0OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/I8qq2wZTci9Py3O9geqRKhhWA_40EJtluqXyzlIXixs/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE3MzQ3ODIz/NTktODI0OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/5G6T4qH1HoFhQwOcpkBGGLKarYAFJoZgD7t7bTGF5qg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE3MzQ3ODIz/NTktODI0OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 298
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/0oRgj8PPqmFW36GbK-WaNQYPofLrVp9peLLwXZXvVGc/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItMjA3Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/0oRgj8PPqmFW36GbK-WaNQYPofLrVp9peLLwXZXvVGc/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItMjA3Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/N-RCRL3o99bSRIAVd3qdRCsLZz6XKedqiHo8gYWLi-g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItMjA3Ni5qcGVn.jpeg",
+      "width": 585,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/5gHtysFfqodFmNKMsat4nFfuxdjNfaZ26f3fnza_I9k/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjEtOTc2My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/5gHtysFfqodFmNKMsat4nFfuxdjNfaZ26f3fnza_I9k/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjEtOTc2My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/L-yitzoTPPQDP_HNmJl3ICXb0eJmKjSo7cAIfDHQp0s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjEtOTc2My5qcGVn.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/FZ9GeyWXauI2C1CDAOB6RLFoEIeHuPPIFdkVtIpmbAM/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE3MzQ3ODIz/NTgtNDU4Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/FZ9GeyWXauI2C1CDAOB6RLFoEIeHuPPIFdkVtIpmbAM/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE3MzQ3ODIz/NTgtNDU4Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/XJV6DlAyps96fMqgU7v08uGZohqARvK7r1LyO77OFZk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE3MzQ3ODIz/NTgtNDU4Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 300
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/C6n_-L0rSwOBZwXqQVAM-nha6A3k-TdQCk23FSc6XDk/rs:fit/g:sm/q:90/h:600/w:572/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjEtNzIwNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/C6n_-L0rSwOBZwXqQVAM-nha6A3k-TdQCk23FSc6XDk/rs:fit/g:sm/q:90/h:600/w:572/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjEtNzIwNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/TMjE_5446u37sCLEif-mrCCwqLp9Pt6rANRjaZhJpck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjEtNzIwNC5qcGVn.jpeg",
+      "width": 572,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/FbwXmQDKvr1WNKCUXc4Cev_o4SRE3KagCJGtHEzJiHE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjEtOTU0MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/FbwXmQDKvr1WNKCUXc4Cev_o4SRE3KagCJGtHEzJiHE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjEtOTU0MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/dZyEA20Ea7MK_GBJjA5nUFZz4lM0AE9Mv6kMFQfeNoQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjEtOTU0MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 595
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ZVS1TxqZPmKhwSKMszLD8lSqQUL51MqP63v_nfi-GRs/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE3MzQ3ODIz/NTktOTA0Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ZVS1TxqZPmKhwSKMszLD8lSqQUL51MqP63v_nfi-GRs/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE3MzQ3ODIz/NTktOTA0Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/JfR-j900Ea_xKbNxNryTlUHKqAbeEM39EvdCC9pRa1c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE3MzQ3ODIz/NTktOTA0Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 299
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/JLjeYuyXlNLKLqHG1CkanBqd93uel53uHb5KqdfuvZo/rs:fit/g:sm/q:90/h:600/w:569/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItNjcyMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/JLjeYuyXlNLKLqHG1CkanBqd93uel53uHb5KqdfuvZo/rs:fit/g:sm/q:90/h:600/w:569/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItNjcyMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/JUW_9VRKX7nEZ7MuDXHLWG_40x-VvJM9pZcUcKh4G5c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItNjcyMC5qcGVn.jpeg",
+      "width": 569,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/4-50LaygLROzLABCwsl5QPiGjbeoDj6NwWCGvwm-WcI/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItNzc0My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/4-50LaygLROzLABCwsl5QPiGjbeoDj6NwWCGvwm-WcI/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItNzc0My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/QclBeuActopaJd8dV0vOFou98VviO9qHY9p5HqyWZbs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItNzc0My5qcGVn.jpeg",
+      "width": 593,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/YvyTCsei-T_Oe1cbZwNNC0KmbP58rDAS0RB13C3We30/rs:fit/g:sm/q:90/h:437/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjg2/MTAtNzU0OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/YvyTCsei-T_Oe1cbZwNNC0KmbP58rDAS0RB13C3We30/rs:fit/g:sm/q:90/h:437/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjg2/MTAtNzU0OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/3-Nsc_T5Isp5LHyeJNU_arsyYpVWT8HHtq7G0J4AXZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjg2/MTAtNzU0OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 437
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/-dXQRj4ips0hxZBkpGFQWaehHAfIjz9b45qG83ZTSow/rs:fit/g:sm/q:90/h:262/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE3MzQ3ODI0/NTAtNzIwOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/-dXQRj4ips0hxZBkpGFQWaehHAfIjz9b45qG83ZTSow/rs:fit/g:sm/q:90/h:262/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE3MzQ3ODI0/NTAtNzIwOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/qKocjw4N1Veu83qPaxbWXywDt7fPdKWs-JvF64dXUAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE3MzQ3ODI0/NTAtNzIwOS5qcGVn.jpeg",
+      "width": 600,
+      "height": 262
+    }
+  ],
+  "thumb": "https://i.discogs.com/oNCbkofDqsDbd0pRnbaRWxYgvjTD8gPqIIZdBAFHTDw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NTk5/Njg4LTE2MjcwNjgy/NjItNzkxNS5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

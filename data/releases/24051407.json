@@ -1,0 +1,398 @@
+{
+  "id": 24051407,
+  "status": "Accepted",
+  "year": 2022,
+  "resource_url": "https://api.discogs.com/releases/24051407",
+  "uri": "https://www.discogs.com/release/24051407-Majid-Jordan-Wildest-Dreams",
+  "artists": [
+    {
+      "name": "Majid Jordan",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 3429463,
+      "resource_url": "https://api.discogs.com/artists/3429463",
+      "thumbnail_url": "https://i.discogs.com/bmf3qevx2eOLe8f7DHvS40o0R4geBMz5uHTb10FvaEw/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM0Mjk0/NjMtMTQzMDQ0NDIy/MS03MzkyLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Majid Jordan",
+  "labels": [
+    {
+      "name": "OVO Sound",
+      "catno": "093624874195",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 719678,
+      "resource_url": "https://api.discogs.com/labels/719678",
+      "thumbnail_url": "https://i.discogs.com/qjT-wueE7BGgkkRpRCpopjsJJG_Aw7m1UQU2HGO88zU/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTcxOTY3/OC0xNDg4OTE5NjQy/LTg2MjEucG5n.jpeg"
+    },
+    {
+      "name": "Warner Records",
+      "catno": "093624874195",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 134882,
+      "resource_url": "https://api.discogs.com/labels/134882",
+      "thumbnail_url": "https://i.discogs.com/VXe1252-kjlsKC8ahwKwRSTBIYAEwTInthD7CiS8BLE/rs:fit/g:sm/q:90/h:216/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzNDg4/Mi0xNTYzNDU4NDI5/LTk2NjguanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "OVO Sound",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 719678,
+      "resource_url": "https://api.discogs.com/labels/719678",
+      "thumbnail_url": "https://i.discogs.com/qjT-wueE7BGgkkRpRCpopjsJJG_Aw7m1UQU2HGO88zU/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTcxOTY3/OC0xNDg4OTE5NjQy/LTg2MjEucG5n.jpeg"
+    },
+    {
+      "name": "OVO Sound",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 719678,
+      "resource_url": "https://api.discogs.com/labels/719678",
+      "thumbnail_url": "https://i.discogs.com/qjT-wueE7BGgkkRpRCpopjsJJG_Aw7m1UQU2HGO88zU/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTcxOTY3/OC0xNDg4OTE5NjQy/LTg2MjEucG5n.jpeg"
+    },
+    {
+      "name": "Warner Records Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 596015,
+      "resource_url": "https://api.discogs.com/labels/596015",
+      "thumbnail_url": "https://i.discogs.com/RikpzVtGMoIwbY-bgMQP-LRaVwL6x9wlQ1_JhnRmylk/rs:fit/g:sm/q:90/h:48/w:246/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU5NjAx/NS0xNjQ5OTU4MDYy/LTY0NzguanBlZw.jpeg"
+    },
+    {
+      "name": "Warner Records Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 596015,
+      "resource_url": "https://api.discogs.com/labels/596015",
+      "thumbnail_url": "https://i.discogs.com/RikpzVtGMoIwbY-bgMQP-LRaVwL6x9wlQ1_JhnRmylk/rs:fit/g:sm/q:90/h:48/w:246/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU5NjAx/NS0xNjQ5OTU4MDYy/LTY0NzguanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 221,
+    "want": 107,
+    "rating": {
+      "count": 11,
+      "average": 4.55
+    },
+    "submitter": {
+      "username": "soul_glitch",
+      "resource_url": "https://api.discogs.com/users/soul_glitch"
+    },
+    "contributors": [
+      {
+        "username": "soul_glitch",
+        "resource_url": "https://api.discogs.com/users/soul_glitch"
+      },
+      {
+        "username": "whenone1",
+        "resource_url": "https://api.discogs.com/users/whenone1"
+      },
+      {
+        "username": "_jules",
+        "resource_url": "https://api.discogs.com/users/_jules"
+      },
+      {
+        "username": "donjorge",
+        "resource_url": "https://api.discogs.com/users/donjorge"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2022-07-30T18:13:32-07:00",
+  "date_changed": "2022-11-13T12:32:49-08:00",
+  "num_for_sale": 8,
+  "lowest_price": 19.49,
+  "master_id": 2730809,
+  "master_url": "https://api.discogs.com/masters/2730809",
+  "title": "Wildest Dreams",
+  "country": "US",
+  "released": "2022-07-22",
+  "notes": "Made in Argentina [on labels]",
+  "released_formatted": "22 Jul 2022",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "0 93624 87419 5",
+      "description": "Printed"
+    },
+    {
+      "type": "Barcode",
+      "value": "093624874195",
+      "description": "Scanned"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=FmDSr8_SsMQ",
+      "title": "Majid Jordan - Wildest Dreams (Official Visualizer)",
+      "description": "The official visualizer for Majid Jordan's \"Wildest Dreams\" off their latest album \"Wildest Dreams\" out now: https://OVOSOUND.lnk.to/WildestDreams\n\nFollow Majid Jordan\nhttps://facebook.com/majidjordanmusic\nhttps://instagram.com/majidjordan\nhttps://twitter",
+      "duration": 193,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5BYK6yQsxr8",
+      "title": "Majid Jordan - Dancing On A Dream (ft. Swae Lee) [Official Visualizer]",
+      "description": "The official visualizer for Majid Jordan's \"Dancing On A Dream (ft. Swae Lee)\" off their latest album \"Wildest Dreams\" out now: https://OVOSOUND.lnk.to/WildestDreams\n\nFollow Majid Jordan\nhttps://facebook.com/majidjordanmusic\nhttps://instagram.com/majidjor",
+      "duration": 199,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5_GFgbWcq_o",
+      "title": "Majid Jordan with Drake - Stars Align (Official Visualizer)",
+      "description": "The official visualizer for Majid Jordan with Drake's \"Stars Align\" off their latest album \"Wildest Dreams\" out now: https://OVOSOUND.lnk.to/WildestDreams\n\nFollow Majid Jordan\nhttps://facebook.com/majidjordanmusic\nhttps://instagram.com/majidjordan\nhttps:/",
+      "duration": 261,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=2cK5MY4BhtI",
+      "title": "Majid Jordan - Summer Rain (Official Video)",
+      "description": "The official video for Majid Jordan's \"Summer Rain\" out now: https://OVOSOUND.lnk.to/summerrain\n\nFollow Majid Jordan\nhttps://facebook.com/majidjordanmusic\nhttps://instagram.com/majidjordan\nhttps://twitter.com/majidjordan\nhttps://soundcloud.com/majidjordan",
+      "duration": 207,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=B_WRDX1ugLc",
+      "title": "Majid Jordan - Sway (ft. Diddy) [Official Visualizer]",
+      "description": "The official visualizer for Majid Jordan's \"Sway (ft. Diddy)\" off their latest album \"Wildest Dreams\" out now: https://OVOSOUND.lnk.to/WildestDreams\n\nFollow Majid Jordan\nhttps://facebook.com/majidjordanmusic\nhttps://instagram.com/majidjordan\nhttps://twitt",
+      "duration": 230,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=eV4-ycWcnNg",
+      "title": "Majid Jordan - Forget About The Party (Official Visualizer)",
+      "description": "The official visualizer for Majid Jordan's \"Forget About The Party\" out now: https://OVOSOUND.lnk.to/ForgetAboutTheParty\n\nFollow Majid Jordan\nhttps://facebook.com/majidjordanmusic\nhttps://instagram.com/majidjordan\nhttps://twitter.com/majidjordan\nhttps://s",
+      "duration": 201,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=vq24zYNUTpE",
+      "title": "Majid Jordan - Waves of Blue (Official Visualizer)",
+      "description": "The official visualizer for Majid Jordan's \"Waves of Blue\" out now: https://ovosound.lnk.to/WavesOfBlue\n\nFollow Majid Jordan\nhttps://facebook.com/majidjordanmusic\nhttps://instagram.com/majidjordan\nhttps://twitter.com/majidjordan\nhttps://soundcloud.com/maj",
+      "duration": 212,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Ete7siCVdTc",
+      "title": "Majid Jordan - Life Worth Living (Official Visualizer)",
+      "description": "The official visualizer for Majid Jordan's \"Life Worth Living\" off their latest album \"Wildest Dreams\" out now: https://OVOSOUND.lnk.to/WildestDreams\n\nFollow Majid Jordan\nhttps://facebook.com/majidjordanmusic\nhttps://instagram.com/majidjordan\nhttps://twit",
+      "duration": 212,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=4oMGjAMrsWI",
+      "title": "Majid Jordan - Love Unconditional (Official Visualizer)",
+      "description": "The official visualizer for Majid Jordan's \" Love Unconditional\" off their latest album \"Wildest Dreams\" out now: https://OVOSOUND.lnk.to/WildestDreams\n\nFollow Majid Jordan\nhttps://facebook.com/majidjordanmusic\nhttps://instagram.com/majidjordan\nhttps://tw",
+      "duration": 192,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Contemporary R&B"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Dancing On A Dream",
+      "extraartists": [
+        {
+          "name": "Swae Lee",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3979450,
+          "resource_url": "https://api.discogs.com/artists/3979450"
+        }
+      ],
+      "duration": "3:19"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Summer Rain",
+      "duration": "3:20"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Stars Align",
+      "extraartists": [
+        {
+          "name": "Drake",
+          "anv": "",
+          "join": "",
+          "role": "Featuring [With]",
+          "tracks": "",
+          "id": 151199,
+          "resource_url": "https://api.discogs.com/artists/151199"
+        }
+      ],
+      "duration": "4:20"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Waves Of Blue",
+      "duration": "3:28"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Wildest Dreams",
+      "duration": "3:12"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Forget About The Party",
+      "duration": "3:20"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Been Through That",
+      "duration": "3:14"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Life Worth Living",
+      "duration": "3:31"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Love Unconditional",
+      "duration": "3:11"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Sway",
+      "extraartists": [
+        {
+          "name": "P. Diddy",
+          "anv": "Diddy",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 110844,
+          "resource_url": "https://api.discogs.com/artists/110844"
+        }
+      ],
+      "duration": "3:49"
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Sweet",
+      "duration": "2:59"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/NxgoYttTgORWxh4sdOCBZ3rZQTNeXK43Vh3JxvJEhjI/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NjgzNDkw/ODQtMjA2Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/NxgoYttTgORWxh4sdOCBZ3rZQTNeXK43Vh3JxvJEhjI/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NjgzNDkw/ODQtMjA2Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/1rm0Q3ETSNuJe3r-tgUMJHnGc9jGu_mdtFw4LoaG8Zs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NjgzNDkw/ODQtMjA2Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 584
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/4qVNHDBlhldM-BY2D049tR4mbYEA09RnmmblBQ7ulh4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NjgzNDkw/ODQtNTczOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/4qVNHDBlhldM-BY2D049tR4mbYEA09RnmmblBQ7ulh4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NjgzNDkw/ODQtNTczOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/qkq8XWQRYW_uFdGJFYDv9osf7BCUZNP6EL14u1dZroE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NjgzNDkw/ODQtNTczOS5qcGVn.jpeg",
+      "width": 600,
+      "height": 593
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/A9Jh3IBbp-AAoVdKxljezO7b93_Q-FIxfjLvMOqIqqQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NTkyOTU4/NDUtMzQxOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/A9Jh3IBbp-AAoVdKxljezO7b93_Q-FIxfjLvMOqIqqQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NTkyOTU4/NDUtMzQxOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/f2oL6xp2hlfCs7HBls_x08uvHiqq94F5DBoxNA98tSw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NTkyOTU4/NDUtMzQxOS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ULocMX9foBeyFnHeRGgyB-Ij50ILgHh2Ls4BJaCRmO4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NTkyOTU4/NDUtMTg5OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ULocMX9foBeyFnHeRGgyB-Ij50ILgHh2Ls4BJaCRmO4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NTkyOTU4/NDUtMTg5OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/wBao1GVXOlbqk7vqoiofD6v_ETIr5fPugOj6Q4bq2XU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NTkyOTU4/NDUtMTg5OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/adZS_w0DguMrv7X_UmaigHQBedMal26YIyasLwkwb4w/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NjgzNDkw/ODQtMzAzNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/adZS_w0DguMrv7X_UmaigHQBedMal26YIyasLwkwb4w/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NjgzNDkw/ODQtMzAzNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/6zRxUn36uJ5XE43Rj83d4NnzdjKsAHikpn1YciAeWSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NjgzNDkw/ODQtMzAzNi5qcGVn.jpeg",
+      "width": 592,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/qTPJdgChbn1hxMAmyKt10sdtXwGysF3opOlgkHx7MhA/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NjgzNDkw/ODQtNTA0MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/qTPJdgChbn1hxMAmyKt10sdtXwGysF3opOlgkHx7MhA/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NjgzNDkw/ODQtNTA0MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ZTZgt9n82PpT3xy8g1aq6q_XyOp2kEwarllxOw4KcJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NjgzNDkw/ODQtNTA0MC5qcGVn.jpeg",
+      "width": 599,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/baH2AehnTN7wGbmtbdO-FYxFmOwd8BA_ui6_aUwRAu4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NTkzNTQw/MTYtNzgzMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/baH2AehnTN7wGbmtbdO-FYxFmOwd8BA_ui6_aUwRAu4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NTkzNTQw/MTYtNzgzMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/CRgpohNWVTa-VnRYa5la7nGdq-HlQGsbU4_PWPCuTm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NTkzNTQw/MTYtNzgzMC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/vxoukiB_mPZg0J4nqCIfMGw7H0QEByvbgfm0NyHvY0A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NTkzNTQw/MTUtMzAyNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/vxoukiB_mPZg0J4nqCIfMGw7H0QEByvbgfm0NyHvY0A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NTkzNTQw/MTUtMzAyNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/JDkDNpRNm4sKAttVhPFj10KDswsDxDc3POVc0R-83fs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NTkzNTQw/MTUtMzAyNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/D_Nu4d4tUT-aL8Lhlu1oq6jDlJNtfv9utkzJKSGMFG0/rs:fit/g:sm/q:90/h:281/w:281/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NTkzNTQ1/ODAtNzM0MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/D_Nu4d4tUT-aL8Lhlu1oq6jDlJNtfv9utkzJKSGMFG0/rs:fit/g:sm/q:90/h:281/w:281/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NTkzNTQ1/ODAtNzM0MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/xt8hDc_pPSz9uvXzDNQyji8OCv-5XgbNw7x3ccI4CTQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NTkzNTQ1/ODAtNzM0MC5qcGVn.jpeg",
+      "width": 281,
+      "height": 281
+    }
+  ],
+  "thumb": "https://i.discogs.com/1rm0Q3ETSNuJe3r-tgUMJHnGc9jGu_mdtFw4LoaG8Zs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDUx/NDA3LTE2NjgzNDkw/ODQtMjA2Mi5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

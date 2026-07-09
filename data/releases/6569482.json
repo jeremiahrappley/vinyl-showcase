@@ -1,0 +1,1029 @@
+{
+  "id": 6569482,
+  "status": "Accepted",
+  "year": 1974,
+  "resource_url": "https://api.discogs.com/releases/6569482",
+  "uri": "https://www.discogs.com/release/6569482-Kool-The-Gang-Light-Of-Worlds",
+  "artists": [
+    {
+      "name": "Kool & The Gang",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 48865,
+      "resource_url": "https://api.discogs.com/artists/48865",
+      "thumbnail_url": "https://i.discogs.com/yZlvJOjMa_2HcXwJcBqCug2rZRDsZs46PO95x3VHM0E/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ4ODY1/LTE2MjI5NjYxMTct/NTQ3Mi5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "Kool & The Gang",
+  "labels": [
+    {
+      "name": "De-Lite Records",
+      "catno": "DEP-2014",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 9892,
+      "resource_url": "https://api.discogs.com/labels/9892",
+      "thumbnail_url": "https://i.discogs.com/bKpx1gF8jBBQMPb39vKmq0130FtjTkoOoOju8Nyg6G4/rs:fit/g:sm/q:90/h:218/w:552/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk4OTIt/MTQxMDQ2NDI4NS02/MTgyLmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "De-Lite Recorded Sound",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 336760,
+      "resource_url": "https://api.discogs.com/labels/336760",
+      "thumbnail_url": "https://i.discogs.com/5fZjUwftAiUVr63BFigRp43LvCNnBCkJ_JJsZGz8eqM/rs:fit/g:sm/q:90/h:163/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMzNjc2/MC0xNjM1NzgxMzEz/LTUxMzEuanBlZw.jpeg"
+    },
+    {
+      "name": "P.I.P. Records",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 109018,
+      "resource_url": "https://api.discogs.com/labels/109018",
+      "thumbnail_url": "https://i.discogs.com/Zv8vXyraDBDTYmv5XgyrMaxiWkOt21ckTceK3rT-JVs/rs:fit/g:sm/q:90/h:541/w:542/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwOTAx/OC0xNTMxMjU3NDY3/LTUyOTMuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "text": "Gatefold"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 191,
+    "want": 693,
+    "rating": {
+      "count": 19,
+      "average": 4.11
+    },
+    "submitter": {
+      "username": "euroduo",
+      "resource_url": "https://api.discogs.com/users/euroduo"
+    },
+    "contributors": [
+      {
+        "username": "euroduo",
+        "resource_url": "https://api.discogs.com/users/euroduo"
+      },
+      {
+        "username": "frekvens",
+        "resource_url": "https://api.discogs.com/users/frekvens"
+      },
+      {
+        "username": "jvaahtera",
+        "resource_url": "https://api.discogs.com/users/jvaahtera"
+      },
+      {
+        "username": "data_boy",
+        "resource_url": "https://api.discogs.com/users/data_boy"
+      },
+      {
+        "username": "anti-plop",
+        "resource_url": "https://api.discogs.com/users/anti-plop"
+      },
+      {
+        "username": "berothbr",
+        "resource_url": "https://api.discogs.com/users/berothbr"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2015-01-25T08:04:51-08:00",
+  "date_changed": "2021-08-25T08:33:05-07:00",
+  "num_for_sale": 0,
+  "lowest_price": null,
+  "master_id": 99538,
+  "master_url": "https://api.discogs.com/masters/99538",
+  "title": "Light Of Worlds",
+  "country": "US",
+  "released": "1974",
+  "released_formatted": "1974",
+  "identifiers": [],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=b71CmhEfoZo",
+      "title": "Kool & The Gang - Light Of Worlds (1974) [Full Album]",
+      "description": "tracklist:\n\n[00:00] 01. Street Corner Symphony\n[04:36 ] 02. Fruitman\n[10:00] 03. Rhyme Tyme People\n[13:22] 04. Light Of Worlds\n[17:48] 05. Whiting H. & G.\n[21:09] 06. You Don't Have To Change\n[23:51] 07. Higher Plane\n[28:53] 08. Summer Madness\n[33:13] 09.",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=BQQtHySHby0",
+      "title": "Kool & The Gang – Summer Madness – Light Of Worlds",
+      "description": "Bronco presents : Kool & The Gang – Summer Madness – Light Of Worlds\nMy social networks and Youtube channels : https://linktr.ee/broncomusique\nThis channel is not monetized \nFeel free to like, share and suscribe",
+      "duration": 258,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=w1TTl05KINk",
+      "title": "Kool & The Gang – Higher Plane – Light Of Worlds",
+      "description": "Bronco presents : Kool & The Gang – Higher Plane – Light Of Worlds\nMy social networks and Youtube channels : https://linktr.ee/broncomusique\nThis channel is not monetized \nFeel free to like, share and suscribe",
+      "duration": 302,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=xLJpUDQz7Ys",
+      "title": "Whiting H. & G.",
+      "description": "Provided to YouTube by Universal Music Group\n\nWhiting H. & G. · Kool & The Gang\n\nLight Of Worlds\n\n℗ 1974 The Island Def Jam Music Group\n\nReleased on: 1974-01-01\n\nProducer: K.G. Productions\nAssociated  Performer, Recording  Arranger, Piano, Synthesizer,",
+      "duration": 201,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=GJY03C-JFL4",
+      "title": "You Don't Have To Change",
+      "description": "Provided to YouTube by Universal Music Group\n\nYou Don't Have To Change · Kool & The Gang\n\nLight Of Worlds\n\n℗ 1974 The Island Def Jam Music Group\n\nReleased on: 1974-01-01\n\nProducer: K.G. Productions\nAssociated  Performer, Synthesizer, Mellotron, Piano, ",
+      "duration": 163,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=R69oLRHl9Cs",
+      "title": "Here After",
+      "description": "Provided to YouTube by Universal Music Group\n\nHere After · Kool & The Gang\n\nLight Of Worlds\n\n℗ 1974 The Island Def Jam Music Group\n\nReleased on: 1974-01-01\n\nProducer: K.G. Productions\nAssociated  Performer, Recording  Arranger, Piano, Synthesizer, Mellotr",
+      "duration": 177,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Jazz",
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Jazz-Funk",
+    "Soul",
+    "Funk"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Street Corner Symphony",
+      "extraartists": [
+        {
+          "name": "Dennis D.T. Thomas",
+          "anv": "Dennis Thomas",
+          "join": "",
+          "role": "Alto Saxophone",
+          "tracks": "",
+          "id": 387581,
+          "resource_url": "https://api.discogs.com/artists/387581"
+        },
+        {
+          "name": "Ronald Bell",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 108893,
+          "resource_url": "https://api.discogs.com/artists/108893"
+        },
+        {
+          "name": "Robert Kool Bell",
+          "anv": "Robert Bell",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 387580,
+          "resource_url": "https://api.discogs.com/artists/387580"
+        },
+        {
+          "name": "George Brown",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Percussion",
+          "tracks": "",
+          "id": 261265,
+          "resource_url": "https://api.discogs.com/artists/261265"
+        },
+        {
+          "name": "Claydes Smith",
+          "anv": "Claydes E. X. Smith",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 387582,
+          "resource_url": "https://api.discogs.com/artists/387582"
+        },
+        {
+          "name": "Ricky West",
+          "anv": "Rick West",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 387579,
+          "resource_url": "https://api.discogs.com/artists/387579"
+        },
+        {
+          "name": "Ronald Bell",
+          "anv": "",
+          "join": "",
+          "role": "Tenor Saxophone, Synthesizer [Arp], Clavinet, Percussion, Bass, Piano",
+          "tracks": "",
+          "id": 108893,
+          "resource_url": "https://api.discogs.com/artists/108893"
+        },
+        {
+          "name": "Robert Spike Mickens",
+          "anv": "Robert Mickens",
+          "join": "",
+          "role": "Trumpet",
+          "tracks": "",
+          "id": 387583,
+          "resource_url": "https://api.discogs.com/artists/387583"
+        }
+      ],
+      "duration": "4:35"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Fruitman",
+      "extraartists": [
+        {
+          "name": "Dennis D.T. Thomas",
+          "anv": "Dennis Thomas",
+          "join": "",
+          "role": "Alto Saxophone",
+          "tracks": "",
+          "id": 387581,
+          "resource_url": "https://api.discogs.com/artists/387581"
+        },
+        {
+          "name": "Ricky West",
+          "anv": "Rick West",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 387579,
+          "resource_url": "https://api.discogs.com/artists/387579"
+        },
+        {
+          "name": "Robert Kool Bell",
+          "anv": "Robert Bell",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 387580,
+          "resource_url": "https://api.discogs.com/artists/387580"
+        },
+        {
+          "name": "George Brown",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 261265,
+          "resource_url": "https://api.discogs.com/artists/261265"
+        },
+        {
+          "name": "Claydes Smith",
+          "anv": "Claydes E. X. Smith",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 387582,
+          "resource_url": "https://api.discogs.com/artists/387582"
+        },
+        {
+          "name": "Ricky West",
+          "anv": "Rick West",
+          "join": "",
+          "role": "Piano, Lead Vocals",
+          "tracks": "",
+          "id": 387579,
+          "resource_url": "https://api.discogs.com/artists/387579"
+        },
+        {
+          "name": "Ronald Bell",
+          "anv": "",
+          "join": "",
+          "role": "Tenor Saxophone",
+          "tracks": "",
+          "id": 108893,
+          "resource_url": "https://api.discogs.com/artists/108893"
+        },
+        {
+          "name": "Robert Spike Mickens",
+          "anv": "Robert Mickens",
+          "join": "",
+          "role": "Trumpet, Flugelhorn",
+          "tracks": "",
+          "id": 387583,
+          "resource_url": "https://api.discogs.com/artists/387583"
+        }
+      ],
+      "duration": "5:22"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Rhyme Tyme People",
+      "extraartists": [
+        {
+          "name": "Dennis D.T. Thomas",
+          "anv": "Dennis Thomas",
+          "join": "",
+          "role": "Alto Saxophone, Clavinet, Congas, Percussion, Lead Vocals",
+          "tracks": "",
+          "id": 387581,
+          "resource_url": "https://api.discogs.com/artists/387581"
+        },
+        {
+          "name": "Dennis D.T. Thomas",
+          "anv": "Dennis (D.T.) Thomas",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 387581,
+          "resource_url": "https://api.discogs.com/artists/387581"
+        },
+        {
+          "name": "Robert Kool Bell",
+          "anv": "Robert Bell",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 387580,
+          "resource_url": "https://api.discogs.com/artists/387580"
+        },
+        {
+          "name": "George Brown",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 261265,
+          "resource_url": "https://api.discogs.com/artists/261265"
+        },
+        {
+          "name": "Claydes Smith",
+          "anv": "Claydes E. X. Smith",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 387582,
+          "resource_url": "https://api.discogs.com/artists/387582"
+        },
+        {
+          "name": "Ronald Bell",
+          "anv": "",
+          "join": "",
+          "role": "Tenor Saxophone, Vocals",
+          "tracks": "",
+          "id": 108893,
+          "resource_url": "https://api.discogs.com/artists/108893"
+        },
+        {
+          "name": "Robert Spike Mickens",
+          "anv": "Robert Mickens",
+          "join": "",
+          "role": "Trumpet",
+          "tracks": "",
+          "id": 387583,
+          "resource_url": "https://api.discogs.com/artists/387583"
+        },
+        {
+          "name": "Penni Saunders",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 389587,
+          "resource_url": "https://api.discogs.com/artists/389587"
+        }
+      ],
+      "duration": "3:21"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Light Of Worlds",
+      "extraartists": [
+        {
+          "name": "Claydes Smith",
+          "anv": "Claydes E. X. Smith",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 387582,
+          "resource_url": "https://api.discogs.com/artists/387582"
+        },
+        {
+          "name": "Claydes Smith",
+          "anv": "Claydes E. X. Smith",
+          "join": "",
+          "role": "Arranged By, Conductor, Guitar, Vibraphone, Percussion",
+          "tracks": "",
+          "id": 387582,
+          "resource_url": "https://api.discogs.com/artists/387582"
+        },
+        {
+          "name": "Robert Kool Bell",
+          "anv": "Robert Bell",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 387580,
+          "resource_url": "https://api.discogs.com/artists/387580"
+        },
+        {
+          "name": "George Brown",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 261265,
+          "resource_url": "https://api.discogs.com/artists/261265"
+        },
+        {
+          "name": "Eddie Pazant",
+          "anv": "Edward Pazant",
+          "join": "",
+          "role": "Oboe, Alto Saxophone",
+          "tracks": "",
+          "id": 347836,
+          "resource_url": "https://api.discogs.com/artists/347836"
+        },
+        {
+          "name": "Ronald Bell",
+          "anv": "",
+          "join": "",
+          "role": "Piano, Clavinet, Tenor Saxophone, Vocals",
+          "tracks": "",
+          "id": 108893,
+          "resource_url": "https://api.discogs.com/artists/108893"
+        },
+        {
+          "name": "Noel Pointer",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 582794,
+          "resource_url": "https://api.discogs.com/artists/582794"
+        },
+        {
+          "name": "Alvin Pazant",
+          "anv": "",
+          "join": "",
+          "role": "Trumpet",
+          "tracks": "",
+          "id": 389586,
+          "resource_url": "https://api.discogs.com/artists/389586"
+        },
+        {
+          "name": "Alton Taylor",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 389588,
+          "resource_url": "https://api.discogs.com/artists/389588"
+        },
+        {
+          "name": "Herb Lane",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 329048,
+          "resource_url": "https://api.discogs.com/artists/329048"
+        },
+        {
+          "name": "Penni Saunders",
+          "anv": "\"Champane\" Penni Saunders",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 389587,
+          "resource_url": "https://api.discogs.com/artists/389587"
+        }
+      ],
+      "duration": "4:23"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Whiting H. & G.",
+      "extraartists": [
+        {
+          "name": "Ronald Bell",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 108893,
+          "resource_url": "https://api.discogs.com/artists/108893"
+        },
+        {
+          "name": "Robert Kool Bell",
+          "anv": "Robert Bell",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 387580,
+          "resource_url": "https://api.discogs.com/artists/387580"
+        },
+        {
+          "name": "George Brown",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 261265,
+          "resource_url": "https://api.discogs.com/artists/261265"
+        },
+        {
+          "name": "Ricky West",
+          "anv": "Rick West",
+          "join": "",
+          "role": "Electric Piano",
+          "tracks": "",
+          "id": 387579,
+          "resource_url": "https://api.discogs.com/artists/387579"
+        },
+        {
+          "name": "Claydes Smith",
+          "anv": "Claydes E. X. Smith",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 387582,
+          "resource_url": "https://api.discogs.com/artists/387582"
+        },
+        {
+          "name": "Dennis D.T. Thomas",
+          "anv": "Dennis Thomas",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 387581,
+          "resource_url": "https://api.discogs.com/artists/387581"
+        },
+        {
+          "name": "Ronald Bell",
+          "anv": "",
+          "join": "",
+          "role": "Synthesizer [Arp 2600], Piano, Clavinet, Flute [Alto]",
+          "tracks": "",
+          "id": 108893,
+          "resource_url": "https://api.discogs.com/artists/108893"
+        },
+        {
+          "name": "Robert Spike Mickens",
+          "anv": "Robert Mickens",
+          "join": "",
+          "role": "Trumpet",
+          "tracks": "",
+          "id": 387583,
+          "resource_url": "https://api.discogs.com/artists/387583"
+        }
+      ],
+      "duration": "3:20"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "You Don't Have To Change",
+      "extraartists": [
+        {
+          "name": "Robert Spike Mickens",
+          "anv": "Robert Mickens",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 387583,
+          "resource_url": "https://api.discogs.com/artists/387583"
+        },
+        {
+          "name": "Robert Kool Bell",
+          "anv": "Robert Bell",
+          "join": "",
+          "role": "Bass, Vocals",
+          "tracks": "",
+          "id": 387580,
+          "resource_url": "https://api.discogs.com/artists/387580"
+        },
+        {
+          "name": "George Brown",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Vocals",
+          "tracks": "",
+          "id": 261265,
+          "resource_url": "https://api.discogs.com/artists/261265"
+        },
+        {
+          "name": "Claydes Smith",
+          "anv": "Claydes E. X. Smith",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 387582,
+          "resource_url": "https://api.discogs.com/artists/387582"
+        },
+        {
+          "name": "Alton Taylor",
+          "anv": "",
+          "join": "",
+          "role": "Lead Vocals",
+          "tracks": "",
+          "id": 389588,
+          "resource_url": "https://api.discogs.com/artists/389588"
+        },
+        {
+          "name": "Ronald Bell",
+          "anv": "",
+          "join": "",
+          "role": "Synthesizer [Arp], Mellotron, Piano, Vocals",
+          "tracks": "",
+          "id": 108893,
+          "resource_url": "https://api.discogs.com/artists/108893"
+        },
+        {
+          "name": "Robert Spike Mickens",
+          "anv": "Robert Mickens",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 387583,
+          "resource_url": "https://api.discogs.com/artists/387583"
+        }
+      ],
+      "duration": "2:40"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Higher Plane",
+      "extraartists": [
+        {
+          "name": "Dennis D.T. Thomas",
+          "anv": "Dennis Thomas",
+          "join": "",
+          "role": "Alto Saxophone",
+          "tracks": "",
+          "id": 387581,
+          "resource_url": "https://api.discogs.com/artists/387581"
+        },
+        {
+          "name": "Ronald Bell",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 108893,
+          "resource_url": "https://api.discogs.com/artists/108893"
+        },
+        {
+          "name": "Herb Lane",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 329048,
+          "resource_url": "https://api.discogs.com/artists/329048"
+        },
+        {
+          "name": "Kenny Banks",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 360624,
+          "resource_url": "https://api.discogs.com/artists/360624"
+        },
+        {
+          "name": "Richard Shade",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 268299,
+          "resource_url": "https://api.discogs.com/artists/268299"
+        },
+        {
+          "name": "Robert Kool Bell",
+          "anv": "Robert Bell",
+          "join": "",
+          "role": "Bass, Vocals",
+          "tracks": "",
+          "id": 387580,
+          "resource_url": "https://api.discogs.com/artists/387580"
+        },
+        {
+          "name": "George Brown",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 261265,
+          "resource_url": "https://api.discogs.com/artists/261265"
+        },
+        {
+          "name": "Claydes Smith",
+          "anv": "Claydes E. X. Smith",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 387582,
+          "resource_url": "https://api.discogs.com/artists/387582"
+        },
+        {
+          "name": "Ricky West",
+          "anv": "Rick West",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 387579,
+          "resource_url": "https://api.discogs.com/artists/387579"
+        },
+        {
+          "name": "Ronald Bell",
+          "anv": "",
+          "join": "",
+          "role": "Tenor Saxophone, Piano, Clavinet, Bass, Synthesizer [Arp 2600], Lead Vocals",
+          "tracks": "",
+          "id": 108893,
+          "resource_url": "https://api.discogs.com/artists/108893"
+        },
+        {
+          "name": "Robert Spike Mickens",
+          "anv": "Robert Mickens",
+          "join": "",
+          "role": "Trumpet",
+          "tracks": "",
+          "id": 387583,
+          "resource_url": "https://api.discogs.com/artists/387583"
+        }
+      ],
+      "duration": "4:59"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Summer Madness",
+      "extraartists": [
+        {
+          "name": "Robert Spike Mickens",
+          "anv": "Robert Mickens",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 387583,
+          "resource_url": "https://api.discogs.com/artists/387583"
+        },
+        {
+          "name": "Robert Kool Bell",
+          "anv": "Robert Bell",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 387580,
+          "resource_url": "https://api.discogs.com/artists/387580"
+        },
+        {
+          "name": "George Brown",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 261265,
+          "resource_url": "https://api.discogs.com/artists/261265"
+        },
+        {
+          "name": "Claydes Smith",
+          "anv": "Claydes E. X. Smith",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 387582,
+          "resource_url": "https://api.discogs.com/artists/387582"
+        },
+        {
+          "name": "Ricky West",
+          "anv": "Rick West",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 387579,
+          "resource_url": "https://api.discogs.com/artists/387579"
+        },
+        {
+          "name": "Ronald Bell",
+          "anv": "",
+          "join": "",
+          "role": "Synthesizer [Arp], Mellotron",
+          "tracks": "",
+          "id": 108893,
+          "resource_url": "https://api.discogs.com/artists/108893"
+        }
+      ],
+      "duration": "4:16"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Here After",
+      "extraartists": [
+        {
+          "name": "Ronald Bell",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 108893,
+          "resource_url": "https://api.discogs.com/artists/108893"
+        },
+        {
+          "name": "George Brown",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Gong, Drum [Kettle Drums], Percussion",
+          "tracks": "",
+          "id": 261265,
+          "resource_url": "https://api.discogs.com/artists/261265"
+        },
+        {
+          "name": "Ronald Bell",
+          "anv": "",
+          "join": "",
+          "role": "Tenor Saxophone, Mellotron, Electric Piano, Vocals, Kalimba, Piano [Acoustic], Synthesizer",
+          "tracks": "",
+          "id": 108893,
+          "resource_url": "https://api.discogs.com/artists/108893"
+        },
+        {
+          "name": "Robert Spike Mickens",
+          "anv": "Robert Mickens",
+          "join": "",
+          "role": "Trumpet",
+          "tracks": "",
+          "id": 387583,
+          "resource_url": "https://api.discogs.com/artists/387583"
+        }
+      ],
+      "duration": "2:55"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Frank Daniel (3)",
+      "anv": "",
+      "join": "",
+      "role": "Design [Album]",
+      "tracks": "",
+      "id": 1861145,
+      "resource_url": "https://api.discogs.com/artists/1861145"
+    },
+    {
+      "name": "Alec Head",
+      "anv": "Alex Head",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 228362,
+      "resource_url": "https://api.discogs.com/artists/228362"
+    },
+    {
+      "name": "Bob Clearmountain",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 11415,
+      "resource_url": "https://api.discogs.com/artists/11415"
+    },
+    {
+      "name": "Godfrey Diamond",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 267673,
+      "resource_url": "https://api.discogs.com/artists/267673"
+    },
+    {
+      "name": "Harvey Goldberg",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 64713,
+      "resource_url": "https://api.discogs.com/artists/64713"
+    },
+    {
+      "name": "José Rodriguez",
+      "anv": "Jose Rodriguez",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 502056,
+      "resource_url": "https://api.discogs.com/artists/502056"
+    },
+    {
+      "name": "Bernie Block",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 349109,
+      "resource_url": "https://api.discogs.com/artists/349109"
+    },
+    {
+      "name": "David Lartaud",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 1844501,
+      "resource_url": "https://api.discogs.com/artists/1844501"
+    },
+    {
+      "name": "Phil Willen",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 2347235,
+      "resource_url": "https://api.discogs.com/artists/2347235"
+    },
+    {
+      "name": "K&G Productions",
+      "anv": "K. & G. Productions",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 317555,
+      "resource_url": "https://api.discogs.com/artists/317555"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/N5Itpk5-03w9LUwvED0YeHi-Nip7bB-dNfAL4awqC9U/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njk0/ODItMTQyMjIwMjQx/MS0yNTE1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/N5Itpk5-03w9LUwvED0YeHi-Nip7bB-dNfAL4awqC9U/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njk0/ODItMTQyMjIwMjQx/MS0yNTE1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/GU1SuK-VdF6RrkjCjhEaN_zhMPASvEaWmRsCHqCocOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njk0/ODItMTQyMjIwMjQx/MS0yNTE1LmpwZWc.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/lODrMpc5ZHoowKJnmx04d2mUaKwOk9WvfZpfdWZ_gSw/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njk0/ODItMTUzMjYyMzcz/OS03MDk5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/lODrMpc5ZHoowKJnmx04d2mUaKwOk9WvfZpfdWZ_gSw/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njk0/ODItMTUzMjYyMzcz/OS03MDk5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/vj-lq-M-xPPIjp0dek9BMmL67v3jWE027ChbN9Cm0io/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njk0/ODItMTUzMjYyMzcz/OS03MDk5LmpwZWc.jpeg",
+      "width": 600,
+      "height": 300
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/vCs4vja4NM8JsDLcrRi1m8FA2hJGob7npQun6Yfr8ME/rs:fit/g:sm/q:90/h:302/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njk0/ODItMTUzMjYyMzcz/Ny0xNDgzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/vCs4vja4NM8JsDLcrRi1m8FA2hJGob7npQun6Yfr8ME/rs:fit/g:sm/q:90/h:302/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njk0/ODItMTUzMjYyMzcz/Ny0xNDgzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/qoagss8dhGg4kmzv9IOMuLmUC1ZfMYYVwG2aYZpdxKY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njk0/ODItMTUzMjYyMzcz/Ny0xNDgzLmpwZWc.jpeg",
+      "width": 600,
+      "height": 302
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/LwH6E431wOkwcMm-TxTg-ZOsm4O066AApKOocdEvWhw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njk0/ODItMTQyMjIwMjQx/Ni03MTgzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/LwH6E431wOkwcMm-TxTg-ZOsm4O066AApKOocdEvWhw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njk0/ODItMTQyMjIwMjQx/Ni03MTgzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/Q65q9BpenMt0NzJC7B4n5yEto-U8a4Q7SWoPQ6MLocc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njk0/ODItMTQyMjIwMjQx/Ni03MTgzLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ULybxg7RJCjntAnmvbbGACPtNEBdbUl6u8xE57edK4k/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njk0/ODItMTQyMjIwMjQy/MC04NzIxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/ULybxg7RJCjntAnmvbbGACPtNEBdbUl6u8xE57edK4k/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njk0/ODItMTQyMjIwMjQy/MC04NzIxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/km_LniUcBzCwR6fKkLu3CgG1oC8MYo1p49N6rlU5KaM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njk0/ODItMTQyMjIwMjQy/MC04NzIxLmpwZWc.jpeg",
+      "width": 600,
+      "height": 591
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/u4ivo0a7iHKGFlqWFbyHz16OyJrzeRgkw7QlmZSrcr8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njk0/ODItMTQyMjIwMjQy/NS01NjUwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/u4ivo0a7iHKGFlqWFbyHz16OyJrzeRgkw7QlmZSrcr8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njk0/ODItMTQyMjIwMjQy/NS01NjUwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/6fieZQOhfc82w-pwBXpwKpiHt62CI-lB7nmSIZYRo7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njk0/ODItMTQyMjIwMjQy/NS01NjUwLmpwZWc.jpeg",
+      "width": 600,
+      "height": 596
+    }
+  ],
+  "thumb": "https://i.discogs.com/GU1SuK-VdF6RrkjCjhEaN_zhMPASvEaWmRsCHqCocOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1Njk0/ODItMTQyMjIwMjQx/MS0yNTE1LmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

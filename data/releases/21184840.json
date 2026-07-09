@@ -1,0 +1,219 @@
+{
+  "id": 21184840,
+  "status": "Accepted",
+  "year": 2021,
+  "resource_url": "https://api.discogs.com/releases/21184840",
+  "uri": "https://www.discogs.com/release/21184840-Maeta-Habits",
+  "artists": [
+    {
+      "name": "Maeta",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 6623123,
+      "resource_url": "https://api.discogs.com/artists/6623123",
+      "thumbnail_url": "https://i.discogs.com/Om2336l2lTzYG0QpZLBy_gZmrck34eYxUc2u8-cl8MQ/rs:fit/g:sm/q:90/h:600/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY2MjMx/MjMtMTY2ODcxMjcw/Ni03NjEyLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Maeta",
+  "labels": [
+    {
+      "name": "Roc Nation Records",
+      "catno": "ROC00539-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 794548,
+      "resource_url": "https://api.discogs.com/labels/794548"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "12\"",
+        "EP"
+      ],
+      "text": "Green"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 315,
+    "want": 74,
+    "rating": {
+      "count": 21,
+      "average": 4.38
+    },
+    "submitter": {
+      "username": "jermzz",
+      "resource_url": "https://api.discogs.com/users/jermzz"
+    },
+    "contributors": [
+      {
+        "username": "jermzz",
+        "resource_url": "https://api.discogs.com/users/jermzz"
+      },
+      {
+        "username": "expectdelay",
+        "resource_url": "https://api.discogs.com/users/expectdelay"
+      },
+      {
+        "username": "vinylwarp",
+        "resource_url": "https://api.discogs.com/users/vinylwarp"
+      },
+      {
+        "username": "Wabanaki",
+        "resource_url": "https://api.discogs.com/users/Wabanaki"
+      },
+      {
+        "username": "theyluvbeige",
+        "resource_url": "https://api.discogs.com/users/theyluvbeige"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2021-11-30T18:43:19-08:00",
+  "date_changed": "2025-04-19T23:45:11-07:00",
+  "num_for_sale": 10,
+  "lowest_price": 8.75,
+  "master_id": 2325430,
+  "master_url": "https://api.discogs.com/masters/2325430",
+  "title": "Habits",
+  "country": "USA & Canada",
+  "released": "2021-04-30",
+  "notes": "Contains Habits & The Habits Remixes.\n\nComes with thick 12x12\" 14 Page Booklet containing photos & lyrics.",
+  "released_formatted": "30 Apr 2021",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "810061167761",
+      "description": "Typed"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    "Hip Hop",
+    "Funk / Soul"
+  ],
+  "styles": [],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Teen Scene (ft. Buddy)",
+      "duration": "4:10"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Toxic (ft. Beam)",
+      "duration": "3:09"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Habits",
+      "duration": "2:57"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "B!tch Don't Be Mad",
+      "duration": "3:05"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Sending My Love",
+      "duration": "3:05"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Gift",
+      "duration": "2:43"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Doesn't Mean A Thing (ft. Leven Kali)",
+      "duration": "3:57"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Teen Scene (Wax Motif Remix)",
+      "duration": "4:31"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Habits (Ferreck Dawn Remix)",
+      "duration": "2:52"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "B!itch Don’t Be Mad (Nao & Mura Masa Remix)",
+      "duration": "3:05"
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Sending My Love (Dark Heart Remix)",
+      "duration": "2:38"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/Z52Xa5CvoTSLX-mtYMFlrc8xZ3UX6eZHAoW8BORyRbg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg0/ODQwLTE2NDQ1MTEw/NjAtMjQ1NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Z52Xa5CvoTSLX-mtYMFlrc8xZ3UX6eZHAoW8BORyRbg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg0/ODQwLTE2NDQ1MTEw/NjAtMjQ1NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/rbw2tIjcpXh4Be84WoTaaMrDIwIK1_IkuWI9pD7TQcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg0/ODQwLTE2NDQ1MTEw/NjAtMjQ1NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/66vGZSY26YJ2uiUPHbWioK_mSKpNVxoFW1rplkKoFms/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg0/ODQwLTE2NDQ1MTEw/NjItNjk1MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/66vGZSY26YJ2uiUPHbWioK_mSKpNVxoFW1rplkKoFms/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg0/ODQwLTE2NDQ1MTEw/NjItNjk1MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/UDMLNp-kfS0pXmesNEuZ4N2_AENum3bl_5lPzz52Mn8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg0/ODQwLTE2NDQ1MTEw/NjItNjk1MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/8gynPt5Q3liNQcmD6r0gjF2td1XNkocMOuE4ktvT6cQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg0/ODQwLTE2NDQ1MTEw/NjItNDE4My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/8gynPt5Q3liNQcmD6r0gjF2td1XNkocMOuE4ktvT6cQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg0/ODQwLTE2NDQ1MTEw/NjItNDE4My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/pgBAiT__zuY1Wh_tKsSrWFRkL38A1syPjZGlTIeNU_c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg0/ODQwLTE2NDQ1MTEw/NjItNDE4My5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/-Y4SSAl1aVmuNzGnDgbvjZdpneg5IbEtXlRg7x32zEE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg0/ODQwLTE2NDQ1MTEw/NjEtNDUyNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/-Y4SSAl1aVmuNzGnDgbvjZdpneg5IbEtXlRg7x32zEE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg0/ODQwLTE2NDQ1MTEw/NjEtNDUyNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Ghfk56YvIfor8izqvyag_umZFS5RbUkH1Ti8VNRChzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg0/ODQwLTE2NDQ1MTEw/NjEtNDUyNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/cy1NMLuEhoffjo9yml1wWK_qel0muo7pIA3PrLi1E3M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg0/ODQwLTE2NDQ1MTEw/NjAtNjEzMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/cy1NMLuEhoffjo9yml1wWK_qel0muo7pIA3PrLi1E3M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg0/ODQwLTE2NDQ1MTEw/NjAtNjEzMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/RQ-uniLCSCK9fg9C-FjKzFCNvPziX35o2nkAaFEOJ0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg0/ODQwLTE2NDQ1MTEw/NjAtNjEzMy5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/rbw2tIjcpXh4Be84WoTaaMrDIwIK1_IkuWI9pD7TQcE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMTg0/ODQwLTE2NDQ1MTEw/NjAtMjQ1NC5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

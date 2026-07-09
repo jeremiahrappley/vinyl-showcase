@@ -1,0 +1,272 @@
+{
+  "id": 35698372,
+  "status": "Accepted",
+  "year": 2025,
+  "resource_url": "https://api.discogs.com/releases/35698372",
+  "uri": "https://www.discogs.com/release/35698372-Majid-Jordan-Majid-Jordan",
+  "artists": [
+    {
+      "name": "Majid Jordan",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 3429463,
+      "resource_url": "https://api.discogs.com/artists/3429463",
+      "thumbnail_url": "https://i.discogs.com/bmf3qevx2eOLe8f7DHvS40o0R4geBMz5uHTb10FvaEw/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM0Mjk0/NjMtMTQzMDQ0NDIy/MS03MzkyLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Majid Jordan",
+  "labels": [
+    {
+      "name": "OVO Sound",
+      "catno": "IC29 912660.1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 719678,
+      "resource_url": "https://api.discogs.com/labels/719678",
+      "thumbnail_url": "https://i.discogs.com/qjT-wueE7BGgkkRpRCpopjsJJG_Aw7m1UQU2HGO88zU/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTcxOTY3/OC0xNDg4OTE5NjQy/LTg2MjEucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 34,
+    "want": 2,
+    "rating": {
+      "count": 8,
+      "average": 4.88
+    },
+    "submitter": {
+      "username": "Silverplatters",
+      "resource_url": "https://api.discogs.com/users/Silverplatters"
+    },
+    "contributors": [
+      {
+        "username": "Silverplatters",
+        "resource_url": "https://api.discogs.com/users/Silverplatters"
+      },
+      {
+        "username": "cognic",
+        "resource_url": "https://api.discogs.com/users/cognic"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2025-11-18T08:52:46-08:00",
+  "date_changed": "2026-02-19T10:59:52-08:00",
+  "num_for_sale": 7,
+  "lowest_price": 30,
+  "master_id": 992710,
+  "master_url": "https://api.discogs.com/masters/992710",
+  "title": "Majid Jordan",
+  "country": "US",
+  "released": "2025-07-25",
+  "released_formatted": "25 Jul 2025",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "808391266087"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=NzswCZwVfGQ",
+      "title": "Majid Jordan - King City (Official Video)",
+      "description": "Majid Jordan's Debut Album Available Now\nDownload Here: https://smarturl.it/MajidJordanAlbum",
+      "duration": 218,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=eqJ-Shv3kEw",
+      "title": "Majid Jordan - My Love ft. Drake (Official Video)",
+      "description": "My Love ft. Drake available now\nhttps://itun.es/i6SJ6HS\nDirected by Common Good\n\n Produced with the financial assistance of MuchFACT, a division of Bell Media Inc. www.muchfact.ca",
+      "duration": 255,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ldWU-Wp-ZmQ",
+      "title": "Majid Jordan - Something About You (Official Video)",
+      "description": "Something About You\nDirected by Common Good\n\nMajid Jordan Album Preorder Available now\nhttp://smarturl.it/MajidJordan",
+      "duration": 223,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Pop"
+  ],
+  "styles": [
+    "House",
+    "Contemporary R&B",
+    "Soul"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Learn From Each Other",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Make It Work",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "My Love",
+      "extraartists": [
+        {
+          "name": "Drake",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 151199,
+          "resource_url": "https://api.discogs.com/artists/151199"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Small Talk",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Pacifico",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Shake Shake Shake",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Love Is Always There",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Warm",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Something About You",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Day And Night",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "King City",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Every Step Every Way",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Majid Jordan",
+      "anv": "",
+      "join": "",
+      "role": "Co-producer",
+      "tracks": "A3",
+      "id": 3429463,
+      "resource_url": "https://api.discogs.com/artists/3429463"
+    },
+    {
+      "name": "Noah Shebib",
+      "anv": "",
+      "join": "",
+      "role": "Co-producer",
+      "tracks": "A3",
+      "id": 895435,
+      "resource_url": "https://api.discogs.com/artists/895435"
+    },
+    {
+      "name": "Noah Shebib",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 895435,
+      "resource_url": "https://api.discogs.com/artists/895435"
+    },
+    {
+      "name": "Illangelo",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "A1, A3, C3",
+      "id": 2186765,
+      "resource_url": "https://api.discogs.com/artists/2186765"
+    },
+    {
+      "name": "Majid Jordan",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "A1, A2, B1, B2, B3, C1, C2, C3, D1, D2, D3",
+      "id": 3429463,
+      "resource_url": "https://api.discogs.com/artists/3429463"
+    },
+    {
+      "name": "Nineteen85",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "A3, D2",
+      "id": 3375550,
+      "resource_url": "https://api.discogs.com/artists/3375550"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/A1y2RmZXTz4Vvs6hRw26fN3tFRgUs9UUqb8BxTG1AMk/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njk4/MzcyLTE3NzE1Mjc1/ODEtMjc0NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/A1y2RmZXTz4Vvs6hRw26fN3tFRgUs9UUqb8BxTG1AMk/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njk4/MzcyLTE3NzE1Mjc1/ODEtMjc0NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/DvAGhLJt7ZfNQbh86c6Lk4s-ss67u8xYygQciFjQO8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njk4/MzcyLTE3NzE1Mjc1/ODEtMjc0NS5qcGVn.jpeg",
+      "width": 581,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/DvAGhLJt7ZfNQbh86c6Lk4s-ss67u8xYygQciFjQO8Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1Njk4/MzcyLTE3NzE1Mjc1/ODEtMjc0NS5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

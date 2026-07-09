@@ -1,0 +1,669 @@
+{
+  "id": 31019386,
+  "status": "Accepted",
+  "year": 2024,
+  "resource_url": "https://api.discogs.com/releases/31019386",
+  "uri": "https://www.discogs.com/release/31019386-Sade-Stronger-Than-Pride",
+  "artists": [
+    {
+      "name": "Sade",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 19731,
+      "resource_url": "https://api.discogs.com/artists/19731",
+      "thumbnail_url": "https://i.discogs.com/EKLCzSBj-FM3OP9CM29QpcpTh5CBYXee5UsRvteoVNg/rs:fit/g:sm/q:90/h:432/w:537/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE5NzMx/LTEyMTc4NTg3MTcu/anBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Sade",
+  "labels": [
+    {
+      "name": "Epic",
+      "catno": "19658784821",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1005,
+      "resource_url": "https://api.discogs.com/labels/1005",
+      "thumbnail_url": "https://i.discogs.com/Ta8tXFbN3YA4PweFsSHGzpZN1tOertrxyLpgf7OaWCo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDUt/MTc3OTQ5NjYzOC04/Njg3LmpwZWc.jpeg"
+    },
+    {
+      "name": "Sony Music",
+      "catno": "19658784821",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 25487,
+      "resource_url": "https://api.discogs.com/labels/25487",
+      "thumbnail_url": "https://i.discogs.com/O7quXBkakkeeljzb5ApIswR86acqIHTQ3qzBrCHmqzA/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NDg3/LTE3MDA5NDA1ODgt/MTYwNS5wbmc.jpeg"
+    },
+    {
+      "name": "Epic",
+      "catno": "460497 1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1005,
+      "resource_url": "https://api.discogs.com/labels/1005",
+      "thumbnail_url": "https://i.discogs.com/Ta8tXFbN3YA4PweFsSHGzpZN1tOertrxyLpgf7OaWCo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDUt/MTc3OTQ5NjYzOC04/Njg3LmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Sony Music Entertainment",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 29073,
+      "resource_url": "https://api.discogs.com/labels/29073",
+      "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+    },
+    {
+      "name": "Sony Music Entertainment UK Limited",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 264873,
+      "resource_url": "https://api.discogs.com/labels/264873",
+      "thumbnail_url": "https://i.discogs.com/hR-8tMwAQvIUBLzcrCCCaElyBIO-LHLHFpPLYwCbwg8/rs:fit/g:sm/q:90/h:52/w:460/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDg3/My0xNjQ5OTU5MDM3/LTQzNzMuanBlZw.jpeg"
+    },
+    {
+      "name": "Sony Music Entertainment UK Limited",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 264873,
+      "resource_url": "https://api.discogs.com/labels/264873",
+      "thumbnail_url": "https://i.discogs.com/hR-8tMwAQvIUBLzcrCCCaElyBIO-LHLHFpPLYwCbwg8/rs:fit/g:sm/q:90/h:52/w:460/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDg3/My0xNjQ5OTU5MDM3/LTQzNzMuanBlZw.jpeg"
+    },
+    {
+      "name": "Compass Point Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 264020,
+      "resource_url": "https://api.discogs.com/labels/264020",
+      "thumbnail_url": "https://i.discogs.com/ua3c2lCdoyFTukMHM_Dq9Rgnc_QMe9Mt0dcuUNme1Nc/rs:fit/g:sm/q:90/h:344/w:415/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDAy/MC0xNjM4MzM5MTE1/LTcxNTguanBlZw.jpeg"
+    },
+    {
+      "name": "Studio Miraval",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 271897,
+      "resource_url": "https://api.discogs.com/labels/271897",
+      "thumbnail_url": "https://i.discogs.com/4bQwyKJBhC1G_ZN0HNtTed-2uXdCkNhOAtDT2LPXiy4/rs:fit/g:sm/q:90/h:370/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MTg5/Ny0xNjY5NjUyNTEy/LTQyNzcucG5n.jpeg"
+    },
+    {
+      "name": "Studio Marcadet",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 264435,
+      "resource_url": "https://api.discogs.com/labels/264435",
+      "thumbnail_url": "https://i.discogs.com/r9h6mHaUx5FWBQ4zPjlKYqvPTnA_HEmdvJMjMk7zKcA/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDQz/NS0xNjEzMTQ0MTQy/LTkzOTkuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue",
+        "Remastered"
+      ],
+      "text": "Half-Speed Mastered, 180g"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 2809,
+    "want": 445,
+    "rating": {
+      "count": 300,
+      "average": 4.67
+    },
+    "submitter": {
+      "username": "globalgroove.co.uk",
+      "resource_url": "https://api.discogs.com/users/globalgroove.co.uk"
+    },
+    "contributors": [
+      {
+        "username": "globalgroove.co.uk",
+        "resource_url": "https://api.discogs.com/users/globalgroove.co.uk"
+      },
+      {
+        "username": "bodyfour",
+        "resource_url": "https://api.discogs.com/users/bodyfour"
+      },
+      {
+        "username": "HighNotesCo",
+        "resource_url": "https://api.discogs.com/users/HighNotesCo"
+      },
+      {
+        "username": "rodolfobarili",
+        "resource_url": "https://api.discogs.com/users/rodolfobarili"
+      },
+      {
+        "username": ".SLCOOLJ.",
+        "resource_url": "https://api.discogs.com/users/.SLCOOLJ."
+      },
+      {
+        "username": "CactusBlue",
+        "resource_url": "https://api.discogs.com/users/CactusBlue"
+      },
+      {
+        "username": "KaitouGentleman",
+        "resource_url": "https://api.discogs.com/users/KaitouGentleman"
+      },
+      {
+        "username": "kirach",
+        "resource_url": "https://api.discogs.com/users/kirach"
+      },
+      {
+        "username": "carlesmeg80",
+        "resource_url": "https://api.discogs.com/users/carlesmeg80"
+      },
+      {
+        "username": "recordbulimic",
+        "resource_url": "https://api.discogs.com/users/recordbulimic"
+      },
+      {
+        "username": "HtbGibsonGuitars1",
+        "resource_url": "https://api.discogs.com/users/HtbGibsonGuitars1"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2024-06-21T04:40:47-07:00",
+  "date_changed": "2025-10-11T12:22:49-07:00",
+  "num_for_sale": 202,
+  "lowest_price": 22.5,
+  "master_id": 110941,
+  "master_url": "https://api.discogs.com/masters/110941",
+  "title": "Stronger Than Pride",
+  "country": "Europe",
+  "released": "2024-06-21",
+  "notes": "Half-speed remaster at Abbey Road Studios. Audio sourced from high resolution digital transfers of the stereo master mixes (from the original studio recordings).  All runout info etched.\nOriginal album art reproduced in detail. Double-sided printed inner sleeve with lyrics.\n",
+  "released_formatted": "21 Jun 2024",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "196587848217"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BH95475-03 E1 MILES. ABBEY ROAD 1/2 SPEED. RM 30.",
+      "description": "Side A Runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BH95475-03 F1 MILES. ABBEY ROAD 1/2 SPEED. RM 30. XS",
+      "description": "Side B Runout"
+    },
+    {
+      "type": "Rights Society",
+      "value": "MCPS/BIEM"
+    },
+    {
+      "type": "Label Code",
+      "value": "LC 0199"
+    },
+    {
+      "type": "Price Code",
+      "value": "PX"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=k-9mHBc3mL8",
+      "title": "Sade – Give It Up...yerdenizplak.com İstanbul Kadıköy Plak",
+      "description": "Album: Sade – Stronger Than Pride\n\nLabel:Epic – 19658784821, Sony Music – 19658784821, Epic – 460497 1\n\nFormat:Vinyl, LP, Album, Reissue, Half-Speed Mastered, 180g\n\nCountry:Europe\n\nReleased:Jun 21, 2024\n\nGenre:Jazz, Funk / Soul\n\nStyle:Downtempo, Soul-Jazz",
+      "duration": 222,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=e2Ljkr9NmOg",
+      "title": "Sade - Love Is Stronger Than Pride - Official - 1988",
+      "description": "Sade – Live Is Stronger Than Pride \nDirector - Sophie Muller - April 1988\nThe official YouTube channel for the British iconic band Sade \n \nwww.sade.com\n \nSade (vocals)\nStuart Matthewman (saxophone / guitar)\nAndrew Hale (keyboards)\nPaul Spencer Denman (bas",
+      "duration": 262,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=C0BLKudnyNo",
+      "title": "Sade - Paradise - Official - 1988",
+      "description": "Sade – Paradise\nDirector - Alex McDowell - June 1988\nThe official YouTube channel for the British iconic band Sade \n \nwww.sade.com\n \nSade (vocals)\nStuart Matthewman (saxophone / guitar)\nAndrew Hale (keyboards)\nPaul Spencer Denman (bass)\n \nSpotify  http://",
+      "duration": 218,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=_oVI0GW-Xd4",
+      "title": "Sade - Nothing Can Come Between Us - Official - 1988",
+      "description": "Sade – Nothing Can Come Between Us \nDirector - Sophie Muller - November 1988\nThe official YouTube channel for the British iconic band Sade \n \nwww.sade.com\n \nSade (vocals)\nStuart Matthewman (saxophone / guitar)\nAndrew Hale (keyboards)\nPaul Spencer Denman (",
+      "duration": 232,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=UKRqN7MGc9I",
+      "title": "Sade - Haunt Me (Audio)",
+      "description": "Sade – Haunt Me (Audio)\nListen on Spotify -http://smarturl.it/Sade_TopTracks\nListen on Apple Music -http://smarturl.it/SadeEssentials\nAmazon - http://smarturl.it/SadeUCAmz\n\nFollow Sade \nWebsite - http://www.sade.com/\nFacebook - https://www.facebook.com/sa",
+      "duration": 351,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=dzvM0M6lRfI",
+      "title": "Sade - Turn My Back On You - Official - 1988",
+      "description": "Sade – Turn My Back On You \nDirector - Sophie Muller - November 1992\nThe official YouTube channel for the British iconic band Sade \n \nwww.sade.com\n \nSade (vocals)\nStuart Matthewman (saxophone / guitar)\nAndrew Hale (keyboards)Sade – Turn My Back On You \nDi",
+      "duration": 249,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=vRHe2mcaYDs",
+      "title": "Sade - Keep Looking (Audio)",
+      "description": "Sade – Keep Looking (Audio)\nListen on Spotify -http://smarturl.it/Sade_TopTracks\nListen on Apple Music -http://smarturl.it/SadeEssentials\nAmazon - http://smarturl.it/SadeUCAmz\n\nFollow Sade \nWebsite - http://www.sade.com/\nFacebook - https://www.facebook.co",
+      "duration": 322,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=tf5t452dljA",
+      "title": "Sade - Clean Heart (Audio)",
+      "description": "Sade – Clean Heart (Audio)\nListen on Spotify -http://smarturl.it/Sade_TopTracks\nListen on Apple Music -http://smarturl.it/SadeEssentials\nAmazon - http://smarturl.it/SadeUCAmz\n\nFollow Sade \nWebsite - http://www.sade.com/\nFacebook - https://www.facebook.com",
+      "duration": 244,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=B8yBwmgDvsw",
+      "title": "Sade - Give It Up (Audio)",
+      "description": "Sade – Give It Up (Audio)\r\nListen on Spotify -http://smarturl.it/Sade_TopTracks\r\nListen on Apple Music -http://smarturl.it/SadeEssentials\r\nAmazon - http://smarturl.it/SadeUCAmz\r\n\r\nFollow Sade \r\nWebsite - http://www.sade.com/\r\nFacebook - https://www.facebo",
+      "duration": 232,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Fh8ntMhUZHw",
+      "title": "Sade - I Never Thought I'd See the Day (Audio)",
+      "description": "Sade – I Never Thought I'd See The Day (Audio)\nListen on Spotify -http://smarturl.it/Sade_TopTracks\nListen on Apple Music -http://smarturl.it/SadeEssentials\nAmazon - http://smarturl.it/SadeUCAmz\n\nFollow Sade \nWebsite - http://www.sade.com/\nFacebook - http",
+      "duration": 254,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=6PIY4GB1m94",
+      "title": "Sade - Siempre Hay Esperanza (Audio)",
+      "description": "Sade – Siempre Hay Esperanza (Audio)\nListen on Spotify -http://smarturl.it/Sade_TopTracks\nListen on Apple Music -http://smarturl.it/SadeEssentials\nAmazon - http://smarturl.it/SadeUCAmz\n\nFollow Sade \nWebsite - http://www.sade.com/\nFacebook - https://www.fa",
+      "duration": 317,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Jazz",
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Downtempo",
+    "Soul-Jazz"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Love Is Stronger Than Pride",
+      "duration": "4:16"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Paradise",
+      "duration": "4:01"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Nothing Can Come Between Us",
+      "duration": "4:21"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Haunt Me",
+      "duration": "5:48"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Turn My Back On You",
+      "duration": "6:05"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Keep Looking",
+      "duration": "5:20"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Clean Heart",
+      "duration": "3:59"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Give It Up",
+      "duration": "3:49"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "I Never Thought I'd See The Day",
+      "duration": "4:12"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Siempre Hay Esperanza",
+      "duration": "5:16"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Nick Ingman",
+      "anv": "",
+      "join": "",
+      "role": "Arranged By [String Arrangement]",
+      "tracks": "A4, B4",
+      "id": 289278,
+      "resource_url": "https://api.discogs.com/artists/289278"
+    },
+    {
+      "name": "Paul S. Denman",
+      "anv": "Paul S Denman",
+      "join": "",
+      "role": "Bass",
+      "tracks": "",
+      "id": 306864,
+      "resource_url": "https://api.discogs.com/artists/306864"
+    },
+    {
+      "name": "Graham Smith (5)",
+      "anv": "",
+      "join": "",
+      "role": "Design [Sleeve Design]",
+      "tracks": "",
+      "id": 1839143,
+      "resource_url": "https://api.discogs.com/artists/1839143"
+    },
+    {
+      "name": "Martin Ditcham",
+      "anv": "",
+      "join": "",
+      "role": "Drums, Percussion",
+      "tracks": "",
+      "id": 252445,
+      "resource_url": "https://api.discogs.com/artists/252445"
+    },
+    {
+      "name": "Melanie West",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant, Compass Point]",
+      "tracks": "",
+      "id": 379785,
+      "resource_url": "https://api.discogs.com/artists/379785"
+    },
+    {
+      "name": "Vince McCartney",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant, Compass Point]",
+      "tracks": "",
+      "id": 426577,
+      "resource_url": "https://api.discogs.com/artists/426577"
+    },
+    {
+      "name": "Alain Lubrano",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant, Marcadet]",
+      "tracks": "",
+      "id": 569962,
+      "resource_url": "https://api.discogs.com/artists/569962"
+    },
+    {
+      "name": "Jean-Christophe Vareille",
+      "anv": "Jean-Christoph Vareille",
+      "join": "",
+      "role": "Engineer [Assistant, Marcadet]",
+      "tracks": "",
+      "id": 569949,
+      "resource_url": "https://api.discogs.com/artists/569949"
+    },
+    {
+      "name": "Olivier De Bosson",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant, Marcadet]",
+      "tracks": "",
+      "id": 427366,
+      "resource_url": "https://api.discogs.com/artists/427366"
+    },
+    {
+      "name": "Franck Segarra",
+      "anv": "Frank Segarra",
+      "join": "",
+      "role": "Engineer [Assistant, Miraval]",
+      "tracks": "",
+      "id": 428654,
+      "resource_url": "https://api.discogs.com/artists/428654"
+    },
+    {
+      "name": "Ben Rogan",
+      "anv": "",
+      "join": "",
+      "role": "Engineer, Co-producer",
+      "tracks": "",
+      "id": 217689,
+      "resource_url": "https://api.discogs.com/artists/217689"
+    },
+    {
+      "name": "Mike Pela",
+      "anv": "",
+      "join": "",
+      "role": "Engineer, Co-producer",
+      "tracks": "",
+      "id": 176429,
+      "resource_url": "https://api.discogs.com/artists/176429"
+    },
+    {
+      "name": "Gordon Hunte",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "A2, B3",
+      "id": 396315,
+      "resource_url": "https://api.discogs.com/artists/396315"
+    },
+    {
+      "name": "Stuart Matthewman",
+      "anv": "",
+      "join": "",
+      "role": "Guitar, Saxophone",
+      "tracks": "",
+      "id": 9049,
+      "resource_url": "https://api.discogs.com/artists/9049"
+    },
+    {
+      "name": "Andrew Hale",
+      "anv": "",
+      "join": "",
+      "role": "Keyboards",
+      "tracks": "",
+      "id": 209279,
+      "resource_url": "https://api.discogs.com/artists/209279"
+    },
+    {
+      "name": "Sade Adu",
+      "anv": "Adu",
+      "join": "",
+      "role": "Lyrics By",
+      "tracks": "",
+      "id": 482893,
+      "resource_url": "https://api.discogs.com/artists/482893"
+    },
+    {
+      "name": "Andrew Hale",
+      "anv": "Hale",
+      "join": "",
+      "role": "Music By",
+      "tracks": "A1 to A3, A5 to B3",
+      "id": 209279,
+      "resource_url": "https://api.discogs.com/artists/209279"
+    },
+    {
+      "name": "Leroy Osbourne",
+      "anv": "Osbourne",
+      "join": "",
+      "role": "Music By",
+      "tracks": "B4, B5",
+      "id": 212236,
+      "resource_url": "https://api.discogs.com/artists/212236"
+    },
+    {
+      "name": "Paul S. Denman",
+      "anv": "Denman",
+      "join": "",
+      "role": "Music By",
+      "tracks": "A2",
+      "id": 306864,
+      "resource_url": "https://api.discogs.com/artists/306864"
+    },
+    {
+      "name": "Sade Adu",
+      "anv": "Adu",
+      "join": "",
+      "role": "Music By",
+      "tracks": "",
+      "id": 482893,
+      "resource_url": "https://api.discogs.com/artists/482893"
+    },
+    {
+      "name": "Stuart Matthewman",
+      "anv": "Matthewman",
+      "join": "",
+      "role": "Music By",
+      "tracks": "A1 to A5, B2, B3, B5",
+      "id": 9049,
+      "resource_url": "https://api.discogs.com/artists/9049"
+    },
+    {
+      "name": "Levon Parian",
+      "anv": "",
+      "join": "",
+      "role": "Photography By [Cover]",
+      "tracks": "",
+      "id": 2263989,
+      "resource_url": "https://api.discogs.com/artists/2263989"
+    },
+    {
+      "name": "Sade",
+      "anv": "",
+      "join": "",
+      "role": "Producer, Arranged By",
+      "tracks": "",
+      "id": 19731,
+      "resource_url": "https://api.discogs.com/artists/19731"
+    },
+    {
+      "name": "Jake Jacas",
+      "anv": "",
+      "join": "",
+      "role": "Trombone",
+      "tracks": "",
+      "id": 237553,
+      "resource_url": "https://api.discogs.com/artists/237553"
+    },
+    {
+      "name": "James McMillan",
+      "anv": "",
+      "join": "",
+      "role": "Trumpet",
+      "tracks": "",
+      "id": 13964,
+      "resource_url": "https://api.discogs.com/artists/13964"
+    },
+    {
+      "name": "Gavyn Wright",
+      "anv": "Gavin Wright",
+      "join": "",
+      "role": "Violin [Solo]",
+      "tracks": "A4",
+      "id": 274523,
+      "resource_url": "https://api.discogs.com/artists/274523"
+    },
+    {
+      "name": "Leroy Osbourne",
+      "anv": "",
+      "join": "",
+      "role": "Vocals",
+      "tracks": "",
+      "id": 212236,
+      "resource_url": "https://api.discogs.com/artists/212236"
+    },
+    {
+      "name": "Sade Adu",
+      "anv": "",
+      "join": "",
+      "role": "Vocals",
+      "tracks": "",
+      "id": 482893,
+      "resource_url": "https://api.discogs.com/artists/482893"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/RODIoc-YKgLB-CGFnAmnS11jDa_m9QuU8pfx9i3ms6Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDE5/Mzg2LTE3NDM3NTY1/NDYtMTk2MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/RODIoc-YKgLB-CGFnAmnS11jDa_m9QuU8pfx9i3ms6Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDE5/Mzg2LTE3NDM3NTY1/NDYtMTk2MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/0BdLt74yP2sUaeOC_I6NlkP6YhA_TBKTl6EKzc5GtH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDE5/Mzg2LTE3NDM3NTY1/NDYtMTk2MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/_tDHV8GDrXg1QWTWZ8OVrYdFqEUhIWXzOOUj3TOzSFY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDE5/Mzg2LTE3MTg5OTIy/MTUtMTU4Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/_tDHV8GDrXg1QWTWZ8OVrYdFqEUhIWXzOOUj3TOzSFY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDE5/Mzg2LTE3MTg5OTIy/MTUtMTU4Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/1sE-oGYE3_r_PFXw4kB1eYxfLKAFZCgiCACuGL_sWFA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDE5/Mzg2LTE3MTg5OTIy/MTUtMTU4Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/CZP7_3Sv2s_Tw1vIdmXbGYKZMrUx14nr-GFFK2EBp_Y/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDE5/Mzg2LTE3MTg5OTIy/MTYtODMyMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/CZP7_3Sv2s_Tw1vIdmXbGYKZMrUx14nr-GFFK2EBp_Y/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDE5/Mzg2LTE3MTg5OTIy/MTYtODMyMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/TlcVHjs2Lwqe1Q8ScXvnvhUzpxqlPAbvMfMwd6LL2bY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDE5/Mzg2LTE3MTg5OTIy/MTYtODMyMC5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/XAcCd05RlePmHEgohxPinE7N7k0tjpxcxYr7bbARAvQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDE5/Mzg2LTE3MjYyNzYx/OTUtNDU4OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/XAcCd05RlePmHEgohxPinE7N7k0tjpxcxYr7bbARAvQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDE5/Mzg2LTE3MjYyNzYx/OTUtNDU4OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/kIbpMPmSfrA2IiMFVZFULC6Mg7fPDm5FIUG2E7wHWOg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDE5/Mzg2LTE3MjYyNzYx/OTUtNDU4OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/BqVRipNaE-eG5oMGMOJ0-2-bZxDyJyQTDpv8lxMvuW0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDE5/Mzg2LTE3MjYyNzYy/MDItMzIwNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/BqVRipNaE-eG5oMGMOJ0-2-bZxDyJyQTDpv8lxMvuW0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDE5/Mzg2LTE3MjYyNzYy/MDItMzIwNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/cTDVFD6nqM7f7fZaluis4WhTWuaz8T7AjAJUIdbZqGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDE5/Mzg2LTE3MjYyNzYy/MDItMzIwNi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/0BdLt74yP2sUaeOC_I6NlkP6YhA_TBKTl6EKzc5GtH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDE5/Mzg2LTE3NDM3NTY1/NDYtMTk2MC5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

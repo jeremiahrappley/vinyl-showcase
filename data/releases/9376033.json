@@ -1,0 +1,1062 @@
+{
+  "id": 9376033,
+  "status": "Accepted",
+  "year": 2016,
+  "resource_url": "https://api.discogs.com/releases/9376033",
+  "uri": "https://www.discogs.com/release/9376033-Stevie-Nicks-Bella-Donna",
+  "artists": [
+    {
+      "name": "Stevie Nicks",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 13735,
+      "resource_url": "https://api.discogs.com/artists/13735",
+      "thumbnail_url": "https://i.discogs.com/G_EFCaEXgu4208Gi-LZdqVaUfPOKNN9mfsbvl14TN1w/rs:fit/g:sm/q:90/h:600/w:473/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzNzM1/LTE0MjcxNTc2Mjgt/NDkxNy5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "Stevie Nicks",
+  "labels": [
+    {
+      "name": "Modern Records",
+      "catno": "081227943653",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 40865,
+      "resource_url": "https://api.discogs.com/labels/40865",
+      "thumbnail_url": "https://i.discogs.com/trZgycuTmi5LFpxE7isQvbEU6kb1Lq_S6wjggAj3Rbk/rs:fit/g:sm/q:90/h:116/w:266/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQwODY1/LTEyNzcwNzU3MjAu/anBlZw.jpeg"
+    },
+    {
+      "name": "ATCO Records",
+      "catno": "081227943653",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 3820,
+      "resource_url": "https://api.discogs.com/labels/3820",
+      "thumbnail_url": "https://i.discogs.com/XdJCX-gQqJ_8GnOftWjhnOohybo2J6PnHjNzJ7Msmqs/rs:fit/g:sm/q:90/h:600/w:406/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MjAt/MTY4OTM1Njg5My04/NTA0LmpwZWc.jpeg"
+    },
+    {
+      "name": "Modern Records",
+      "catno": "R1 38139",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 40865,
+      "resource_url": "https://api.discogs.com/labels/40865",
+      "thumbnail_url": "https://i.discogs.com/trZgycuTmi5LFpxE7isQvbEU6kb1Lq_S6wjggAj3Rbk/rs:fit/g:sm/q:90/h:116/w:266/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQwODY1/LTEyNzcwNzU3MjAu/anBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Modern Records, Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 290826,
+      "resource_url": "https://api.discogs.com/labels/290826"
+    },
+    {
+      "name": "Modern Records, Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 290826,
+      "resource_url": "https://api.discogs.com/labels/290826"
+    },
+    {
+      "name": "Rhino Entertainment Company",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 53821,
+      "resource_url": "https://api.discogs.com/labels/53821",
+      "thumbnail_url": "https://i.discogs.com/1pQN0dn7xS3D14bQ9g270ruksU4q7GEMYR8PJN3HYZQ/rs:fit/g:sm/q:90/h:204/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUzODIx/LTE2MDM1NzU5MDAt/Mjc3NC5qcGVn.jpeg"
+    },
+    {
+      "name": "Rhino Entertainment Company",
+      "catno": "",
+      "entity_type": "8",
+      "entity_type_name": "Marketed By",
+      "id": 53821,
+      "resource_url": "https://api.discogs.com/labels/53821",
+      "thumbnail_url": "https://i.discogs.com/1pQN0dn7xS3D14bQ9g270ruksU4q7GEMYR8PJN3HYZQ/rs:fit/g:sm/q:90/h:204/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUzODIx/LTE2MDM1NzU5MDAt/Mjc3NC5qcGVn.jpeg"
+    },
+    {
+      "name": "Welsh Witch Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 290825,
+      "resource_url": "https://api.discogs.com/labels/290825",
+      "thumbnail_url": "https://i.discogs.com/-JnmrUJBB4A0Mt9TK2ekkEXHpmXe6W99xuYjRmI2E0c/rs:fit/g:sm/q:90/h:85/w:162/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDgy/NS0xNjU5MzkzMTY4/LTY3NjYuanBlZw.jpeg"
+    },
+    {
+      "name": "Eighty Eight Music Pub Co",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 849940,
+      "resource_url": "https://api.discogs.com/labels/849940"
+    },
+    {
+      "name": "Rapt Knuckles Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 393217,
+      "resource_url": "https://api.discogs.com/labels/393217"
+    },
+    {
+      "name": "Gone Gator Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 300276,
+      "resource_url": "https://api.discogs.com/labels/300276",
+      "thumbnail_url": "https://i.discogs.com/MG4-dgLPxeicNgiMnk6vMte3ph8CzpEU6Ks-K_EV65g/rs:fit/g:sm/q:90/h:287/w:411/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwMDI3/Ni0xNzY3MzIxMjAz/LTY4NTMuanBlZw.jpeg"
+    },
+    {
+      "name": "Wild Gator Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 330158,
+      "resource_url": "https://api.discogs.com/labels/330158"
+    },
+    {
+      "name": "Studio 55, Los Angeles",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 388181,
+      "resource_url": "https://api.discogs.com/labels/388181",
+      "thumbnail_url": "https://i.discogs.com/g7HSXt8t9WBNtBN_hXiF1_7lc19BGJP21myLELusoDs/rs:fit/g:sm/q:90/h:94/w:289/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4ODE4/MS0xNTg0OTU2ODc4/LTM4OTIuanBlZw.jpeg"
+    },
+    {
+      "name": "Goodnight LA Studios",
+      "catno": "",
+      "entity_type": "25",
+      "entity_type_name": "Overdubbed At",
+      "id": 307761,
+      "resource_url": "https://api.discogs.com/labels/307761"
+    },
+    {
+      "name": "Record One, Los Angeles",
+      "catno": "",
+      "entity_type": "25",
+      "entity_type_name": "Overdubbed At",
+      "id": 282279,
+      "resource_url": "https://api.discogs.com/labels/282279",
+      "thumbnail_url": "https://i.discogs.com/-HiwW0mNQeXuSYng8PNM4Pf-ep-w7-v1D0BB27RPFEs/rs:fit/g:sm/q:90/h:272/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4MjI3/OS0xNDkyNzY3MTE0/LTcyMTcuanBlZw.jpeg"
+    },
+    {
+      "name": "Rumbo Recorders",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 266083,
+      "resource_url": "https://api.discogs.com/labels/266083",
+      "thumbnail_url": "https://i.discogs.com/v9-oa8tGmC2ZNRziWHV4Baam-hYMtdkDkVc_PNHULR0/rs:fit/g:sm/q:90/h:109/w:278/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NjA4/My0xMzY2MzE0MDQz/LTU0ODMuZ2lm.jpeg"
+    },
+    {
+      "name": "Goodnight LA Studios",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 307761,
+      "resource_url": "https://api.discogs.com/labels/307761"
+    },
+    {
+      "name": "Precision Lacquer",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 267122,
+      "resource_url": "https://api.discogs.com/labels/267122",
+      "thumbnail_url": "https://i.discogs.com/PCxF_wggrAmIhzFGCgtJs_bZYl3NZUtSe12QW3hwGY4/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NzEy/Mi0xMzM1MzQxODI2/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Bernie Grundman Mastering",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 263896,
+      "resource_url": "https://api.discogs.com/labels/263896",
+      "thumbnail_url": "https://i.discogs.com/nsGBKV1E7CmO2wHP4oMbHuOfMxw-5FIZjetOKyez7GU/rs:fit/g:sm/q:90/h:182/w:383/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2Mzg5/Ni0xMzE1MzQ3NDEy/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Optimal Media GmbH",
+      "catno": "BG40293",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 313190,
+      "resource_url": "https://api.discogs.com/labels/313190",
+      "thumbnail_url": "https://i.discogs.com/VHruzHmKvGgDvoWX6iI_4n5eC7mKyVei1mNz573rJtk/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxMzE5/MC0xNTE2MzgxNjk2/LTIzMTgucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue",
+        "Remastered"
+      ],
+      "text": "180g"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 2555,
+    "want": 261,
+    "rating": {
+      "count": 171,
+      "average": 4.53
+    },
+    "submitter": {
+      "username": "fr.grieco55",
+      "resource_url": "https://api.discogs.com/users/fr.grieco55"
+    },
+    "contributors": [
+      {
+        "username": "fr.grieco55",
+        "resource_url": "https://api.discogs.com/users/fr.grieco55"
+      },
+      {
+        "username": "PW13",
+        "resource_url": "https://api.discogs.com/users/PW13"
+      },
+      {
+        "username": "gubarenko",
+        "resource_url": "https://api.discogs.com/users/gubarenko"
+      },
+      {
+        "username": "Gilmore6080",
+        "resource_url": "https://api.discogs.com/users/Gilmore6080"
+      },
+      {
+        "username": "purzelbier",
+        "resource_url": "https://api.discogs.com/users/purzelbier"
+      },
+      {
+        "username": "F104G",
+        "resource_url": "https://api.discogs.com/users/F104G"
+      },
+      {
+        "username": "Same.Old.Me",
+        "resource_url": "https://api.discogs.com/users/Same.Old.Me"
+      },
+      {
+        "username": "data_boy",
+        "resource_url": "https://api.discogs.com/users/data_boy"
+      },
+      {
+        "username": "Guill-Wey-Collection",
+        "resource_url": "https://api.discogs.com/users/Guill-Wey-Collection"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2016-11-18T09:33:02-08:00",
+  "date_changed": "2024-07-23T10:41:42-07:00",
+  "num_for_sale": 62,
+  "lowest_price": 9.99,
+  "master_id": 86977,
+  "master_url": "https://api.discogs.com/masters/86977",
+  "title": "Bella Donna",
+  "country": "Europe",
+  "released": "2016-11-04",
+  "notes": "Has a sticker: \"1981 MULTI-PLATINUM ALBUM - REMASTERED ON 180 GRAM VINYL - Featuring EDGE OF SEVENTEEN - STOP DRAGGIN' MY HEART AROUND with Tom Petty & The Heartbreakers - LEATHER AND LACE with Don Henley - 0812279433653\"\n\nManufactured in E.U.",
+  "released_formatted": "04 Nov 2016",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "081227943653"
+    },
+    {
+      "type": "Label Code",
+      "value": "LC 02982"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "081227943653 BG40293-01 A1 R1-38139A BG",
+      "description": "A Side Runout Etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "081227943653 BG40293-01 B1 R1-38139B BG",
+      "description": "B Side Runout Etched"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=Ob4cgakHwsQ",
+      "title": "Stevie Nicks & Don Henley - Leather And Lace (Official Audio)",
+      "description": "Official audio for Stevie Nicks & Don Henley - \"Leather And Lace\" from the album ‘Bella Donna' (1981). ‘Stand Back: 1981-2017’, Stevie Nicks’ career-spanning collection is available now. Featuring studio hits, live performances and celebrated coll",
+      "duration": 226,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=H5i7j0VhEHw",
+      "title": "Stevie Nicks - Stop Draggin' My Heart Around (Official Music Video)",
+      "description": "Official music video for Stevie Nicks - \"Stop Draggin' My Heart Around\" feat. Tom Petty & The Heartbreakers from the album ‘Bella Donna' (1981). ‘Stand Back: 1981-2017’, Stevie Nicks’ career-spanning collection is available now - find your copy he",
+      "duration": 240,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=TkLrGlhshMw",
+      "title": "Bella Donna (2016 Remaster)",
+      "description": "Provided to YouTube by Rhino Atlantic\n\nBella Donna (2016 Remaster) · Stevie Nicks\n\nBella Donna\n\n℗ 1981 Modern Records Inc. 2016 Remastered Rhino Entertainment Company.\n\nDirector, Organ: Benmont Tench\nPiano: Bill Elliott\nBass  Guitar: Bob Glaub\nPercussi",
+      "duration": 323,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Pxsrv6LeutQ",
+      "title": "Kind of Woman (2016 Remaster)",
+      "description": "Provided to YouTube by Rhino Atlantic\n\nKind of Woman (2016 Remaster) · Stevie Nicks\n\nBella Donna\n\n℗ 1981 Modern Records Inc. 2016 Remastered Rhino Entertainment Company.\n\nDirector, Organ: Benmont Tench\nBass  Guitar: Bob Glaub\nPercussion: Bobbye Hall\nAc",
+      "duration": 193,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=2-6l3JP9mEg",
+      "title": "Think About It (2016 Remaster)",
+      "description": "Provided to YouTube by Rhino Atlantic\n\nThink About It (2016 Remaster) · Stevie Nicks\n\nBella Donna\n\n℗ 1981 Modern Records Inc. 2016 Remastered Rhino Entertainment Company.\n\nDirector, Organ: Benmont Tench\nPiano: Billy Payne\nBass  Guitar: Bob Glaub\nPercus",
+      "duration": 217,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=dQJymCCKJrU",
+      "title": "How Still My Love (2016 Remaster)",
+      "description": "Provided to YouTube by Rhino Atlantic\n\nHow Still My Love (2016 Remaster) · Stevie Nicks\n\nBella Donna\n\n℗ 1981 Modern Records Inc. 2016 Remastered Rhino Entertainment Company.\n\nDirector, Organ: Benmont Tench\nBass  Guitar: Bob Glaub\nPercussion: Bobbye Hal",
+      "duration": 236,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=NHS8YzXYkCc",
+      "title": "Outside the Rain (2016 Remaster)",
+      "description": "Provided to YouTube by Rhino Atlantic\n\nOutside the Rain (2016 Remaster) · Stevie Nicks\n\nBella Donna\n\n℗ 1981 Modern Records Inc. 2016 Remastered Rhino Entertainment Company.\n\nDirector, Organ, Piano: Benmont Tench\nMixer: Don Smith\nCo-ordinator  Productio",
+      "duration": 260,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=-jAsyVhAAks",
+      "title": "The Highwayman (2016 Remaster)",
+      "description": "Provided to YouTube by Rhino Atlantic\n\nThe Highwayman (2016 Remaster) · Stevie Nicks\n\nBella Donna\n\n℗ 1981 Modern Records Inc. 2016 Remastered Rhino Entertainment Company.\n\nDirector: Benmont Tench\nAcoustic  Guitar: Davey Johnstone\nGuitar: Don Felder\nBac",
+      "duration": 291,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Rock"
+  ],
+  "styles": [
+    "Pop Rock"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Bella Donna",
+      "extraartists": [
+        {
+          "name": "Gordon Perry",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 304145,
+          "resource_url": "https://api.discogs.com/artists/304145"
+        },
+        {
+          "name": "Bill Elliott",
+          "anv": "",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 271980,
+          "resource_url": "https://api.discogs.com/artists/271980"
+        },
+        {
+          "name": "David Adelstein",
+          "anv": "",
+          "join": "",
+          "role": "Synthesizer",
+          "tracks": "",
+          "id": 408480,
+          "resource_url": "https://api.discogs.com/artists/408480"
+        },
+        {
+          "name": "Stevie Nicks",
+          "anv": "S. Nicks",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 13735,
+          "resource_url": "https://api.discogs.com/artists/13735"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Kind Of Woman",
+      "extraartists": [
+        {
+          "name": "Benmont Tench",
+          "anv": "",
+          "join": "",
+          "role": "Music By",
+          "tracks": "",
+          "id": 259392,
+          "resource_url": "https://api.discogs.com/artists/259392"
+        },
+        {
+          "name": "Stevie Nicks",
+          "anv": "S. Nicks",
+          "join": "",
+          "role": "Words By, Music By",
+          "tracks": "",
+          "id": 13735,
+          "resource_url": "https://api.discogs.com/artists/13735"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Stop Draggin' My Heart Around",
+      "extraartists": [
+        {
+          "name": "Donald \"Duck\" Dunn",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 298089,
+          "resource_url": "https://api.discogs.com/artists/298089"
+        },
+        {
+          "name": "Stan Lynch",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 292784,
+          "resource_url": "https://api.discogs.com/artists/292784"
+        },
+        {
+          "name": "Phil Jones (3)",
+          "anv": "",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 283917,
+          "resource_url": "https://api.discogs.com/artists/283917"
+        },
+        {
+          "name": "Tom Petty",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 260575,
+          "resource_url": "https://api.discogs.com/artists/260575"
+        },
+        {
+          "name": "Tom Petty",
+          "anv": "",
+          "join": "",
+          "role": "Vocals, Guitar",
+          "tracks": "",
+          "id": 260575,
+          "resource_url": "https://api.discogs.com/artists/260575"
+        },
+        {
+          "name": "Mike Campbell",
+          "anv": "M. Campbell",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 173104,
+          "resource_url": "https://api.discogs.com/artists/173104"
+        },
+        {
+          "name": "Tom Petty",
+          "anv": "T. Petty",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 260575,
+          "resource_url": "https://api.discogs.com/artists/260575"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Think About It",
+      "extraartists": [
+        {
+          "name": "Roy Bittan",
+          "anv": "",
+          "join": "",
+          "role": "Music By",
+          "tracks": "",
+          "id": 254878,
+          "resource_url": "https://api.discogs.com/artists/254878"
+        },
+        {
+          "name": "Bill Payne",
+          "anv": "Billy Payne",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 264645,
+          "resource_url": "https://api.discogs.com/artists/264645"
+        },
+        {
+          "name": "Stevie Nicks",
+          "anv": "S. Nicks",
+          "join": "",
+          "role": "Words By, Music By",
+          "tracks": "",
+          "id": 13735,
+          "resource_url": "https://api.discogs.com/artists/13735"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "After The Glitter Fades",
+      "extraartists": [
+        {
+          "name": "Stevie Nicks",
+          "anv": "S. Nicks",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 13735,
+          "resource_url": "https://api.discogs.com/artists/13735"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Edge Of Seventeen",
+      "extraartists": [
+        {
+          "name": "Lori Perry",
+          "anv": "",
+          "join": "",
+          "role": "Other [Inspired By]",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        },
+        {
+          "name": "Stevie Nicks",
+          "anv": "S. Nicks",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 13735,
+          "resource_url": "https://api.discogs.com/artists/13735"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "How Still My Love",
+      "extraartists": [
+        {
+          "name": "Roy Bittan",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 254878,
+          "resource_url": "https://api.discogs.com/artists/254878"
+        },
+        {
+          "name": "Stevie Nicks",
+          "anv": "S. Nicks",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 13735,
+          "resource_url": "https://api.discogs.com/artists/13735"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Leather And Lace",
+      "extraartists": [
+        {
+          "name": "Don Henley",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 249597,
+          "resource_url": "https://api.discogs.com/artists/249597"
+        },
+        {
+          "name": "Stevie Nicks",
+          "anv": "S. Nicks",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 13735,
+          "resource_url": "https://api.discogs.com/artists/13735"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Outside The Rain",
+      "extraartists": [
+        {
+          "name": "Tom Moncrieff",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 408482,
+          "resource_url": "https://api.discogs.com/artists/408482"
+        },
+        {
+          "name": "Stan Lynch",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 292784,
+          "resource_url": "https://api.discogs.com/artists/292784"
+        },
+        {
+          "name": "Phil Jones (3)",
+          "anv": "",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 283917,
+          "resource_url": "https://api.discogs.com/artists/283917"
+        },
+        {
+          "name": "Tom Petty",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 260575,
+          "resource_url": "https://api.discogs.com/artists/260575"
+        },
+        {
+          "name": "Stevie Nicks",
+          "anv": "S. Nicks",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 13735,
+          "resource_url": "https://api.discogs.com/artists/13735"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "The Highwayman",
+      "extraartists": [
+        {
+          "name": "Richard Bowden",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 408484,
+          "resource_url": "https://api.discogs.com/artists/408484"
+        },
+        {
+          "name": "Don Henley",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Backing Vocals",
+          "tracks": "",
+          "id": 249597,
+          "resource_url": "https://api.discogs.com/artists/249597"
+        },
+        {
+          "name": "Don Felder",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 311300,
+          "resource_url": "https://api.discogs.com/artists/311300"
+        },
+        {
+          "name": "Stevie Nicks",
+          "anv": "S. Nicks",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 13735,
+          "resource_url": "https://api.discogs.com/artists/13735"
+        }
+      ],
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Davey Johnstone",
+      "anv": "",
+      "join": "",
+      "role": "Acoustic Guitar",
+      "tracks": "A1, A2, A4, A5, B2, B5",
+      "id": 344807,
+      "resource_url": "https://api.discogs.com/artists/344807"
+    },
+    {
+      "name": "Herbert Wheeler Worthington III",
+      "anv": "",
+      "join": "",
+      "role": "Art Direction, Design, Photography By, Cover [Cover Concept]",
+      "tracks": "",
+      "id": 2023937,
+      "resource_url": "https://api.discogs.com/artists/2023937"
+    },
+    {
+      "name": "Bob Glaub",
+      "anv": "",
+      "join": "",
+      "role": "Bass",
+      "tracks": "A1, A2, A4 to B2",
+      "id": 260499,
+      "resource_url": "https://api.discogs.com/artists/260499"
+    },
+    {
+      "name": "Janet Weber",
+      "anv": "",
+      "join": "",
+      "role": "Coordinator [Production Coordinator]",
+      "tracks": "",
+      "id": 2023936,
+      "resource_url": "https://api.discogs.com/artists/2023936"
+    },
+    {
+      "name": "Christopher Nicks",
+      "anv": "",
+      "join": "",
+      "role": "Cover [Cover Concept]",
+      "tracks": "",
+      "id": 1463676,
+      "resource_url": "https://api.discogs.com/artists/1463676"
+    },
+    {
+      "name": "Michael Manoogian",
+      "anv": "Mike Manoogian",
+      "join": "",
+      "role": "Design [Logo]",
+      "tracks": "",
+      "id": 1211702,
+      "resource_url": "https://api.discogs.com/artists/1211702"
+    },
+    {
+      "name": "Michael Curtis (3)",
+      "anv": "M. Curtis",
+      "join": "",
+      "role": "Design, Layout",
+      "tracks": "",
+      "id": 2023935,
+      "resource_url": "https://api.discogs.com/artists/2023935"
+    },
+    {
+      "name": "Russ Kunkel",
+      "anv": "",
+      "join": "",
+      "role": "Drums",
+      "tracks": "A1, A2, A4 to B3",
+      "id": 274132,
+      "resource_url": "https://api.discogs.com/artists/274132"
+    },
+    {
+      "name": "Dana Latham",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant]",
+      "tracks": "",
+      "id": 913392,
+      "resource_url": "https://api.discogs.com/artists/913392"
+    },
+    {
+      "name": "James A. Ball",
+      "anv": "James Ball",
+      "join": "",
+      "role": "Engineer [Assistant]",
+      "tracks": "",
+      "id": 444642,
+      "resource_url": "https://api.discogs.com/artists/444642"
+    },
+    {
+      "name": "Niko Bolas",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant]",
+      "tracks": "",
+      "id": 177374,
+      "resource_url": "https://api.discogs.com/artists/177374"
+    },
+    {
+      "name": "Tori Swenson",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant]",
+      "tracks": "",
+      "id": 401656,
+      "resource_url": "https://api.discogs.com/artists/401656"
+    },
+    {
+      "name": "Shelly Yakus",
+      "anv": "",
+      "join": "",
+      "role": "Engineer, Mixed By",
+      "tracks": "",
+      "id": 255464,
+      "resource_url": "https://api.discogs.com/artists/255464"
+    },
+    {
+      "name": "Mike Campbell",
+      "anv": "Michael Campbell",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "A3, B4, B5",
+      "id": 173104,
+      "resource_url": "https://api.discogs.com/artists/173104"
+    },
+    {
+      "name": "Waddy Wachtel",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "A1, A2, A4 to B3",
+      "id": 258154,
+      "resource_url": "https://api.discogs.com/artists/258154"
+    },
+    {
+      "name": "Bernie Grundman",
+      "anv": "BG",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 307942,
+      "resource_url": "https://api.discogs.com/artists/307942"
+    },
+    {
+      "name": "Stevie Nicks",
+      "anv": "",
+      "join": "",
+      "role": "Lead Vocals, Cover [Cover Concept]",
+      "tracks": "",
+      "id": 13735,
+      "resource_url": "https://api.discogs.com/artists/13735"
+    },
+    {
+      "name": "Front Line Management",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 1911177,
+      "resource_url": "https://api.discogs.com/artists/1911177"
+    },
+    {
+      "name": "Irving Azoff",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 725502,
+      "resource_url": "https://api.discogs.com/artists/725502"
+    },
+    {
+      "name": "Stephen Marcussen",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 254942,
+      "resource_url": "https://api.discogs.com/artists/254942"
+    },
+    {
+      "name": "Don Smith",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By, Engineer [Additional]",
+      "tracks": "",
+      "id": 221360,
+      "resource_url": "https://api.discogs.com/artists/221360"
+    },
+    {
+      "name": "Benmont Tench",
+      "anv": "",
+      "join": "",
+      "role": "Music Director [Musical Director]",
+      "tracks": "",
+      "id": 259392,
+      "resource_url": "https://api.discogs.com/artists/259392"
+    },
+    {
+      "name": "Benmont Tench",
+      "anv": "",
+      "join": "",
+      "role": "Organ",
+      "tracks": "A1 to B2, B4",
+      "id": 259392,
+      "resource_url": "https://api.discogs.com/artists/259392"
+    },
+    {
+      "name": "Bobbye Hall",
+      "anv": "",
+      "join": "",
+      "role": "Percussion",
+      "tracks": "A1, A2, A4 to B2",
+      "id": 259384,
+      "resource_url": "https://api.discogs.com/artists/259384"
+    },
+    {
+      "name": "Roy Bittan",
+      "anv": "",
+      "join": "",
+      "role": "Piano",
+      "tracks": "A2, A5 to B3",
+      "id": 254878,
+      "resource_url": "https://api.discogs.com/artists/254878"
+    },
+    {
+      "name": "Jimmy Iovine",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 170807,
+      "resource_url": "https://api.discogs.com/artists/170807"
+    },
+    {
+      "name": "Lori Perry (2)",
+      "anv": "",
+      "join": "",
+      "role": "Vocals [Ladies Vocals]",
+      "tracks": "",
+      "id": 766792,
+      "resource_url": "https://api.discogs.com/artists/766792"
+    },
+    {
+      "name": "Sharon Celani",
+      "anv": "",
+      "join": "",
+      "role": "Vocals [Ladies Vocals]",
+      "tracks": "",
+      "id": 306921,
+      "resource_url": "https://api.discogs.com/artists/306921"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/lltwrpJVcEHVBaF_vHKuVvlmmDm8ZaPkCvOcS9TVndU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTQ3OTU1ODM0/My03ODc3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/lltwrpJVcEHVBaF_vHKuVvlmmDm8ZaPkCvOcS9TVndU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTQ3OTU1ODM0/My03ODc3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/H1Lu6TlG8kcL4vt2EGce-n1PmaOMTvz-v49jiBkuVhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTQ3OTU1ODM0/My03ODc3LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/dsRmvKjmg23ZryNT_CsoUoYM4A8Lt-zQLX0AvC9S2sk/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTU4NjczODM0/OC05Njk3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/dsRmvKjmg23ZryNT_CsoUoYM4A8Lt-zQLX0AvC9S2sk/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTU4NjczODM0/OC05Njk3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/vQ2MFHWly0tkE6NJQOokAa0AxawQXG4m4f6f9X-zM4o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTU4NjczODM0/OC05Njk3LmpwZWc.jpeg",
+      "width": 600,
+      "height": 584
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/qZocvouspRHCRYUeS8ST27Pwnc_8_KQprXhSKrvA_cg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTQ3OTU1ODM1/MS01MzkwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/qZocvouspRHCRYUeS8ST27Pwnc_8_KQprXhSKrvA_cg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTQ3OTU1ODM1/MS01MzkwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/mMc079U7W_FBTuerCJLmzyQCvLik36qRYZVD5YmNj9w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTQ3OTU1ODM1/MS01MzkwLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/UBOiktGWzpVYTHMrRLdBzJPvYn7YhhfxifNhmmfYMWs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTQ3OTY2MTA3/OC0xNTEyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/UBOiktGWzpVYTHMrRLdBzJPvYn7YhhfxifNhmmfYMWs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTQ3OTY2MTA3/OC0xNTEyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/UdO-ZfhJBj-qPQ00Laf4ppGj6IfpgHeZccpGKMBMrQw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTQ3OTY2MTA3/OC0xNTEyLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/jfmr7rwyGRlXxg-Wd7KxwJJ4ioJIWwlE1iNVJHcdwCU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTQ3OTY2MTA4/Ni01OTAzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/jfmr7rwyGRlXxg-Wd7KxwJJ4ioJIWwlE1iNVJHcdwCU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTQ3OTY2MTA4/Ni01OTAzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/T8aIcPzF5P8MJIqqOfxrgxAO06zciopePutJJQwMiwg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTQ3OTY2MTA4/Ni01OTAzLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ZBEDCuwoqIEWf3BQMHVKbUAiVxzri4zEGopZg_1Ht1w/rs:fit/g:sm/q:90/h:387/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTQ3OTY2MTA5/OC01MTU1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/ZBEDCuwoqIEWf3BQMHVKbUAiVxzri4zEGopZg_1Ht1w/rs:fit/g:sm/q:90/h:387/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTQ3OTY2MTA5/OC01MTU1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/3bxnDrmYRIWUmuWjepx6UIS-UtLlqKvG7F89uQdgKcM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTQ3OTY2MTA5/OC01MTU1LmpwZWc.jpeg",
+      "width": 600,
+      "height": 387
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/y_mlhfVH7zLvxqPJFijI-BYwf2pRwVXwAfmpynqFRqc/rs:fit/g:sm/q:90/h:283/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTU4NjczODI5/Ni0yMTE0LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/y_mlhfVH7zLvxqPJFijI-BYwf2pRwVXwAfmpynqFRqc/rs:fit/g:sm/q:90/h:283/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTU4NjczODI5/Ni0yMTE0LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/BD7813ESaVbJV3f4_H8XI0SYXnK34f93qoNb0r1Mlx4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTU4NjczODI5/Ni0yMTE0LmpwZWc.jpeg",
+      "width": 600,
+      "height": 283
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/cEod0Re2WK_qubqRJv5ap2Ble70ZkAj2y_18BrLF8u4/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTU4NjczODMx/OC00OTc1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/cEod0Re2WK_qubqRJv5ap2Ble70ZkAj2y_18BrLF8u4/rs:fit/g:sm/q:90/h:572/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTU4NjczODMx/OC00OTc1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/TxeFHRCl0ji3F-YCWszcKDyLs8_m5B2JJXwi7bGNz50/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTU4NjczODMx/OC00OTc1LmpwZWc.jpeg",
+      "width": 600,
+      "height": 572
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/3htUIJmlVAlmorMmVQJPGv52BYFEryCwkmmGJNQOB0o/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTU4NjczODMy/Ny05MDQzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/3htUIJmlVAlmorMmVQJPGv52BYFEryCwkmmGJNQOB0o/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTU4NjczODMy/Ny05MDQzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/GDbIj9gq_p6BFkhgjH68j8thUjOKoIk_eXhVPUKaQbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTU4NjczODMy/Ny05MDQzLmpwZWc.jpeg",
+      "width": 585,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/H1Lu6TlG8kcL4vt2EGce-n1PmaOMTvz-v49jiBkuVhg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNzYw/MzMtMTQ3OTU1ODM0/My03ODc3LmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

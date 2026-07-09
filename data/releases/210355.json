@@ -1,0 +1,522 @@
+{
+  "id": 210355,
+  "status": "Accepted",
+  "year": 1993,
+  "resource_url": "https://api.discogs.com/releases/210355",
+  "uri": "https://www.discogs.com/release/210355-RuPaul-Supermodel-Remixes",
+  "artists": [
+    {
+      "name": "RuPaul",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 24188,
+      "resource_url": "https://api.discogs.com/artists/24188",
+      "thumbnail_url": "https://i.discogs.com/o7BYT4SSIdCY78jdBpi_RDh5W_J5kICSbsPWs8EPYEk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI0MTg4/LTE1NDgxODE2MjUt/MTczOC5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "RuPaul",
+  "labels": [
+    {
+      "name": "Tommy Boy",
+      "catno": "TB 560",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 26011,
+      "resource_url": "https://api.discogs.com/labels/26011",
+      "thumbnail_url": "https://i.discogs.com/tF70WtpYNAjxBywWbB0nb4EWKDg5bq4rlESFA29P7oM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2MDEx/LTE0ODQ1NjE1OTUt/Mzg0MC5qcGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "T-Boy Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 316741,
+      "resource_url": "https://api.discogs.com/labels/316741"
+    },
+    {
+      "name": "Whorga Musica",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 297562,
+      "resource_url": "https://api.discogs.com/labels/297562"
+    },
+    {
+      "name": "3rd Floor Productions",
+      "catno": "",
+      "entity_type": "28",
+      "entity_type_name": "Remixed At",
+      "id": 608833,
+      "resource_url": "https://api.discogs.com/labels/608833"
+    },
+    {
+      "name": "Tommy Boy Music, Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 75020,
+      "resource_url": "https://api.discogs.com/labels/75020",
+      "thumbnail_url": "https://i.discogs.com/z8i7W_7lQE0ZQikJDCqIE8uPcSTghKPlCVIE101fLkw/rs:fit/g:sm/q:90/h:258/w:382/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MDIw/LTE1OTExMDQ0MzQt/OTQ5MS5qcGVn.jpeg"
+    },
+    {
+      "name": "Tommy Boy Music, Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 75020,
+      "resource_url": "https://api.discogs.com/labels/75020",
+      "thumbnail_url": "https://i.discogs.com/z8i7W_7lQE0ZQikJDCqIE8uPcSTghKPlCVIE101fLkw/rs:fit/g:sm/q:90/h:258/w:382/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MDIw/LTE1OTExMDQ0MzQt/OTQ5MS5qcGVn.jpeg"
+    },
+    {
+      "name": "Tommy Boy Music, Inc.",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 75020,
+      "resource_url": "https://api.discogs.com/labels/75020",
+      "thumbnail_url": "https://i.discogs.com/z8i7W_7lQE0ZQikJDCqIE8uPcSTghKPlCVIE101fLkw/rs:fit/g:sm/q:90/h:258/w:382/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MDIw/LTE1OTExMDQ0MzQt/OTQ5MS5qcGVn.jpeg"
+    },
+    {
+      "name": "Frankford/Wayne Mastering Labs",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 199325,
+      "resource_url": "https://api.discogs.com/labels/199325",
+      "thumbnail_url": "https://i.discogs.com/HDnR6W2DaHBbVKqQpAiIPrI9supkUsjLZSQtVQRnj2o/rs:fit/g:sm/q:90/h:242/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5OTMy/NS0xNDUyNTk3Nzcy/LTU1MjAuanBlZw.jpeg"
+    },
+    {
+      "name": "Specialty Records Corporation",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 27576,
+      "resource_url": "https://api.discogs.com/labels/27576",
+      "thumbnail_url": "https://i.discogs.com/IQROIH8NzDpc0CjYKMj534Emj2givhq6a7joL2TKf5I/rs:fit/g:sm/q:90/h:375/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3NTc2/LTEzMzk0OTkzMDUt/MTI0NS5qcGVn.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "12\"",
+        "33 ⅓ RPM",
+        "Promo"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 156,
+    "want": 125,
+    "rating": {
+      "count": 14,
+      "average": 4
+    },
+    "submitter": {
+      "username": "djpat",
+      "resource_url": "https://api.discogs.com/users/djpat"
+    },
+    "contributors": [
+      {
+        "username": "djpat",
+        "resource_url": "https://api.discogs.com/users/djpat"
+      },
+      {
+        "username": "ledjfab",
+        "resource_url": "https://api.discogs.com/users/ledjfab"
+      },
+      {
+        "username": "DJGreek",
+        "resource_url": "https://api.discogs.com/users/DJGreek"
+      },
+      {
+        "username": "SirTweak",
+        "resource_url": "https://api.discogs.com/users/SirTweak"
+      },
+      {
+        "username": "DiscogsUpdateBot",
+        "resource_url": "https://api.discogs.com/users/DiscogsUpdateBot"
+      },
+      {
+        "username": "trancer78",
+        "resource_url": "https://api.discogs.com/users/trancer78"
+      },
+      {
+        "username": "MaximusMCX",
+        "resource_url": "https://api.discogs.com/users/MaximusMCX"
+      },
+      {
+        "username": "Diognes_The_Fox",
+        "resource_url": "https://api.discogs.com/users/Diognes_The_Fox"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2003-12-01T00:10:38-08:00",
+  "date_changed": "2024-03-09T07:10:14-08:00",
+  "num_for_sale": 6,
+  "lowest_price": 6.8,
+  "master_id": 79888,
+  "master_url": "https://api.discogs.com/masters/79888",
+  "title": "Supermodel (Remixes)",
+  "country": "US",
+  "released": "1993",
+  "notes": "Promotional Copy - Not For Sale",
+  "released_formatted": "1993",
+  "identifiers": [
+    {
+      "type": "Pressing Plant ID",
+      "value": "SRC",
+      "description": "Stamped in runout areas"
+    },
+    {
+      "type": "Rights Society",
+      "value": "ASCAP"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "F/w MJS SRC TB 560-1 A 1-1",
+      "description": "A-Side Runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "F/w MJS SRC TB 560-1 B 1-1",
+      "description": "B-Side Runout"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=nsGZSa-WlKY",
+      "title": "Supermodel You Better Work, Rupaul, 1993",
+      "description": "",
+      "duration": 250,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=4nTl4Rmf6AI",
+      "title": "RuPaul - Supermodel (You Better Work) [Official Music Video]",
+      "description": "Download/Stream: https://tommyboyrecords.lnk.to/RuPaul_SupermodelWE\nMake this song your Ringtone: https://itunes.apple.com/us/album/supermodel-you-better-work/1625424565?app=itunes\n\n************************************ \n\nTommy Boy Records is a legendary H",
+      "duration": 249,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=rIzPFE-1c50",
+      "title": "RuPaul - Supermodel (You Better Work) (Official Music Video) [HD]",
+      "description": "Download/Stream: https://tommyboyrecords.lnk.to/RuPaul_SupermodelWE\n\n************************************ \n\nTommy Boy Records is a legendary Hip Hop & Electronic record label founded in New York City in 1981. The label is credited with launching the caree",
+      "duration": 249,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=_BpbjnxyWcc",
+      "title": "Rupaul Supermodel (You Better Work) [Extended RuMix]",
+      "description": "",
+      "duration": 380,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=4nTl4Rmf6AI",
+      "title": "RuPaul - Supermodel (You Better Work) [Official Music Video]",
+      "description": "Download/Stream: https://tommyboyrecords.lnk.to/RuPaul_SupermodelWE\nMake this song your Ringtone: https://itunes.apple.com/us/album/supermodel-you-better-work/1625424565?app=itunes\n\n************************************ \n\nTommy Boy Records is a legendary H",
+      "duration": 249,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=6u7z7mq6KQ4",
+      "title": "RuPaul - Supermodel (You Better Work) [Couture Mix]",
+      "description": "(c) Tommy Boy Records 1992",
+      "duration": 385,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=xX0XVqcVr7Y",
+      "title": "RuPaul - Work It Mr. DJ (You Better Work Tribal Mix) 1993",
+      "description": "\"Supermodel (You Better Work)\" is the title of a 1992 song by the dance music singer and drag queen RuPaul. It was the third single (but first major label single) from his album Supermodel of the World. The single was an unexpected success during an era w",
+      "duration": 281,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=4nTl4Rmf6AI",
+      "title": "RuPaul - Supermodel (You Better Work)",
+      "description": "Tommy Boy Entertainment is a legendary Hip Hop & Electronic record label founded in New York City in 1981. The label is credited with launching the careers of notable legends Afrika Bambaataa, Coolio, Queen Latifah, House of Pain, De La Soul, and Naughty ",
+      "duration": 249,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=u_KD5xw5NJg",
+      "title": "SuperModel f/Shirley Q. Liquor (El Lay Toya Jam)",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nSuperModel f/Shirley Q. Liquor (El Lay Toya Jam) · DJ BunJoe · RuPaul\n\nRuPaul. SuperModel (You Better Work) ReMixes\n\n℗ 2006 RuCo, Inc\n\nReleased on: 2006-05-26\n\nMusic Publisher: RuPaul Charles Music\nMusic",
+      "duration": 238,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=4nTl4Rmf6AI",
+      "title": "RuPaul - Supermodel (You Better Work) [Official Music Video]",
+      "description": "Download/Stream: https://tommyboyrecords.lnk.to/RuPaul_SupermodelWE\n\n************************************ \n\nTommy Boy Records is a legendary Hip Hop & Electronic record label founded in New York City in 1981. The label is credited with launching the caree",
+      "duration": 249,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=_BpbjnxyWcc",
+      "title": "Rupaul Supermodel (You Better Work) [Extended RuMix]",
+      "description": "",
+      "duration": 380,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5DAbaAEU9_w",
+      "title": "SuperModel (Funky Junction Remix)",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nSuperModel (Funky Junction Remix) · Antony Reale & Funky Junction · RuPaul\n\nRuPaul. SuperModel (You Better Work) ReMixes\n\n℗ 2006 RuCo, Inc\n\nReleased on: 2006-05-26\n\nMusic Publisher: RuPaul Charles Music\nMusi",
+      "duration": 457,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=NPs7ca1eqHU",
+      "title": "My Love Sees No Color (Popular Mix)",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nMy Love Sees No Color (Popular Mix) · Electrolight · RuPaul\n\nRuPaul. SuperModel (You Better Work) ReMixes\n\n℗ 2006 RuCo, Inc\n\nReleased on: 2006-05-26\n\nMusic Publisher: RuPaul Charles Music\nMusic Publisher: Tr",
+      "duration": 245,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=C_43o-ANIhw",
+      "title": "SuperModel f/Shirley Q. Liquor (There, U Just Got Rocked Mix)",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nSuperModel f/Shirley Q. Liquor (There, U Just Got Rocked Mix) · Good & Evil · RuPaul\n\nRuPaul. SuperModel (You Better Work) ReMixes\n\n℗ 2006 RuCo, Inc\n\nReleased on: 2006-05-26\n\nMusic Publisher: RuPaul Charles ",
+      "duration": 251,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=F8PMthZNJsI",
+      "title": "SuperModel f/Shirley Q. Liquor (Havenhurst Vocal)",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nSuperModel f/Shirley Q. Liquor (Havenhurst Vocal) · Craig C. · RuPaul\n\nRuPaul. SuperModel (You Better Work) ReMixes\n\n℗ 2006 RuCo, Inc\n\nReleased on: 2006-05-26\n\nMusic Publisher: RuPaul Charles Music\nMusic Pub",
+      "duration": 572,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=zgZN4AStfkA",
+      "title": "SuperModel f/Shirley Q. Liquor (a cappella)",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nSuperModel f/Shirley Q. Liquor (a cappella) · Electrolight · Antony Reale & Funky Junction · DJ Will & Funky Junction · Craig C. · Shirley Q. Liquor · DJ BunJoe · RuPaul\n\nRuPaul. SuperModel (You Better Work)",
+      "duration": 226,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=xVo8caTXkPM",
+      "title": "Supermodel (You Better Work)",
+      "description": "Provided to YouTube by Tommy Boy Music, LLC\n\nSupermodel (You Better Work) · RuPaul\n\nSupermodel (You Better Work)/House of Love\n\n℗ 1992 Tommy Boy Music, LLC\n\nReleased on: 1992-01-07\n\nMusic  Publisher: Whorga Musica (ASCAP)\nMusic  Publisher: Love Machine Mu",
+      "duration": 377,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=OmOVccMbiDU",
+      "title": "RuPaul - Supermodel ( El Lay Toya Jam) Stalker Channing Video Edit",
+      "description": "I love love LOVE this version of this classic 90's jam, and so I made a video for it!",
+      "duration": 238,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=4nTl4Rmf6AI",
+      "title": "RuPaul - Supermodel (You Better Work) [Official Music Video]",
+      "description": "Download/Stream: https://tommyboyrecords.lnk.to/RuPaul_SupermodelWE\nMake this song your Ringtone: https://itunes.apple.com/us/album/supermodel-you-better-work/1625424565?app=itunes\n\n************************************ \n\nTommy Boy Records is a legendary H",
+      "duration": 249,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=s_-MDyKBt7k",
+      "title": "Rupaul - Supermodel (Digifunky's Late Nite Mix)",
+      "description": "Rupaul - Supermodel (Digifunky's Late Nite Mix)",
+      "duration": 316,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=4nTl4Rmf6AI",
+      "title": "RuPaul - Supermodel (You Better Work) [Official Music Video]",
+      "description": "Download/Stream: https://tommyboy.lnk.to/RuPaul_Supermodel\n   \nFollow Our Official Spotify Playlist: https://tommyboy.lnk.to/PlaylistSpotify\n\nListen to More Tommy Boy Classics: https://VA.lnk.to/TommyBoyClassics\n\n************************************\n\nTomm",
+      "duration": 249,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=P-qaUSq5ZGU",
+      "title": "RuPaul!  Supermodel You Better Work)!",
+      "description": "",
+      "duration": 224,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=idKAPsDZvxM",
+      "title": "POP LUNCH - Rupaul performs \"Supermodel\" live from Spring Break '93",
+      "description": "Join Supermodel-of-the-World RuPaul, \"Blossom\" star Joey Lawrence and comedian Gilbert Gottfried as they crown the king and queen of MTV's Spring Break 1993. Yes, it's \"Beauty & The Beach,\" as hosted by Ed Lover and Vanessa A. Williams.",
+      "duration": 541,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Lp3umA2WtuA",
+      "title": "RuPaul: You Better Work | How I Made It | CNBC",
+      "description": "From life as a musician playing small New York clubs to Hollywood drag icon, RuPaul explains how he turned his bootstraps into ruby slippers.\n» Subscribe to CNBC: http://cnb.cx/SubscribeCNBC\n\nAbout CNBC: From 'Wall Street' to 'Main Street' to award winni",
+      "duration": 176,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic"
+  ],
+  "styles": [
+    "House",
+    "Tribal House"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Supermodel (\"Work It Mr DJ\" Tribal Mix)",
+      "duration": "4:39"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Supermodel (Funkyman's Vox Dub)",
+      "duration": "4:21"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Supermodel (Digifunky's Latenite Mix)",
+      "duration": "5:09"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Aurora Borealis Speaks",
+      "duration": "0:19"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Fenton Bailey",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 284168,
+      "resource_url": "https://api.discogs.com/artists/284168"
+    },
+    {
+      "name": "Randy Barbato",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 284167,
+      "resource_url": "https://api.discogs.com/artists/284167"
+    },
+    {
+      "name": "Michael Sarsfield",
+      "anv": "MJS",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 364787,
+      "resource_url": "https://api.discogs.com/artists/364787"
+    },
+    {
+      "name": "Eric Kupper",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 1812,
+      "resource_url": "https://api.discogs.com/artists/1812"
+    },
+    {
+      "name": "DJ Digit",
+      "anv": "",
+      "join": "",
+      "role": "Remix, Edited By",
+      "tracks": "",
+      "id": 42099,
+      "resource_url": "https://api.discogs.com/artists/42099"
+    },
+    {
+      "name": "DJ EFX",
+      "anv": "",
+      "join": "",
+      "role": "Remix, Edited By",
+      "tracks": "",
+      "id": 22783,
+      "resource_url": "https://api.discogs.com/artists/22783"
+    },
+    {
+      "name": "Marc Paley",
+      "anv": "Marc \"Funkyman\" Paley",
+      "join": "",
+      "role": "Remix, Edited By",
+      "tracks": "",
+      "id": 80367,
+      "resource_url": "https://api.discogs.com/artists/80367"
+    },
+    {
+      "name": "La Wanda Page",
+      "anv": "",
+      "join": "",
+      "role": "Voice",
+      "tracks": "",
+      "id": 66171,
+      "resource_url": "https://api.discogs.com/artists/66171"
+    },
+    {
+      "name": "Jimmy Harry",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 80368,
+      "resource_url": "https://api.discogs.com/artists/80368"
+    },
+    {
+      "name": "Larry Tee",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 60567,
+      "resource_url": "https://api.discogs.com/artists/60567"
+    },
+    {
+      "name": "Rupaul",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 24188,
+      "resource_url": "https://api.discogs.com/artists/24188"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/sef_OPJdvXcuGkERk6t3DG8BuMFIDOxjJYLl8yRWYDU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM1/NS0xNzA5OTk3MDEw/LTM1ODEuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/sef_OPJdvXcuGkERk6t3DG8BuMFIDOxjJYLl8yRWYDU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM1/NS0xNzA5OTk3MDEw/LTM1ODEuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/LYeQ9krRQrQcouVhddsj7ypXp33fP90zviox31t3OUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM1/NS0xNzA5OTk3MDEw/LTM1ODEuanBlZw.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/1j2jg0t5jtBX2U_EKY5-5OxJO--r4IpvxtFtAtAcPBc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM1/NS0xNzA5OTk3MDEw/LTg3NzMuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/1j2jg0t5jtBX2U_EKY5-5OxJO--r4IpvxtFtAtAcPBc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM1/NS0xNzA5OTk3MDEw/LTg3NzMuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/BccSZ_HKMl4vnXDSgZK8rMfMkGdexa9hGwy8G4RnkdU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM1/NS0xNzA5OTk3MDEw/LTg3NzMuanBlZw.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/LYeQ9krRQrQcouVhddsj7ypXp33fP90zviox31t3OUw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDM1/NS0xNzA5OTk3MDEw/LTM1ODEuanBlZw.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

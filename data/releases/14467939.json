@@ -1,0 +1,638 @@
+{
+  "id": 14467939,
+  "status": "Accepted",
+  "year": 2019,
+  "resource_url": "https://api.discogs.com/releases/14467939",
+  "uri": "https://www.discogs.com/release/14467939-SG-Lewis-Dusk-Dark-Dawn",
+  "artists": [
+    {
+      "name": "SG Lewis",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 4401954,
+      "resource_url": "https://api.discogs.com/artists/4401954",
+      "thumbnail_url": "https://i.discogs.com/64gdgVA7N5T05QTnxsKBAPYAn6OSOZRNws5RdXR4Gbo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ0MDE5/NTQtMTcyMDMzODEw/OC0yOTM4LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "SG Lewis",
+  "labels": [
+    {
+      "name": "Virgin",
+      "catno": "VBOX 3236",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 750,
+      "resource_url": "https://api.discogs.com/labels/750",
+      "thumbnail_url": "https://i.discogs.com/l7MqdVik3dZV0Vxh1EPMGDz95ydeYSmjPKQjdwDc7uA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc1MC0x/NjE1MDQyNjg5LTc3/NDMucG5n.jpeg"
+    },
+    {
+      "name": "PMR Records (2)",
+      "catno": "00602577514746",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 229076,
+      "resource_url": "https://api.discogs.com/labels/229076",
+      "thumbnail_url": "https://i.discogs.com/OOPCXuOwO9rsPMnAR11ugsmjfe3Tud7lGELnMQwopYI/rs:fit/g:sm/q:90/h:600/w:497/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIyOTA3/Ni0xNDQ1MDIyNjc0/LTcwMDcuanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Jasmine Music Ltd.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 1307770,
+      "resource_url": "https://api.discogs.com/labels/1307770"
+    },
+    {
+      "name": "PMR Records (2)",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 229076,
+      "resource_url": "https://api.discogs.com/labels/229076",
+      "thumbnail_url": "https://i.discogs.com/OOPCXuOwO9rsPMnAR11ugsmjfe3Tud7lGELnMQwopYI/rs:fit/g:sm/q:90/h:600/w:497/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIyOTA3/Ni0xNDQ1MDIyNjc0/LTcwMDcuanBlZw.jpeg"
+    },
+    {
+      "name": "Jasmine Music Ltd.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 1307770,
+      "resource_url": "https://api.discogs.com/labels/1307770"
+    },
+    {
+      "name": "PMR Records (2)",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 229076,
+      "resource_url": "https://api.discogs.com/labels/229076",
+      "thumbnail_url": "https://i.discogs.com/OOPCXuOwO9rsPMnAR11ugsmjfe3Tud7lGELnMQwopYI/rs:fit/g:sm/q:90/h:600/w:497/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIyOTA3/Ni0xNDQ1MDIyNjc0/LTcwMDcuanBlZw.jpeg"
+    },
+    {
+      "name": "Universal Music Operations Ltd.",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 120257,
+      "resource_url": "https://api.discogs.com/labels/120257",
+      "thumbnail_url": "https://i.discogs.com/V_wCq2yiBeTzd3BTY-Y3dNJZfLamTsE-l69r2d3rH0I/rs:fit/g:sm/q:90/h:142/w:436/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMDI1/Ny0xNjQ5OTU5MzA2/LTU5MDAuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "3",
+      "descriptions": [
+        "12\"",
+        "45 RPM",
+        "Compilation",
+        "Limited Edition"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 407,
+    "want": 258,
+    "rating": {
+      "count": 45,
+      "average": 4.56
+    },
+    "submitter": {
+      "username": "mydirect",
+      "resource_url": "https://api.discogs.com/users/mydirect"
+    },
+    "contributors": [
+      {
+        "username": "mydirect",
+        "resource_url": "https://api.discogs.com/users/mydirect"
+      },
+      {
+        "username": "redroomboy",
+        "resource_url": "https://api.discogs.com/users/redroomboy"
+      },
+      {
+        "username": "Thao8382",
+        "resource_url": "https://api.discogs.com/users/Thao8382"
+      },
+      {
+        "username": "dnlkdwll",
+        "resource_url": "https://api.discogs.com/users/dnlkdwll"
+      },
+      {
+        "username": "sandblasted",
+        "resource_url": "https://api.discogs.com/users/sandblasted"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 3,
+  "date_added": "2019-11-30T10:17:06-08:00",
+  "date_changed": "2023-02-04T17:28:04-08:00",
+  "num_for_sale": 0,
+  "lowest_price": null,
+  "title": "Dusk Dark Dawn",
+  "country": "UK",
+  "released": "2019-11-29",
+  "notes": "Limited heavyweight vinyl in trifold gatefold with spot-varnished sleeve.\nContains the MP3 voucher to download the album.",
+  "released_formatted": "29 Nov 2019",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "0602577514746"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=aPqddGxQ7iY",
+      "title": "SG Lewis - Dusk",
+      "description": "'Missing You / Something About Your Love' out now: https://sglewis.lnk.to/MYSAYLID\n\nSign up for SG Lewis' latest news, music, exclusives & events: https://sglewis.lnk.to/SignUpID\n\nhttps://twitter.com/SGLewis_ https://www.facebook.com/sglewismusic/ https:/",
+      "duration": 357,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=zgpKsJLLNsw",
+      "title": "SG Lewis - Sunsets (Pt. 2)",
+      "description": "SONG INFORMATION \nARTIST - SG Lewis \nTITLE - Sunsets (Pt. 2) \nALBUM - Dusk \nTRACK - 2 \nYEAR - 2018 \nBIO - Britain's SG Lewis is an in-demand producer, songwriter, and DJ with an emotive, atmospheric approach to dance-oriented, electronic-based music. Init",
+      "duration": 217,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=PmLifKCzn64",
+      "title": "Sunsets (Pt. 1)",
+      "description": "Provided to YouTube by Universal Music Group\n\nSunsets (Pt. 1) · SG Lewis\n\nDusk\n\n℗ A PMR / Virgin EMI Records recording; ℗ 2018 Jasmine Music Limited t/a PMR Records, under exclusive license to Universal Music Operations Ltd\n\nReleased on: 2018-04-06\n\nProdu",
+      "duration": 190,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic"
+  ],
+  "styles": [
+    "Deep House"
+  ],
+  "tracklist": [
+    {
+      "position": "",
+      "type_": "heading",
+      "title": "Dusk",
+      "duration": ""
+    },
+    {
+      "position": "A1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4401954,
+          "resource_url": "https://api.discogs.com/artists/4401954"
+        }
+      ],
+      "title": "Sunsets (Pt. 1)",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4401954,
+          "resource_url": "https://api.discogs.com/artists/4401954"
+        }
+      ],
+      "title": "Sunsets (Pt. 2)",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4401954,
+          "resource_url": "https://api.discogs.com/artists/4401954"
+        }
+      ],
+      "title": "Aura",
+      "extraartists": [
+        {
+          "name": "J Warner",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2571854,
+          "resource_url": "https://api.discogs.com/artists/2571854"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4401954,
+          "resource_url": "https://api.discogs.com/artists/4401954"
+        }
+      ],
+      "title": "Golden",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4401954,
+          "resource_url": "https://api.discogs.com/artists/4401954"
+        }
+      ],
+      "title": "Coming Up",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4401954,
+          "resource_url": "https://api.discogs.com/artists/4401954"
+        }
+      ],
+      "title": "Tides",
+      "extraartists": [
+        {
+          "name": "Kartell (2)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2325620,
+          "resource_url": "https://api.discogs.com/artists/2325620"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "",
+      "type_": "heading",
+      "title": "Dark",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4401954,
+          "resource_url": "https://api.discogs.com/artists/4401954"
+        }
+      ],
+      "title": "Again",
+      "extraartists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1419817,
+          "resource_url": "https://api.discogs.com/artists/1419817"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4401954,
+          "resource_url": "https://api.discogs.com/artists/4401954"
+        }
+      ],
+      "title": "A.A.T",
+      "extraartists": [
+        {
+          "name": "Drew Love (2)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 6740619,
+          "resource_url": "https://api.discogs.com/artists/6740619"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "anv": "",
+          "join": "x",
+          "role": "",
+          "tracks": "",
+          "id": 4401954,
+          "resource_url": "https://api.discogs.com/artists/4401954"
+        },
+        {
+          "name": "Dot Major",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3448327,
+          "resource_url": "https://api.discogs.com/artists/3448327"
+        }
+      ],
+      "title": "Release",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4401954,
+          "resource_url": "https://api.discogs.com/artists/4401954"
+        }
+      ],
+      "title": "Hurting",
+      "extraartists": [
+        {
+          "name": "AlunaGeorge",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2204391,
+          "resource_url": "https://api.discogs.com/artists/2204391"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4401954,
+          "resource_url": "https://api.discogs.com/artists/4401954"
+        }
+      ],
+      "title": " Dreaming",
+      "extraartists": [
+        {
+          "name": "Bruno Major",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 6144304,
+          "resource_url": "https://api.discogs.com/artists/6144304"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "",
+      "type_": "heading",
+      "title": "Dawn",
+      "duration": ""
+    },
+    {
+      "position": "E1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4401954,
+          "resource_url": "https://api.discogs.com/artists/4401954"
+        }
+      ],
+      "title": "Blue",
+      "duration": ""
+    },
+    {
+      "position": "E2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4401954,
+          "resource_url": "https://api.discogs.com/artists/4401954"
+        }
+      ],
+      "title": "Throwaway",
+      "extraartists": [
+        {
+          "name": "Clairo (2)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 6512329,
+          "resource_url": "https://api.discogs.com/artists/6512329"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "E3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4401954,
+          "resource_url": "https://api.discogs.com/artists/4401954"
+        }
+      ],
+      "title": "Rest",
+      "duration": ""
+    },
+    {
+      "position": "F1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4401954,
+          "resource_url": "https://api.discogs.com/artists/4401954"
+        }
+      ],
+      "title": "Overdose",
+      "extraartists": [
+        {
+          "name": "HONNE",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 4422805,
+          "resource_url": "https://api.discogs.com/artists/4422805"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "F2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4401954,
+          "resource_url": "https://api.discogs.com/artists/4401954"
+        }
+      ],
+      "title": "Flames",
+      "extraartists": [
+        {
+          "name": "Ruel (6)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 6480320,
+          "resource_url": "https://api.discogs.com/artists/6480320"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "F3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4401954,
+          "resource_url": "https://api.discogs.com/artists/4401954"
+        }
+      ],
+      "title": "Easy Loving You",
+      "extraartists": [
+        {
+          "name": "Kamille (3)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 5910262,
+          "resource_url": "https://api.discogs.com/artists/5910262"
+        }
+      ],
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/IqKsVQvzamwRVf2l4uOehBn4gTW9nLgunvVsAm5mPsc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY3/OTM5LTE1NzUxMzg4/OTktOTM3OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/IqKsVQvzamwRVf2l4uOehBn4gTW9nLgunvVsAm5mPsc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY3/OTM5LTE1NzUxMzg4/OTktOTM3OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ZEXjFTbN-6iCMHhKy65GiYohhstlE9OdojJwmddUWEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY3/OTM5LTE1NzUxMzg4/OTktOTM3OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/R7GQQJNCBASpCGqTHdFfPmylsvYC8InWZ-01ygrT0fQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY3/OTM5LTE1NzUxMzg4/OTktMTY2MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/R7GQQJNCBASpCGqTHdFfPmylsvYC8InWZ-01ygrT0fQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY3/OTM5LTE1NzUxMzg4/OTktMTY2MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/VX9v-Utr9rpmFDIjKHcXKwCiCvsbfZNptpmtfuusP5k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY3/OTM5LTE1NzUxMzg4/OTktMTY2MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/SalsAPYebbXOjW4Rq6v2KpRTFhfWCYtOyDrQW8r8IJQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY3/OTM5LTE1NzUxMzc4/MzAtNTM3Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/SalsAPYebbXOjW4Rq6v2KpRTFhfWCYtOyDrQW8r8IJQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY3/OTM5LTE1NzUxMzc4/MzAtNTM3Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/L7iYlva5M310TjkK9LKwuhANHoyAayAGPo4Grq4hvOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY3/OTM5LTE1NzUxMzc4/MzAtNTM3Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/ZEXjFTbN-6iCMHhKy65GiYohhstlE9OdojJwmddUWEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDY3/OTM5LTE1NzUxMzg4/OTktOTM3OS5qcGVn.jpeg",
+  "estimated_weight": 690,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

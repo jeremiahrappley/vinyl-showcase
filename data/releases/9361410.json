@@ -1,0 +1,702 @@
+{
+  "id": 9361410,
+  "status": "Accepted",
+  "year": 1966,
+  "resource_url": "https://api.discogs.com/releases/9361410",
+  "uri": "https://www.discogs.com/release/9361410-Frank-Sinatra-Thats-Life",
+  "artists": [
+    {
+      "name": "Frank Sinatra",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 52833,
+      "resource_url": "https://api.discogs.com/artists/52833",
+      "thumbnail_url": "https://i.discogs.com/TeUjVQjVAUsWgbxtFL4MzDCPbNf5VJrccVtcCVRfpTg/rs:fit/g:sm/q:90/h:600/w:485/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUyODMz/LTE2MTMzMjU5NTMt/ODY3Mi5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "Frank Sinatra",
+  "labels": [
+    {
+      "name": "Reprise Records",
+      "catno": "F 1020",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 157,
+      "resource_url": "https://api.discogs.com/labels/157",
+      "thumbnail_url": "https://i.discogs.com/iKBCqc_nPLAGiCS4_2RshoKpj-ZuUJo7Z1qzYmFuJrc/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1Ny0x/NTIxMTk1ODk5LTE1/NzgucG5n.jpeg"
+    },
+    {
+      "name": "Reprise Records",
+      "catno": "F-1020",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 157,
+      "resource_url": "https://api.discogs.com/labels/157",
+      "thumbnail_url": "https://i.discogs.com/iKBCqc_nPLAGiCS4_2RshoKpj-ZuUJo7Z1qzYmFuJrc/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1Ny0x/NTIxMTk1ODk5LTE1/NzgucG5n.jpeg"
+    },
+    {
+      "name": "Reprise Records",
+      "catno": "1020",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 157,
+      "resource_url": "https://api.discogs.com/labels/157",
+      "thumbnail_url": "https://i.discogs.com/iKBCqc_nPLAGiCS4_2RshoKpj-ZuUJo7Z1qzYmFuJrc/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1Ny0x/NTIxMTk1ODk5LTE1/NzgucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Warner Bros. Records Inc.",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 90718,
+      "resource_url": "https://api.discogs.com/labels/90718",
+      "thumbnail_url": "https://i.discogs.com/0p_FtS_A52grt0La9_L96khb4zeprvXbonLRFPgm9nk/rs:fit/g:sm/q:90/h:107/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkwNzE4/LTE3NzYzNDQzMjEt/MTI2MS5qcGVn.jpeg"
+    },
+    {
+      "name": "Bristol Productions",
+      "catno": "",
+      "entity_type": "38",
+      "entity_type_name": "Manufactured For",
+      "id": 288133,
+      "resource_url": "https://api.discogs.com/labels/288133",
+      "thumbnail_url": "https://i.discogs.com/JxCFc2NmtnXpFMCuq0RA0HVFFRsKkasyM0ofDT1g5pM/rs:fit/g:sm/q:90/h:307/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4ODEz/My0xNzMxNjU0MTg2/LTIxNzguanBlZw.jpeg"
+    },
+    {
+      "name": "Customatrix",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 586613,
+      "resource_url": "https://api.discogs.com/labels/586613",
+      "thumbnail_url": "https://i.discogs.com/LiE-B7ojg3c5y6MjWhT1mxNVst27bYOmGZyVCBx8Ljo/rs:fit/g:sm/q:90/h:203/w:176/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU4NjYx/My0xNzYwNTM1MzEw/LTk2NTAuanBlZw.jpeg"
+    },
+    {
+      "name": "Capitol Records Pressing Plant, Scranton",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 313252,
+      "resource_url": "https://api.discogs.com/labels/313252",
+      "thumbnail_url": "https://i.discogs.com/GZEDG34NaSMVXMKMWTxjYBbmRIQaE6Ymtmp0omyeStE/rs:fit/g:sm/q:90/h:178/w:182/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxMzI1/Mi0xNDMzMDkyMDY2/LTkyNzEuanBlZw.jpeg"
+    },
+    {
+      "name": "Four Star T.V. Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 357293,
+      "resource_url": "https://api.discogs.com/labels/357293",
+      "thumbnail_url": "https://i.discogs.com/lJTgRAg6bDdQBFFf1WLpfvwuZ__rWhd0k3WHduyAeyU/rs:fit/g:sm/q:90/h:138/w:189/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM1NzI5/My0xNTk1MzE4NDU1/LTY1NzcucG5n.jpeg"
+    },
+    {
+      "name": "South Mountain Music Corp.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 506325,
+      "resource_url": "https://api.discogs.com/labels/506325",
+      "thumbnail_url": "https://i.discogs.com/Yqj1IPtwou3wYWRs5H-8w9P5UExpg_W4IDI_hlCuaxM/rs:fit/g:sm/q:90/h:165/w:517/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUwNjMy/NS0xNjA2Mjk0ODk4/LTUzNDQucG5n.jpeg"
+    },
+    {
+      "name": "Robbins Music Corp.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 280839,
+      "resource_url": "https://api.discogs.com/labels/280839",
+      "thumbnail_url": "https://i.discogs.com/Oc-B_xfhqG5IuNLOYdSYasUmjJujL39QrFk23OZdrxA/rs:fit/g:sm/q:90/h:154/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4MDgz/OS0xNjc4MDQ3MjYy/LTc1NDUuanBlZw.jpeg"
+    },
+    {
+      "name": "Asa Music Corp.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 327204,
+      "resource_url": "https://api.discogs.com/labels/327204"
+    },
+    {
+      "name": "Remick Music Corp.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 298399,
+      "resource_url": "https://api.discogs.com/labels/298399",
+      "thumbnail_url": "https://i.discogs.com/HNNXNOEVsz5w_Ods1sL7kJ0gQGAXVEwenTjU4MmSgrQ/rs:fit/g:sm/q:90/h:453/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5ODM5/OS0xNzc4MzMyNzMy/LTUxODIuanBlZw.jpeg"
+    },
+    {
+      "name": "Peer International",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 267248,
+      "resource_url": "https://api.discogs.com/labels/267248",
+      "thumbnail_url": "https://i.discogs.com/o6e8FgoYYaUsQ1zv-wjFoNQ8rlMpo1lKa97FgkRqY10/rs:fit/g:sm/q:90/h:139/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NzI0/OC0xNzI2ODAzODk1/LTIxMDEuanBlZw.jpeg"
+    },
+    {
+      "name": "Southern Music, Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 1121832,
+      "resource_url": "https://api.discogs.com/labels/1121832",
+      "thumbnail_url": "https://i.discogs.com/Es5Pj65dkCKIS5O7C9haFWPUv_IZs0Fq2WfQndb2h8U/rs:fit/g:sm/q:90/h:197/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExMjE4/MzItMTczNTY2Mzg1/NS05MDcxLmpwZWc.jpeg"
+    },
+    {
+      "name": "Sergeant Music Co.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 288131,
+      "resource_url": "https://api.discogs.com/labels/288131"
+    },
+    {
+      "name": "American Music, Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 406505,
+      "resource_url": "https://api.discogs.com/labels/406505",
+      "thumbnail_url": "https://i.discogs.com/q3UUdsG3Ai7BQD31waSUXUzoLgymWf9dnSMHpI-pV7s/rs:fit/g:sm/q:90/h:178/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQwNjUw/NS0xNzE3MTYyODgw/LTI5ODEuanBlZw.jpeg"
+    },
+    {
+      "name": "Oracle Music Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 478130,
+      "resource_url": "https://api.discogs.com/labels/478130"
+    },
+    {
+      "name": "Sam Fox Publishing Co., Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 507018,
+      "resource_url": "https://api.discogs.com/labels/507018",
+      "thumbnail_url": "https://i.discogs.com/ZfqfCbk8xCWCI-w1wy6mmILn7e8kq06Ap75lRJ1J3mw/rs:fit/g:sm/q:90/h:600/w:406/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUwNzAx/OC0xNjMzNzY0ODc3/LTM1MzAuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Promo",
+        "Mono"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 52,
+    "want": 63,
+    "rating": {
+      "count": 5,
+      "average": 3.4
+    },
+    "submitter": {
+      "username": "westportrecords",
+      "resource_url": "https://api.discogs.com/users/westportrecords"
+    },
+    "contributors": [
+      {
+        "username": "westportrecords",
+        "resource_url": "https://api.discogs.com/users/westportrecords"
+      },
+      {
+        "username": "gippy",
+        "resource_url": "https://api.discogs.com/users/gippy"
+      },
+      {
+        "username": "whmaddox",
+        "resource_url": "https://api.discogs.com/users/whmaddox"
+      },
+      {
+        "username": "gemini80s",
+        "resource_url": "https://api.discogs.com/users/gemini80s"
+      },
+      {
+        "username": "mtwallet",
+        "resource_url": "https://api.discogs.com/users/mtwallet"
+      },
+      {
+        "username": "rxcory",
+        "resource_url": "https://api.discogs.com/users/rxcory"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2016-11-15T13:16:13-08:00",
+  "date_changed": "2025-09-03T03:23:52-07:00",
+  "num_for_sale": 3,
+  "lowest_price": 9.98,
+  "master_id": 144118,
+  "master_url": "https://api.discogs.com/masters/144118",
+  "title": "That's Life",
+  "country": "US",
+  "released": "1966",
+  "notes": "Promotion Not For Sale",
+  "released_formatted": "1966",
+  "identifiers": [
+    {
+      "type": "Matrix / Runout",
+      "value": "10,633",
+      "description": "Side A label"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "10,634",
+      "description": "Side B label"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "10633 1C F1020A A 1 (Backwards \"S\")",
+      "description": "Side A runout etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "o",
+      "description": "Side A runout stamped"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "10634 1A F1020-B",
+      "description": "Side B runout etched"
+    },
+    {
+      "type": "Rights Society",
+      "value": "BMI"
+    },
+    {
+      "type": "Rights Society",
+      "value": "ASCAP"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=HQhMfzF0uhc",
+      "title": "Frank Sinatra - I Will Wait For You",
+      "description": "The clock will tick away the hours one by one\nThen the time will come\nWhen all the waiting's done\nThe time when you return\nAnd find me here and run\n\nIf it takes forever I will wait for you\nFor a thousand summers\nI will wait for you till you're here back\nB",
+      "duration": 139,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=YeJeKcMavUY",
+      "title": "Frank Sinatra - Somewhere my love",
+      "description": "",
+      "duration": 138,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=8ml2_CigdwQ",
+      "title": "Frank Sinatra - Sand And Sea",
+      "description": "That's Life, 1966\n...\nhttps://www.youtube.com/playlist?list=PLGeFUHxhxWLUiI7gqGC5bNAhPB4f3uSPr",
+      "duration": 147,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Noa18vpugB8",
+      "title": "Frank Sinatra - What Now My Love (1967)(720p)",
+      "description": "",
+      "duration": 157,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=BKi42jNhLTk",
+      "title": "Frank Sinatra - Winchester Cathedral",
+      "description": " ",
+      "duration": 160,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=mPUL9O0r_vM",
+      "title": "Frank Sinatra - Give Her Love",
+      "description": "That's Life, 1966\n...\nhttps://www.youtube.com/playlist?list=PLGeFUHxhxWLUiI7gqGC5bNAhPB4f3uSPr",
+      "duration": 130,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=czOV5BhFPhw",
+      "title": "Tell Her (You Love Her Each Day)",
+      "description": "Provided to YouTube by Universal Music Group\n\nTell Her (You Love Her Each Day) · Frank Sinatra\n\nThat's Life\n\n℗ 1966 Frank Sinatra Enterprises, LLC\n\nReleased on: 1990-01-01\n\nProducer: Jimmy Bowen\nEngineer: Eddie Brackell\nEngineer: Lee Herschberg\nComposer L",
+      "duration": 161,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=xoN7_lR1MOw",
+      "title": "The Impossible Dream (The Quest)",
+      "description": "Provided to YouTube by Universal Music Group\n\nThe Impossible Dream (The Quest) · Frank Sinatra\n\nThat's Life\n\n℗ 1966 Frank Sinatra Enterprises, LLC\n\nReleased on: 1990-01-01\n\nProducer: Jimmy Bowen\nEngineer: Eddie Brackell\nEngineer: Lee Herschberg\nComposer L",
+      "duration": 152,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=YaZYGOR94uA",
+      "title": "You're Gonna Hear From Me",
+      "description": "Provided to YouTube by Universal Music Group\n\nYou're Gonna Hear From Me · Frank Sinatra\n\nThat's Life\n\n℗ 1966 Frank Sinatra Enterprises, LLC\n\nReleased on: 1990-01-01\n\nProducer: Jimmy Bowen\nEngineer: Eddie Brackell\nEngineer: Lee Herschberg\nComposer Lyricist",
+      "duration": 178,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=zoXLKgX0MgU",
+      "title": "Frank Sinatra-That's life lyrics",
+      "description": "This is definitely one of my favorite songs by Frank Sinatra.\nThe song is from iTunes, the pics are from google, this was made on the app ReelDirector. Thanks for watching, hoped you like it! THIS VIDEO IS FOR ENTERTAINMENT PURPOSES ONLY!!! I own nothing",
+      "duration": 201,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Jazz",
+    "Pop"
+  ],
+  "styles": [
+    "Vocal",
+    "Swing"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "That's Life",
+      "extraartists": [
+        {
+          "name": "Dean Kay",
+          "anv": "D. Kay",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 642236,
+          "resource_url": "https://api.discogs.com/artists/642236"
+        },
+        {
+          "name": "Kelly Gordon",
+          "anv": "K. Gordon",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 599442,
+          "resource_url": "https://api.discogs.com/artists/599442"
+        }
+      ],
+      "duration": "3:07"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "I Will Wait For You",
+      "extraartists": [
+        {
+          "name": "Michel Legrand",
+          "anv": "Le Grand",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 84236,
+          "resource_url": "https://api.discogs.com/artists/84236"
+        },
+        {
+          "name": "Norman Gimbel",
+          "anv": "Gimbel",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 566915,
+          "resource_url": "https://api.discogs.com/artists/566915"
+        }
+      ],
+      "duration": "2:15"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Somewhere My Love",
+      "extraartists": [
+        {
+          "name": "Maurice Jarre",
+          "anv": "Jarre",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 283111,
+          "resource_url": "https://api.discogs.com/artists/283111"
+        },
+        {
+          "name": "Paul Francis Webster",
+          "anv": "Webster",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 290092,
+          "resource_url": "https://api.discogs.com/artists/290092"
+        }
+      ],
+      "duration": "2:16"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Sand And Sea",
+      "extraartists": [
+        {
+          "name": "Gilbert Bécaud",
+          "anv": "Becaud",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 282608,
+          "resource_url": "https://api.discogs.com/artists/282608"
+        },
+        {
+          "name": "Mack David",
+          "anv": "David",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 313469,
+          "resource_url": "https://api.discogs.com/artists/313469"
+        },
+        {
+          "name": "Maurice Vidalin",
+          "anv": "Vidalin",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 593957,
+          "resource_url": "https://api.discogs.com/artists/593957"
+        }
+      ],
+      "duration": "2:28"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "What Now My Love",
+      "extraartists": [
+        {
+          "name": "Carl Sigman",
+          "anv": "Sigman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 583802,
+          "resource_url": "https://api.discogs.com/artists/583802"
+        },
+        {
+          "name": "Gilbert Bécaud",
+          "anv": "Becaud",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 282608,
+          "resource_url": "https://api.discogs.com/artists/282608"
+        }
+      ],
+      "duration": "2:28"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Winchester Cathedral",
+      "extraartists": [
+        {
+          "name": "Geoff Stephens",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 271550,
+          "resource_url": "https://api.discogs.com/artists/271550"
+        }
+      ],
+      "duration": "2:35"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Give Her Love",
+      "extraartists": [
+        {
+          "name": "Jim Harbert",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 633145,
+          "resource_url": "https://api.discogs.com/artists/633145"
+        }
+      ],
+      "duration": "2:12"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Tell Her (You Love Her Each Day)",
+      "extraartists": [
+        {
+          "name": "Gil Ward",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 841086,
+          "resource_url": "https://api.discogs.com/artists/841086"
+        }
+      ],
+      "duration": "2:40"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "The Impossible Dream",
+      "extraartists": [
+        {
+          "name": "Joe Darion",
+          "anv": "Darion",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 661122,
+          "resource_url": "https://api.discogs.com/artists/661122"
+        },
+        {
+          "name": "Mitch Leigh",
+          "anv": "Leigh",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 661121,
+          "resource_url": "https://api.discogs.com/artists/661121"
+        }
+      ],
+      "duration": "2:39"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "You're Gonna Hear From Me",
+      "extraartists": [
+        {
+          "name": "André Previn",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 224329,
+          "resource_url": "https://api.discogs.com/artists/224329"
+        },
+        {
+          "name": "Dory Previn",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 502572,
+          "resource_url": "https://api.discogs.com/artists/502572"
+        }
+      ],
+      "duration": "2:56"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Ernie Freeman",
+      "anv": "",
+      "join": "",
+      "role": "Arranged By, Conductor",
+      "tracks": "",
+      "id": 253435,
+      "resource_url": "https://api.discogs.com/artists/253435"
+    },
+    {
+      "name": "Ed Thrasher",
+      "anv": "",
+      "join": "",
+      "role": "Art Direction",
+      "tracks": "",
+      "id": 452823,
+      "resource_url": "https://api.discogs.com/artists/452823"
+    },
+    {
+      "name": "William George (3)",
+      "anv": "Bill George",
+      "join": "",
+      "role": "Cover [Illustration]",
+      "tracks": "",
+      "id": 2955409,
+      "resource_url": "https://api.discogs.com/artists/2955409"
+    },
+    {
+      "name": "Eddie Brackett",
+      "anv": "Eddie Brackell",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 368712,
+      "resource_url": "https://api.discogs.com/artists/368712"
+    },
+    {
+      "name": "Lee Herschberg",
+      "anv": "Lee Herchberg",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 30434,
+      "resource_url": "https://api.discogs.com/artists/30434"
+    },
+    {
+      "name": "Jimmy Bowen",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 276426,
+      "resource_url": "https://api.discogs.com/artists/276426"
+    }
+  ],
+  "images": [
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/-GSP2g7o3cRnltG5sDGU7_pYQDjqhbL3m-ABX925ZFg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjE0/MTAtMTQ3OTI0NDU4/NC0xNTEzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/-GSP2g7o3cRnltG5sDGU7_pYQDjqhbL3m-ABX925ZFg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjE0/MTAtMTQ3OTI0NDU4/NC0xNTEzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/9iud3SOmqrsi7cGml4I-aacRo9dzmoLF4R7w1cyWvKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjE0/MTAtMTQ3OTI0NDU4/NC0xNTEzLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/jVWB8B0Rmd9lyNVfIOXWD0AwAzom3xtKQR6yzkX7sEM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjE0/MTAtMTQ3OTI0NDU4/NS01MTgyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/jVWB8B0Rmd9lyNVfIOXWD0AwAzom3xtKQR6yzkX7sEM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjE0/MTAtMTQ3OTI0NDU4/NS01MTgyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/EWKLOKbIw2WjZ_jubVF-MWbAJXHrJ-TfrGJVksR0_eg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjE0/MTAtMTQ3OTI0NDU4/NS01MTgyLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/bDasOa0liQEnFohY--BJI5YIwtlKpj353E_zIo7Jp5A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjE0/MTAtMTQ3OTI0NDU4/Ny0zODY5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/bDasOa0liQEnFohY--BJI5YIwtlKpj353E_zIo7Jp5A/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjE0/MTAtMTQ3OTI0NDU4/Ny0zODY5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/tfACVA991wi8WIiNYE98PKoY9g3LNvCI-7ihgVYYvVo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjE0/MTAtMTQ3OTI0NDU4/Ny0zODY5LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/97E_QB-E2cQKF4s5Pv--ncJzrdKQ6devCgHW7FX9ezE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjE0/MTAtMTQ3OTI0NDU4/NS0xNzA5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/97E_QB-E2cQKF4s5Pv--ncJzrdKQ6devCgHW7FX9ezE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjE0/MTAtMTQ3OTI0NDU4/NS0xNzA5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/9f8tVqj5-6ypU_Cr95LR7IEj65yQMHOAClzrR8vrm_U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjE0/MTAtMTQ3OTI0NDU4/NS0xNzA5LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/9iud3SOmqrsi7cGml4I-aacRo9dzmoLF4R7w1cyWvKI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNjE0/MTAtMTQ3OTI0NDU4/NC0xNTEzLmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

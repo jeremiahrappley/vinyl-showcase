@@ -1,0 +1,729 @@
+{
+  "id": 31943833,
+  "status": "Accepted",
+  "year": 2024,
+  "resource_url": "https://api.discogs.com/releases/31943833",
+  "uri": "https://www.discogs.com/release/31943833-Charli-XCX-Brat-And-Its-The-Same-But-Theres-Three-More-Songs-So-Its-Not",
+  "artists": [
+    {
+      "name": "Charli XCX",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 1345479,
+      "resource_url": "https://api.discogs.com/artists/1345479",
+      "thumbnail_url": "https://i.discogs.com/K7w1zXh10kWeJoZ5ubzUo0n1TY2_Zwxn2M4Cv6KQe0I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzNDU0/NzktMTc4MjgxMzYz/MC01MTc3LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Charli XCX",
+  "labels": [
+    {
+      "name": "Atlantic",
+      "catno": "075678603983",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 681,
+      "resource_url": "https://api.discogs.com/labels/681",
+      "thumbnail_url": "https://i.discogs.com/PvGehzQPvOW9qMVS-EDAeOmU6qODkqTEQ5bW03gpVyo/rs:fit/g:sm/q:90/h:426/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY4MS0x/NTEwNjgyMTM0LTgz/NTAucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Charli XCX Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 3726288,
+      "resource_url": "https://api.discogs.com/labels/3726288"
+    },
+    {
+      "name": "Charli XCX Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 3726288,
+      "resource_url": "https://api.discogs.com/labels/3726288"
+    },
+    {
+      "name": "Atlantic Recording Corporation",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 23937,
+      "resource_url": "https://api.discogs.com/labels/23937",
+      "thumbnail_url": "https://i.discogs.com/jZjSYAVRpExbW53RcsYGsNM2qn9G7zXCv1S5e7iLyzQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzOTM3/LTE3ODE1MDQxMDAt/ODMxNC5qcGVn.jpeg"
+    },
+    {
+      "name": "Precision Record Pressing",
+      "catno": "10-107355",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 523699,
+      "resource_url": "https://api.discogs.com/labels/523699",
+      "thumbnail_url": "https://i.discogs.com/DfWvGCw34Q127_Eqz8MBLNwe-7lZqvAuM3xxalopIBo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUyMzY5/OS0xNjk5MzgyMzgz/LTIwNDYucG5n.jpeg"
+    },
+    {
+      "name": "GZ Media",
+      "catno": "288880E",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Deluxe Edition"
+      ],
+      "text": "White"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 10904,
+    "want": 1360,
+    "rating": {
+      "count": 752,
+      "average": 4.68
+    },
+    "submitter": {
+      "username": "isakyaki2121",
+      "resource_url": "https://api.discogs.com/users/isakyaki2121"
+    },
+    "contributors": [
+      {
+        "username": "isakyaki2121",
+        "resource_url": "https://api.discogs.com/users/isakyaki2121"
+      },
+      {
+        "username": "joeyms16",
+        "resource_url": "https://api.discogs.com/users/joeyms16"
+      },
+      {
+        "username": "mikkelhk",
+        "resource_url": "https://api.discogs.com/users/mikkelhk"
+      },
+      {
+        "username": "riddimrecord",
+        "resource_url": "https://api.discogs.com/users/riddimrecord"
+      },
+      {
+        "username": "myvinyldiscography",
+        "resource_url": "https://api.discogs.com/users/myvinyldiscography"
+      },
+      {
+        "username": "hausofluke",
+        "resource_url": "https://api.discogs.com/users/hausofluke"
+      },
+      {
+        "username": "EricThaddeus",
+        "resource_url": "https://api.discogs.com/users/EricThaddeus"
+      },
+      {
+        "username": "georgewilley",
+        "resource_url": "https://api.discogs.com/users/georgewilley"
+      },
+      {
+        "username": "nighttimemytime",
+        "resource_url": "https://api.discogs.com/users/nighttimemytime"
+      },
+      {
+        "username": "crankheart",
+        "resource_url": "https://api.discogs.com/users/crankheart"
+      },
+      {
+        "username": "chriscando",
+        "resource_url": "https://api.discogs.com/users/chriscando"
+      },
+      {
+        "username": "idratherbereading",
+        "resource_url": "https://api.discogs.com/users/idratherbereading"
+      },
+      {
+        "username": "njcollects",
+        "resource_url": "https://api.discogs.com/users/njcollects"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2024-10-08T07:19:10-07:00",
+  "date_changed": "2026-06-03T10:58:47-07:00",
+  "num_for_sale": 91,
+  "lowest_price": 18.99,
+  "master_id": 3505440,
+  "master_url": "https://api.discogs.com/masters/3505440",
+  "title": "Brat And It's The Same But There's Three More Songs So It's Not",
+  "country": "Worldwide",
+  "released": "2024-10-11",
+  "notes": "Non-US worldwide release.\n\nMade in Czech Republic.\n\nRunouts are machine-engraved.\n\nAn additional 300 copies were retailed by Assai Records with a hand numbered Japanese style obi under their Assai Obi Editions range. It also came with a \"BUMPIN' THAT\" sticker.",
+  "released_formatted": "11 Oct 2024",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "0 75678 60398 3",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "075678603983",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "288880E1/C  10-107355 / 075678603983 - A",
+      "description": "Side A runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "288880E2/B  10-107355 / 075678603983 - B",
+      "description": "Side B runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "288880E3/D  10-107355 / 075678603983 - C",
+      "description": "Side C runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "288880E4/D  10-107355 / 075678603983 - D",
+      "description": "Side D runout"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=WJW-VvmRKsE",
+      "title": "Charli xcx - 360 (official video)",
+      "description": "BRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nWriter / Director: Aidan Zamiri\n*Starring:\nMatisse Andrews\nQuenlin Blackwell\nSakura Bready\nChloe Cherry\nGreer Cohen\nAnna Collins\nA. G. Cook\nAlex Consani\nEmma Chamb",
+      "duration": 265,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=cwZ1L_0QLjw",
+      "title": "Charli xcx - Von dutch (official video)",
+      "description": "Charli xcx - Von dutch\nStream: Von dutch: https://charlixcx.lnk.to/VondutchID\n\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nOfficial Hair Partner SCHWARZKOPF https://www.instagram.com/schwarzkopfpro/\n\nDirecte",
+      "duration": 214,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=rd1AZym4lEY",
+      "title": "Charli xcx - Club classics (official lyric video)",
+      "description": "Charli xcx - Club classics\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps://twitter.com/",
+      "duration": 159,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=S9s4Ckt-aKo",
+      "title": "Charli xcx - Sympathy is a knife (official lyric video)",
+      "description": "Charli xcx - Sympathy is a knife\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps://twitte",
+      "duration": 157,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=TD2j1OuHoik",
+      "title": "Charli xcx - I might say something stupid (official lyric video)",
+      "description": "Charli xcx - I might say something stupid\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps",
+      "duration": 115,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=pIs46LzZUws",
+      "title": "Charli xcx - Talk talk (official lyric video)",
+      "description": "Charli xcx - Talk talk\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps://twitter.com/char",
+      "duration": 172,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=FTIvFD7TCVg",
+      "title": "Charli xcx - Everything is romantic (official lyric video)",
+      "description": "Charli xcx - Everything is romantic\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps://twi",
+      "duration": 210,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=WlM7nm3TLnY",
+      "title": "Charli xcx - Rewind (official lyric video)",
+      "description": "Charli xcx - Rewind\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps://twitter.com/charli_",
+      "duration": 180,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=r9k1CR4LBjk",
+      "title": "Charli xcx - So I (official lyric video)",
+      "description": "Charli xcx - So I\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps://twitter.com/charli_xc",
+      "duration": 217,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=QXKvjyoH5lM",
+      "title": "Charli xcx - Girl, so confusing (official lyric video)",
+      "description": "Charli xcx - Girl, so confusing\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps://twitter",
+      "duration": 186,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=CPWxExGk7PM",
+      "title": "Charli xcx - Apple (official lyric video)",
+      "description": "Charli xcx - Apple\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps://twitter.com/charli_x",
+      "duration": 155,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=If4-ckGcr0c",
+      "title": "Charli xcx - B2b (official lyric video)",
+      "description": "Charli xcx - B2b\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps://twitter.com/charli_xcx",
+      "duration": 184,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=IKUQDMEBXN0",
+      "title": "Charli xcx - Mean girls (official lyric video)",
+      "description": "Charli xcx - Mean girls\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps://twitter.com/cha",
+      "duration": 199,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Mn0aho8Ayfk",
+      "title": "Charli xcx - I think about it all the time (official lyric video)",
+      "description": "Charli xcx - I think about it all the time\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttp",
+      "duration": 143,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Ol9CCM240Ag",
+      "title": "Charli xcx - 365 (official lyric video)",
+      "description": "Charli xcx - 365\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps://twitter.com/charli_xcx",
+      "duration": 214,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=z-lX8wsR0BI",
+      "title": "Charli XCX - Brat And It's The Same But There's Three More Songs So It's Not CD Unboxing",
+      "description": "In this video I show you the Brat And It's The Same But There's Three More Songs So It's Not CD by Charli XCX.\nI unbox the product completely for you and show you every content in detail.\n► You can get the album here:\nCD: https://amzn.to/4fJNpe8\nVinyl: ht",
+      "duration": 174,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=TWPNs4r7XXE",
+      "title": "Charli XCX - Brat CD Unboxing",
+      "description": "In this video I show you the Brat CD by Charli XCX.\nI unbox the product completely for you and show you every content in detail.\n► You can get the album here:\nCD: https://amzn.to/3E0IJmU\nVinyl: https://amzn.to/40bcetF\nDigital: https://amzn.to/40dtajj\nMore",
+      "duration": 163,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=gxp3OaPkQ5w",
+      "title": "Charli XCX - Brat And It's Completely Different But Also Still Brat CD Unboxing",
+      "description": "In this video I show you the Brat And It's Completely Different But Also Still Brat CD by Charli XCX.\nI unbox the product completely for you and show you every content in detail.\n► You can buy the album here:\nCD: https://amzn.to/40ajIi6\nDigital: https://a",
+      "duration": 237,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=3C34IZ2SCe0",
+      "title": "Charli XCX - Brat and its completely different but also still brat (3X milky clear vinyl) | UNBOXING",
+      "description": "💿 Thanks for watching!\nPlease, if you like it: subscribe, share and thumbs up!  💿 \n\none time pressing. vinyl. tri-gatefold vinyl. printed inner paper sleeve. two 20 page lyric books. \nAvailable only on the charli xcx webstore @officialcharlixcx \n\n\n📷 @myun",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=QXKvjyoH5lM",
+      "title": "Charli xcx - Girl, so confusing (official lyric video)",
+      "description": "Charli xcx - Girl, so confusing\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps://twitter",
+      "duration": 186,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=huGd4efgdPA",
+      "title": "Charli xcx - Guess featuring billie eilish (official video)",
+      "description": "Charli xcx - Guess featuring billie eilish\nStream: https://Charlixcx.lnk.to/GuessBillieEilishID\n\nPre-save/order Brat and it's completely different but also still brat: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nBRAT out now: https://charlixcx.lnk",
+      "duration": 161,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=bvy6aox2Sgw",
+      "title": "Charli xcx - 360 featuring robyn and yung lean (official lyric video)",
+      "description": "Charli xcx - 360 featuring robyn and yung lean\nStream: https://charlixcx.lnk.to/360remixID\n\nPre-save/order Brat and it's completely different but also still brat: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nStream 360: https://charlixcx.lnk.to/360",
+      "duration": 129,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=yi_8VKPnd7c",
+      "title": "Charli xcx - Club classics featuring bb trickz (official audio)",
+      "description": "Charli xcx - Club classics featuring bb trickz\nStream: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nOrder Brat and it's completely different but also still brat: https://charlixcx.lnk.to/StoreID\n\nBRAT out now: https://charlixcx.lnk.to/BRATdlxID\nOrd",
+      "duration": 175,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=jfL8Vu9PfW8",
+      "title": "Charli xcx - Sympathy is a knife featuring ariana grande (official audio)",
+      "description": "Charli xcx - Sympathy is a knife featuring ariana grande\nStream: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nOrder Brat and it's completely different but also still brat: https://charlixcx.lnk.to/StoreID\n\nBRAT out now: https://charlixcx.lnk.to/BRA",
+      "duration": 155,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=MRUdd94gyos",
+      "title": "Charli xcx - I might say something stupid featuring the 1975 & jon hopkins (official audio)",
+      "description": "Charli xcx - I might say something stupid featuring the 1975 & jon hopkins\nStream: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nOrder Brat and it's completely different but also still brat: https://charlixcx.lnk.to/StoreID\n\nBRAT out now: https://ch",
+      "duration": 251,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=K5jyIoPbu4M",
+      "title": "Charli xcx - Talk talk featuring troye sivan (official lyric video)",
+      "description": "Charli xcx - Talk talk featuring troye sivan\nStream: https://charlixcx.lnk.to/TalktalktroyeID\n\nPre-save/order Brat and it's completely different but also still brat: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nBRAT out now: https://charlixcx.lnk.t",
+      "duration": 174,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=RaiRdSlwsks",
+      "title": "Charli xcx - Von dutch (official lyric video)",
+      "description": "Charli xcx - Von dutch\nBRAT out now: https://charlixcx.lnk.to/BRATID\nOrder BRAT: https://charlixcx.lnk.to/StoreID\n\nText 1-310-861-2831\n\nhttps://charlixcx.com/\nhttps://www.tiktok.com/@charlixcx \nhttps://www.instagram.com/charli_xcx\nhttps://twitter.com/char",
+      "duration": 175,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=99dsnI6M-a4",
+      "title": "Charli xcx - Everything is romantic featuring caroline polachek (official audio)",
+      "description": "Charli xcx - Everything is romantic featuring caroline polachek\nStream: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nOrder Brat and it's completely different but also still brat: https://charlixcx.lnk.to/StoreID\n\nBRAT out now: https://charlixcx.lnk",
+      "duration": 204,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=cN7he0b0sK8",
+      "title": "Charli xcx - Rewind featuring bladee (official audio)",
+      "description": "Charli xcx - Rewind featuring bladee\nStream: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nOrder Brat and it's completely different but also still brat: https://charlixcx.lnk.to/StoreID\n\nBRAT out now: https://charlixcx.lnk.to/BRATdlxID\nOrder BRAT: h",
+      "duration": 163,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=nJsXrs1ZyNg",
+      "title": "Charli xcx - So I featuring a. g. cook (official audio)",
+      "description": "Charli xcx - So I featuring a. g. cook\nStream: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nOrder Brat and it's completely different but also still brat: https://charlixcx.lnk.to/StoreID\n\nBRAT out now: https://charlixcx.lnk.to/BRATdlxID\nOrder BRAT:",
+      "duration": 280,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=vuF38F_nMY0",
+      "title": "Charli xcx - Apple featuring the japanese house (official audio)",
+      "description": "Charli xcx - Apple featuring the japanese house\nStream: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nOrder Brat and it's completely different but also still brat: https://charlixcx.lnk.to/StoreID\n\nBRAT out now: https://charlixcx.lnk.to/BRATdlxID\nOr",
+      "duration": 158,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Lp8TaMWU-Ho",
+      "title": "Charli xcx - B2b featuring tinashe (official audio)",
+      "description": "Charli xcx - B2b featuring the tinashe\nStream: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nOrder Brat and it's completely different but also still brat: https://charlixcx.lnk.to/StoreID\n\nBRAT out now: https://charlixcx.lnk.to/BRATdlxID\nOrder BRAT:",
+      "duration": 154,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=nAhjfiJjGj0",
+      "title": "Charli xcx - Mean girls featuring julian casablancas (official audio)",
+      "description": "Charli xcx - Mean girls featuring julian casablancas\nStream: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nOrder Brat and it's completely different but also still brat: https://charlixcx.lnk.to/StoreID\n\nBRAT out now: https://charlixcx.lnk.to/BRATdlx",
+      "duration": 227,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=K3D8_Mc3XTI",
+      "title": "Charli xcx - I think about it all the time featuring bon iver (official audio)",
+      "description": "Charli xcx - I think about it all the time featuring bon iver\nStream: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nOrder Brat and it's completely different but also still brat: https://charlixcx.lnk.to/StoreID\n\nBRAT out now: https://charlixcx.lnk.t",
+      "duration": 200,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=oslpP-s_w4E",
+      "title": "Charli xcx - 365 featuring shygirl (official audio)",
+      "description": "Charli xcx - 365 featuring shygirl\nStream: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nOrder Brat and it's completely different but also still brat: https://charlixcx.lnk.to/StoreID\n\nBRAT out now: https://charlixcx.lnk.to/BRATdlxID\nOrder BRAT: htt",
+      "duration": 122,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=6YO2_O1L_YY",
+      "title": "Charli xcx - Spring breakers featuring kesha (official audio)",
+      "description": "Charli xcx - Spring breakers featuring kesha\nStream: https://charlixcx.lnk.to/bratcompletelydifferentID\n\nOrder Brat and it's completely different but also still brat: https://charlixcx.lnk.to/StoreID\n\nBRAT out now: https://charlixcx.lnk.to/BRATdlxID\nOrder",
+      "duration": 143,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Pop"
+  ],
+  "styles": [
+    "Future Pop",
+    "Electro House",
+    "Dance-pop",
+    "Electro",
+    "Synth-pop",
+    "Hyperpop",
+    "Electroclash"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "360",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Club Classics",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Sympathy Is A Knife",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "I Might Say Something Stupid",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Talk Talk",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Von Dutch",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "title": "Everything Is Romantic",
+      "duration": ""
+    },
+    {
+      "position": "B8",
+      "type_": "track",
+      "title": "Rewind ",
+      "duration": ""
+    },
+    {
+      "position": "B9",
+      "type_": "track",
+      "title": "So I",
+      "duration": ""
+    },
+    {
+      "position": "B10",
+      "type_": "track",
+      "title": "Girl, So Confusing",
+      "duration": ""
+    },
+    {
+      "position": "C11",
+      "type_": "track",
+      "title": "Apple",
+      "duration": ""
+    },
+    {
+      "position": "C12",
+      "type_": "track",
+      "title": "B2b",
+      "duration": ""
+    },
+    {
+      "position": "C13",
+      "type_": "track",
+      "title": "Mean Girls",
+      "duration": ""
+    },
+    {
+      "position": "C14",
+      "type_": "track",
+      "title": "I Think About It All The Time",
+      "duration": ""
+    },
+    {
+      "position": "C15",
+      "type_": "track",
+      "title": "365",
+      "duration": ""
+    },
+    {
+      "position": "D16",
+      "type_": "track",
+      "title": "Hello Goodbye",
+      "duration": ""
+    },
+    {
+      "position": "D17",
+      "type_": "track",
+      "title": "Guess",
+      "duration": ""
+    },
+    {
+      "position": "D18",
+      "type_": "track",
+      "title": "Spring Breakers",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/rzORQcK2cVKwD5psYp4nx8KwVutinWGvIVJ4yP4sJfs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3MzU5MDU1/NzAtNzA1OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/rzORQcK2cVKwD5psYp4nx8KwVutinWGvIVJ4yP4sJfs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3MzU5MDU1/NzAtNzA1OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/AwCDsvZis5wKXTyRlzKpBLDsK8AvCF__aBmywlHcyuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3MzU5MDU1/NzAtNzA1OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/SnGVtChGXMa3JB-T9ROKxaDafLWhJwbB9EBh1n8tKqY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3MjgzOTcx/NTMtNzgyOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/SnGVtChGXMa3JB-T9ROKxaDafLWhJwbB9EBh1n8tKqY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3MjgzOTcx/NTMtNzgyOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/uNRJ5RcELzxoGal9YD5N4Fhn_YXwairJUflp1g2LkuM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3MjgzOTcx/NTMtNzgyOC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ufszRH88vxxcnIk-JBNo53nuFUY0JcoPxFAGaoSYMAg/rs:fit/g:sm/q:90/h:291/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3MjgzOTcx/NTItNTczMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ufszRH88vxxcnIk-JBNo53nuFUY0JcoPxFAGaoSYMAg/rs:fit/g:sm/q:90/h:291/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3MjgzOTcx/NTItNTczMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/tZ4FZQSvB6H-EY2B5NMsLQn4q9zfNNLAIEzXK0GBCj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3MjgzOTcx/NTItNTczMC5qcGVn.jpeg",
+      "width": 600,
+      "height": 291
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/VN7GFbJJr8s0cBWko1rPZQvAnV7QAc2jvjLzlA-5Kg8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3MjgzOTcx/NTMtNzA3NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/VN7GFbJJr8s0cBWko1rPZQvAnV7QAc2jvjLzlA-5Kg8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3MjgzOTcx/NTMtNzA3NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/MVETM3opzWuT2NO8lJ7et9_YeFAU0XumXq2HtY9iamg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3MjgzOTcx/NTMtNzA3NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/dg8al11x3elNf0m3fCUJUTJwyv1sNsFkYwbHtrwCQec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3MjgzOTcx/NTMtOTM4OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/dg8al11x3elNf0m3fCUJUTJwyv1sNsFkYwbHtrwCQec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3MjgzOTcx/NTMtOTM4OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ASeb5GI0PH6_1Rk09L8_hNmWfZMktPsgQaM7K6es01U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3MjgzOTcx/NTMtOTM4OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/X58jZ623iC_LbQ5Ys3KTDbdRYU3d7x8f6bwTLoKChPw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3MjgzOTcx/NTMtMzczNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/X58jZ623iC_LbQ5Ys3KTDbdRYU3d7x8f6bwTLoKChPw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3MjgzOTcx/NTMtMzczNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/nrzHFrV_h_6gL8rcgDL4zvLBbZjH60XmYuzztDU1VzQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3MjgzOTcx/NTMtMzczNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/X_PtRFmkhErZR12BfqMsKzuqXf7SS7mzX0j2Ybz_PfE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3MjgzOTcx/NTMtNDUwMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/X_PtRFmkhErZR12BfqMsKzuqXf7SS7mzX0j2Ybz_PfE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3MjgzOTcx/NTMtNDUwMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/1w8VK2UT-anfyL5fJ4GpoxRNNQvG2dzeW4Nu-gcSHo0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3MjgzOTcx/NTMtNDUwMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/53fwIGbv85kySQCrZBySp_P8jhUzzrv5Cra3Lbemcf0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzctODkxNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/53fwIGbv85kySQCrZBySp_P8jhUzzrv5Cra3Lbemcf0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzctODkxNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/9loNO5EM9oAi2f8alkU2O4ULAPeX6mOVz-TDKx9ipr4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzctODkxNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/QuccXfqKoRrVVHrFlf6rVYgNbndn_gTamCO0OZeYo74/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzctNDIwOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/QuccXfqKoRrVVHrFlf6rVYgNbndn_gTamCO0OZeYo74/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzctNDIwOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/bxoi5YvOlBveXvG4M3bdx6zRsjYUktlt81yx1bLEeUs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzctNDIwOC5qcGVn.jpeg",
+      "width": 600,
+      "height": 299
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/UVzraz5CT9a1jc0K7RR16xtBG-UbYAxdN7ed3U2CToo/rs:fit/g:sm/q:90/h:292/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzgtODQxNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/UVzraz5CT9a1jc0K7RR16xtBG-UbYAxdN7ed3U2CToo/rs:fit/g:sm/q:90/h:292/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzgtODQxNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/8p_eqDPAh3me420L87aAKpzmTZC_8YHbQPyPfxmfdL4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzgtODQxNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 292
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/KUA12Ux1ppOv1KRyqhfvaBqGIFw1In6UR6-EcLtK4zg/rs:fit/g:sm/q:90/h:301/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzgtMzc5OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/KUA12Ux1ppOv1KRyqhfvaBqGIFw1In6UR6-EcLtK4zg/rs:fit/g:sm/q:90/h:301/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzgtMzc5OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/daZB4Lecs7TFzuz5-BNbFVYUhBKQSHm4Pmn_6MRj0XA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzgtMzc5OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 301
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/_I3tYyB5e5A160EIwVt9uoZLCRoHtHtYGtm19pI8JvY/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzctODQwOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/_I3tYyB5e5A160EIwVt9uoZLCRoHtHtYGtm19pI8JvY/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzctODQwOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/8FMuq8mXbrvleusC4_CIahHc0Zr4BvfiqrAdfZD1wn4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzctODQwOC5qcGVn.jpeg",
+      "width": 600,
+      "height": 298
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/dM5LO5P5k_8flGYg-LTqmQzjH_343rKda7CK8G4om9A/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzctMzI3My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/dM5LO5P5k_8flGYg-LTqmQzjH_343rKda7CK8G4om9A/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzctMzI3My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/FV7jAysVrsBuBeIqx2oEzC77p2BYYqD-xbX2OKqYyVQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzctMzI3My5qcGVn.jpeg",
+      "width": 600,
+      "height": 300
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/jzmH30dq1gHg4rk4IN-X_hDQGDa1NYHx8c7si7OYJFA/rs:fit/g:sm/q:90/h:303/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzYtMTUzNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/jzmH30dq1gHg4rk4IN-X_hDQGDa1NYHx8c7si7OYJFA/rs:fit/g:sm/q:90/h:303/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzYtMTUzNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/HYQ4joxGayc5hxxV8JnhXAIwM_2A8xaU593vsgCqIMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzYtMTUzNi5qcGVn.jpeg",
+      "width": 600,
+      "height": 303
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/6h61qxoX9JpXocVgMytmSFFFctGghMh7IzcnH4ym_Xs/rs:fit/g:sm/q:90/h:305/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzctNzU1Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/6h61qxoX9JpXocVgMytmSFFFctGghMh7IzcnH4ym_Xs/rs:fit/g:sm/q:90/h:305/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzctNzU1Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/4Xof7B7XRWNQ5OHa-L9HfEtdP-0c3P_TABHPUiUr2ic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzctNzU1Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 305
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/pSpE_goRurx3zKxWj7yM2Lw3acnxbP2p2oDH1On5ekk/rs:fit/g:sm/q:90/h:301/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzctMTM2My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/pSpE_goRurx3zKxWj7yM2Lw3acnxbP2p2oDH1On5ekk/rs:fit/g:sm/q:90/h:301/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzctMTM2My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/FHjSl2N3zGm1Y2ZnEl86n3a3wlxuUsEBSi6mw1r5J0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzctMTM2My5qcGVn.jpeg",
+      "width": 600,
+      "height": 301
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/GpBDLd2pM1_KjgMtlz4hlDlB87cq-PcuEbyvto83zLw/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzgtODE5OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/GpBDLd2pM1_KjgMtlz4hlDlB87cq-PcuEbyvto83zLw/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzgtODE5OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/YuJ-ePcwD1Hf9vA2E_WVCTXaGVv5AbNp3GSxX_w53GM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzgtODE5OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 300
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/4g3h3MR3XMJ-fkxJbaaK0PdJAA-tzSrKh0P4BzaQB5Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzgtNTM3Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/4g3h3MR3XMJ-fkxJbaaK0PdJAA-tzSrKh0P4BzaQB5Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzgtNTM3Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/MSf1FQvwxWijZ_nHX14qS0x09Q4KX7o-lWPHRT4rZkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3Mjk2Njkz/NzgtNTM3Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/AwCDsvZis5wKXTyRlzKpBLDsK8AvCF__aBmywlHcyuE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTQz/ODMzLTE3MzU5MDU1/NzAtNzA1OC5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

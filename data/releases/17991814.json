@@ -1,0 +1,992 @@
+{
+  "id": 17991814,
+  "status": "Accepted",
+  "year": 2021,
+  "resource_url": "https://api.discogs.com/releases/17991814",
+  "uri": "https://www.discogs.com/release/17991814-Dua-Lipa-Future-Nostalgia-The-Moonlight-Edition",
+  "artists": [
+    {
+      "name": "Dua Lipa",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 4357593,
+      "resource_url": "https://api.discogs.com/artists/4357593",
+      "thumbnail_url": "https://i.discogs.com/PL96BG_DAKBammFFry8dlfxbtu4YiHQsFPl3WRjaTNM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQzNTc1/OTMtMTc3NTMyNjYz/MC00MjU1LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Dua Lipa",
+  "labels": [
+    {
+      "name": "Warner Records",
+      "catno": "0190295076139",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 134882,
+      "resource_url": "https://api.discogs.com/labels/134882",
+      "thumbnail_url": "https://i.discogs.com/VXe1252-kjlsKC8ahwKwRSTBIYAEwTInthD7CiS8BLE/rs:fit/g:sm/q:90/h:216/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzNDg4/Mi0xNTYzNDU4NDI5/LTk2NjguanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Warner Records UK",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 1778701,
+      "resource_url": "https://api.discogs.com/labels/1778701"
+    },
+    {
+      "name": "Dua Lipa Limited",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 950847,
+      "resource_url": "https://api.discogs.com/labels/950847"
+    },
+    {
+      "name": "RCA Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 29656,
+      "resource_url": "https://api.discogs.com/labels/29656",
+      "thumbnail_url": "https://i.discogs.com/EN9PpsplNgyWdRKTy1QohI1E5-1H-AkSgtzqej8WFu0/rs:fit/g:sm/q:90/h:94/w:283/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5NjU2/LTE0OTAwODk0MTQt/MjI5My5wbmc.jpeg"
+    },
+    {
+      "name": "Universal Music Latino",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 36586,
+      "resource_url": "https://api.discogs.com/labels/36586",
+      "thumbnail_url": "https://i.discogs.com/IAk5Tyyhcaag7rsVG5P1QRcg9gdeGCFW1QNg8bbPhW0/rs:fit/g:sm/q:90/h:266/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM2NTg2/LTEyNjYxMjAxNDcu/anBlZw.jpeg"
+    },
+    {
+      "name": "NEON16",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 1638904,
+      "resource_url": "https://api.discogs.com/labels/1638904",
+      "thumbnail_url": "https://i.discogs.com/cQcrHiKmhD0LrEYf5wA6PH9PTqTyXINqNT1Xn5WSdYA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2Mzg5/MDQtMTY4ODA2MDI0/MS01Mzc4LnBuZw.jpeg"
+    },
+    {
+      "name": "Sueños Globales, LLC",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 1872535,
+      "resource_url": "https://api.discogs.com/labels/1872535"
+    },
+    {
+      "name": "Dua Lipa Limited",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 950847,
+      "resource_url": "https://api.discogs.com/labels/950847"
+    },
+    {
+      "name": "Warner Music UK Ltd.",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 22328,
+      "resource_url": "https://api.discogs.com/labels/22328",
+      "thumbnail_url": "https://i.discogs.com/nWDwupZCLnkCwVs_ixgEnHIEanasSny8CjbDuDg_ep4/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIyMzI4/LTE1MTkyNDA3NDAt/MTExMS5qcGVn.jpeg"
+    },
+    {
+      "name": "UMG Recordings, Inc.",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 272782,
+      "resource_url": "https://api.discogs.com/labels/272782",
+      "thumbnail_url": "https://i.discogs.com/WX78Ss6rJPzD8aWRj-wynSuGlTwtQLp2QLnUFGDI3Pg/rs:fit/g:sm/q:90/h:80/w:534/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Mjc4/Mi0xNDU3MDEyNDAw/LTExMzYuanBlZw.jpeg"
+    },
+    {
+      "name": "Sony Music Entertainment",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 29073,
+      "resource_url": "https://api.discogs.com/labels/29073",
+      "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+    },
+    {
+      "name": "Abbey Road Studios",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 217694,
+      "resource_url": "https://api.discogs.com/labels/217694",
+      "thumbnail_url": "https://i.discogs.com/XDYTZcjSSoTI3eUuMARX4Yjr7f6Ajl1tGgCYQr24Qms/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxNzY5/NC0xNTI0Njg3MDc3/LTM2NzEucG5n.jpeg"
+    },
+    {
+      "name": "Optimal Media GmbH",
+      "catno": "BJ95036",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 313190,
+      "resource_url": "https://api.discogs.com/labels/313190",
+      "thumbnail_url": "https://i.discogs.com/VHruzHmKvGgDvoWX6iI_4n5eC7mKyVei1mNz573rJtk/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxMzE5/MC0xNTE2MzgxNjk2/LTIzMTgucG5n.jpeg"
+    },
+    {
+      "name": "Optimal Media GmbH",
+      "catno": "BK29558",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 313190,
+      "resource_url": "https://api.discogs.com/labels/313190",
+      "thumbnail_url": "https://i.discogs.com/VHruzHmKvGgDvoWX6iI_4n5eC7mKyVei1mNz573rJtk/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxMzE5/MC0xNTE2MzgxNjk2/LTIzMTgucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Stereo"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 19982,
+    "want": 2592,
+    "rating": {
+      "count": 1264,
+      "average": 4.65
+    },
+    "submitter": {
+      "username": "Spinning_Discs",
+      "resource_url": "https://api.discogs.com/users/Spinning_Discs"
+    },
+    "contributors": [
+      {
+        "username": "Spinning_Discs",
+        "resource_url": "https://api.discogs.com/users/Spinning_Discs"
+      },
+      {
+        "username": "cjeast1975",
+        "resource_url": "https://api.discogs.com/users/cjeast1975"
+      },
+      {
+        "username": "Shawzee",
+        "resource_url": "https://api.discogs.com/users/Shawzee"
+      },
+      {
+        "username": "_jules",
+        "resource_url": "https://api.discogs.com/users/_jules"
+      },
+      {
+        "username": "hwf",
+        "resource_url": "https://api.discogs.com/users/hwf"
+      },
+      {
+        "username": "vrifalk",
+        "resource_url": "https://api.discogs.com/users/vrifalk"
+      },
+      {
+        "username": "jessscarlett",
+        "resource_url": "https://api.discogs.com/users/jessscarlett"
+      },
+      {
+        "username": "nicky.collects",
+        "resource_url": "https://api.discogs.com/users/nicky.collects"
+      },
+      {
+        "username": "singles8698",
+        "resource_url": "https://api.discogs.com/users/singles8698"
+      },
+      {
+        "username": "trout-al",
+        "resource_url": "https://api.discogs.com/users/trout-al"
+      },
+      {
+        "username": "Skinheadmate",
+        "resource_url": "https://api.discogs.com/users/Skinheadmate"
+      },
+      {
+        "username": "fkanico",
+        "resource_url": "https://api.discogs.com/users/fkanico"
+      },
+      {
+        "username": "alvarodquin26",
+        "resource_url": "https://api.discogs.com/users/alvarodquin26"
+      },
+      {
+        "username": "zevulon",
+        "resource_url": "https://api.discogs.com/users/zevulon"
+      },
+      {
+        "username": "la-trading",
+        "resource_url": "https://api.discogs.com/users/la-trading"
+      },
+      {
+        "username": "Vinylistick.",
+        "resource_url": "https://api.discogs.com/users/Vinylistick."
+      },
+      {
+        "username": "ArnoldMoran",
+        "resource_url": "https://api.discogs.com/users/ArnoldMoran"
+      },
+      {
+        "username": "Pheenixx",
+        "resource_url": "https://api.discogs.com/users/Pheenixx"
+      },
+      {
+        "username": "HoliestKaty",
+        "resource_url": "https://api.discogs.com/users/HoliestKaty"
+      },
+      {
+        "username": "remco2502",
+        "resource_url": "https://api.discogs.com/users/remco2502"
+      },
+      {
+        "username": "jp_fal",
+        "resource_url": "https://api.discogs.com/users/jp_fal"
+      },
+      {
+        "username": "hectorlistensto",
+        "resource_url": "https://api.discogs.com/users/hectorlistensto"
+      },
+      {
+        "username": "Jacrio",
+        "resource_url": "https://api.discogs.com/users/Jacrio"
+      },
+      {
+        "username": "senor_velasco",
+        "resource_url": "https://api.discogs.com/users/senor_velasco"
+      },
+      {
+        "username": "longgoneday1",
+        "resource_url": "https://api.discogs.com/users/longgoneday1"
+      },
+      {
+        "username": "SP_Vinyl",
+        "resource_url": "https://api.discogs.com/users/SP_Vinyl"
+      },
+      {
+        "username": "jctrl",
+        "resource_url": "https://api.discogs.com/users/jctrl"
+      },
+      {
+        "username": "TReimer",
+        "resource_url": "https://api.discogs.com/users/TReimer"
+      },
+      {
+        "username": "crudedrawing",
+        "resource_url": "https://api.discogs.com/users/crudedrawing"
+      },
+      {
+        "username": "glman",
+        "resource_url": "https://api.discogs.com/users/glman"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2021-03-24T10:32:25-07:00",
+  "date_changed": "2025-03-30T06:04:50-07:00",
+  "num_for_sale": 159,
+  "lowest_price": 20,
+  "master_id": 1705638,
+  "master_url": "https://api.discogs.com/masters/1705638",
+  "title": "Future Nostalgia (The Moonlight Edition)",
+  "country": "Worldwide",
+  "released": "2021-03-26",
+  "notes": "Expanded edition of 'Future Nostalgia'.\nGatefold sleeve.\n\nA Warner Records UK Release ℗ & © 2021 Dua Lipa Limited under exclusive license to Warner Music UK Limited. Except tracks 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 18 ℗ 2020, tracks 1 & 2 ℗ 2018 Dua Lipa Limited under exclusive license to Warner Music UK Limited, track 14 ℗ 2020 RCA Records, a division of Sony Music Entertainment, track 19 ℗ 2020 Sueños Globales, LLC. Exclusively licensed to UMG Recordings Inc. ℗ Universal Music Latino/NEON16\nMade in Germany.",
+  "released_formatted": "26 Mar 2021",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "0 190295 076139",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "190295076139",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BJ95036-01 A1 0190295288501 MILES.ABBEY ROAD.ROOM30",
+      "description": "Side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BJ95036-01 B1 0190295288501 MILES.ABBEY ROAD.ROOM30",
+      "description": "Side B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BK29558-01 A1 0190295076139 MILES.ABBEY ROAD.ROOM30",
+      "description": "Side C"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BK29558-01 B1 0190295076139 MILES.ABBEY ROAD.ROOM30",
+      "description": "Side D"
+    },
+    {
+      "type": "Rights Society",
+      "value": "GEMA / MCPS"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=8EJ-vZyBzOQ",
+      "title": "Dua Lipa - Future Nostalgia (Official Lyrics Video)",
+      "description": "The official lyric video for Dua Lipa - Future Nostalgia\n\nTaken from her second studio album 'Future Nostalgia' released in 2020, which featured the hit singles 'Don't Start Now', 'Physical', 'Break My Heart', 'Hallucinate' & 'Levitating'\n\nGet the album F",
+      "duration": 188,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=oygrmJFKYZY",
+      "title": "Dua Lipa - Don't Start Now (Official Music Video)",
+      "description": "The official music video for Dua Lipa - Don't Start Now\n\nTaken from her second studio album 'Future Nostalgia' released in 2020, which featured the hit singles 'Don't Start Now', 'Physical', 'Break My Heart', 'Hallucinate' & 'Levitating'\n\nGet the album Fu",
+      "duration": 182,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=uY8tAKDVxK8",
+      "title": "Dua Lipa - Cool (Official Lyrics Video)",
+      "description": "The official lyric video for Dua Lipa - Cool\n\nTaken from her second studio album 'Future Nostalgia' released in 2020, which featured the hit singles 'Don't Start Now', 'Physical', 'Break My Heart', 'Hallucinate' & 'Levitating'\n\nGet the album Future Nostal",
+      "duration": 216,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=qcZ7e9EOQTY",
+      "title": "Dua Lipa - Hallucinate (Official Music Video)",
+      "description": "The official music video for Dua Lipa - Hallucinate\n\nTaken from her second studio album 'Future Nostalgia' released in 2020, which featured the hit singles 'Don't Start Now', 'Physical', 'Break My Heart', 'Hallucinate' & 'Levitating'\n\nGet the album Future",
+      "duration": 208,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=9HDEHj2yzew",
+      "title": "Dua Lipa - Physical (Official Video)",
+      "description": "The official music video for Dua Lipa - Physical\n\nTaken from her second studio album 'Future Nostalgia' released in 2020, which featured the hit singles 'Don't Start Now', 'Physical', 'Break My Heart', 'Hallucinate' & 'Levitating'\n\nGet the album Future No",
+      "duration": 244,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=N000qglmmY0",
+      "title": "Dua Lipa - Levitating (Official Animated Music Video)",
+      "description": "The official animated music video for Dua Lipa - Levitating\n\nAnimation: NOSTALOOK\nCreative Director: Yu Tsubaki\nArt Director / Writer: Kenta Orisaka\nProducer: Yuta Ueno (TOKYO)\nSpecial thanks to Hiroyuki Sekiguchi, Sarika Takigawa (Warner Music Japan)\n\nTa",
+      "duration": 210,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ylzhMn6MlVc",
+      "title": "Dua Lipa - Pretty Please (Official Lyrics Video)",
+      "description": "The official lyric video for Dua Lipa - Pretty Please\n\nTaken from her second studio album 'Future Nostalgia' released in 2020, which featured the hit singles 'Don't Start Now', 'Physical', 'Break My Heart', 'Hallucinate' & 'Levitating'\n\nGet the album Futu",
+      "duration": 195,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=BC19kwABFwc",
+      "title": "Dua Lipa - Love Again (Official Music Video)",
+      "description": "The official music video for Dua Lipa – Love Again\n\nStream Love Again: https://dualipa.co/LoveAgain\n\nGet the album Future Nostalgia (The Moonlight Edition): https://dualipa.co/FN-MoonlightEdition\n\nSubscribe to the Dua Lipa channel for all the best and lat",
+      "duration": 263,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Nj2U6rhnucI",
+      "title": "Dua Lipa - Break My Heart (Official Video)",
+      "description": "The official music video for Dua Lipa - Break My Heart\n\nTaken from her second studio album 'Future Nostalgia' released in 2020, which featured the hit singles 'Don't Start Now', 'Physical', 'Break My Heart', 'Hallucinate' & 'Levitating'\n\nGet the album Fut",
+      "duration": 230,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=bJKr_XQIALk",
+      "title": "Dua Lipa - Good In Bed (Official Lyrics Video)",
+      "description": "The official lyric video for Dua Lipa - Good In Bed\n\nTaken from her second studio album 'Future Nostalgia' released in 2020, which featured the hit singles 'Don't Start Now', 'Physical', 'Break My Heart', 'Hallucinate' & 'Levitating'\n\nGet the album Future",
+      "duration": 225,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=k0QWX2M7W7M",
+      "title": "Dua Lipa - Boys Will Be Boys (Official Lyrics Video)",
+      "description": "The official lyric video for Dua Lipa - Boys Will Be Boys\n\nTaken from her second studio album 'Future Nostalgia' released in 2020, which featured the hit singles 'Don't Start Now', 'Physical', 'Break My Heart', 'Hallucinate' & 'Levitating'\n\nGet the album ",
+      "duration": 167,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=vMs9pO_qi6M",
+      "title": "Dua Lipa - Future Nostalgia / unboxing signed card /",
+      "description": "Thank you for watching. If you want to support my channel - watch a few other videos.\n\nInstagram https://www.instagram.com/coversofalbums/\nFacebook https://www.facebook.com/coversofalbums/\nVK https://vk.com/club63662221\n\n#DuaLipa",
+      "duration": 45,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=yLGQWB36vtg",
+      "title": "Dua Lipa - Future Nostalgia (The Moonlight Edition) / vinyl unboxing /",
+      "description": "Thank you for watching. If you want to support my channel - watch a few other videos.\n\nInstagram https://www.instagram.com/coversofalbums/\nFacebook https://www.facebook.com/coversofalbums/\nVK https://vk.com/club63662221\n\n#DuaLipa #vinyl #lp",
+      "duration": 150,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=s0KF3AWd7Wg",
+      "title": "Pretty Please (Masters at Work Remix)",
+      "description": "Provided to YouTube by Warner Records\n\nPretty Please (Masters at Work Remix) · Dua Lipa\n\nPretty Please (Masters at Work Remix)\n\n℗ 2020 Dua Lipa Limited under exclusive license to Warner Records UK, a division of Warner Music UK Limited\n\nVocals: Dua Lipa\nA",
+      "duration": 243,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Hip Hop",
+    "Latin",
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Synth-pop",
+    "Pop Rap",
+    "Dance-pop",
+    "Latin",
+    "Disco"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        }
+      ],
+      "title": "Future Nostalgia",
+      "duration": "3:04"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        }
+      ],
+      "title": "Don't Start Now",
+      "duration": "3:03"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        }
+      ],
+      "title": "Cool",
+      "duration": "3:29"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        }
+      ],
+      "title": "Physical",
+      "duration": "3:13"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        }
+      ],
+      "title": "Levitating",
+      "duration": "3:23"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        }
+      ],
+      "title": "Pretty Please",
+      "duration": "3:14"
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        }
+      ],
+      "title": "Hallucinate",
+      "duration": "3:28"
+    },
+    {
+      "position": "B8",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        }
+      ],
+      "title": "Love Again",
+      "duration": "4:18"
+    },
+    {
+      "position": "B9",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        }
+      ],
+      "title": "Break My Heart",
+      "duration": "3:41"
+    },
+    {
+      "position": "B10",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        }
+      ],
+      "title": "Good In Bed",
+      "duration": "3:38"
+    },
+    {
+      "position": "B11",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        }
+      ],
+      "title": "Boys Will Be Boys",
+      "duration": "2:56"
+    },
+    {
+      "position": "C12",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "x",
+          "role": "",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        },
+        {
+          "name": "Angèle (3)",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 5226023,
+          "resource_url": "https://api.discogs.com/artists/5226023"
+        }
+      ],
+      "title": "Fever",
+      "duration": "2:36"
+    },
+    {
+      "position": "C13",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        }
+      ],
+      "title": "We're Good",
+      "duration": "2:45"
+    },
+    {
+      "position": "C14",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        }
+      ],
+      "title": "Prisoner",
+      "extraartists": [
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        }
+      ],
+      "duration": "2:49"
+    },
+    {
+      "position": "C15",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        }
+      ],
+      "title": "If It Ain't Me",
+      "duration": "3:15"
+    },
+    {
+      "position": "D16",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        }
+      ],
+      "title": "That Kind Of Woman",
+      "duration": "3:20"
+    },
+    {
+      "position": "D17",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        }
+      ],
+      "title": "Not My Problem",
+      "extraartists": [
+        {
+          "name": "J.I.D",
+          "anv": "JID",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 7246829,
+          "resource_url": "https://api.discogs.com/artists/7246829"
+        }
+      ],
+      "duration": "2:23"
+    },
+    {
+      "position": "D18",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        }
+      ],
+      "title": "Levitating",
+      "extraartists": [
+        {
+          "name": "Dababy",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 6619834,
+          "resource_url": "https://api.discogs.com/artists/6619834"
+        }
+      ],
+      "duration": "3:23"
+    },
+    {
+      "position": "D19",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "J. Balvin",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 3460330,
+          "resource_url": "https://api.discogs.com/artists/3460330"
+        },
+        {
+          "name": "Dua Lipa",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 4357593,
+          "resource_url": "https://api.discogs.com/artists/4357593"
+        },
+        {
+          "name": "Bad Bunny",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 5894905,
+          "resource_url": "https://api.discogs.com/artists/5894905"
+        }
+      ],
+      "title": "Un Día (One Day)",
+      "extraartists": [
+        {
+          "name": "Tainy",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 868221,
+          "resource_url": "https://api.discogs.com/artists/868221"
+        }
+      ],
+      "duration": "3:51"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Hugo Comte",
+      "anv": "",
+      "join": "",
+      "role": "Art Direction, Photography By",
+      "tracks": "",
+      "id": 6950909,
+      "resource_url": "https://api.discogs.com/artists/6950909"
+    },
+    {
+      "name": "Guillaume Sbalchiero",
+      "anv": "",
+      "join": "",
+      "role": "Graphic Design, Design [Logo Design]",
+      "tracks": "",
+      "id": 7769222,
+      "resource_url": "https://api.discogs.com/artists/7769222"
+    },
+    {
+      "name": "Miles Showell",
+      "anv": "Miles",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 383408,
+      "resource_url": "https://api.discogs.com/artists/383408"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/vaXkidAqaJueGBB_F7MGIG7Rma5oAjzXKrBE7SFfW9M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE3MTAyNzM5/NDgtMzc4MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/vaXkidAqaJueGBB_F7MGIG7Rma5oAjzXKrBE7SFfW9M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE3MTAyNzM5/NDgtMzc4MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/-LxjZ4arNFXTeYojGAaneZJcuITa7fEGBxRRXPP1tbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE3MTAyNzM5/NDgtMzc4MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/wt9__3EbmITub-FCAshQ9o88riDCoLxBFspGrRaCJUE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE3MTEzODky/MTUtNjE1NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/wt9__3EbmITub-FCAshQ9o88riDCoLxBFspGrRaCJUE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE3MTEzODky/MTUtNjE1NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/XiwkX32LZC5mCzzMfhtj6GE9W9f7ZrOmJQcWKYb5SEY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE3MTEzODky/MTUtNjE1NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/nP7dTa1D4n5Z4dD203WwLwv0T4kkvWcWXlNFcfbEtLI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE3MTEzODky/MTUtODU1NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/nP7dTa1D4n5Z4dD203WwLwv0T4kkvWcWXlNFcfbEtLI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE3MTEzODky/MTUtODU1NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/3wRsQDOTXO2m7PwhEO0HRu8Ln73GJzAaulBgJ59nV68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE3MTEzODky/MTUtODU1NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/g4vo6cl4jCrmHrfnNtiY8Ch9ZqnuQNHNe3YqOmp8ehE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE3MTAyNzM5/NDgtNTU3Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/g4vo6cl4jCrmHrfnNtiY8Ch9ZqnuQNHNe3YqOmp8ehE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE3MTAyNzM5/NDgtNTU3Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/lsZXIPU7QeQFAU4q0cnMCwH7Y991x4fYKP-d0WoYVpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE3MTAyNzM5/NDgtNTU3Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/YGvvCQnxtH9Z6cLGZu0xAy7KJVhPvST1WTVufKqFyoM/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE2MTg4Mjkw/MjMtNDg4Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/YGvvCQnxtH9Z6cLGZu0xAy7KJVhPvST1WTVufKqFyoM/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE2MTg4Mjkw/MjMtNDg4Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/kLI5qF-0U6SaAhGO1iv_NtzLKlTAPpZkQG5XLgtaVgk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE2MTg4Mjkw/MjMtNDg4Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 584
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/uwGgIIruSsC47amhtiYxwMRDHRcQT2WD1byBUOWEf3g/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE2MTg4Mjkw/MjQtMTc4Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/uwGgIIruSsC47amhtiYxwMRDHRcQT2WD1byBUOWEf3g/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE2MTg4Mjkw/MjQtMTc4Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Kjr3V3OfNdEFBMagsEH5yBSdXlqo-fpnPGDjiQ3LM18/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE2MTg4Mjkw/MjQtMTc4Ni5qcGVn.jpeg",
+      "width": 578,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/8TlFYX5fVqjpcDV-sugolBjR4_KvtMcJlAUmt-nUBPg/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE2MTg4Mjkw/MjItNjAxNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/8TlFYX5fVqjpcDV-sugolBjR4_KvtMcJlAUmt-nUBPg/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE2MTg4Mjkw/MjItNjAxNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/W0Jhm-zc9THmki_wLYo5icwz7Z_VOCqAQgR2Bu436D8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE2MTg4Mjkw/MjItNjAxNy5qcGVn.jpeg",
+      "width": 585,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/0XINvc8iS7_b2kFI4auF_IXIX9R_z5p8Hm8PsKKSnrU/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE2MTg4Mjkw/MjQtMTcyMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/0XINvc8iS7_b2kFI4auF_IXIX9R_z5p8Hm8PsKKSnrU/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE2MTg4Mjkw/MjQtMTcyMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/UDLFfHsPTCZlLjUqWytKxLF6SalSO75ZKE53YafatXY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE2MTg4Mjkw/MjQtMTcyMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 587
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/rbI2OiFN1EElqttHnmP4xYSMXdIrWdHhiHLMMolevx0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE2MTg4Mjkw/MjUtNjYxNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/rbI2OiFN1EElqttHnmP4xYSMXdIrWdHhiHLMMolevx0/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE2MTg4Mjkw/MjUtNjYxNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/naGpE-WZZlFRHEx9Dq0Kbgw1duMPLNy5qpwYy-UE8tM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE2MTg4Mjkw/MjUtNjYxNi5qcGVn.jpeg",
+      "width": 598,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/-bxiKnGmB-eUxHEg3v4JXcRzekHtFxa85_mAD-us-nc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE2MTg4Mjkw/MjQtNzI2Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/-bxiKnGmB-eUxHEg3v4JXcRzekHtFxa85_mAD-us-nc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE2MTg4Mjkw/MjQtNzI2Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Kq-1hi9HeoJFLA6Ud-xdw0nbynbhAov8gq_rnMayZUU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE2MTg4Mjkw/MjQtNzI2Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 595
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/b36WI2HufxxQgrcJUDmrRwb9mgfratZ2wtCxmrpxCjg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE2MTY2MDc2/MzItNTI5Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/b36WI2HufxxQgrcJUDmrRwb9mgfratZ2wtCxmrpxCjg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE2MTY2MDc2/MzItNTI5Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/vB08GZfXNoME5PRcMRqUw9DqRJPCHnvIiFXnTc74l2c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE2MTY2MDc2/MzItNTI5Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/C8eBE7MxjHaSVq2iAEsAbNBWutMVnNzf9noVK6iLRX8/rs:fit/g:sm/q:90/h:424/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE2NjE3MTg0/NjEtODYzOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/C8eBE7MxjHaSVq2iAEsAbNBWutMVnNzf9noVK6iLRX8/rs:fit/g:sm/q:90/h:424/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE2NjE3MTg0/NjEtODYzOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/N2UH2zNRG5wHKVPQif9k2Moxd0l2phMjUwnV1-g-GeE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE2NjE3MTg0/NjEtODYzOC5qcGVn.jpeg",
+      "width": 600,
+      "height": 424
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/FX3DUt_sTLdLDO7zS_0Wiuf1YCa2eiE6LmPFtYKiKqU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE2ODI5NjU2/ODUtMzQ1NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/FX3DUt_sTLdLDO7zS_0Wiuf1YCa2eiE6LmPFtYKiKqU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE2ODI5NjU2/ODUtMzQ1NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/k1yVJciMzOSDp93bYfcWAGeRotJDVigs68Na5tauri4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE2ODI5NjU2/ODUtMzQ1NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/-LxjZ4arNFXTeYojGAaneZJcuITa7fEGBxRRXPP1tbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3OTkx/ODE0LTE3MTAyNzM5/NDgtMzc4MC5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

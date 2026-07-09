@@ -1,0 +1,384 @@
+{
+  "id": 33939060,
+  "status": "Accepted",
+  "year": 2025,
+  "resource_url": "https://api.discogs.com/releases/33939060",
+  "uri": "https://www.discogs.com/release/33939060-Kali-Uchis-Sincerely",
+  "artists": [
+    {
+      "name": "Kali Uchis",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 3741760,
+      "resource_url": "https://api.discogs.com/artists/3741760",
+      "thumbnail_url": "https://i.discogs.com/OPuUzWav0YIa5dKNDf7GihiQBKu8pEBJHTWclPjl3cE/rs:fit/g:sm/q:90/h:569/w:569/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM3NDE3/NjAtMTc1NzQ2ODEw/NS02NTAzLnBuZw.jpeg"
+    }
+  ],
+  "artists_sort": "Kali Uchis",
+  "labels": [
+    {
+      "name": "Capitol Records",
+      "catno": "00602475438847",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 654,
+      "resource_url": "https://api.discogs.com/labels/654",
+      "thumbnail_url": "https://i.discogs.com/jOm50Ncnop3VOhKg0rYbdvq7epxn5mnXdOWfVQNjOBg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY1NC0x/NzgxODU0Mzk3LTU2/MzcuanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Kali Uchis LLC",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 1786342,
+      "resource_url": "https://api.discogs.com/labels/1786342"
+    },
+    {
+      "name": "Kali Uchis LLC",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 1786342,
+      "resource_url": "https://api.discogs.com/labels/1786342"
+    },
+    {
+      "name": "UMG Recordings, Inc.",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 272782,
+      "resource_url": "https://api.discogs.com/labels/272782",
+      "thumbnail_url": "https://i.discogs.com/WX78Ss6rJPzD8aWRj-wynSuGlTwtQLp2QLnUFGDI3Pg/rs:fit/g:sm/q:90/h:80/w:534/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Mjc4/Mi0xNDU3MDEyNDAw/LTExMzYuanBlZw.jpeg"
+    },
+    {
+      "name": "Universal Music International B.V.",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 57071,
+      "resource_url": "https://api.discogs.com/labels/57071"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "text": "Pink"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 3259,
+    "want": 412,
+    "rating": {
+      "count": 372,
+      "average": 4.72
+    },
+    "submitter": {
+      "username": "shellacvinylmccd",
+      "resource_url": "https://api.discogs.com/users/shellacvinylmccd"
+    },
+    "contributors": [
+      {
+        "username": "shellacvinylmccd",
+        "resource_url": "https://api.discogs.com/users/shellacvinylmccd"
+      },
+      {
+        "username": "sandblasted",
+        "resource_url": "https://api.discogs.com/users/sandblasted"
+      },
+      {
+        "username": "idratherbereading",
+        "resource_url": "https://api.discogs.com/users/idratherbereading"
+      },
+      {
+        "username": "RetroLoes_vinyl",
+        "resource_url": "https://api.discogs.com/users/RetroLoes_vinyl"
+      },
+      {
+        "username": "riddimrecord",
+        "resource_url": "https://api.discogs.com/users/riddimrecord"
+      },
+      {
+        "username": "Jay-Rocc",
+        "resource_url": "https://api.discogs.com/users/Jay-Rocc"
+      },
+      {
+        "username": "muteD7017",
+        "resource_url": "https://api.discogs.com/users/muteD7017"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2025-05-09T19:18:06-07:00",
+  "date_changed": "2025-06-11T15:01:58-07:00",
+  "num_for_sale": 49,
+  "lowest_price": 24,
+  "master_id": 3841170,
+  "master_url": "https://api.discogs.com/masters/3841170",
+  "title": "Sincerely,",
+  "country": "Worldwide",
+  "released": "2025-05-09",
+  "notes": "\"Made in Germany\" sticker on the back.\n\nSome copies purchased from the artists' webshop contain a small envelope with a note signed by Kali Uchis. \nThe note is printed with:\nMay you love\nwithout fear of being hurt\nKnow peace\nwithout fear of fighting\n& find home\nwithout constantly\nsearching to belong\nSincerely,\n[Autograph] Kali X",
+  "released_formatted": "09 May 2025",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02475 43884 7",
+      "description": "Printed"
+    },
+    {
+      "type": "Barcode",
+      "value": "602475438847",
+      "description": "Printed Scanned"
+    },
+    {
+      "type": "Rights Society",
+      "value": "BIEM/SDRM"
+    },
+    {
+      "type": "Label Code",
+      "value": "LC00148"
+    },
+    {
+      "type": "Barcode",
+      "value": "602475438854",
+      "description": "Signed Release"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=yc8_dYPx4ao",
+      "title": "Kali Uchis - Sunshine & Rain... (Official Video)",
+      "description": "Pre-order Kali Uchis' fifth studio album, 'Sincerely,': https://kaliuchis.lnk.to/sincerelyID\n‘Sincerely,’ is out May 9.\n \nListen to Kali Uchis' \"\"Sunshine & Rain...\"\" here: https://kaliuchis.lnk.to/sunshineandrainID\n \nFollow/Seguir Kali Uchis:\nWebsite/Sit",
+      "duration": 165,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=U7Du_n6u5CM",
+      "title": "Kali Uchis - ILYSMIH (Visualizer)",
+      "description": "Pre-order Kali Uchis' fifth studio album, 'Sincerely,': https://kaliuchis.lnk.to/sincerelyID\n‘Sincerely,’ is out May 9.\n\nListen to Kali Uchis' \"ILYSMIH\" here: https://KaliUchis.lnk.to/ILYSMIHID\n\nFollow/Seguir Kali Uchis:\nWebsite/Sitio Web: http://kaliuchi",
+      "duration": 214,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=RvdMg5iaZVE",
+      "title": "Heaven is a Home…",
+      "description": "Provided to YouTube by Universal Music Group\n\nHeaven is a Home… · Kali Uchis\n\nSincerely,\n\n℗ 2025 Kali Uchis, LLC, under exclusive license to UMG Recordings, Inc.\n\nReleased on: 2025-05-09\n\nProducer: Jeff Hazin\nProducer: Nick Ferraro\nProducer, Vocalist: Kal",
+      "duration": 245,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=fTPMI2mhaho",
+      "title": "Sugar! Honey! Love!",
+      "description": "Provided to YouTube by Universal Music Group\n\nSugar! Honey! Love! · Kali Uchis\n\nSincerely,\n\n℗ 2025 Kali Uchis, LLC, under exclusive license to UMG Recordings, Inc.\n\nReleased on: 2025-05-09\n\nProducer, Vocalist: Kali Uchis\nProducer: The Outfit\nRecording Eng",
+      "duration": 185,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5UdIjBv_3UM",
+      "title": "It's Just Us",
+      "description": "Provided to YouTube by Universal Music Group\n\nIt's Just Us · Kali Uchis\n\nSincerely,\n\n℗ 2025 Kali Uchis, LLC, under exclusive license to UMG Recordings, Inc.\n\nReleased on: 2025-05-09\n\nProducer: Dan Darmawan\nEngineer, Vocal Producer, Mixing Engineer: Laura ",
+      "duration": 181,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=hgdHwK1MHaI",
+      "title": "For: You",
+      "description": "Provided to YouTube by Universal Music Group\n\nFor: You · Kali Uchis\n\nSincerely,\n\n℗ 2025 Kali Uchis, LLC, under exclusive license to UMG Recordings, Inc.\n\nReleased on: 2025-05-09\n\nProducer: Jeff Hazin\nProducer: Nick Ferraro\nProducer, Vocalist: Kali Uchis\nA",
+      "duration": 194,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=LvSypIVQFYY",
+      "title": "Lose My Cool,",
+      "description": "Provided to YouTube by Universal Music Group\n\nLose My Cool, · Kali Uchis\n\nSincerely,\n\n℗ 2025 Kali Uchis, LLC, under exclusive license to UMG Recordings, Inc.\n\nReleased on: 2025-05-09\n\nProducer: Josh Crocker\nVocalist, Producer: Kali Uchis\nEngineer, Vocal P",
+      "duration": 357,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=rr-ettNcTuU",
+      "title": "Silk Lingerie,",
+      "description": "Provided to YouTube by Universal Music Group\n\nSilk Lingerie, · Kali Uchis\n\nSincerely,\n\n℗ 2025 Kali Uchis, LLC, under exclusive license to UMG Recordings, Inc.\n\nReleased on: 2025-05-09\n\nProducer: Vegyn\nProducer, Vocalist: Kali Uchis\nAdditionalproducer: Dyl",
+      "duration": 248,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=qZ779DYgJbo",
+      "title": "Kali Uchis - Sincerely CD Unboxing",
+      "description": "In this video I show you the Sincerely CD by Kali Uchis.\nI unbox the product completely for you and show you every content in detail.\n► You can buy the album here:\nCD: https://amzn.to/4katYhg\nVinyl: https://amzn.to/42MNHxM\nDigital: https://amzn.to/3ET6r5z",
+      "duration": 185,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Soul",
+    "Psychedelic",
+    "Neo Soul",
+    "Contemporary R&B"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Heaven Is A Home...",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Sugar! Honey! Love!",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Lose My Cool,",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "It's Just Us",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Territorial",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Silk Lingerie,",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "title": "Fall Apart,",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "All I Can Say",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Daggers!",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "For: You",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Angels All Around Me...",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Breeze!",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Sunshine & Rain...",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "title": "ILYSMIH",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/QDGnAJotLMRyrwDt7XuUbNW8SCU3fyQtbkQN6OOUZtg/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTM5/MDYwLTE3NDY4NDQ2/OTktNzUwMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/QDGnAJotLMRyrwDt7XuUbNW8SCU3fyQtbkQN6OOUZtg/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTM5/MDYwLTE3NDY4NDQ2/OTktNzUwMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/4RvOu_pqkjyUBXiFoRbUvHk4U8WhqWojZmWYrOYynew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTM5/MDYwLTE3NDY4NDQ2/OTktNzUwMy5qcGVn.jpeg",
+      "width": 600,
+      "height": 578
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/k8UdQclHFowDkw7cgAuGalm-aa4DuERSRysnZtdFIG4/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTM5/MDYwLTE3NDY4NDQ3/MDYtNzA1Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/k8UdQclHFowDkw7cgAuGalm-aa4DuERSRysnZtdFIG4/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTM5/MDYwLTE3NDY4NDQ3/MDYtNzA1Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/9jrUBhQwn7nMeWEH_8hjIXUm_kzob_CdQqItfCPrI3o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTM5/MDYwLTE3NDY4NDQ3/MDYtNzA1Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 576
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/INn8Cywora736MHf0O01V5zsCFNFdXKIokyBfgE_Tec/rs:fit/g:sm/q:90/h:600/w:287/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTM5/MDYwLTE3NDY4NDQz/MjMtNzAwMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/INn8Cywora736MHf0O01V5zsCFNFdXKIokyBfgE_Tec/rs:fit/g:sm/q:90/h:600/w:287/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTM5/MDYwLTE3NDY4NDQz/MjMtNzAwMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/AgtvDsfdq72DTkWKeqH-hspHuC6OvRgi5wfPLMavIaA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTM5/MDYwLTE3NDY4NDQz/MjMtNzAwMC5qcGVn.jpeg",
+      "width": 287,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/VF0aeTm16IkN0na3GLnXskJUZ-wg0hXkRDHL965Jcig/rs:fit/g:sm/q:90/h:600/w:475/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTM5/MDYwLTE3NDY4NDQz/MzEtNzEwMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/VF0aeTm16IkN0na3GLnXskJUZ-wg0hXkRDHL965Jcig/rs:fit/g:sm/q:90/h:600/w:475/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTM5/MDYwLTE3NDY4NDQz/MzEtNzEwMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/y58-FtTZ6gt_34odGDdwK6UXsIf3fbqrAx6u2kGkCIQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTM5/MDYwLTE3NDY4NDQz/MzEtNzEwMi5qcGVn.jpeg",
+      "width": 475,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/wKKL97oBRjb98gRSURts6w5msWNvAvuhdEj0vpfAkzE/rs:fit/g:sm/q:90/h:475/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTM5/MDYwLTE3NDY4Njg4/MzUtNDczMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/wKKL97oBRjb98gRSURts6w5msWNvAvuhdEj0vpfAkzE/rs:fit/g:sm/q:90/h:475/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTM5/MDYwLTE3NDY4Njg4/MzUtNDczMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/bMGfSI032DkDw-ZunLHb0a8ZyF3bDm6ytGkBLbUmV_o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTM5/MDYwLTE3NDY4Njg4/MzUtNDczMy5qcGVn.jpeg",
+      "width": 600,
+      "height": 475
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/RJZqWBPVvHY_ZgUyYTe0AhVePawx89POOfYHnnS_T74/rs:fit/g:sm/q:90/h:438/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTM5/MDYwLTE3NDY4Njg4/NDItNDk4MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/RJZqWBPVvHY_ZgUyYTe0AhVePawx89POOfYHnnS_T74/rs:fit/g:sm/q:90/h:438/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTM5/MDYwLTE3NDY4Njg4/NDItNDk4MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/XzcaByjwCTQJvZkv21hTKlRGj-ktXmlHwFmDeRWPBuI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTM5/MDYwLTE3NDY4Njg4/NDItNDk4MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 438
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/_azBY_-E9JVAxbAsg6utSaAF0Ai24UjTZ7Cazv-NvcY/rs:fit/g:sm/q:90/h:600/w:444/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTM5/MDYwLTE3NDY4Njg4/NDgtOTA1OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/_azBY_-E9JVAxbAsg6utSaAF0Ai24UjTZ7Cazv-NvcY/rs:fit/g:sm/q:90/h:600/w:444/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTM5/MDYwLTE3NDY4Njg4/NDgtOTA1OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/jnGdnal7q7bkRvU1HPu2zd-9ygj3LKY51PcfH-D5lj0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTM5/MDYwLTE3NDY4Njg4/NDgtOTA1OS5qcGVn.jpeg",
+      "width": 444,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/4RvOu_pqkjyUBXiFoRbUvHk4U8WhqWojZmWYrOYynew/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMzOTM5/MDYwLTE3NDY4NDQ2/OTktNzUwMy5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

@@ -1,0 +1,1621 @@
+{
+  "id": 34857995,
+  "status": "Accepted",
+  "year": 2025,
+  "resource_url": "https://api.discogs.com/releases/34857995",
+  "uri": "https://www.discogs.com/release/34857995-dvsn-2-Morning-After",
+  "artists": [
+    {
+      "name": "dvsn (2)",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 4965698,
+      "resource_url": "https://api.discogs.com/artists/4965698",
+      "thumbnail_url": "https://i.discogs.com/vy560YHU2OGc8gtViBoEtejqexjPcX4Wq8JTWFskbmg/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ5NjU2/OTgtMTY1NTQwMzUy/NC0yNjU4LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "dvsn (2)",
+  "labels": [
+    {
+      "name": "OVO Sound",
+      "catno": "564720-1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 719678,
+      "resource_url": "https://api.discogs.com/labels/719678",
+      "thumbnail_url": "https://i.discogs.com/qjT-wueE7BGgkkRpRCpopjsJJG_Aw7m1UQU2HGO88zU/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTcxOTY3/OC0xNDg4OTE5NjQy/LTg2MjEucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "text": "Translucent Pink/Blue"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 284,
+    "want": 49,
+    "rating": {
+      "count": 27,
+      "average": 4.85
+    },
+    "submitter": {
+      "username": "viorinos",
+      "resource_url": "https://api.discogs.com/users/viorinos"
+    },
+    "contributors": [
+      {
+        "username": "viorinos",
+        "resource_url": "https://api.discogs.com/users/viorinos"
+      },
+      {
+        "username": "TFS6",
+        "resource_url": "https://api.discogs.com/users/TFS6"
+      },
+      {
+        "username": "motoroboto",
+        "resource_url": "https://api.discogs.com/users/motoroboto"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2025-08-18T23:41:22-07:00",
+  "date_changed": "2025-08-20T14:21:21-07:00",
+  "num_for_sale": 10,
+  "lowest_price": 24.99,
+  "master_id": 1282252,
+  "master_url": "https://api.discogs.com/masters/1282252",
+  "title": "Morning After",
+  "country": "US",
+  "released": "2025-08-15",
+  "released_formatted": "15 Aug 2025",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "0808391266100",
+      "description": "Scanned"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=gWPHeH0vEp4",
+      "title": "dvsn – Mood (Official Music Video)",
+      "description": "Morning After feat. Mood - http://ovosound.io/morningafter\n\nStarring Raven Tracy, Daniel Daley and Carlos Ramirez \nDirected by LeSean Harris\nWritten by Paul 'Nineteen85' Jefferies and LeSean Harris\nProduced by Mitra Films\nCinematography by Trevor Wineman ",
+      "duration": 239,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=fvRdbKhlO1w",
+      "title": "dvsn - Morning After (Official Video)",
+      "description": "'Morning After' - http://ovosound.io/morningafter\n\nDirected By Santiago Salviche\nProduced By Devon Libran",
+      "duration": 211,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Hip Hop",
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Contemporary R&B"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Run Away",
+      "extraartists": [
+        {
+          "name": "Amoy Levy",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 2009052,
+          "resource_url": "https://api.discogs.com/artists/2009052"
+        },
+        {
+          "name": "Camille Harrison",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 1041624,
+          "resource_url": "https://api.discogs.com/artists/1041624"
+        },
+        {
+          "name": "Rahiem Hurlock",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 5989767,
+          "resource_url": "https://api.discogs.com/artists/5989767"
+        },
+        {
+          "name": "Renee Rowe",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 2108035,
+          "resource_url": "https://api.discogs.com/artists/2108035"
+        },
+        {
+          "name": "Shantel Marquardt",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 6212478,
+          "resource_url": "https://api.discogs.com/artists/6212478"
+        },
+        {
+          "name": "George Palousis",
+          "anv": "",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 6212481,
+          "resource_url": "https://api.discogs.com/artists/6212481"
+        },
+        {
+          "name": "Paul Jefferies",
+          "anv": "Paul \"Nineteen85\" Jefferies",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 3478923,
+          "resource_url": "https://api.discogs.com/artists/3478923"
+        },
+        {
+          "name": "George Palousis",
+          "anv": "",
+          "join": "",
+          "role": "Performer [Samples From 'The Fire That Never Fades']",
+          "tracks": "",
+          "id": 6212481,
+          "resource_url": "https://api.discogs.com/artists/6212481"
+        },
+        {
+          "name": "Nineteen85",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3375550,
+          "resource_url": "https://api.discogs.com/artists/3375550"
+        },
+        {
+          "name": "Daniel Daley",
+          "anv": "D. Daley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3854530,
+          "resource_url": "https://api.discogs.com/artists/3854530"
+        },
+        {
+          "name": "James Vincent McMorrow",
+          "anv": "J.V. McMorrow",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2138658,
+          "resource_url": "https://api.discogs.com/artists/2138658"
+        },
+        {
+          "name": "Paul Jefferies",
+          "anv": "P. Jefferies",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3478923,
+          "resource_url": "https://api.discogs.com/artists/3478923"
+        }
+      ],
+      "duration": "2:20"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Nuh Time / Tek Time",
+      "extraartists": [
+        {
+          "name": "Paul Jefferies",
+          "anv": "Paul \"Nineteen85\" Jefferies",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 3478923,
+          "resource_url": "https://api.discogs.com/artists/3478923"
+        },
+        {
+          "name": "Dalton Tennant",
+          "anv": "Dalton \"D10\" Tennant",
+          "join": "",
+          "role": "Keyboards [Additional Keys]",
+          "tracks": "",
+          "id": 3482473,
+          "resource_url": "https://api.discogs.com/artists/3482473"
+        },
+        {
+          "name": "Nineteen85",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3375550,
+          "resource_url": "https://api.discogs.com/artists/3375550"
+        },
+        {
+          "name": "Delilah (6)",
+          "anv": "",
+          "join": "",
+          "role": "Vocals [Additional]",
+          "tracks": "",
+          "id": 2103120,
+          "resource_url": "https://api.discogs.com/artists/2103120"
+        },
+        {
+          "name": "Sabrina Brown (2)",
+          "anv": "",
+          "join": "",
+          "role": "Voice [Phone Message Recording]",
+          "tracks": "",
+          "id": 6212479,
+          "resource_url": "https://api.discogs.com/artists/6212479"
+        },
+        {
+          "name": "Dalton Tennant",
+          "anv": "D. Tennant",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3482473,
+          "resource_url": "https://api.discogs.com/artists/3482473"
+        },
+        {
+          "name": "Daniel Daley",
+          "anv": "D. Daley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3854530,
+          "resource_url": "https://api.discogs.com/artists/3854530"
+        },
+        {
+          "name": "Paloma Ayana",
+          "anv": "P. Ayana",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2104713,
+          "resource_url": "https://api.discogs.com/artists/2104713"
+        },
+        {
+          "name": "Paul Jefferies",
+          "anv": "P. Jefferies",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3478923,
+          "resource_url": "https://api.discogs.com/artists/3478923"
+        }
+      ],
+      "duration": "5:40"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Keep Calm",
+      "extraartists": [
+        {
+          "name": "Amoy Levy",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 2009052,
+          "resource_url": "https://api.discogs.com/artists/2009052"
+        },
+        {
+          "name": "Camille Harrison",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 1041624,
+          "resource_url": "https://api.discogs.com/artists/1041624"
+        },
+        {
+          "name": "Shantel Marquardt",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 6212478,
+          "resource_url": "https://api.discogs.com/artists/6212478"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Paul Jefferies",
+          "anv": "Paul \"Nineteen85\" Jefferies",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 3478923,
+          "resource_url": "https://api.discogs.com/artists/3478923"
+        },
+        {
+          "name": "David Ruffin",
+          "anv": "",
+          "join": "",
+          "role": "Performer [Sample From 'Slow Dance']",
+          "tracks": "",
+          "id": 86101,
+          "resource_url": "https://api.discogs.com/artists/86101"
+        },
+        {
+          "name": "Akeel Henry",
+          "anv": "",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 5136886,
+          "resource_url": "https://api.discogs.com/artists/5136886"
+        },
+        {
+          "name": "Nineteen85",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3375550,
+          "resource_url": "https://api.discogs.com/artists/3375550"
+        },
+        {
+          "name": "Devon Brooks (2)",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Additional Recording]",
+          "tracks": "",
+          "id": 6212482,
+          "resource_url": "https://api.discogs.com/artists/6212482"
+        },
+        {
+          "name": "Akeel Henry",
+          "anv": "A. Henry",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 5136886,
+          "resource_url": "https://api.discogs.com/artists/5136886"
+        },
+        {
+          "name": "Aubrey Graham",
+          "anv": "A. Graham",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1557579,
+          "resource_url": "https://api.discogs.com/artists/1557579"
+        },
+        {
+          "name": "Curtis Gadson",
+          "anv": "C. Gadson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1049437,
+          "resource_url": "https://api.discogs.com/artists/1049437"
+        },
+        {
+          "name": "Daniel Daley",
+          "anv": "D. Daley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3854530,
+          "resource_url": "https://api.discogs.com/artists/3854530"
+        },
+        {
+          "name": "Jahron Brathwaite",
+          "anv": "J. Brathwaite",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3936495,
+          "resource_url": "https://api.discogs.com/artists/3936495"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "N. Shebib",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Paul Jefferies",
+          "anv": "P. Jefferies",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3478923,
+          "resource_url": "https://api.discogs.com/artists/3478923"
+        },
+        {
+          "name": "Ron Sanders",
+          "anv": "R. Sanders",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 657397,
+          "resource_url": "https://api.discogs.com/artists/657397"
+        },
+        {
+          "name": "Roz Newberry",
+          "anv": "R. Newberry",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 901338,
+          "resource_url": "https://api.discogs.com/artists/901338"
+        }
+      ],
+      "duration": "4:44"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Think About Me",
+      "extraartists": [
+        {
+          "name": "Paul Jefferies",
+          "anv": "Paul \"Nineteen85\" Jefferies",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 3478923,
+          "resource_url": "https://api.discogs.com/artists/3478923"
+        },
+        {
+          "name": "Nineteen85",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3375550,
+          "resource_url": "https://api.discogs.com/artists/3375550"
+        },
+        {
+          "name": "Kevin Dietz",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Additional Recording]",
+          "tracks": "",
+          "id": 1140991,
+          "resource_url": "https://api.discogs.com/artists/1140991"
+        },
+        {
+          "name": "Daniel Daley",
+          "anv": "D. Daley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3854530,
+          "resource_url": "https://api.discogs.com/artists/3854530"
+        },
+        {
+          "name": "Paul Jefferies",
+          "anv": "P. Jefferies",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3478923,
+          "resource_url": "https://api.discogs.com/artists/3478923"
+        }
+      ],
+      "duration": "4:06"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Don't Choose",
+      "extraartists": [
+        {
+          "name": "Paul Jefferies",
+          "anv": "Paul \"Nineteen85\" Jefferies",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 3478923,
+          "resource_url": "https://api.discogs.com/artists/3478923"
+        },
+        {
+          "name": "Nineteen85",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3375550,
+          "resource_url": "https://api.discogs.com/artists/3375550"
+        },
+        {
+          "name": "Daniel Daley",
+          "anv": "D. Daley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3854530,
+          "resource_url": "https://api.discogs.com/artists/3854530"
+        },
+        {
+          "name": "Isaac Hayes",
+          "anv": "I. Hayes",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 48432,
+          "resource_url": "https://api.discogs.com/artists/48432"
+        },
+        {
+          "name": "Jahron Brathwaite",
+          "anv": "J. Brathwaite",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3936495,
+          "resource_url": "https://api.discogs.com/artists/3936495"
+        },
+        {
+          "name": "Paul Jefferies",
+          "anv": "P. Jefferies",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3478923,
+          "resource_url": "https://api.discogs.com/artists/3478923"
+        }
+      ],
+      "duration": "3:41"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Mood",
+      "extraartists": [
+        {
+          "name": "Maneesh Bidaye",
+          "anv": "",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 4425409,
+          "resource_url": "https://api.discogs.com/artists/4425409"
+        },
+        {
+          "name": "Paul Jefferies",
+          "anv": "Paul \"Nineteen85\" Jefferies",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 3478923,
+          "resource_url": "https://api.discogs.com/artists/3478923"
+        },
+        {
+          "name": "Maneesh Bidaye",
+          "anv": "Maneesh",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4425409,
+          "resource_url": "https://api.discogs.com/artists/4425409"
+        },
+        {
+          "name": "Nineteen85",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3375550,
+          "resource_url": "https://api.discogs.com/artists/3375550"
+        },
+        {
+          "name": "Daniel Daley",
+          "anv": "D. Daley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3854530,
+          "resource_url": "https://api.discogs.com/artists/3854530"
+        },
+        {
+          "name": "Maneesh Bidaye",
+          "anv": "M. Bidaye",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4425409,
+          "resource_url": "https://api.discogs.com/artists/4425409"
+        },
+        {
+          "name": "Paul Jefferies",
+          "anv": "P. Jefferies",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3478923,
+          "resource_url": "https://api.discogs.com/artists/3478923"
+        }
+      ],
+      "duration": "3:35"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "P.O.V.",
+      "extraartists": [
+        {
+          "name": "Paul Jefferies",
+          "anv": "Paul \"Nineteen85\" Jefferies",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 3478923,
+          "resource_url": "https://api.discogs.com/artists/3478923"
+        },
+        {
+          "name": "Maxwell",
+          "anv": "",
+          "join": "",
+          "role": "Performer [Sample Of 'Fortunate']",
+          "tracks": "",
+          "id": 22020,
+          "resource_url": "https://api.discogs.com/artists/22020"
+        },
+        {
+          "name": "Nineteen85",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3375550,
+          "resource_url": "https://api.discogs.com/artists/3375550"
+        },
+        {
+          "name": "Adrian Eccleston",
+          "anv": "Adrian X",
+          "join": "",
+          "role": "Soloist, Guitar [Guitar Solo]",
+          "tracks": "",
+          "id": 512303,
+          "resource_url": "https://api.discogs.com/artists/512303"
+        },
+        {
+          "name": "Adrian Eccleston",
+          "anv": "A. Eccleston",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 512303,
+          "resource_url": "https://api.discogs.com/artists/512303"
+        },
+        {
+          "name": "Daniel Daley",
+          "anv": "D. Daley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3854530,
+          "resource_url": "https://api.discogs.com/artists/3854530"
+        },
+        {
+          "name": "Paul Jefferies",
+          "anv": "P. Jefferies",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3478923,
+          "resource_url": "https://api.discogs.com/artists/3478923"
+        },
+        {
+          "name": "R. Kelly",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 14646,
+          "resource_url": "https://api.discogs.com/artists/14646"
+        }
+      ],
+      "duration": "3:36"
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "You Do",
+      "extraartists": [
+        {
+          "name": "Noel Cadastre",
+          "anv": "Noël Cadastre",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "Paul Jefferies",
+          "anv": "Paul \"Nineteen85\" Jefferies",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 3478923,
+          "resource_url": "https://api.discogs.com/artists/3478923"
+        },
+        {
+          "name": "Nineteen85",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3375550,
+          "resource_url": "https://api.discogs.com/artists/3375550"
+        },
+        {
+          "name": "Noel Cadastre",
+          "anv": "Noël",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "Daniel Daley",
+          "anv": "D. Daley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3854530,
+          "resource_url": "https://api.discogs.com/artists/3854530"
+        },
+        {
+          "name": "Noel Cadastre",
+          "anv": "N. Cadastre",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "Paul Jefferies",
+          "anv": "P. Jefferies",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3478923,
+          "resource_url": "https://api.discogs.com/artists/3478923"
+        }
+      ],
+      "duration": "4:14"
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Morning After",
+      "extraartists": [
+        {
+          "name": "Joel Van Dijk",
+          "anv": "",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 1186720,
+          "resource_url": "https://api.discogs.com/artists/1186720"
+        },
+        {
+          "name": "Paul Jefferies",
+          "anv": "Paul \"Nineteen85\" Jefferies",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 3478923,
+          "resource_url": "https://api.discogs.com/artists/3478923"
+        },
+        {
+          "name": "Paul Salva",
+          "anv": "",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 538190,
+          "resource_url": "https://api.discogs.com/artists/538190"
+        },
+        {
+          "name": "Robin Hannibal",
+          "anv": "",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 236989,
+          "resource_url": "https://api.discogs.com/artists/236989"
+        },
+        {
+          "name": "Nineteen85",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3375550,
+          "resource_url": "https://api.discogs.com/artists/3375550"
+        },
+        {
+          "name": "Robin Hannibal",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 236989,
+          "resource_url": "https://api.discogs.com/artists/236989"
+        },
+        {
+          "name": "Paul Salva",
+          "anv": "Salva",
+          "join": "",
+          "role": "Programmed By [Additional Programming]",
+          "tracks": "",
+          "id": 538190,
+          "resource_url": "https://api.discogs.com/artists/538190"
+        },
+        {
+          "name": "Daniel Daley",
+          "anv": "D. Daley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3854530,
+          "resource_url": "https://api.discogs.com/artists/3854530"
+        },
+        {
+          "name": "Joel Van Dijk",
+          "anv": "J. Van Dijk",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1186720,
+          "resource_url": "https://api.discogs.com/artists/1186720"
+        },
+        {
+          "name": "Paul Jefferies",
+          "anv": "P. Jefferies",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3478923,
+          "resource_url": "https://api.discogs.com/artists/3478923"
+        },
+        {
+          "name": "Paul Salva",
+          "anv": "P. Salva",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 538190,
+          "resource_url": "https://api.discogs.com/artists/538190"
+        },
+        {
+          "name": "Robin Hannibal",
+          "anv": "R. Hannibal",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 236989,
+          "resource_url": "https://api.discogs.com/artists/236989"
+        }
+      ],
+      "duration": "4:29"
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Can't Wait",
+      "extraartists": [
+        {
+          "name": "Maneesh Bidaye",
+          "anv": "Maneesh",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 4425409,
+          "resource_url": "https://api.discogs.com/artists/4425409"
+        },
+        {
+          "name": "Maneesh Bidaye",
+          "anv": "",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 4425409,
+          "resource_url": "https://api.discogs.com/artists/4425409"
+        },
+        {
+          "name": "Paul Jefferies",
+          "anv": "Paul \"Nineteen85\" Jefferies",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 3478923,
+          "resource_url": "https://api.discogs.com/artists/3478923"
+        },
+        {
+          "name": "Nineteen85",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3375550,
+          "resource_url": "https://api.discogs.com/artists/3375550"
+        },
+        {
+          "name": "Carlos St. John",
+          "anv": "C. St. John",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4018353,
+          "resource_url": "https://api.discogs.com/artists/4018353"
+        },
+        {
+          "name": "Daniel Daley",
+          "anv": "D. Daley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3854530,
+          "resource_url": "https://api.discogs.com/artists/3854530"
+        },
+        {
+          "name": "Majid Al Maskati",
+          "anv": "M. Al-Maskati",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3444180,
+          "resource_url": "https://api.discogs.com/artists/3444180"
+        },
+        {
+          "name": "Maneesh Bidaye",
+          "anv": "M. Bidaye",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4425409,
+          "resource_url": "https://api.discogs.com/artists/4425409"
+        },
+        {
+          "name": "Paul Jefferies",
+          "anv": "P. Jefferies",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3478923,
+          "resource_url": "https://api.discogs.com/artists/3478923"
+        }
+      ],
+      "duration": "3:13"
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Claim",
+      "extraartists": [
+        {
+          "name": "Noel Cadastre",
+          "anv": "Noël Cadastre",
+          "join": "",
+          "role": "Backing Vocals [Additional]",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "Alpha (61)",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 6212483,
+          "resource_url": "https://api.discogs.com/artists/6212483"
+        },
+        {
+          "name": "Noel Cadastre",
+          "anv": "Noël",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "Brian Alexander Morgan",
+          "anv": "",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 187184,
+          "resource_url": "https://api.discogs.com/artists/187184"
+        },
+        {
+          "name": "Mark McKay (2)",
+          "anv": "Mark \"Alpha\" McKay",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 1331839,
+          "resource_url": "https://api.discogs.com/artists/1331839"
+        },
+        {
+          "name": "Noel Cadastre",
+          "anv": "Noël Cadastre",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "Paul Jefferies",
+          "anv": "Paul \"Nineteen85\" Jefferies",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 3478923,
+          "resource_url": "https://api.discogs.com/artists/3478923"
+        },
+        {
+          "name": "Nineteen85",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3375550,
+          "resource_url": "https://api.discogs.com/artists/3375550"
+        },
+        {
+          "name": "Brian Alexander Morgan",
+          "anv": "",
+          "join": "",
+          "role": "Vocals [Additional]",
+          "tracks": "",
+          "id": 187184,
+          "resource_url": "https://api.discogs.com/artists/187184"
+        },
+        {
+          "name": "Brian Alexander Morgan",
+          "anv": "B. Alexander Morgan",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 187184,
+          "resource_url": "https://api.discogs.com/artists/187184"
+        },
+        {
+          "name": "Daniel Daley",
+          "anv": "D. Daley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3854530,
+          "resource_url": "https://api.discogs.com/artists/3854530"
+        },
+        {
+          "name": "Mark McKay (2)",
+          "anv": "M. McKay",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1331839,
+          "resource_url": "https://api.discogs.com/artists/1331839"
+        },
+        {
+          "name": "Noel Cadastre",
+          "anv": "N. Cadastre",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1857906,
+          "resource_url": "https://api.discogs.com/artists/1857906"
+        },
+        {
+          "name": "Paul Jefferies",
+          "anv": "P. Jefferies",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3478923,
+          "resource_url": "https://api.discogs.com/artists/3478923"
+        }
+      ],
+      "duration": "3:08"
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Body Smile",
+      "extraartists": [
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Paul Jefferies",
+          "anv": "Paul \"Nineteen85\" Jefferies",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 3478923,
+          "resource_url": "https://api.discogs.com/artists/3478923"
+        },
+        {
+          "name": "Dalton Tennant",
+          "anv": "Dalton \"D10\" Tennant",
+          "join": "",
+          "role": "Keyboards [Additional Keys]",
+          "tracks": "",
+          "id": 3482473,
+          "resource_url": "https://api.discogs.com/artists/3482473"
+        },
+        {
+          "name": "Nineteen85",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3375550,
+          "resource_url": "https://api.discogs.com/artists/3375550"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Dalton Tennant",
+          "anv": "D. Tennant",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3482473,
+          "resource_url": "https://api.discogs.com/artists/3482473"
+        },
+        {
+          "name": "Daniel Daley",
+          "anv": "D. Daley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3854530,
+          "resource_url": "https://api.discogs.com/artists/3854530"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "N. Shebib",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Paul Jefferies",
+          "anv": "P. Jefferies",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3478923,
+          "resource_url": "https://api.discogs.com/artists/3478923"
+        }
+      ],
+      "duration": "4:39"
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Conversations In A Diner",
+      "extraartists": [
+        {
+          "name": "Amoy Levy",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 2009052,
+          "resource_url": "https://api.discogs.com/artists/2009052"
+        },
+        {
+          "name": "Camille Harrison",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 1041624,
+          "resource_url": "https://api.discogs.com/artists/1041624"
+        },
+        {
+          "name": "Rahiem Hurlock",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 5989767,
+          "resource_url": "https://api.discogs.com/artists/5989767"
+        },
+        {
+          "name": "Renee Rowe",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 2108035,
+          "resource_url": "https://api.discogs.com/artists/2108035"
+        },
+        {
+          "name": "Shantel Marquardt",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 6212478,
+          "resource_url": "https://api.discogs.com/artists/6212478"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Paul Jefferies",
+          "anv": "Paul \"Nineteen85\" Jefferies",
+          "join": "",
+          "role": "Instruments [All]",
+          "tracks": "",
+          "id": 3478923,
+          "resource_url": "https://api.discogs.com/artists/3478923"
+        },
+        {
+          "name": "Nineteen85",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3375550,
+          "resource_url": "https://api.discogs.com/artists/3375550"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "Noah \"40\" Shebib",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Daniel Daley",
+          "anv": "D. Daley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3854530,
+          "resource_url": "https://api.discogs.com/artists/3854530"
+        },
+        {
+          "name": "James Fauntleroy II",
+          "anv": "J. Fauntleroy",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 737282,
+          "resource_url": "https://api.discogs.com/artists/737282"
+        },
+        {
+          "name": "Jon Hopkins",
+          "anv": "J. Hopkins",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 24056,
+          "resource_url": "https://api.discogs.com/artists/24056"
+        },
+        {
+          "name": "Kenny Anderson",
+          "anv": "K. Anderson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 400799,
+          "resource_url": "https://api.discogs.com/artists/400799"
+        },
+        {
+          "name": "Noah Shebib",
+          "anv": "N. Shebib",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 895435,
+          "resource_url": "https://api.discogs.com/artists/895435"
+        },
+        {
+          "name": "Paul Jefferies",
+          "anv": "P. Jefferies",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3478923,
+          "resource_url": "https://api.discogs.com/artists/3478923"
+        }
+      ],
+      "duration": "4:03"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Bryan Brock (2)",
+      "anv": "",
+      "join": "",
+      "role": "Art Direction, Design",
+      "tracks": "",
+      "id": 5939314,
+      "resource_url": "https://api.discogs.com/artists/5939314"
+    },
+    {
+      "name": "Lesean Harris",
+      "anv": "",
+      "join": "",
+      "role": "Cinematographer",
+      "tracks": "",
+      "id": 5989772,
+      "resource_url": "https://api.discogs.com/artists/5989772"
+    },
+    {
+      "name": "The Line (6)",
+      "anv": "",
+      "join": "",
+      "role": "Creative Director",
+      "tracks": "",
+      "id": 5989769,
+      "resource_url": "https://api.discogs.com/artists/5989769"
+    },
+    {
+      "name": "Mihailo Andic",
+      "anv": "",
+      "join": "",
+      "role": "Design [Additional]",
+      "tracks": "",
+      "id": 6212477,
+      "resource_url": "https://api.discogs.com/artists/6212477"
+    },
+    {
+      "name": "Lindsay Warner",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [DAWS Systems Engineering]",
+      "tracks": "",
+      "id": 2182200,
+      "resource_url": "https://api.discogs.com/artists/2182200"
+    },
+    {
+      "name": "Les Bateman",
+      "anv": "Les \"Bates\" Bateman",
+      "join": "",
+      "role": "Engineer [Systems Engineering]",
+      "tracks": "",
+      "id": 2682458,
+      "resource_url": "https://api.discogs.com/artists/2682458"
+    },
+    {
+      "name": "Noah Shebib",
+      "anv": "Noah \"40\" Shebib",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 895435,
+      "resource_url": "https://api.discogs.com/artists/895435"
+    },
+    {
+      "name": "Paul Jefferies",
+      "anv": "Paul \"Nineteen85\" Jefferies",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 3478923,
+      "resource_url": "https://api.discogs.com/artists/3478923"
+    },
+    {
+      "name": "Daniel Daley",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer [Co]",
+      "tracks": "",
+      "id": 3854530,
+      "resource_url": "https://api.discogs.com/artists/3854530"
+    },
+    {
+      "name": "The Line (6)",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer [Co]",
+      "tracks": "",
+      "id": 5989769,
+      "resource_url": "https://api.discogs.com/artists/5989769"
+    },
+    {
+      "name": "Michael Cirelli",
+      "anv": "",
+      "join": "",
+      "role": "Legal",
+      "tracks": "",
+      "id": 365760,
+      "resource_url": "https://api.discogs.com/artists/365760"
+    },
+    {
+      "name": "M3 Entertainment INC.",
+      "anv": "M3 Ent. Inc.",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 5985464,
+      "resource_url": "https://api.discogs.com/artists/5985464"
+    },
+    {
+      "name": "Chris Athens",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 237914,
+      "resource_url": "https://api.discogs.com/artists/237914"
+    },
+    {
+      "name": "David \"DC\" Garcia",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By [Assisted By]",
+      "tracks": "",
+      "id": 6212480,
+      "resource_url": "https://api.discogs.com/artists/6212480"
+    },
+    {
+      "name": "Noel Campbell",
+      "anv": "Noel \"Gadget\" Campbell",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "",
+      "id": 1379473,
+      "resource_url": "https://api.discogs.com/artists/1379473"
+    },
+    {
+      "name": "Greg Moffett",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By [Assisted By]",
+      "tracks": "",
+      "id": 3554302,
+      "resource_url": "https://api.discogs.com/artists/3554302"
+    },
+    {
+      "name": "Harley Arsenault",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By [Assisted By]",
+      "tracks": "",
+      "id": 5038393,
+      "resource_url": "https://api.discogs.com/artists/5038393"
+    },
+    {
+      "name": "Bryan Brock (2)",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 5939314,
+      "resource_url": "https://api.discogs.com/artists/5939314"
+    },
+    {
+      "name": "Devon Brooks (2)",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "10",
+      "id": 6212482,
+      "resource_url": "https://api.discogs.com/artists/6212482"
+    },
+    {
+      "name": "Greg Moffett",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "1 to 9, 11 to 13",
+      "id": 3554302,
+      "resource_url": "https://api.discogs.com/artists/3554302"
+    },
+    {
+      "name": "Harley Arsenault",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "8",
+      "id": 5038393,
+      "resource_url": "https://api.discogs.com/artists/5038393"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/APXVDSnIxhjeHC7BiRoP_vCEVzgHbTW8sPjvAN9JstA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODU3/OTk1LTE3NTU3MjQ4/NjMtMTgyMC5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/APXVDSnIxhjeHC7BiRoP_vCEVzgHbTW8sPjvAN9JstA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODU3/OTk1LTE3NTU3MjQ4/NjMtMTgyMC5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/rhPD1gkXF1ZjDYYgxGxsv2AnRMwvjdlzDW-CcDw3GVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODU3/OTk1LTE3NTU3MjQ4/NjMtMTgyMC5wbmc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/PumCJ-tDDNVRqm3B8CMJd3zNsIv9R9QVFMxfjOfey98/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODU3/OTk1LTE3NTU3MjQ4/NjMtNjkzOS5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/PumCJ-tDDNVRqm3B8CMJd3zNsIv9R9QVFMxfjOfey98/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODU3/OTk1LTE3NTU3MjQ4/NjMtNjkzOS5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/wE106zismre8HZT-70DbmO8zrlp0VHgIpzAFkhyjPDk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODU3/OTk1LTE3NTU3MjQ4/NjMtNjkzOS5wbmc.jpeg",
+      "width": 599,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/0-Q0t62GnSS3ZsrK1QdFUTCJo2VGgCFv8W6EHT6OXW4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODU3/OTk1LTE3NTU3MjQ4/NjMtNzM5MC5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/0-Q0t62GnSS3ZsrK1QdFUTCJo2VGgCFv8W6EHT6OXW4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODU3/OTk1LTE3NTU3MjQ4/NjMtNzM5MC5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/k3T8FiLVyKniWOExUQpj6REzDvGFkEBtW79yqs5lvCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODU3/OTk1LTE3NTU3MjQ4/NjMtNzM5MC5wbmc.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/rhPD1gkXF1ZjDYYgxGxsv2AnRMwvjdlzDW-CcDw3GVU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0ODU3/OTk1LTE3NTU3MjQ4/NjMtMTgyMC5wbmc.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

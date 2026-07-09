@@ -1,0 +1,1631 @@
+{
+  "id": 9333706,
+  "status": "Accepted",
+  "year": 2015,
+  "resource_url": "https://api.discogs.com/releases/9333706",
+  "uri": "https://www.discogs.com/release/9333706-Lana-Del-Rey-Honeymoon",
+  "artists": [
+    {
+      "name": "Lana Del Rey",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 2445772,
+      "resource_url": "https://api.discogs.com/artists/2445772",
+      "thumbnail_url": "https://i.discogs.com/u1CyaiZEzHnXUNX7Wr2wBSbPW4DTVQyClVPIe4uHbig/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI0NDU3/NzItMTc3NTMyNTg1/NC04OTA1LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Lana Del Rey",
+  "labels": [
+    {
+      "name": "Polydor",
+      "catno": "B0023802-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1610,
+      "resource_url": "https://api.discogs.com/labels/1610",
+      "thumbnail_url": "https://i.discogs.com/aNZfcLSVMW8xdCMyTxY3PspGfkoD4lsz8_uyffeyRcw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2MTAt/MTU4ODY3Mzk0Ny0x/NjI2LmpwZWc.jpeg"
+    },
+    {
+      "name": "Interscope Records",
+      "catno": "B0023802-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 2311,
+      "resource_url": "https://api.discogs.com/labels/2311",
+      "thumbnail_url": "https://i.discogs.com/58MHEZ0kBRytN0Ivvqvnirp57RFfiqWh1YGJLsn62ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTEt/MTUxNzAxMTEyMy00/NjEwLmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Lana Del Rey",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 294927,
+      "resource_url": "https://api.discogs.com/labels/294927"
+    },
+    {
+      "name": "Lana Del Rey",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 294927,
+      "resource_url": "https://api.discogs.com/labels/294927"
+    },
+    {
+      "name": "Polydor Ltd. (UK)",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 100642,
+      "resource_url": "https://api.discogs.com/labels/100642",
+      "thumbnail_url": "https://i.discogs.com/gL-tiAOkdZC2Ugg2lch57J0PJv3QxY7DsTvpCro4fws/rs:fit/g:sm/q:90/h:146/w:167/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDY0/Mi0xNjIwOTExMjY0/LTM3MzguanBlZw.jpeg"
+    },
+    {
+      "name": "Interscope Records",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 2311,
+      "resource_url": "https://api.discogs.com/labels/2311",
+      "thumbnail_url": "https://i.discogs.com/58MHEZ0kBRytN0Ivvqvnirp57RFfiqWh1YGJLsn62ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTEt/MTUxNzAxMTEyMy00/NjEwLmpwZWc.jpeg"
+    },
+    {
+      "name": "The Green Building, Santa Monica",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 493232,
+      "resource_url": "https://api.discogs.com/labels/493232"
+    },
+    {
+      "name": "Electric Lady Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 267980,
+      "resource_url": "https://api.discogs.com/labels/267980",
+      "thumbnail_url": "https://i.discogs.com/wqwrHJAVS3D4DOqCaLm5HB-lPwSLeGvfxwvp---L108/rs:fit/g:sm/q:90/h:475/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2Nzk4/MC0xNDEwOTY5Nzgw/LTc4OTkuanBlZw.jpeg"
+    },
+    {
+      "name": "The Green Building, Santa Monica",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 493232,
+      "resource_url": "https://api.discogs.com/labels/493232"
+    },
+    {
+      "name": "Gateway Mastering",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 265594,
+      "resource_url": "https://api.discogs.com/labels/265594",
+      "thumbnail_url": "https://i.discogs.com/4HnkaZBiC6dByYPD1mdHlZb6cVLJ1_OVsFSoCzGRLwo/rs:fit/g:sm/q:90/h:154/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTU5/NC0xNjU3OTE4MjUx/LTU3ODEuanBlZw.jpeg"
+    },
+    {
+      "name": "Record Technology Incorporated",
+      "catno": "24385",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 66254,
+      "resource_url": "https://api.discogs.com/labels/66254",
+      "thumbnail_url": "https://i.discogs.com/NZIJOUdgmVHURy9AfZAXM0L0OB6S3lijFX4CZ_-nWh4/rs:fit/g:sm/q:90/h:240/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY2MjU0/LTE1MTYyOTg3NDIt/NDQxMS5wbmc.jpeg"
+    },
+    {
+      "name": "Record Technology Incorporated",
+      "catno": "24449",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 66254,
+      "resource_url": "https://api.discogs.com/labels/66254",
+      "thumbnail_url": "https://i.discogs.com/NZIJOUdgmVHURy9AfZAXM0L0OB6S3lijFX4CZ_-nWh4/rs:fit/g:sm/q:90/h:240/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY2MjU0/LTE1MTYyOTg3NDIt/NDQxMS5wbmc.jpeg"
+    },
+    {
+      "name": "Big Active",
+      "catno": "",
+      "entity_type": "33",
+      "entity_type_name": "Designed At",
+      "id": 270541,
+      "resource_url": "https://api.discogs.com/labels/270541",
+      "thumbnail_url": "https://i.discogs.com/esZq0KXzqpTnR9kemqrI3WITQdEB6pxEu5xVSOZ_Gk0/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MDU0/MS0xNDM3NDUzODE5/LTU5NTAuanBlZw.jpeg"
+    },
+    {
+      "name": "R-Rated Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 345118,
+      "resource_url": "https://api.discogs.com/labels/345118"
+    },
+    {
+      "name": "EMI April Music Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 264623,
+      "resource_url": "https://api.discogs.com/labels/264623",
+      "thumbnail_url": "https://i.discogs.com/6YZ9yNsvSzkXXtmAiAgG0HFyMo0ba1AIgfIuB88wqi4/rs:fit/g:sm/q:90/h:134/w:270/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDYy/My0xNTg4OTgwMTEw/LTc0MDUuanBlZw.jpeg"
+    },
+    {
+      "name": "Sony / ATV Music Publishing",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 115653,
+      "resource_url": "https://api.discogs.com/labels/115653",
+      "thumbnail_url": "https://i.discogs.com/hs37I82N0L-lLEvaPEFzJYP33Gfas0FdKoWLBvo1dKw/rs:fit/g:sm/q:90/h:157/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExNTY1/My0xNTU0MzQyNDIw/LTYwMDYucG5n.jpeg"
+    },
+    {
+      "name": "Cosmic Lime",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 888422,
+      "resource_url": "https://api.discogs.com/labels/888422"
+    },
+    {
+      "name": "Faber & Faber Music Ltd.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 899688,
+      "resource_url": "https://api.discogs.com/labels/899688"
+    },
+    {
+      "name": "Mister Green Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 899687,
+      "resource_url": "https://api.discogs.com/labels/899687"
+    },
+    {
+      "name": "Carlin Music Corp.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 265523,
+      "resource_url": "https://api.discogs.com/labels/265523",
+      "thumbnail_url": "https://i.discogs.com/phAgzudf3PeZNQWjmKfCbtBxqFEjA8jmfx8BVKu6Hwc/rs:fit/g:sm/q:90/h:63/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTUy/My0xNzMyOTc3MzEz/LTU1MzAuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 6964,
+    "want": 1749,
+    "rating": {
+      "count": 376,
+      "average": 4.55
+    },
+    "submitter": {
+      "username": "super_cannes",
+      "resource_url": "https://api.discogs.com/users/super_cannes"
+    },
+    "contributors": [
+      {
+        "username": "super_cannes",
+        "resource_url": "https://api.discogs.com/users/super_cannes"
+      },
+      {
+        "username": "onlevchenko67",
+        "resource_url": "https://api.discogs.com/users/onlevchenko67"
+      },
+      {
+        "username": "misterbluesky",
+        "resource_url": "https://api.discogs.com/users/misterbluesky"
+      },
+      {
+        "username": "Alexey2013",
+        "resource_url": "https://api.discogs.com/users/Alexey2013"
+      },
+      {
+        "username": "Milk.Crater",
+        "resource_url": "https://api.discogs.com/users/Milk.Crater"
+      },
+      {
+        "username": "SP_Vinyl",
+        "resource_url": "https://api.discogs.com/users/SP_Vinyl"
+      },
+      {
+        "username": "myvinyldiscography",
+        "resource_url": "https://api.discogs.com/users/myvinyldiscography"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2016-11-10T03:21:23-08:00",
+  "date_changed": "2025-02-11T15:41:54-08:00",
+  "num_for_sale": 31,
+  "lowest_price": 28.95,
+  "master_id": 884682,
+  "master_url": "https://api.discogs.com/masters/884682",
+  "title": "Honeymoon",
+  "country": "US",
+  "released": "2015",
+  "notes": "Issued in a gatefold sleeve. Comes with printed inner sleeves and 16-page booklet.\n\nCatalogue number B0023802-01 on the spine. \nCatalogue number B0023750-01 on the sticker, sleeves, discs and booklet.\n\nPink hype sticker reads: \nLANA DEL REY\nHONEYMOON\nFEATURING \"High By The Beach\"\nB0023750-01\n\nCompared to the Europe edition, \"LANA DEL REY\" and \"HONEYMOON\" have gloss lettering on the cover of this edition.\n\n℗&© 2015 Lana Del Rey, under exclusive license to Polydor Ltd. (UK). Under exclusive license to Interscope Records in the USA.\n\nRecorded and mixed at The Green Building, Santa Monica. 'Salvatore' and 'Swan Song' recorded at Electric Lady Studios, New York.\nMastered at Gateway Mastering, Portland, Maine.\n\nAll songs published by R-Rated Music, administered by EMI April Music Inc. (Global Music Rights) / Sony/ATV Music Publishing, except:\n\"High By The Beach\" published by Cosmic Lime (ASCAP) / R-Rated Music, administered by EMI April Music Inc. (Global Music Rights) / Sony/ATV Music Publishing; \"Burnt Norton (Interlude)\" published by Faber & Faber Music Ltd. / Mister Green Music (BMI) Sony/ATV Music Publishing; \"Don't Let Me Be Misunderstood\" published by Carlin Music Corp.",
+  "released_formatted": "2015",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02547 50768 6",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "602547507686",
+      "description": "Scanned"
+    },
+    {
+      "type": "Rights Society",
+      "value": "ASCAP"
+    },
+    {
+      "type": "Rights Society",
+      "value": "BMI"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0023750-01-LP1-A 24385.1(3)..",
+      "description": "Side A runout, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0023750-01-LP1-B 24385.2(3)-",
+      "description": "Side B runout, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0023750-01-LP2-A 24385.3(3)-",
+      "description": "Side C runout, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0023750-01-LP2-B 24449.4(3)-",
+      "description": "Side D runout, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0023750-01-LP1-A 24449.1(3)··",
+      "description": "Side A runout, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0023750-01-LP1-B #V 24385.2(3)-",
+      "description": "Side B runout, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0023750-01-LP2-A # 24385.3(3)-",
+      "description": "Side C runout, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0023750-01-LP2-B V 24449.4(3)-",
+      "description": "Side D runout,  variant 2"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=QnxpHIl5Ynw",
+      "title": "Lana Del Rey - High By The Beach",
+      "description": "Lana Del Rey - High By The Beach (Official Music Video)\nBrand new album 'Lust for Life' out now. Listen: https://lana.lnk.to/LFLaID\n\nSign up for updates: http://smarturl.it/LanaDelRey.News\n\nFollow Lana Del Rey:\nhttp://www.instagram.com/lanadelrey\nhttp://w",
+      "duration": 298,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5kYsxoWfjCg",
+      "title": "Lana Del Rey - Music To Watch Boys To",
+      "description": "Lana Del Rey - Music To Watch Boys To (Official Music Video)\nBrand new album 'Lust for Life' out now. Listen: https://lana.lnk.to/LFLaID\n\nSign up for updates: http://smarturl.it/LanaDelRey.News\n\nFollow Lana Del Rey:\nhttp://www.instagram.com/lanadelrey\nhtt",
+      "duration": 295,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Rock",
+    "Pop"
+  ],
+  "styles": [
+    "Downtempo",
+    "Indie Pop",
+    "Ballad",
+    "Trip Hop",
+    "Soft Rock"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Honeymoon",
+      "extraartists": [
+        {
+          "name": "Rick Nowels",
+          "anv": "",
+          "join": "",
+          "role": "Bass, Piano, Acoustic Guitar, Organ, Mellotron, Synth [Synth Pad]",
+          "tracks": "",
+          "id": 67614,
+          "resource_url": "https://api.discogs.com/artists/67614"
+        },
+        {
+          "name": "Curt Bisquera",
+          "anv": "",
+          "join": "",
+          "role": "Drums [Live Drums]",
+          "tracks": "",
+          "id": 271387,
+          "resource_url": "https://api.discogs.com/artists/271387"
+        },
+        {
+          "name": "Kieron Menzies",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Effects",
+          "tracks": "",
+          "id": 410860,
+          "resource_url": "https://api.discogs.com/artists/410860"
+        },
+        {
+          "name": "Patrick Warren",
+          "anv": "",
+          "join": "",
+          "role": "Strings, Synth [Synth Effects]",
+          "tracks": "",
+          "id": 251634,
+          "resource_url": "https://api.discogs.com/artists/251634"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Music To Watch Boys To",
+      "extraartists": [
+        {
+          "name": "Roger Joseph Manning Jr.",
+          "anv": "",
+          "join": "",
+          "role": "Bass, Omnichord",
+          "tracks": "",
+          "id": 8591,
+          "resource_url": "https://api.discogs.com/artists/8591"
+        },
+        {
+          "name": "Brian Griffin (4)",
+          "anv": "",
+          "join": "",
+          "role": "Congas",
+          "tracks": "",
+          "id": 3869484,
+          "resource_url": "https://api.discogs.com/artists/3869484"
+        },
+        {
+          "name": "Curt Bisquera",
+          "anv": "",
+          "join": "",
+          "role": "Drums [Live Drums]",
+          "tracks": "",
+          "id": 271387,
+          "resource_url": "https://api.discogs.com/artists/271387"
+        },
+        {
+          "name": "Kieron Menzies",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Percussion, Sampler",
+          "tracks": "",
+          "id": 410860,
+          "resource_url": "https://api.discogs.com/artists/410860"
+        },
+        {
+          "name": "Trevor Yasuda",
+          "anv": "",
+          "join": "",
+          "role": "Effects [Additional Effects]",
+          "tracks": "",
+          "id": 2735866,
+          "resource_url": "https://api.discogs.com/artists/2735866"
+        },
+        {
+          "name": "Leon Michels",
+          "anv": "",
+          "join": "",
+          "role": "Flute",
+          "tracks": "",
+          "id": 308964,
+          "resource_url": "https://api.discogs.com/artists/308964"
+        },
+        {
+          "name": "Rick Nowels",
+          "anv": "",
+          "join": "",
+          "role": "Piano, Synth, Synth [Pads], Electric Guitar",
+          "tracks": "",
+          "id": 67614,
+          "resource_url": "https://api.discogs.com/artists/67614"
+        },
+        {
+          "name": "Patrick Warren",
+          "anv": "",
+          "join": "",
+          "role": "Strings, Flute, Clarinet, Oboe, Bassoon",
+          "tracks": "",
+          "id": 251634,
+          "resource_url": "https://api.discogs.com/artists/251634"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Terrence Loves You",
+      "extraartists": [
+        {
+          "name": "Curt Bisquera",
+          "anv": "",
+          "join": "",
+          "role": "Drums [Live Drums]",
+          "tracks": "",
+          "id": 271387,
+          "resource_url": "https://api.discogs.com/artists/271387"
+        },
+        {
+          "name": "Kieron Menzies",
+          "anv": "",
+          "join": "",
+          "role": "Effects",
+          "tracks": "",
+          "id": 410860,
+          "resource_url": "https://api.discogs.com/artists/410860"
+        },
+        {
+          "name": "David Levita",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 339637,
+          "resource_url": "https://api.discogs.com/artists/339637"
+        },
+        {
+          "name": "Rick Nowels",
+          "anv": "",
+          "join": "",
+          "role": "Piano, Synth",
+          "tracks": "",
+          "id": 67614,
+          "resource_url": "https://api.discogs.com/artists/67614"
+        },
+        {
+          "name": "Leon Michels",
+          "anv": "",
+          "join": "",
+          "role": "Saxophone, Synth [Synth Pad]",
+          "tracks": "",
+          "id": 308964,
+          "resource_url": "https://api.discogs.com/artists/308964"
+        },
+        {
+          "name": "Patrick Warren",
+          "anv": "",
+          "join": "",
+          "role": "Strings, Kantele",
+          "tracks": "",
+          "id": 251634,
+          "resource_url": "https://api.discogs.com/artists/251634"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "God Knows I Tried",
+      "extraartists": [
+        {
+          "name": "Kieron Menzies",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Bass, Sampler",
+          "tracks": "",
+          "id": 410860,
+          "resource_url": "https://api.discogs.com/artists/410860"
+        },
+        {
+          "name": "Rick Nowels",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar, Organ, Synth [Pads], Electric Piano, Mellotron",
+          "tracks": "",
+          "id": 67614,
+          "resource_url": "https://api.discogs.com/artists/67614"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "High By The Beach",
+      "extraartists": [
+        {
+          "name": "Kieron Menzies",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Bass, Sampler, Synth, Effects",
+          "tracks": "",
+          "id": 410860,
+          "resource_url": "https://api.discogs.com/artists/410860"
+        },
+        {
+          "name": "Patrick Warren",
+          "anv": "",
+          "join": "",
+          "role": "Harmonium, Piano",
+          "tracks": "",
+          "id": 251634,
+          "resource_url": "https://api.discogs.com/artists/251634"
+        },
+        {
+          "name": "Rick Nowels",
+          "anv": "",
+          "join": "",
+          "role": "Organ, Synth, Keyboards",
+          "tracks": "",
+          "id": 67614,
+          "resource_url": "https://api.discogs.com/artists/67614"
+        },
+        {
+          "name": "Leon Michels",
+          "anv": "",
+          "join": "",
+          "role": "Synth [Synth Pad], Synth [Juno Lead], Flute",
+          "tracks": "",
+          "id": 308964,
+          "resource_url": "https://api.discogs.com/artists/308964"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Kieron Menzies",
+          "anv": "Menzies",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 410860,
+          "resource_url": "https://api.discogs.com/artists/410860"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "Del Rey",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Rick Nowels",
+          "anv": "Nowels",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 67614,
+          "resource_url": "https://api.discogs.com/artists/67614"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Freak",
+      "extraartists": [
+        {
+          "name": "Kieron Menzies",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Percussion, Bass [808 Bass]",
+          "tracks": "",
+          "id": 410860,
+          "resource_url": "https://api.discogs.com/artists/410860"
+        },
+        {
+          "name": "Iris Sofia",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineer]",
+          "tracks": "",
+          "id": 4619927,
+          "resource_url": "https://api.discogs.com/artists/4619927"
+        },
+        {
+          "name": "Phil Joly",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineer]",
+          "tracks": "",
+          "id": 2024690,
+          "resource_url": "https://api.discogs.com/artists/2024690"
+        },
+        {
+          "name": "Rusty Anderson",
+          "anv": "",
+          "join": "",
+          "role": "Guitar [Guitar Effects]",
+          "tracks": "",
+          "id": 253545,
+          "resource_url": "https://api.discogs.com/artists/253545"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Mellotron [Mellotron Effects]",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Leon Michels",
+          "anv": "",
+          "join": "",
+          "role": "Saxophone, Synth",
+          "tracks": "",
+          "id": 308964,
+          "resource_url": "https://api.discogs.com/artists/308964"
+        },
+        {
+          "name": "Rick Nowels",
+          "anv": "",
+          "join": "",
+          "role": "Synth [Pads], Electric Guitar, Bass",
+          "tracks": "",
+          "id": 67614,
+          "resource_url": "https://api.discogs.com/artists/67614"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Art Deco",
+      "extraartists": [
+        {
+          "name": "Kieron Menzies",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Percussion, Synth",
+          "tracks": "",
+          "id": 410860,
+          "resource_url": "https://api.discogs.com/artists/410860"
+        },
+        {
+          "name": "Derek Allen (3)",
+          "anv": "Derek \"DJA\" Allen",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 2502105,
+          "resource_url": "https://api.discogs.com/artists/2502105"
+        },
+        {
+          "name": "Leon Michels",
+          "anv": "",
+          "join": "",
+          "role": "Saxophone, Synth [Juno Pad]",
+          "tracks": "",
+          "id": 308964,
+          "resource_url": "https://api.discogs.com/artists/308964"
+        },
+        {
+          "name": "Patrick Warren",
+          "anv": "",
+          "join": "",
+          "role": "Strings, Piano, Synth",
+          "tracks": "",
+          "id": 251634,
+          "resource_url": "https://api.discogs.com/artists/251634"
+        },
+        {
+          "name": "Rick Nowels",
+          "anv": "",
+          "join": "",
+          "role": "Synth [Pads], Mellotron, Bass",
+          "tracks": "",
+          "id": 67614,
+          "resource_url": "https://api.discogs.com/artists/67614"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Burnt Norton (Interlude)",
+      "extraartists": [
+        {
+          "name": "Keefus Ciancia",
+          "anv": "",
+          "join": "",
+          "role": "Musician [Music]",
+          "tracks": "",
+          "id": 389687,
+          "resource_url": "https://api.discogs.com/artists/389687"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Narrator",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "T. S. Eliot",
+          "anv": "T.S Eliot",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 515778,
+          "resource_url": "https://api.discogs.com/artists/515778"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Religion",
+      "extraartists": [
+        {
+          "name": "David Levita",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar, Electric Guitar",
+          "tracks": "",
+          "id": 339637,
+          "resource_url": "https://api.discogs.com/artists/339637"
+        },
+        {
+          "name": "Kieron Menzies",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Loops",
+          "tracks": "",
+          "id": 410860,
+          "resource_url": "https://api.discogs.com/artists/410860"
+        },
+        {
+          "name": "Trevor Yasuda",
+          "anv": "",
+          "join": "",
+          "role": "Effects [Additional Effects]",
+          "tracks": "",
+          "id": 2735866,
+          "resource_url": "https://api.discogs.com/artists/2735866"
+        },
+        {
+          "name": "Rick Nowels",
+          "anv": "",
+          "join": "",
+          "role": "Mellotron, Guitar, Synth, Synth [Pads], Bass",
+          "tracks": "",
+          "id": 67614,
+          "resource_url": "https://api.discogs.com/artists/67614"
+        },
+        {
+          "name": "Patrick Warren",
+          "anv": "",
+          "join": "",
+          "role": "Strings, Electric Piano",
+          "tracks": "",
+          "id": 251634,
+          "resource_url": "https://api.discogs.com/artists/251634"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "Salvatore",
+      "extraartists": [
+        {
+          "name": "Brian Griffin (4)",
+          "anv": "",
+          "join": "",
+          "role": "Drums [Live Drums], Percussion",
+          "tracks": "",
+          "id": 3869484,
+          "resource_url": "https://api.discogs.com/artists/3869484"
+        },
+        {
+          "name": "Iris Sofia",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineer]",
+          "tracks": "",
+          "id": 4619927,
+          "resource_url": "https://api.discogs.com/artists/4619927"
+        },
+        {
+          "name": "Phil Joly",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineer]",
+          "tracks": "",
+          "id": 2024690,
+          "resource_url": "https://api.discogs.com/artists/2024690"
+        },
+        {
+          "name": "Kieron Menzies",
+          "anv": "",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 410860,
+          "resource_url": "https://api.discogs.com/artists/410860"
+        },
+        {
+          "name": "Rick Nowels",
+          "anv": "Nick Nowels",
+          "join": "",
+          "role": "Synth [Pads], Mellotron, Strings, Acoustic Guitar, Electric Guitar, Piano, Bass, Percussion",
+          "tracks": "",
+          "id": 67614,
+          "resource_url": "https://api.discogs.com/artists/67614"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "The Blackest Day",
+      "extraartists": [
+        {
+          "name": "Kieron Menzies",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Bass, Synth, Sampler",
+          "tracks": "",
+          "id": 410860,
+          "resource_url": "https://api.discogs.com/artists/410860"
+        },
+        {
+          "name": "Trevor Yasuda",
+          "anv": "",
+          "join": "",
+          "role": "Effects [Additional Effects]",
+          "tracks": "",
+          "id": 2735866,
+          "resource_url": "https://api.discogs.com/artists/2735866"
+        },
+        {
+          "name": "David Levita",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 339637,
+          "resource_url": "https://api.discogs.com/artists/339637"
+        },
+        {
+          "name": "Rick Nowels",
+          "anv": "",
+          "join": "",
+          "role": "Organ, Synth [Pads]",
+          "tracks": "",
+          "id": 67614,
+          "resource_url": "https://api.discogs.com/artists/67614"
+        },
+        {
+          "name": "Patrick Warren",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 251634,
+          "resource_url": "https://api.discogs.com/artists/251634"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "24",
+      "extraartists": [
+        {
+          "name": "Brian Griffin (4)",
+          "anv": "",
+          "join": "",
+          "role": "Drums [Live Drums], Percussion",
+          "tracks": "",
+          "id": 3869484,
+          "resource_url": "https://api.discogs.com/artists/3869484"
+        },
+        {
+          "name": "Rusty Anderson",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 253545,
+          "resource_url": "https://api.discogs.com/artists/253545"
+        },
+        {
+          "name": "Emerson Day",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineer]",
+          "tracks": "",
+          "id": 3779913,
+          "resource_url": "https://api.discogs.com/artists/3779913"
+        },
+        {
+          "name": "Rick Nowels",
+          "anv": "",
+          "join": "",
+          "role": "Mellotron, Piano, Synth, Synth [Pads], Bass",
+          "tracks": "",
+          "id": 67614,
+          "resource_url": "https://api.discogs.com/artists/67614"
+        },
+        {
+          "name": "Patrick Warren",
+          "anv": "",
+          "join": "",
+          "role": "Strings, Horns, Percussion",
+          "tracks": "",
+          "id": 251634,
+          "resource_url": "https://api.discogs.com/artists/251634"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Swan Song",
+      "extraartists": [
+        {
+          "name": "Brian Griffin (4)",
+          "anv": "",
+          "join": "",
+          "role": "Drums [Live Drums], Percussion",
+          "tracks": "",
+          "id": 3869484,
+          "resource_url": "https://api.discogs.com/artists/3869484"
+        },
+        {
+          "name": "David Levita",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar, Dulcimer",
+          "tracks": "",
+          "id": 339637,
+          "resource_url": "https://api.discogs.com/artists/339637"
+        },
+        {
+          "name": "Josh Tyrrell",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant Engineer]",
+          "tracks": "",
+          "id": 3642091,
+          "resource_url": "https://api.discogs.com/artists/3642091"
+        },
+        {
+          "name": "Kieron Menzies",
+          "anv": "",
+          "join": "",
+          "role": "Loops [Drum Loops]",
+          "tracks": "",
+          "id": 410860,
+          "resource_url": "https://api.discogs.com/artists/410860"
+        },
+        {
+          "name": "Derek Allen (3)",
+          "anv": "Derek \"DJA\" Allen",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 2502105,
+          "resource_url": "https://api.discogs.com/artists/2502105"
+        },
+        {
+          "name": "Patrick Warren",
+          "anv": "",
+          "join": "",
+          "role": "Strings, Effects",
+          "tracks": "",
+          "id": 251634,
+          "resource_url": "https://api.discogs.com/artists/251634"
+        },
+        {
+          "name": "Rick Nowels",
+          "anv": "",
+          "join": "",
+          "role": "Synth [Pads], Organ, Horns, Bass",
+          "tracks": "",
+          "id": 67614,
+          "resource_url": "https://api.discogs.com/artists/67614"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "title": "Don't Let Me Be Misunderstood",
+      "extraartists": [
+        {
+          "name": "Brian Griffin (4)",
+          "anv": "",
+          "join": "",
+          "role": "Drums [Live Drums], Percussion",
+          "tracks": "",
+          "id": 3869484,
+          "resource_url": "https://api.discogs.com/artists/3869484"
+        },
+        {
+          "name": "Rick Nowels",
+          "anv": "",
+          "join": "",
+          "role": "Mellotron, Celesta, Organ [Vox Organ], Electric Guitar, Bass",
+          "tracks": "",
+          "id": 67614,
+          "resource_url": "https://api.discogs.com/artists/67614"
+        },
+        {
+          "name": "Patrick Warren",
+          "anv": "",
+          "join": "",
+          "role": "Strings, Synth [Synth Effects]",
+          "tracks": "",
+          "id": 251634,
+          "resource_url": "https://api.discogs.com/artists/251634"
+        },
+        {
+          "name": "Lana Del Rey",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 2445772,
+          "resource_url": "https://api.discogs.com/artists/2445772"
+        },
+        {
+          "name": "Bennie Benjamin",
+          "anv": "Benjamin",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 607388,
+          "resource_url": "https://api.discogs.com/artists/607388"
+        },
+        {
+          "name": "Gloria Caldwell",
+          "anv": "Caldwell",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 607390,
+          "resource_url": "https://api.discogs.com/artists/607390"
+        },
+        {
+          "name": "Sol Marcus",
+          "anv": "Marcus",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 607389,
+          "resource_url": "https://api.discogs.com/artists/607389"
+        }
+      ],
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Markus Karlsson (2)",
+      "anv": "",
+      "join": "",
+      "role": "Design",
+      "tracks": "",
+      "id": 2044786,
+      "resource_url": "https://api.discogs.com/artists/2044786"
+    },
+    {
+      "name": "Mat Maitland",
+      "anv": "",
+      "join": "",
+      "role": "Design",
+      "tracks": "",
+      "id": 568148,
+      "resource_url": "https://api.discogs.com/artists/568148"
+    },
+    {
+      "name": "Chris Garcia (5)",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "A1 to D1, D3, D4",
+      "id": 2904686,
+      "resource_url": "https://api.discogs.com/artists/2904686"
+    },
+    {
+      "name": "Kieron Menzies",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "A1 to D1, D3, D4",
+      "id": 410860,
+      "resource_url": "https://api.discogs.com/artists/410860"
+    },
+    {
+      "name": "Nicolas Essig",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "D2",
+      "id": 1403013,
+      "resource_url": "https://api.discogs.com/artists/1403013"
+    },
+    {
+      "name": "Phil Joly",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "D3",
+      "id": 2024690,
+      "resource_url": "https://api.discogs.com/artists/2024690"
+    },
+    {
+      "name": "Trevor Yasuda",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "A1 to D1, D4",
+      "id": 2735866,
+      "resource_url": "https://api.discogs.com/artists/2735866"
+    },
+    {
+      "name": "Ben Mawson",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 2770243,
+      "resource_url": "https://api.discogs.com/artists/2770243"
+    },
+    {
+      "name": "Ed Millett",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 603876,
+      "resource_url": "https://api.discogs.com/artists/603876"
+    },
+    {
+      "name": "Adam Ayan",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 406456,
+      "resource_url": "https://api.discogs.com/artists/406456"
+    },
+    {
+      "name": "Patrick Warren",
+      "anv": "",
+      "join": "",
+      "role": "Orchestrated By",
+      "tracks": "",
+      "id": 251634,
+      "resource_url": "https://api.discogs.com/artists/251634"
+    },
+    {
+      "name": "Caroline \"Chuck\" H. Grant",
+      "anv": "Chuck Grant",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 3850597,
+      "resource_url": "https://api.discogs.com/artists/3850597"
+    },
+    {
+      "name": "Neil Krug",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 2321540,
+      "resource_url": "https://api.discogs.com/artists/2321540"
+    },
+    {
+      "name": "Kieron Menzies",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 410860,
+      "resource_url": "https://api.discogs.com/artists/410860"
+    },
+    {
+      "name": "Lana Del Rey",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 2445772,
+      "resource_url": "https://api.discogs.com/artists/2445772"
+    },
+    {
+      "name": "Rick Nowels",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 67614,
+      "resource_url": "https://api.discogs.com/artists/67614"
+    },
+    {
+      "name": "Chris Garcia (5)",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By [Additional Recording]",
+      "tracks": "",
+      "id": 2904686,
+      "resource_url": "https://api.discogs.com/artists/2904686"
+    },
+    {
+      "name": "Trevor Yasuda",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By [Additional Recording]",
+      "tracks": "",
+      "id": 2735866,
+      "resource_url": "https://api.discogs.com/artists/2735866"
+    },
+    {
+      "name": "Kieron Menzies",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By, Mixed By",
+      "tracks": "",
+      "id": 410860,
+      "resource_url": "https://api.discogs.com/artists/410860"
+    },
+    {
+      "name": "Lana Del Rey",
+      "anv": "",
+      "join": "",
+      "role": "Songwriter",
+      "tracks": "A1 to B1, B3, C1, C3 to D3",
+      "id": 2445772,
+      "resource_url": "https://api.discogs.com/artists/2445772"
+    },
+    {
+      "name": "Rick Nowels",
+      "anv": "",
+      "join": "",
+      "role": "Songwriter",
+      "tracks": "A1 to B1, B3, C1, C3 to D3",
+      "id": 67614,
+      "resource_url": "https://api.discogs.com/artists/67614"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/cvu4EabexzO-wQmmg1Qn24d5_fSEGTyuZU_dr70LYIo/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/MC0zNzIwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/cvu4EabexzO-wQmmg1Qn24d5_fSEGTyuZU_dr70LYIo/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/MC0zNzIwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/WRlcucckVGKv5KKzks9Glu4ctLMr6IJV4UCorzADhpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/MC0zNzIwLmpwZWc.jpeg",
+      "width": 600,
+      "height": 595
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/EaVnRGar0mLc-yV_WLCP-kGCiHKPVdiYvqDYL_OlqZw/rs:fit/g:sm/q:90/h:288/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ny01MzAzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/EaVnRGar0mLc-yV_WLCP-kGCiHKPVdiYvqDYL_OlqZw/rs:fit/g:sm/q:90/h:288/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ny01MzAzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/E95GOT9Uma56t2rG7f-KcmGoQ_clCfQv_6y9r-2MNyM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ny01MzAzLmpwZWc.jpeg",
+      "width": 600,
+      "height": 288
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/G95WHi4Qo6iRRacuw3BVBD7EfwEa36zj6NVKgPW7B7s/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/NS00NzM1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/G95WHi4Qo6iRRacuw3BVBD7EfwEa36zj6NVKgPW7B7s/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/NS00NzM1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/rOeKPlharAYXHtuYDTj-sQN1_xUsAOcTMUnw7kkQNI0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/NS00NzM1LmpwZWc.jpeg",
+      "width": 600,
+      "height": 594
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/zqfm-ZgHLntkYre0gKVZmCpTyf7nq6XFs-BxQu306m8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/MC02Mzc2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/zqfm-ZgHLntkYre0gKVZmCpTyf7nq6XFs-BxQu306m8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/MC02Mzc2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/uSQ-dJLDF7c2YhDuFLyNSi2AHWxAkzWf6X8Oi1aef9Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/MC02Mzc2LmpwZWc.jpeg",
+      "width": 598,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/dliuOYFcjYTGwSYtwzJESzatRtw2wHIOsH90V3LfZks/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzAz/OS04NTY4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/dliuOYFcjYTGwSYtwzJESzatRtw2wHIOsH90V3LfZks/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzAz/OS04NTY4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/VDjo2EQYniMtn1YKUcYh2vt0C5FY_1dkVE3GvAMAhN8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzAz/OS04NTY4LmpwZWc.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/yXi5KZU9rhrsvIf5MR2YFmkmMhgAWz0-ZeXOVBJr8EE/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/MC03NTE2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/yXi5KZU9rhrsvIf5MR2YFmkmMhgAWz0-ZeXOVBJr8EE/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/MC03NTE2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/Ia4KY0IG7j-O6EAR7v1QBum90Q88nENHtwBvPXu69uI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/MC03NTE2LmpwZWc.jpeg",
+      "width": 595,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/pLK3gnNSMD3OPunxt5pWLwz4mQLVkrCts2AKr2fZ41E/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzAz/OS05ODAyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/pLK3gnNSMD3OPunxt5pWLwz4mQLVkrCts2AKr2fZ41E/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzAz/OS05ODAyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/FVeZKZW1dK08yUMw_KhTW1WTmkdKL932RfmkdeOrBb4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzAz/OS05ODAyLmpwZWc.jpeg",
+      "width": 595,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/RIKc2zc_qFZCKrnNcql5Gu8e0u_kXpR_lZvCMKBfdao/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ni0zMzc0LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/RIKc2zc_qFZCKrnNcql5Gu8e0u_kXpR_lZvCMKBfdao/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ni0zMzc0LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/wXTaBo6t9MMFEQ0XxoCTIl89lK-LWVkZyXvcmd_bP7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ni0zMzc0LmpwZWc.jpeg",
+      "width": 600,
+      "height": 590
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/XNYrNOidVWUlucfUX76plCxt-JOogSYXDan8MkMFaj4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/NS00NDIzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/XNYrNOidVWUlucfUX76plCxt-JOogSYXDan8MkMFaj4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/NS00NDIzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/IKExJsXrgXrefK6SlmRQrVAuUpjSINhDzCB19Q6EWgE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/NS00NDIzLmpwZWc.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/IvZZXFcpdI3C1O6kPpEWX-9P1nzOS2I3RYQHDiqNYCc/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ni01NTg1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/IvZZXFcpdI3C1O6kPpEWX-9P1nzOS2I3RYQHDiqNYCc/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ni01NTg1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/NbYDUBga-WvmQ7YUIzWQDYzm2YxQW-XYjFX6l8qLoos/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ni01NTg1LmpwZWc.jpeg",
+      "width": 600,
+      "height": 590
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/OwzZ0YuCqpAjIFJu15FjQmOWIXZpRn-AHrz0rFauQs8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ni05OTkzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/OwzZ0YuCqpAjIFJu15FjQmOWIXZpRn-AHrz0rFauQs8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ni05OTkzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/diHc7tMPH8yrOBd1iyH0TRhZruR9EHR-aGcEekr0FkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ni05OTkzLmpwZWc.jpeg",
+      "width": 598,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/3sONwOzG_qF84f-s-mcZAwrEhvIoF980mfBqvEEix0A/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/MS05NzExLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/3sONwOzG_qF84f-s-mcZAwrEhvIoF980mfBqvEEix0A/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/MS05NzExLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/q42eUpZ3oAn01Ase8chSMWGEc2N0hz3PQBIxCYQHv_8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/MS05NzExLmpwZWc.jpeg",
+      "width": 593,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/JNHyYHUxo2o4ToZd_ZFrJS9emAYhyI5k-LI_ZYpdeTk/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ni05ODU0LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/JNHyYHUxo2o4ToZd_ZFrJS9emAYhyI5k-LI_ZYpdeTk/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ni05ODU0LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/CEBMatG47oYqx4zkqGfPOcnDGS0LsCMYl_bhcZy-L78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ni05ODU0LmpwZWc.jpeg",
+      "width": 600,
+      "height": 297
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/FS_v7KT8GzwCHr91BxKCsEGaPRWOZ0t_IJZZ_z_zASw/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ni0xOTg3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/FS_v7KT8GzwCHr91BxKCsEGaPRWOZ0t_IJZZ_z_zASw/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ni0xOTg3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/1SRoy4QFDDGM4qJVlwCbmR9GoTI5jgqQ1aKuwDHIHDE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ni0xOTg3LmpwZWc.jpeg",
+      "width": 600,
+      "height": 300
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/71VN1MB3X07Hw7mq4E-D8sQCvJr4h7ID2MDTolZUrt4/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ny02OTI4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/71VN1MB3X07Hw7mq4E-D8sQCvJr4h7ID2MDTolZUrt4/rs:fit/g:sm/q:90/h:298/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ny02OTI4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/pgdRkv52In09IJorWGzkhRKNsE8p5tF4ax5vEPLqJ0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ny02OTI4LmpwZWc.jpeg",
+      "width": 600,
+      "height": 298
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/WgICmugK6X_-BD-RWnyKwz__V9eyTqdod7GUYTKhT5k/rs:fit/g:sm/q:90/h:301/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/My04MzMxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/WgICmugK6X_-BD-RWnyKwz__V9eyTqdod7GUYTKhT5k/rs:fit/g:sm/q:90/h:301/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/My04MzMxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/l5AD4q9bQVwtJHa42PRU4V-R7hWPTemOWqHynzftPYw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/My04MzMxLmpwZWc.jpeg",
+      "width": 600,
+      "height": 301
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/xtvwXgiqv5oSgF2n0-3Y483DELkZ2iVExxwOSJNR-Z0/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ny03MzE4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/xtvwXgiqv5oSgF2n0-3Y483DELkZ2iVExxwOSJNR-Z0/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ny03MzE4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/IX_6BlDsGyQefJeOd7Hrdy7WHC1vu8fBw_UKTb_ilp0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ny03MzE4LmpwZWc.jpeg",
+      "width": 600,
+      "height": 300
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/jPrxoDMk-TZPpbuA7nGDF4cmFaiJUzlPyd_3MOMkvZ4/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ni00MTI4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/jPrxoDMk-TZPpbuA7nGDF4cmFaiJUzlPyd_3MOMkvZ4/rs:fit/g:sm/q:90/h:299/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ni00MTI4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/5iNYJEPpp8H-QVCXLdLtrCWihPGeLy_BOd85YVIhYjg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ni00MTI4LmpwZWc.jpeg",
+      "width": 600,
+      "height": 299
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/_5_dnWdTmsBqTBaGbt4vhm4hmIjxj8Y06dRbjdUiWs0/rs:fit/g:sm/q:90/h:302/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ny04MzkxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/_5_dnWdTmsBqTBaGbt4vhm4hmIjxj8Y06dRbjdUiWs0/rs:fit/g:sm/q:90/h:302/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ny04MzkxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/IrHAI_m0gfH8C-GaSI00Xb3lqjmhLydgf3s1UcLIEo4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/Ny04MzkxLmpwZWc.jpeg",
+      "width": 600,
+      "height": 302
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/AUgH89SQFdj8Ti0X1qujU0pF5KuwqZYNbvJGByz01Es/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/NS02ODkxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/AUgH89SQFdj8Ti0X1qujU0pF5KuwqZYNbvJGByz01Es/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/NS02ODkxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/rI985DxabhGPBtTQn97fPUEsN-KE9Yhu5ekm6rUD-JY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/NS02ODkxLmpwZWc.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Rt5zLOPqtanaeUbTICCIZ2WkvUpRGJzOpzfFTpG934A/rs:fit/g:sm/q:90/h:99/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTQ3ODk2MTQ5/NS0xMzg4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/Rt5zLOPqtanaeUbTICCIZ2WkvUpRGJzOpzfFTpG934A/rs:fit/g:sm/q:90/h:99/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTQ3ODk2MTQ5/NS0xMzg4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/4-8pgUmMCVEabyKaGqEPRtYs13WJIvCt72BZFlAIYjw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTQ3ODk2MTQ5/NS0xMzg4LmpwZWc.jpeg",
+      "width": 600,
+      "height": 99
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Ih06pS0vXqHShzCjusc1Ff5oCQ5oERIVPma3ftbQ1iQ/rs:fit/g:sm/q:90/h:479/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTQ3ODk2MTUy/Ni00NDAzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/Ih06pS0vXqHShzCjusc1Ff5oCQ5oERIVPma3ftbQ1iQ/rs:fit/g:sm/q:90/h:479/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTQ3ODk2MTUy/Ni00NDAzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/gy5zoebZIO2GG4rdofBXz-O6kL35yOLdTDUDwkxVl7k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTQ3ODk2MTUy/Ni00NDAzLmpwZWc.jpeg",
+      "width": 600,
+      "height": 479
+    }
+  ],
+  "thumb": "https://i.discogs.com/WRlcucckVGKv5KKzks9Glu4ctLMr6IJV4UCorzADhpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzMzM3/MDYtMTczNTE0NzA0/MC0zNzIwLmpwZWc.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

@@ -1,0 +1,1797 @@
+{
+  "id": 21017023,
+  "status": "Accepted",
+  "year": 2021,
+  "resource_url": "https://api.discogs.com/releases/21017023",
+  "uri": "https://www.discogs.com/release/21017023-Adele-3-30",
+  "artists": [
+    {
+      "name": "Adele (3)",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 819015,
+      "resource_url": "https://api.discogs.com/artists/819015",
+      "thumbnail_url": "https://i.discogs.com/YljpB4UqaQeFCgOMCrvJqsAIXmkchPjxQBza_Gpdjxs/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgxOTAx/NS0xNjM3NTQ5Nzk4/LTUzNTYuanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Adele (3)",
+  "labels": [
+    {
+      "name": "Columbia",
+      "catno": "19439937971",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Melted Stone",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 2491249,
+      "resource_url": "https://api.discogs.com/labels/2491249"
+    },
+    {
+      "name": "Melted Stone",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 2491249,
+      "resource_url": "https://api.discogs.com/labels/2491249"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Sony Music Entertainment",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 29073,
+      "resource_url": "https://api.discogs.com/labels/29073",
+      "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+    },
+    {
+      "name": "ELBO Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 967546,
+      "resource_url": "https://api.discogs.com/labels/967546"
+    },
+    {
+      "name": "The Eastwood Scoring Stage",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 274837,
+      "resource_url": "https://api.discogs.com/labels/274837",
+      "thumbnail_url": "https://i.discogs.com/pYeGZMQF80aM3qFpe8yClGkJw-rwQSKx_4ibVP_tu6w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3NDgz/Ny0xNDkzNDY2NDUx/LTUwNTkuanBlZw.jpeg"
+    },
+    {
+      "name": "MXM Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 465221,
+      "resource_url": "https://api.discogs.com/labels/465221"
+    },
+    {
+      "name": "House Mouse Studios, Stockholm",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 1847331,
+      "resource_url": "https://api.discogs.com/labels/1847331"
+    },
+    {
+      "name": "Kallbacken Studios, Stockholm, Sweden",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 2361319,
+      "resource_url": "https://api.discogs.com/labels/2361319"
+    },
+    {
+      "name": "MXM Studios, Los Angeles",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 889550,
+      "resource_url": "https://api.discogs.com/labels/889550"
+    },
+    {
+      "name": "Eastcote Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 265157,
+      "resource_url": "https://api.discogs.com/labels/265157",
+      "thumbnail_url": "https://i.discogs.com/NkWHk2amPx6cSi4JPdd0ZXT20swZj-iiKoA_8XEoUgE/rs:fit/g:sm/q:90/h:480/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTE1/Ny0xNjc1NDU2MTQy/LTU4NjUuanBlZw.jpeg"
+    },
+    {
+      "name": "Serenity West Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 275876,
+      "resource_url": "https://api.discogs.com/labels/275876",
+      "thumbnail_url": "https://i.discogs.com/5S8FtY6WCZcbYOHZgPfqTakVIeEeQr9c2utSEFbjvTY/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3NTg3/Ni0xNDgzMDAwNDU1/LTMwODUuanBlZw.jpeg"
+    },
+    {
+      "name": "Henson Recording Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 276251,
+      "resource_url": "https://api.discogs.com/labels/276251",
+      "thumbnail_url": "https://i.discogs.com/vM1qr1ufEZmGsvrcJeXuZIOteeKGIebrtlcsS23DU5E/rs:fit/g:sm/q:90/h:343/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3NjI1/MS0xNjQwOTI4NzIz/LTIwMjkuanBlZw.jpeg"
+    },
+    {
+      "name": "Metropolis Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 265000,
+      "resource_url": "https://api.discogs.com/labels/265000",
+      "thumbnail_url": "https://i.discogs.com/I1lIoi6xVEM2p0oWKVZsJNhazSc21cHC2z35bdknhq8/rs:fit/g:sm/q:90/h:200/w:223/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTAw/MC0xMzQ3ODEzMzgz/LTIxMzcuanBlZw.jpeg"
+    },
+    {
+      "name": "Electric Lady Studios",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 267980,
+      "resource_url": "https://api.discogs.com/labels/267980",
+      "thumbnail_url": "https://i.discogs.com/wqwrHJAVS3D4DOqCaLm5HB-lPwSLeGvfxwvp---L108/rs:fit/g:sm/q:90/h:475/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2Nzk4/MC0xNDEwOTY5Nzgw/LTc4OTkuanBlZw.jpeg"
+    },
+    {
+      "name": "MixStar Studios",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 263950,
+      "resource_url": "https://api.discogs.com/labels/263950",
+      "thumbnail_url": "https://i.discogs.com/qG6PaPI2ofn5JXPJA48pHQ0jtOf2mG-nOlLHuixaImk/rs:fit/g:sm/q:90/h:195/w:456/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2Mzk1/MC0xMzU0NDYzODcx/LTYzOTkuZ2lm.jpeg"
+    },
+    {
+      "name": "No Expectations Studios",
+      "catno": "",
+      "entity_type": "24",
+      "entity_type_name": "Engineered At",
+      "id": 2176654,
+      "resource_url": "https://api.discogs.com/labels/2176654"
+    },
+    {
+      "name": "Sterling Sound",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 264060,
+      "resource_url": "https://api.discogs.com/labels/264060",
+      "thumbnail_url": "https://i.discogs.com/Z8f0gMBrt5jLL4TAcCYDGXmMPOLi9V0UW593WXP6BUU/rs:fit/g:sm/q:90/h:118/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDA2/MC0xNTAwMjgzMzYy/LTMyMTguanBlZw.jpeg"
+    },
+    {
+      "name": "Untold Studios",
+      "catno": "",
+      "entity_type": "33",
+      "entity_type_name": "Designed At",
+      "id": 2492896,
+      "resource_url": "https://api.discogs.com/labels/2492896",
+      "thumbnail_url": "https://i.discogs.com/1vzfZxT7jyQnVPGqWvY13nigZDJJ6TQcxsvz4pL1uVw/rs:fit/g:sm/q:90/h:132/w:219/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI0OTI4/OTYtMTYzNzM5MTA5/Mi05NDQ0LmpwZWc.jpeg"
+    },
+    {
+      "name": "Melted Stone Publishing Limited",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2492899,
+      "resource_url": "https://api.discogs.com/labels/2492899"
+    },
+    {
+      "name": "Ludovin Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 323718,
+      "resource_url": "https://api.discogs.com/labels/323718"
+    },
+    {
+      "name": "Kurstin Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 271324,
+      "resource_url": "https://api.discogs.com/labels/271324"
+    },
+    {
+      "name": "EMI Music Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 264957,
+      "resource_url": "https://api.discogs.com/labels/264957"
+    },
+    {
+      "name": "MXM Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 414581,
+      "resource_url": "https://api.discogs.com/labels/414581"
+    },
+    {
+      "name": "Kobalt Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 289476,
+      "resource_url": "https://api.discogs.com/labels/289476",
+      "thumbnail_url": "https://i.discogs.com/X0tNO51-NInD4bMxiOcZE572vbGJA5FCd3jaet3CDpw/rs:fit/g:sm/q:90/h:208/w:448/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4OTQ3/Ni0xMzMyNzg0Mzcx/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Octave Music Licensing, LLC",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 1117074,
+      "resource_url": "https://api.discogs.com/labels/1117074",
+      "thumbnail_url": "https://i.discogs.com/a4IgzgNdowJ8GNLNbyd7WZwK-cb3RSy0oCpsQ4k5_w8/rs:fit/g:sm/q:90/h:406/w:380/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExMTcw/NzQtMTU4OTQ2MTc4/My05NDUxLmpwZWc.jpeg"
+    },
+    {
+      "name": "Downtown Music Services",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 361337,
+      "resource_url": "https://api.discogs.com/labels/361337",
+      "thumbnail_url": "https://i.discogs.com/4BiEa86joYSUR6c3leNSpB_suj_pxzqtxTbWmTmH0w4/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM2MTMz/Ny0xMzY4Mzg5NDg1/LTE3NzguanBlZw.jpeg"
+    },
+    {
+      "name": "Dean Josiah Cover",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 2492902,
+      "resource_url": "https://api.discogs.com/labels/2492902"
+    },
+    {
+      "name": "Songs of Universal, Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 263955,
+      "resource_url": "https://api.discogs.com/labels/263955"
+    },
+    {
+      "name": "MXM Productions",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 618889,
+      "resource_url": "https://api.discogs.com/labels/618889"
+    },
+    {
+      "name": "Sterling Sound",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 264060,
+      "resource_url": "https://api.discogs.com/labels/264060",
+      "thumbnail_url": "https://i.discogs.com/Z8f0gMBrt5jLL4TAcCYDGXmMPOLi9V0UW593WXP6BUU/rs:fit/g:sm/q:90/h:118/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDA2/MC0xNTAwMjgzMzYy/LTMyMTguanBlZw.jpeg"
+    },
+    {
+      "name": "MPO",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 56025,
+      "resource_url": "https://api.discogs.com/labels/56025",
+      "thumbnail_url": "https://i.discogs.com/ESRU3eTUmc1632Us6_7LBipnaQGV6lJe-D5nyFxssyw/rs:fit/g:sm/q:90/h:336/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU2MDI1/LTEzMTQ2OTg5ODQu/anBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "text": "MPO Pressing"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 3541,
+    "want": 541,
+    "rating": {
+      "count": 261,
+      "average": 4.16
+    },
+    "submitter": {
+      "username": "robertkchapman",
+      "resource_url": "https://api.discogs.com/users/robertkchapman"
+    },
+    "contributors": [
+      {
+        "username": "robertkchapman",
+        "resource_url": "https://api.discogs.com/users/robertkchapman"
+      },
+      {
+        "username": "zebradeer",
+        "resource_url": "https://api.discogs.com/users/zebradeer"
+      },
+      {
+        "username": "ricochet1975",
+        "resource_url": "https://api.discogs.com/users/ricochet1975"
+      },
+      {
+        "username": "kai81",
+        "resource_url": "https://api.discogs.com/users/kai81"
+      },
+      {
+        "username": "BreatheOnMiko",
+        "resource_url": "https://api.discogs.com/users/BreatheOnMiko"
+      },
+      {
+        "username": "bobbley",
+        "resource_url": "https://api.discogs.com/users/bobbley"
+      },
+      {
+        "username": "Jacrio",
+        "resource_url": "https://api.discogs.com/users/Jacrio"
+      },
+      {
+        "username": "momento",
+        "resource_url": "https://api.discogs.com/users/momento"
+      },
+      {
+        "username": "_jules",
+        "resource_url": "https://api.discogs.com/users/_jules"
+      },
+      {
+        "username": "getitshorty",
+        "resource_url": "https://api.discogs.com/users/getitshorty"
+      },
+      {
+        "username": "GAToneman56",
+        "resource_url": "https://api.discogs.com/users/GAToneman56"
+      },
+      {
+        "username": "ShireenPeaches",
+        "resource_url": "https://api.discogs.com/users/ShireenPeaches"
+      },
+      {
+        "username": "JimDS",
+        "resource_url": "https://api.discogs.com/users/JimDS"
+      },
+      {
+        "username": "rdvriese",
+        "resource_url": "https://api.discogs.com/users/rdvriese"
+      },
+      {
+        "username": "Blackpapercrown",
+        "resource_url": "https://api.discogs.com/users/Blackpapercrown"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2021-11-17T08:54:36-08:00",
+  "date_changed": "2024-05-24T13:57:17-07:00",
+  "num_for_sale": 48,
+  "lowest_price": 9,
+  "master_id": 2383843,
+  "master_url": "https://api.discogs.com/masters/2383843",
+  "title": "30",
+  "country": "US",
+  "released": "2021-11-19",
+  "notes": "Made in France.\n\nErrol Garner appears courtesy of Octave Music Licensing and Mack Avenue Music Group.\n\"To Be Loved\" Recorded At Will's Grandma's House.",
+  "released_formatted": "19 Nov 2021",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "1 94399 37971 4",
+      "description": "Text"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "21-0561/AL19439937971  A  (1-0)  RKS STERLING  [MPO logo]®21 234748",
+      "description": "Side A runout, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "21-0561/BL19439937971  B  (1-0)  RKS STERLING  [MPO logo]®21 237097",
+      "description": "Side B runout, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "21-0561/CL19439937971  C  (1-0)  [MPO logo]®21 237238  RKS STERLING",
+      "description": "Side C runout, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "21-0561/DL19439937971  D  (1-0)  [MPO logo]®21 237199  RKS STERLING",
+      "description": "Side D runout, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "21-0561/AL19439937971  A  (1-0)  RKS STERLING  [MPO logo]®21 239067",
+      "description": "Side A runout, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "21-0561/BL19439937971  B  (1-0)  RKS STERLING  [MPO logo]®21 237718",
+      "description": "Side B runout, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "21-0561/CL19439937971  C  (1-0)   RKS STERLING [MPO logo]®21 238948",
+      "description": "Side C runout, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "21-0561/DL19439937971  D  (1-0)  RKS STERLING [MPO logo]®21 238945",
+      "description": "Side D runout, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "21-0561/AL19439937971  A  (1-0)  RKS STERLING  [MPO logo]®21 241741 M2",
+      "description": "Side A runout, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "21-0561/BL19439937971  B  (1-0)  RKS STERLING  [MPO logo]®21 243556",
+      "description": "Side B runout, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "21-0561/CL19439937971  C  (1-0)  [MPO logo]®21 243805  RKS STERLING M1",
+      "description": "Side C runout, variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "21-0561/DL19439937971  D  (1-0)  [MPO logo]®21 243804  RKS STERLING M1",
+      "description": "Side D runout, variant 3"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=6evFeVn-4oU",
+      "title": "Adele - 30 (Full Album)",
+      "description": "Music By Adele performing 30 ℗ 2021 Melted Stone under exclusive license to Columbia Records, a Division of Sony Music Entertainment\n\nAdele - 30 (Full Album)\n\n#Adele #30 #Adele30 #EasyOnMe #Adelealbum",
+      "duration": 0,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Pop"
+  ],
+  "styles": [
+    "Ballad",
+    "Vocal"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Strangers By Nature",
+      "extraartists": [
+        {
+          "name": "Serena Göransson",
+          "anv": "Serena Goransson",
+          "join": "",
+          "role": "Arranged By [Strings]",
+          "tracks": "",
+          "id": 7544410,
+          "resource_url": "https://api.discogs.com/artists/7544410"
+        },
+        {
+          "name": "David Campbell",
+          "anv": "",
+          "join": "",
+          "role": "Conductor [Strings]",
+          "tracks": "",
+          "id": 341947,
+          "resource_url": "https://api.discogs.com/artists/341947"
+        },
+        {
+          "name": "Matt Scatchell",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Mix]",
+          "tracks": "",
+          "id": 7595952,
+          "resource_url": "https://api.discogs.com/artists/7595952"
+        },
+        {
+          "name": "Randy Merrill",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 1485708,
+          "resource_url": "https://api.discogs.com/artists/1485708"
+        },
+        {
+          "name": "Tom Elmhirst",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 122559,
+          "resource_url": "https://api.discogs.com/artists/122559"
+        },
+        {
+          "name": "Riley Mackin",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By",
+          "tracks": "",
+          "id": 737284,
+          "resource_url": "https://api.discogs.com/artists/737284"
+        },
+        {
+          "name": "Steve Churchyard",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Strings]",
+          "tracks": "",
+          "id": 114779,
+          "resource_url": "https://api.discogs.com/artists/114779"
+        },
+        {
+          "name": "Adele Adkins",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1638187,
+          "resource_url": "https://api.discogs.com/artists/1638187"
+        },
+        {
+          "name": "Ludwig Göransson",
+          "anv": "Ludwig Goransson",
+          "join": "",
+          "role": "Written-By, Producer, Piano, Bass, Electric Piano [Rhodes], Mellotron, Synth, Programmed By",
+          "tracks": "",
+          "id": 6682651,
+          "resource_url": "https://api.discogs.com/artists/6682651"
+        }
+      ],
+      "duration": "3:02"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Easy On Me",
+      "extraartists": [
+        {
+          "name": "David Campbell",
+          "anv": "",
+          "join": "",
+          "role": "Conductor [Strings], Arranged By [Strings]",
+          "tracks": "",
+          "id": 341947,
+          "resource_url": "https://api.discogs.com/artists/341947"
+        },
+        {
+          "name": "Julian Burg",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 3636461,
+          "resource_url": "https://api.discogs.com/artists/3636461"
+        },
+        {
+          "name": "Alex Pasco",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additional]",
+          "tracks": "",
+          "id": 2239634,
+          "resource_url": "https://api.discogs.com/artists/2239634"
+        },
+        {
+          "name": "Matt Scatchell",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Mix]",
+          "tracks": "",
+          "id": 7595952,
+          "resource_url": "https://api.discogs.com/artists/7595952"
+        },
+        {
+          "name": "Randy Merrill",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 1485708,
+          "resource_url": "https://api.discogs.com/artists/1485708"
+        },
+        {
+          "name": "Tom Elmhirst",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 122559,
+          "resource_url": "https://api.discogs.com/artists/122559"
+        },
+        {
+          "name": "Steve Churchyard",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Strings]",
+          "tracks": "",
+          "id": 114779,
+          "resource_url": "https://api.discogs.com/artists/114779"
+        },
+        {
+          "name": "Adele Adkins",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1638187,
+          "resource_url": "https://api.discogs.com/artists/1638187"
+        },
+        {
+          "name": "Greg Kurstin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer, Engineer, Bass, Bass Drum [Kick], Piano",
+          "tracks": "",
+          "id": 277673,
+          "resource_url": "https://api.discogs.com/artists/277673"
+        }
+      ],
+      "duration": "3:44"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "My Little Love",
+      "extraartists": [
+        {
+          "name": "David Campbell",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [Strings], Conductor [Strings]",
+          "tracks": "",
+          "id": 341947,
+          "resource_url": "https://api.discogs.com/artists/341947"
+        },
+        {
+          "name": "Chris Dave",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Percussion",
+          "tracks": "",
+          "id": 661928,
+          "resource_url": "https://api.discogs.com/artists/661928"
+        },
+        {
+          "name": "Julian Burg",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 3636461,
+          "resource_url": "https://api.discogs.com/artists/3636461"
+        },
+        {
+          "name": "Alex Pasco",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additional]",
+          "tracks": "",
+          "id": 2239634,
+          "resource_url": "https://api.discogs.com/artists/2239634"
+        },
+        {
+          "name": "Matt Scatchell",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Mix]",
+          "tracks": "",
+          "id": 7595952,
+          "resource_url": "https://api.discogs.com/artists/7595952"
+        },
+        {
+          "name": "Randy Merrill",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 1485708,
+          "resource_url": "https://api.discogs.com/artists/1485708"
+        },
+        {
+          "name": "Tom Elmhirst",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 122559,
+          "resource_url": "https://api.discogs.com/artists/122559"
+        },
+        {
+          "name": "Steve Churchyard",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Strings]",
+          "tracks": "",
+          "id": 114779,
+          "resource_url": "https://api.discogs.com/artists/114779"
+        },
+        {
+          "name": "Angelo Adkins",
+          "anv": "Angelo",
+          "join": "",
+          "role": "Voice [Notes]",
+          "tracks": "",
+          "id": 10318828,
+          "resource_url": "https://api.discogs.com/artists/10318828"
+        },
+        {
+          "name": "Greg Kurstin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer, Engineer, Bass, Mellotron, Piano, Steel Guitar",
+          "tracks": "",
+          "id": 277673,
+          "resource_url": "https://api.discogs.com/artists/277673"
+        },
+        {
+          "name": "Adele Adkins",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Voice [Notes]",
+          "tracks": "",
+          "id": 1638187,
+          "resource_url": "https://api.discogs.com/artists/1638187"
+        }
+      ],
+      "duration": "6:29"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Cry Your Heart Out",
+      "extraartists": [
+        {
+          "name": "Chris Dave",
+          "anv": "",
+          "join": "",
+          "role": "Bongos, Drums, Vibraslap",
+          "tracks": "",
+          "id": 661928,
+          "resource_url": "https://api.discogs.com/artists/661928"
+        },
+        {
+          "name": "Julian Burg",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 3636461,
+          "resource_url": "https://api.discogs.com/artists/3636461"
+        },
+        {
+          "name": "Alex Pasco",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additional]",
+          "tracks": "",
+          "id": 2239634,
+          "resource_url": "https://api.discogs.com/artists/2239634"
+        },
+        {
+          "name": "Matt Scatchell",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Mix]",
+          "tracks": "",
+          "id": 7595952,
+          "resource_url": "https://api.discogs.com/artists/7595952"
+        },
+        {
+          "name": "Randy Merrill",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 1485708,
+          "resource_url": "https://api.discogs.com/artists/1485708"
+        },
+        {
+          "name": "Tom Elmhirst",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 122559,
+          "resource_url": "https://api.discogs.com/artists/122559"
+        },
+        {
+          "name": "Adele Adkins",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1638187,
+          "resource_url": "https://api.discogs.com/artists/1638187"
+        },
+        {
+          "name": "Greg Kurstin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer, Engineer, Bass, Handclaps, Guitar, Organ [B3], Mellotron, Piano",
+          "tracks": "",
+          "id": 277673,
+          "resource_url": "https://api.discogs.com/artists/277673"
+        }
+      ],
+      "duration": "4:15"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Oh My God",
+      "extraartists": [
+        {
+          "name": "Chris Dave",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 661928,
+          "resource_url": "https://api.discogs.com/artists/661928"
+        },
+        {
+          "name": "Julian Burg",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 3636461,
+          "resource_url": "https://api.discogs.com/artists/3636461"
+        },
+        {
+          "name": "Alex Pasco",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additional]",
+          "tracks": "",
+          "id": 2239634,
+          "resource_url": "https://api.discogs.com/artists/2239634"
+        },
+        {
+          "name": "Randy Merrill",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 1485708,
+          "resource_url": "https://api.discogs.com/artists/1485708"
+        },
+        {
+          "name": "Bryce Bordone",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assistant]",
+          "tracks": "",
+          "id": 9934291,
+          "resource_url": "https://api.discogs.com/artists/9934291"
+        },
+        {
+          "name": "John Hanes",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Engineer for the mix]",
+          "tracks": "",
+          "id": 210636,
+          "resource_url": "https://api.discogs.com/artists/210636"
+        },
+        {
+          "name": "Serban Ghenea",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Engineering for mix]",
+          "tracks": "",
+          "id": 105435,
+          "resource_url": "https://api.discogs.com/artists/105435"
+        },
+        {
+          "name": "Adele (3)",
+          "anv": "",
+          "join": "",
+          "role": "Tambourine",
+          "tracks": "",
+          "id": 819015,
+          "resource_url": "https://api.discogs.com/artists/819015"
+        },
+        {
+          "name": "Adele Adkins",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1638187,
+          "resource_url": "https://api.discogs.com/artists/1638187"
+        },
+        {
+          "name": "Greg Kurstin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer, Engineer, Bass, Handclaps, Drum Programming, Organ [B3], Keyboards, Percussion, Piano",
+          "tracks": "",
+          "id": 277673,
+          "resource_url": "https://api.discogs.com/artists/277673"
+        }
+      ],
+      "duration": "3:45"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Can I Get It",
+      "extraartists": [
+        {
+          "name": "Adele (3)",
+          "anv": "",
+          "join": "",
+          "role": "Body Percussion [Stomps], Handclaps",
+          "tracks": "",
+          "id": 819015,
+          "resource_url": "https://api.discogs.com/artists/819015"
+        },
+        {
+          "name": "Lasse Mårtén",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 380687,
+          "resource_url": "https://api.discogs.com/artists/380687"
+        },
+        {
+          "name": "Michael Ilbert",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 129124,
+          "resource_url": "https://api.discogs.com/artists/129124"
+        },
+        {
+          "name": "Sam Holland",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 516338,
+          "resource_url": "https://api.discogs.com/artists/516338"
+        },
+        {
+          "name": "Randy Merrill",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 1485708,
+          "resource_url": "https://api.discogs.com/artists/1485708"
+        },
+        {
+          "name": "Bryce Bordone",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assistant]",
+          "tracks": "",
+          "id": 9934291,
+          "resource_url": "https://api.discogs.com/artists/9934291"
+        },
+        {
+          "name": "John Hanes",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Engineer for the mix]",
+          "tracks": "",
+          "id": 210636,
+          "resource_url": "https://api.discogs.com/artists/210636"
+        },
+        {
+          "name": "Serban Ghenea",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Engineering for mix]",
+          "tracks": "",
+          "id": 105435,
+          "resource_url": "https://api.discogs.com/artists/105435"
+        },
+        {
+          "name": "Adele Adkins",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1638187,
+          "resource_url": "https://api.discogs.com/artists/1638187"
+        },
+        {
+          "name": "Shellback (2)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer, Drums, Bass, Guitar, Percussion, Programmed By, Whistle, Keyboards, Body Percussion [Stomps], Handclaps",
+          "tracks": "",
+          "id": 1283023,
+          "resource_url": "https://api.discogs.com/artists/1283023"
+        },
+        {
+          "name": "Max Martin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer, Piano, Programmed By, Keyboards, Backing Vocals",
+          "tracks": "",
+          "id": 61337,
+          "resource_url": "https://api.discogs.com/artists/61337"
+        }
+      ],
+      "duration": "3:30"
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "I Drink Wine",
+      "extraartists": [
+        {
+          "name": "David Campbell",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [Strings], Conductor [Strings]",
+          "tracks": "",
+          "id": 341947,
+          "resource_url": "https://api.discogs.com/artists/341947"
+        },
+        {
+          "name": "Julian Burg",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 3636461,
+          "resource_url": "https://api.discogs.com/artists/3636461"
+        },
+        {
+          "name": "Alex Pasco",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additional]",
+          "tracks": "",
+          "id": 2239634,
+          "resource_url": "https://api.discogs.com/artists/2239634"
+        },
+        {
+          "name": "Matt Scatchell",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Mix]",
+          "tracks": "",
+          "id": 7595952,
+          "resource_url": "https://api.discogs.com/artists/7595952"
+        },
+        {
+          "name": "Randy Merrill",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 1485708,
+          "resource_url": "https://api.discogs.com/artists/1485708"
+        },
+        {
+          "name": "Tom Elmhirst",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 122559,
+          "resource_url": "https://api.discogs.com/artists/122559"
+        },
+        {
+          "name": "Steve Churchyard",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Strings]",
+          "tracks": "",
+          "id": 114779,
+          "resource_url": "https://api.discogs.com/artists/114779"
+        },
+        {
+          "name": "Adele Adkins",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1638187,
+          "resource_url": "https://api.discogs.com/artists/1638187"
+        },
+        {
+          "name": "Greg Kurstin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer, Engineer, Bass, Drums, Organ [B3], Mellotron, Keyboards [Orchestron], Piano, Percussion, Electric Piano [Rhodes]",
+          "tracks": "",
+          "id": 277673,
+          "resource_url": "https://api.discogs.com/artists/277673"
+        }
+      ],
+      "duration": "6:16"
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "All Night Parking (Interlude)",
+      "extraartists": [
+        {
+          "name": "Matt Scatchell",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Mix]",
+          "tracks": "",
+          "id": 7595952,
+          "resource_url": "https://api.discogs.com/artists/7595952"
+        },
+        {
+          "name": "Julian Burg",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Vocals]",
+          "tracks": "",
+          "id": 3636461,
+          "resource_url": "https://api.discogs.com/artists/3636461"
+        },
+        {
+          "name": "Erroll Garner",
+          "anv": "",
+          "join": "",
+          "role": "Featuring [With], Written-By, Piano",
+          "tracks": "",
+          "id": 262816,
+          "resource_url": "https://api.discogs.com/artists/262816"
+        },
+        {
+          "name": "Randy Merrill",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 1485708,
+          "resource_url": "https://api.discogs.com/artists/1485708"
+        },
+        {
+          "name": "Tom Elmhirst",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 122559,
+          "resource_url": "https://api.discogs.com/artists/122559"
+        },
+        {
+          "name": "Joey Pecoraro",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Drums, Piano [Additional], Trumpet, Violin",
+          "tracks": "",
+          "id": 6192170,
+          "resource_url": "https://api.discogs.com/artists/6192170"
+        },
+        {
+          "name": "Greg Kurstin",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Engineer [Vocals]",
+          "tracks": "",
+          "id": 277673,
+          "resource_url": "https://api.discogs.com/artists/277673"
+        },
+        {
+          "name": "Adele Adkins",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1638187,
+          "resource_url": "https://api.discogs.com/artists/1638187"
+        }
+      ],
+      "duration": "2:41"
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Woman Like Me",
+      "extraartists": [
+        {
+          "name": "Chris Dave",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Percussion",
+          "tracks": "",
+          "id": 661928,
+          "resource_url": "https://api.discogs.com/artists/661928"
+        },
+        {
+          "name": "Todd Monfalcone",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additional]",
+          "tracks": "",
+          "id": 312097,
+          "resource_url": "https://api.discogs.com/artists/312097"
+        },
+        {
+          "name": "Matt Dyson (3)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additonal]",
+          "tracks": "",
+          "id": 5662818,
+          "resource_url": "https://api.discogs.com/artists/5662818"
+        },
+        {
+          "name": "Ryan Lytle",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 6659886,
+          "resource_url": "https://api.discogs.com/artists/6659886"
+        },
+        {
+          "name": "Matt Scatchell",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Mix]",
+          "tracks": "",
+          "id": 7595952,
+          "resource_url": "https://api.discogs.com/artists/7595952"
+        },
+        {
+          "name": "Randy Merrill",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 1485708,
+          "resource_url": "https://api.discogs.com/artists/1485708"
+        },
+        {
+          "name": "Tom Elmhirst",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 122559,
+          "resource_url": "https://api.discogs.com/artists/122559"
+        },
+        {
+          "name": "Inflo",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Engineer [Recording], Bass, Guitar",
+          "tracks": "",
+          "id": 4124430,
+          "resource_url": "https://api.discogs.com/artists/4124430"
+        },
+        {
+          "name": "Adele Adkins",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1638187,
+          "resource_url": "https://api.discogs.com/artists/1638187"
+        },
+        {
+          "name": "Dean Josiah Cover",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7466643,
+          "resource_url": "https://api.discogs.com/artists/7466643"
+        }
+      ],
+      "duration": "5:00"
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Hold On",
+      "extraartists": [
+        {
+          "name": "David Campbell",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [Strings], Conductor [Strings]",
+          "tracks": "",
+          "id": 341947,
+          "resource_url": "https://api.discogs.com/artists/341947"
+        },
+        {
+          "name": "Tom Campbell (8)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additional]",
+          "tracks": "",
+          "id": 4750559,
+          "resource_url": "https://api.discogs.com/artists/4750559"
+        },
+        {
+          "name": "Brian Rajaratnam",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 7540465,
+          "resource_url": "https://api.discogs.com/artists/7540465"
+        },
+        {
+          "name": "Matt Scatchell",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Mix]",
+          "tracks": "",
+          "id": 7595952,
+          "resource_url": "https://api.discogs.com/artists/7595952"
+        },
+        {
+          "name": "Randy Merrill",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 1485708,
+          "resource_url": "https://api.discogs.com/artists/1485708"
+        },
+        {
+          "name": "Tom Elmhirst",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 122559,
+          "resource_url": "https://api.discogs.com/artists/122559"
+        },
+        {
+          "name": "Inflo",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Engineer [Recording], Drums, Piano, Organ, Bass, Electric Guitar, Percussion",
+          "tracks": "",
+          "id": 4124430,
+          "resource_url": "https://api.discogs.com/artists/4124430"
+        },
+        {
+          "name": "Steve Churchyard",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Strings]",
+          "tracks": "",
+          "id": 114779,
+          "resource_url": "https://api.discogs.com/artists/114779"
+        },
+        {
+          "name": "Adele Adkins",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1638187,
+          "resource_url": "https://api.discogs.com/artists/1638187"
+        },
+        {
+          "name": "Dean Josiah Cover",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7466643,
+          "resource_url": "https://api.discogs.com/artists/7466643"
+        }
+      ],
+      "duration": "6:06"
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "To Be Loved",
+      "extraartists": [
+        {
+          "name": "Ivan Wayman",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additional]",
+          "tracks": "",
+          "id": 4826370,
+          "resource_url": "https://api.discogs.com/artists/4826370"
+        },
+        {
+          "name": "Matt Scatchell",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Mix]",
+          "tracks": "",
+          "id": 7595952,
+          "resource_url": "https://api.discogs.com/artists/7595952"
+        },
+        {
+          "name": "Randy Merrill",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 1485708,
+          "resource_url": "https://api.discogs.com/artists/1485708"
+        },
+        {
+          "name": "Tom Elmhirst",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 122559,
+          "resource_url": "https://api.discogs.com/artists/122559"
+        },
+        {
+          "name": "Shawn Everett",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Recorded By",
+          "tracks": "",
+          "id": 579562,
+          "resource_url": "https://api.discogs.com/artists/579562"
+        },
+        {
+          "name": "Adele Adkins",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1638187,
+          "resource_url": "https://api.discogs.com/artists/1638187"
+        },
+        {
+          "name": "Tobias Jesso Jr.",
+          "anv": "",
+          "join": "",
+          "role": "Written-By, Producer, Piano",
+          "tracks": "",
+          "id": 4486100,
+          "resource_url": "https://api.discogs.com/artists/4486100"
+        }
+      ],
+      "duration": "6:43"
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Love Is A Game",
+      "extraartists": [
+        {
+          "name": "David Campbell",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [Strings], Conductor [Strings]",
+          "tracks": "",
+          "id": 341947,
+          "resource_url": "https://api.discogs.com/artists/341947"
+        },
+        {
+          "name": "Ryan Lytle",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additional]",
+          "tracks": "",
+          "id": 6659886,
+          "resource_url": "https://api.discogs.com/artists/6659886"
+        },
+        {
+          "name": "Todd Monfalcone",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additional]",
+          "tracks": "",
+          "id": 312097,
+          "resource_url": "https://api.discogs.com/artists/312097"
+        },
+        {
+          "name": "Matt Scatchell",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Mix]",
+          "tracks": "",
+          "id": 7595952,
+          "resource_url": "https://api.discogs.com/artists/7595952"
+        },
+        {
+          "name": "Adele (3)",
+          "anv": "",
+          "join": "",
+          "role": "Handclaps",
+          "tracks": "",
+          "id": 819015,
+          "resource_url": "https://api.discogs.com/artists/819015"
+        },
+        {
+          "name": "Randy Merrill",
+          "anv": "",
+          "join": "",
+          "role": "Mastered By",
+          "tracks": "",
+          "id": 1485708,
+          "resource_url": "https://api.discogs.com/artists/1485708"
+        },
+        {
+          "name": "Tom Elmhirst",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 122559,
+          "resource_url": "https://api.discogs.com/artists/122559"
+        },
+        {
+          "name": "Chris Dave",
+          "anv": "",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 661928,
+          "resource_url": "https://api.discogs.com/artists/661928"
+        },
+        {
+          "name": "Inflo",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Engineer [Recording], Drums, Piano, Electric Piano [Wurlitzer], Organ, Electric Guitar, Bass, Handclaps, Percussion",
+          "tracks": "",
+          "id": 4124430,
+          "resource_url": "https://api.discogs.com/artists/4124430"
+        },
+        {
+          "name": "Steve Churchyard",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Strings]",
+          "tracks": "",
+          "id": 114779,
+          "resource_url": "https://api.discogs.com/artists/114779"
+        },
+        {
+          "name": "Adele Adkins",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1638187,
+          "resource_url": "https://api.discogs.com/artists/1638187"
+        },
+        {
+          "name": "Dean Josiah Cover",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 7466643,
+          "resource_url": "https://api.discogs.com/artists/7466643"
+        }
+      ],
+      "duration": "6:43"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Phil Lee (5)",
+      "anv": "",
+      "join": "",
+      "role": "Creative Director, Design",
+      "tracks": "",
+      "id": 1833022,
+      "resource_url": "https://api.discogs.com/artists/1833022"
+    },
+    {
+      "name": "Ryan Smith (2)",
+      "anv": "RKS",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 463852,
+      "resource_url": "https://api.discogs.com/artists/463852"
+    },
+    {
+      "name": "Simon Emmett",
+      "anv": "",
+      "join": "",
+      "role": "Photography By [Cover]",
+      "tracks": "",
+      "id": 2177064,
+      "resource_url": "https://api.discogs.com/artists/2177064"
+    },
+    {
+      "name": "Raven B. Varona",
+      "anv": "",
+      "join": "",
+      "role": "Photography By [Studio Photos]",
+      "tracks": "",
+      "id": 10318825,
+      "resource_url": "https://api.discogs.com/artists/10318825"
+    },
+    {
+      "name": "Adele (3)",
+      "anv": "",
+      "join": "",
+      "role": "Vocals, Creative Director, Design",
+      "tracks": "",
+      "id": 819015,
+      "resource_url": "https://api.discogs.com/artists/819015"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/ULiV2_TRvrLsZ5-rRUkq43J2us-ZVKwN5jb3yy_PFlQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtOTExNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ULiV2_TRvrLsZ5-rRUkq43J2us-ZVKwN5jb3yy_PFlQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtOTExNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/T3Lz4XPVL5yOGgzyg4cHwFEZ42szVjCvQpfIgs0W66c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtOTExNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 597
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/OBNmvhth1X8eJSM8SnYW6V0rlxT0kh-GfTelsGJt2YY/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtMTAxNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/OBNmvhth1X8eJSM8SnYW6V0rlxT0kh-GfTelsGJt2YY/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtMTAxNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/8z5HEu5RNoI2HmZaf9i3xSUaUfjol6cPlO_SldE_J-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtMTAxNi5qcGVn.jpeg",
+      "width": 600,
+      "height": 589
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/sRuCT-r7Cx_bHSb_DHPdCPWlcdrwCZfQJ3MFZK2s-LU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtOTM4Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/sRuCT-r7Cx_bHSb_DHPdCPWlcdrwCZfQJ3MFZK2s-LU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtOTM4Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/jMUfytJDWQwk1-wSPGM9WjRrpmXXefBywSU2lm2kmag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtOTM4Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ZhDB2HmKltynHjagXUrBSRm-5UqeXWO832rBidtY3oI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtMjAyOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ZhDB2HmKltynHjagXUrBSRm-5UqeXWO832rBidtY3oI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtMjAyOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/LiRWoop13Y0LWaNg1J6tSN2qtafP2aIPp5U0zrwhFWo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtMjAyOC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/LKGynXav6NQGUOvxQ2kgttl7tVuTmBYGNn7jxROZMB4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtOTg3MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/LKGynXav6NQGUOvxQ2kgttl7tVuTmBYGNn7jxROZMB4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtOTg3MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/MoyF5wMYL_eHRDPo11mXn0ghpZP0EPsbD7ZTPdlnOzs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtOTg3MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/MPp6y4BQomvZy11cs1qzU8cn26NLWXelySrtyJdcGTk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtMzA2MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/MPp6y4BQomvZy11cs1qzU8cn26NLWXelySrtyJdcGTk/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtMzA2MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/XepfYjCPkh6GH8Nu873qWvaBa4bKmugcwvDtlUr7m0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtMzA2MS5qcGVn.jpeg",
+      "width": 599,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/0QMKoQ9Of0BaLJP09ex64UacEjqfQ098n-aMZRcbGrQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtMjc4Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/0QMKoQ9Of0BaLJP09ex64UacEjqfQ098n-aMZRcbGrQ/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtMjc4Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/B8ByigsQY3HdAeF1fx2An1LLNTRstMLsIyfhnWn7cjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtMjc4Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 595
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ZGL4lvMD4YSkH3j52rtrz3xUZSEHelKBXpOaEs0bvWM/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTQtNzkwNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ZGL4lvMD4YSkH3j52rtrz3xUZSEHelKBXpOaEs0bvWM/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTQtNzkwNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/cwuJAwCnnBLBkmdRhKczVhTVZ8N-fKxGKxUcekT31q0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTQtNzkwNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 590
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/wm5ELeJUWTntooY1g1S5o5gSCC1P2sSXZgeDD4IQ5Zc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTQtMzU1My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/wm5ELeJUWTntooY1g1S5o5gSCC1P2sSXZgeDD4IQ5Zc/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTQtMzU1My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/7AZr5LjVtgTmU6tH5b8DaDquKZvVGAXUIpmgDivRMcU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTQtMzU1My5qcGVn.jpeg",
+      "width": 600,
+      "height": 595
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/5nFhu2J-grLQbbcHLyhErNy8MMp8lK7KPp7GADmUDX8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTItNTg0MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/5nFhu2J-grLQbbcHLyhErNy8MMp8lK7KPp7GADmUDX8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTItNTg0MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/po_WLSAPldJOEPNVUtylnPVWSwYBz3xzCFSqh6oqHzY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTItNTg0MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 595
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/NhZBJxG4TdLD-_Oc22eiGunqArPqSb2K-p0-pabGHOM/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtOTA4MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/NhZBJxG4TdLD-_Oc22eiGunqArPqSb2K-p0-pabGHOM/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtOTA4MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/22CPEdBktq3lQhS2ewOGb4eOGM6piLnXbTv3jdoBuyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtOTA4MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 592
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/d-S_ghUSjLAEhwSbA0fcXirzhX0eTaibfSpi9Kbrqhc/rs:fit/g:sm/q:90/h:263/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtMTY3My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/d-S_ghUSjLAEhwSbA0fcXirzhX0eTaibfSpi9Kbrqhc/rs:fit/g:sm/q:90/h:263/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtMTY3My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/kNdfNfdKp1E4f9rbgMoi9Vy0TgpOPjvJENdbDJfEH6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtMTY3My5qcGVn.jpeg",
+      "width": 600,
+      "height": 263
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/OMeRZBk68S_567Vz1EciUc0-v7oCnNOUy6v4lOT4RN4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2MzcxNjgw/ODQtODY3OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/OMeRZBk68S_567Vz1EciUc0-v7oCnNOUy6v4lOT4RN4/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2MzcxNjgw/ODQtODY3OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Yl2X4jf43DYORqHMkJBHw8g4-qTB9l-1_HfGXRh2Ls8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2MzcxNjgw/ODQtODY3OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 450
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/VhKvw2uUxnfXyGTwgJHwYnWClt7qYNU5956cohVSwjE/rs:fit/g:sm/q:90/h:379/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtNDAyNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/VhKvw2uUxnfXyGTwgJHwYnWClt7qYNU5956cohVSwjE/rs:fit/g:sm/q:90/h:379/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtNDAyNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/vW0i73Ll8nALH7_YKgYf2v35xUzoNvzWn4_fVEv_SOk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtNDAyNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 379
+    }
+  ],
+  "thumb": "https://i.discogs.com/T3Lz4XPVL5yOGgzyg4cHwFEZ42szVjCvQpfIgs0W66c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMDE3/MDIzLTE2Mzc0NTUz/NTMtOTExNC5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

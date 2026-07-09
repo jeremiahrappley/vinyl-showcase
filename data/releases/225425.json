@@ -1,0 +1,383 @@
+{
+  "id": 225425,
+  "status": "Accepted",
+  "year": 1994,
+  "resource_url": "https://api.discogs.com/releases/225425",
+  "uri": "https://www.discogs.com/release/225425-David-Crawford-3-In-Out-Of-Love",
+  "artists": [
+    {
+      "name": "David Crawford (3)",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 1097227,
+      "resource_url": "https://api.discogs.com/artists/1097227",
+      "thumbnail_url": "https://i.discogs.com/8Jq2hWFY7-XGFpJmWAnX_gNpne9ONfrYN30DPAWCYVc/rs:fit/g:sm/q:90/h:267/w:237/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEwOTcy/MjctMTI1OTk5NTk5/NS5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "David Crawford (3)",
+  "labels": [
+    {
+      "name": "Poji Records",
+      "catno": "PJ002",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 2516,
+      "resource_url": "https://api.discogs.com/labels/2516",
+      "thumbnail_url": "https://i.discogs.com/KHq67tkd3ahAsP8hDxrdbX-g-no34PDW20XJ4TVsVBc/rs:fit/g:sm/q:90/h:96/w:216/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1MTYt/MDAyLmdpZg.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Poji Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 2516,
+      "resource_url": "https://api.discogs.com/labels/2516",
+      "thumbnail_url": "https://i.discogs.com/KHq67tkd3ahAsP8hDxrdbX-g-no34PDW20XJ4TVsVBc/rs:fit/g:sm/q:90/h:96/w:216/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1MTYt/MDAyLmdpZg.jpeg"
+    },
+    {
+      "name": "Liaison Records, Inc.",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 297802,
+      "resource_url": "https://api.discogs.com/labels/297802"
+    },
+    {
+      "name": "Stronger Together Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 3682606,
+      "resource_url": "https://api.discogs.com/labels/3682606"
+    },
+    {
+      "name": "Pope Pump Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 608930,
+      "resource_url": "https://api.discogs.com/labels/608930"
+    },
+    {
+      "name": "Poji Records Entertainment",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 608937,
+      "resource_url": "https://api.discogs.com/labels/608937"
+    },
+    {
+      "name": "Brothers In The Struggle Productions",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 1367947,
+      "resource_url": "https://api.discogs.com/labels/1367947"
+    },
+    {
+      "name": "Dick Charles Recording Inc.",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 196522,
+      "resource_url": "https://api.discogs.com/labels/196522",
+      "thumbnail_url": "https://i.discogs.com/ECe01WHyi0hcJK9SWls0gNX-aTBETTrvd6AM59wON80/rs:fit/g:sm/q:90/h:500/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5NjUy/Mi0xMzA4MDg3MDUw/LmpwZWc.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "12\"",
+        "33 ⅓ RPM"
+      ]
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 88,
+    "want": 62,
+    "rating": {
+      "count": 23,
+      "average": 4.04
+    },
+    "submitter": {
+      "username": "DJLeandre",
+      "resource_url": "https://api.discogs.com/users/DJLeandre"
+    },
+    "contributors": [
+      {
+        "username": "DJLeandre",
+        "resource_url": "https://api.discogs.com/users/DJLeandre"
+      },
+      {
+        "username": "chicagodeep.",
+        "resource_url": "https://api.discogs.com/users/chicagodeep."
+      },
+      {
+        "username": "Vrbanya",
+        "resource_url": "https://api.discogs.com/users/Vrbanya"
+      },
+      {
+        "username": "blunted1995",
+        "resource_url": "https://api.discogs.com/users/blunted1995"
+      },
+      {
+        "username": "UndergroundMusicMan",
+        "resource_url": "https://api.discogs.com/users/UndergroundMusicMan"
+      },
+      {
+        "username": "sfere71",
+        "resource_url": "https://api.discogs.com/users/sfere71"
+      },
+      {
+        "username": "RadicalJesMen",
+        "resource_url": "https://api.discogs.com/users/RadicalJesMen"
+      },
+      {
+        "username": "truedream",
+        "resource_url": "https://api.discogs.com/users/truedream"
+      },
+      {
+        "username": "matmos",
+        "resource_url": "https://api.discogs.com/users/matmos"
+      },
+      {
+        "username": "colinzwiffy",
+        "resource_url": "https://api.discogs.com/users/colinzwiffy"
+      },
+      {
+        "username": "Tommy-In-Florida",
+        "resource_url": "https://api.discogs.com/users/Tommy-In-Florida"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2004-01-29T17:10:04-08:00",
+  "date_changed": "2024-04-29T20:10:43-07:00",
+  "num_for_sale": 18,
+  "lowest_price": 2,
+  "master_id": 673180,
+  "master_url": "https://api.discogs.com/masters/673180",
+  "title": "In & Out Of Love",
+  "country": "US",
+  "released": "1994",
+  "notes": "© ® 1994 POJI Records\n\nPublished by Stronger Together Records",
+  "released_formatted": "1994",
+  "identifiers": [
+    {
+      "type": "Matrix / Runout",
+      "value": "PJ002 LOVE SIDE  DCHARLES",
+      "description": "Runout side A, etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "PJ002 LUV SIDE  DCHARLES",
+      "description": "Runout side B, etched"
+    },
+    {
+      "type": "Rights Society",
+      "value": "BMI"
+    },
+    {
+      "type": "Rights Society",
+      "value": "ASCAP"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=gOXhBiHAYSs",
+      "title": "David Crawford - In & Out Of Love (Beat To Luv Mix)",
+      "description": "Track from Poji Records. Year 1994.",
+      "duration": 320,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=iJDRejwpQps",
+      "title": "David Crawford - In & Out Of Love (Strip Down Mix)",
+      "description": "Poji Records. 1994",
+      "duration": 411,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=sbVJhMa-AQs",
+      "title": "David Crawford - In & Out Of Love (Classic Keys Mix)",
+      "description": "1994 garage house from Poji Records -- PJ002 \r\nhttp://www.discogs.com/David-Crawford-In-Out-Of-Love/release/225425",
+      "duration": 405,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=gOXhBiHAYSs",
+      "title": "David Crawford - In & Out Of Love (Beat To Luv Mix)",
+      "description": "Track from Poji Records. Year 1994.",
+      "duration": 320,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=iJDRejwpQps",
+      "title": "David Crawford - In & Out Of Love (Strip Down Mix)",
+      "description": "Poji Records. 1994",
+      "duration": 411,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=sbVJhMa-AQs",
+      "title": "David Crawford - In & Out Of Love (Classic Keys Mix)",
+      "description": "1994 garage house from Poji Records -- PJ002 \r\nhttp://www.discogs.com/David-Crawford-In-Out-Of-Love/release/225425",
+      "duration": 405,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic"
+  ],
+  "styles": [
+    "House",
+    "Garage House"
+  ],
+  "tracklist": [
+    {
+      "position": "",
+      "type_": "heading",
+      "title": "Love Side",
+      "duration": ""
+    },
+    {
+      "position": "A",
+      "type_": "track",
+      "title": "In & Out Of Love  (Classic Keys Mix)",
+      "duration": "7:03"
+    },
+    {
+      "position": "",
+      "type_": "heading",
+      "title": "Luv Side",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "In & Out Of Love  (Strip Down Mix)",
+      "duration": "6:53"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "In & Out Of Love  (Beat To Luv Mix)",
+      "duration": "5:31"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "R. Mills",
+      "anv": "",
+      "join": "",
+      "role": "Artwork By [Logo Dzine]",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "DJ Oji",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 11195,
+      "resource_url": "https://api.discogs.com/artists/11195"
+    },
+    {
+      "name": "DJ Pope",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 11190,
+      "resource_url": "https://api.discogs.com/artists/11190"
+    },
+    {
+      "name": "Dick Charles",
+      "anv": "DCharles",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 217621,
+      "resource_url": "https://api.discogs.com/artists/217621"
+    },
+    {
+      "name": "David Crawford (3)",
+      "anv": "",
+      "join": "",
+      "role": "Presenter",
+      "tracks": "",
+      "id": 1097227,
+      "resource_url": "https://api.discogs.com/artists/1097227"
+    },
+    {
+      "name": "DJ Pope",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 11190,
+      "resource_url": "https://api.discogs.com/artists/11190"
+    },
+    {
+      "name": "Sam W.",
+      "anv": "",
+      "join": "",
+      "role": "Written By",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Brian Pope",
+      "anv": "B. Pope",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 516145,
+      "resource_url": "https://api.discogs.com/artists/516145"
+    },
+    {
+      "name": "David Crawford (3)",
+      "anv": "D. Crawford",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 1097227,
+      "resource_url": "https://api.discogs.com/artists/1097227"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/PxfLZ4ZyvqKxOnOnFatkYRpryfCVsMDMwJ-GKyTdkGw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQy/NS0xNjEzOTEzNzQ5/LTg1MzUuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/PxfLZ4ZyvqKxOnOnFatkYRpryfCVsMDMwJ-GKyTdkGw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQy/NS0xNjEzOTEzNzQ5/LTg1MzUuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/PQ-bI5uNg8mtve2aYDe7wCGr-vlypdsa8uVfuUlDXR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQy/NS0xNjEzOTEzNzQ5/LTg1MzUuanBlZw.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/FJ10neN-9uQJPPPJmQZh8twCFEUdmZ21Q3O_mONkhW4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQy/NS0xNjEzOTEzNzY2/LTI4MTUuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/FJ10neN-9uQJPPPJmQZh8twCFEUdmZ21Q3O_mONkhW4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQy/NS0xNjEzOTEzNzY2/LTI4MTUuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/oBzyoL425Y6wcMQkdz33r9BBa4UMykrVS1sPmlxQ-uc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQy/NS0xNjEzOTEzNzY2/LTI4MTUuanBlZw.jpeg",
+      "width": 600,
+      "height": 599
+    }
+  ],
+  "thumb": "https://i.discogs.com/PQ-bI5uNg8mtve2aYDe7wCGr-vlypdsa8uVfuUlDXR8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNTQy/NS0xNjEzOTEzNzQ5/LTg1MzUuanBlZw.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

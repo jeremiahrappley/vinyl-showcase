@@ -1,0 +1,956 @@
+{
+  "id": 3476129,
+  "status": "Accepted",
+  "year": 1980,
+  "resource_url": "https://api.discogs.com/releases/3476129",
+  "uri": "https://www.discogs.com/release/3476129-Kool-The-Gang-Celebrate",
+  "artists": [
+    {
+      "name": "Kool & The Gang",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 48865,
+      "resource_url": "https://api.discogs.com/artists/48865",
+      "thumbnail_url": "https://i.discogs.com/yZlvJOjMa_2HcXwJcBqCug2rZRDsZs46PO95x3VHM0E/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ4ODY1/LTE2MjI5NjYxMTct/NTQ3Mi5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "Kool & The Gang",
+  "labels": [
+    {
+      "name": "De-Lite Records",
+      "catno": "DSR 9518",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 9892,
+      "resource_url": "https://api.discogs.com/labels/9892",
+      "thumbnail_url": "https://i.discogs.com/bKpx1gF8jBBQMPb39vKmq0130FtjTkoOoOju8Nyg6G4/rs:fit/g:sm/q:90/h:218/w:552/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk4OTIt/MTQxMDQ2NDI4NS02/MTgyLmpwZWc.jpeg"
+    },
+    {
+      "name": "De-Lite Records",
+      "catno": "6372-768",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 9892,
+      "resource_url": "https://api.discogs.com/labels/9892",
+      "thumbnail_url": "https://i.discogs.com/bKpx1gF8jBBQMPb39vKmq0130FtjTkoOoOju8Nyg6G4/rs:fit/g:sm/q:90/h:218/w:552/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk4OTIt/MTQxMDQ2NDI4NS02/MTgyLmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "PolyGram",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 8742,
+      "resource_url": "https://api.discogs.com/labels/8742",
+      "thumbnail_url": "https://i.discogs.com/oS31B3xxazJjGWIYVxpSx0TnI1OEG07roy9od1o_GzU/rs:fit/g:sm/q:90/h:360/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg3NDIt/MTQyMjQ5MDU0MC0z/Mzc4LmpwZWc.jpeg"
+    },
+    {
+      "name": "House Of Music, West Orange, NJ",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 767261,
+      "resource_url": "https://api.discogs.com/labels/767261",
+      "thumbnail_url": "https://i.discogs.com/JwljJg7QzhRAXckKDLMUUL3eScxdklLSBydr5_eaUx4/rs:fit/g:sm/q:90/h:425/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc2NzI2/MS0xNTY1MDAyNzA5/LTMwOTAuanBlZw.jpeg"
+    },
+    {
+      "name": "Frankford/Wayne Mastering Labs",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 199325,
+      "resource_url": "https://api.discogs.com/labels/199325",
+      "thumbnail_url": "https://i.discogs.com/HDnR6W2DaHBbVKqQpAiIPrI9supkUsjLZSQtVQRnj2o/rs:fit/g:sm/q:90/h:242/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5OTMy/NS0xNDUyNTk3Nzcy/LTU1MjAuanBlZw.jpeg"
+    },
+    {
+      "name": "Keel Mfg. Corp.",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 294000,
+      "resource_url": "https://api.discogs.com/labels/294000",
+      "thumbnail_url": "https://i.discogs.com/7ISVhSoI4O88wLZbl4Pb-N6eIZ89EqubAMthT2HN1pM/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5NDAw/MC0xNjc2NzU5MTY2/LTIyODEuanBlZw.jpeg"
+    },
+    {
+      "name": "Phonogram, Inc.",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 266015,
+      "resource_url": "https://api.discogs.com/labels/266015",
+      "thumbnail_url": "https://i.discogs.com/V-4VO7jBwc75TE03PaiHKEON27Q8ADx-_wGKMFexVyE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NjAx/NS0xNDg0NTYxNDk4/LTI3MDMuanBlZw.jpeg"
+    },
+    {
+      "name": "Phonogram, Inc.",
+      "catno": "",
+      "entity_type": "8",
+      "entity_type_name": "Marketed By",
+      "id": 266015,
+      "resource_url": "https://api.discogs.com/labels/266015",
+      "thumbnail_url": "https://i.discogs.com/V-4VO7jBwc75TE03PaiHKEON27Q8ADx-_wGKMFexVyE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NjAx/NS0xNDg0NTYxNDk4/LTI3MDMuanBlZw.jpeg"
+    },
+    {
+      "name": "PolyGram Distribution, Inc.",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 316983,
+      "resource_url": "https://api.discogs.com/labels/316983",
+      "thumbnail_url": "https://i.discogs.com/mGv2pwWW25-V3M6UarHmcBs7UcX09GlWNO3Ka2gAoCo/rs:fit/g:sm/q:90/h:38/w:390/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxNjk4/My0xMzkzNzkzODY5/LTY1MzAuanBlZw.jpeg"
+    },
+    {
+      "name": "Delightful Music Ltd.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 282837,
+      "resource_url": "https://api.discogs.com/labels/282837"
+    },
+    {
+      "name": "Fresh Start Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 368356,
+      "resource_url": "https://api.discogs.com/labels/368356"
+    },
+    {
+      "name": "Double F Music (2)",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 282834,
+      "resource_url": "https://api.discogs.com/labels/282834"
+    },
+    {
+      "name": "De-Lite Recorded Sound Corp.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 282835,
+      "resource_url": "https://api.discogs.com/labels/282835",
+      "thumbnail_url": "https://i.discogs.com/nCQQ89e6WF8sxlZ97xMliE4DALFeJWZa9AV413wKv5Q/rs:fit/g:sm/q:90/h:543/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4Mjgz/NS0xNDEyMDI0NTE5/LTYwOTYuanBlZw.jpeg"
+    },
+    {
+      "name": "De-Lite Recorded Sound Corp.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 282835,
+      "resource_url": "https://api.discogs.com/labels/282835",
+      "thumbnail_url": "https://i.discogs.com/nCQQ89e6WF8sxlZ97xMliE4DALFeJWZa9AV413wKv5Q/rs:fit/g:sm/q:90/h:543/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4Mjgz/NS0xNDEyMDI0NTE5/LTYwOTYuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "text": "53, Keel Mfg. Corp. pressing"
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 1741,
+    "want": 212,
+    "rating": {
+      "count": 92,
+      "average": 3.98
+    },
+    "submitter": {
+      "username": "SampleKween",
+      "resource_url": "https://api.discogs.com/users/SampleKween"
+    },
+    "contributors": [
+      {
+        "username": "SampleKween",
+        "resource_url": "https://api.discogs.com/users/SampleKween"
+      },
+      {
+        "username": "amad65",
+        "resource_url": "https://api.discogs.com/users/amad65"
+      },
+      {
+        "username": "themactep",
+        "resource_url": "https://api.discogs.com/users/themactep"
+      },
+      {
+        "username": "MikeRa",
+        "resource_url": "https://api.discogs.com/users/MikeRa"
+      },
+      {
+        "username": "earltoonjr",
+        "resource_url": "https://api.discogs.com/users/earltoonjr"
+      },
+      {
+        "username": "MaximusMCX",
+        "resource_url": "https://api.discogs.com/users/MaximusMCX"
+      },
+      {
+        "username": "Kater_Murr",
+        "resource_url": "https://api.discogs.com/users/Kater_Murr"
+      },
+      {
+        "username": "best-record-italy",
+        "resource_url": "https://api.discogs.com/users/best-record-italy"
+      },
+      {
+        "username": "velove",
+        "resource_url": "https://api.discogs.com/users/velove"
+      },
+      {
+        "username": "BarnyardOrbit",
+        "resource_url": "https://api.discogs.com/users/BarnyardOrbit"
+      },
+      {
+        "username": "RevolutionRecordsJim",
+        "resource_url": "https://api.discogs.com/users/RevolutionRecordsJim"
+      },
+      {
+        "username": "thirdring",
+        "resource_url": "https://api.discogs.com/users/thirdring"
+      },
+      {
+        "username": "swbostoncd",
+        "resource_url": "https://api.discogs.com/users/swbostoncd"
+      },
+      {
+        "username": "Sluijterplaat",
+        "resource_url": "https://api.discogs.com/users/Sluijterplaat"
+      },
+      {
+        "username": "dclubok",
+        "resource_url": "https://api.discogs.com/users/dclubok"
+      },
+      {
+        "username": "b.colflesh",
+        "resource_url": "https://api.discogs.com/users/b.colflesh"
+      },
+      {
+        "username": "disneyfacts",
+        "resource_url": "https://api.discogs.com/users/disneyfacts"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2012-03-16T05:29:46-07:00",
+  "date_changed": "2023-07-06T19:37:45-07:00",
+  "num_for_sale": 43,
+  "lowest_price": 2,
+  "master_id": 113391,
+  "master_url": "https://api.discogs.com/masters/113391",
+  "title": "Celebrate!",
+  "country": "US",
+  "released": "1980",
+  "notes": "©  ℗ 1980 De-Lite Recorded Sound Corp.\n\n[l294000] - Number code on labels: 53. In 1974 a new two-step pressing ring was adopted; the shouldered outer ring measured ~ 2.75\" and the inner ring measured 1.1875\".  The company \n                  lasted until mid 1981 when it became Hauppauge Record Manufacturing Ltd.  This Album was © & ℗ 1980.\n\n[l199325] - The mastering stamp usually takes the form of MASTERING BY FRANKFORD/WAYNE NEW YORK, or the initials F/W followed by an apple symbol. \"F/WTC\" = Tom Coyne\n\nBand name DOES NOT appear on labels.\n\nRecorded at House Of Music.\nMastered at Frankford Wayne.\n\nWe dedicate this music to the people. Come and celebrate the next step in the career of Kool And The Gang. We love you.",
+  "released_formatted": "1980",
+  "identifiers": [
+    {
+      "type": "Rights Society",
+      "value": "BMI"
+    },
+    {
+      "type": "Rights Society",
+      "value": "ASCAP"
+    },
+    {
+      "type": "Pressing Plant ID",
+      "value": "53",
+      "description": "On Side A&B Label"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "DSR 9518",
+      "description": "Side A Label"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Intl. # 6372-768",
+      "description": "Side A Label"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "DSR 9518",
+      "description": "Side B Label"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Intl. # 6372-768",
+      "description": "Side B Label"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "C-1  ◁ DSR-9518 - AS-RE   K",
+      "description": "Side A Etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "C-2  ◁  DSR-9518 - BS-RE   K",
+      "description": "Side B Etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "DSR-9518-AS-RE K1 F/WTC D-2 ◁",
+      "description": "Variant 2 Side A Etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "DSR9518-BS-RE K1 F/WTC D-2 ◁",
+      "description": "Variant 2 Side B Etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "C-2  ◁ DSR-9518 - AS-RE   K. F/WTC",
+      "description": "Variant 3 Side A Etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "C-1  ◁ DSR-9518 - BS-RE   K. F/WTC",
+      "description": "Variant 3 Side B Etched"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=rP9Kljojplg",
+      "title": "Kool & The Gang - Celebrate! (1980) [Full Album]",
+      "description": "tracklist:\n\n[00:00] 01. Celebration\n[05:00] 02. Jones Vs. Jones\n[09:17] 03. Take It To The Top\n[13:36] 04. Morning Star\n[17:30] 05. Love Festival\n[22:43] 06. Just Friends\n[27:06] 07. Night People\n[30:56] 08. Love Affair\n\ncredits:\nAlto Saxophone – Dennis T",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=J4fvfakNxAU",
+      "title": "01. Kool & The Gang - Celebration (Celebrate! 1980) HQ",
+      "description": "Celebrate! is the twelfth studio album by R&B/funk band, Kool & the Gang. Released in 1980, the album reached #1 on the US R&B chart and #10 on the Billboard 200.[2] The album produced perhaps Kool & The Gang's most recognizable hit song, the #1 chart-top",
+      "duration": 302,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5WiXNVca_u0",
+      "title": "04. Kool & The Gang - Morning Star (Celebrate! 1980) HQ",
+      "description": "Celebrate! is the twelfth studio album by R&B/funk band, Kool & the Gang. Released in 1980, the album reached #1 on the US R&B chart and #10 on the Billboard 200.[2] The album produced perhaps Kool & The Gang's most recognizable hit song, the #1 chart-top",
+      "duration": 234,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=V1yBJEDugJI",
+      "title": "05. Kool & The Gang - Love Festival (Celebrate! 1980) HQ",
+      "description": "Celebrate! is the twelfth studio album by R&B/funk band, Kool & the Gang. Released in 1980, the album reached #1 on the US R&B chart and #10 on the Billboard 200.[2] The album produced perhaps Kool & The Gang's most recognizable hit song, the #1 chart-top",
+      "duration": 314,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=v6h0cj-KGwU",
+      "title": "06. Kool & The Gang - Just Friends (Celebrate! 1980) HQ",
+      "description": "Celebrate! is the twelfth studio album by R&B/funk band, Kool & the Gang. Released in 1980, the album reached #1 on the US R&B chart and #10 on the Billboard 200.[2] The album produced perhaps Kool & The Gang's most recognizable hit song, the #1 chart-top",
+      "duration": 264,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=jn6OhD4jNog",
+      "title": "07. Kool & The Gang - Night People (Celebrate! 1980) HQ",
+      "description": "Celebrate! is the twelfth studio album by R&B/funk band, Kool & the Gang. Released in 1980, the album reached #1 on the US R&B chart and #10 on the Billboard 200.[2] The album produced perhaps Kool & The Gang's most recognizable hit song, the #1 chart-top",
+      "duration": 230,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=SjadDdS8ECU",
+      "title": "08. Kool & The Gang - Love Affair (Celebrate! 1980) HQ",
+      "description": "Celebrate! is the twelfth studio album by R&B/funk band, Kool & the Gang. Released in 1980, the album reached #1 on the US R&B chart and #10 on the Billboard 200.[2] The album produced perhaps Kool & The Gang's most recognizable hit song, the #1 chart-top",
+      "duration": 262,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=EPNKa3Q8hWM",
+      "title": "Kool & The Gang - Celebrate! (1980) - A1 - Celebration",
+      "description": "",
+      "duration": 300,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=NR-s0dAeNV8",
+      "title": "Kool & The Gang - Celebrate! (1980) - A2 - Jones Vs. Jones",
+      "description": "",
+      "duration": 259,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=jWBkf4jQ_Fw",
+      "title": "Kool & The Gang - Celebrate! (1980) - A3 - Take It To The Top",
+      "description": "",
+      "duration": 259,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=iRy3dgDVPrs",
+      "title": "Kool & The Gang - Celebrate! (1980) - A4 - Morning Star",
+      "description": "",
+      "duration": 230,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=qKHDq1DLUZY",
+      "title": "Kool & The Gang - Celebrate! (1980) - B1 - Love Festival",
+      "description": "",
+      "duration": 315,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=b-TsqALP0Ng",
+      "title": "Kool & The Gang - Celebrate! (1980) - B2 - Just Friends",
+      "description": "",
+      "duration": 264,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=lYOZdC8Pfpc",
+      "title": "Kool & The Gang - Celebrate! (1980) - B3 - Night People",
+      "description": "",
+      "duration": 229,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=c8kbQuFnhrk",
+      "title": "Kool & The Gang - Celebrate! (1980) - B4 - Love Affair",
+      "description": "",
+      "duration": 263,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=pXz2fti0oqs",
+      "title": "Kool & The Gang - Take It To The Top",
+      "description": "",
+      "duration": 271,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=bOJZVx5HJjI",
+      "title": "Kool & The Gang- Night People",
+      "description": "",
+      "duration": 242,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Ta5lw_vcN6g",
+      "title": "Kool & The Gang- Love Festival",
+      "description": "",
+      "duration": 326,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=LXsuByYXZyM",
+      "title": "Kool & The Gang- Love Affair",
+      "description": "",
+      "duration": 274,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=GRdHWlkBdOo",
+      "title": "Kool & The Gang- Jones Vs  Jones",
+      "description": "",
+      "duration": 269,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Disco",
+    "Funk",
+    "Contemporary R&B"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Celebration",
+      "extraartists": [
+        {
+          "name": "Kool & The Gang",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 48865,
+          "resource_url": "https://api.discogs.com/artists/48865"
+        },
+        {
+          "name": "Ronald Bell",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 108893,
+          "resource_url": "https://api.discogs.com/artists/108893"
+        }
+      ],
+      "duration": "5:00"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Jones Vs. Jones",
+      "extraartists": [
+        {
+          "name": "George Brown",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 261265,
+          "resource_url": "https://api.discogs.com/artists/261265"
+        },
+        {
+          "name": "Kool & The Gang",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 48865,
+          "resource_url": "https://api.discogs.com/artists/48865"
+        }
+      ],
+      "duration": "4:18"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Take It To The Top",
+      "extraartists": [
+        {
+          "name": "Kool & The Gang",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 48865,
+          "resource_url": "https://api.discogs.com/artists/48865"
+        },
+        {
+          "name": "Ronald Bell",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 108893,
+          "resource_url": "https://api.discogs.com/artists/108893"
+        }
+      ],
+      "duration": "4:19"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Morning Star",
+      "extraartists": [
+        {
+          "name": "Kool & The Gang",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 48865,
+          "resource_url": "https://api.discogs.com/artists/48865"
+        },
+        {
+          "name": "Robert Spike Mickens",
+          "anv": "Robert Mickens",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 387583,
+          "resource_url": "https://api.discogs.com/artists/387583"
+        }
+      ],
+      "duration": "3:48"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Love Festival",
+      "extraartists": [
+        {
+          "name": "Claydes Smith",
+          "anv": "Charles Smith",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 387582,
+          "resource_url": "https://api.discogs.com/artists/387582"
+        },
+        {
+          "name": "Kool & The Gang",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 48865,
+          "resource_url": "https://api.discogs.com/artists/48865"
+        }
+      ],
+      "duration": "5:16"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Just Friends",
+      "extraartists": [
+        {
+          "name": "Kool & The Gang",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 48865,
+          "resource_url": "https://api.discogs.com/artists/48865"
+        },
+        {
+          "name": "Ronald Bell",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 108893,
+          "resource_url": "https://api.discogs.com/artists/108893"
+        }
+      ],
+      "duration": "4:23"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Night People",
+      "extraartists": [
+        {
+          "name": "Kool & The Gang",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 48865,
+          "resource_url": "https://api.discogs.com/artists/48865"
+        },
+        {
+          "name": "Ronald Bell",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 108893,
+          "resource_url": "https://api.discogs.com/artists/108893"
+        }
+      ],
+      "duration": "3:47"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Love Affair",
+      "extraartists": [
+        {
+          "name": "George Brown",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 261265,
+          "resource_url": "https://api.discogs.com/artists/261265"
+        },
+        {
+          "name": "Kool & The Gang",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 48865,
+          "resource_url": "https://api.discogs.com/artists/48865"
+        }
+      ],
+      "duration": "4:21"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Dennis D.T. Thomas",
+      "anv": "Dennis Thomas",
+      "join": "",
+      "role": "Alto Saxophone",
+      "tracks": "",
+      "id": 387581,
+      "resource_url": "https://api.discogs.com/artists/387581"
+    },
+    {
+      "name": "Cedric Toon",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "",
+      "id": 502287,
+      "resource_url": "https://api.discogs.com/artists/502287"
+    },
+    {
+      "name": "Meekaaeel Muhammad",
+      "anv": "Meekaeel Muhammad",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "",
+      "id": 635988,
+      "resource_url": "https://api.discogs.com/artists/635988"
+    },
+    {
+      "name": "Robert Kool Bell",
+      "anv": "Robert Bell",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "",
+      "id": 387580,
+      "resource_url": "https://api.discogs.com/artists/387580"
+    },
+    {
+      "name": "Coffee",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals [Female]",
+      "tracks": "",
+      "id": 75401,
+      "resource_url": "https://api.discogs.com/artists/75401"
+    },
+    {
+      "name": "Something Sweet",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals [Female]",
+      "tracks": "",
+      "id": 389598,
+      "resource_url": "https://api.discogs.com/artists/389598"
+    },
+    {
+      "name": "Earl Toon, Jr.",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals, Keyboards, Percussion [Uncredited]",
+      "tracks": "",
+      "id": 502289,
+      "resource_url": "https://api.discogs.com/artists/502289"
+    },
+    {
+      "name": "Ronald Bell",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals, Keyboards, Saxophone",
+      "tracks": "",
+      "id": 108893,
+      "resource_url": "https://api.discogs.com/artists/108893"
+    },
+    {
+      "name": "J.T. Taylor",
+      "anv": "James \"J.T.\" Taylor",
+      "join": "",
+      "role": "Backing Vocals, Lead Vocals",
+      "tracks": "",
+      "id": 111555,
+      "resource_url": "https://api.discogs.com/artists/111555"
+    },
+    {
+      "name": "George Brown",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals, Percussion",
+      "tracks": "",
+      "id": 261265,
+      "resource_url": "https://api.discogs.com/artists/261265"
+    },
+    {
+      "name": "Robert Spike Mickens",
+      "anv": "Robert Mickens",
+      "join": "",
+      "role": "Backing Vocals, Trumpet",
+      "tracks": "",
+      "id": 387583,
+      "resource_url": "https://api.discogs.com/artists/387583"
+    },
+    {
+      "name": "Robert Kool Bell",
+      "anv": "Robert \"Kool\" Bell",
+      "join": "",
+      "role": "Bass",
+      "tracks": "",
+      "id": 387580,
+      "resource_url": "https://api.discogs.com/artists/387580"
+    },
+    {
+      "name": "Bobby Cohen",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant]",
+      "tracks": "",
+      "id": 254943,
+      "resource_url": "https://api.discogs.com/artists/254943"
+    },
+    {
+      "name": "Cliff Hodsdon",
+      "anv": "Clif Hodsdon",
+      "join": "",
+      "role": "Engineer [Assistant]",
+      "tracks": "",
+      "id": 459267,
+      "resource_url": "https://api.discogs.com/artists/459267"
+    },
+    {
+      "name": "Jeffrey M. Kawalek",
+      "anv": "Jeff Kawalex",
+      "join": "",
+      "role": "Engineer [Assistant]",
+      "tracks": "",
+      "id": 398527,
+      "resource_url": "https://api.discogs.com/artists/398527"
+    },
+    {
+      "name": "Joe DeAngelis",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant]",
+      "tracks": "",
+      "id": 474003,
+      "resource_url": "https://api.discogs.com/artists/474003"
+    },
+    {
+      "name": "Julian Robertson",
+      "anv": "Jullian Robertson",
+      "join": "",
+      "role": "Engineer [Assistant]",
+      "tracks": "",
+      "id": 170325,
+      "resource_url": "https://api.discogs.com/artists/170325"
+    },
+    {
+      "name": "Kenny Robb",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant]",
+      "tracks": "",
+      "id": 502292,
+      "resource_url": "https://api.discogs.com/artists/502292"
+    },
+    {
+      "name": "Kevin Bell",
+      "anv": "",
+      "join": "",
+      "role": "Keyboards",
+      "tracks": "",
+      "id": 413811,
+      "resource_url": "https://api.discogs.com/artists/413811"
+    },
+    {
+      "name": "Adam Epolito",
+      "anv": "",
+      "join": "",
+      "role": "Keyboards [Additional]",
+      "tracks": "",
+      "id": 502290,
+      "resource_url": "https://api.discogs.com/artists/502290"
+    },
+    {
+      "name": "Tom Coyne",
+      "anv": "TC",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 272899,
+      "resource_url": "https://api.discogs.com/artists/272899"
+    },
+    {
+      "name": "Claydes Smith",
+      "anv": "Charles Smith",
+      "join": "",
+      "role": "Lead Guitar",
+      "tracks": "",
+      "id": 387582,
+      "resource_url": "https://api.discogs.com/artists/387582"
+    },
+    {
+      "name": "Gabe Vigorito",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "",
+      "id": 374631,
+      "resource_url": "https://api.discogs.com/artists/374631"
+    },
+    {
+      "name": "Jim Bonnefond",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By, Engineer [Recording]",
+      "tracks": "",
+      "id": 114592,
+      "resource_url": "https://api.discogs.com/artists/114592"
+    },
+    {
+      "name": "Kool & The Gang",
+      "anv": "",
+      "join": "",
+      "role": "Producer [Associate]",
+      "tracks": "",
+      "id": 48865,
+      "resource_url": "https://api.discogs.com/artists/48865"
+    },
+    {
+      "name": "Eumir Deodato",
+      "anv": "",
+      "join": "",
+      "role": "Producer, Arranged By [Orchestra], Conductor [Orchestra], Mixed By",
+      "tracks": "",
+      "id": 83740,
+      "resource_url": "https://api.discogs.com/artists/83740"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/9Jl9Rhx4OltnSupA-Sox2vfRMfKz5EXzH_Kx1sRKW9E/rs:fit/g:sm/q:90/h:512/w:512/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzYx/MjktMTMzODE0ODc0/Mi03ODk5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/9Jl9Rhx4OltnSupA-Sox2vfRMfKz5EXzH_Kx1sRKW9E/rs:fit/g:sm/q:90/h:512/w:512/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzYx/MjktMTMzODE0ODc0/Mi03ODk5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/QZejpEn-r3nqkg67_TBvD1k-dyZlIcjPORwpJfjOl2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzYx/MjktMTMzODE0ODc0/Mi03ODk5LmpwZWc.jpeg",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/1V5sSpIlH-AZjvhpbFR-9U9s9E2_LlHrxE0zuriInys/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzYx/MjktMTM5Mjc0Mjky/MS0xMDU0LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/1V5sSpIlH-AZjvhpbFR-9U9s9E2_LlHrxE0zuriInys/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzYx/MjktMTM5Mjc0Mjky/MS0xMDU0LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/RoMKM_Gy83vw8ebN5dwCP4-iLOXFH6t56SuqmTGJitQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzYx/MjktMTM5Mjc0Mjky/MS0xMDU0LmpwZWc.jpeg",
+      "width": 600,
+      "height": 593
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/gtY3ukMhLiHZoXIv3sfF6Viq2yVi-UJdS0QvEw8E82Y/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzYx/MjktMTM5Mjc0Mjg3/OC01MDI2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/gtY3ukMhLiHZoXIv3sfF6Viq2yVi-UJdS0QvEw8E82Y/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzYx/MjktMTM5Mjc0Mjg3/OC01MDI2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/BMAaYV14R5YtN0p4y--_MUNhVMiYWsmccgaCMGPsszw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzYx/MjktMTM5Mjc0Mjg3/OC01MDI2LmpwZWc.jpeg",
+      "width": 600,
+      "height": 590
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/l-MiIJrbykYo3gLr1BTb9OQj_6o4dNMVSX_gcfyaeKU/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzYx/MjktMTUwODIwOTYw/NC0xNTgwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/l-MiIJrbykYo3gLr1BTb9OQj_6o4dNMVSX_gcfyaeKU/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzYx/MjktMTUwODIwOTYw/NC0xNTgwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/jUWtSz9y1uLgFOfnGMNUYY1md0303Ufd3AFAkgQOHdQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzYx/MjktMTUwODIwOTYw/NC0xNTgwLmpwZWc.jpeg",
+      "width": 600,
+      "height": 589
+    }
+  ],
+  "thumb": "https://i.discogs.com/QZejpEn-r3nqkg67_TBvD1k-dyZlIcjPORwpJfjOl2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0NzYx/MjktMTMzODE0ODc0/Mi03ODk5LmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

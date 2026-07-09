@@ -1,0 +1,347 @@
+{
+  "id": 32269110,
+  "status": "Accepted",
+  "year": 2024,
+  "resource_url": "https://api.discogs.com/releases/32269110",
+  "uri": "https://www.discogs.com/release/32269110-Majid-Jordan-A-Place-Like-This",
+  "artists": [
+    {
+      "name": "Majid Jordan",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 3429463,
+      "resource_url": "https://api.discogs.com/artists/3429463",
+      "thumbnail_url": "https://i.discogs.com/bmf3qevx2eOLe8f7DHvS40o0R4geBMz5uHTb10FvaEw/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM0Mjk0/NjMtMTQzMDQ0NDIy/MS03MzkyLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Majid Jordan",
+  "labels": [
+    {
+      "name": "OVO Sound",
+      "catno": "UPC-808391244153",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 719678,
+      "resource_url": "https://api.discogs.com/labels/719678",
+      "thumbnail_url": "https://i.discogs.com/qjT-wueE7BGgkkRpRCpopjsJJG_Aw7m1UQU2HGO88zU/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTcxOTY3/OC0xNDg4OTE5NjQy/LTg2MjEucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "OVO Sound",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 719678,
+      "resource_url": "https://api.discogs.com/labels/719678",
+      "thumbnail_url": "https://i.discogs.com/qjT-wueE7BGgkkRpRCpopjsJJG_Aw7m1UQU2HGO88zU/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTcxOTY3/OC0xNDg4OTE5NjQy/LTg2MjEucG5n.jpeg"
+    },
+    {
+      "name": "OVO Sound",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 719678,
+      "resource_url": "https://api.discogs.com/labels/719678",
+      "thumbnail_url": "https://i.discogs.com/qjT-wueE7BGgkkRpRCpopjsJJG_Aw7m1UQU2HGO88zU/rs:fit/g:sm/q:90/h:541/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTcxOTY3/OC0xNDg4OTE5NjQy/LTg2MjEucG5n.jpeg"
+    },
+    {
+      "name": "Santa Anna Label Group",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 3677626,
+      "resource_url": "https://api.discogs.com/labels/3677626",
+      "thumbnail_url": "https://i.discogs.com/Nq1_j0k1gLIH11VPHse9NGk8sJy4Fow4tsaI3vXzrqU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM2Nzc2/MjYtMTc0MTg3MDMy/My02Nzc3LnBuZw.jpeg"
+    },
+    {
+      "name": "Chill Pad Deluxe",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 1380600,
+      "resource_url": "https://api.discogs.com/labels/1380600"
+    },
+    {
+      "name": "Studio 306",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 265617,
+      "resource_url": "https://api.discogs.com/labels/265617"
+    },
+    {
+      "name": "Chris Athens Masters",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 646766,
+      "resource_url": "https://api.discogs.com/labels/646766",
+      "thumbnail_url": "https://i.discogs.com/HbTdKdNK7mcmdqecDcAofivBMy6WHRwR289zia_1BjI/rs:fit/g:sm/q:90/h:296/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY0Njc2/Ni0xNTYwNTU1MzM0/LTYyNzYuanBlZw.jpeg"
+    },
+    {
+      "name": "Memphis Record Pressing",
+      "catno": "MRP6169",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 833505,
+      "resource_url": "https://api.discogs.com/labels/833505",
+      "thumbnail_url": "https://i.discogs.com/gScAekIZLcU8IXU0jHeomyKqbZCh5q_xSsYTWDC2k4A/rs:fit/g:sm/q:90/h:550/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgzMzUw/NS0xNDY0NDU1NjQ1/LTg5MzIuanBlZw.jpeg"
+    },
+    {
+      "name": "GZ Media",
+      "catno": "287601E",
+      "entity_type": "44",
+      "entity_type_name": "Plated At",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "12\"",
+        "33 ⅓ RPM",
+        "Single Sided",
+        "EP",
+        "Etched",
+        "Stereo"
+      ],
+      "text": "Marble Colored"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 237,
+    "want": 56,
+    "rating": {
+      "count": 20,
+      "average": 4.75
+    },
+    "submitter": {
+      "username": "mertzy",
+      "resource_url": "https://api.discogs.com/users/mertzy"
+    },
+    "contributors": [
+      {
+        "username": "mertzy",
+        "resource_url": "https://api.discogs.com/users/mertzy"
+      },
+      {
+        "username": "J.Ohm",
+        "resource_url": "https://api.discogs.com/users/J.Ohm"
+      },
+      {
+        "username": "MarioLTZ",
+        "resource_url": "https://api.discogs.com/users/MarioLTZ"
+      },
+      {
+        "username": ".SLCOOLJ.",
+        "resource_url": "https://api.discogs.com/users/.SLCOOLJ."
+      },
+      {
+        "username": "mial-prod",
+        "resource_url": "https://api.discogs.com/users/mial-prod"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2024-11-12T04:56:51-08:00",
+  "date_changed": "2026-06-15T04:35:33-07:00",
+  "num_for_sale": 3,
+  "lowest_price": 55,
+  "master_id": 3654240,
+  "master_url": "https://api.discogs.com/masters/3654240",
+  "title": "A Place Like This",
+  "country": "US",
+  "released": "2024",
+  "notes": "10 Year Anniversary Edition.",
+  "released_formatted": "2024",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "808391441538"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MRP6169 / 80839124415 - A 287601E1/A #1",
+      "description": "Side A Runout (Etched)"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    "Electronic",
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Contemporary R&B",
+    "House"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Forever",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "All I Do",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Her",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "U",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "A Place Like This",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Jenna Andrews",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals [Background Vocals]",
+      "tracks": "A4, A5",
+      "id": 3210403,
+      "resource_url": "https://api.discogs.com/artists/3210403"
+    },
+    {
+      "name": "Chris Athens",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 237914,
+      "resource_url": "https://api.discogs.com/artists/237914"
+    },
+    {
+      "name": "Noel Campbell",
+      "anv": "Noel \"Gadget\" Campbell",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "",
+      "id": 1379473,
+      "resource_url": "https://api.discogs.com/artists/1379473"
+    },
+    {
+      "name": "Travis Sewchan",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "",
+      "id": 2837944,
+      "resource_url": "https://api.discogs.com/artists/2837944"
+    },
+    {
+      "name": "Jenna Andrews",
+      "anv": "",
+      "join": "",
+      "role": "Written-By, Producer [Additional]",
+      "tracks": "A1, A4, A5",
+      "id": 3210403,
+      "resource_url": "https://api.discogs.com/artists/3210403"
+    },
+    {
+      "name": "Jordan Ullman",
+      "anv": "",
+      "join": "",
+      "role": "Written-By, Producer, Keyboards, Programmed By",
+      "tracks": "",
+      "id": 3444179,
+      "resource_url": "https://api.discogs.com/artists/3444179"
+    },
+    {
+      "name": "Majid Al Maskati",
+      "anv": "",
+      "join": "",
+      "role": "Written-By, Vocals",
+      "tracks": "",
+      "id": 3444180,
+      "resource_url": "https://api.discogs.com/artists/3444180"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/D5KP-9Tiw6KfFy9AcEwJ3lOUdscWtvrzdMsXiEjV6ZM/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjY5/MTEwLTE3MzE0NTEx/MzItOTYyMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/D5KP-9Tiw6KfFy9AcEwJ3lOUdscWtvrzdMsXiEjV6ZM/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjY5/MTEwLTE3MzE0NTEx/MzItOTYyMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/XO6RV-v70tBaYOj-qML8Js2GeQwZwq9a7aecrHJDWCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjY5/MTEwLTE3MzE0NTEx/MzItOTYyMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 594
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/1qKpkOthsvV6alp0YQ3IiPN8N38ROelu_7MJ6mHgo6k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjY5/MTEwLTE3MzE0NTEx/MzItMTMzNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/1qKpkOthsvV6alp0YQ3IiPN8N38ROelu_7MJ6mHgo6k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjY5/MTEwLTE3MzE0NTEx/MzItMTMzNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/HHCN2fQTbi2mgYvYcztU2GYd0pjlG6DfH38Gqm2wL9c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjY5/MTEwLTE3MzE0NTEx/MzItMTMzNi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ss5X39RhLja1hZxzFECXOQ1pLrrPQ47Itt2xmojo4sY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjY5/MTEwLTE3MzE0NTEx/MzItODEzMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ss5X39RhLja1hZxzFECXOQ1pLrrPQ47Itt2xmojo4sY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjY5/MTEwLTE3MzE0NTEx/MzItODEzMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/quzLQZ2tLFVWVXpXT8cpZHaokXh9_JUuXyjfZRlT1cg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjY5/MTEwLTE3MzE0NTEx/MzItODEzMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/xDEpEdrLWIRcwAIo4ojX2SsEIrhnu77teBV4izaKAhs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjY5/MTEwLTE3MzE0NTEx/MzItMzU3Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/xDEpEdrLWIRcwAIo4ojX2SsEIrhnu77teBV4izaKAhs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjY5/MTEwLTE3MzE0NTEx/MzItMzU3Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/R-uMFpi3feScjN0AtnBiA5v7LJBi8RfeX5f0iVcg1Q8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjY5/MTEwLTE3MzE0NTEx/MzItMzU3Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/y75LByEPZplKJbCnJ0JMGjUpdnPPzhXAEfC6pLg-Uxw/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjY5/MTEwLTE3MzE0NTIx/OTktNTAyOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/y75LByEPZplKJbCnJ0JMGjUpdnPPzhXAEfC6pLg-Uxw/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjY5/MTEwLTE3MzE0NTIx/OTktNTAyOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/38i04mejcrJ9x3klXwpbVlRKW8nkc0t_wKHsVcifRMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjY5/MTEwLTE3MzE0NTIx/OTktNTAyOS5qcGVn.jpeg",
+      "width": 594,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/FynaZrl57v1L2MRf3qr-nVxOQR8nL0x_ms8tAd5GCyo/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjY5/MTEwLTE3MzE0NTEx/MzItMTc1OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/FynaZrl57v1L2MRf3qr-nVxOQR8nL0x_ms8tAd5GCyo/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjY5/MTEwLTE3MzE0NTEx/MzItMTc1OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Q2ee7pzlBdj56KvkD5cQVyJuebRkzS7xnSrF_LXp2rA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjY5/MTEwLTE3MzE0NTEx/MzItMTc1OC5qcGVn.jpeg",
+      "width": 599,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/d387QandiKGefwGoTgG7Zv-5GM62NQZ-3AJi17Nlb3E/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjY5/MTEwLTE3MzE0NTEx/MzEtNjI4MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/d387QandiKGefwGoTgG7Zv-5GM62NQZ-3AJi17Nlb3E/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjY5/MTEwLTE3MzE0NTEx/MzEtNjI4MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/5dCJaG4umo4G5YIT-9zHjl5_KC0qVdk8k1HI5M38__g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjY5/MTEwLTE3MzE0NTEx/MzEtNjI4MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 598
+    }
+  ],
+  "thumb": "https://i.discogs.com/XO6RV-v70tBaYOj-qML8Js2GeQwZwq9a7aecrHJDWCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMjY5/MTEwLTE3MzE0NTEx/MzItOTYyMi5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

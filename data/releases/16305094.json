@@ -1,0 +1,826 @@
+{
+  "id": 16305094,
+  "status": "Accepted",
+  "year": 0,
+  "resource_url": "https://api.discogs.com/releases/16305094",
+  "uri": "https://www.discogs.com/release/16305094-Fleetwood-Mac-Rumours",
+  "artists": [
+    {
+      "name": "Fleetwood Mac",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 47333,
+      "resource_url": "https://api.discogs.com/artists/47333",
+      "thumbnail_url": "https://i.discogs.com/mFpLK1pH2AmmXuZiuoU81KfXGqyvlOosOTGUxPcnQRM/rs:fit/g:sm/q:90/h:600/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ3MzMz/LTE1NjY1NjE1NDkt/MzM1NS5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "Fleetwood Mac",
+  "labels": [
+    {
+      "name": "Reprise Records",
+      "catno": "093624979357",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 157,
+      "resource_url": "https://api.discogs.com/labels/157",
+      "thumbnail_url": "https://i.discogs.com/iKBCqc_nPLAGiCS4_2RshoKpj-ZuUJo7Z1qzYmFuJrc/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1Ny0x/NTIxMTk1ODk5LTE1/NzgucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Record Plant, Sausalito",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 304325,
+      "resource_url": "https://api.discogs.com/labels/304325",
+      "thumbnail_url": "https://i.discogs.com/QXh8YXz_LxZ_xChVOrqoiQvqWpUHiLCbgfFeiRdZf6o/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwNDMy/NS0xMzU4MDQxNzM2/LTcyOTguanBlZw.jpeg"
+    },
+    {
+      "name": "Record Plant, Los Angeles",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 304319,
+      "resource_url": "https://api.discogs.com/labels/304319",
+      "thumbnail_url": "https://i.discogs.com/LLydeqd2WB6jXG6OABBkFMMrbbqIdDVIpSzaaYGD1qY/rs:fit/g:sm/q:90/h:252/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwNDMx/OS0xNjQ1MjMzMjE0/LTkxODcuanBlZw.jpeg"
+    },
+    {
+      "name": "Wally Heider Recording Studio, Los Angeles",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 1098261,
+      "resource_url": "https://api.discogs.com/labels/1098261",
+      "thumbnail_url": "https://i.discogs.com/1rGQccvkqZph6b5JU7fVrUF4YRmM5QqZUb9wVw9ccP0/rs:fit/g:sm/q:90/h:272/w:559/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwOTgy/NjEtMTY0NzgzNzI1/Ny0yMzc5LmpwZWc.jpeg"
+    },
+    {
+      "name": "Criteria Recording Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 269412,
+      "resource_url": "https://api.discogs.com/labels/269412",
+      "thumbnail_url": "https://i.discogs.com/mXg2wEwOwICm3wjhw9qGdCoPtqOiXznmRWLfgWoDn2c/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2OTQx/Mi0xNjIzOTE2OTI1/LTg2ODQuanBlZw.jpeg"
+    },
+    {
+      "name": "Davlen Sound Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 267075,
+      "resource_url": "https://api.discogs.com/labels/267075",
+      "thumbnail_url": "https://i.discogs.com/jtwQc4yNLcoSzeinajF0oDCr3EXUKarWZnYaYYmXitY/rs:fit/g:sm/q:90/h:75/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NzA3/NS0xMzM5MDM4MzY4/LTg0NzAuanBlZw.jpeg"
+    },
+    {
+      "name": "Zellerbach Auditorium",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 288353,
+      "resource_url": "https://api.discogs.com/labels/288353",
+      "thumbnail_url": "https://i.discogs.com/pVejagwAg6lKUymlHBUDfq_YJsp5qOJNmpeJfKdt9OI/rs:fit/g:sm/q:90/h:425/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4ODM1/My0xMzIzOTA4MzI3/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Sound City Studios",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 269124,
+      "resource_url": "https://api.discogs.com/labels/269124",
+      "thumbnail_url": "https://i.discogs.com/6k-qVBU86Q3AA4offspXEun5mCwAHCqeb0t-jpTJKBs/rs:fit/g:sm/q:90/h:181/w:180/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2OTEy/NC0xMzE2NDI1Mzgx/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Record Plant, Los Angeles",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 304319,
+      "resource_url": "https://api.discogs.com/labels/304319",
+      "thumbnail_url": "https://i.discogs.com/LLydeqd2WB6jXG6OABBkFMMrbbqIdDVIpSzaaYGD1qY/rs:fit/g:sm/q:90/h:252/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwNDMx/OS0xNjQ1MjMzMjE0/LTkxODcuanBlZw.jpeg"
+    },
+    {
+      "name": "Schallplattenfabrik Pallas GmbH",
+      "catno": "18665",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 271440,
+      "resource_url": "https://api.discogs.com/labels/271440",
+      "thumbnail_url": "https://i.discogs.com/1oEfQath40RFwuPMf5klufULyv1EzUZh8XH2ptL07o4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MTQ0/MC0xNjk1MTExNzMw/LTkwMzguanBlZw.jpeg"
+    },
+    {
+      "name": "Now Sounds Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 313002,
+      "resource_url": "https://api.discogs.com/labels/313002",
+      "thumbnail_url": "https://i.discogs.com/zytnUnAr5pNwSPDxjdR5hCeNi7Nl72z178gxcB2HRvA/rs:fit/g:sm/q:90/h:134/w:502/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxMzAw/Mi0xNjYzOTgyMDg0/LTg4NzcuanBlZw.jpeg"
+    },
+    {
+      "name": "Welsh Witch Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 290825,
+      "resource_url": "https://api.discogs.com/labels/290825",
+      "thumbnail_url": "https://i.discogs.com/-JnmrUJBB4A0Mt9TK2ekkEXHpmXe6W99xuYjRmI2E0c/rs:fit/g:sm/q:90/h:85/w:162/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDgy/NS0xNjU5MzkzMTY4/LTY3NjYuanBlZw.jpeg"
+    },
+    {
+      "name": "Sony / ATV Music Publishing",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 115653,
+      "resource_url": "https://api.discogs.com/labels/115653",
+      "thumbnail_url": "https://i.discogs.com/hs37I82N0L-lLEvaPEFzJYP33Gfas0FdKoWLBvo1dKw/rs:fit/g:sm/q:90/h:157/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExNTY1/My0xNTU0MzQyNDIw/LTYwMDYucG5n.jpeg"
+    },
+    {
+      "name": "Careers-BMG Music Publishing, Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 283550,
+      "resource_url": "https://api.discogs.com/labels/283550",
+      "thumbnail_url": "https://i.discogs.com/1l9Zw0OoJiGLX53rObainm8IKYQRauLw0JyAeuTMZqE/rs:fit/g:sm/q:90/h:76/w:203/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4MzU1/MC0xNTkwOTMzNDU5/LTM3MTkuanBlZw.jpeg"
+    },
+    {
+      "name": "Molly Mac Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 528553,
+      "resource_url": "https://api.discogs.com/labels/528553"
+    },
+    {
+      "name": "Rattleman Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 528552,
+      "resource_url": "https://api.discogs.com/labels/528552"
+    },
+    {
+      "name": "Reprise Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 157,
+      "resource_url": "https://api.discogs.com/labels/157",
+      "thumbnail_url": "https://i.discogs.com/iKBCqc_nPLAGiCS4_2RshoKpj-ZuUJo7Z1qzYmFuJrc/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1Ny0x/NTIxMTk1ODk5LTE1/NzgucG5n.jpeg"
+    },
+    {
+      "name": "Warner Records Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 596015,
+      "resource_url": "https://api.discogs.com/labels/596015",
+      "thumbnail_url": "https://i.discogs.com/RikpzVtGMoIwbY-bgMQP-LRaVwL6x9wlQ1_JhnRmylk/rs:fit/g:sm/q:90/h:48/w:246/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU5NjAx/NS0xNjQ5OTU4MDYy/LTY0NzguanBlZw.jpeg"
+    },
+    {
+      "name": "Pallas USA",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 632752,
+      "resource_url": "https://api.discogs.com/labels/632752",
+      "thumbnail_url": "https://i.discogs.com/uYzXXyl7Wj9R5chAAKBA87m4AstAu_9iFYxBqL7YAxE/rs:fit/g:sm/q:90/h:180/w:180/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTYzMjc1/Mi0xNjA3MzU2MTkw/LTIyNjkuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 11877,
+    "want": 849,
+    "rating": {
+      "count": 589,
+      "average": 4.73
+    },
+    "submitter": {
+      "username": "vrp_pdx",
+      "resource_url": "https://api.discogs.com/users/vrp_pdx"
+    },
+    "contributors": [
+      {
+        "username": "vrp_pdx",
+        "resource_url": "https://api.discogs.com/users/vrp_pdx"
+      },
+      {
+        "username": "culp4684",
+        "resource_url": "https://api.discogs.com/users/culp4684"
+      },
+      {
+        "username": "Tubacko",
+        "resource_url": "https://api.discogs.com/users/Tubacko"
+      },
+      {
+        "username": "cgnavarro",
+        "resource_url": "https://api.discogs.com/users/cgnavarro"
+      },
+      {
+        "username": "marvicbob96",
+        "resource_url": "https://api.discogs.com/users/marvicbob96"
+      },
+      {
+        "username": "vinyladdictAU",
+        "resource_url": "https://api.discogs.com/users/vinyladdictAU"
+      },
+      {
+        "username": "DrFate8",
+        "resource_url": "https://api.discogs.com/users/DrFate8"
+      },
+      {
+        "username": "Opdiner",
+        "resource_url": "https://api.discogs.com/users/Opdiner"
+      },
+      {
+        "username": "mfpdisocogs",
+        "resource_url": "https://api.discogs.com/users/mfpdisocogs"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2020-12-02T11:26:26-08:00",
+  "date_changed": "2025-02-21T19:36:11-08:00",
+  "num_for_sale": 5,
+  "lowest_price": 30,
+  "master_id": 38722,
+  "master_url": "https://api.discogs.com/masters/38722",
+  "title": "Rumours",
+  "country": "Worldwide",
+  "notes": "Pressed At Pallas [Sticker]\n\nIncludes a fold out insert with album credits, lyrics and photos.\n\nRecorded At:\nRecord Plant, Sausalito and Los Angeles, CA\nWally Heider Recording Studios, Hollywood, CA\nCriteria Studios, Miami, FL\nDavlen Recording Studio, North Hollywood, CA\n\nMixed At:\nSound City, Van Nuys, CA\nand Record Plant, Los Angeles, CA\n\n\"Songbird\" Recorded at Zellerback Auditorium,\nU.C. Berkeley, Berkeley, CA, March 3, 1976.\n\n©2009 Reprise Records. ℗ 1977 Warner Records Inc. Made in Germany\n\nPublishing & Rights Society Credits:\nTracks A1, A3, A5: © 1978 Now Sounds Music (ASCAP)\nTracks A2, B3: © 1977 Welsh Witch Music (BMI). All rights administered by Sony/ATV Music Publishing\nTracks A4, A6, B2, B4: © 1976 Careers-BMG Music Publishing, Inc. (BMI)\nTrack B1: © 1977 Careers-BMG Music Publishing Inc. (BMI), Now Sounds Music (ASCAP), Molly Mac Music (BMI), Rattleman Music (BMI), Welsh Witch Music (BMI). All rights on behalf of Welsh Witch Music administered by Sony/ATV Music Publishing\nTrack B5: © 1976, 1977 Welsh Witch Music (BMI). All rights administered by Sony/ATV Music Publishing",
+  "identifiers": [
+    {
+      "type": "Rights Society",
+      "value": "BMI"
+    },
+    {
+      "type": "Rights Society",
+      "value": "ASCAP"
+    },
+    {
+      "type": "Barcode",
+      "value": "0 9362-49793-5 7",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "093624979357",
+      "description": "String & scanned"
+    },
+    {
+      "type": "Other",
+      "value": "1-517786(K1)",
+      "description": "Hype sticker"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BSK 3010-A2 1-517786",
+      "description": "Side A (etched)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BSK 3010-B2 1-517786",
+      "description": "Side B (etched)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "P. USA",
+      "description": "Sides A & B (stamped)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "14780.1(3)",
+      "description": "Side A - Plating Facility (etched)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "14780.2(3)",
+      "description": "Side B - Plating Facility (etched)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "-18665-",
+      "description": "Sides A & B - Pressing Plant (etched)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "KPG&SH@ATM",
+      "description": "Sides A & B - Mastering and Lacquering Engineers' Initials / Mastering & Lacquering Facility Initials (etched)"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=kBYHwH1Vb-c",
+      "title": "Fleetwood Mac - The Chain (Official Music Video) [HD]",
+      "description": "Fleetwood Mac perform \"The Chain\" live at Warner Bros. Studios in Burbank, CA in May 1997 -  remastered in HD.\n\nSubscribe to the channel! https://fm.lnk.to/YTS\n\nWatch all the Fleetwood Mac videos https://fm.lnk.to/GHP\n\nStay in touch with Fleetwood Mac...\n",
+      "duration": 295,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=sxJzuvH9T8s",
+      "title": "Fleetwood Mac - Rumours [Full Album]",
+      "description": "Fleetwood Mac – Rumours (Full Album)\n\nRelive one of the most iconic albums of all time with Fleetwood Mac’s Rumours. Released in 1977, this album became a defining moment in rock history, featuring timeless hits like “Go Your Own Way,” “Dreams,” and “The ",
+      "duration": 0,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Rock"
+  ],
+  "styles": [
+    "Pop Rock",
+    "Soft Rock"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Second Hand News",
+      "extraartists": [
+        {
+          "name": "Lindsey Buckingham",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 264436,
+          "resource_url": "https://api.discogs.com/artists/264436"
+        }
+      ],
+      "duration": "2:42"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Dreams",
+      "extraartists": [
+        {
+          "name": "Stevie Nicks",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 13735,
+          "resource_url": "https://api.discogs.com/artists/13735"
+        }
+      ],
+      "duration": "4:15"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Never Going Back Again",
+      "extraartists": [
+        {
+          "name": "Lindsey Buckingham",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 264436,
+          "resource_url": "https://api.discogs.com/artists/264436"
+        }
+      ],
+      "duration": "2:02"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Don't Stop",
+      "extraartists": [
+        {
+          "name": "Christine McVie",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 205020,
+          "resource_url": "https://api.discogs.com/artists/205020"
+        }
+      ],
+      "duration": "3:10"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Go Your Own Way",
+      "extraartists": [
+        {
+          "name": "Lindsey Buckingham",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 264436,
+          "resource_url": "https://api.discogs.com/artists/264436"
+        }
+      ],
+      "duration": "3:40"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Songbird",
+      "extraartists": [
+        {
+          "name": "Christine McVie",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 205020,
+          "resource_url": "https://api.discogs.com/artists/205020"
+        }
+      ],
+      "duration": "3:18"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "The Chain",
+      "extraartists": [
+        {
+          "name": "Christine McVie",
+          "anv": "C. McVie",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 205020,
+          "resource_url": "https://api.discogs.com/artists/205020"
+        },
+        {
+          "name": "John McVie",
+          "anv": "J. McVie",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 273840,
+          "resource_url": "https://api.discogs.com/artists/273840"
+        },
+        {
+          "name": "Lindsey Buckingham",
+          "anv": "L. Buckingham",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 264436,
+          "resource_url": "https://api.discogs.com/artists/264436"
+        },
+        {
+          "name": "Mick Fleetwood",
+          "anv": "M. Fleetwood",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 273841,
+          "resource_url": "https://api.discogs.com/artists/273841"
+        },
+        {
+          "name": "Stevie Nicks",
+          "anv": "S. Nicks",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 13735,
+          "resource_url": "https://api.discogs.com/artists/13735"
+        }
+      ],
+      "duration": "4:27"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "You Make Loving Fun",
+      "extraartists": [
+        {
+          "name": "Christine McVie",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 205020,
+          "resource_url": "https://api.discogs.com/artists/205020"
+        }
+      ],
+      "duration": "3:33"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "I Don't Want To Know",
+      "extraartists": [
+        {
+          "name": "Stevie Nicks",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 13735,
+          "resource_url": "https://api.discogs.com/artists/13735"
+        }
+      ],
+      "duration": "3:13"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Oh Daddy",
+      "extraartists": [
+        {
+          "name": "Christine McVie",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 205020,
+          "resource_url": "https://api.discogs.com/artists/205020"
+        }
+      ],
+      "duration": "3:54"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Gold Dust Woman",
+      "extraartists": [
+        {
+          "name": "Stevie Nicks",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 13735,
+          "resource_url": "https://api.discogs.com/artists/13735"
+        }
+      ],
+      "duration": "5:13"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "John McVie",
+      "anv": "",
+      "join": "",
+      "role": "Bass",
+      "tracks": "",
+      "id": 273840,
+      "resource_url": "https://api.discogs.com/artists/273840"
+    },
+    {
+      "name": "Fleetwood Mac",
+      "anv": "",
+      "join": "",
+      "role": "Design [Concept]",
+      "tracks": "",
+      "id": 47333,
+      "resource_url": "https://api.discogs.com/artists/47333"
+    },
+    {
+      "name": "Herbert Wheeler Worthington III",
+      "anv": "Herbert Worthington",
+      "join": "",
+      "role": "Design [Concept]",
+      "tracks": "",
+      "id": 2023937,
+      "resource_url": "https://api.discogs.com/artists/2023937"
+    },
+    {
+      "name": "Desmond Strobel",
+      "anv": "",
+      "join": "",
+      "role": "Design [Original Album Design]",
+      "tracks": "",
+      "id": 441677,
+      "resource_url": "https://api.discogs.com/artists/441677"
+    },
+    {
+      "name": "Mick Fleetwood",
+      "anv": "",
+      "join": "",
+      "role": "Drums, Percussion",
+      "tracks": "",
+      "id": 273841,
+      "resource_url": "https://api.discogs.com/artists/273841"
+    },
+    {
+      "name": "Ken Caillat",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 257502,
+      "resource_url": "https://api.discogs.com/artists/257502"
+    },
+    {
+      "name": "Richard Dashut",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 257503,
+      "resource_url": "https://api.discogs.com/artists/257503"
+    },
+    {
+      "name": "Chris Morris (2)",
+      "anv": "Cris Morris",
+      "join": "",
+      "role": "Engineer [Assisted]",
+      "tracks": "",
+      "id": 338783,
+      "resource_url": "https://api.discogs.com/artists/338783"
+    },
+    {
+      "name": "Lindsey Buckingham",
+      "anv": "",
+      "join": "",
+      "role": "Guitar, Vocals",
+      "tracks": "",
+      "id": 264436,
+      "resource_url": "https://api.discogs.com/artists/264436"
+    },
+    {
+      "name": "Christine McVie",
+      "anv": "",
+      "join": "",
+      "role": "Keyboards, Synthesizer, Vocals",
+      "tracks": "",
+      "id": 205020,
+      "resource_url": "https://api.discogs.com/artists/205020"
+    },
+    {
+      "name": "Kevin Gray",
+      "anv": "KPG",
+      "join": "",
+      "role": "Mastered By, Lacquer Cut By",
+      "tracks": "",
+      "id": 312098,
+      "resource_url": "https://api.discogs.com/artists/312098"
+    },
+    {
+      "name": "Steve Hoffman",
+      "anv": "SH",
+      "join": "",
+      "role": "Mastered By, Lacquer Cut By",
+      "tracks": "",
+      "id": 359096,
+      "resource_url": "https://api.discogs.com/artists/359096"
+    },
+    {
+      "name": "Herbert Wheeler Worthington III",
+      "anv": "Herbert Worthington",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 2023937,
+      "resource_url": "https://api.discogs.com/artists/2023937"
+    },
+    {
+      "name": "Fleetwood Mac",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 47333,
+      "resource_url": "https://api.discogs.com/artists/47333"
+    },
+    {
+      "name": "Ken Caillat",
+      "anv": "",
+      "join": "",
+      "role": "Producer [With]",
+      "tracks": "",
+      "id": 257502,
+      "resource_url": "https://api.discogs.com/artists/257502"
+    },
+    {
+      "name": "Richard Dashut",
+      "anv": "",
+      "join": "",
+      "role": "Producer [With]",
+      "tracks": "",
+      "id": 257503,
+      "resource_url": "https://api.discogs.com/artists/257503"
+    },
+    {
+      "name": "Larry Vigon",
+      "anv": "",
+      "join": "",
+      "role": "Typography [Hand Lettering]",
+      "tracks": "",
+      "id": 450261,
+      "resource_url": "https://api.discogs.com/artists/450261"
+    },
+    {
+      "name": "Stevie Nicks",
+      "anv": "",
+      "join": "",
+      "role": "Vocals",
+      "tracks": "",
+      "id": 13735,
+      "resource_url": "https://api.discogs.com/artists/13735"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/Tg-XLSB5yusXVcbH-fDS5z-7lHqNOdBVdJxEAXojpBY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2MDY5Mzcy/MDItMjA5Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Tg-XLSB5yusXVcbH-fDS5z-7lHqNOdBVdJxEAXojpBY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2MDY5Mzcy/MDItMjA5Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/x_c82ZQZOkKGYkKQOMKbOJ6CHZ9-C0_og8rqgf9nrig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2MDY5Mzcy/MDItMjA5Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/xjCty9ASb_0qXECYCpJp6Sbmxqd7xXhtDnLbYIL1PUk/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2MDY5Mzcy/MDEtNDc3OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/xjCty9ASb_0qXECYCpJp6Sbmxqd7xXhtDnLbYIL1PUk/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2MDY5Mzcy/MDEtNDc3OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/DmZvky5WRS5-TBTpOcgXnSKJwWnW9DweqtwHFR4Dw8E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2MDY5Mzcy/MDEtNDc3OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/aBRlHVpY4rYP5wrHCB2gD-l8fjqdsFsfe-8_ZjLz0wo/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2MDg5Mzky/NjEtNTA1OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/aBRlHVpY4rYP5wrHCB2gD-l8fjqdsFsfe-8_ZjLz0wo/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2MDg5Mzky/NjEtNTA1OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/t_Z2XL5Atk_8OdntttmwPMxews285D4DzbfHIghM8_E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2MDg5Mzky/NjEtNTA1OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/hesKTf_ZlG7j9-lar6m2raQs4qXVs49mL_5chOzbHE4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2MDg5Mzky/OTEtMzg5NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/hesKTf_ZlG7j9-lar6m2raQs4qXVs49mL_5chOzbHE4/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2MDg5Mzky/OTEtMzg5NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/atm-k2Af6xzfrbtFuAsnCzMct5l5fcnCOFRy-mKHygQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2MDg5Mzky/OTEtMzg5NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/kz2pme4WYICixBi-Sq3iW2Tdll7prqJcen-lhPUVKlo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2NDE0ODEx/OTQtNDI2Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/kz2pme4WYICixBi-Sq3iW2Tdll7prqJcen-lhPUVKlo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2NDE0ODEx/OTQtNDI2Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/hi21xeJTZZyshcRBggym2a8h-WBlMQTpS90PKG3hQGU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2NDE0ODEx/OTQtNDI2Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/PdUL497bGxK1YXNEdRgZG-ZzcnZYxHsQfan4YWy73Dw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2NDE0ODEx/OTQtNzY4My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/PdUL497bGxK1YXNEdRgZG-ZzcnZYxHsQfan4YWy73Dw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2NDE0ODEx/OTQtNzY4My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/7pkWwzZd94gYxzhO36tZdd6YOinhuOfoVGldT7QPFxM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2NDE0ODEx/OTQtNzY4My5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/5KzJvKWhfJQ0pNHukg6-euctTg_hDPWWMJxzbfZwn3I/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2NDE0ODEx/OTQtNDAxOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/5KzJvKWhfJQ0pNHukg6-euctTg_hDPWWMJxzbfZwn3I/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2NDE0ODEx/OTQtNDAxOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/9ejzSxJu9yJlfYsdwD_f5gux5pcZSH32iSWpty92V7E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2NDE0ODEx/OTQtNDAxOS5qcGVn.jpeg",
+      "width": 600,
+      "height": 337
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/vN5uyyoK_LWqLQUugXx6lmq3aEX7i-cryiYO5dJm0C8/rs:fit/g:sm/q:90/h:93/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2MDY5Mzcy/MDQtNjEzMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/vN5uyyoK_LWqLQUugXx6lmq3aEX7i-cryiYO5dJm0C8/rs:fit/g:sm/q:90/h:93/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2MDY5Mzcy/MDQtNjEzMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/MZycFeoGe-r7cYAx0uufp9RhQ37hsyUBhHz0N84lyT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2MDY5Mzcy/MDQtNjEzMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 93
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/7qi2nAebB8EMFj7c7VGBAG4Jph5swtivtpvusiS6DwU/rs:fit/g:sm/q:90/h:76/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2MDY5Mzcy/MDMtOTEyNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/7qi2nAebB8EMFj7c7VGBAG4Jph5swtivtpvusiS6DwU/rs:fit/g:sm/q:90/h:76/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2MDY5Mzcy/MDMtOTEyNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/5_G3rCtFSvH8PYipGEp7YWuL8AWMEpBY28QccYLQUMU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2MDY5Mzcy/MDMtOTEyNi5qcGVn.jpeg",
+      "width": 600,
+      "height": 76
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/C2DUM3k10R-Y2L53ABlIIhEi9Ibt6YOazlVS9vSXHbc/rs:fit/g:sm/q:90/h:401/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2MDY5Mzcy/MDItMTE0My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/C2DUM3k10R-Y2L53ABlIIhEi9Ibt6YOazlVS9vSXHbc/rs:fit/g:sm/q:90/h:401/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2MDY5Mzcy/MDItMTE0My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/YP6G4BjXq-BSlpMwGhyb9yTfOpD7LTChaSO52Nu6JSg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2MDY5Mzcy/MDItMTE0My5qcGVn.jpeg",
+      "width": 600,
+      "height": 401
+    }
+  ],
+  "thumb": "https://i.discogs.com/x_c82ZQZOkKGYkKQOMKbOJ6CHZ9-C0_og8rqgf9nrig/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MzA1/MDk0LTE2MDY5Mzcy/MDItMjA5Ni5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

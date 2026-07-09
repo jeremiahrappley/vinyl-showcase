@@ -1,0 +1,452 @@
+{
+  "id": 14486046,
+  "status": "Accepted",
+  "year": 2019,
+  "resource_url": "https://api.discogs.com/releases/14486046",
+  "uri": "https://www.discogs.com/release/14486046-Ariana-Grande-Dangerous-Woman",
+  "artists": [
+    {
+      "name": "Ariana Grande",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 3310737,
+      "resource_url": "https://api.discogs.com/artists/3310737",
+      "thumbnail_url": "https://i.discogs.com/ns2Lr4_vKieO-26rNH1Uzj5CreZtJlFsHv_Y4ebasps/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMzMTA3/MzctMTc3OTAzOTgw/NS0yMDQ1LnBuZw.jpeg"
+    }
+  ],
+  "artists_sort": "Ariana Grande",
+  "labels": [
+    {
+      "name": "Republic Records",
+      "catno": "B0030380-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    },
+    {
+      "name": "UMe",
+      "catno": "B0030380-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 68029,
+      "resource_url": "https://api.discogs.com/labels/68029",
+      "thumbnail_url": "https://i.discogs.com/M8dUXs4KvT0ntyk7C_Xbzh3z3vTBp9EBxecfUb13p74/rs:fit/g:sm/q:90/h:233/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY4MDI5/LTE1MDM0MTYxNTkt/OTAxNy5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "UMG Recordings, Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 272782,
+      "resource_url": "https://api.discogs.com/labels/272782",
+      "thumbnail_url": "https://i.discogs.com/WX78Ss6rJPzD8aWRj-wynSuGlTwtQLp2QLnUFGDI3Pg/rs:fit/g:sm/q:90/h:80/w:534/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Mjc4/Mi0xNDU3MDEyNDAw/LTExMzYuanBlZw.jpeg"
+    },
+    {
+      "name": "UMG Recordings, Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 272782,
+      "resource_url": "https://api.discogs.com/labels/272782",
+      "thumbnail_url": "https://i.discogs.com/WX78Ss6rJPzD8aWRj-wynSuGlTwtQLp2QLnUFGDI3Pg/rs:fit/g:sm/q:90/h:80/w:534/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Mjc4/Mi0xNDU3MDEyNDAw/LTExMzYuanBlZw.jpeg"
+    },
+    {
+      "name": "Precision Record Pressing",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 523699,
+      "resource_url": "https://api.discogs.com/labels/523699",
+      "thumbnail_url": "https://i.discogs.com/DfWvGCw34Q127_Eqz8MBLNwe-7lZqvAuM3xxalopIBo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUyMzY5/OS0xNjk5MzgyMzgz/LTIwNDYucG5n.jpeg"
+    },
+    {
+      "name": "GZ Media",
+      "catno": "147887E",
+      "entity_type": "44",
+      "entity_type_name": "Plated At",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 4668,
+    "want": 678,
+    "rating": {
+      "count": 302,
+      "average": 4.71
+    },
+    "submitter": {
+      "username": "CD_WAREHOUSE_817",
+      "resource_url": "https://api.discogs.com/users/CD_WAREHOUSE_817"
+    },
+    "contributors": [
+      {
+        "username": "CD_WAREHOUSE_817",
+        "resource_url": "https://api.discogs.com/users/CD_WAREHOUSE_817"
+      },
+      {
+        "username": "psychsally",
+        "resource_url": "https://api.discogs.com/users/psychsally"
+      },
+      {
+        "username": "_jules",
+        "resource_url": "https://api.discogs.com/users/_jules"
+      },
+      {
+        "username": "reimer1124",
+        "resource_url": "https://api.discogs.com/users/reimer1124"
+      },
+      {
+        "username": "donjorge",
+        "resource_url": "https://api.discogs.com/users/donjorge"
+      },
+      {
+        "username": "TReimer",
+        "resource_url": "https://api.discogs.com/users/TReimer"
+      },
+      {
+        "username": "muteD7017",
+        "resource_url": "https://api.discogs.com/users/muteD7017"
+      },
+      {
+        "username": "jctrl",
+        "resource_url": "https://api.discogs.com/users/jctrl"
+      },
+      {
+        "username": "myvinyldiscography",
+        "resource_url": "https://api.discogs.com/users/myvinyldiscography"
+      },
+      {
+        "username": "mjk37",
+        "resource_url": "https://api.discogs.com/users/mjk37"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2019-12-04T14:20:02-08:00",
+  "date_changed": "2026-06-02T12:43:27-07:00",
+  "num_for_sale": 37,
+  "lowest_price": 14.88,
+  "master_id": 1001638,
+  "master_url": "https://api.discogs.com/masters/1001638",
+  "title": "Dangerous Woman",
+  "country": "US",
+  "released": "2019-12-06",
+  "notes": "Issued in a gatefold jacket.\n\n\"MADE IN CANADA\" sticker on rear.",
+  "released_formatted": "06 Dec 2019",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "602577821936",
+      "description": "Scanned"
+    },
+    {
+      "type": "Barcode",
+      "value": "602577821936",
+      "description": "Text"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "147887E1/D 5701320-A",
+      "description": "Side A runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "147887E2/H 5701320-B",
+      "description": "Side B runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "147887E3/M 5701321-A",
+      "description": "Side C runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "147887E4/ E 5701321-B",
+      "description": "Side D runout"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=TFrMDGfW_Sg",
+      "title": "Ariana Grande - Dangerous Woman (Official Audio)",
+      "description": "Dangerous Woman (Official Audio)\nListen to 'Dangerous Woman' the album: https://arianagrande.lnk.to/dangerouswoman-albumYD\n\n►Subscribe to Ariana Grande: https://arianagrande.lnk.to/subscribe\n\n►Shop Exclusive Merch: https://arianagrande.lnk.to/shop\n\n►Follo",
+      "duration": 236,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=9WbCfHutDSE",
+      "title": "Ariana Grande - Dangerous Woman (Official Video)",
+      "description": "Dangerous Woman Visual 1\nListen to 'Dangerous Woman' the album: https://arianagrande.lnk.to/dangerouswoman-albumYD\n \nConnect with Ariana:\nhttps://twitter.com/ArianaGrande\nhttp://instagram.com/arianagrande\nhttps://www.facebook.com/arianagrande\nhttp://www.a",
+      "duration": 236,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=eBAHqRnSgRw",
+      "title": "Ariana Grande - Be Alright (Official Audio)",
+      "description": "Be Alright (Official Audio)\n\nListen to 'Dangerous Woman' the album: https://arianagrande.lnk.to/dangerouswoman-albumYD\n\n►Subscribe to Ariana Grande: https://arianagrande.lnk.to/subscribe\n\n►Shop Exclusive Merch: https://arianagrande.lnk.to/shop\n\n►Follow Ar",
+      "duration": 178,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=1ekZEVeXwek",
+      "title": "Ariana Grande - Into You (Official Video)",
+      "description": "Into You (Official Video)\nListen to 'Dangerous Woman' the album: https://arianagrande.lnk.to/dangerouswoman-albumYD\n \nConnect with Ariana:\nhttps://twitter.com/ArianaGrande\nhttp://instagram.com/arianagrande\nhttps://www.facebook.com/arianagrande\nhttp://www.",
+      "duration": 255,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Hip Hop",
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Vocal",
+    "Contemporary R&B"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Moonlight",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Dangerous Woman",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Be Alright",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Into You",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Side To Side",
+      "extraartists": [
+        {
+          "name": "Nicki Minaj",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1615988,
+          "resource_url": "https://api.discogs.com/artists/1615988"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Let Me Love You",
+      "extraartists": [
+        {
+          "name": "Lil Wayne",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1065010,
+          "resource_url": "https://api.discogs.com/artists/1065010"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Greedy",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Leave Me Lonely",
+      "extraartists": [
+        {
+          "name": "Macy Gray",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 21787,
+          "resource_url": "https://api.discogs.com/artists/21787"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Everyday",
+      "extraartists": [
+        {
+          "name": "Future (4)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 221673,
+          "resource_url": "https://api.discogs.com/artists/221673"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Sometimes",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "I Don't Care",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Bad Decisions",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Touch It",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Knew Better / Forever Boy",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "title": "Thinking Bout You",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/5iFf6MgsqpcNbs4ddpjZkmN8bc6ptOwLeeGTmT1Oqro/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE3MDgyODU0/NzQtOTA4NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/5iFf6MgsqpcNbs4ddpjZkmN8bc6ptOwLeeGTmT1Oqro/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE3MDgyODU0/NzQtOTA4NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/nKP0NfWvh9fjXMOLkeDcpA77pF26-iUzk1HdMIiTXDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE3MDgyODU0/NzQtOTA4NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/8lxrQ6IYT2IUCPBxjKzdmK0Nhivrvcy-ZbMqBYylViM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE3MDgyODU0/NzQtNjg0Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/8lxrQ6IYT2IUCPBxjKzdmK0Nhivrvcy-ZbMqBYylViM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE3MDgyODU0/NzQtNjg0Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/lIQu4AOL3hqK7FMFpLrgjQMSD-Oe2DBhCzvY28gklM4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE3MDgyODU0/NzQtNjg0Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/sAji5s2I7KUUPCswtT1GycbKzRWTfk-_o9iKm-dqB2s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE3MDYyOTI2/ODktNTM1OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/sAji5s2I7KUUPCswtT1GycbKzRWTfk-_o9iKm-dqB2s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE3MDYyOTI2/ODktNTM1OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Lh0fgihWn8GfMbuXfQi3RWoE_M1BikvPam0MuVoGlTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE3MDYyOTI2/ODktNTM1OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/MOLQxNT-ojoJEH6kOm3o9qHqq6QxPtGgYiefvqkpKws/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE3MDYyOTI2/ODgtNzI3MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/MOLQxNT-ojoJEH6kOm3o9qHqq6QxPtGgYiefvqkpKws/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE3MDYyOTI2/ODgtNzI3MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/NfEVMIqBxkNGis-qoxne_izHenLwQUzvSqlPqyEOF6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE3MDYyOTI2/ODgtNzI3MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/EwR7anVrNFBntx7dSao0UKudMQwXoBq4CLMt9_BEvEg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE3MDYyOTI2/ODctNTg3NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/EwR7anVrNFBntx7dSao0UKudMQwXoBq4CLMt9_BEvEg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE3MDYyOTI2/ODctNTg3NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/puBYSqYScDTi8bOXIg7rKtTh4fd0ya0_LzzcMEkrFTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE3MDYyOTI2/ODctNTg3NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/kWqJqd_A26tdahi_F6guoqXK0tr3pxFI3a3YYIGbe5Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE3MDYyOTI2/ODctODM4MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/kWqJqd_A26tdahi_F6guoqXK0tr3pxFI3a3YYIGbe5Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE3MDYyOTI2/ODctODM4MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/eglZ7EHDE1-6nSz2l7IA0veUR8a34OBLTkNmNQbdnps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE3MDYyOTI2/ODctODM4MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/WPOtFpVAv4Q8H3dINeXfZxW_PVQ36VUY0JBjHfsf80w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE3MDYyOTI2/ODctODM1Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/WPOtFpVAv4Q8H3dINeXfZxW_PVQ36VUY0JBjHfsf80w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE3MDYyOTI2/ODctODM1Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/kjS64CpJg5JIEY1eR1_N1XIFHnA31zqwQYTkmKlPSfA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE3MDYyOTI2/ODctODM1Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/KPgfdbfPio_FYz8qSbId_slWq4VW3X7FYAxSqtcbet8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE3MDYyOTI2/ODctMzcyNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/KPgfdbfPio_FYz8qSbId_slWq4VW3X7FYAxSqtcbet8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE3MDYyOTI2/ODctMzcyNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/thBZXMbrtkRaTL7PaY1vkLPCrtaZ_Aj7it8hIFrGQP4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE3MDYyOTI2/ODctMzcyNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/vV9LWB3rZkXMyehCp7YGzUcU-7hZnE-llLfnQMyvgUg/rs:fit/g:sm/q:90/h:600/w:549/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE1NzU0OTgw/OTgtNjI4NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/vV9LWB3rZkXMyehCp7YGzUcU-7hZnE-llLfnQMyvgUg/rs:fit/g:sm/q:90/h:600/w:549/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE1NzU0OTgw/OTgtNjI4NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/yRtJ74dhx2W8a6wiSbNS9tLLl33Xphx-ncs4YfCt1ww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE1NzU0OTgw/OTgtNjI4NS5qcGVn.jpeg",
+      "width": 549,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/_MK3YuqnOZ80O9mcAGvXh-haif_S3XtBUbjlCmn49uA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE1NzY1ODc2/NjUtNTU4Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/_MK3YuqnOZ80O9mcAGvXh-haif_S3XtBUbjlCmn49uA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE1NzY1ODc2/NjUtNTU4Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/XOHdIXO1jhnmtvgMAfjSbJx7IFYLonR_JbvgG_b22p8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE1NzY1ODc2/NjUtNTU4Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/nKP0NfWvh9fjXMOLkeDcpA77pF26-iUzk1HdMIiTXDY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDg2/MDQ2LTE3MDgyODU0/NzQtOTA4NC5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

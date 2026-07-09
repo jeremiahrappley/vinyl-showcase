@@ -1,0 +1,1079 @@
+{
+  "id": 377554,
+  "status": "Accepted",
+  "year": 1970,
+  "resource_url": "https://api.discogs.com/releases/377554",
+  "uri": "https://www.discogs.com/release/377554-The-Beatles-Let-It-Be",
+  "artists": [
+    {
+      "name": "The Beatles",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 82730,
+      "resource_url": "https://api.discogs.com/artists/82730",
+      "thumbnail_url": "https://i.discogs.com/txwfZBYDvdK2_f0o4rsQXNbsGS4IQS9U0LmGybWMLh8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTgyNzMw/LTE0MTk3MTQ5ODgt/OTY3NS5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "Beatles, The",
+  "labels": [
+    {
+      "name": "Apple Records",
+      "catno": "AR 34001",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 25693,
+      "resource_url": "https://api.discogs.com/labels/25693",
+      "thumbnail_url": "https://i.discogs.com/-8y5EP9e3iReEkjpgSA5UbWbIMWobsFcRpc_yX6Lczs/rs:fit/g:sm/q:90/h:253/w:245/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1Njkz/LTExMzgwMjc3MjUu/anBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "ABKCO",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 34613,
+      "resource_url": "https://api.discogs.com/labels/34613",
+      "thumbnail_url": "https://i.discogs.com/jCS4BJh0Dy1tXIS1vHScJG2QU0OwAFfAKXgRjwGylsI/rs:fit/g:sm/q:90/h:245/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM0NjEz/LTE1MTQxMzY5ODgt/OTUyNy5wbmc.jpeg"
+    },
+    {
+      "name": "Apple Records, Inc.",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 264472,
+      "resource_url": "https://api.discogs.com/labels/264472",
+      "thumbnail_url": "https://i.discogs.com/MQwAVb7-gOtGI3uo8lQCKUvFZFS3OWfD8OjHRC73v4E/rs:fit/g:sm/q:90/h:272/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDQ3/Mi0xMzY0MDY0NDI3/LTU4OTYuanBlZw.jpeg"
+    },
+    {
+      "name": "Bell Sound Studios",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 122360,
+      "resource_url": "https://api.discogs.com/labels/122360",
+      "thumbnail_url": "https://i.discogs.com/kIbCE6CB1YAAbmgJ3z-UfnbegLqwjdupVm-rO4GWAgE/rs:fit/g:sm/q:90/h:490/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyMjM2/MC0xMzUwOTM3NzEy/LTQ1NTcuanBlZw.jpeg"
+    },
+    {
+      "name": "Capitol Records Pressing Plant, Winchester",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 313656,
+      "resource_url": "https://api.discogs.com/labels/313656",
+      "thumbnail_url": "https://i.discogs.com/kSgF452aWdeWEpTFrc5y0cAa0c3sl1UjHjrWvoQY3-4/rs:fit/g:sm/q:90/h:135/w:237/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxMzY1/Ni0xMzU3OTExNjA1/LTg3ODYuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "text": "Winchester Pressing, Gatefold"
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 32659,
+    "want": 5420,
+    "rating": {
+      "count": 2581,
+      "average": 4.35
+    },
+    "submitter": {
+      "username": "rev.robert",
+      "resource_url": "https://api.discogs.com/users/rev.robert"
+    },
+    "contributors": [
+      {
+        "username": "rev.robert",
+        "resource_url": "https://api.discogs.com/users/rev.robert"
+      },
+      {
+        "username": "anType",
+        "resource_url": "https://api.discogs.com/users/anType"
+      },
+      {
+        "username": "killjoy966",
+        "resource_url": "https://api.discogs.com/users/killjoy966"
+      },
+      {
+        "username": "Curiopete",
+        "resource_url": "https://api.discogs.com/users/Curiopete"
+      },
+      {
+        "username": "BarnyardOrbit",
+        "resource_url": "https://api.discogs.com/users/BarnyardOrbit"
+      },
+      {
+        "username": "e-kartoffel",
+        "resource_url": "https://api.discogs.com/users/e-kartoffel"
+      },
+      {
+        "username": "doubleyouel",
+        "resource_url": "https://api.discogs.com/users/doubleyouel"
+      },
+      {
+        "username": "asylum27",
+        "resource_url": "https://api.discogs.com/users/asylum27"
+      },
+      {
+        "username": "Popschmecker",
+        "resource_url": "https://api.discogs.com/users/Popschmecker"
+      },
+      {
+        "username": "SJH",
+        "resource_url": "https://api.discogs.com/users/SJH"
+      },
+      {
+        "username": "cardnotready",
+        "resource_url": "https://api.discogs.com/users/cardnotready"
+      },
+      {
+        "username": "THX1138X",
+        "resource_url": "https://api.discogs.com/users/THX1138X"
+      },
+      {
+        "username": "jadedtom",
+        "resource_url": "https://api.discogs.com/users/jadedtom"
+      },
+      {
+        "username": "ScratchTheUpsetter",
+        "resource_url": "https://api.discogs.com/users/ScratchTheUpsetter"
+      },
+      {
+        "username": "jake.afc",
+        "resource_url": "https://api.discogs.com/users/jake.afc"
+      },
+      {
+        "username": "marcelrecords",
+        "resource_url": "https://api.discogs.com/users/marcelrecords"
+      },
+      {
+        "username": "drcity",
+        "resource_url": "https://api.discogs.com/users/drcity"
+      },
+      {
+        "username": "Forty5master",
+        "resource_url": "https://api.discogs.com/users/Forty5master"
+      },
+      {
+        "username": "kmcallister",
+        "resource_url": "https://api.discogs.com/users/kmcallister"
+      },
+      {
+        "username": "DiscogsUpdateBot",
+        "resource_url": "https://api.discogs.com/users/DiscogsUpdateBot"
+      },
+      {
+        "username": "rweckert",
+        "resource_url": "https://api.discogs.com/users/rweckert"
+      },
+      {
+        "username": "kosats",
+        "resource_url": "https://api.discogs.com/users/kosats"
+      },
+      {
+        "username": "HungryFreaks",
+        "resource_url": "https://api.discogs.com/users/HungryFreaks"
+      },
+      {
+        "username": "tomano58",
+        "resource_url": "https://api.discogs.com/users/tomano58"
+      },
+      {
+        "username": "CykoMF",
+        "resource_url": "https://api.discogs.com/users/CykoMF"
+      },
+      {
+        "username": "fnord23",
+        "resource_url": "https://api.discogs.com/users/fnord23"
+      },
+      {
+        "username": "vinyljunkie66",
+        "resource_url": "https://api.discogs.com/users/vinyljunkie66"
+      },
+      {
+        "username": "Derf1949",
+        "resource_url": "https://api.discogs.com/users/Derf1949"
+      },
+      {
+        "username": "xr2",
+        "resource_url": "https://api.discogs.com/users/xr2"
+      },
+      {
+        "username": "Seaonevd",
+        "resource_url": "https://api.discogs.com/users/Seaonevd"
+      },
+      {
+        "username": "kaoscapt",
+        "resource_url": "https://api.discogs.com/users/kaoscapt"
+      },
+      {
+        "username": "tangaroo",
+        "resource_url": "https://api.discogs.com/users/tangaroo"
+      },
+      {
+        "username": "Espo58",
+        "resource_url": "https://api.discogs.com/users/Espo58"
+      },
+      {
+        "username": "HeWhoHasAnEar",
+        "resource_url": "https://api.discogs.com/users/HeWhoHasAnEar"
+      },
+      {
+        "username": "XsimonX",
+        "resource_url": "https://api.discogs.com/users/XsimonX"
+      },
+      {
+        "username": "demarestfarmer",
+        "resource_url": "https://api.discogs.com/users/demarestfarmer"
+      },
+      {
+        "username": "BBop_Records",
+        "resource_url": "https://api.discogs.com/users/BBop_Records"
+      },
+      {
+        "username": "TonyRoch",
+        "resource_url": "https://api.discogs.com/users/TonyRoch"
+      },
+      {
+        "username": "seancrowley",
+        "resource_url": "https://api.discogs.com/users/seancrowley"
+      },
+      {
+        "username": "dsyn2spin",
+        "resource_url": "https://api.discogs.com/users/dsyn2spin"
+      },
+      {
+        "username": "L3Nola",
+        "resource_url": "https://api.discogs.com/users/L3Nola"
+      },
+      {
+        "username": "seacher2012",
+        "resource_url": "https://api.discogs.com/users/seacher2012"
+      },
+      {
+        "username": "WolfXCIX",
+        "resource_url": "https://api.discogs.com/users/WolfXCIX"
+      },
+      {
+        "username": "theforce75",
+        "resource_url": "https://api.discogs.com/users/theforce75"
+      },
+      {
+        "username": "mervyngm",
+        "resource_url": "https://api.discogs.com/users/mervyngm"
+      },
+      {
+        "username": "Parkerhouse00",
+        "resource_url": "https://api.discogs.com/users/Parkerhouse00"
+      },
+      {
+        "username": "noahweiner",
+        "resource_url": "https://api.discogs.com/users/noahweiner"
+      },
+      {
+        "username": "byxbee",
+        "resource_url": "https://api.discogs.com/users/byxbee"
+      },
+      {
+        "username": "Legend_City",
+        "resource_url": "https://api.discogs.com/users/Legend_City"
+      },
+      {
+        "username": "bloc2",
+        "resource_url": "https://api.discogs.com/users/bloc2"
+      },
+      {
+        "username": "AustinSimard",
+        "resource_url": "https://api.discogs.com/users/AustinSimard"
+      },
+      {
+        "username": "Opdiner",
+        "resource_url": "https://api.discogs.com/users/Opdiner"
+      },
+      {
+        "username": "attfiecz",
+        "resource_url": "https://api.discogs.com/users/attfiecz"
+      },
+      {
+        "username": "fretless77",
+        "resource_url": "https://api.discogs.com/users/fretless77"
+      },
+      {
+        "username": "Kjzimm",
+        "resource_url": "https://api.discogs.com/users/Kjzimm"
+      },
+      {
+        "username": "ermevale99",
+        "resource_url": "https://api.discogs.com/users/ermevale99"
+      },
+      {
+        "username": "RecordMuseum",
+        "resource_url": "https://api.discogs.com/users/RecordMuseum"
+      },
+      {
+        "username": "jburke2nd",
+        "resource_url": "https://api.discogs.com/users/jburke2nd"
+      },
+      {
+        "username": "teninchfan",
+        "resource_url": "https://api.discogs.com/users/teninchfan"
+      },
+      {
+        "username": "GParty",
+        "resource_url": "https://api.discogs.com/users/GParty"
+      },
+      {
+        "username": "hoarderesque",
+        "resource_url": "https://api.discogs.com/users/hoarderesque"
+      },
+      {
+        "username": "Aaron_Hugget",
+        "resource_url": "https://api.discogs.com/users/Aaron_Hugget"
+      },
+      {
+        "username": "glennas94",
+        "resource_url": "https://api.discogs.com/users/glennas94"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2005-01-14T10:31:43-08:00",
+  "date_changed": "2026-04-18T11:12:07-07:00",
+  "num_for_sale": 202,
+  "lowest_price": 3.98,
+  "master_id": 24212,
+  "master_url": "https://api.discogs.com/masters/24212",
+  "title": "Let It Be",
+  "country": "US",
+  "released": "1970-05-18",
+  "notes": "This pressing has the etching \"-◁\" in the run-outs, indication of pressing at [l=Capitol Records Pressing Plant, Winchester].\n(Copies with \"IAM\" (in a triangle) are pressed at Capitol Records Pressing Plant, Scranton)\n(Copies with \"0\" pressed at Capitol Records Pressing Plant, Jacksonville, Illinois)\n\nFirst press identifier - Maggie Mae credited to \"P.D.\" (this pressing)\n(Second Pressing credited to \"P.D. arr. Lennon, McCartney, Harrison, Starkey\")\n\nRed Apple label with 'MFD. BY APPLE RECORDS, INC.' in red ink on bottom of Side A.\n\nThanks to George Martin / Glyn Johns / Billy Preston / Harold Seider / Mal Davies / Peter Bown / Richard Hewson / Brian Rogers.\nRecorded in England.\n\nRunouts etched; Bell Sound stamped\n'17,500-xx'; '17,501-yy' may display 3 hand etched dots below the xx and yy.",
+  "released_formatted": "18 May 1970",
+  "identifiers": [
+    {
+      "type": "Rights Society",
+      "value": "BMI"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "JS 17500",
+      "description": "Label, Side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "JS 17501",
+      "description": "Label, Side B"
+    },
+    {
+      "type": "Pressing Plant ID",
+      "value": "━◁",
+      "description": "Etched in runouts"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,500-15 Bell Sound sf",
+      "description": "Run-Out, Side A, Variation 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-15 Bell Sound sf",
+      "description": "Run-Out, Side B, Variation 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,500-12 Bell Sound sf  -◁",
+      "description": "Run-Out, Side A, Variation 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-12 #3 Bell Sound sf  -◁",
+      "description": "Run-Out, Side B, Variation 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie AR1 34001 JS 17,500-27 #2 Bell Sound sf",
+      "description": "Run-Out, Side A, Variation 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie AR2 34001 JS 17,501-28 #4 Bell Sound sf",
+      "description": "Run-Out, Side B, Variation 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,500 - 12 I-S Bell Sound sf -◁",
+      "description": "Run-Out, Side A, Variation 4"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501 - 12 #2 Bell Sound sf -◁",
+      "description": "Run-Out, Side B, Variation 4"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie AR1 34001 JS-17,500-24 #5 Bell Sound sf",
+      "description": "Run-Out, Side A, Variation 5"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie AR2 34001 JS-17,501-27 Bell Sound sf",
+      "description": "Run-Out, Side Β, Variation 5"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,500-22 ... Bell Sound  sf  ─◁",
+      "description": "Run-Out, Side A, Variation 6"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-11 #2 Bell Sound sf  -◁",
+      "description": "Run-Out, Side Β, Variation 6"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-12 ... Bell Sound sf  -◁",
+      "description": "Run-Out, Side A, Variation 7"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-11 ... I-S Bell Sound sf  -◁",
+      "description": "Run-Out, Side B, Variation 7"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,500-11 I-S Bell Sound sf  -◁",
+      "description": "Run-Out, Side A, Variation 8"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-12 ... #3 Bell Sound sf  -◁",
+      "description": "Run-Out, Side B, Variation 8"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-14 #5 sf",
+      "description": "Run-Out, Side A, Variation 9"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-14 #6  sf",
+      "description": "Run-Out, Side B, Variation 9"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,500-12 #4 sf",
+      "description": "Run-Out, Side A, Variation 10"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-12 #5 sf",
+      "description": "Run-Out, Side B, Variation 10"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,500-22 Bell Sound sf  -◁",
+      "description": "Run-Out, Side A, Variation 11"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-12 1-S Bell Sound sf  -◁",
+      "description": "Run-Out, Side B, Variation 11"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": " Phil + Ronnie JS-17,500-13 #7 Bell Sound sf -◁ ",
+      "description": "Run-Out, Side A, Variation 12"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": " Phil + Ronnie JS-17,501-13 #3 Bell Sound sf -◁ ",
+      "description": "Run-Out, Side B, Variation 12"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,500-12 #3 ... Bell Sound sf -◁",
+      "description": "Run-Out, Side A, Variation 13"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-12 ... Bell Sound sf -◁",
+      "description": "Run-Out, Side B, Variation 13"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,500-21 #2 ... Bell Sound sf -<",
+      "description": "Run-Out, Side A, Variation 14"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-12 ... Bell Sound sf -<",
+      "description": "Run-Out, Side B, Variation 14"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,500-11 #4 ... Bell Sound sf -◁",
+      "description": "Run-Out, Side A, Variation 15"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-21 ... Bell Sound sf -◁",
+      "description": "Run-Out, Side B, Variation 15"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,500-12... Bell Sound sf  ---◁",
+      "description": "Run-Out, Side A, Variation 16"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-12... 1-S Bell Sound sf  ---◁",
+      "description": "Run-Out, Side B, Variation 16"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,500-12...#2 Bell Sound sf  ---◁",
+      "description": "Run-Out, Side A, Variation 17"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-12... Bell Sound sf  ---◁",
+      "description": "Run-Out, Side B, Variation 17"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,500-11...#2 Bell Sound sf  ---◁",
+      "description": "Run-Out, Side A, Variation 18"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-12... Bell Sound sf  ---◁",
+      "description": "Run-Out, Side B, Variation 18"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,500-22 Bell Sound sf  -◁",
+      "description": "Run-Out, Side A, Variation 19"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-12 #5 sf",
+      "description": "Run-Out, Side B, Variation 19"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,500-12... #4 Bell Sound sf  ---◁",
+      "description": "Run-Out, Side A, Variation 20"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-12... #3 Bell Sound sf  ---◁",
+      "description": "Run-Out, Side B, Variation 20"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17.500-11 1-S Bell Sound sf  ---◁",
+      "description": "Run-Out, Side A, Variation 21"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17.501-12 #2  Bell Sound sf  ---◁",
+      "description": "Run-Out, Side A, Variation 21"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,500-12... 1-S Bell Sound sf ---◁",
+      "description": "Run-Out, Side A, Variation 22"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-22... Bell Sound sf ---◁",
+      "description": "Run-Out, Side B, Variation 22"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-12 #3 Bell Sound sf  -◁",
+      "description": "Run-Out, Side A, Variation 23"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-11 #2 Bell Sound sf  -◁",
+      "description": "Run-Out, Side B, Variation 23"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,500-12 ... Bell Sound sf  -◁",
+      "description": "Run-Out, Side A, Variation 24"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-11 ... I-S Bell Sound sf  -◁",
+      "description": "Run-Out, Side B, Variation 24"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,500 - 12 I-S Bell Sound sf -◁",
+      "description": "Run-Out, Side A, Variation 25"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,500-11 I-S Bell Sound sf -◁",
+      "description": "Run-Out, Side B, Variation 25"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,500-12 # 4 SP   Bell Sound sf  ─◁",
+      "description": "Run-Out, Side A, Variation 26"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-22   Bell Sound sf  ─◁",
+      "description": "Run-Out, Side B, Variation 26"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,500-21   Bell Sound sf  ─◁",
+      "description": "Run-Out, Side A, Variation 27"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-11 #2 Bell Sound sf  -◁",
+      "description": "Run-Out, Side B, Variation 27"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,500-13 #4 Bell Sound sf ",
+      "description": "Run-Out, Side A Variation 28"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-14 #2 Bell Sound sf ",
+      "description": "Run-Out, Side B Variation 28"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,500-11 #3 Bell Sound sf ",
+      "description": "Run-Out, Side A Variation 29"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-11 Bell Sound sf ",
+      "description": "Run-Out, Side B Variation 29"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,500 -11 #3 Bell Sound sf - -◁",
+      "description": "Run-Out, Side A Variation 30"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-12 Bell Sound sf - -◁",
+      "description": "Run-Out, Side B Variation 30"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,500-11 Bell Sound sf -◁",
+      "description": "Run-Out, Side A Variation 31"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-22 Bell Sound sf -◁",
+      "description": "Run-Out, Side B Variation 31"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,500-11 I-S Bell Sound sf -◁",
+      "description": "Run-Out, Side A Variation 32"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-11 #2 Bell Sound sf  -◁",
+      "description": "Run-Out, Side B Variation 32"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,500-11 #4 Bell Sound sf  -◁",
+      "description": "Run-Out, Side A Variation 33"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "Phil + Ronnie JS-17,501-12 Bell Sound sf  -◁",
+      "description": "Run-Out, Side B Variation 33"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=ebEXJlvu54Q",
+      "title": "Beatles - 1st  UK press - Let It Be - side 1",
+      "description": "https://www.thebeatles.com/albums  -  https://www.youtube.com/@vinylwhatapassion     -                        COPYRIGHT BELONGS TO THE LEGITIMATE OWNERS, \nif this video is ever monetized it will always be in favor of the Copyright owners, not mine\n\nThere'",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5V0qYaSi17I",
+      "title": "Beatles - 1st  UK press - Let It Be - side 2",
+      "description": "https://www.thebeatles.com/albums  -  https://www.youtube.com/@vinylwhatapassion     -    COPYRIGHT BELONGS TO THE LEGITIMATE OWNERS, \nif this video is ever monetized it will always be in favor of the Copyright owners, not mine\n\nThere's a wonderful sense ",
+      "duration": 0,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Rock"
+  ],
+  "styles": [
+    "Pop Rock"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Two Of Us",
+      "extraartists": [
+        {
+          "name": "Lennon-McCartney",
+          "anv": "Lennon; McCartney",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 779927,
+          "resource_url": "https://api.discogs.com/artists/779927"
+        }
+      ],
+      "duration": "3:33"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "I Dig A Pony",
+      "extraartists": [
+        {
+          "name": "Lennon-McCartney",
+          "anv": "Lennon; McCartney",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 779927,
+          "resource_url": "https://api.discogs.com/artists/779927"
+        }
+      ],
+      "duration": "3:55"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Across The Universe",
+      "extraartists": [
+        {
+          "name": "Lennon-McCartney",
+          "anv": "Lennon; McCartney",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 779927,
+          "resource_url": "https://api.discogs.com/artists/779927"
+        }
+      ],
+      "duration": "3:51"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "I Me Mine",
+      "extraartists": [
+        {
+          "name": "George Harrison",
+          "anv": "Harrison",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 243955,
+          "resource_url": "https://api.discogs.com/artists/243955"
+        }
+      ],
+      "duration": "2:25"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Dig It",
+      "extraartists": [
+        {
+          "name": "George Harrison",
+          "anv": "Harrison",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 243955,
+          "resource_url": "https://api.discogs.com/artists/243955"
+        },
+        {
+          "name": "John Lennon",
+          "anv": "Lennon",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 46481,
+          "resource_url": "https://api.discogs.com/artists/46481"
+        },
+        {
+          "name": "Paul McCartney",
+          "anv": "McCartney",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 35301,
+          "resource_url": "https://api.discogs.com/artists/35301"
+        },
+        {
+          "name": "Ringo Starr",
+          "anv": "Starr",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 259352,
+          "resource_url": "https://api.discogs.com/artists/259352"
+        }
+      ],
+      "duration": "0:51"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Let It Be",
+      "extraartists": [
+        {
+          "name": "Lennon-McCartney",
+          "anv": "Lennon; McCartney",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 779927,
+          "resource_url": "https://api.discogs.com/artists/779927"
+        }
+      ],
+      "duration": "4:01"
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "title": "Maggie Mae",
+      "extraartists": [
+        {
+          "name": "Unknown Artist",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 355,
+          "resource_url": "https://api.discogs.com/artists/355"
+        }
+      ],
+      "duration": "0:39"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "I've Got A Feeling",
+      "extraartists": [
+        {
+          "name": "Lennon-McCartney",
+          "anv": "Lennon; McCartney",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 779927,
+          "resource_url": "https://api.discogs.com/artists/779927"
+        }
+      ],
+      "duration": "3:38"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "One After 909",
+      "extraartists": [
+        {
+          "name": "Lennon-McCartney",
+          "anv": "Lennon; McCartney",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 779927,
+          "resource_url": "https://api.discogs.com/artists/779927"
+        }
+      ],
+      "duration": "2:52"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "The Long And Winding Road",
+      "extraartists": [
+        {
+          "name": "Lennon-McCartney",
+          "anv": "Lennon; McCartney",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 779927,
+          "resource_url": "https://api.discogs.com/artists/779927"
+        }
+      ],
+      "duration": "3:40"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "For You Blue",
+      "extraartists": [
+        {
+          "name": "George Harrison",
+          "anv": "Harrison",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 243955,
+          "resource_url": "https://api.discogs.com/artists/243955"
+        }
+      ],
+      "duration": "2:33"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Get Back",
+      "extraartists": [
+        {
+          "name": "Lennon-McCartney",
+          "anv": "Lennon; McCartney",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 779927,
+          "resource_url": "https://api.discogs.com/artists/779927"
+        }
+      ],
+      "duration": "3:09"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "John Kosh",
+      "anv": "",
+      "join": "",
+      "role": "Design",
+      "tracks": "",
+      "id": 1827035,
+      "resource_url": "https://api.discogs.com/artists/1827035"
+    },
+    {
+      "name": "Billy Preston",
+      "anv": "",
+      "join": "",
+      "role": "Keyboards [Uncredited]",
+      "tracks": "A2, A5, B1, B2, B5",
+      "id": 46767,
+      "resource_url": "https://api.discogs.com/artists/46767"
+    },
+    {
+      "name": "Sam Feldman",
+      "anv": "sf",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 517916,
+      "resource_url": "https://api.discogs.com/artists/517916"
+    },
+    {
+      "name": "Ethan Russell",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 2211209,
+      "resource_url": "https://api.discogs.com/artists/2211209"
+    },
+    {
+      "name": "Phil Spector",
+      "anv": "",
+      "join": "",
+      "role": "Producer [Reproduced For Disc]",
+      "tracks": "",
+      "id": 190767,
+      "resource_url": "https://api.discogs.com/artists/190767"
+    },
+    {
+      "name": "George Martin",
+      "anv": "",
+      "join": "",
+      "role": "Producer [Uncredited] [Original Recordings]",
+      "tracks": "",
+      "id": 259769,
+      "resource_url": "https://api.discogs.com/artists/259769"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/OlMMNhXcbrNgsBWwJDs-c8CleqjbHZcvJSKFtBGpqZE/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NC0xNzQxNjM5OTg4/LTY1MTAuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/OlMMNhXcbrNgsBWwJDs-c8CleqjbHZcvJSKFtBGpqZE/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NC0xNzQxNjM5OTg4/LTY1MTAuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/37RGyWQ1A1POGvNNVyivEZQ7ajBGhrgZ_o7GUuADVLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NC0xNzQxNjM5OTg4/LTY1MTAuanBlZw.jpeg",
+      "width": 596,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/tNfQR72rDfR-zAdMfv-0JlnAl_rSM-ELVcpso4TyvVw/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NC0xNzQxNjM5OTg4/LTQwOTMuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/tNfQR72rDfR-zAdMfv-0JlnAl_rSM-ELVcpso4TyvVw/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NC0xNzQxNjM5OTg4/LTQwOTMuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/6OlfHx5duUS2qfug0bPAZNU5hbIhoSdWpoOOXHCuzxA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NC0xNzQxNjM5OTg4/LTQwOTMuanBlZw.jpeg",
+      "width": 600,
+      "height": 591
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/3inV-LvBevwz_3TtGCyAJYFQq_mbqLoLd76F7tgsqxI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NC0xNzQxNjM5OTg4/LTgxNzQuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/3inV-LvBevwz_3TtGCyAJYFQq_mbqLoLd76F7tgsqxI/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NC0xNzQxNjM5OTg4/LTgxNzQuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/J0ILZLeWDzITDl8gnH5vAjH2RDAltxMbFH5I3AyYtAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NC0xNzQxNjM5OTg4/LTgxNzQuanBlZw.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ywy9ajjaI33N9h62Jv0yATtEAyJW7pkChxOa7X_DYaU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NC0xNzQxNjM5OTc4/LTUzNTAuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/ywy9ajjaI33N9h62Jv0yATtEAyJW7pkChxOa7X_DYaU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NC0xNzQxNjM5OTc4/LTUzNTAuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/uBGkdJhoNfEJBuJvtVSoXvwQ_QJc6p6XwwPSqwKwR64/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NC0xNzQxNjM5OTc4/LTUzNTAuanBlZw.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/YeT5xtlWmG3aEIgdC9PhD65QLdb2LIA_pyDks1K-f40/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NC0xNzQxNjM5OTgx/LTk3NDguanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/YeT5xtlWmG3aEIgdC9PhD65QLdb2LIA_pyDks1K-f40/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NC0xNzQxNjM5OTgx/LTk3NDguanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/v2bKbMzI1EP9nTv-mJNRVdM8OJPxXe3Hq7YupJKKaAQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NC0xNzQxNjM5OTgx/LTk3NDguanBlZw.jpeg",
+      "width": 598,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/_No1nBqSdB-eldwbcbS_SIijv4fTn15oOspHuC2VRIU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NC0xNzQxNjM5OTgy/LTEwMTkuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/_No1nBqSdB-eldwbcbS_SIijv4fTn15oOspHuC2VRIU/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NC0xNzQxNjM5OTgy/LTEwMTkuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/sCCa5eDqqc8MAxWvKoY_mUckyeV06XrPDyqwz7AwI4A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NC0xNzQxNjM5OTgy/LTEwMTkuanBlZw.jpeg",
+      "width": 599,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/37RGyWQ1A1POGvNNVyivEZQ7ajBGhrgZ_o7GUuADVLs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3NzU1/NC0xNzQxNjM5OTg4/LTY1MTAuanBlZw.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

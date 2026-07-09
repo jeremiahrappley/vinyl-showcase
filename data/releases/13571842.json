@@ -1,0 +1,465 @@
+{
+  "id": 13571842,
+  "status": "Accepted",
+  "year": 2019,
+  "resource_url": "https://api.discogs.com/releases/13571842",
+  "uri": "https://www.discogs.com/release/13571842-Ariana-Grande-Thank-U-Next",
+  "artists": [
+    {
+      "name": "Ariana Grande",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 3310737,
+      "resource_url": "https://api.discogs.com/artists/3310737",
+      "thumbnail_url": "https://i.discogs.com/ns2Lr4_vKieO-26rNH1Uzj5CreZtJlFsHv_Y4ebasps/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMzMTA3/MzctMTc3OTAzOTgw/NS0yMDQ1LnBuZw.jpeg"
+    }
+  ],
+  "artists_sort": "Ariana Grande",
+  "labels": [
+    {
+      "name": "Republic Records",
+      "catno": "B0029653-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Republic Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    },
+    {
+      "name": "Republic Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    },
+    {
+      "name": "Universal Music Distribution",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 115478,
+      "resource_url": "https://api.discogs.com/labels/115478"
+    },
+    {
+      "name": "Sterling Sound",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 264060,
+      "resource_url": "https://api.discogs.com/labels/264060",
+      "thumbnail_url": "https://i.discogs.com/Z8f0gMBrt5jLL4TAcCYDGXmMPOLi9V0UW593WXP6BUU/rs:fit/g:sm/q:90/h:118/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDA2/MC0xNTAwMjgzMzYy/LTMyMTguanBlZw.jpeg"
+    },
+    {
+      "name": "GZ Media",
+      "catno": "187847E",
+      "entity_type": "44",
+      "entity_type_name": "Plated At",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    },
+    {
+      "name": "Precision Record Pressing",
+      "catno": "10-86064",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 523699,
+      "resource_url": "https://api.discogs.com/labels/523699",
+      "thumbnail_url": "https://i.discogs.com/DfWvGCw34Q127_Eqz8MBLNwe-7lZqvAuM3xxalopIBo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUyMzY5/OS0xNjk5MzgyMzgz/LTIwNDYucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 7845,
+    "want": 1585,
+    "rating": {
+      "count": 536,
+      "average": 4.55
+    },
+    "submitter": {
+      "username": "schnibbitt",
+      "resource_url": "https://api.discogs.com/users/schnibbitt"
+    },
+    "contributors": [
+      {
+        "username": "schnibbitt",
+        "resource_url": "https://api.discogs.com/users/schnibbitt"
+      },
+      {
+        "username": "brout",
+        "resource_url": "https://api.discogs.com/users/brout"
+      },
+      {
+        "username": "musolino",
+        "resource_url": "https://api.discogs.com/users/musolino"
+      },
+      {
+        "username": "AustinSimard",
+        "resource_url": "https://api.discogs.com/users/AustinSimard"
+      },
+      {
+        "username": "Gliebs",
+        "resource_url": "https://api.discogs.com/users/Gliebs"
+      },
+      {
+        "username": "francisdang7",
+        "resource_url": "https://api.discogs.com/users/francisdang7"
+      },
+      {
+        "username": "Mariah_Scary666",
+        "resource_url": "https://api.discogs.com/users/Mariah_Scary666"
+      },
+      {
+        "username": "kansascitymisery",
+        "resource_url": "https://api.discogs.com/users/kansascitymisery"
+      },
+      {
+        "username": "djsgribbs",
+        "resource_url": "https://api.discogs.com/users/djsgribbs"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2019-05-01T10:46:34-07:00",
+  "date_changed": "2025-07-16T07:17:17-07:00",
+  "num_for_sale": 35,
+  "lowest_price": 18,
+  "master_id": 1498712,
+  "master_url": "https://api.discogs.com/masters/1498712",
+  "title": "Thank U, Next",
+  "country": "US",
+  "released": "2019-05-03",
+  "notes": "Gatefold jacket",
+  "released_formatted": "03 May 2019",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02577 47622 8"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0029653-01A 187847E1/A1 JN-H STERLING 10-86064 / B002965301-A",
+      "description": "Side A runout Variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0029653-01B 187847E2/A JN-H STERLING 10-86064 / B002965301-B",
+      "description": "Side B runout Variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0029653-01C 187847E3/A JN-H STERLING 10-86064 / B002965301-C",
+      "description": "Side C runout Variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0029653-01D 187847E4/A JN-H STERLING 10-86064 / B002965301-D",
+      "description": "Side D runout Variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0029653-01A 187847E1/A7 JN-H STERLING 10-86064 / B002965301-A 991351",
+      "description": "Side A runout Variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0029653-01B 187847E2 JN-H STERLING 10-86064 / B002965301-B 1293224",
+      "description": "Side B runout Variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0029653-01C 187847E3 JN-H STERLING 10-86064 / B002965301-C 1188554",
+      "description": "Side C runout Variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0029653-01D 187847E4 JN-H STERLING 10-86064 / B002965301-D 1268914",
+      "description": "Side D runout Variant 2"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=7_rftpd0u0U",
+      "title": "Ariana Grande - imagine (lyric video)",
+      "description": "https://arianagrande.lnk.to/imagine\n\n\"THE EXPEDITION WENT WRONG\": by Glitch-Artist Chepertom (instagram @chepertomz); Cinematography by Adam DJ Laity (@adjlaity www.blackcatfilms.org.uk) and Eric Esterle (@ericesterlephoto)\n\nLyrics added by: Chris Shelley",
+      "duration": 212,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Km__cJEJ3JI",
+      "title": "Ariana Grande - needy (Audio)",
+      "description": "Music video by Ariana Grande performing needy (Audio).© 2019 Republic Records, a Division of UMG Recordings, Inc.",
+      "duration": 173,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=-_aGvdfLTKY",
+      "title": "Ariana Grande - NASA (Official Audio)",
+      "description": "Music video by Ariana Grande performing NASA (Audio). © 2019 Republic Records, a Division of UMG Recordings, Inc.\n\nhttp://vevo.ly/lYDzME",
+      "duration": 184,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=uKqRAC-JNOM",
+      "title": "Ariana Grande - bloodline (Audio)",
+      "description": "Music video by Ariana Grande performing bloodline (Audio).© 2019 Republic Records, a Division of UMG Recordings, Inc.",
+      "duration": 218,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=XTZigwkcJhw",
+      "title": "Ariana Grande - fake smile (Official Audio)",
+      "description": "Music video by Ariana Grande performing fake smile (Audio). © 2019 Republic Records, a Division of UMG Recordings, Inc.\n\nhttp://vevo.ly/WPnaP3",
+      "duration": 210,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=m7XHduHsBvk",
+      "title": "Ariana Grande - bad idea (Audio)",
+      "description": "Music video by Ariana Grande performing bad idea (Audio).© 2019 Republic Records, a Division of UMG Recordings, Inc.",
+      "duration": 269,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=DOJremEQw88",
+      "title": "Ariana Grande - make up (Official Audio)",
+      "description": "Music video by Ariana Grande performing make up (Audio). © 2019 Republic Records, a Division of UMG Recordings, Inc.\n\nhttp://vevo.ly/Lne9zh",
+      "duration": 142,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Z1pmpDRrQhU",
+      "title": "Ariana Grande - ghostin (Official Audio)",
+      "description": "Music video by Ariana Grande performing ghostin (Audio). © 2019 Republic Records, a Division of UMG Recordings, Inc.\n\nhttp://vevo.ly/kj9Etb",
+      "duration": 273,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=1uJQxq6epDk",
+      "title": "Ariana Grande - in my head (Music Video)",
+      "description": "Ariana Grande's August cover video for Vogue, featuring \"in my head,\" one of the most revealing, intimate songs on her February release \"thank u, next,\" takes this confessional tendency literally, as she dances, shoulder pops, poses, and struts around ins",
+      "duration": 215,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=QYh6mYIJG2Y",
+      "title": "Ariana Grande - 7 rings (Official Video)",
+      "description": "Official video by Ariana Grande performing “7 rings” – available now: https://ArianaGrande.lnk.to/tun-albumPV\n\nSubscribe for more official content from Ariana: https://ArianaGrande.lnk.to/subscribeVD\n\nMerch: https://shop.arianagrande.com/\n\nConnect with Ar",
+      "duration": 185,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=gl1aHhXnN1k",
+      "title": "Ariana Grande - thank u, next (Official Video)",
+      "description": "Official video by Ariana Grande performing “thank u, next” – available now: https://arianagrande.lnk.to/thankunextYD \n\nDirected by Hannah Lux Davis\nProduced by Brandon Bonfiglio \nEdited by Hannah Lux Davis & Taylor Tracy Walsh\nProduction Company: London A",
+      "duration": 331,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=LH4Y1ZUUx2g",
+      "title": "Ariana Grande - break up with your girlfriend, i'm bored (Official Video)",
+      "description": "break up with your girlfriend, i'm bored (Official Video)\n\nGet thank u, next The Album Here: https://arianagrande.lnk.to/tun-albumYD\n\nConnect with Ariana Grande: \nhttps://www.instagram.com/arianagrande/\nhttps://twitter.com/ArianaGrande\nhttps://www.faceboo",
+      "duration": 205,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=T0P-16bnxuU",
+      "title": "Thank U, Next (Deluxe CD+DVD Edition by Ariana Grande)",
+      "description": "Ariana Grande - Thank U, Next\nDeluxe CD+DVD Edition Album\nMore info of this release here:\nhttps://www.discogs.com/release/13732131-Ariana-Grande-Thank-U-Next\n\nInstagram: https://www.instagram.com/uncle_fallen/\n\nThe Chart is a tribute-driven platform celeb",
+      "duration": 235,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Hip Hop",
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Trap",
+    "Contemporary R&B"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Imagine",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Needy",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "NASA",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Bloodline",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Fake Smile",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Bad Idea",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Make Up",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Ghostin",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "In My Head",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "7 Rings",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Thank U, Next",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Break Up With Your Girlfriend, I'm Bored",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Joe Nino-Hernes",
+      "anv": "JN-H",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 6012918,
+      "resource_url": "https://api.discogs.com/artists/6012918"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/VN_AezSxrf46E48gJA_1fb78CSJSkN-1JqUTinDunXw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/ODQyLTE3NDIwNTMz/NjktMjkzMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/VN_AezSxrf46E48gJA_1fb78CSJSkN-1JqUTinDunXw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/ODQyLTE3NDIwNTMz/NjktMjkzMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/-YRrUhp1_HX_oWSbZFiBTiW1umr3xx3iHBFTgAI8y8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/ODQyLTE3NDIwNTMz/NjktMjkzMy5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/plvPOaBKdqH5rCA5EUbRiT7dXbdga6hhKIYJKb2eAFA/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/ODQyLTE1NTY3MzM2/OTUtNTM2MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/plvPOaBKdqH5rCA5EUbRiT7dXbdga6hhKIYJKb2eAFA/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/ODQyLTE1NTY3MzM2/OTUtNTM2MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/VFfYQtHTQ-aR_Z499sPmH_x_A7YgS2KqzMzyjDR-5-I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/ODQyLTE1NTY3MzM2/OTUtNTM2MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 593
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/HNwXgqlnxzx8TofrDiBppf7QTOF4-LyfSXq7DShoqvE/rs:fit/g:sm/q:90/h:290/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/ODQyLTE1NTY3MzM2/OTUtMzQxNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/HNwXgqlnxzx8TofrDiBppf7QTOF4-LyfSXq7DShoqvE/rs:fit/g:sm/q:90/h:290/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/ODQyLTE1NTY3MzM2/OTUtMzQxNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/tFyEC05rOoX9e6W0AvZ0nvdVvqKWqvm1ZBGRvTGB3fo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/ODQyLTE1NTY3MzM2/OTUtMzQxNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 290
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/zLxg-rCgGQetzQAG1cGIVJ1aRYO14C9COoocfSazA1g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/ODQyLTE3MjkxMTM2/NTctMzIyMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/zLxg-rCgGQetzQAG1cGIVJ1aRYO14C9COoocfSazA1g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/ODQyLTE3MjkxMTM2/NTctMzIyMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/t9WYEyFJU4fLT2-g_tNBp3SzHF1pLK0j63Mx4w54Azk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/ODQyLTE3MjkxMTM2/NTctMzIyMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/9CqbkWjlt8etGth5wagqbluvWR4wbWEBtN9sLw_WALw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/ODQyLTE3MjkxMTM2/NTctNTA0Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/9CqbkWjlt8etGth5wagqbluvWR4wbWEBtN9sLw_WALw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/ODQyLTE3MjkxMTM2/NTctNTA0Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/oyU-OwIOfgmyuaPJVrXwB9QsJcO3NF9k7u1MYSgMWQE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/ODQyLTE3MjkxMTM2/NTctNTA0Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/1OQFOsDojQkdLxhIdaE_7F1i8TAOvO2YTJeCYulD_4k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/ODQyLTE3MjkxMTM2/NTctMjM1NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/1OQFOsDojQkdLxhIdaE_7F1i8TAOvO2YTJeCYulD_4k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/ODQyLTE3MjkxMTM2/NTctMjM1NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/WB5hV-SaN7tD_XLXaaEi5V4qgp2Lh4MiK_QePPRmIcM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/ODQyLTE3MjkxMTM2/NTctMjM1NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Tr3HjotM8MsCrnsOYe_KJCZkng--Uoyqu4nnaTqP5J8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/ODQyLTE3MjkxMTM2/NTctODkzMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Tr3HjotM8MsCrnsOYe_KJCZkng--Uoyqu4nnaTqP5J8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/ODQyLTE3MjkxMTM2/NTctODkzMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Zxu4Gial2m0dy4hO9RXBd2agccrmsf2JnMyrmu364hk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/ODQyLTE3MjkxMTM2/NTctODkzMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/0hRvaUQ3ZwMn-85iHl5fWuNpzS02lLWQ9rQ1o1rAou8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/ODQyLTE3NDIwNTMz/NjktMTE5MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/0hRvaUQ3ZwMn-85iHl5fWuNpzS02lLWQ9rQ1o1rAou8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/ODQyLTE3NDIwNTMz/NjktMTE5MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/CUSBsRzUhjIjqOvFVoVlwcRyFuKb7XCKTmyiSeNRkcQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/ODQyLTE3NDIwNTMz/NjktMTE5MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/-YRrUhp1_HX_oWSbZFiBTiW1umr3xx3iHBFTgAI8y8w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTcx/ODQyLTE3NDIwNTMz/NjktMjkzMy5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

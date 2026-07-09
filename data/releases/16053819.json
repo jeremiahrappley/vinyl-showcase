@@ -1,0 +1,2988 @@
+{
+  "id": 16053819,
+  "status": "Accepted",
+  "year": 2020,
+  "resource_url": "https://api.discogs.com/releases/16053819",
+  "uri": "https://www.discogs.com/release/16053819-Shania-Twain-The-Woman-In-Me",
+  "artists": [
+    {
+      "name": "Shania Twain",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 130060,
+      "resource_url": "https://api.discogs.com/artists/130060",
+      "thumbnail_url": "https://i.discogs.com/ajKtsmiLStt1nH6R0bgAFnvzYCJLkmmofoC3cpee6Bg/rs:fit/g:sm/q:90/h:552/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzMDA2/MC0xNDczMTExNjk5/LTY4OTEuanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Shania Twain",
+  "labels": [
+    {
+      "name": "Mercury Nashville",
+      "catno": "B0032060-02",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 115661,
+      "resource_url": "https://api.discogs.com/labels/115661",
+      "thumbnail_url": "https://i.discogs.com/J1azRBBJVMJ_1yLyLNHDrzqVI9mSJGaPyTWuNC7b_eI/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExNTY2/MS0xMzAwODg5Mzg4/LmpwZWc.jpeg"
+    },
+    {
+      "name": "UMe",
+      "catno": "B0032060-02",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 68029,
+      "resource_url": "https://api.discogs.com/labels/68029",
+      "thumbnail_url": "https://i.discogs.com/M8dUXs4KvT0ntyk7C_Xbzh3z3vTBp9EBxecfUb13p74/rs:fit/g:sm/q:90/h:233/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY4MDI5/LTE1MDM0MTYxNTkt/OTAxNy5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "UMG Recordings, Inc.",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 272782,
+      "resource_url": "https://api.discogs.com/labels/272782",
+      "thumbnail_url": "https://i.discogs.com/WX78Ss6rJPzD8aWRj-wynSuGlTwtQLp2QLnUFGDI3Pg/rs:fit/g:sm/q:90/h:80/w:534/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Mjc4/Mi0xNDU3MDEyNDAw/LTExMzYuanBlZw.jpeg"
+    },
+    {
+      "name": "UMG Recordings, Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 272782,
+      "resource_url": "https://api.discogs.com/labels/272782",
+      "thumbnail_url": "https://i.discogs.com/WX78Ss6rJPzD8aWRj-wynSuGlTwtQLp2QLnUFGDI3Pg/rs:fit/g:sm/q:90/h:80/w:534/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Mjc4/Mi0xNDU3MDEyNDAw/LTExMzYuanBlZw.jpeg"
+    },
+    {
+      "name": "UMG Recordings, Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 272782,
+      "resource_url": "https://api.discogs.com/labels/272782",
+      "thumbnail_url": "https://i.discogs.com/WX78Ss6rJPzD8aWRj-wynSuGlTwtQLp2QLnUFGDI3Pg/rs:fit/g:sm/q:90/h:80/w:534/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Mjc4/Mi0xNDU3MDEyNDAw/LTExMzYuanBlZw.jpeg"
+    },
+    {
+      "name": "Songs of Universal, Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 263955,
+      "resource_url": "https://api.discogs.com/labels/263955"
+    },
+    {
+      "name": "Universal - Polygram International Publishing, Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 388553,
+      "resource_url": "https://api.discogs.com/labels/388553"
+    },
+    {
+      "name": "Sound Stage Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 297663,
+      "resource_url": "https://api.discogs.com/labels/297663",
+      "thumbnail_url": "https://i.discogs.com/PN-kwp3LfpWBZ7UhGOojcfadV5UQ0hoqiXxDrljX7ko/rs:fit/g:sm/q:90/h:600/w:285/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5NzY2/My0xNDU2ODgyNTQ1/LTk3NTkuanBlZw.jpeg"
+    },
+    {
+      "name": "Zappos Theater At Planet Hollywood Resort & Casino, Las Vegas",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 1850684,
+      "resource_url": "https://api.discogs.com/labels/1850684"
+    },
+    {
+      "name": "Reunion Arena",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 418649,
+      "resource_url": "https://api.discogs.com/labels/418649",
+      "thumbnail_url": "https://i.discogs.com/XkeGrvvXLJIF77I4HjmD0nFsyF1Kr-KQHgPiGjVIyUk/rs:fit/g:sm/q:90/h:389/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQxODY0/OS0xNjM4NTkzNzk5/LTUxODguanBlZw.jpeg"
+    },
+    {
+      "name": "A.R.P. Track Productions",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 429747,
+      "resource_url": "https://api.discogs.com/labels/429747",
+      "thumbnail_url": "https://i.discogs.com/t8aWaipTebwHiwPbTtmTmd7X50MV42uSKweTuqPm8Ew/rs:fit/g:sm/q:90/h:345/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQyOTc0/Ny0xNTcyMjQ3NzQ2/LTc3NTQuanBlZw.jpeg"
+    },
+    {
+      "name": "Battery Studios, Nashville",
+      "catno": "",
+      "entity_type": "25",
+      "entity_type_name": "Overdubbed At",
+      "id": 362518,
+      "resource_url": "https://api.discogs.com/labels/362518"
+    },
+    {
+      "name": "Javelina Recording Studios",
+      "catno": "",
+      "entity_type": "25",
+      "entity_type_name": "Overdubbed At",
+      "id": 384540,
+      "resource_url": "https://api.discogs.com/labels/384540"
+    },
+    {
+      "name": "Recording Arts",
+      "catno": "",
+      "entity_type": "25",
+      "entity_type_name": "Overdubbed At",
+      "id": 64660,
+      "resource_url": "https://api.discogs.com/labels/64660",
+      "thumbnail_url": "https://i.discogs.com/adFNze3nTBJPGu4V5a4oOuD80zUtNGLooRHM-vocQd0/rs:fit/g:sm/q:90/h:227/w:290/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY0NjYw/LTE1NjQzNzQxMDMt/ODM3OC5qcGVn.jpeg"
+    },
+    {
+      "name": "Le Studio",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 271417,
+      "resource_url": "https://api.discogs.com/labels/271417",
+      "thumbnail_url": "https://i.discogs.com/TqEvdpklRxsS5e7T0L9jEd6Cq5T0TiwR7Qt-w3CkSwA/rs:fit/g:sm/q:90/h:196/w:438/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MTQx/Ny0xMzI2MDc5MjQx/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Magic Garden Mastering",
+      "catno": "",
+      "entity_type": "35",
+      "entity_type_name": "Remastered At",
+      "id": 306101,
+      "resource_url": "https://api.discogs.com/labels/306101",
+      "thumbnail_url": "https://i.discogs.com/NP1zFoCZB5ydc6EyQxm1GiAXqrF1qc4aHdKM-qlBlq8/rs:fit/g:sm/q:90/h:203/w:341/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwNjEw/MS0xMzIwNDgzODAy/LnBuZw.jpeg"
+    },
+    {
+      "name": "Universal Music Enterprises",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 276180,
+      "resource_url": "https://api.discogs.com/labels/276180",
+      "thumbnail_url": "https://i.discogs.com/sUobPfry1gSRuIE5eNUFsXRF4l_cL-IIZxpmBx0bQ40/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3NjE4/MC0xNTI4NTUyNTU3/LTk1NDkuanBlZw.jpeg"
+    },
+    {
+      "name": "Technicolor, Guadalajara, Mexico",
+      "catno": "1145359",
+      "entity_type": "31",
+      "entity_type_name": "Glass Mastered At",
+      "id": 2526427,
+      "resource_url": "https://api.discogs.com/labels/2526427",
+      "thumbnail_url": "https://i.discogs.com/FeKaAd93G3rFem-BfRFmWlArIFlwJs1bYAro1Mh7Jpg/rs:fit/g:sm/q:90/h:305/w:497/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1MjY0/MjctMTYzOTM0NDU2/OS0yMjUxLnBuZw.jpeg"
+    },
+    {
+      "name": "Technicolor, Guadalajara, Mexico",
+      "catno": "1145360",
+      "entity_type": "31",
+      "entity_type_name": "Glass Mastered At",
+      "id": 2526427,
+      "resource_url": "https://api.discogs.com/labels/2526427",
+      "thumbnail_url": "https://i.discogs.com/FeKaAd93G3rFem-BfRFmWlArIFlwJs1bYAro1Mh7Jpg/rs:fit/g:sm/q:90/h:305/w:497/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1MjY0/MjctMTYzOTM0NDU2/OS0yMjUxLnBuZw.jpeg"
+    },
+    {
+      "name": "Technicolor, Guadalajara, Mexico",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 2526427,
+      "resource_url": "https://api.discogs.com/labels/2526427",
+      "thumbnail_url": "https://i.discogs.com/FeKaAd93G3rFem-BfRFmWlArIFlwJs1bYAro1Mh7Jpg/rs:fit/g:sm/q:90/h:305/w:497/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1MjY0/MjctMTYzOTM0NDU2/OS0yMjUxLnBuZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "CD",
+      "qty": "2",
+      "descriptions": [
+        "Album",
+        "Deluxe Edition",
+        "Reissue",
+        "Remastered"
+      ],
+      "text": "25th Anniversary Diamond Edition"
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 38,
+    "want": 22,
+    "rating": {
+      "count": 4,
+      "average": 5
+    },
+    "submitter": {
+      "username": "fran_sm_89",
+      "resource_url": "https://api.discogs.com/users/fran_sm_89"
+    },
+    "contributors": [
+      {
+        "username": "fran_sm_89",
+        "resource_url": "https://api.discogs.com/users/fran_sm_89"
+      },
+      {
+        "username": "QueequegOZ",
+        "resource_url": "https://api.discogs.com/users/QueequegOZ"
+      },
+      {
+        "username": "teffjweedy",
+        "resource_url": "https://api.discogs.com/users/teffjweedy"
+      },
+      {
+        "username": "Britney-Spears",
+        "resource_url": "https://api.discogs.com/users/Britney-Spears"
+      },
+      {
+        "username": "Mad65",
+        "resource_url": "https://api.discogs.com/users/Mad65"
+      },
+      {
+        "username": "attiliuccio",
+        "resource_url": "https://api.discogs.com/users/attiliuccio"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2020-10-13T11:13:28-07:00",
+  "date_changed": "2024-04-05T09:48:54-07:00",
+  "num_for_sale": 7,
+  "lowest_price": 8,
+  "master_id": 132438,
+  "master_url": "https://api.discogs.com/masters/132438",
+  "title": "The Woman In Me",
+  "country": "US",
+  "released": "2020-10-02",
+  "notes": "Tracks 2-1 to 2-5: Live from Las Vegas.\n\n\"Disc made in Mexico\" stickered on shrink wrap near the barcode.\n",
+  "released_formatted": "02 Oct 2020",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02557 16673 6",
+      "description": "Printed"
+    },
+    {
+      "type": "Barcode",
+      "value": "602557166736",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "(1145359) B003206102CD01 01 0001",
+      "description": "CD1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "(1145360) B003206002CD02 01 0001",
+      "description": "CD2"
+    },
+    {
+      "type": "Mastering SID Code",
+      "value": "IFPI L779",
+      "description": "CD1, CD2"
+    },
+    {
+      "type": "Mould SID Code",
+      "value": "IFPI KK01",
+      "description": "CD1"
+    },
+    {
+      "type": "Mould SID Code",
+      "value": "IFPI KK7H",
+      "description": "CD2"
+    },
+    {
+      "type": "Other",
+      "value": "B0032061-02 CD01",
+      "description": "Cat# on CD1"
+    },
+    {
+      "type": "Other",
+      "value": "B0032061-02 CD02",
+      "description": "Cat# on CD2"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=XoFJbeBXuCc",
+      "title": "Shania Twain - (If You're Not In It For Love) I'm Outta Here! (Official Music Video)",
+      "description": "REMASTERED IN HD!\nThe 25th anniversary The Woman In Me: Diamond Edition is out October 2nd, get your copy: https://shaniatwain.lnk.to/TheWomanInMeDiamond\n\nMusic video by Shania Twain performing (If You're Not In It For Love) I'm Outta Here!. (C) 1995 Merc",
+      "duration": 277,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=9qZCsbczfJU",
+      "title": "Shania Twain - Home Ain't Where His Heart Is (Anymore) (Official Music Video)",
+      "description": "REMASTERED IN HD!\nThe 25th anniversary The Woman In Me: Diamond Edition is out October 2nd, get your copy: https://shaniatwain.lnk.to/TheWomanIn...\n\nMusic video by Shania Twain performing Home Ain't Where His Heart Is (Anymore). (C) 1993 Mercury Records, ",
+      "duration": 252,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=iZRA-Dwv86E",
+      "title": "Shania Twain - Whose Bed Have Your Boots Been Under (Official Music Video)",
+      "description": "REMASTERED IN HD!\nThe 25th anniversary The Woman In Me: Diamond Edition is out October 2nd, get your copy: https://shaniatwain.lnk.to/TheWomanInMeDiamond\n\nWatch the official music video for \"Whose Bed Have Your Boots Been Under\" performed by Shania Twain\n",
+      "duration": 266,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=4TEhliSh_f4",
+      "title": "Shania Twain - The Woman In Me (Needs The Man In You) (Official Music Video)",
+      "description": "REMASTERED IN HD!\nThe 25th anniversary The Woman In Me: Diamond Edition is out October 2nd, get your copy: https://shaniatwain.lnk.to/TheWomanInMeDiamond\n\nWatch the official music video for \"The Woman In Me (Needs The Man In You)” performed by Shania Tw",
+      "duration": 290,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=8N2k-gv6xNE",
+      "title": "Shania Twain - Any Man Of Mine (Official Music Video)",
+      "description": "REMASTERED IN HD!\nThe 25th anniversary The Woman In Me: Diamond Edition is out October 2nd, get your copy: https://shaniatwain.lnk.to/TheWomanInMeDiamond\n\nWatch the official music video for \"Any Man Of Mine\" performed by Shania Twain. REMASTERED IN HD!\n\nT",
+      "duration": 253,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=rxIfKpsemGo",
+      "title": "Shania Twain - You Win My Love (Official Music Video)",
+      "description": "REMASTERED IN HD!\nThe 25th anniversary The Woman In Me: Diamond Edition is out October 2nd, get your copy: https://shaniatwain.lnk.to/TheWomanInMeDiamond\n\nLyrics: \nI'm lookin' for a lover\nWho can rev his little engine up\nHe can have a '55 Chevy\nOr a fancy",
+      "duration": 272,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=681Y-UQ0LWI",
+      "title": "Shania Twain - No One Needs To Know (Official Music Video)",
+      "description": "REMASTERED IN HD!\nThe 25th anniversary The Woman In Me: Diamond Edition is out October 2nd, get your copy: https://shaniatwain.lnk.to/TheWomanInMeDiamond\n\nMusic video by Shania Twain performing No One Needs To Know. (C) 1995 Mercury Records, a Division of",
+      "duration": 226,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=vm4LSgFv2VY",
+      "title": "Shania Twain - God Bless The Child (Official Music Video)",
+      "description": "REMASTERED IN HD!\nMusic video by Shania Twain performing God Bless The Child. (C) 1997 Mercury Records\n#ShaniaTwain #GodBlessTheChild #Remastered",
+      "duration": 230,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Rock",
+    "Folk, World, & Country"
+  ],
+  "styles": [
+    "Country Rock",
+    "Pop Rock"
+  ],
+  "tracklist": [
+    {
+      "position": "1-1",
+      "type_": "track",
+      "title": "Home Ain't Where His Heart Is (Anymore)",
+      "extraartists": [
+        {
+          "name": "Brent Mason",
+          "anv": "",
+          "join": "",
+          "role": "6-String Bass",
+          "tracks": "",
+          "id": 388501,
+          "resource_url": "https://api.discogs.com/artists/388501"
+        },
+        {
+          "name": "Larry Byrom",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar",
+          "tracks": "",
+          "id": 395164,
+          "resource_url": "https://api.discogs.com/artists/395164"
+        },
+        {
+          "name": "Ronn Huff",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [String Arrangement]",
+          "tracks": "",
+          "id": 445417,
+          "resource_url": "https://api.discogs.com/artists/445417"
+        },
+        {
+          "name": "Carl Gorodetzky",
+          "anv": "",
+          "join": "",
+          "role": "Contractor",
+          "tracks": "",
+          "id": 377142,
+          "resource_url": "https://api.discogs.com/artists/377142"
+        },
+        {
+          "name": "Jeff Lippencott",
+          "anv": "",
+          "join": "",
+          "role": "Copyist",
+          "tracks": "",
+          "id": 896157,
+          "resource_url": "https://api.discogs.com/artists/896157"
+        },
+        {
+          "name": "Paul Leim",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Shaker [Shakers]",
+          "tracks": "",
+          "id": 434304,
+          "resource_url": "https://api.discogs.com/artists/434304"
+        },
+        {
+          "name": "David Hungate",
+          "anv": "",
+          "join": "",
+          "role": "Fretless Bass",
+          "tracks": "",
+          "id": 336324,
+          "resource_url": "https://api.discogs.com/artists/336324"
+        },
+        {
+          "name": "Dann Huff",
+          "anv": "",
+          "join": "",
+          "role": "Guitar [Tic-tac, Guitar Textures And Slide Solo]",
+          "tracks": "",
+          "id": 271408,
+          "resource_url": "https://api.discogs.com/artists/271408"
+        },
+        {
+          "name": "John Hughey",
+          "anv": "",
+          "join": "",
+          "role": "Pedal Steel Guitar [Pedal Steel]",
+          "tracks": "",
+          "id": 322829,
+          "resource_url": "https://api.discogs.com/artists/322829"
+        },
+        {
+          "name": "John Jarvis",
+          "anv": "John Barlow Jarvis",
+          "join": "",
+          "role": "Piano [Acoustic]",
+          "tracks": "",
+          "id": 336053,
+          "resource_url": "https://api.discogs.com/artists/336053"
+        },
+        {
+          "name": "The Nashville String Machine",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 391136,
+          "resource_url": "https://api.discogs.com/artists/391136"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        },
+        {
+          "name": "Robert John Lange",
+          "anv": "Mutt Lange",
+          "join": "",
+          "role": "Vocals [Harmonies]",
+          "tracks": "",
+          "id": 239886,
+          "resource_url": "https://api.discogs.com/artists/239886"
+        },
+        {
+          "name": "Robert John Lange",
+          "anv": "Lange",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 239886,
+          "resource_url": "https://api.discogs.com/artists/239886"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "Twain",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        }
+      ],
+      "duration": "4:12"
+    },
+    {
+      "position": "1-2",
+      "type_": "track",
+      "title": "Any Man Of Mine",
+      "extraartists": [
+        {
+          "name": "Larry Byrom",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar",
+          "tracks": "",
+          "id": 395164,
+          "resource_url": "https://api.discogs.com/artists/395164"
+        },
+        {
+          "name": "David Hungate",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 336324,
+          "resource_url": "https://api.discogs.com/artists/336324"
+        },
+        {
+          "name": "Paul Leim",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 434304,
+          "resource_url": "https://api.discogs.com/artists/434304"
+        },
+        {
+          "name": "Brent Rowan",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 548573,
+          "resource_url": "https://api.discogs.com/artists/548573"
+        },
+        {
+          "name": "Rob Hajacos",
+          "anv": "",
+          "join": "",
+          "role": "Fiddle",
+          "tracks": "",
+          "id": 405817,
+          "resource_url": "https://api.discogs.com/artists/405817"
+        },
+        {
+          "name": "Dann Huff",
+          "anv": "",
+          "join": "",
+          "role": "Guitar [Electric Solo, Wa-wa Guitar, Lead Lix], Handclaps [Claps]",
+          "tracks": "",
+          "id": 271408,
+          "resource_url": "https://api.discogs.com/artists/271408"
+        },
+        {
+          "name": "Nick Keca",
+          "anv": "",
+          "join": "",
+          "role": "Handclaps [Claps]",
+          "tracks": "",
+          "id": 886359,
+          "resource_url": "https://api.discogs.com/artists/886359"
+        },
+        {
+          "name": "Robert John Lange",
+          "anv": "Mutt Lange",
+          "join": "",
+          "role": "Handclaps [Claps], Vocals [Harmonies]",
+          "tracks": "",
+          "id": 239886,
+          "resource_url": "https://api.discogs.com/artists/239886"
+        },
+        {
+          "name": "Paul Franklin",
+          "anv": "",
+          "join": "",
+          "role": "Pedal Steel Guitar [Pedal Steel]",
+          "tracks": "",
+          "id": 255388,
+          "resource_url": "https://api.discogs.com/artists/255388"
+        },
+        {
+          "name": "Matt Rollings",
+          "anv": "",
+          "join": "",
+          "role": "Piano [Acoustic]",
+          "tracks": "",
+          "id": 255433,
+          "resource_url": "https://api.discogs.com/artists/255433"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        },
+        {
+          "name": "Robert John Lange",
+          "anv": "Lange",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 239886,
+          "resource_url": "https://api.discogs.com/artists/239886"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "Twain",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        }
+      ],
+      "duration": "4:07"
+    },
+    {
+      "position": "1-3",
+      "type_": "track",
+      "title": "Whose Bed Have Your Boots Been Under?",
+      "extraartists": [
+        {
+          "name": "David Hungate",
+          "anv": "",
+          "join": "",
+          "role": "Double Bass",
+          "tracks": "",
+          "id": 336324,
+          "resource_url": "https://api.discogs.com/artists/336324"
+        },
+        {
+          "name": "Paul Leim",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 434304,
+          "resource_url": "https://api.discogs.com/artists/434304"
+        },
+        {
+          "name": "Brent Mason",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar [Electric Guitar Lix And Solo]",
+          "tracks": "",
+          "id": 388501,
+          "resource_url": "https://api.discogs.com/artists/388501"
+        },
+        {
+          "name": "Larry Byrom",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar [Rhythm]",
+          "tracks": "",
+          "id": 395164,
+          "resource_url": "https://api.discogs.com/artists/395164"
+        },
+        {
+          "name": "Joe Spivey",
+          "anv": "",
+          "join": "",
+          "role": "Fiddle",
+          "tracks": "",
+          "id": 709378,
+          "resource_url": "https://api.discogs.com/artists/709378"
+        },
+        {
+          "name": "Dann Huff",
+          "anv": "",
+          "join": "",
+          "role": "Guitar [Tic-tac]",
+          "tracks": "",
+          "id": 271408,
+          "resource_url": "https://api.discogs.com/artists/271408"
+        },
+        {
+          "name": "John Hughey",
+          "anv": "",
+          "join": "",
+          "role": "Pedal Steel Guitar [Pedal Steel]",
+          "tracks": "",
+          "id": 322829,
+          "resource_url": "https://api.discogs.com/artists/322829"
+        },
+        {
+          "name": "Terry McMillan",
+          "anv": "",
+          "join": "",
+          "role": "Percussion [Boots]",
+          "tracks": "",
+          "id": 255435,
+          "resource_url": "https://api.discogs.com/artists/255435"
+        },
+        {
+          "name": "John Jarvis",
+          "anv": "John Barlow Jarvis",
+          "join": "",
+          "role": "Piano [Acoustic]",
+          "tracks": "",
+          "id": 336053,
+          "resource_url": "https://api.discogs.com/artists/336053"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        },
+        {
+          "name": "Robert John Lange",
+          "anv": "Mutt Lange",
+          "join": "",
+          "role": "Vocals [Harmonies]",
+          "tracks": "",
+          "id": 239886,
+          "resource_url": "https://api.discogs.com/artists/239886"
+        },
+        {
+          "name": "Robert John Lange",
+          "anv": "Lange",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 239886,
+          "resource_url": "https://api.discogs.com/artists/239886"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "Twain",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        }
+      ],
+      "duration": "4:25"
+    },
+    {
+      "position": "1-4",
+      "type_": "track",
+      "title": "(If You're Not In It For Love) I'm Outta Here!",
+      "extraartists": [
+        {
+          "name": "Larry Byrom",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar",
+          "tracks": "",
+          "id": 395164,
+          "resource_url": "https://api.discogs.com/artists/395164"
+        },
+        {
+          "name": "David Hungate",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 336324,
+          "resource_url": "https://api.discogs.com/artists/336324"
+        },
+        {
+          "name": "Paul Leim",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Percussion [Door]",
+          "tracks": "",
+          "id": 434304,
+          "resource_url": "https://api.discogs.com/artists/434304"
+        },
+        {
+          "name": "Dann Huff",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar [Electric Rhythm And Jangles]",
+          "tracks": "",
+          "id": 271408,
+          "resource_url": "https://api.discogs.com/artists/271408"
+        },
+        {
+          "name": "Rob Hajacos",
+          "anv": "",
+          "join": "",
+          "role": "Fiddle",
+          "tracks": "",
+          "id": 405817,
+          "resource_url": "https://api.discogs.com/artists/405817"
+        },
+        {
+          "name": "Nick Keca",
+          "anv": "",
+          "join": "",
+          "role": "Handclaps [Claps]",
+          "tracks": "",
+          "id": 886359,
+          "resource_url": "https://api.discogs.com/artists/886359"
+        },
+        {
+          "name": "Terry McMillan",
+          "anv": "",
+          "join": "",
+          "role": "Harmonica, Cowbell",
+          "tracks": "",
+          "id": 255435,
+          "resource_url": "https://api.discogs.com/artists/255435"
+        },
+        {
+          "name": "Robert John Lange",
+          "anv": "Mutt Lange",
+          "join": "",
+          "role": "Harmony Vocals, Handclaps [Claps]",
+          "tracks": "",
+          "id": 239886,
+          "resource_url": "https://api.discogs.com/artists/239886"
+        },
+        {
+          "name": "Brent Rowan",
+          "anv": "",
+          "join": "",
+          "role": "Lead Guitar, Soloist",
+          "tracks": "",
+          "id": 548573,
+          "resource_url": "https://api.discogs.com/artists/548573"
+        },
+        {
+          "name": "Matt Rollings",
+          "anv": "",
+          "join": "",
+          "role": "Piano [Acoustic]",
+          "tracks": "",
+          "id": 255433,
+          "resource_url": "https://api.discogs.com/artists/255433"
+        },
+        {
+          "name": "Paul Franklin",
+          "anv": "",
+          "join": "",
+          "role": "Resonator Guitar [Pedal-Bro]",
+          "tracks": "",
+          "id": 255388,
+          "resource_url": "https://api.discogs.com/artists/255388"
+        },
+        {
+          "name": "Billy Crain",
+          "anv": "",
+          "join": "",
+          "role": "Slide Guitar",
+          "tracks": "",
+          "id": 1123698,
+          "resource_url": "https://api.discogs.com/artists/1123698"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "",
+          "join": "",
+          "role": "Vocals [Harmonies], Handclaps [Claps], Percussion [Footsteps], Vocals",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        },
+        {
+          "name": "Robert John Lange",
+          "anv": "Lange",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 239886,
+          "resource_url": "https://api.discogs.com/artists/239886"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "Twain",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        }
+      ],
+      "duration": "4:30"
+    },
+    {
+      "position": "1-5",
+      "type_": "track",
+      "title": "The Woman In Me (Needs The Man In You)",
+      "extraartists": [
+        {
+          "name": "Larry Byrom",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar",
+          "tracks": "",
+          "id": 395164,
+          "resource_url": "https://api.discogs.com/artists/395164"
+        },
+        {
+          "name": "Ronn Huff",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [String Arrangement]",
+          "tracks": "",
+          "id": 445417,
+          "resource_url": "https://api.discogs.com/artists/445417"
+        },
+        {
+          "name": "Carl Gorodetzky",
+          "anv": "",
+          "join": "",
+          "role": "Contractor",
+          "tracks": "",
+          "id": 377142,
+          "resource_url": "https://api.discogs.com/artists/377142"
+        },
+        {
+          "name": "Jeff Lippencott",
+          "anv": "",
+          "join": "",
+          "role": "Copyist",
+          "tracks": "",
+          "id": 896157,
+          "resource_url": "https://api.discogs.com/artists/896157"
+        },
+        {
+          "name": "Paul Leim",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Percussion",
+          "tracks": "",
+          "id": 434304,
+          "resource_url": "https://api.discogs.com/artists/434304"
+        },
+        {
+          "name": "Brent Mason",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 388501,
+          "resource_url": "https://api.discogs.com/artists/388501"
+        },
+        {
+          "name": "Brent Rowan",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar [Electric Guitar Textures And Lix]",
+          "tracks": "",
+          "id": 548573,
+          "resource_url": "https://api.discogs.com/artists/548573"
+        },
+        {
+          "name": "David Hungate",
+          "anv": "",
+          "join": "",
+          "role": "Fretless Bass",
+          "tracks": "",
+          "id": 336324,
+          "resource_url": "https://api.discogs.com/artists/336324"
+        },
+        {
+          "name": "John Hughey",
+          "anv": "",
+          "join": "",
+          "role": "Pedal Steel Guitar [Pedal Steel]",
+          "tracks": "",
+          "id": 322829,
+          "resource_url": "https://api.discogs.com/artists/322829"
+        },
+        {
+          "name": "John Jarvis",
+          "anv": "John Barlow Jarvis",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 336053,
+          "resource_url": "https://api.discogs.com/artists/336053"
+        },
+        {
+          "name": "The Nashville String Machine",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 391136,
+          "resource_url": "https://api.discogs.com/artists/391136"
+        },
+        {
+          "name": "Robert John Lange",
+          "anv": "Mutt Lange",
+          "join": "",
+          "role": "Vocals [Harmonies]",
+          "tracks": "",
+          "id": 239886,
+          "resource_url": "https://api.discogs.com/artists/239886"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "",
+          "join": "",
+          "role": "Vocals [Harmonies], Vocals",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        },
+        {
+          "name": "Robert John Lange",
+          "anv": "Lange",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 239886,
+          "resource_url": "https://api.discogs.com/artists/239886"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "Twain",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        }
+      ],
+      "duration": "4:50"
+    },
+    {
+      "position": "1-6",
+      "type_": "track",
+      "title": "Is There Life After Love?",
+      "extraartists": [
+        {
+          "name": "Brent Mason",
+          "anv": "",
+          "join": "",
+          "role": "6-String Bass",
+          "tracks": "",
+          "id": 388501,
+          "resource_url": "https://api.discogs.com/artists/388501"
+        },
+        {
+          "name": "Larry Byrom",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar",
+          "tracks": "",
+          "id": 395164,
+          "resource_url": "https://api.discogs.com/artists/395164"
+        },
+        {
+          "name": "Ronn Huff",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [String Arrangement]",
+          "tracks": "",
+          "id": 445417,
+          "resource_url": "https://api.discogs.com/artists/445417"
+        },
+        {
+          "name": "David Hungate",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 336324,
+          "resource_url": "https://api.discogs.com/artists/336324"
+        },
+        {
+          "name": "Carl Gorodetzky",
+          "anv": "",
+          "join": "",
+          "role": "Contractor",
+          "tracks": "",
+          "id": 377142,
+          "resource_url": "https://api.discogs.com/artists/377142"
+        },
+        {
+          "name": "Jeff Lippencott",
+          "anv": "",
+          "join": "",
+          "role": "Copyist",
+          "tracks": "",
+          "id": 896157,
+          "resource_url": "https://api.discogs.com/artists/896157"
+        },
+        {
+          "name": "Paul Leim",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Tambourine",
+          "tracks": "",
+          "id": 434304,
+          "resource_url": "https://api.discogs.com/artists/434304"
+        },
+        {
+          "name": "Rob Hajacos",
+          "anv": "",
+          "join": "",
+          "role": "Fiddle",
+          "tracks": "",
+          "id": 405817,
+          "resource_url": "https://api.discogs.com/artists/405817"
+        },
+        {
+          "name": "Dann Huff",
+          "anv": "",
+          "join": "",
+          "role": "Guitar [Tic-tac, Guitar Textures And Lix]",
+          "tracks": "",
+          "id": 271408,
+          "resource_url": "https://api.discogs.com/artists/271408"
+        },
+        {
+          "name": "Sam Bush",
+          "anv": "",
+          "join": "",
+          "role": "Mandolin",
+          "tracks": "",
+          "id": 577062,
+          "resource_url": "https://api.discogs.com/artists/577062"
+        },
+        {
+          "name": "John Hughey",
+          "anv": "",
+          "join": "",
+          "role": "Pedal Steel Guitar [Pedal Steel]",
+          "tracks": "",
+          "id": 322829,
+          "resource_url": "https://api.discogs.com/artists/322829"
+        },
+        {
+          "name": "Hargus Robbins",
+          "anv": "Hargus \"Pig\" Robbins",
+          "join": "",
+          "role": "Piano [Acoustic]",
+          "tracks": "",
+          "id": 405831,
+          "resource_url": "https://api.discogs.com/artists/405831"
+        },
+        {
+          "name": "The Nashville String Machine",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 391136,
+          "resource_url": "https://api.discogs.com/artists/391136"
+        },
+        {
+          "name": "Robert John Lange",
+          "anv": "Mutt Lange",
+          "join": "",
+          "role": "Vocals [Harmonies]",
+          "tracks": "",
+          "id": 239886,
+          "resource_url": "https://api.discogs.com/artists/239886"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "",
+          "join": "",
+          "role": "Vocals [Harmonies], Vocals",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        },
+        {
+          "name": "Robert John Lange",
+          "anv": "Lange",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 239886,
+          "resource_url": "https://api.discogs.com/artists/239886"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "Twain",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        }
+      ],
+      "duration": "4:39"
+    },
+    {
+      "position": "1-7",
+      "type_": "track",
+      "title": "If It Don't Take Two",
+      "extraartists": [
+        {
+          "name": "David Hungate",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 336324,
+          "resource_url": "https://api.discogs.com/artists/336324"
+        },
+        {
+          "name": "Paul Leim",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 434304,
+          "resource_url": "https://api.discogs.com/artists/434304"
+        },
+        {
+          "name": "Brent Rowan",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar",
+          "tracks": "",
+          "id": 548573,
+          "resource_url": "https://api.discogs.com/artists/548573"
+        },
+        {
+          "name": "Dann Huff",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar [Electric Guitar Rhythm and Wa-wa and Jangles]",
+          "tracks": "",
+          "id": 271408,
+          "resource_url": "https://api.discogs.com/artists/271408"
+        },
+        {
+          "name": "Larry Byrom",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar [Electric Rhythm]",
+          "tracks": "",
+          "id": 395164,
+          "resource_url": "https://api.discogs.com/artists/395164"
+        },
+        {
+          "name": "Glen Duncan",
+          "anv": "",
+          "join": "",
+          "role": "Fiddle [Fiddle Lix], Soloist",
+          "tracks": "",
+          "id": 626758,
+          "resource_url": "https://api.discogs.com/artists/626758"
+        },
+        {
+          "name": "Rob Hajacos",
+          "anv": "",
+          "join": "",
+          "role": "Fiddle [Rhythm]",
+          "tracks": "",
+          "id": 405817,
+          "resource_url": "https://api.discogs.com/artists/405817"
+        },
+        {
+          "name": "Brent Mason",
+          "anv": "",
+          "join": "",
+          "role": "Guitar [Guitar Lix], Soloist",
+          "tracks": "",
+          "id": 388501,
+          "resource_url": "https://api.discogs.com/artists/388501"
+        },
+        {
+          "name": "Terry McMillan",
+          "anv": "",
+          "join": "",
+          "role": "Harmonica",
+          "tracks": "",
+          "id": 255435,
+          "resource_url": "https://api.discogs.com/artists/255435"
+        },
+        {
+          "name": "Paul Franklin",
+          "anv": "",
+          "join": "",
+          "role": "Pedal Steel Guitar [Pedal Steel]",
+          "tracks": "",
+          "id": 255388,
+          "resource_url": "https://api.discogs.com/artists/255388"
+        },
+        {
+          "name": "Matt Rollings",
+          "anv": "",
+          "join": "",
+          "role": "Piano [Acoustic], Electric Piano",
+          "tracks": "",
+          "id": 255433,
+          "resource_url": "https://api.discogs.com/artists/255433"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        },
+        {
+          "name": "Robert John Lange",
+          "anv": "Mutt Lange",
+          "join": "",
+          "role": "Vocals [Harmonies]",
+          "tracks": "",
+          "id": 239886,
+          "resource_url": "https://api.discogs.com/artists/239886"
+        },
+        {
+          "name": "Robert John Lange",
+          "anv": "Lange",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 239886,
+          "resource_url": "https://api.discogs.com/artists/239886"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "Twain",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        }
+      ],
+      "duration": "3:40"
+    },
+    {
+      "position": "1-8",
+      "type_": "track",
+      "title": "You Win My Love",
+      "extraartists": [
+        {
+          "name": "David Hungate",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 336324,
+          "resource_url": "https://api.discogs.com/artists/336324"
+        },
+        {
+          "name": "Paul Leim",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 434304,
+          "resource_url": "https://api.discogs.com/artists/434304"
+        },
+        {
+          "name": "Dann Huff",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar [All Electric Rhythm]",
+          "tracks": "",
+          "id": 271408,
+          "resource_url": "https://api.discogs.com/artists/271408"
+        },
+        {
+          "name": "Brent Mason",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar, Soloist",
+          "tracks": "",
+          "id": 388501,
+          "resource_url": "https://api.discogs.com/artists/388501"
+        },
+        {
+          "name": "Rob Hajacos",
+          "anv": "",
+          "join": "",
+          "role": "Fiddle",
+          "tracks": "",
+          "id": 405817,
+          "resource_url": "https://api.discogs.com/artists/405817"
+        },
+        {
+          "name": "Brent Rowan",
+          "anv": "",
+          "join": "",
+          "role": "Guitar [Jangle Guitar And Lix]",
+          "tracks": "",
+          "id": 548573,
+          "resource_url": "https://api.discogs.com/artists/548573"
+        },
+        {
+          "name": "Paul Franklin",
+          "anv": "",
+          "join": "",
+          "role": "Pedal Steel Guitar [Pedal Steel]",
+          "tracks": "",
+          "id": 255388,
+          "resource_url": "https://api.discogs.com/artists/255388"
+        },
+        {
+          "name": "Matt Rollings",
+          "anv": "",
+          "join": "",
+          "role": "Piano [Acoustic]",
+          "tracks": "",
+          "id": 255433,
+          "resource_url": "https://api.discogs.com/artists/255433"
+        },
+        {
+          "name": "Robert John Lange",
+          "anv": "Mutt Lange",
+          "join": "",
+          "role": "Vocals [Harmonies]",
+          "tracks": "",
+          "id": 239886,
+          "resource_url": "https://api.discogs.com/artists/239886"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "",
+          "join": "",
+          "role": "Vocals [Harmonies], Vocals",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        },
+        {
+          "name": "Robert John Lange",
+          "anv": "Lange",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 239886,
+          "resource_url": "https://api.discogs.com/artists/239886"
+        }
+      ],
+      "duration": "4:26"
+    },
+    {
+      "position": "1-9",
+      "type_": "track",
+      "title": "Raining On Our Love",
+      "extraartists": [
+        {
+          "name": "Larry Byrom",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar",
+          "tracks": "",
+          "id": 395164,
+          "resource_url": "https://api.discogs.com/artists/395164"
+        },
+        {
+          "name": "Brent Rowan",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar, Electric Guitar [Textures], 6-String Bass",
+          "tracks": "",
+          "id": 548573,
+          "resource_url": "https://api.discogs.com/artists/548573"
+        },
+        {
+          "name": "Ronn Huff",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [String Arrangement]",
+          "tracks": "",
+          "id": 445417,
+          "resource_url": "https://api.discogs.com/artists/445417"
+        },
+        {
+          "name": "David Hungate",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 336324,
+          "resource_url": "https://api.discogs.com/artists/336324"
+        },
+        {
+          "name": "Carl Gorodetzky",
+          "anv": "",
+          "join": "",
+          "role": "Contractor",
+          "tracks": "",
+          "id": 377142,
+          "resource_url": "https://api.discogs.com/artists/377142"
+        },
+        {
+          "name": "Jeff Lippencott",
+          "anv": "",
+          "join": "",
+          "role": "Copyist",
+          "tracks": "",
+          "id": 896157,
+          "resource_url": "https://api.discogs.com/artists/896157"
+        },
+        {
+          "name": "Paul Leim",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 434304,
+          "resource_url": "https://api.discogs.com/artists/434304"
+        },
+        {
+          "name": "Dann Huff",
+          "anv": "",
+          "join": "",
+          "role": "Guitar [Tic-tac], Electric Guitar [Lix]",
+          "tracks": "",
+          "id": 271408,
+          "resource_url": "https://api.discogs.com/artists/271408"
+        },
+        {
+          "name": "Paul Franklin",
+          "anv": "",
+          "join": "",
+          "role": "Pedal Steel Guitar [Pedal Steel], Resonator Guitar [Pedal-Bro]",
+          "tracks": "",
+          "id": 255388,
+          "resource_url": "https://api.discogs.com/artists/255388"
+        },
+        {
+          "name": "Terry McMillan",
+          "anv": "",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 255435,
+          "resource_url": "https://api.discogs.com/artists/255435"
+        },
+        {
+          "name": "Hargus Robbins",
+          "anv": "Hargus \"Pig\" Robbins",
+          "join": "",
+          "role": "Piano [Acoustic]",
+          "tracks": "",
+          "id": 405831,
+          "resource_url": "https://api.discogs.com/artists/405831"
+        },
+        {
+          "name": "The Nashville String Machine",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 391136,
+          "resource_url": "https://api.discogs.com/artists/391136"
+        },
+        {
+          "name": "Robert John Lange",
+          "anv": "Mutt Lange",
+          "join": "",
+          "role": "Vocals [Harmonies]",
+          "tracks": "",
+          "id": 239886,
+          "resource_url": "https://api.discogs.com/artists/239886"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "",
+          "join": "",
+          "role": "Vocals [Harmonies], Vocals",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        },
+        {
+          "name": "Robert John Lange",
+          "anv": "Lange",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 239886,
+          "resource_url": "https://api.discogs.com/artists/239886"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "Twain",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        }
+      ],
+      "duration": "4:38"
+    },
+    {
+      "position": "1-10",
+      "type_": "track",
+      "title": "Leaving Is The Only Way Out",
+      "extraartists": [
+        {
+          "name": "Larry Byrom",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar",
+          "tracks": "",
+          "id": 395164,
+          "resource_url": "https://api.discogs.com/artists/395164"
+        },
+        {
+          "name": "Ronn Huff",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [String Arrangement]",
+          "tracks": "",
+          "id": 445417,
+          "resource_url": "https://api.discogs.com/artists/445417"
+        },
+        {
+          "name": "David Hungate",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 336324,
+          "resource_url": "https://api.discogs.com/artists/336324"
+        },
+        {
+          "name": "Jeff Lippencott",
+          "anv": "",
+          "join": "",
+          "role": "Copyist",
+          "tracks": "",
+          "id": 896157,
+          "resource_url": "https://api.discogs.com/artists/896157"
+        },
+        {
+          "name": "Paul Leim",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 434304,
+          "resource_url": "https://api.discogs.com/artists/434304"
+        },
+        {
+          "name": "Brent Rowan",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar [Electric Textures]",
+          "tracks": "",
+          "id": 548573,
+          "resource_url": "https://api.discogs.com/artists/548573"
+        },
+        {
+          "name": "Dann Huff",
+          "anv": "",
+          "join": "",
+          "role": "Guitar [Tic-tac], Electric Guitar, Guitar [Textures]",
+          "tracks": "",
+          "id": 271408,
+          "resource_url": "https://api.discogs.com/artists/271408"
+        },
+        {
+          "name": "John Hughey",
+          "anv": "",
+          "join": "",
+          "role": "Pedal Steel Guitar [Pedal Steel]",
+          "tracks": "",
+          "id": 322829,
+          "resource_url": "https://api.discogs.com/artists/322829"
+        },
+        {
+          "name": "Hargus Robbins",
+          "anv": "Hargus \"Pig\" Robbins",
+          "join": "",
+          "role": "Piano [Acoustic]",
+          "tracks": "",
+          "id": 405831,
+          "resource_url": "https://api.discogs.com/artists/405831"
+        },
+        {
+          "name": "The Nashville String Machine",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 391136,
+          "resource_url": "https://api.discogs.com/artists/391136"
+        },
+        {
+          "name": "Robert John Lange",
+          "anv": "Mutt Lange",
+          "join": "",
+          "role": "Vocals [Harmonies]",
+          "tracks": "",
+          "id": 239886,
+          "resource_url": "https://api.discogs.com/artists/239886"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "",
+          "join": "",
+          "role": "Vocals [Harmonies], Vocals",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "Twain",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        }
+      ],
+      "duration": "4:07"
+    },
+    {
+      "position": "1-11",
+      "type_": "track",
+      "title": "No One Needs To Know",
+      "extraartists": [
+        {
+          "name": "Larry Byrom",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar",
+          "tracks": "",
+          "id": 395164,
+          "resource_url": "https://api.discogs.com/artists/395164"
+        },
+        {
+          "name": "David Hungate",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 336324,
+          "resource_url": "https://api.discogs.com/artists/336324"
+        },
+        {
+          "name": "Paul Leim",
+          "anv": "",
+          "join": "",
+          "role": "Drums, Percussion",
+          "tracks": "",
+          "id": 434304,
+          "resource_url": "https://api.discogs.com/artists/434304"
+        },
+        {
+          "name": "Brent Mason",
+          "anv": "",
+          "join": "",
+          "role": "Electric Guitar [Electric Guitar Rhythm And Lix]",
+          "tracks": "",
+          "id": 388501,
+          "resource_url": "https://api.discogs.com/artists/388501"
+        },
+        {
+          "name": "John Jarvis",
+          "anv": "John Barlow Jarvis",
+          "join": "",
+          "role": "Electric Piano [Wurlitzer]",
+          "tracks": "",
+          "id": 336053,
+          "resource_url": "https://api.discogs.com/artists/336053"
+        },
+        {
+          "name": "Glen Duncan",
+          "anv": "",
+          "join": "",
+          "role": "Fiddle [Fiddle Rhythm]",
+          "tracks": "",
+          "id": 626758,
+          "resource_url": "https://api.discogs.com/artists/626758"
+        },
+        {
+          "name": "Dann Huff",
+          "anv": "",
+          "join": "",
+          "role": "Guitar [Tic-tac And Jangles]",
+          "tracks": "",
+          "id": 271408,
+          "resource_url": "https://api.discogs.com/artists/271408"
+        },
+        {
+          "name": "Robert John Lange",
+          "anv": "Mutt Lange",
+          "join": "",
+          "role": "Harmony Vocals",
+          "tracks": "",
+          "id": 239886,
+          "resource_url": "https://api.discogs.com/artists/239886"
+        },
+        {
+          "name": "Terry McMillan",
+          "anv": "",
+          "join": "",
+          "role": "Harp",
+          "tracks": "",
+          "id": 255435,
+          "resource_url": "https://api.discogs.com/artists/255435"
+        },
+        {
+          "name": "John Hughey",
+          "anv": "",
+          "join": "",
+          "role": "Pedal Steel Guitar [Pedal Steel]",
+          "tracks": "",
+          "id": 322829,
+          "resource_url": "https://api.discogs.com/artists/322829"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        },
+        {
+          "name": "Robert John Lange",
+          "anv": "Lange",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 239886,
+          "resource_url": "https://api.discogs.com/artists/239886"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "Twain",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        }
+      ],
+      "duration": "3:04"
+    },
+    {
+      "position": "1-12",
+      "type_": "track",
+      "title": "God Bless The Child",
+      "extraartists": [
+        {
+          "name": "Shania Twain",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        },
+        {
+          "name": "Robert John Lange",
+          "anv": "Lange",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 239886,
+          "resource_url": "https://api.discogs.com/artists/239886"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "Twain",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        }
+      ],
+      "duration": "1:30"
+    },
+    {
+      "position": "2-1",
+      "type_": "track",
+      "title": "You Win My Love",
+      "extraartists": [
+        {
+          "name": "Holly Petrie",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar, Shaker, Backing Vocals",
+          "tracks": "",
+          "id": 1253212,
+          "resource_url": "https://api.discogs.com/artists/1253212"
+        },
+        {
+          "name": "Derek Frank",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 438620,
+          "resource_url": "https://api.discogs.com/artists/438620"
+        },
+        {
+          "name": "Elijah Wood (2)",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 1767977,
+          "resource_url": "https://api.discogs.com/artists/1767977"
+        },
+        {
+          "name": "Cory Churko",
+          "anv": "",
+          "join": "",
+          "role": "Fiddle, Lead Guitar, Backing Vocals",
+          "tracks": "",
+          "id": 376021,
+          "resource_url": "https://api.discogs.com/artists/376021"
+        },
+        {
+          "name": "Josh Gooch",
+          "anv": "Joshua Ray Gooch",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 5948399,
+          "resource_url": "https://api.discogs.com/artists/5948399"
+        },
+        {
+          "name": "Chandra Meibalane",
+          "anv": "",
+          "join": "",
+          "role": "Strings, Fiddle, Keyboards",
+          "tracks": "",
+          "id": 8209323,
+          "resource_url": "https://api.discogs.com/artists/8209323"
+        },
+        {
+          "name": "Brendan Reilly",
+          "anv": "",
+          "join": "",
+          "role": "Tambourine, Backing Vocals",
+          "tracks": "",
+          "id": 958752,
+          "resource_url": "https://api.discogs.com/artists/958752"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "2-2",
+      "type_": "track",
+      "title": "No One Needs To Know",
+      "extraartists": [
+        {
+          "name": "Holly Petrie",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar, Shaker, Backing Vocals",
+          "tracks": "",
+          "id": 1253212,
+          "resource_url": "https://api.discogs.com/artists/1253212"
+        },
+        {
+          "name": "Derek Frank",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 438620,
+          "resource_url": "https://api.discogs.com/artists/438620"
+        },
+        {
+          "name": "Elijah Wood (2)",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 1767977,
+          "resource_url": "https://api.discogs.com/artists/1767977"
+        },
+        {
+          "name": "Cory Churko",
+          "anv": "",
+          "join": "",
+          "role": "Fiddle, Lead Guitar, Backing Vocals",
+          "tracks": "",
+          "id": 376021,
+          "resource_url": "https://api.discogs.com/artists/376021"
+        },
+        {
+          "name": "Josh Gooch",
+          "anv": "Joshua Ray Gooch",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 5948399,
+          "resource_url": "https://api.discogs.com/artists/5948399"
+        },
+        {
+          "name": "Chandra Meibalane",
+          "anv": "",
+          "join": "",
+          "role": "Strings, Fiddle, Keyboards",
+          "tracks": "",
+          "id": 8209323,
+          "resource_url": "https://api.discogs.com/artists/8209323"
+        },
+        {
+          "name": "Brendan Reilly",
+          "anv": "",
+          "join": "",
+          "role": "Tambourine, Backing Vocals",
+          "tracks": "",
+          "id": 958752,
+          "resource_url": "https://api.discogs.com/artists/958752"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "2-3",
+      "type_": "track",
+      "title": "Any Man Of Mine",
+      "extraartists": [
+        {
+          "name": "Holly Petrie",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar, Shaker, Backing Vocals",
+          "tracks": "",
+          "id": 1253212,
+          "resource_url": "https://api.discogs.com/artists/1253212"
+        },
+        {
+          "name": "Derek Frank",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 438620,
+          "resource_url": "https://api.discogs.com/artists/438620"
+        },
+        {
+          "name": "Elijah Wood (2)",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 1767977,
+          "resource_url": "https://api.discogs.com/artists/1767977"
+        },
+        {
+          "name": "Cory Churko",
+          "anv": "",
+          "join": "",
+          "role": "Fiddle, Lead Guitar, Backing Vocals",
+          "tracks": "",
+          "id": 376021,
+          "resource_url": "https://api.discogs.com/artists/376021"
+        },
+        {
+          "name": "Josh Gooch",
+          "anv": "Joshua Ray Gooch",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 5948399,
+          "resource_url": "https://api.discogs.com/artists/5948399"
+        },
+        {
+          "name": "Chandra Meibalane",
+          "anv": "",
+          "join": "",
+          "role": "Strings, Fiddle, Keyboards",
+          "tracks": "",
+          "id": 8209323,
+          "resource_url": "https://api.discogs.com/artists/8209323"
+        },
+        {
+          "name": "Brendan Reilly",
+          "anv": "",
+          "join": "",
+          "role": "Tambourine, Backing Vocals",
+          "tracks": "",
+          "id": 958752,
+          "resource_url": "https://api.discogs.com/artists/958752"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "2-4",
+      "type_": "track",
+      "title": "Whose Bed Have Your Boots Been Under",
+      "extraartists": [
+        {
+          "name": "Holly Petrie",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar, Shaker, Backing Vocals",
+          "tracks": "",
+          "id": 1253212,
+          "resource_url": "https://api.discogs.com/artists/1253212"
+        },
+        {
+          "name": "Derek Frank",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 438620,
+          "resource_url": "https://api.discogs.com/artists/438620"
+        },
+        {
+          "name": "Elijah Wood (2)",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 1767977,
+          "resource_url": "https://api.discogs.com/artists/1767977"
+        },
+        {
+          "name": "Cory Churko",
+          "anv": "",
+          "join": "",
+          "role": "Fiddle, Lead Guitar, Backing Vocals",
+          "tracks": "",
+          "id": 376021,
+          "resource_url": "https://api.discogs.com/artists/376021"
+        },
+        {
+          "name": "Josh Gooch",
+          "anv": "Joshua Ray Gooch",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 5948399,
+          "resource_url": "https://api.discogs.com/artists/5948399"
+        },
+        {
+          "name": "Chandra Meibalane",
+          "anv": "",
+          "join": "",
+          "role": "Strings, Fiddle, Keyboards",
+          "tracks": "",
+          "id": 8209323,
+          "resource_url": "https://api.discogs.com/artists/8209323"
+        },
+        {
+          "name": "Brendan Reilly",
+          "anv": "",
+          "join": "",
+          "role": "Tambourine, Backing Vocals",
+          "tracks": "",
+          "id": 958752,
+          "resource_url": "https://api.discogs.com/artists/958752"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "2-5",
+      "type_": "track",
+      "title": "(If You’re Not In It For Love) I’m Outta Here",
+      "extraartists": [
+        {
+          "name": "Holly Petrie",
+          "anv": "",
+          "join": "",
+          "role": "Acoustic Guitar, Shaker, Backing Vocals",
+          "tracks": "",
+          "id": 1253212,
+          "resource_url": "https://api.discogs.com/artists/1253212"
+        },
+        {
+          "name": "Derek Frank",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 438620,
+          "resource_url": "https://api.discogs.com/artists/438620"
+        },
+        {
+          "name": "Elijah Wood (2)",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 1767977,
+          "resource_url": "https://api.discogs.com/artists/1767977"
+        },
+        {
+          "name": "Cory Churko",
+          "anv": "",
+          "join": "",
+          "role": "Fiddle, Lead Guitar, Backing Vocals",
+          "tracks": "",
+          "id": 376021,
+          "resource_url": "https://api.discogs.com/artists/376021"
+        },
+        {
+          "name": "Josh Gooch",
+          "anv": "Joshua Ray Gooch",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 5948399,
+          "resource_url": "https://api.discogs.com/artists/5948399"
+        },
+        {
+          "name": "Chandra Meibalane",
+          "anv": "",
+          "join": "",
+          "role": "Strings, Fiddle, Keyboards",
+          "tracks": "",
+          "id": 8209323,
+          "resource_url": "https://api.discogs.com/artists/8209323"
+        },
+        {
+          "name": "Brendan Reilly",
+          "anv": "",
+          "join": "",
+          "role": "Tambourine, Backing Vocals",
+          "tracks": "",
+          "id": 958752,
+          "resource_url": "https://api.discogs.com/artists/958752"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "2-6",
+      "type_": "track",
+      "title": "Whose Bed Have Your Boots Been Under (Dance Mix)",
+      "duration": ""
+    },
+    {
+      "position": "2-7",
+      "type_": "track",
+      "title": "Any Man Of Mine (Alternate Mix - Without Steel Guitar)",
+      "duration": ""
+    },
+    {
+      "position": "2-8",
+      "type_": "track",
+      "title": "The Woman In Me (Needs The Man In You) (International Acoustic Version - Without Steel Guitar)",
+      "duration": ""
+    },
+    {
+      "position": "2-9",
+      "type_": "track",
+      "title": "(If You’re Not In It For Love) I’m Outta Here (Dance Mix)",
+      "duration": ""
+    },
+    {
+      "position": "2-10",
+      "type_": "track",
+      "title": "(If You’re Not In It For Love) I’m Outta Here (Mutt Lange Mix)",
+      "extraartists": [
+        {
+          "name": "Mutt (8)",
+          "anv": "Mutt Lange",
+          "join": "",
+          "role": "Remix",
+          "tracks": "",
+          "id": 3482236,
+          "resource_url": "https://api.discogs.com/artists/3482236"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "2-11",
+      "type_": "track",
+      "title": "You Win My Love (Mutt Lange Mix)",
+      "extraartists": [
+        {
+          "name": "Mutt (8)",
+          "anv": "Mutt Lange",
+          "join": "",
+          "role": "Remix",
+          "tracks": "",
+          "id": 3482236,
+          "resource_url": "https://api.discogs.com/artists/3482236"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "2-12",
+      "type_": "track",
+      "title": "God Bless The Child (Single Mix - Country Version)",
+      "duration": ""
+    },
+    {
+      "position": "2-13",
+      "type_": "track",
+      "title": "God Bless The Child (Single Mix - Without Banjo)",
+      "duration": ""
+    },
+    {
+      "position": "2-14",
+      "type_": "track",
+      "title": "(If You’re Not In It For Love) I’m Outta Here (Live - DirecTV Mix)",
+      "extraartists": [
+        {
+          "name": "Andy Cichon",
+          "anv": "",
+          "join": "",
+          "role": "Bass Guitar",
+          "tracks": "",
+          "id": 423725,
+          "resource_url": "https://api.discogs.com/artists/423725"
+        },
+        {
+          "name": "JD Blair",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 1091578,
+          "resource_url": "https://api.discogs.com/artists/1091578"
+        },
+        {
+          "name": "Roddy Chong",
+          "anv": "",
+          "join": "",
+          "role": "Fiddle, Guitar, Mandolin",
+          "tracks": "",
+          "id": 1831293,
+          "resource_url": "https://api.discogs.com/artists/1831293"
+        },
+        {
+          "name": "Allison Cornell",
+          "anv": "",
+          "join": "",
+          "role": "Fiddle, Mandolin, Keyboards",
+          "tracks": "",
+          "id": 273104,
+          "resource_url": "https://api.discogs.com/artists/273104"
+        },
+        {
+          "name": "Brent Barcus",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 1369764,
+          "resource_url": "https://api.discogs.com/artists/1369764"
+        },
+        {
+          "name": "Randall Waller",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 511155,
+          "resource_url": "https://api.discogs.com/artists/511155"
+        },
+        {
+          "name": "Cory Churko",
+          "anv": "",
+          "join": "",
+          "role": "Guitar, Mandolin, Fiddle",
+          "tracks": "",
+          "id": 376021,
+          "resource_url": "https://api.discogs.com/artists/376021"
+        },
+        {
+          "name": "Hardy Hemphill",
+          "anv": "",
+          "join": "",
+          "role": "Keyboards, Harmonica, Percussion",
+          "tracks": "",
+          "id": 458628,
+          "resource_url": "https://api.discogs.com/artists/458628"
+        },
+        {
+          "name": "Marc Muller",
+          "anv": "",
+          "join": "",
+          "role": "Lap Steel Guitar, Pedal Steel Guitar",
+          "tracks": "",
+          "id": 675454,
+          "resource_url": "https://api.discogs.com/artists/675454"
+        },
+        {
+          "name": "Marcus High School Band",
+          "anv": "Marcus High School Drumline",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 5133324,
+          "resource_url": "https://api.discogs.com/artists/5133324"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "2-15",
+      "type_": "track",
+      "title": "Home Ain’t Where His Heart Is (Anymore)/The Woman In Me (Needs The Man In You)/You’ve Got A Way (Medley - DirecTV Mix)",
+      "extraartists": [
+        {
+          "name": "Andy Cichon",
+          "anv": "",
+          "join": "",
+          "role": "Bass Guitar",
+          "tracks": "",
+          "id": 423725,
+          "resource_url": "https://api.discogs.com/artists/423725"
+        },
+        {
+          "name": "JD Blair",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 1091578,
+          "resource_url": "https://api.discogs.com/artists/1091578"
+        },
+        {
+          "name": "Roddy Chong",
+          "anv": "",
+          "join": "",
+          "role": "Fiddle, Guitar, Mandolin",
+          "tracks": "",
+          "id": 1831293,
+          "resource_url": "https://api.discogs.com/artists/1831293"
+        },
+        {
+          "name": "Allison Cornell",
+          "anv": "",
+          "join": "",
+          "role": "Fiddle, Mandolin, Keyboards",
+          "tracks": "",
+          "id": 273104,
+          "resource_url": "https://api.discogs.com/artists/273104"
+        },
+        {
+          "name": "Brent Barcus",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 1369764,
+          "resource_url": "https://api.discogs.com/artists/1369764"
+        },
+        {
+          "name": "Randall Waller",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 511155,
+          "resource_url": "https://api.discogs.com/artists/511155"
+        },
+        {
+          "name": "Cory Churko",
+          "anv": "",
+          "join": "",
+          "role": "Guitar, Mandolin, Fiddle",
+          "tracks": "",
+          "id": 376021,
+          "resource_url": "https://api.discogs.com/artists/376021"
+        },
+        {
+          "name": "Hardy Hemphill",
+          "anv": "",
+          "join": "",
+          "role": "Keyboards, Harmonica, Percussion",
+          "tracks": "",
+          "id": 458628,
+          "resource_url": "https://api.discogs.com/artists/458628"
+        },
+        {
+          "name": "Marc Muller",
+          "anv": "",
+          "join": "",
+          "role": "Lap Steel Guitar, Pedal Steel Guitar",
+          "tracks": "",
+          "id": 675454,
+          "resource_url": "https://api.discogs.com/artists/675454"
+        },
+        {
+          "name": "Marcus High School Band",
+          "anv": "Marcus High School Drumline",
+          "join": "",
+          "role": "Percussion",
+          "tracks": "",
+          "id": 5133324,
+          "resource_url": "https://api.discogs.com/artists/5133324"
+        },
+        {
+          "name": "Shania Twain",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 130060,
+          "resource_url": "https://api.discogs.com/artists/130060"
+        }
+      ],
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Darren Evans (2)",
+      "anv": "",
+      "join": "",
+      "role": "Design [Reissue Design]",
+      "tracks": "",
+      "id": 1856469,
+      "resource_url": "https://api.discogs.com/artists/1856469"
+    },
+    {
+      "name": "Lynn Peterzell",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 501572,
+      "resource_url": "https://api.discogs.com/artists/501572"
+    },
+    {
+      "name": "Nick Keca",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 886359,
+      "resource_url": "https://api.discogs.com/artists/886359"
+    },
+    {
+      "name": "Ron Reynolds",
+      "anv": "Ron \"Snake\" Reynolds",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "1-1 to 1-12",
+      "id": 522251,
+      "resource_url": "https://api.discogs.com/artists/522251"
+    },
+    {
+      "name": "Graig White",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant]",
+      "tracks": "1-1 to 1-12",
+      "id": 2992345,
+      "resource_url": "https://api.discogs.com/artists/2992345"
+    },
+    {
+      "name": "Simon Pressey",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant]",
+      "tracks": "",
+      "id": 385834,
+      "resource_url": "https://api.discogs.com/artists/385834"
+    },
+    {
+      "name": "Robert Charles",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Overdubs, Assistant]",
+      "tracks": "",
+      "id": 445418,
+      "resource_url": "https://api.discogs.com/artists/445418"
+    },
+    {
+      "name": "Wayne Morgan",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Overdubs, Assistant]",
+      "tracks": "",
+      "id": 984030,
+      "resource_url": "https://api.discogs.com/artists/984030"
+    },
+    {
+      "name": "Brian Tankersley",
+      "anv": "Brian Tankersly",
+      "join": "",
+      "role": "Engineer [Overdubs]",
+      "tracks": "",
+      "id": 133512,
+      "resource_url": "https://api.discogs.com/artists/133512"
+    },
+    {
+      "name": "Lee Groitzsch",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Overdubs]",
+      "tracks": "",
+      "id": 515132,
+      "resource_url": "https://api.discogs.com/artists/515132"
+    },
+    {
+      "name": "Warren Peterson",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Overdubs]",
+      "tracks": "",
+      "id": 576086,
+      "resource_url": "https://api.discogs.com/artists/576086"
+    },
+    {
+      "name": "Shania Twain",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 130060,
+      "resource_url": "https://api.discogs.com/artists/130060"
+    },
+    {
+      "name": "Faith Brooks",
+      "anv": "",
+      "join": "",
+      "role": "Hair, Make-Up",
+      "tracks": "",
+      "id": 12101488,
+      "resource_url": "https://api.discogs.com/artists/12101488"
+    },
+    {
+      "name": "Norma Bass",
+      "anv": "",
+      "join": "",
+      "role": "Hair, Make-Up",
+      "tracks": "",
+      "id": 12101491,
+      "resource_url": "https://api.discogs.com/artists/12101491"
+    },
+    {
+      "name": "James Adams (8)",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 4383109,
+      "resource_url": "https://api.discogs.com/artists/4383109"
+    },
+    {
+      "name": "Jess Keeley",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 3824627,
+      "resource_url": "https://api.discogs.com/artists/3824627"
+    },
+    {
+      "name": "Leila Hebden",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 1767209,
+      "resource_url": "https://api.discogs.com/artists/1767209"
+    },
+    {
+      "name": "Scott Rodger",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 261865,
+      "resource_url": "https://api.discogs.com/artists/261865"
+    },
+    {
+      "name": "Brian Tankersley",
+      "anv": "Brian Tankersly",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "2-6",
+      "id": 133512,
+      "resource_url": "https://api.discogs.com/artists/133512"
+    },
+    {
+      "name": "Lynn Peterzell",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "2-7 to 2-9, 2-12, 2-13",
+      "id": 501572,
+      "resource_url": "https://api.discogs.com/artists/501572"
+    },
+    {
+      "name": "Robert John Lange",
+      "anv": "Robert John \"Mutt\" Lange",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "2-10, 2-11",
+      "id": 239886,
+      "resource_url": "https://api.discogs.com/artists/239886"
+    },
+    {
+      "name": "Steve Genewick",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "2-1 to 2-5",
+      "id": 381867,
+      "resource_url": "https://api.discogs.com/artists/381867"
+    },
+    {
+      "name": "Shania Twain Archive",
+      "anv": "",
+      "join": "",
+      "role": "Other [Additional Material]",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Albert Sanchez",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 303476,
+      "resource_url": "https://api.discogs.com/artists/303476"
+    },
+    {
+      "name": "Bo Derek",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 3345006,
+      "resource_url": "https://api.discogs.com/artists/3345006"
+    },
+    {
+      "name": "John Derek (2)",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 3345007,
+      "resource_url": "https://api.discogs.com/artists/3345007"
+    },
+    {
+      "name": "Mark Tucker (7)",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 2253863,
+      "resource_url": "https://api.discogs.com/artists/2253863"
+    },
+    {
+      "name": "Robert John Lange",
+      "anv": "Robert John \"Mutt\" Lange",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 239886,
+      "resource_url": "https://api.discogs.com/artists/239886"
+    },
+    {
+      "name": "Lisa Power",
+      "anv": "",
+      "join": "",
+      "role": "Project Manager [Reissue Project Manager]",
+      "tracks": "",
+      "id": 2275924,
+      "resource_url": "https://api.discogs.com/artists/2275924"
+    },
+    {
+      "name": "Sean Sullivan (6)",
+      "anv": "Sean \"Sully\" Sullivan",
+      "join": "",
+      "role": "Recorder",
+      "tracks": "2-1 to 2-5",
+      "id": 2216917,
+      "resource_url": "https://api.discogs.com/artists/2216917"
+    },
+    {
+      "name": "Brian Lucey",
+      "anv": "",
+      "join": "",
+      "role": "Remastered By",
+      "tracks": "",
+      "id": 495278,
+      "resource_url": "https://api.discogs.com/artists/495278"
+    },
+    {
+      "name": "Olle Romo",
+      "anv": "",
+      "join": "",
+      "role": "Remastered By [Remastering Consultants]",
+      "tracks": "",
+      "id": 232662,
+      "resource_url": "https://api.discogs.com/artists/232662"
+    },
+    {
+      "name": "Robert John Lange",
+      "anv": "Mutt Lange",
+      "join": "",
+      "role": "Remastered By [Remastering Consultants]",
+      "tracks": "",
+      "id": 239886,
+      "resource_url": "https://api.discogs.com/artists/239886"
+    },
+    {
+      "name": "Donna Jones (9)",
+      "anv": "",
+      "join": "",
+      "role": "Stylist",
+      "tracks": "",
+      "id": 12101497,
+      "resource_url": "https://api.discogs.com/artists/12101497"
+    },
+    {
+      "name": "Jill Sokolee",
+      "anv": "",
+      "join": "",
+      "role": "Stylist",
+      "tracks": "",
+      "id": 12101494,
+      "resource_url": "https://api.discogs.com/artists/12101494"
+    },
+    {
+      "name": "Eve Barlow",
+      "anv": "",
+      "join": "",
+      "role": "Text By [Essay]",
+      "tracks": "",
+      "id": 8217968,
+      "resource_url": "https://api.discogs.com/artists/8217968"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/WgEm6ocXTXmPh0q7ePPm35bkR2AQd_k4ttRcIvo6Z7w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUz/ODE5LTE2MDMzMzE5/NjgtNTc5Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/WgEm6ocXTXmPh0q7ePPm35bkR2AQd_k4ttRcIvo6Z7w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUz/ODE5LTE2MDMzMzE5/NjgtNTc5Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/-AjRZO8h3B8D5R9G8hL3r6jRFrNyPXWCrzktxLI1_Rs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUz/ODE5LTE2MDMzMzE5/NjgtNTc5Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/aIBWVsbJ3mnxQe6yerF2WIC8Vs30RKlkhrWGIjzOcj4/rs:fit/g:sm/q:90/h:471/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUz/ODE5LTE2MDMzMzE5/NjctMzA1Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/aIBWVsbJ3mnxQe6yerF2WIC8Vs30RKlkhrWGIjzOcj4/rs:fit/g:sm/q:90/h:471/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUz/ODE5LTE2MDMzMzE5/NjctMzA1Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/12YGO78i62N2oef5ggadWY4gInr4Jphih8tm-C1cPPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUz/ODE5LTE2MDMzMzE5/NjctMzA1Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 471
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/U5vz75bqQpMbYpmkvJhcSiirgVi0VYh6MIkVBJAM61U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUz/ODE5LTE2MDMzMzE5/NjMtNzAyMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/U5vz75bqQpMbYpmkvJhcSiirgVi0VYh6MIkVBJAM61U/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUz/ODE5LTE2MDMzMzE5/NjMtNzAyMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Z-TEenzW6jycy_Ia0jWhuCHgdstvrmGtn6EDvgB0pFQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUz/ODE5LTE2MDMzMzE5/NjMtNzAyMC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/oMT3JPZYtV1biujNd6plPngZH6o9bklJ00VH9lddQaY/rs:fit/g:sm/q:90/h:600/w:515/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUz/ODE5LTE2MDMzMzE5/NTYtMjQ3MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/oMT3JPZYtV1biujNd6plPngZH6o9bklJ00VH9lddQaY/rs:fit/g:sm/q:90/h:600/w:515/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUz/ODE5LTE2MDMzMzE5/NTYtMjQ3MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/xNtfwBP3iVEwLSHmCrAXJW14wMEU6e6Ak5NdctEPhYI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUz/ODE5LTE2MDMzMzE5/NTYtMjQ3MC5qcGVn.jpeg",
+      "width": 515,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/-b0CfNG37MPC94ssnC8-UAIhkW6XhGSGLNfJ8oQCiAw/rs:fit/g:sm/q:90/h:470/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUz/ODE5LTE2MDMzMzE5/NzUtMzA4NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/-b0CfNG37MPC94ssnC8-UAIhkW6XhGSGLNfJ8oQCiAw/rs:fit/g:sm/q:90/h:470/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUz/ODE5LTE2MDMzMzE5/NzUtMzA4NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/8Jk8Seim1065Nvod9wkFEaanJd0qvZkb4itDk3-LdTU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUz/ODE5LTE2MDMzMzE5/NzUtMzA4NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 470
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/eHvexxf3-Vcr6MDj7i3GElz4ZRh_Wc-AEk4NpA6T3Q4/rs:fit/g:sm/q:90/h:514/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUz/ODE5LTE2MDI3ODUz/NzktODI1NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/eHvexxf3-Vcr6MDj7i3GElz4ZRh_Wc-AEk4NpA6T3Q4/rs:fit/g:sm/q:90/h:514/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUz/ODE5LTE2MDI3ODUz/NzktODI1NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/hk0qZ3KmGy3DOnRYENXbWAOezWXGCjZ6V1mBIGL9hlg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUz/ODE5LTE2MDI3ODUz/NzktODI1NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 514
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/5SiwM9t5R_DjP0zz7bnhGU3qTgw2lb0m_sBScSGVWbw/rs:fit/g:sm/q:90/h:600/w:522/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUz/ODE5LTE2MDI3ODUz/ODUtMTE2OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/5SiwM9t5R_DjP0zz7bnhGU3qTgw2lb0m_sBScSGVWbw/rs:fit/g:sm/q:90/h:600/w:522/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUz/ODE5LTE2MDI3ODUz/ODUtMTE2OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/gjsVP6Av9cuFI9_mCULZXzp5xI2xYQdQElPUSKsVGTw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUz/ODE5LTE2MDI3ODUz/ODUtMTE2OC5qcGVn.jpeg",
+      "width": 522,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/BN9qcsHDl5x79jYDlVipE___xXBYUhD6JpkHgqDJCL8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUz/ODE5LTE2MDI3ODUz/OTctNzkyNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/BN9qcsHDl5x79jYDlVipE___xXBYUhD6JpkHgqDJCL8/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUz/ODE5LTE2MDI3ODUz/OTctNzkyNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/DSEUa62OZWDE1rHmjqCpFU9i9r9xpR8oyg0p8hwMtcA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUz/ODE5LTE2MDI3ODUz/OTctNzkyNi5qcGVn.jpeg",
+      "width": 600,
+      "height": 450
+    }
+  ],
+  "thumb": "https://i.discogs.com/-AjRZO8h3B8D5R9G8hL3r6jRFrNyPXWCrzktxLI1_Rs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2MDUz/ODE5LTE2MDMzMzE5/NjgtNTc5Mi5qcGVn.jpeg",
+  "estimated_weight": 170,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

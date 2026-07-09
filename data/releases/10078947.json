@@ -1,0 +1,620 @@
+{
+  "id": 10078947,
+  "status": "Accepted",
+  "year": 2016,
+  "resource_url": "https://api.discogs.com/releases/10078947",
+  "uri": "https://www.discogs.com/release/10078947-Rihanna-Rated-R",
+  "artists": [
+    {
+      "name": "Rihanna",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 321128,
+      "resource_url": "https://api.discogs.com/artists/321128",
+      "thumbnail_url": "https://i.discogs.com/TCuNTls49Gi4KG2y5-ZmMLOkiEHeX29kpHW7_vWJ1MM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMyMTEy/OC0xNzYwNDgxNzY0/LTYyNjguanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Rihanna",
+  "labels": [
+    {
+      "name": "Def Jam Recordings",
+      "catno": "00602557079821",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 4241,
+      "resource_url": "https://api.discogs.com/labels/4241",
+      "thumbnail_url": "https://i.discogs.com/zueTHMMGjUzQWjoHJgHWCKAjf4hiKsUjdiYuj4mXCbs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQyNDEt/MTYwNDY3ODAzMi0y/NzA3LnBuZw.jpeg"
+    },
+    {
+      "name": "SRP Records",
+      "catno": "00602557079821",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 118632,
+      "resource_url": "https://api.discogs.com/labels/118632",
+      "thumbnail_url": "https://i.discogs.com/eth1VkpR4a1mbQb0HuJb9sGGd-rP0Mvy77-PooQHv-A/rs:fit/g:sm/q:90/h:524/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExODYz/Mi0xNTAzNDE1NDM3/LTE5MTkucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "GZ Media",
+      "catno": "148907E",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album"
+      ],
+      "text": "180 Gram, Trifold "
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 1208,
+    "want": 617,
+    "rating": {
+      "count": 102,
+      "average": 4.52
+    },
+    "submitter": {
+      "username": "globalgroove.co.uk",
+      "resource_url": "https://api.discogs.com/users/globalgroove.co.uk"
+    },
+    "contributors": [
+      {
+        "username": "globalgroove.co.uk",
+        "resource_url": "https://api.discogs.com/users/globalgroove.co.uk"
+      },
+      {
+        "username": "soulvibes88",
+        "resource_url": "https://api.discogs.com/users/soulvibes88"
+      },
+      {
+        "username": "dfdrasberries",
+        "resource_url": "https://api.discogs.com/users/dfdrasberries"
+      },
+      {
+        "username": "MrFumez",
+        "resource_url": "https://api.discogs.com/users/MrFumez"
+      },
+      {
+        "username": "TReimer",
+        "resource_url": "https://api.discogs.com/users/TReimer"
+      },
+      {
+        "username": "chrisberr3",
+        "resource_url": "https://api.discogs.com/users/chrisberr3"
+      },
+      {
+        "username": "EclecticMusicMan",
+        "resource_url": "https://api.discogs.com/users/EclecticMusicMan"
+      },
+      {
+        "username": "rodrigoncalo",
+        "resource_url": "https://api.discogs.com/users/rodrigoncalo"
+      },
+      {
+        "username": "valkis",
+        "resource_url": "https://api.discogs.com/users/valkis"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2017-04-03T09:11:52-07:00",
+  "date_changed": "2026-02-20T23:49:29-08:00",
+  "num_for_sale": 55,
+  "lowest_price": 24.99,
+  "master_id": 206209,
+  "master_url": "https://api.discogs.com/masters/206209",
+  "title": "Rated R",
+  "country": "Europe",
+  "released": "2016",
+  "notes": "Tri-fold 180 gram vinyl 2xLP + MP3 download code.\nFirst time released on vinyl outside of the Rihanna 8 Album Box Set.\n\nMade in the EU.",
+  "released_formatted": "2016",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02557 07982 1",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "602557079821",
+      "description": "Scanned"
+    },
+    {
+      "type": "Label Code",
+      "value": "LC 01846"
+    },
+    {
+      "type": "Rights Society",
+      "value": "BIEM/SDRM"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "148907E1/I 5708382-A",
+      "description": "Side A stamped"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "148907E2/I 5708382-B",
+      "description": "Side B stamped"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "148907E3/L 5708383-A",
+      "description": "Side C stamped"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "148907E4/K 5708383-B",
+      "description": "Side D stamped"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=e82VE8UtW8A",
+      "title": "Rihanna - Rude Boy (Official Music Video)",
+      "description": "REMASTERED IN HD!\nGet Rihanna’s eighth studio album ANTI now:\nDownload on TIDAL: http://smarturl.it/downloadANTI\nStream on TIDAL: http://smarturl.it/streamANTIdlx\nDownload on iTunes: http://smarturl.it/dlxANTI\nDownload on Google Play: http://smarturl.it/A",
+      "duration": 225,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=eMOIUUS8GWo",
+      "title": "Rihanna - ROCKSTAR 101 ft. Slash",
+      "description": "Get Rihanna’s eighth studio album ANTI now:\nDownload on TIDAL: http://smarturl.it/downloadANTI\nStream on TIDAL: http://smarturl.it/streamANTIdlx\nDownload on iTunes: http://smarturl.it/dlxANTI\nDownload on Google Play: http://smarturl.it/ANTIdlxgp\nDownload ",
+      "duration": 247,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=8u965-x-l3w",
+      "title": "Rihanna - Wait Your Turn",
+      "description": "Get Rihanna’s eighth studio album ANTI now:\nDownload on TIDAL: http://smarturl.it/downloadANTI\nStream on TIDAL: http://smarturl.it/streamANTIdlx\nDownload on iTunes: http://smarturl.it/dlxANTI\nDownload on Google Play: http://smarturl.it/ANTIdlxgp\nDownload ",
+      "duration": 233,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Xcwd_Nz6Zog",
+      "title": "Rihanna - Hard (Official Music Video) ft. Jeezy",
+      "description": "REMASTERED IN HD!\nGet Rihanna’s eighth studio album ANTI now:\nDownload on TIDAL: http://smarturl.it/downloadANTI\nStream on TIDAL: http://smarturl.it/streamANTIdlx\nDownload on iTunes: http://smarturl.it/dlxANTI\nDownload on Google Play: http://smarturl.it/A",
+      "duration": 252,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ZQ2nCGawrSY",
+      "title": "Rihanna - Russian Roulette (Official Music Video)",
+      "description": "REMASTERED IN HD!\nGet Rihanna’s eighth studio album ANTI now:\nDownload on TIDAL: http://smarturl.it/downloadANTI\nStream on TIDAL: http://smarturl.it/streamANTIdlx\nDownload on iTunes: http://smarturl.it/dlxANTI\nDownload on Google Play: http://smarturl.it/A",
+      "duration": 264,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Oe4Ic7fHWf8",
+      "title": "Rihanna - Te Amo (Official Music Video)",
+      "description": "REMASTERED IN HD!\nGet Rihanna’s eighth studio album ANTI now:\nDownload on TIDAL: http://smarturl.it/downloadANTI\nStream on TIDAL: http://smarturl.it/streamANTIdlx\nDownload on iTunes: http://smarturl.it/dlxANTI\nDownload on Google Play: http://smarturl.it/A",
+      "duration": 250,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Hip Hop",
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Pop Rap",
+    "Contemporary R&B"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Rihanna",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 321128,
+          "resource_url": "https://api.discogs.com/artists/321128"
+        }
+      ],
+      "title": "Mad House",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Rihanna",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 321128,
+          "resource_url": "https://api.discogs.com/artists/321128"
+        }
+      ],
+      "title": "Wait Your Turn",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Rihanna",
+          "anv": "",
+          "join": "Feat.",
+          "role": "",
+          "tracks": "",
+          "id": 321128,
+          "resource_url": "https://api.discogs.com/artists/321128"
+        },
+        {
+          "name": "Young Jeezy",
+          "anv": "Jeezy",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 341733,
+          "resource_url": "https://api.discogs.com/artists/341733"
+        }
+      ],
+      "title": "Hard",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Rihanna",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 321128,
+          "resource_url": "https://api.discogs.com/artists/321128"
+        }
+      ],
+      "title": "Stupid In Love",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Rihanna",
+          "anv": "",
+          "join": "Feat.",
+          "role": "",
+          "tracks": "",
+          "id": 321128,
+          "resource_url": "https://api.discogs.com/artists/321128"
+        },
+        {
+          "name": "Slash (3)",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 170015,
+          "resource_url": "https://api.discogs.com/artists/170015"
+        }
+      ],
+      "title": "Rockstar 101",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Rihanna",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 321128,
+          "resource_url": "https://api.discogs.com/artists/321128"
+        }
+      ],
+      "title": "Russian Roulette",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Rihanna",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 321128,
+          "resource_url": "https://api.discogs.com/artists/321128"
+        }
+      ],
+      "title": "Fire Bomb",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Rihanna",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 321128,
+          "resource_url": "https://api.discogs.com/artists/321128"
+        }
+      ],
+      "title": "Rude Boy",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Rihanna",
+          "anv": "",
+          "join": "Feat.",
+          "role": "",
+          "tracks": "",
+          "id": 321128,
+          "resource_url": "https://api.discogs.com/artists/321128"
+        },
+        {
+          "name": "Will I Am",
+          "anv": "will.i.am",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 35646,
+          "resource_url": "https://api.discogs.com/artists/35646"
+        }
+      ],
+      "title": "Photographs",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Rihanna",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 321128,
+          "resource_url": "https://api.discogs.com/artists/321128"
+        }
+      ],
+      "title": "G4L",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Rihanna",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 321128,
+          "resource_url": "https://api.discogs.com/artists/321128"
+        }
+      ],
+      "title": "Te Amo",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Rihanna",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 321128,
+          "resource_url": "https://api.discogs.com/artists/321128"
+        }
+      ],
+      "title": "Cold Case Love",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Rihanna",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 321128,
+          "resource_url": "https://api.discogs.com/artists/321128"
+        }
+      ],
+      "title": "The Last Song",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Jay Brown (3)",
+      "anv": "",
+      "join": "",
+      "role": "A&R",
+      "tracks": "",
+      "id": 1867004,
+      "resource_url": "https://api.discogs.com/artists/1867004"
+    },
+    {
+      "name": "Tyran \"Ty Ty\" Smith",
+      "anv": "",
+      "join": "",
+      "role": "A&R",
+      "tracks": "",
+      "id": 1931347,
+      "resource_url": "https://api.discogs.com/artists/1931347"
+    },
+    {
+      "name": "Antonio Reid (2)",
+      "anv": "Antonio \"LA\" Reid",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 5032901,
+      "resource_url": "https://api.discogs.com/artists/5032901"
+    },
+    {
+      "name": "Robyn Fenty",
+      "anv": "Robyn Rihanna Fenty",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 1986565,
+      "resource_url": "https://api.discogs.com/artists/1986565"
+    },
+    {
+      "name": "Carl Sturken",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer [Co-Executive]",
+      "tracks": "",
+      "id": 142013,
+      "resource_url": "https://api.discogs.com/artists/142013"
+    },
+    {
+      "name": "Evan Rogers",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer [Co-Executive]",
+      "tracks": "",
+      "id": 142012,
+      "resource_url": "https://api.discogs.com/artists/142012"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/xmIyoqQZ4TxYeYIjfZxBFTPdh4UMMHS9pexxuE53fC8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE0OTEzNDQ1/OTUtNTQyMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/xmIyoqQZ4TxYeYIjfZxBFTPdh4UMMHS9pexxuE53fC8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE0OTEzNDQ1/OTUtNTQyMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/usO1p-kc8I3s_fRGTiCwOgSDp9CJaU3Z5M7nYuWTKA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE0OTEzNDQ1/OTUtNTQyMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/2o79YmgcuLbveaM3NUCqFjAaZotp__Mlfsq8Q51URXs/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE2NDU3Njg4/MDEtNTY4Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/2o79YmgcuLbveaM3NUCqFjAaZotp__Mlfsq8Q51URXs/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE2NDU3Njg4/MDEtNTY4Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/HnL-KRG1sw-wThTHpiAG8XSqSMRqMbVWuP6ANQUxe4k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE2NDU3Njg4/MDEtNTY4Mi5qcGVn.jpeg",
+      "width": 589,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/jaOBUZvc4q6RAH9FYnzEzLP_AWyIVuAuo7xFXFCCB_U/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE2NDU3Njg3/OTYtNjE4Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/jaOBUZvc4q6RAH9FYnzEzLP_AWyIVuAuo7xFXFCCB_U/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE2NDU3Njg3/OTYtNjE4Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/4JcA1pY5ZmL3jWQYxP7vr9YGoPdr0QT6WD1ei2ufFlU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE2NDU3Njg3/OTYtNjE4Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 569
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/kwjfg-uE7PyyV5QI7E2X2UXSTv5XgqVLlEvAQbNbtz4/rs:fit/g:sm/q:90/h:600/w:552/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE2NDU3Njg4/MDQtNzI3NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/kwjfg-uE7PyyV5QI7E2X2UXSTv5XgqVLlEvAQbNbtz4/rs:fit/g:sm/q:90/h:600/w:552/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE2NDU3Njg4/MDQtNzI3NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/kMKV8r9PEbb5wPJXM0peFdLhBAHM0MJgcsK_Kj347W4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE2NDU3Njg4/MDQtNzI3NS5qcGVn.jpeg",
+      "width": 552,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/zD5gKnNEYQ56ktiHRPRA2zSm44UOMdYUDIozcK3ozks/rs:fit/g:sm/q:90/h:600/w:512/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE2NDU3Njg4/MDgtNDM3NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/zD5gKnNEYQ56ktiHRPRA2zSm44UOMdYUDIozcK3ozks/rs:fit/g:sm/q:90/h:600/w:512/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE2NDU3Njg4/MDgtNDM3NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/rjBvIsLT-7T4yVdhyUNcQTVmlg2_dmQIsaWDLmwAHWM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE2NDU3Njg4/MDgtNDM3NS5qcGVn.jpeg",
+      "width": 512,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/o3c1s2PZbqCoPsPLqTHHS_V9f1-5Ce-lkbeiflKqgvY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE0OTEzNDQ1/OTgtMzMyMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/o3c1s2PZbqCoPsPLqTHHS_V9f1-5Ce-lkbeiflKqgvY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE0OTEzNDQ1/OTgtMzMyMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/kclsWEjDXLTL2Fl3DQ7qaXUnHDedW3g_-eR5Y9k9lTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE0OTEzNDQ1/OTgtMzMyMy5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/XMI93KUEGgaPF0UZ4zy58k97DiyBMZSgSUNz-BtsSGM/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE3NzE2NjAx/MjgtOTY3My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/XMI93KUEGgaPF0UZ4zy58k97DiyBMZSgSUNz-BtsSGM/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE3NzE2NjAx/MjgtOTY3My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/-RcLTKJ0Ws1fOrehtw-q2qEqskhOgqr9jELHu0SODFs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE3NzE2NjAx/MjgtOTY3My5qcGVn.jpeg",
+      "width": 592,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/3c3m4h8tPNnq_GPeCpdXgjPeffW2X96BLJp7jzXbhX8/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE3NzE2NjAx/MjctMTk1Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/3c3m4h8tPNnq_GPeCpdXgjPeffW2X96BLJp7jzXbhX8/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE3NzE2NjAx/MjctMTk1Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/KNvxS6mD7JkmgxfKYqAznZ3CcRy8AzRaLsYx0cOqH2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE3NzE2NjAx/MjctMTk1Ni5qcGVn.jpeg",
+      "width": 578,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/hhjEKQK2QgBcvFG8-jXD9sNf4wfEmBI5f3yKq1gqPUk/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE3NzE2NjAx/MjgtMjM0MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/hhjEKQK2QgBcvFG8-jXD9sNf4wfEmBI5f3yKq1gqPUk/rs:fit/g:sm/q:90/h:600/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE3NzE2NjAx/MjgtMjM0MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/GjekXUby9bApCYMAHx7Bd3zgNOaKMM3ZKx3taG4p-ws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE3NzE2NjAx/MjgtMjM0MS5qcGVn.jpeg",
+      "width": 580,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/vcBFxelE4ya6qCixe7phDcuvWkT9FfA9BTBBD7hyDCM/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE3NzE2NjAx/MjgtNDc2Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/vcBFxelE4ya6qCixe7phDcuvWkT9FfA9BTBBD7hyDCM/rs:fit/g:sm/q:90/h:600/w:581/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE3NzE2NjAx/MjgtNDc2Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/j5QAYItXC1M8h7dCWM4yjDEF-U60pDbzeYKMRKDBAIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE3NzE2NjAx/MjgtNDc2Ni5qcGVn.jpeg",
+      "width": 581,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/jM0IMubVHNrWGzZkLakvlaGnYl0Pg75NZ5pfFgV04TQ/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE3NzE2NjAx/MjgtNzAxMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/jM0IMubVHNrWGzZkLakvlaGnYl0Pg75NZ5pfFgV04TQ/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE3NzE2NjAx/MjgtNzAxMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/i_Og1g6uGo6b3g4Eq3FmWYsw2LsPNel5OmP_hDqd_oQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE3NzE2NjAx/MjgtNzAxMy5qcGVn.jpeg",
+      "width": 600,
+      "height": 575
+    }
+  ],
+  "thumb": "https://i.discogs.com/usO1p-kc8I3s_fRGTiCwOgSDp9CJaU3Z5M7nYuWTKA0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMDc4/OTQ3LTE0OTEzNDQ1/OTUtNTQyMS5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

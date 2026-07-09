@@ -1,0 +1,254 @@
+{
+  "id": 34183336,
+  "status": "Accepted",
+  "year": 2023,
+  "resource_url": "https://api.discogs.com/releases/34183336",
+  "uri": "https://www.discogs.com/release/34183336-Dominic-Fike-Sunburn",
+  "artists": [
+    {
+      "name": "Dominic Fike",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 7087947,
+      "resource_url": "https://api.discogs.com/artists/7087947",
+      "thumbnail_url": "https://i.discogs.com/n2lImtwzWl3IttNz1AX4QNf49vZ5FNQkP7DMLwaJWRw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTcwODc5/NDctMTc3NTMyNjU0/MC01NTIzLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Dominic Fike",
+  "labels": [
+    {
+      "name": "Columbia",
+      "catno": "19658815891",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Sandy Boys, LLC",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 1766937,
+      "resource_url": "https://api.discogs.com/labels/1766937"
+    },
+    {
+      "name": "Sandy Boys, LLC",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 1766937,
+      "resource_url": "https://api.discogs.com/labels/1766937"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Columbia Records",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 93330,
+      "resource_url": "https://api.discogs.com/labels/93330",
+      "thumbnail_url": "https://i.discogs.com/Fc3xZhx0_ME57o2yl1RIZGPAFJ9ObzPwoRiCQdQyd5g/rs:fit/g:sm/q:90/h:117/w:328/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkzMzMw/LTE1MjY0ODU4MTgt/Mzk2Mi5qcGVn.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 384,
+    "want": 78,
+    "rating": {
+      "count": 67,
+      "average": 4.73
+    },
+    "submitter": {
+      "username": "foreveryoungrecords",
+      "resource_url": "https://api.discogs.com/users/foreveryoungrecords"
+    },
+    "contributors": [
+      {
+        "username": "foreveryoungrecords",
+        "resource_url": "https://api.discogs.com/users/foreveryoungrecords"
+      },
+      {
+        "username": "idratherbereading",
+        "resource_url": "https://api.discogs.com/users/idratherbereading"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2025-06-05T07:52:39-07:00",
+  "date_changed": "2026-03-18T05:52:37-07:00",
+  "num_for_sale": 4,
+  "lowest_price": 38.69,
+  "master_id": 3161793,
+  "master_url": "https://api.discogs.com/masters/3161793",
+  "title": "Sunburn",
+  "country": "US",
+  "released": "2023",
+  "notes": "Square featuring sticker reads:\n\n[ Dominic Fike  \"SUNBURN\"  THE NEW ALBUM  [ parental advisory logo ]  ]\n\nDifferent catalog number than other USA release [r29270791], & different barcode.\nNo tracklist on outside of packaging. ",
+  "released_formatted": "2023",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "196588158919",
+      "description": "Scanned"
+    },
+    {
+      "type": "Barcode",
+      "value": "1 96588 15891 9",
+      "description": "Text"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    "Hip Hop",
+    "Pop"
+  ],
+  "styles": [
+    "Alt-Pop"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "How Much Is Weed?",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Ant Pile",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Think Fast",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Sick",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "7 Hours",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Dancing In The Courthouse",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "title": "Bodies",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Sunburn",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Pasture Child",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "4x4",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Frisky",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Mama’s Boy",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Dark",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "title": "What Kinda Woman",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Dominic Fike",
+      "anv": "",
+      "join": "",
+      "role": "Songwriter",
+      "tracks": "",
+      "id": 7087947,
+      "resource_url": "https://api.discogs.com/artists/7087947"
+    }
+  ],
+  "images": [
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/qhb8dGYzvtv6lCPm-FnEF_Q1J6g9cdjYeX1dLKX1_7M/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTgz/MzM2LTE3NDkxMzUx/ODItNTgzMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/qhb8dGYzvtv6lCPm-FnEF_Q1J6g9cdjYeX1dLKX1_7M/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTgz/MzM2LTE3NDkxMzUx/ODItNTgzMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/mWHk4_uJcb-PkFiBruuo939Z5Mo22umAzoEvoPfafTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTgz/MzM2LTE3NDkxMzUx/ODItNTgzMy5qcGVn.jpeg",
+      "width": 592,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/zG72fbkmgCol2HRJSCPEmZ_QsZuuvkptk68XNIJYg6o/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTgz/MzM2LTE3NDkxMzUx/ODItNzY4Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/zG72fbkmgCol2HRJSCPEmZ_QsZuuvkptk68XNIJYg6o/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTgz/MzM2LTE3NDkxMzUx/ODItNzY4Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/oOnpGmBAq1w_rGDZrOWw6INdLZIkP1rW_XfiI2Zxy0k/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTgz/MzM2LTE3NDkxMzUx/ODItNzY4Ny5qcGVn.jpeg",
+      "width": 595,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/mWHk4_uJcb-PkFiBruuo939Z5Mo22umAzoEvoPfafTE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MTgz/MzM2LTE3NDkxMzUx/ODItNTgzMy5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

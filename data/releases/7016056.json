@@ -1,0 +1,502 @@
+{
+  "id": 7016056,
+  "status": "Draft",
+  "year": 1975,
+  "resource_url": "https://api.discogs.com/releases/7016056",
+  "uri": "https://www.discogs.com/release/7016056-Fleetwood-Mac-Fleetwood-Mac",
+  "artists": [
+    {
+      "name": "Fleetwood Mac",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 47333,
+      "resource_url": "https://api.discogs.com/artists/47333",
+      "thumbnail_url": "https://i.discogs.com/mFpLK1pH2AmmXuZiuoU81KfXGqyvlOosOTGUxPcnQRM/rs:fit/g:sm/q:90/h:600/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ3MzMz/LTE1NjY1NjE1NDkt/MzM1NS5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "Fleetwood Mac",
+  "labels": [
+    {
+      "name": "Reprise Records",
+      "catno": "MS 2225",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 157,
+      "resource_url": "https://api.discogs.com/labels/157",
+      "thumbnail_url": "https://i.discogs.com/iKBCqc_nPLAGiCS4_2RshoKpj-ZuUJo7Z1qzYmFuJrc/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1Ny0x/NTIxMTk1ODk5LTE1/NzgucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Warner Bros. Records Inc.",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 90718,
+      "resource_url": "https://api.discogs.com/labels/90718",
+      "thumbnail_url": "https://i.discogs.com/0p_FtS_A52grt0La9_L96khb4zeprvXbonLRFPgm9nk/rs:fit/g:sm/q:90/h:107/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkwNzE4/LTE3NzYzNDQzMjEt/MTI2MS5qcGVn.jpeg"
+    },
+    {
+      "name": "Warner Bros. Records Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 90718,
+      "resource_url": "https://api.discogs.com/labels/90718",
+      "thumbnail_url": "https://i.discogs.com/0p_FtS_A52grt0La9_L96khb4zeprvXbonLRFPgm9nk/rs:fit/g:sm/q:90/h:107/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkwNzE4/LTE3NzYzNDQzMjEt/MTI2MS5qcGVn.jpeg"
+    },
+    {
+      "name": "Warner Bros. Records Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 90718,
+      "resource_url": "https://api.discogs.com/labels/90718",
+      "thumbnail_url": "https://i.discogs.com/0p_FtS_A52grt0La9_L96khb4zeprvXbonLRFPgm9nk/rs:fit/g:sm/q:90/h:107/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkwNzE4/LTE3NzYzNDQzMjEt/MTI2MS5qcGVn.jpeg"
+    },
+    {
+      "name": "Sound City Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 269124,
+      "resource_url": "https://api.discogs.com/labels/269124",
+      "thumbnail_url": "https://i.discogs.com/6k-qVBU86Q3AA4offspXEun5mCwAHCqeb0t-jpTJKBs/rs:fit/g:sm/q:90/h:181/w:180/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2OTEy/NC0xMzE2NDI1Mzgx/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Sound City Studios",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 269124,
+      "resource_url": "https://api.discogs.com/labels/269124",
+      "thumbnail_url": "https://i.discogs.com/6k-qVBU86Q3AA4offspXEun5mCwAHCqeb0t-jpTJKBs/rs:fit/g:sm/q:90/h:181/w:180/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2OTEy/NC0xMzE2NDI1Mzgx/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Kendun Recorders",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 227311,
+      "resource_url": "https://api.discogs.com/labels/227311",
+      "thumbnail_url": "https://i.discogs.com/T8S5irMx1Ro6lkGBUC54MDGaQ8w7rUIPp4KuOYbzJi4/rs:fit/g:sm/q:90/h:222/w:563/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIyNzMx/MS0xNTU0ODM0NzE3/LTc5MTcuanBlZw.jpeg"
+    },
+    {
+      "name": "Kendun Recorders",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 227311,
+      "resource_url": "https://api.discogs.com/labels/227311",
+      "thumbnail_url": "https://i.discogs.com/T8S5irMx1Ro6lkGBUC54MDGaQ8w7rUIPp4KuOYbzJi4/rs:fit/g:sm/q:90/h:222/w:563/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIyNzMx/MS0xNTU0ODM0NzE3/LTc5MTcuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album"
+      ],
+      "text": "Slightly textured cover"
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 174,
+    "want": 34,
+    "rating": {
+      "count": 6,
+      "average": 4.33
+    },
+    "submitter": {
+      "username": "p-canfudge",
+      "resource_url": "https://api.discogs.com/users/p-canfudge"
+    },
+    "contributors": [
+      {
+        "username": "p-canfudge",
+        "resource_url": "https://api.discogs.com/users/p-canfudge"
+      },
+      {
+        "username": "BarnyardOrbit",
+        "resource_url": "https://api.discogs.com/users/BarnyardOrbit"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Draft"
+  },
+  "format_quantity": 1,
+  "date_added": "2015-05-15T18:04:36-07:00",
+  "date_changed": "2015-05-15T18:11:30-07:00",
+  "num_for_sale": 0,
+  "lowest_price": null,
+  "title": "Fleetwood Mac",
+  "country": "US",
+  "released": "1975",
+  "notes": "Runout variation.",
+  "released_formatted": "1975",
+  "identifiers": [
+    {
+      "type": "Matrix / Runout",
+      "value": "MS 2225 (31892 Re2) 1-W-1 *",
+      "description": "A-side runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MS-2-2225-LW6 KENDUN-A",
+      "description": "B-side runout"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    "Rock"
+  ],
+  "styles": [
+    "Pop Rock"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Monday Morning",
+      "extraartists": [
+        {
+          "name": "Lindsey Buckingham",
+          "anv": "Buckingham",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 264436,
+          "resource_url": "https://api.discogs.com/artists/264436"
+        }
+      ],
+      "duration": "2:48"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Warm Ways",
+      "extraartists": [
+        {
+          "name": "Christine McVie",
+          "anv": "McVie",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 205020,
+          "resource_url": "https://api.discogs.com/artists/205020"
+        }
+      ],
+      "duration": "3:50"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Blue Letter",
+      "extraartists": [
+        {
+          "name": "Michael Curtis",
+          "anv": "Mike Curtis",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 718841,
+          "resource_url": "https://api.discogs.com/artists/718841"
+        },
+        {
+          "name": "Richard Curtis",
+          "anv": "Rick Curtis",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 718842,
+          "resource_url": "https://api.discogs.com/artists/718842"
+        }
+      ],
+      "duration": "2:31"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Rhiannon",
+      "extraartists": [
+        {
+          "name": "Stevie Nicks",
+          "anv": "Nicks",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 13735,
+          "resource_url": "https://api.discogs.com/artists/13735"
+        }
+      ],
+      "duration": "4:12"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Over My Head",
+      "extraartists": [
+        {
+          "name": "Christine McVie",
+          "anv": "McVie",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 205020,
+          "resource_url": "https://api.discogs.com/artists/205020"
+        }
+      ],
+      "duration": "3:34"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Crystal",
+      "extraartists": [
+        {
+          "name": "Stevie Nicks",
+          "anv": "Nicks",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 13735,
+          "resource_url": "https://api.discogs.com/artists/13735"
+        }
+      ],
+      "duration": "5:12"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Say You Love Me",
+      "extraartists": [
+        {
+          "name": "Christine McVie",
+          "anv": "McVie",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 205020,
+          "resource_url": "https://api.discogs.com/artists/205020"
+        }
+      ],
+      "duration": "4:11"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Landslide",
+      "extraartists": [
+        {
+          "name": "Stevie Nicks",
+          "anv": "Nicks",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 13735,
+          "resource_url": "https://api.discogs.com/artists/13735"
+        }
+      ],
+      "duration": "3:05"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "World Turning",
+      "extraartists": [
+        {
+          "name": "Christine McVie",
+          "anv": "McVie",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 205020,
+          "resource_url": "https://api.discogs.com/artists/205020"
+        },
+        {
+          "name": "Lindsey Buckingham",
+          "anv": "L. Buckingham",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 264436,
+          "resource_url": "https://api.discogs.com/artists/264436"
+        }
+      ],
+      "duration": "4:25"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Sugar Daddy",
+      "extraartists": [
+        {
+          "name": "Waddy Wachtel",
+          "anv": "Waddy",
+          "join": "",
+          "role": "Guitar [Rhythm]",
+          "tracks": "",
+          "id": 258154,
+          "resource_url": "https://api.discogs.com/artists/258154"
+        },
+        {
+          "name": "Christine McVie",
+          "anv": "McVie",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 205020,
+          "resource_url": "https://api.discogs.com/artists/205020"
+        }
+      ],
+      "duration": "4:09"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "I'm So Afraid",
+      "extraartists": [
+        {
+          "name": "Lindsey Buckingham",
+          "anv": "Buckingham",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 264436,
+          "resource_url": "https://api.discogs.com/artists/264436"
+        }
+      ],
+      "duration": "4:15"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "John McVie",
+      "anv": "",
+      "join": "",
+      "role": "Bass",
+      "tracks": "",
+      "id": 273840,
+      "resource_url": "https://api.discogs.com/artists/273840"
+    },
+    {
+      "name": "Desmond Strobel",
+      "anv": "Des Strobel",
+      "join": "",
+      "role": "Design [Album]",
+      "tracks": "",
+      "id": 441677,
+      "resource_url": "https://api.discogs.com/artists/441677"
+    },
+    {
+      "name": "Mick Fleetwood",
+      "anv": "",
+      "join": "",
+      "role": "Drums, Percussion",
+      "tracks": "",
+      "id": 273841,
+      "resource_url": "https://api.discogs.com/artists/273841"
+    },
+    {
+      "name": "Keith Olsen",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 125452,
+      "resource_url": "https://api.discogs.com/artists/125452"
+    },
+    {
+      "name": "David Devore",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [2nd]",
+      "tracks": "",
+      "id": 343429,
+      "resource_url": "https://api.discogs.com/artists/343429"
+    },
+    {
+      "name": "Lindsey Buckingham",
+      "anv": "",
+      "join": "",
+      "role": "Guitar, Vocals",
+      "tracks": "",
+      "id": 264436,
+      "resource_url": "https://api.discogs.com/artists/264436"
+    },
+    {
+      "name": "Christine McVie",
+      "anv": "",
+      "join": "",
+      "role": "Keyboards, Synthesizer, Vocals",
+      "tracks": "",
+      "id": 205020,
+      "resource_url": "https://api.discogs.com/artists/205020"
+    },
+    {
+      "name": "John Courage, Mike Miller, Rhyno",
+      "anv": "",
+      "join": "",
+      "role": "Other [Road Manager]",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Herbert Wheeler Worthington III",
+      "anv": "Herbert Worthington",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 2023937,
+      "resource_url": "https://api.discogs.com/artists/2023937"
+    },
+    {
+      "name": "Keith Olsen",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 125452,
+      "resource_url": "https://api.discogs.com/artists/125452"
+    },
+    {
+      "name": "Fleetwood Mac",
+      "anv": "",
+      "join": "",
+      "role": "Producer, Concept By [Sleeve]",
+      "tracks": "",
+      "id": 47333,
+      "resource_url": "https://api.discogs.com/artists/47333"
+    },
+    {
+      "name": "Stevie Nicks",
+      "anv": "",
+      "join": "",
+      "role": "Vocals",
+      "tracks": "",
+      "id": 13735,
+      "resource_url": "https://api.discogs.com/artists/13735"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/myL6gbuyZfEPK8qHMEfRZ7KGuEwJU8L3gn_8rb1Ij2I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTYw/NTYtMTQzMTczODY4/Ni00MTgwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/myL6gbuyZfEPK8qHMEfRZ7KGuEwJU8L3gn_8rb1Ij2I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTYw/NTYtMTQzMTczODY4/Ni00MTgwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/vApztyAc3O10-tF2nqGpCpyfKq4bSt1VFjC1HBgJCEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTYw/NTYtMTQzMTczODY4/Ni00MTgwLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/vApztyAc3O10-tF2nqGpCpyfKq4bSt1VFjC1HBgJCEU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMTYw/NTYtMTQzMTczODY4/Ni00MTgwLmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

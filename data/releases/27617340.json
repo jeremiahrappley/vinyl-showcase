@@ -1,0 +1,387 @@
+{
+  "id": 27617340,
+  "status": "Accepted",
+  "year": 2023,
+  "resource_url": "https://api.discogs.com/releases/27617340",
+  "uri": "https://www.discogs.com/release/27617340-Rüfüs-Du-Sol-Live-From-Joshua-Tree",
+  "artists": [
+    {
+      "name": "Rüfüs Du Sol",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 5609881,
+      "resource_url": "https://api.discogs.com/artists/5609881",
+      "thumbnail_url": "https://i.discogs.com/NzJqjJAbqSOo3gcvEZg6VPsuJ3QmXKHlxiVF4Bv1g9s/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU2MDk4/ODEtMTcxODk5Nzc1/MC0yMDM2LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Rüfüs Du Sol",
+  "labels": [
+    {
+      "name": "Rose Avenue",
+      "catno": "093624870616",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1546151,
+      "resource_url": "https://api.discogs.com/labels/1546151",
+      "thumbnail_url": "https://i.discogs.com/SNyQPzBSVqqwfynOuqzbRhV40UBkJaG0jlj0PuRr4t4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1NDYx/NTEtMTYyNzc2MDE1/Ni0yNTM0LmpwZWc.jpeg"
+    },
+    {
+      "name": "Reprise Records",
+      "catno": "093624870616",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 157,
+      "resource_url": "https://api.discogs.com/labels/157",
+      "thumbnail_url": "https://i.discogs.com/iKBCqc_nPLAGiCS4_2RshoKpj-ZuUJo7Z1qzYmFuJrc/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1Ny0x/NTIxMTk1ODk5LTE1/NzgucG5n.jpeg"
+    },
+    {
+      "name": "Rose Avenue",
+      "catno": "093624870647",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1546151,
+      "resource_url": "https://api.discogs.com/labels/1546151",
+      "thumbnail_url": "https://i.discogs.com/SNyQPzBSVqqwfynOuqzbRhV40UBkJaG0jlj0PuRr4t4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1NDYx/NTEtMTYyNzc2MDE1/Ni0yNTM0LmpwZWc.jpeg"
+    },
+    {
+      "name": "Reprise Records",
+      "catno": "093624870647",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 157,
+      "resource_url": "https://api.discogs.com/labels/157",
+      "thumbnail_url": "https://i.discogs.com/iKBCqc_nPLAGiCS4_2RshoKpj-ZuUJo7Z1qzYmFuJrc/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1Ny0x/NTIxMTk1ODk5LTE1/NzgucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Rose Avenue Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 2317927,
+      "resource_url": "https://api.discogs.com/labels/2317927",
+      "thumbnail_url": "https://i.discogs.com/E2xuq5JWrYKC8UN71mJ_UCWc2XNSs_cjV4BaN1hrVvA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTc5/MjctMTYyNzc2MjM2/Mi05NTYxLmpwZWc.jpeg"
+    },
+    {
+      "name": "Rose Avenue Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 2317927,
+      "resource_url": "https://api.discogs.com/labels/2317927",
+      "thumbnail_url": "https://i.discogs.com/E2xuq5JWrYKC8UN71mJ_UCWc2XNSs_cjV4BaN1hrVvA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTc5/MjctMTYyNzc2MjM2/Mi05NTYxLmpwZWc.jpeg"
+    },
+    {
+      "name": "Reprise Records",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 157,
+      "resource_url": "https://api.discogs.com/labels/157",
+      "thumbnail_url": "https://i.discogs.com/iKBCqc_nPLAGiCS4_2RshoKpj-ZuUJo7Z1qzYmFuJrc/rs:fit/g:sm/q:90/h:600/w:466/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1Ny0x/NTIxMTk1ODk5LTE1/NzgucG5n.jpeg"
+    },
+    {
+      "name": "Skyline Ranch, Joshua Tree",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 3324924,
+      "resource_url": "https://api.discogs.com/labels/3324924"
+    },
+    {
+      "name": "Bernie Becker Mastering",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 306694,
+      "resource_url": "https://api.discogs.com/labels/306694"
+    },
+    {
+      "name": "GZ Media",
+      "catno": "257378E",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Limited Edition"
+      ],
+      "text": "Transparent Blue"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 926,
+    "want": 233,
+    "rating": {
+      "count": 66,
+      "average": 4.82
+    },
+    "submitter": {
+      "username": "kraftberg",
+      "resource_url": "https://api.discogs.com/users/kraftberg"
+    },
+    "contributors": [
+      {
+        "username": "kraftberg",
+        "resource_url": "https://api.discogs.com/users/kraftberg"
+      },
+      {
+        "username": "maxxyme",
+        "resource_url": "https://api.discogs.com/users/maxxyme"
+      },
+      {
+        "username": "Phizax",
+        "resource_url": "https://api.discogs.com/users/Phizax"
+      },
+      {
+        "username": "rdvriese",
+        "resource_url": "https://api.discogs.com/users/rdvriese"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2023-07-08T08:51:47-07:00",
+  "date_changed": "2024-05-30T11:34:49-07:00",
+  "num_for_sale": 6,
+  "lowest_price": 165,
+  "master_id": 3161118,
+  "master_url": "https://api.discogs.com/masters/3161118",
+  "title": "Live From Joshua Tree",
+  "country": "Europe",
+  "released": "2023-07-07",
+  "notes": "Gatefold sleeve.\nLimited Edition Transparent Blue Vinyl\nRecorded at Skyline Ranch, Joshua Tree, Ca l Mastered at Becker Mastering, Los Angeles, Ca\n© 2023 Rose Avenue Records under exclusive license to Reprise Records. ℗ 2020 Rose Avenue Records under exclusive license to Reprise Records.\nMade in Czech Republic.\n\nCat# 093624870647 on label\nCat# 093624870616 on spine and sticker",
+  "released_formatted": "07 Jul 2023",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "0 93624 87061 6",
+      "description": "Text"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BG 093624870647-A 257378E1 1529517",
+      "description": "Runout side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BG 093624870647-B 257378E2 1503499",
+      "description": "Runout side B"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=Zy4KtD98S2c",
+      "title": "RÜFÜS DU SOL - Live from Joshua Tree",
+      "description": "RÜFÜS DU SOL Live from Joshua Tree\nA film by Alexander George\nWith Tyrone Lindqvist, James Hunt and Jon George\n\nProduced by Danny Robson & Alexander George\nAssociate Producer: Irene Ku \nAssistant Producer: Derek Rickert\nAssistant Director: Zach Toupin\nEdi",
+      "duration": 0,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic"
+  ],
+  "styles": [
+    "Dance-pop"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Valley Of The Yuccas ",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Eyes",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "New Sky",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Desert Night",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Solace",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Underwater",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Innerbloom",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "No Place",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Alex George (2)",
+      "anv": "",
+      "join": "",
+      "role": "Creative Director",
+      "tracks": "",
+      "id": 7004626,
+      "resource_url": "https://api.discogs.com/artists/7004626"
+    },
+    {
+      "name": "Bernie Grundman",
+      "anv": "BG",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 307942,
+      "resource_url": "https://api.discogs.com/artists/307942"
+    },
+    {
+      "name": "Alex Tenta",
+      "anv": "",
+      "join": "",
+      "role": "Layout",
+      "tracks": "",
+      "id": 2197407,
+      "resource_url": "https://api.discogs.com/artists/2197407"
+    },
+    {
+      "name": "Dale Becker",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 2149985,
+      "resource_url": "https://api.discogs.com/artists/2149985"
+    },
+    {
+      "name": "Cam Trewin",
+      "anv": "Cameron Trewin",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "",
+      "id": 2429716,
+      "resource_url": "https://api.discogs.com/artists/2429716"
+    },
+    {
+      "name": "Reuben Wu",
+      "anv": "",
+      "join": "",
+      "role": "Photography By [Photos By]",
+      "tracks": "",
+      "id": 407774,
+      "resource_url": "https://api.discogs.com/artists/407774"
+    },
+    {
+      "name": "Rüfüs Du Sol",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By, Engineer, Instrumentation By, Programmed By, Vocals",
+      "tracks": "",
+      "id": 5609881,
+      "resource_url": "https://api.discogs.com/artists/5609881"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/wkKsI3YG_sC2BztPix7gRroS_smGqdw8y5P3ApFdhRM/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/MzQwLTE2ODg4NDUx/ODQtNDM5NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/wkKsI3YG_sC2BztPix7gRroS_smGqdw8y5P3ApFdhRM/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/MzQwLTE2ODg4NDUx/ODQtNDM5NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/1Ikh6GxqSPEBavRCr_NstBGyh-5-i2TtDIa92HlPvso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/MzQwLTE2ODg4NDUx/ODQtNDM5NC5qcGVn.jpeg",
+      "width": 595,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/mICDOiAImENK3DTxsrgLlUeZKXeE9UTjjIuVcRgJmkU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/MzQwLTE2ODg4NDUx/ODQtMzgwNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/mICDOiAImENK3DTxsrgLlUeZKXeE9UTjjIuVcRgJmkU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/MzQwLTE2ODg4NDUx/ODQtMzgwNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/9bXAPbtX8dK1Br6_agG8RlhdoSCSv_6Ja8OEOQV9iRI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/MzQwLTE2ODg4NDUx/ODQtMzgwNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/WdhZV9yJkqjiIBUniKnJN4Uu8fziGI3YqBMa2QZ1brk/rs:fit/g:sm/q:90/h:289/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/MzQwLTE2ODg4NDUx/ODQtNDY1NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/WdhZV9yJkqjiIBUniKnJN4Uu8fziGI3YqBMa2QZ1brk/rs:fit/g:sm/q:90/h:289/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/MzQwLTE2ODg4NDUx/ODQtNDY1NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/gchq2lpizgFaiBWd9L44KbCqKVACWrLp8G7JTq_pxnw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/MzQwLTE2ODg4NDUx/ODQtNDY1NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 289
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/XHcje8yiCytgu9geUJMwBwQWXnrwyrcg7iNDPdeBndw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/MzQwLTE2ODg4NDUx/ODUtOTI2My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/XHcje8yiCytgu9geUJMwBwQWXnrwyrcg7iNDPdeBndw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/MzQwLTE2ODg4NDUx/ODUtOTI2My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/u0RNrAJVab_K9aviKOEGzphSpNS0otzBgWdqIj4dcRw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/MzQwLTE2ODg4NDUx/ODUtOTI2My5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/b1gkOyxYXekZpt4DzEHlKrB9y6ahRVckcK-RDaW8l3c/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/MzQwLTE2ODg4NDUx/ODQtNTIzNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/b1gkOyxYXekZpt4DzEHlKrB9y6ahRVckcK-RDaW8l3c/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/MzQwLTE2ODg4NDUx/ODQtNTIzNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/VXouQppXMSpeajHq3tv0JcyFNybZWePAMhqlLTu_WEE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/MzQwLTE2ODg4NDUx/ODQtNTIzNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 589
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/gkTsqdPfJPjFtRcDlHUXChjW1Kf_NmzpNF746fSNurg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/MzQwLTE2ODg4NDUy/MTctMjgyNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/gkTsqdPfJPjFtRcDlHUXChjW1Kf_NmzpNF746fSNurg/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/MzQwLTE2ODg4NDUy/MTctMjgyNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/I6GMUe1OVr2ubbh8Lax6dC7yPmi3iVicUKjysI2TVuY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/MzQwLTE2ODg4NDUy/MTctMjgyNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 595
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/IWwY3QlOBARCR5KENZq9tpBtUkiW5ZbBXfzODT6g_ZQ/rs:fit/g:sm/q:90/h:383/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/MzQwLTE2ODg4NDUy/MTgtODk3NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/IWwY3QlOBARCR5KENZq9tpBtUkiW5ZbBXfzODT6g_ZQ/rs:fit/g:sm/q:90/h:383/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/MzQwLTE2ODg4NDUy/MTgtODk3NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/sYPsD-w8Sjsm64PjA7YK2C8zgFw6kWOs0AmlmDd0Jko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/MzQwLTE2ODg4NDUy/MTgtODk3NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 383
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/lvkC56sMT2ifq2XLbnvWp8-sH-wza4vghFLKdjxmS1g/rs:fit/g:sm/q:90/h:323/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/MzQwLTE2ODg4NDUy/MTgtODc3OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/lvkC56sMT2ifq2XLbnvWp8-sH-wza4vghFLKdjxmS1g/rs:fit/g:sm/q:90/h:323/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/MzQwLTE2ODg4NDUy/MTgtODc3OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/L-80wnpzp7E6dcgaEv4SFq-5Y2T0bz5H5EdzbX05KhA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/MzQwLTE2ODg4NDUy/MTgtODc3OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 323
+    }
+  ],
+  "thumb": "https://i.discogs.com/1Ikh6GxqSPEBavRCr_NstBGyh-5-i2TtDIa92HlPvso/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjE3/MzQwLTE2ODg4NDUx/ODQtNDM5NC5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

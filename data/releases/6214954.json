@@ -1,0 +1,749 @@
+{
+  "id": 6214954,
+  "status": "Accepted",
+  "year": 2014,
+  "resource_url": "https://api.discogs.com/releases/6214954",
+  "uri": "https://www.discogs.com/release/6214954-Jhené-Aiko-Souled-Out",
+  "artists": [
+    {
+      "name": "Jhené Aiko",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 3588219,
+      "resource_url": "https://api.discogs.com/artists/3588219",
+      "thumbnail_url": "https://i.discogs.com/1q16-aSzx970bzKmWi1DSBnNcf1dWKmt9u-y44xQI3w/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM1ODgy/MTktMTYzMjY5MzE2/MS02MTkxLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Jhené Aiko",
+  "labels": [
+    {
+      "name": "Def Jam Recordings",
+      "catno": "B0021898-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 4241,
+      "resource_url": "https://api.discogs.com/labels/4241",
+      "thumbnail_url": "https://i.discogs.com/zueTHMMGjUzQWjoHJgHWCKAjf4hiKsUjdiYuj4mXCbs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQyNDEt/MTYwNDY3ODAzMi0y/NzA3LnBuZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Def Jam Recordings",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 4241,
+      "resource_url": "https://api.discogs.com/labels/4241",
+      "thumbnail_url": "https://i.discogs.com/zueTHMMGjUzQWjoHJgHWCKAjf4hiKsUjdiYuj4mXCbs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQyNDEt/MTYwNDY3ODAzMi0y/NzA3LnBuZw.jpeg"
+    },
+    {
+      "name": "Def Jam Recordings",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 4241,
+      "resource_url": "https://api.discogs.com/labels/4241",
+      "thumbnail_url": "https://i.discogs.com/zueTHMMGjUzQWjoHJgHWCKAjf4hiKsUjdiYuj4mXCbs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQyNDEt/MTYwNDY3ODAzMi0y/NzA3LnBuZw.jpeg"
+    },
+    {
+      "name": "ARTium Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 736139,
+      "resource_url": "https://api.discogs.com/labels/736139"
+    },
+    {
+      "name": "ARTium Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 736139,
+      "resource_url": "https://api.discogs.com/labels/736139"
+    },
+    {
+      "name": "Universal Music Distribution",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 115478,
+      "resource_url": "https://api.discogs.com/labels/115478"
+    },
+    {
+      "name": "Sterling Sound",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 264060,
+      "resource_url": "https://api.discogs.com/labels/264060",
+      "thumbnail_url": "https://i.discogs.com/Z8f0gMBrt5jLL4TAcCYDGXmMPOLi9V0UW593WXP6BUU/rs:fit/g:sm/q:90/h:118/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDA2/MC0xNTAwMjgzMzYy/LTMyMTguanBlZw.jpeg"
+    },
+    {
+      "name": "United Record Pressing",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 238322,
+      "resource_url": "https://api.discogs.com/labels/238322",
+      "thumbnail_url": "https://i.discogs.com/wXejTcaBZif0vNl1Wx8ZmvUBcAwkQ21T3AduA-BjUg8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzODMy/Mi0xNDk3Nzk0Njg4/LTg0MzAucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album"
+      ],
+      "text": "Gatefold"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 1215,
+    "want": 1057,
+    "rating": {
+      "count": 91,
+      "average": 4.66
+    },
+    "submitter": {
+      "username": "jon2650",
+      "resource_url": "https://api.discogs.com/users/jon2650"
+    },
+    "contributors": [
+      {
+        "username": "jon2650",
+        "resource_url": "https://api.discogs.com/users/jon2650"
+      },
+      {
+        "username": "kito0104",
+        "resource_url": "https://api.discogs.com/users/kito0104"
+      },
+      {
+        "username": "agnew",
+        "resource_url": "https://api.discogs.com/users/agnew"
+      },
+      {
+        "username": "Oliviaka",
+        "resource_url": "https://api.discogs.com/users/Oliviaka"
+      },
+      {
+        "username": ".SLCOOLJ.",
+        "resource_url": "https://api.discogs.com/users/.SLCOOLJ."
+      },
+      {
+        "username": "xx1385",
+        "resource_url": "https://api.discogs.com/users/xx1385"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2014-10-21T09:20:38-07:00",
+  "date_changed": "2024-01-10T17:13:19-08:00",
+  "num_for_sale": 22,
+  "lowest_price": 20.87,
+  "master_id": 731175,
+  "master_url": "https://api.discogs.com/masters/731175",
+  "title": "Souled Out",
+  "country": "US",
+  "released": "2014-10-21",
+  "released_formatted": "21 Oct 2014",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02547 02209 7"
+    },
+    {
+      "type": "ASIN",
+      "value": "B00NKVA8GC"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0021898-01A RJ STERLING ⓤ",
+      "description": "Runout Side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0021898-01B RE-1 RJ STERLING ⓤ",
+      "description": "Runout Side B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0021898-01C RJ STERLING ⓤ",
+      "description": "Runout Side C"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0021898-01D RJ STERLING ⓤ",
+      "description": "Runout Side D"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=00bumpN0Mhw",
+      "title": "Jhené Aiko - The Pressure (Explicit)",
+      "description": "Download \"The Pressure\" on iTunes: http://smarturl.it/isailout\n\n#JhenéAiko #ThePressure #Vevo",
+      "duration": 262,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=EYS-zFrcD_A",
+      "title": "Jhené Aiko - Wading (Official Music Video)",
+      "description": "Jhené Aiko - Wading\n\n#JhenéAiko Wading #Vevo #RandB #OfficialMusicVideo",
+      "duration": 262,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=SnnJhEy9IzY",
+      "title": "Jhené Aiko - Eternal Sunshine (Official Video)",
+      "description": "Download Souled Out on iTunes: http://smarturl.it/SouledOut\n\nMusic video by Jhené Aiko performing Eternal Sunshine. (C) 2015 Def Jam Recordings (ARTium Records), a division of UMG Recordings, Inc.\n\n#JhenéAiko #EternalSunshine #Vevo",
+      "duration": 223,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=BaF-pGyKaOg",
+      "title": "Jhené Aiko - Spotless Mind (Official Music Video)",
+      "description": "Jhené Aiko - Spotless Mind\nDownload Souled Out on iTunes: http://smarturl.it/SouledOut\n\n#JheneAiko #SpotlessMind #Vevo #RandB",
+      "duration": 269,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=6C92rXXHxG8",
+      "title": "Jhené Aiko - Lyin King",
+      "description": "directed by TOCK + Topshelf Junior\n\nwritten and performed by Jhené Aiko\n\n“A mysterious, time traveling medicine woman has a prophetic vision of an early civilization in trouble.\n\nThe men have neglected the women and deprived them of love. By orders of ",
+      "duration": 358,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=00bumpN0Mhw",
+      "title": "Jhené Aiko - The Pressure (Explicit)",
+      "description": "Download \"The Pressure\" on iTunes: http://smarturl.it/isailout\n\n#JhenéAiko #ThePressure #Vevo",
+      "duration": 262,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=EYS-zFrcD_A",
+      "title": "Jhené Aiko - Wading (Official Music Video)",
+      "description": "Jhené Aiko - Wading\n\n#JhenéAiko Wading #Vevo #RandB #OfficialMusicVideo",
+      "duration": 262,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=SnnJhEy9IzY",
+      "title": "Jhené Aiko - Eternal Sunshine (Official Video)",
+      "description": "Download Souled Out on iTunes: http://smarturl.it/SouledOut\n\nMusic video by Jhené Aiko performing Eternal Sunshine. (C) 2015 Def Jam Recordings (ARTium Records), a division of UMG Recordings, Inc.\n\n#JhenéAiko #EternalSunshine #Vevo",
+      "duration": 223,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=BaF-pGyKaOg",
+      "title": "Jhené Aiko - Spotless Mind (Official Music Video)",
+      "description": "Jhené Aiko - Spotless Mind\nDownload Souled Out on iTunes: http://smarturl.it/SouledOut\n\n#JheneAiko #SpotlessMind #Vevo #RandB",
+      "duration": 269,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=6C92rXXHxG8",
+      "title": "Jhené Aiko - Lyin King",
+      "description": "directed by TOCK + Topshelf Junior\n\nwritten and performed by Jhené Aiko\n\n“A mysterious, time traveling medicine woman has a prophetic vision of an early civilization in trouble.\n\nThe men have neglected the women and deprived them of love. By orders of ",
+      "duration": 358,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=wJ6umyNCvqw",
+      "title": "Jhene Aiko- Spotless Mind (Souled Out)",
+      "description": "Jhene Aiko (Souled Out Album) – Spotless Mind\n\nDownload on Album:\niTunes: http://smarturl.it/iSouledOutDlx\nAmazon: http://geni.us/aSouledOutDlx\nGoogle: http://smarturl.it/gSouledOutDlx\n\nInstagram.com/JheneAiko\n\nTo artist: All these songs have been purch",
+      "duration": 269,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=XMk1nmCyWFE",
+      "title": "Jhene Aiko- W.A.Y.S. (Souled Out)",
+      "description": "Jhene Aiko (Souled Out Album) – W.A.Y.S.\n\nDownload on Album:\niTunes: http://smarturl.it/iSouledOutDlx\nAmazon: http://geni.us/aSouledOutDlx\nGoogle: http://smarturl.it/gSouledOutDlx\n\nInstagram.com/JheneAiko\n\nTo artist: All these songs have been purchased ",
+      "duration": 239,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=pax8JVpbh4A",
+      "title": "Jhene Aiko- Wading (Souled Out)",
+      "description": "Jhene Aiko (Souled Out Album) – Wading\n\nDownload on Album:\niTunes: http://smarturl.it/iSouledOutDlx\nAmazon: http://geni.us/aSouledOutDlx\nGoogle: http://smarturl.it/gSouledOutDlx\n\nInstagram.com/JheneAiko\n\nTo artist: All these songs have been purchased by",
+      "duration": 277,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KOhuP8Gbp2s",
+      "title": "Jhene Aiko- Lyin King (Souled Out)",
+      "description": "Jhene Aiko (Souled Out Album) – Lyin King\n\nDownload on Album:\niTunes: http://smarturl.it/iSouledOutDlx\nAmazon: http://geni.us/aSouledOutDlx\nGoogle: http://smarturl.it/gSouledOutDlx\n\nInstagram.com/JheneAiko\n\nTo artist: All these songs have been purchased",
+      "duration": 214,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=DJXpwOsr-DU",
+      "title": "Blue Dream",
+      "description": "Provided to YouTube by Universal Music Group\n\nBlue Dream · Jhené Aiko\n\nSouled Out\n\n℗ 2014 Def Jam Recordings (ARTium Records), a division of UMG Recordings, Inc.\n\nReleased on: 2014-09-09\n\nProducer: No ID\nStudio  Personnel, Recording  Engineer: Jim Car",
+      "duration": 218,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Qn1i0VirWxg",
+      "title": "Jhene Aiko- It's Cool (Souled Out)",
+      "description": "Jhene Aiko (Souled Out Album) – It's Cool\n\nDownload on Album:\niTunes: http://smarturl.it/iSouledOutDlx\nAmazon: http://geni.us/aSouledOutDlx\nGoogle: http://smarturl.it/gSouledOutDlx\n\nInstagram.com/JheneAiko\n\nTo artist: All these songs have been purchased",
+      "duration": 236,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=0_kPtyeFGio",
+      "title": "Jhene Aiko- The Pressure (Souled Out) Explicit",
+      "description": "Jhene Aiko (Souled Out Album) – The Pressure\n\nDownload on Album:\niTunes: http://smarturl.it/iSouledOutDlx\nAmazon: http://geni.us/aSouledOutDlx\nGoogle: http://smarturl.it/gSouledOutDlx\n\nInstagram.com/JheneAiko\n\nTo artist: All these songs have been purcha",
+      "duration": 238,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=0_kPtyeFGio",
+      "title": "Jhene Aiko- The Pressure (Souled Out) Explicit",
+      "description": "Jhene Aiko (Souled Out Album) – The Pressure\n\nDownload on Album:\niTunes: http://smarturl.it/iSouledOutDlx\nAmazon: http://geni.us/aSouledOutDlx\nGoogle: http://smarturl.it/gSouledOutDlx\n\nInstagram.com/JheneAiko\n\nTo artist: All these songs have been purcha",
+      "duration": 238,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=9iuNkNH8J4g",
+      "title": "Blue Dream",
+      "description": "Provided to YouTube by Universal Music Group\n\nBlue Dream · Jhené Aiko\n\nSouled Out\n\n℗ 2014 Def Jam Recordings (ARTium Records), a division of UMG Recordings, Inc.\n\nReleased on: 2014-09-09\n\nProducer: No ID\nStudio  Personnel, Recording  Engineer: Jim Car",
+      "duration": 217,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=9iuNkNH8J4g",
+      "title": "Blue Dream",
+      "description": "Provided to YouTube by Universal Music Group\n\nBlue Dream · Jhené Aiko\n\nSouled Out\n\n℗ 2014 Def Jam Recordings (ARTium Records), a division of UMG Recordings, Inc.\n\nReleased on: 2014-09-09\n\nProducer: No ID\nStudio  Personnel, Recording  Engineer: Jim Car",
+      "duration": 217,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=NB3GMWbjFAs",
+      "title": "Jhene Aiko- Remember (Souled Out) Explicit",
+      "description": "Jhene Aiko (Souled Out Album) – Remember\n\nDownload on Album:\niTunes: http://smarturl.it/iSouledOutDlx\nAmazon: http://geni.us/aSouledOutDlx\nGoogle: http://smarturl.it/gSouledOutDlx\n\nInstagram.com/JheneAiko\n\nTo artist: All these songs have been purchased ",
+      "duration": 199,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=NB3GMWbjFAs",
+      "title": "Jhene Aiko- Remember (Souled Out) Explicit",
+      "description": "Jhene Aiko (Souled Out Album) – Remember\n\nDownload on Album:\niTunes: http://smarturl.it/iSouledOutDlx\nAmazon: http://geni.us/aSouledOutDlx\nGoogle: http://smarturl.it/gSouledOutDlx\n\nInstagram.com/JheneAiko\n\nTo artist: All these songs have been purchased ",
+      "duration": 199,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=A-H_6lVEnL0",
+      "title": "Promises",
+      "description": "Provided to YouTube by Universal Music Group\n\nPromises · Jhené Aiko · Namiko · Miyagi\n\nSouled Out\n\n℗ 2014 UMG Recordings, Inc.\n\nReleased on: 2014-09-09\n\nProducer: No ID\nStudio  Personnel, Recording  Engineer: Jim Caruana\nStudio  Personnel, Asst.  Re",
+      "duration": 298,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=A-H_6lVEnL0",
+      "title": "Promises",
+      "description": "Provided to YouTube by Universal Music Group\n\nPromises · Jhené Aiko · Namiko · Miyagi\n\nSouled Out\n\n℗ 2014 UMG Recordings, Inc.\n\nReleased on: 2014-09-09\n\nProducer: No ID\nStudio  Personnel, Recording  Engineer: Jim Caruana\nStudio  Personnel, Asst.  Re",
+      "duration": 298,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=UCnvRnCoGYU",
+      "title": "Jhene Aiko- Pretty Bird (Souled Out)",
+      "description": "Jhene Aiko (Souled Out Album) – Pretty Bird\n\nDownload on Album:\niTunes: http://smarturl.it/iSouledOutDlx\nAmazon: http://geni.us/aSouledOutDlx\nGoogle: http://smarturl.it/gSouledOutDlx\n\nInstagram.com/JheneAiko\n\nTo artist: All these songs have been purchas",
+      "duration": 291,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=UCnvRnCoGYU",
+      "title": "Jhene Aiko- Pretty Bird (Souled Out)",
+      "description": "Jhene Aiko (Souled Out Album) – Pretty Bird\n\nDownload on Album:\niTunes: http://smarturl.it/iSouledOutDlx\nAmazon: http://geni.us/aSouledOutDlx\nGoogle: http://smarturl.it/gSouledOutDlx\n\nInstagram.com/JheneAiko\n\nTo artist: All these songs have been purchas",
+      "duration": 291,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=DS5KmBxylJU",
+      "title": "Remember",
+      "description": "Provided to YouTube by Universal Music Group\n\nRemember · Jhené Aiko\n\nSouled Out\n\n℗ 2014 Def Jam Recordings (ARTium Records), a division of UMG Recordings, Inc.\n\nReleased on: 2014-09-09\n\nProducer, Studio  Personnel, Engineer: Fisticuffs\nStudio  Personn",
+      "duration": 199,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=DS5KmBxylJU",
+      "title": "Remember",
+      "description": "Provided to YouTube by Universal Music Group\n\nRemember · Jhené Aiko\n\nSouled Out\n\n℗ 2014 Def Jam Recordings (ARTium Records), a division of UMG Recordings, Inc.\n\nReleased on: 2014-09-09\n\nProducer, Studio  Personnel, Engineer: Fisticuffs\nStudio  Personn",
+      "duration": 199,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=RMgpphSQdB4",
+      "title": "It's Cool",
+      "description": "Provided to YouTube by Universal Music Group\n\nIt's Cool · Jhené Aiko\n\nSouled Out\n\n℗ 2014 Def Jam Recordings (ARTium Records), a division of UMG Recordings, Inc.\n\nReleased on: 2014-09-09\n\nProducer: No ID\nStudio  Personnel, Recording  Engineer: Rob Kine",
+      "duration": 236,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=RMgpphSQdB4",
+      "title": "It's Cool",
+      "description": "Provided to YouTube by Universal Music Group\n\nIt's Cool · Jhené Aiko\n\nSouled Out\n\n℗ 2014 Def Jam Recordings (ARTium Records), a division of UMG Recordings, Inc.\n\nReleased on: 2014-09-09\n\nProducer: No ID\nStudio  Personnel, Recording  Engineer: Rob Kine",
+      "duration": 236,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=2xRIclAXVmo",
+      "title": "Jhene Aiko- Promises (fest. NAMIKO & Miyagi) (Souled Out)",
+      "description": "Jhene Aiko (Souled Out Album) – Promises\nDownload on Album:\niTunes: http://smarturl.it/iSouledOutDlx\nAmazon: http://geni.us/aSouledOutDlx\nGoogle: http://smarturl.it/gSouledOutDlx\nInstagram.com/JheneAiko\nTo artist: All these songs have been purchased by ",
+      "duration": 298,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=2xRIclAXVmo",
+      "title": "Jhene Aiko- Promises (fest. NAMIKO & Miyagi) (Souled Out)",
+      "description": "Jhene Aiko (Souled Out Album) – Promises\nDownload on Album:\niTunes: http://smarturl.it/iSouledOutDlx\nAmazon: http://geni.us/aSouledOutDlx\nGoogle: http://smarturl.it/gSouledOutDlx\nInstagram.com/JheneAiko\nTo artist: All these songs have been purchased by ",
+      "duration": 298,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=IuD6G3bOrIs",
+      "title": "Brave",
+      "description": "Provided to YouTube by Universal Music Group\n\nBrave · Jhené Aiko\n\nSouled Out\n\n℗ 2014 Def Jam Recordings (ARTium Records), a division of UMG Recordings, Inc.\n\nReleased on: 2014-09-09\n\nProducer: No ID\nStudio  Personnel, Recording  Engineer: Jim Caruana\n",
+      "duration": 233,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=IuD6G3bOrIs",
+      "title": "Brave",
+      "description": "Provided to YouTube by Universal Music Group\n\nBrave · Jhené Aiko\n\nSouled Out\n\n℗ 2014 Def Jam Recordings (ARTium Records), a division of UMG Recordings, Inc.\n\nReleased on: 2014-09-09\n\nProducer: No ID\nStudio  Personnel, Recording  Engineer: Jim Caruana\n",
+      "duration": 233,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=es3Fm7dLm2o",
+      "title": "Jhene Aiko- Blue Dream (Souled Out)",
+      "description": "Jhene Aiko (Souled Out Album) – Blue dream\n\nDownload on Album:\niTunes: http://smarturl.it/iSouledOutDlx\nAmazon: http://geni.us/aSouledOutDlx\nGoogle: http://smarturl.it/gSouledOutDlx\n\nInstagram.com/JheneAiko\n\nTo artist: All these songs have been purchase",
+      "duration": 217,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=es3Fm7dLm2o",
+      "title": "Jhene Aiko- Blue Dream (Souled Out)",
+      "description": "Jhene Aiko (Souled Out Album) – Blue dream\n\nDownload on Album:\niTunes: http://smarturl.it/iSouledOutDlx\nAmazon: http://geni.us/aSouledOutDlx\nGoogle: http://smarturl.it/gSouledOutDlx\n\nInstagram.com/JheneAiko\n\nTo artist: All these songs have been purchase",
+      "duration": 217,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=w1RJNWK07FI",
+      "title": "Brave",
+      "description": "Provided to YouTube by Universal Music Group\n\nBrave · Jhené Aiko\n\nSouled Out\n\n℗ 2014 Def Jam Recordings (ARTium Records), a division of UMG Recordings, Inc.\n\nReleased on: 2014-09-09\n\nProducer: No ID\nStudio  Personnel, Recording  Engineer: Jim Caruana\n",
+      "duration": 233,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=w1RJNWK07FI",
+      "title": "Brave",
+      "description": "Provided to YouTube by Universal Music Group\n\nBrave · Jhené Aiko\n\nSouled Out\n\n℗ 2014 Def Jam Recordings (ARTium Records), a division of UMG Recordings, Inc.\n\nReleased on: 2014-09-09\n\nProducer: No ID\nStudio  Personnel, Recording  Engineer: Jim Caruana\n",
+      "duration": 233,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=poNjgB-U13A",
+      "title": "Jhene Aiko  To Love & Die feat  Cocaine 80s Souled Out Explicit",
+      "description": "",
+      "duration": 204,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=poNjgB-U13A",
+      "title": "Jhene Aiko  To Love & Die feat  Cocaine 80s Souled Out Explicit",
+      "description": "",
+      "duration": 204,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=0paO14gvFAk",
+      "title": "Jhene Aiko- Brave (Souled Out) Explicit",
+      "description": "Jhene Aiko (Souled Out Album) – Brave\n\nDownload on Album:\niTunes: http://smarturl.it/iSouledOutDlx\nAmazon: http://geni.us/aSouledOutDlx\nGoogle: http://smarturl.it/gSouledOutDlx\n\nInstagram.com/JheneAiko\n\nTo artist: All these songs have been purchased by ",
+      "duration": 233,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=0paO14gvFAk",
+      "title": "Jhene Aiko- Brave (Souled Out) Explicit",
+      "description": "Jhene Aiko (Souled Out Album) – Brave\n\nDownload on Album:\niTunes: http://smarturl.it/iSouledOutDlx\nAmazon: http://geni.us/aSouledOutDlx\nGoogle: http://smarturl.it/gSouledOutDlx\n\nInstagram.com/JheneAiko\n\nTo artist: All these songs have been purchased by ",
+      "duration": 233,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=U930cmnHg8s",
+      "title": "Jhene Aiko- Eternal Sunshine (Souled Out)",
+      "description": "Jhene Aiko (Souled Out Album) – Eternal Sunshine\n\nDownload on Album:\niTunes: http://smarturl.it/iSouledOutDlx\nAmazon: http://geni.us/aSouledOutDlx\nGoogle: http://smarturl.it/gSouledOutDlx\n\nInstagram.com/JheneAiko\n\nTo artist: All these songs have been pu",
+      "duration": 211,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=U930cmnHg8s",
+      "title": "Jhene Aiko- Eternal Sunshine (Souled Out)",
+      "description": "Jhene Aiko (Souled Out Album) – Eternal Sunshine\n\nDownload on Album:\niTunes: http://smarturl.it/iSouledOutDlx\nAmazon: http://geni.us/aSouledOutDlx\nGoogle: http://smarturl.it/gSouledOutDlx\n\nInstagram.com/JheneAiko\n\nTo artist: All these songs have been pu",
+      "duration": 211,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Hip Hop",
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Contemporary R&B"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Limbo Limbo Limbo",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "W.A.Y.S.",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "To Love & Die",
+      "extraartists": [
+        {
+          "name": "Cocaine 80s",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2834993,
+          "resource_url": "https://api.discogs.com/artists/2834993"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Spotless Mind",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "It's Cool",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Lyin King",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Wading",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "The Pressure",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Brave",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Eternal Sunshine",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Promises",
+      "extraartists": [
+        {
+          "name": "Miyagi (7)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3994081,
+          "resource_url": "https://api.discogs.com/artists/3994081"
+        },
+        {
+          "name": "Namiko Love",
+          "anv": "Namiko",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 6050050,
+          "resource_url": "https://api.discogs.com/artists/6050050"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "Pretty Bird (Freestyle)",
+      "extraartists": [
+        {
+          "name": "Common",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 14014,
+          "resource_url": "https://api.discogs.com/artists/14014"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Remember",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Blue Dream",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Noah Preston",
+      "anv": "",
+      "join": "",
+      "role": "A&R",
+      "tracks": "",
+      "id": 3994080,
+      "resource_url": "https://api.discogs.com/artists/3994080"
+    },
+    {
+      "name": "Ketrina \"Taz\" Askew",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 3099714,
+      "resource_url": "https://api.discogs.com/artists/3099714"
+    },
+    {
+      "name": "No I.D.",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 108618,
+      "resource_url": "https://api.discogs.com/artists/108618"
+    },
+    {
+      "name": "Jhené Aiko Efuru Chilombo",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer [Co], A&R",
+      "tracks": "",
+      "id": 3619927,
+      "resource_url": "https://api.discogs.com/artists/3619927"
+    },
+    {
+      "name": "Ray Janos",
+      "anv": "RJ",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 339229,
+      "resource_url": "https://api.discogs.com/artists/339229"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/dnEUFny-IaQKd-X9htEMfy_2rAtSIDPLkPfS0sQ-aRE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTQ5/NTQtMTQ5MjkwODQ2/MS00MDA5LnBuZw.jpeg",
+      "resource_url": "https://i.discogs.com/dnEUFny-IaQKd-X9htEMfy_2rAtSIDPLkPfS0sQ-aRE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTQ5/NTQtMTQ5MjkwODQ2/MS00MDA5LnBuZw.jpeg",
+      "uri150": "https://i.discogs.com/pTWdI803YQOp3rqLRmshbdPfiQURVD8DNRr9WjzSNLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTQ5/NTQtMTQ5MjkwODQ2/MS00MDA5LnBuZw.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/vNOD4NfFDYah22SnQr7VT7ned_RS7YFNpGbrlJ7hkqY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTQ5/NTQtMTQ5MjkwODQ3/NS0zNzMxLnBuZw.jpeg",
+      "resource_url": "https://i.discogs.com/vNOD4NfFDYah22SnQr7VT7ned_RS7YFNpGbrlJ7hkqY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTQ5/NTQtMTQ5MjkwODQ3/NS0zNzMxLnBuZw.jpeg",
+      "uri150": "https://i.discogs.com/KFwNNsSvEqg_U38HzFK23_L9gbjTkdzQzQgFo0noJw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTQ5/NTQtMTQ5MjkwODQ3/NS0zNzMxLnBuZw.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/CkjovDSYqXafhVWhUN2QibJiyIwPHX7Buuw9IJls2hY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTQ5/NTQtMTQ5MjkwODQ4/My0yNTg1LnBuZw.jpeg",
+      "resource_url": "https://i.discogs.com/CkjovDSYqXafhVWhUN2QibJiyIwPHX7Buuw9IJls2hY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTQ5/NTQtMTQ5MjkwODQ4/My0yNTg1LnBuZw.jpeg",
+      "uri150": "https://i.discogs.com/8mnxR1jRRe8d1XZh9oJVVFN33Q_ZEDRWf5WZrvpjkBQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTQ5/NTQtMTQ5MjkwODQ4/My0yNTg1LnBuZw.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/fbfeNpcfD980D8-Ql0DJo1grou2sKKihx3-Hv6eGy0c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTQ5/NTQtMTQ5MjkwODQ4/NC05OTAzLnBuZw.jpeg",
+      "resource_url": "https://i.discogs.com/fbfeNpcfD980D8-Ql0DJo1grou2sKKihx3-Hv6eGy0c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTQ5/NTQtMTQ5MjkwODQ4/NC05OTAzLnBuZw.jpeg",
+      "uri150": "https://i.discogs.com/Q0KZt9A7xkKuvGWln1giBf3lPT4yQ2EgUyFlT_pwrhM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTQ5/NTQtMTQ5MjkwODQ4/NC05OTAzLnBuZw.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/eN0cXs0ogSoPBTtvguAUXE6aBkPAtfJBo7zBwMa_Kw0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTQ5/NTQtMTQ5MjkwODQ4/NS0xMDY2LnBuZw.jpeg",
+      "resource_url": "https://i.discogs.com/eN0cXs0ogSoPBTtvguAUXE6aBkPAtfJBo7zBwMa_Kw0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTQ5/NTQtMTQ5MjkwODQ4/NS0xMDY2LnBuZw.jpeg",
+      "uri150": "https://i.discogs.com/dGgVZXUUFaOknjtDdIW74IV3NhAqRmqB5dJx4TKLT78/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTQ5/NTQtMTQ5MjkwODQ4/NS0xMDY2LnBuZw.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ObvaECPaMqal4rPrP1rXcR1clo1DWTfHnMndLkkrnfE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTQ5/NTQtMTQ5MjkwODQ4/MS05ODczLnBuZw.jpeg",
+      "resource_url": "https://i.discogs.com/ObvaECPaMqal4rPrP1rXcR1clo1DWTfHnMndLkkrnfE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTQ5/NTQtMTQ5MjkwODQ4/MS05ODczLnBuZw.jpeg",
+      "uri150": "https://i.discogs.com/zJfWU9J5BhsQgMphTl-47nkMf2xy7OKmCs45au9UWs0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTQ5/NTQtMTQ5MjkwODQ4/MS05ODczLnBuZw.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/TzLZtvaedfEATKq6hD5Lnp7E0o8LCg82aa4tMEuAGBo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTQ5/NTQtMTQ5MjkwODQ3/Ni0xNTU0LnBuZw.jpeg",
+      "resource_url": "https://i.discogs.com/TzLZtvaedfEATKq6hD5Lnp7E0o8LCg82aa4tMEuAGBo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTQ5/NTQtMTQ5MjkwODQ3/Ni0xNTU0LnBuZw.jpeg",
+      "uri150": "https://i.discogs.com/ZP9N5GHuLtWUaXGwbjN0iKBk_eZttCgnihEMRAZdItk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTQ5/NTQtMTQ5MjkwODQ3/Ni0xNTU0LnBuZw.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/hgKWd7hzOnI7d6OfoxklvySSJ5B76HXvznba39QD2TE/rs:fit/g:sm/q:90/h:588/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTQ5/NTQtMTQ5MjkwODQ3/OS03MTI2LnBuZw.jpeg",
+      "resource_url": "https://i.discogs.com/hgKWd7hzOnI7d6OfoxklvySSJ5B76HXvznba39QD2TE/rs:fit/g:sm/q:90/h:588/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTQ5/NTQtMTQ5MjkwODQ3/OS03MTI2LnBuZw.jpeg",
+      "uri150": "https://i.discogs.com/Xg9pGzfBnU-13SBDmwLTl8DmaezMoxsOFIATL_KUVw8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTQ5/NTQtMTQ5MjkwODQ3/OS03MTI2LnBuZw.jpeg",
+      "width": 400,
+      "height": 588
+    }
+  ],
+  "thumb": "https://i.discogs.com/pTWdI803YQOp3rqLRmshbdPfiQURVD8DNRr9WjzSNLE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyMTQ5/NTQtMTQ5MjkwODQ2/MS00MDA5LnBuZw.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

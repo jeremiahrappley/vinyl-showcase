@@ -1,0 +1,907 @@
+{
+  "id": 1545564,
+  "status": "Accepted",
+  "year": 1986,
+  "resource_url": "https://api.discogs.com/releases/1545564",
+  "uri": "https://www.discogs.com/release/1545564-Kenny-G-2-Duotones",
+  "artists": [
+    {
+      "name": "Kenny G (2)",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 96114,
+      "resource_url": "https://api.discogs.com/artists/96114",
+      "thumbnail_url": "https://i.discogs.com/L1gzQTUAbeWdAt_max-RQHuFVOU9tI3QD9oPVhZQNjQ/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTk2MTE0/LTE1NzQ5NTgyNzAt/NDY3My5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "Kenny G (2)",
+  "labels": [
+    {
+      "name": "Arista",
+      "catno": "AL 8-8427",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 362,
+      "resource_url": "https://api.discogs.com/labels/362",
+      "thumbnail_url": "https://i.discogs.com/LtFQ5vk9L_iX2QuscmOFE0TAcLtsQB7olAcijyQUZdA/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM2Mi0x/NTUwNzg3ODg4LTc0/ODguanBlZw.jpeg"
+    },
+    {
+      "name": "Arista",
+      "catno": "AL8-8427",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 362,
+      "resource_url": "https://api.discogs.com/labels/362",
+      "thumbnail_url": "https://i.discogs.com/LtFQ5vk9L_iX2QuscmOFE0TAcLtsQB7olAcijyQUZdA/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM2Mi0x/NTUwNzg3ODg4LTc0/ODguanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Perfection Light Productions Inc.",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 312053,
+      "resource_url": "https://api.discogs.com/labels/312053"
+    },
+    {
+      "name": "Arista Records, Inc.",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 264254,
+      "resource_url": "https://api.discogs.com/labels/264254",
+      "thumbnail_url": "https://i.discogs.com/75q_nROo1ZC2axF1w5wykMRjZvZouOKGCt_x2ieQwiA/rs:fit/g:sm/q:90/h:107/w:337/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDI1/NC0xMzcyMDQ4NTY3/LTYzMzUuanBlZw.jpeg"
+    },
+    {
+      "name": "Perfection Light Productions Inc.",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 312053,
+      "resource_url": "https://api.discogs.com/labels/312053"
+    },
+    {
+      "name": "Arista Records, Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 264254,
+      "resource_url": "https://api.discogs.com/labels/264254",
+      "thumbnail_url": "https://i.discogs.com/75q_nROo1ZC2axF1w5wykMRjZvZouOKGCt_x2ieQwiA/rs:fit/g:sm/q:90/h:107/w:337/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDI1/NC0xMzcyMDQ4NTY3/LTYzMzUuanBlZw.jpeg"
+    },
+    {
+      "name": "Arista Records, Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 264254,
+      "resource_url": "https://api.discogs.com/labels/264254",
+      "thumbnail_url": "https://i.discogs.com/75q_nROo1ZC2axF1w5wykMRjZvZouOKGCt_x2ieQwiA/rs:fit/g:sm/q:90/h:107/w:337/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDI1/NC0xMzcyMDQ4NTY3/LTYzMzUuanBlZw.jpeg"
+    },
+    {
+      "name": "RCA Records Pressing Plant, Indianapolis",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 406973,
+      "resource_url": "https://api.discogs.com/labels/406973",
+      "thumbnail_url": "https://i.discogs.com/p_Qla4SdKYhhQnjY9s-VoLNzHOitiwfDGxLvhjBaBX0/rs:fit/g:sm/q:90/h:294/w:288/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQwNjk3/My0xNDY0MDU5OTcz/LTk3MDMuanBlZw.jpeg"
+    },
+    {
+      "name": "Tarpan Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 322919,
+      "resource_url": "https://api.discogs.com/labels/322919",
+      "thumbnail_url": "https://i.discogs.com/GiX25dAz6xpnVxns3UEr--JDqY_S5fFxSdiZ31XnfV8/rs:fit/g:sm/q:90/h:600/w:483/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMyMjkx/OS0xNDI0ODU1MzU5/LTI3MTEuanBlZw.jpeg"
+    },
+    {
+      "name": "Studio G (5)",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 323959,
+      "resource_url": "https://api.discogs.com/labels/323959"
+    },
+    {
+      "name": "Sterling Sound",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 264060,
+      "resource_url": "https://api.discogs.com/labels/264060",
+      "thumbnail_url": "https://i.discogs.com/Z8f0gMBrt5jLL4TAcCYDGXmMPOLi9V0UW593WXP6BUU/rs:fit/g:sm/q:90/h:118/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDA2/MC0xNTAwMjgzMzYy/LTMyMTguanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 1997,
+    "want": 103,
+    "rating": {
+      "count": 88,
+      "average": 3.99
+    },
+    "submitter": {
+      "username": "tconnectionghr",
+      "resource_url": "https://api.discogs.com/users/tconnectionghr"
+    },
+    "contributors": [
+      {
+        "username": "tconnectionghr",
+        "resource_url": "https://api.discogs.com/users/tconnectionghr"
+      },
+      {
+        "username": "neutralic",
+        "resource_url": "https://api.discogs.com/users/neutralic"
+      },
+      {
+        "username": "inkyface0",
+        "resource_url": "https://api.discogs.com/users/inkyface0"
+      },
+      {
+        "username": "hafler3o",
+        "resource_url": "https://api.discogs.com/users/hafler3o"
+      },
+      {
+        "username": "tekkno-guy",
+        "resource_url": "https://api.discogs.com/users/tekkno-guy"
+      },
+      {
+        "username": "vokuhila",
+        "resource_url": "https://api.discogs.com/users/vokuhila"
+      },
+      {
+        "username": "photoguy",
+        "resource_url": "https://api.discogs.com/users/photoguy"
+      },
+      {
+        "username": "Gianlucamusic88",
+        "resource_url": "https://api.discogs.com/users/Gianlucamusic88"
+      },
+      {
+        "username": "kappa02",
+        "resource_url": "https://api.discogs.com/users/kappa02"
+      },
+      {
+        "username": "Robby418",
+        "resource_url": "https://api.discogs.com/users/Robby418"
+      },
+      {
+        "username": "ChrisEfterklang",
+        "resource_url": "https://api.discogs.com/users/ChrisEfterklang"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2008-11-22T18:01:51-08:00",
+  "date_changed": "2023-06-18T11:45:50-07:00",
+  "num_for_sale": 65,
+  "lowest_price": 1,
+  "master_id": 171392,
+  "master_url": "https://api.discogs.com/masters/171392",
+  "title": "Duotones",
+  "country": "US",
+  "released": "1986",
+  "notes": "Produced by Preston Glass for Perfection Light Productions.\nExecutive Producer : Narada Michael Walden for Perfection Light Productions.\n\nCat # AL 8-8427 appears on the label.\nCat # AL8-8427 appears on the spine and rear cover, bottom-left.\n\n℗© 1986 Arista Records, Inc.",
+  "released_formatted": "1986",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "0 7822-18427-1",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "078221842716",
+      "description": "Scan; Format: UPC_A"
+    },
+    {
+      "type": "Pressing Plant ID",
+      "value": "I",
+      "description": "RCA , Indianapolis"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "STERLING I",
+      "description": "Side A & B Stamped"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL-8-8427-SA-RCA1 EE",
+      "description": "Side A Etched (Variant 1)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL-8-8427-SB-RCA2 J",
+      "description": "Side B Etched (Variant 1)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL-8-8427-SA-RCA1 ",
+      "description": "Side A Etched (Variant 2)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL-8-8427-SB-RCA2 A2 D",
+      "description": "Side B Etched (Variant 2)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL-8-8427-SA-RCA1 Λ1 C",
+      "description": "Side A Etched (Variant 3)"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL-8-8427-SB-RCA1 Λ1 E ☆",
+      "description": "Side B Etched (Variant 3)"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=oFNvrZSd4kQ",
+      "title": "Songbird",
+      "description": "Provided to YouTube by Arista\n\nSongbird · Kenny G\n\nDuotones\n\n℗ 1986 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 1986-09-01\n\nProducer: Preston Glass\nEngineer: Gordon Lyon\nMastering  Engineer: Bernie Gruntman\n\nAuto-generated by YouTube",
+      "duration": 304,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=XjK95eG5DUs",
+      "title": "Sade",
+      "description": "Provided to YouTube by Arista\n\nSade · Kenny G\n\nDuotones\n\n℗ 1986 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 1986-09-01\n\nProducer: Preston Glass\n\nAuto-generated by YouTube.",
+      "duration": 261,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=QN2RnjFHmNY",
+      "title": "Kenny G - Songbird",
+      "description": "Kenny G's official music video for 'Songbird'. Click to listen to Kenny G on Spotify: http://smarturl.it/KennyGSpot?IQid=KennyGSON\n\nAs featured on The Essential Kenny G. Click to buy the track or album via iTunes: http://smarturl.it/EKennyG?IQid=KennyGSON",
+      "duration": 249,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=vmOJaobHQXs",
+      "title": "What Does It Take (To Win Your Love)",
+      "description": "Provided to YouTube by Arista/Legacy\n\nWhat Does It Take (To Win Your Love) · Kenny G\n\nThe Essential Kenny G\n\n℗ 1986 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 2006-01-24\n\nComposer, Lyricist: Johnny Bristol\nVocal: Ellis Hall\nProducer",
+      "duration": 247,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=MH5u9z2OnOw",
+      "title": "Champagne",
+      "description": "Provided to YouTube by Arista\n\nChampagne · Kenny G\n\nDuotones\n\n℗ 1986 Arista Records LLC\n\nReleased on: 1986-09-01\n\nProducer: Preston Glass\nComposer, Lyricist: Kenneth McDougald\n\nAuto-generated by YouTube.",
+      "duration": 286,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=BYz6OyiwJcw",
+      "title": "Sade",
+      "description": "Provided to YouTube by Arista\n\nSade · Kenny G\n\nDuotones\n\n℗ 1986 RCA Records, a division of Sony Music Entertainment\n\nReleased on: 1986-09-29\n\nProducer: Preston Glass\n\nAuto-generated by YouTube.",
+      "duration": 261,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=iWSmYRaRMco",
+      "title": "KENNY G — DUOTONES『 1986・FULL ALBUM 』",
+      "description": "KENNY G — DUOTONES『 1986・FULL ALBUM 』\n00:00 KENNY G・WHAT DOES IT TAKE (TO WIN YOUR LOVE)\n05:00 KENNY G・MIDNIGHT MOTION\n09:08 KENNY G・DON'T MAKE ME WAIT FOR LOVE\n13:54 KENNY G・SADE\n18:15 KENNY G・CHAMPAGNE\n23:01 KENNY G・AND YOU KNOW THAT\n27:46 KENNY G・SLIP ",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=QN2RnjFHmNY",
+      "title": "Kenny G - Songbird (Offiical Video)",
+      "description": "Official video for “Songbird” by Kenny G\nListen to Kenny G: https://kennyg.lnk.to/listenID\n\nSubscribe to the official Kenny G YouTube Channel: https://kennyg.lnk.to/_SubscribeID\n\nWatch more Kenny G videos: https://kennyg.lnk.to/listenID\n\nFollow Kenny G: \n",
+      "duration": 249,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Jazz",
+    "Pop"
+  ],
+  "styles": [
+    "Smooth Jazz",
+    "Contemporary Jazz"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "What Does It Take (To Win Your Love)",
+      "extraartists": [
+        {
+          "name": "Ellis Hall",
+          "anv": "",
+          "join": "",
+          "role": "Lead Vocals",
+          "tracks": "",
+          "id": 279230,
+          "resource_url": "https://api.discogs.com/artists/279230"
+        }
+      ],
+      "duration": "4:58"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Midnight Motion",
+      "duration": "4:07"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Don't Make Me Wait For Love",
+      "extraartists": [
+        {
+          "name": "Lenny Williams",
+          "anv": "",
+          "join": "",
+          "role": "Lead Vocals",
+          "tracks": "",
+          "id": 29853,
+          "resource_url": "https://api.discogs.com/artists/29853"
+        }
+      ],
+      "duration": "4:56"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Sade",
+      "duration": "4:18"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Champagne",
+      "duration": "4:43"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Slip Of The Tongue",
+      "duration": "4:50"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "You Make Me Believe",
+      "extraartists": [
+        {
+          "name": "Claytoven Richardson",
+          "anv": "",
+          "join": "",
+          "role": "Lead Vocals",
+          "tracks": "",
+          "id": 224166,
+          "resource_url": "https://api.discogs.com/artists/224166"
+        }
+      ],
+      "duration": "5:13"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Songbird",
+      "duration": "5:00"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Three Of A Kind",
+      "duration": "4:43"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Esther",
+      "duration": "5:25"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Kevin Takishita",
+      "anv": "",
+      "join": "",
+      "role": "Art Direction",
+      "tracks": "",
+      "id": 2116452,
+      "resource_url": "https://api.discogs.com/artists/2116452"
+    },
+    {
+      "name": "Claytoven Richardson",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "",
+      "id": 224166,
+      "resource_url": "https://api.discogs.com/artists/224166"
+    },
+    {
+      "name": "Gina Glass",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "",
+      "id": 1740860,
+      "resource_url": "https://api.discogs.com/artists/1740860"
+    },
+    {
+      "name": "Kenny G (2)",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "",
+      "id": 96114,
+      "resource_url": "https://api.discogs.com/artists/96114"
+    },
+    {
+      "name": "Kitty Beethoven",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "",
+      "id": 407994,
+      "resource_url": "https://api.discogs.com/artists/407994"
+    },
+    {
+      "name": "Lenny Williams",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "",
+      "id": 29853,
+      "resource_url": "https://api.discogs.com/artists/29853"
+    },
+    {
+      "name": "Preston Glass",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "",
+      "id": 135434,
+      "resource_url": "https://api.discogs.com/artists/135434"
+    },
+    {
+      "name": "Yolanda Glass",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "",
+      "id": 739046,
+      "resource_url": "https://api.discogs.com/artists/739046"
+    },
+    {
+      "name": "Joe Plass",
+      "anv": "",
+      "join": "",
+      "role": "Bass",
+      "tracks": "",
+      "id": 748678,
+      "resource_url": "https://api.discogs.com/artists/748678"
+    },
+    {
+      "name": "Randy Jackson (2)",
+      "anv": "",
+      "join": "",
+      "role": "Bass",
+      "tracks": "",
+      "id": 449016,
+      "resource_url": "https://api.discogs.com/artists/449016"
+    },
+    {
+      "name": "Cory Lerios",
+      "anv": "",
+      "join": "",
+      "role": "Drum Machine",
+      "tracks": "",
+      "id": 521115,
+      "resource_url": "https://api.discogs.com/artists/521115"
+    },
+    {
+      "name": "Kenny G (2)",
+      "anv": "",
+      "join": "",
+      "role": "Drum Machine",
+      "tracks": "",
+      "id": 96114,
+      "resource_url": "https://api.discogs.com/artists/96114"
+    },
+    {
+      "name": "Preston Glass",
+      "anv": "",
+      "join": "",
+      "role": "Drum Machine",
+      "tracks": "",
+      "id": 135434,
+      "resource_url": "https://api.discogs.com/artists/135434"
+    },
+    {
+      "name": "Gigi Gonaway",
+      "anv": "",
+      "join": "",
+      "role": "Drums",
+      "tracks": "",
+      "id": 360266,
+      "resource_url": "https://api.discogs.com/artists/360266"
+    },
+    {
+      "name": "Kenny McDougald",
+      "anv": "",
+      "join": "",
+      "role": "Drums",
+      "tracks": "",
+      "id": 1179154,
+      "resource_url": "https://api.discogs.com/artists/1179154"
+    },
+    {
+      "name": "Kenny G (2)",
+      "anv": "",
+      "join": "",
+      "role": "Electronic Wind Instrument [Digital Wind Controller]",
+      "tracks": "B4",
+      "id": 96114,
+      "resource_url": "https://api.discogs.com/artists/96114"
+    },
+    {
+      "name": "Sal Gallina",
+      "anv": "",
+      "join": "",
+      "role": "Electronic Wind Instrument [Digital Wind Controller]",
+      "tracks": "A3",
+      "id": 724066,
+      "resource_url": "https://api.discogs.com/artists/724066"
+    },
+    {
+      "name": "Jim Weyeneth",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistants]",
+      "tracks": "",
+      "id": 1740859,
+      "resource_url": "https://api.discogs.com/artists/1740859"
+    },
+    {
+      "name": "Kay Arbuckle",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistants]",
+      "tracks": "",
+      "id": 1740861,
+      "resource_url": "https://api.discogs.com/artists/1740861"
+    },
+    {
+      "name": "Matt Rohr",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistants]",
+      "tracks": "",
+      "id": 478720,
+      "resource_url": "https://api.discogs.com/artists/478720"
+    },
+    {
+      "name": "Stuart Hirotsu",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistants]",
+      "tracks": "",
+      "id": 521106,
+      "resource_url": "https://api.discogs.com/artists/521106"
+    },
+    {
+      "name": "Gordon Lyon",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Chief]",
+      "tracks": "",
+      "id": 277450,
+      "resource_url": "https://api.discogs.com/artists/277450"
+    },
+    {
+      "name": "Alan Glass",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "",
+      "id": 356990,
+      "resource_url": "https://api.discogs.com/artists/356990"
+    },
+    {
+      "name": "Corrado Rustici",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "",
+      "id": 176436,
+      "resource_url": "https://api.discogs.com/artists/176436"
+    },
+    {
+      "name": "John Raymond",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "",
+      "id": 943674,
+      "resource_url": "https://api.discogs.com/artists/943674"
+    },
+    {
+      "name": "Kenny G (2)",
+      "anv": "",
+      "join": "",
+      "role": "Keyboards",
+      "tracks": "",
+      "id": 96114,
+      "resource_url": "https://api.discogs.com/artists/96114"
+    },
+    {
+      "name": "Preston Glass",
+      "anv": "",
+      "join": "",
+      "role": "Keyboards",
+      "tracks": "",
+      "id": 135434,
+      "resource_url": "https://api.discogs.com/artists/135434"
+    },
+    {
+      "name": "Roger Sause",
+      "anv": "",
+      "join": "",
+      "role": "Keyboards",
+      "tracks": "",
+      "id": 250629,
+      "resource_url": "https://api.discogs.com/artists/250629"
+    },
+    {
+      "name": "Walter Afanasieff",
+      "anv": "",
+      "join": "",
+      "role": "Keyboards",
+      "tracks": "",
+      "id": 187045,
+      "resource_url": "https://api.discogs.com/artists/187045"
+    },
+    {
+      "name": "Dennis Turner (2)",
+      "anv": "",
+      "join": "",
+      "role": "Management [Direction]",
+      "tracks": "",
+      "id": 2983429,
+      "resource_url": "https://api.discogs.com/artists/2983429"
+    },
+    {
+      "name": "Ken Fritz",
+      "anv": "",
+      "join": "",
+      "role": "Management [Direction]",
+      "tracks": "",
+      "id": 1794819,
+      "resource_url": "https://api.discogs.com/artists/1794819"
+    },
+    {
+      "name": "Gigi Gonaway",
+      "anv": "",
+      "join": "",
+      "role": "Percussion",
+      "tracks": "",
+      "id": 360266,
+      "resource_url": "https://api.discogs.com/artists/360266"
+    },
+    {
+      "name": "Tony Gable",
+      "anv": "",
+      "join": "",
+      "role": "Percussion",
+      "tracks": "",
+      "id": 1068773,
+      "resource_url": "https://api.discogs.com/artists/1068773"
+    },
+    {
+      "name": "Steven Rothfeld",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 2280752,
+      "resource_url": "https://api.discogs.com/artists/2280752"
+    },
+    {
+      "name": "Preston Glass",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 135434,
+      "resource_url": "https://api.discogs.com/artists/135434"
+    },
+    {
+      "name": "Kenny G (2)",
+      "anv": "",
+      "join": "",
+      "role": "Saxophone [All]",
+      "tracks": "",
+      "id": 96114,
+      "resource_url": "https://api.discogs.com/artists/96114"
+    },
+    {
+      "name": "Cory Lerios",
+      "anv": "",
+      "join": "",
+      "role": "Synthesizer [Bass Synth]",
+      "tracks": "",
+      "id": 521115,
+      "resource_url": "https://api.discogs.com/artists/521115"
+    },
+    {
+      "name": "Kenny G (2)",
+      "anv": "",
+      "join": "",
+      "role": "Synthesizer [Bass Synth]",
+      "tracks": "",
+      "id": 96114,
+      "resource_url": "https://api.discogs.com/artists/96114"
+    },
+    {
+      "name": "Preston Glass",
+      "anv": "",
+      "join": "",
+      "role": "Synthesizer [Bass Synth]",
+      "tracks": "",
+      "id": 135434,
+      "resource_url": "https://api.discogs.com/artists/135434"
+    },
+    {
+      "name": "Randy Jackson (2)",
+      "anv": "",
+      "join": "",
+      "role": "Synthesizer [Bass Synth]",
+      "tracks": "",
+      "id": 449016,
+      "resource_url": "https://api.discogs.com/artists/449016"
+    },
+    {
+      "name": "Walter Afanasieff",
+      "anv": "",
+      "join": "",
+      "role": "Synthesizer [Bass Synth]",
+      "tracks": "",
+      "id": 187045,
+      "resource_url": "https://api.discogs.com/artists/187045"
+    },
+    {
+      "name": "Preston Glass",
+      "anv": "",
+      "join": "",
+      "role": "Wind Chimes",
+      "tracks": "A1",
+      "id": 135434,
+      "resource_url": "https://api.discogs.com/artists/135434"
+    },
+    {
+      "name": "Harvey Fuqua",
+      "anv": "H. Fuqua",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A1",
+      "id": 32499,
+      "resource_url": "https://api.discogs.com/artists/32499"
+    },
+    {
+      "name": "Johnny Bristol",
+      "anv": "J. Bristol",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A1",
+      "id": 85762,
+      "resource_url": "https://api.discogs.com/artists/85762"
+    },
+    {
+      "name": "Kenny McDougald",
+      "anv": "K. McDougald",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A5",
+      "id": 1179154,
+      "resource_url": "https://api.discogs.com/artists/1179154"
+    },
+    {
+      "name": "Preston Glass",
+      "anv": "P. Glass",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A3, B1, B2, B4",
+      "id": 135434,
+      "resource_url": "https://api.discogs.com/artists/135434"
+    },
+    {
+      "name": "Vernon Bullock",
+      "anv": "V. Bullock",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A1",
+      "id": 430173,
+      "resource_url": "https://api.discogs.com/artists/430173"
+    },
+    {
+      "name": "Walter Afanasieff",
+      "anv": "W. Afanasieff",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A3,B2,B4",
+      "id": 187045,
+      "resource_url": "https://api.discogs.com/artists/187045"
+    },
+    {
+      "name": "Kenny G (2)",
+      "anv": "Kenny G.",
+      "join": "",
+      "role": "Written-By, Co-producer",
+      "tracks": "A2, A4, A5, B2 to B5",
+      "id": 96114,
+      "resource_url": "https://api.discogs.com/artists/96114"
+    },
+    {
+      "name": "Narada Michael Walden",
+      "anv": "N.M. Walden",
+      "join": "",
+      "role": "Written-By, Executive-Producer",
+      "tracks": "A3, B1, B4",
+      "id": 49530,
+      "resource_url": "https://api.discogs.com/artists/49530"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/nP31ANptAKzbzoxdI8D7GKLpSyErKr7z8qYqBwCNUOA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU1/NjQtMTIzNDI3Mzk3/Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/nP31ANptAKzbzoxdI8D7GKLpSyErKr7z8qYqBwCNUOA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU1/NjQtMTIzNDI3Mzk3/Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/kokV35iURsHwRLzQnuCRcN6EEA6g0wRqPd8OKCJW1ko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU1/NjQtMTIzNDI3Mzk3/Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/0Pg1e-4P1bFSqmBeQ4ggIoqW1IiUHvA166rZXrhLl1o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU1/NjQtMTQzOTY2NjA5/OC05NTI3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/0Pg1e-4P1bFSqmBeQ4ggIoqW1IiUHvA166rZXrhLl1o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU1/NjQtMTQzOTY2NjA5/OC05NTI3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/YleEv0Vawgkul0Zl07mj30MGwouvg5WeWZESKIpn-Gs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU1/NjQtMTQzOTY2NjA5/OC05NTI3LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ssbZWGt6u9SCnNnbgVJQYACbXypvXSi6TZfpT69iBwc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU1/NjQtMTQzOTY2NjEw/NS01ODEyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/ssbZWGt6u9SCnNnbgVJQYACbXypvXSi6TZfpT69iBwc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU1/NjQtMTQzOTY2NjEw/NS01ODEyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/PXKwmxdR4jpCF0PvdLdVZCLTjCUtYG59LDlQdFZ_EZQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU1/NjQtMTQzOTY2NjEw/NS01ODEyLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/aFgkZBX6FoOTBVtVzMM9y9UcnSkAMN4e1beGs1SvHZs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU1/NjQtMTQzOTY2NjEx/NC01MDAxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/aFgkZBX6FoOTBVtVzMM9y9UcnSkAMN4e1beGs1SvHZs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU1/NjQtMTQzOTY2NjEx/NC01MDAxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/7mY2dkTGNo4Gvxx9tdAVK7fqWsf2rU-ajd_UrLYj0yk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU1/NjQtMTQzOTY2NjEx/NC01MDAxLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/kokV35iURsHwRLzQnuCRcN6EEA6g0wRqPd8OKCJW1ko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDU1/NjQtMTIzNDI3Mzk3/Ni5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

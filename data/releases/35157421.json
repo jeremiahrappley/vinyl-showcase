@@ -1,0 +1,394 @@
+{
+  "id": 35157421,
+  "status": "Accepted",
+  "year": 2025,
+  "resource_url": "https://api.discogs.com/releases/35157421",
+  "uri": "https://www.discogs.com/release/35157421-Tove-Lo-SG-Lewis-Heat",
+  "artists": [
+    {
+      "name": "Tove Lo",
+      "anv": "",
+      "join": ",",
+      "role": "",
+      "tracks": "",
+      "id": 3506702,
+      "resource_url": "https://api.discogs.com/artists/3506702",
+      "thumbnail_url": "https://i.discogs.com/V1BSkbzz-xWUs3W_DeMJw9Dtssb5IkOlf9i1ZiUy7YE/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM1MDY3/MDItMTY3MDA4NjI5/Mi05MzE2LmpwZWc.jpeg"
+    },
+    {
+      "name": "SG Lewis",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 4401954,
+      "resource_url": "https://api.discogs.com/artists/4401954",
+      "thumbnail_url": "https://i.discogs.com/64gdgVA7N5T05QTnxsKBAPYAn6OSOZRNws5RdXR4Gbo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ0MDE5/NTQtMTcyMDMzODEw/OC0yOTM4LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Tove Lo, SG Lewis",
+  "labels": [
+    {
+      "name": "Pretty Swede Records",
+      "catno": "198704418976",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 2859047,
+      "resource_url": "https://api.discogs.com/labels/2859047",
+      "thumbnail_url": "https://i.discogs.com/7Tkc1Bja2ZU3cLvteW-xnfNeA-uu3uS7WLMMIGlr6wI/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4NTkw/NDctMTcxNjc3MDc5/Mi0yNDQ4LmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Pretty Swede Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 2859047,
+      "resource_url": "https://api.discogs.com/labels/2859047",
+      "thumbnail_url": "https://i.discogs.com/7Tkc1Bja2ZU3cLvteW-xnfNeA-uu3uS7WLMMIGlr6wI/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4NTkw/NDctMTcxNjc3MDc5/Mi0yNDQ4LmpwZWc.jpeg"
+    },
+    {
+      "name": "Pretty Swede Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 2859047,
+      "resource_url": "https://api.discogs.com/labels/2859047",
+      "thumbnail_url": "https://i.discogs.com/7Tkc1Bja2ZU3cLvteW-xnfNeA-uu3uS7WLMMIGlr6wI/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4NTkw/NDctMTcxNjc3MDc5/Mi0yNDQ4LmpwZWc.jpeg"
+    },
+    {
+      "name": "Urban Outfitters",
+      "catno": "198704418952",
+      "entity_type": "42",
+      "entity_type_name": "Exclusive Retailer",
+      "id": 109593,
+      "resource_url": "https://api.discogs.com/labels/109593",
+      "thumbnail_url": "https://i.discogs.com/y2ZTu36Kbs5pYeZk2Mgp8h0f0VWd87vIqaTFKED-6u8/rs:fit/g:sm/q:90/h:339/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwOTU5/My0xNjI2ODA0MzIw/LTQ5MjYuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "12\"",
+        "45 RPM",
+        "EP",
+        "Limited Edition"
+      ],
+      "text": "Blue Crackle"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 877,
+    "want": 134,
+    "rating": {
+      "count": 89,
+      "average": 4.8
+    },
+    "submitter": {
+      "username": "mias.vinyl",
+      "resource_url": "https://api.discogs.com/users/mias.vinyl"
+    },
+    "contributors": [
+      {
+        "username": "mias.vinyl",
+        "resource_url": "https://api.discogs.com/users/mias.vinyl"
+      },
+      {
+        "username": "CyberRaiju",
+        "resource_url": "https://api.discogs.com/users/CyberRaiju"
+      },
+      {
+        "username": "CheeseHelmet",
+        "resource_url": "https://api.discogs.com/users/CheeseHelmet"
+      },
+      {
+        "username": "hectorlistensto",
+        "resource_url": "https://api.discogs.com/users/hectorlistensto"
+      },
+      {
+        "username": "N8TRU1",
+        "resource_url": "https://api.discogs.com/users/N8TRU1"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2025-09-20T17:23:52-07:00",
+  "date_changed": "2025-09-25T05:41:27-07:00",
+  "num_for_sale": 21,
+  "lowest_price": 25,
+  "master_id": 3977222,
+  "master_url": "https://api.discogs.com/masters/3977222",
+  "title": "Heat",
+  "country": "US",
+  "released": "2025-09-20",
+  "notes": "Available through Urban Outfitters \"Pride Won’t Hide\" Exclusive Drop\nLimited to 2000 copies worldwide\n\n© 2025 Pretty Swede Records\n℗ 2025 Pretty Swede Records",
+  "released_formatted": "20 Sep 2025",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "1 9870441895 2",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "198704418952",
+      "description": "Scanned"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=TX5t3xVwvFk",
+      "title": "Tove Lo & SG Lewis - HEAT (Official Music Video)",
+      "description": "Tove Lo & SG Lewis - HEAT (Official Music Video) \n\nHEAT EP out now:  https://tovelosglewis.lnk.to/heat\n\n\nProduction Company:  Riff Raff Films\nDirector:  David Wilson\nProducer:  Manoela Chiabai\nExecutive Producer:  Precious Mahaga\nProduction Company Owner:",
+      "duration": 218,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=EyRGxiFFoCY",
+      "title": "Tove Lo & SG Lewis - Let me go OH OH (Official Music Video)",
+      "description": "Tove Lo & SG Lewis - Let me go OH OH (Official Music Video)\n\nProduction Company:  Riff Raff Films\nCreative Director:  David Wilson\nDirector:  Fa & Fon\nCreative Producer:  Manoela Chiabai\nProducer:  Nathan M. Legger\nExecutive Producer:  Precious Mahaga\nPro",
+      "duration": 239,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=k7aQh8ra1CY",
+      "title": "Tove Lo & SG Lewis - Busy Girl (Official Music Video)",
+      "description": "Tove Lo & SG Lewis - Busy Girl (Official Music Video)\n\nHEAT EP out now:  https://tovelosglewis.lnk.to/heat\n\nProduction Company:  Riff Raff Films\nDirector:  David Wilson\nProducer:  Manoela Chiabai\nExecutive Producer:  Precious Mahaga\nProduction Company Own",
+      "duration": 143,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=UhAaIvmZxZw",
+      "title": "Tove Lo & SG Lewis - Desire (Official Music Video)",
+      "description": "Tove Lo & SG Lewis - Desire (Official Music Video)\n\nHEAT EP out now:  https://tovelosglewis.lnk.to/heat\n\n\nProduction Company:  Riff Raff Films\nDirector:  David Wilson\nProducer:  Manoela Chiabai\nExecutive Producer:  Precious Mahaga\nProduction Company Owner",
+      "duration": 253,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Pop"
+  ],
+  "styles": [
+    "Dance-pop",
+    "House"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Heat",
+      "extraartists": [
+        {
+          "name": "Orlando Higginbottom",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Written-By",
+          "tracks": "",
+          "id": 1435893,
+          "resource_url": "https://api.discogs.com/artists/1435893"
+        },
+        {
+          "name": "Samuel George Lewis",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Written-By",
+          "tracks": "",
+          "id": 7735710,
+          "resource_url": "https://api.discogs.com/artists/7735710"
+        },
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Written-By",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Let Me Go Oh Oh",
+      "extraartists": [
+        {
+          "name": "Orlando Higginbottom",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Written-By",
+          "tracks": "",
+          "id": 1435893,
+          "resource_url": "https://api.discogs.com/artists/1435893"
+        },
+        {
+          "name": "Samuel George Lewis",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Written-By",
+          "tracks": "",
+          "id": 7735710,
+          "resource_url": "https://api.discogs.com/artists/7735710"
+        },
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Written-By",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Busy Girl",
+      "extraartists": [
+        {
+          "name": "Orlando Higginbottom",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Written-By",
+          "tracks": "",
+          "id": 1435893,
+          "resource_url": "https://api.discogs.com/artists/1435893"
+        },
+        {
+          "name": "Samuel George Lewis",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Written-By",
+          "tracks": "",
+          "id": 7735710,
+          "resource_url": "https://api.discogs.com/artists/7735710"
+        },
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Written-By",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Desire",
+      "extraartists": [
+        {
+          "name": "Samuel George Lewis",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Written-By",
+          "tracks": "",
+          "id": 7735710,
+          "resource_url": "https://api.discogs.com/artists/7735710"
+        },
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "Composed By, Written-By",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/0tlbbmF_dxlEND264zGO6iNBP5pVhnxzdXDeWjgzzgY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg2NTg2/NjUtNTAzNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/0tlbbmF_dxlEND264zGO6iNBP5pVhnxzdXDeWjgzzgY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg2NTg2/NjUtNTAzNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/_xfqUXqyDttFCk5m6EMXw2hCiPRo7D0aZgNM6_s_844/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg2NTg2/NjUtNTAzNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/tc2JSXvcqopD0ylsdEVNEFqGrvOssu24E_VexK6ftkE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg2NTg2/NjQtNjc4Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/tc2JSXvcqopD0ylsdEVNEFqGrvOssu24E_VexK6ftkE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg2NTg2/NjQtNjc4Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/2OPVZSqza_2QAu3P6OydCiFoRNYdeSkYxgba7ie_mkE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg2NTg2/NjQtNjc4Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/aPzbNETdJB--ROukQA0nSOnXmFMmTblWBUSVvMVtyMU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg2NTg2/NjYtNDIyMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/aPzbNETdJB--ROukQA0nSOnXmFMmTblWBUSVvMVtyMU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg2NTg2/NjYtNDIyMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/3vFkwFIvNT2SW5aK8wzno0bXQpQ8Sz5up0uFraK2B9I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg2NTg2/NjYtNDIyMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/xXrVLVX9rn06dtn2HzxP-bLohF4tFxnThDqeHWr-wxU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg2NTg2/NjctMjE2OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/xXrVLVX9rn06dtn2HzxP-bLohF4tFxnThDqeHWr-wxU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg2NTg2/NjctMjE2OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/3dm0NJeYcHUj95ttpVU7Jz4QbyYX1zrsZZSqNxBL5k0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg2NTg2/NjctMjE2OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/R91w-z-P2OBCfy5qp0ujxQczFCUFtSHs0eQQ0KFF_NM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg2NTg3/NzMtNjI5MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/R91w-z-P2OBCfy5qp0ujxQczFCUFtSHs0eQQ0KFF_NM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg2NTg3/NzMtNjI5MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/lOQ22DoOIHm8UHgBBKNIqUg-OFsJeqkf5OTCfX-6h2M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg2NTg3/NzMtNjI5MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/mutaqz-7RpWLCWQ1gzEzjUV7KPR17A-QgyHhmZNLo8o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg2NTg2/NjctOTgwNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/mutaqz-7RpWLCWQ1gzEzjUV7KPR17A-QgyHhmZNLo8o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg2NTg2/NjctOTgwNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/NBbBx5mbhdc7aEXl_Y5Ew2BiAG7fC1wcD7kinm5-MZ0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg2NTg2/NjctOTgwNi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/w1cz0Os595bqiUIx5u44RUJKbzidkfHGAsQ2adz97KY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg2NTg2/NjctODg3OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/w1cz0Os595bqiUIx5u44RUJKbzidkfHGAsQ2adz97KY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg2NTg2/NjctODg3OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Vzb4fgOUJYJTGBgSc9tPrxDkXmVxtu3U4S8P-iAzSzo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg2NTg2/NjctODg3OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/_fBCIB1VvRySOfQfiEt6R_j7KqZcF3fRnAqCL8iP8eY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg2NTg2/NjUtMTMzMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/_fBCIB1VvRySOfQfiEt6R_j7KqZcF3fRnAqCL8iP8eY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg2NTg2/NjUtMTMzMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/vQwPMicXv-XGDhnalogWOw0qfiP1_00CRY6uAH9LOI4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg2NTg2/NjUtMTMzMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/iCIMJuZAo8GqvEP0GDs_6ODgXuocbq6_e-GSY9ovxF8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg4MDQw/ODAtNjgwNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/iCIMJuZAo8GqvEP0GDs_6ODgXuocbq6_e-GSY9ovxF8/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg4MDQw/ODAtNjgwNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/KiGvb6x17KGqmvOHx6_i8mMom1aGtGpacYSIJWjjSIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg4MDQw/ODAtNjgwNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 598
+    }
+  ],
+  "thumb": "https://i.discogs.com/_xfqUXqyDttFCk5m6EMXw2hCiPRo7D0aZgNM6_s_844/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1MTU3/NDIxLTE3NTg2NTg2/NjUtNTAzNC5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

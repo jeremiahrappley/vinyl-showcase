@@ -1,0 +1,2365 @@
+{
+  "id": 8785050,
+  "status": "Accepted",
+  "year": 2016,
+  "resource_url": "https://api.discogs.com/releases/8785050",
+  "uri": "https://www.discogs.com/release/8785050-Troye-Sivan-Blue-Neighbourhood",
+  "artists": [
+    {
+      "name": "Troye Sivan",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 4402206,
+      "resource_url": "https://api.discogs.com/artists/4402206",
+      "thumbnail_url": "https://i.discogs.com/ry2L80Bu5ttiAaE_-yVxupp9gr3tg3ZwZsT8g64a9Uk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQ0MDIy/MDYtMTc3NTMyNjI1/NC02NDIxLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Troye Sivan",
+  "labels": [
+    {
+      "name": "EMI",
+      "catno": "B002425401",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 26126,
+      "resource_url": "https://api.discogs.com/labels/26126",
+      "thumbnail_url": "https://i.discogs.com/kyUkdCkRdB9c0UbyACsewybDBqUqAVAU6ndQAp2VII4/rs:fit/g:sm/q:90/h:331/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2MTI2/LTEyMDY0Njg0NTEu/anBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "EMI Recorded Music Australia Pty Ltd",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 603617,
+      "resource_url": "https://api.discogs.com/labels/603617"
+    },
+    {
+      "name": "EMI Recorded Music Australia Pty Ltd",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 603617,
+      "resource_url": "https://api.discogs.com/labels/603617"
+    },
+    {
+      "name": "Capitol Records",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 654,
+      "resource_url": "https://api.discogs.com/labels/654",
+      "thumbnail_url": "https://i.discogs.com/jOm50Ncnop3VOhKg0rYbdvq7epxn5mnXdOWfVQNjOBg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY1NC0x/NzgxODU0Mzk3LTU2/MzcuanBlZw.jpeg"
+    },
+    {
+      "name": "Capitol Records",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 654,
+      "resource_url": "https://api.discogs.com/labels/654",
+      "thumbnail_url": "https://i.discogs.com/jOm50Ncnop3VOhKg0rYbdvq7epxn5mnXdOWfVQNjOBg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY1NC0x/NzgxODU0Mzk3LTU2/MzcuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Stereo"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 4399,
+    "want": 1024,
+    "rating": {
+      "count": 206,
+      "average": 4.46
+    },
+    "submitter": {
+      "username": "Silverplatters",
+      "resource_url": "https://api.discogs.com/users/Silverplatters"
+    },
+    "contributors": [
+      {
+        "username": "Silverplatters",
+        "resource_url": "https://api.discogs.com/users/Silverplatters"
+      },
+      {
+        "username": "gippy",
+        "resource_url": "https://api.discogs.com/users/gippy"
+      },
+      {
+        "username": "frutiger75",
+        "resource_url": "https://api.discogs.com/users/frutiger75"
+      },
+      {
+        "username": "vrp_pdx",
+        "resource_url": "https://api.discogs.com/users/vrp_pdx"
+      },
+      {
+        "username": "juniorcasemiro",
+        "resource_url": "https://api.discogs.com/users/juniorcasemiro"
+      },
+      {
+        "username": "charp999",
+        "resource_url": "https://api.discogs.com/users/charp999"
+      },
+      {
+        "username": "junction_18",
+        "resource_url": "https://api.discogs.com/users/junction_18"
+      },
+      {
+        "username": "SP_Vinyl",
+        "resource_url": "https://api.discogs.com/users/SP_Vinyl"
+      },
+      {
+        "username": "amoebasinger",
+        "resource_url": "https://api.discogs.com/users/amoebasinger"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2016-07-16T16:01:50-07:00",
+  "date_changed": "2023-09-18T10:12:36-07:00",
+  "num_for_sale": 34,
+  "lowest_price": 10,
+  "master_id": 923532,
+  "master_url": "https://api.discogs.com/masters/923532",
+  "title": "Blue Neighbourhood",
+  "country": "US",
+  "released": "2016-01-29",
+  "notes": "Standard release, pressed on black vinyl.\nMade In U.S.A.",
+  "released_formatted": "29 Jan 2016",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "602547600622",
+      "description": "Scanned"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=fdXNNveYOfU",
+      "title": "Troye Sivan - WILD (Blue Neighbourhood Part 1/3)",
+      "description": "Director Tim Mattia \nProduced by Brandon Bonfiglio at London Alley \nNew album 'Blue Neighbourhood’ available now: https://TroyeSivan.lnk.to/Blue_Neighbourhood \n'Blue Neighbourhood' merch & more here: https://TroyeSivan.lnk.to/OfficialStore\n\nFollow me!\nh",
+      "duration": 252,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=uxg222-hWWc",
+      "title": "Troye Sivan - FOOLS (Blue Neighbourhood Part 2/3)",
+      "description": "Buy, Download or Stream Fools by Troye Sivan taken from the album Blue Neighbourhood: https://UMA.lnk.to/TroyeSivanYM\nSubscribe to the official Troye Sivan YouTube channel:  https://www.youtube.com/user/TroyeSivan18?sub_confirmation=1\n\nFollow Troye on...\n",
+      "duration": 247,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=aAt1m1lQK3w",
+      "title": "Troye Sivan - EASE (Lyric Video) ft. Broods",
+      "description": "Buy, Download or Stream Ease ft Broods by Troye Sivan taken from the album Blue Neighbourhood: https://UMA.lnk.to/TroyeSivanYM\nSubscribe to the official Troye Sivan YouTube channel:  https://www.youtube.com/user/TroyeSivan18?sub_confirmation=1\n\nFollow Tro",
+      "duration": 215,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Lo3lxS-6joY",
+      "title": "Troye Sivan - TALK ME DOWN (Blue Neighbourhood 3/3)",
+      "description": "Buy, Download or Stream Talk Me Down by Troye Sivan taken from the album Blue Neighbourhood:  https://UMA.lnk.to/TroyeSivanYM\nSubscribe to the official Troye Sivan YouTube channel:  https://www.youtube.com/user/TroyeSivan18?sub_confirmation=1\nBlue Neighbo",
+      "duration": 257,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=7MrjW6cL4UU",
+      "title": "COOL",
+      "description": "Provided to YouTube by Universal Music Group\n\nCOOL · Troye Sivan\n\nBlue Neighbourhood\n\n℗ 2015 Universal Music Australia Pty Ltd.\n\nReleased on: 2015-12-04\n\nProducer, Associated  Performer, Vocals, Guitar: Alex Hope\nAssociated  Performer, Vocals: Troye Si",
+      "duration": 203,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=8VNV__mV38s",
+      "title": "Troye Sivan - HEAVEN (Official Video) ft. Betty Who",
+      "description": "Buy, Download or Stream Heaven ft. Betty Who by Troye Sivan taken from the album Blue Neighbourhood: https://UMA.lnk.to/TroyeSivanYM\nSubscribe to the official Troye Sivan YouTube channel:  https://www.youtube.com/user/TroyeSivan18?sub_confirmation=1\n\nFoll",
+      "duration": 262,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=XYAghEq5Lfw",
+      "title": "Troye Sivan - YOUTH (Official Video)",
+      "description": "Buy, Download or Stream Youth by Troye Sivan taken from the album Blue Neighbourhood: https://UMA.lnk.to/TroyeSivanYM\nSubscribe to the official Troye Sivan YouTube channel:  https://www.youtube.com/user/TroyeSivan18?sub_confirmation=1\n\nFollow Troye on...\n",
+      "duration": 198,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=YX6dbn04hTw",
+      "title": "LOST BOY",
+      "description": "Provided to YouTube by Universal Music Group\n\nLOST BOY · Troye Sivan\n\nBlue Neighbourhood\n\n℗ 2015 Universal Music Australia Pty Ltd.\n\nReleased on: 2015-12-04\n\nProducer: Bram Inscore\nAssociated  Performer, Vocals: Troye Sivan\nAssociated  Performer, Backg",
+      "duration": 224,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Ins6dp9m_hs",
+      "title": "for him.",
+      "description": "Provided to YouTube by Universal Music Group\n\nfor him. · Troye Sivan · Allday\n\nBlue Neighbourhood\n\n℗ 2015 Universal Music Australia Pty Ltd.\n\nReleased on: 2015-12-04\n\nProducer: Bram Inscore\nProducer, Additional  Producer, Associated  Performer, Backgr",
+      "duration": 210,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=v8kXlBZ1fy0",
+      "title": "SUBURBIA",
+      "description": "Provided to YouTube by Universal Music Group\n\nSUBURBIA · Troye Sivan\n\nBlue Neighbourhood\n\n℗ 2015 Universal Music Australia Pty Ltd.\n\nReleased on: 2015-12-04\n\nProducer: Bram Inscore\nAssociated  Performer, Vocals: Troye Sivan\nAssociated  Performer, Strin",
+      "duration": 234,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Rock",
+    "Pop"
+  ],
+  "styles": [
+    "Synth-pop",
+    "Electro",
+    "Pop Rock"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Wild",
+      "extraartists": [
+        {
+          "name": "Daisy De Vine",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 4620378,
+          "resource_url": "https://api.discogs.com/artists/4620378"
+        },
+        {
+          "name": "Madison De Vine",
+          "anv": "Madison",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 4620377,
+          "resource_url": "https://api.discogs.com/artists/4620377"
+        },
+        {
+          "name": "Scarlett De Vine",
+          "anv": "Scarlett",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 4620375,
+          "resource_url": "https://api.discogs.com/artists/4620375"
+        },
+        {
+          "name": "Drew Taubenfeld",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 3930207,
+          "resource_url": "https://api.discogs.com/artists/3930207"
+        },
+        {
+          "name": "Tom Elmhirst",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 122559,
+          "resource_url": "https://api.discogs.com/artists/122559"
+        },
+        {
+          "name": "Joe Visciano",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assistant]",
+          "tracks": "",
+          "id": 3339475,
+          "resource_url": "https://api.discogs.com/artists/3339475"
+        },
+        {
+          "name": "Alex Hope (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4582162,
+          "resource_url": "https://api.discogs.com/artists/4582162"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        },
+        {
+          "name": "Alex Hope (2)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4582162,
+          "resource_url": "https://api.discogs.com/artists/4582162"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Bite",
+      "extraartists": [
+        {
+          "name": "Allie X",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 6256195,
+          "resource_url": "https://api.discogs.com/artists/6256195"
+        },
+        {
+          "name": "Brett McLaughlin",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 3192001,
+          "resource_url": "https://api.discogs.com/artists/3192001"
+        },
+        {
+          "name": "Manny Marroquin",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 67636,
+          "resource_url": "https://api.discogs.com/artists/67636"
+        },
+        {
+          "name": "Chris Galland",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assistant]",
+          "tracks": "",
+          "id": 1608079,
+          "resource_url": "https://api.discogs.com/artists/1608079"
+        },
+        {
+          "name": "Ike Schultz",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assistant]",
+          "tracks": "",
+          "id": 4028616,
+          "resource_url": "https://api.discogs.com/artists/4028616"
+        },
+        {
+          "name": "Alex JL Hiew",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3963660,
+          "resource_url": "https://api.discogs.com/artists/3963660"
+        },
+        {
+          "name": "Bram Inscore",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1076560,
+          "resource_url": "https://api.discogs.com/artists/1076560"
+        },
+        {
+          "name": "Slums (4)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4601245,
+          "resource_url": "https://api.discogs.com/artists/4601245"
+        },
+        {
+          "name": "Allie X",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocal Production]",
+          "tracks": "",
+          "id": 6256195,
+          "resource_url": "https://api.discogs.com/artists/6256195"
+        },
+        {
+          "name": "Brett McLaughlin",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocal Production]",
+          "tracks": "",
+          "id": 3192001,
+          "resource_url": "https://api.discogs.com/artists/3192001"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        },
+        {
+          "name": "Allie X",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6256195,
+          "resource_url": "https://api.discogs.com/artists/6256195"
+        },
+        {
+          "name": "Bram Inscore",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1076560,
+          "resource_url": "https://api.discogs.com/artists/1076560"
+        },
+        {
+          "name": "Brett McLaughlin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3192001,
+          "resource_url": "https://api.discogs.com/artists/3192001"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Fools",
+      "extraartists": [
+        {
+          "name": "Manny Marroquin",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 67636,
+          "resource_url": "https://api.discogs.com/artists/67636"
+        },
+        {
+          "name": "Chris Galland",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assistant]",
+          "tracks": "",
+          "id": 1608079,
+          "resource_url": "https://api.discogs.com/artists/1608079"
+        },
+        {
+          "name": "Ike Schultz",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assistant]",
+          "tracks": "",
+          "id": 4028616,
+          "resource_url": "https://api.discogs.com/artists/4028616"
+        },
+        {
+          "name": "Kong Sing Wei",
+          "anv": "David Sing Wei Kong",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 4333945,
+          "resource_url": "https://api.discogs.com/artists/4333945"
+        },
+        {
+          "name": "Alex JL Hiew",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3963660,
+          "resource_url": "https://api.discogs.com/artists/3963660"
+        },
+        {
+          "name": "Pip Norman",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1617698,
+          "resource_url": "https://api.discogs.com/artists/1617698"
+        },
+        {
+          "name": "Slums (4)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4601245,
+          "resource_url": "https://api.discogs.com/artists/4601245"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        },
+        {
+          "name": "Alex Hope (2)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4582162,
+          "resource_url": "https://api.discogs.com/artists/4582162"
+        },
+        {
+          "name": "Pip Norman",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1617698,
+          "resource_url": "https://api.discogs.com/artists/1617698"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Ease",
+      "extraartists": [
+        {
+          "name": "Broods",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3666838,
+          "resource_url": "https://api.discogs.com/artists/3666838"
+        },
+        {
+          "name": "Manny Marroquin",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 67636,
+          "resource_url": "https://api.discogs.com/artists/67636"
+        },
+        {
+          "name": "Chris Galland",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assistant]",
+          "tracks": "",
+          "id": 1608079,
+          "resource_url": "https://api.discogs.com/artists/1608079"
+        },
+        {
+          "name": "Ike Schultz",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assistant]",
+          "tracks": "",
+          "id": 4028616,
+          "resource_url": "https://api.discogs.com/artists/4028616"
+        },
+        {
+          "name": "Caleb Nott",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3818457,
+          "resource_url": "https://api.discogs.com/artists/3818457"
+        },
+        {
+          "name": "Georgia Nott",
+          "anv": "Georgia Nott of 'Broods'",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 3818455,
+          "resource_url": "https://api.discogs.com/artists/3818455"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        },
+        {
+          "name": "Caleb Nott",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3818457,
+          "resource_url": "https://api.discogs.com/artists/3818457"
+        },
+        {
+          "name": "Georgia Nott",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3818455,
+          "resource_url": "https://api.discogs.com/artists/3818455"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "The Quiet",
+      "extraartists": [
+        {
+          "name": "Manny Marroquin",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 67636,
+          "resource_url": "https://api.discogs.com/artists/67636"
+        },
+        {
+          "name": "Chris Galland",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assistant]",
+          "tracks": "",
+          "id": 1608079,
+          "resource_url": "https://api.discogs.com/artists/1608079"
+        },
+        {
+          "name": "Ike Schultz",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assistant]",
+          "tracks": "",
+          "id": 4028616,
+          "resource_url": "https://api.discogs.com/artists/4028616"
+        },
+        {
+          "name": "Alex JL Hiew",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3963660,
+          "resource_url": "https://api.discogs.com/artists/3963660"
+        },
+        {
+          "name": "Dann Hume",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 877226,
+          "resource_url": "https://api.discogs.com/artists/877226"
+        },
+        {
+          "name": "Slums (4)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4601245,
+          "resource_url": "https://api.discogs.com/artists/4601245"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        },
+        {
+          "name": "Dann Hume",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 877226,
+          "resource_url": "https://api.discogs.com/artists/877226"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "DKLA",
+      "extraartists": [
+        {
+          "name": "Jackson Barclay",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additional]",
+          "tracks": "",
+          "id": 3959878,
+          "resource_url": "https://api.discogs.com/artists/3959878"
+        },
+        {
+          "name": "Tkay Maidza",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 4029910,
+          "resource_url": "https://api.discogs.com/artists/4029910"
+        },
+        {
+          "name": "Andrew Dawson",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 370017,
+          "resource_url": "https://api.discogs.com/artists/370017"
+        },
+        {
+          "name": "Alex JL Hiew",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3963660,
+          "resource_url": "https://api.discogs.com/artists/3963660"
+        },
+        {
+          "name": "Slums (4)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4601245,
+          "resource_url": "https://api.discogs.com/artists/4601245"
+        },
+        {
+          "name": "Luke Million",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Vocals]",
+          "tracks": "",
+          "id": 1646485,
+          "resource_url": "https://api.discogs.com/artists/1646485"
+        },
+        {
+          "name": "Tkay Maidza",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4029910,
+          "resource_url": "https://api.discogs.com/artists/4029910"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        },
+        {
+          "name": "Alex Hope (2)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4582162,
+          "resource_url": "https://api.discogs.com/artists/4582162"
+        },
+        {
+          "name": "Alex JL Hiew",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3963660,
+          "resource_url": "https://api.discogs.com/artists/3963660"
+        },
+        {
+          "name": "Jean Capotorto",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 9267292,
+          "resource_url": "https://api.discogs.com/artists/9267292"
+        },
+        {
+          "name": "Tkay Maidza",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4029910,
+          "resource_url": "https://api.discogs.com/artists/4029910"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Talk Me Down",
+      "extraartists": [
+        {
+          "name": "Larry Gold",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [String]",
+          "tracks": "",
+          "id": 213280,
+          "resource_url": "https://api.discogs.com/artists/213280"
+        },
+        {
+          "name": "Manny Marroquin",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 67636,
+          "resource_url": "https://api.discogs.com/artists/67636"
+        },
+        {
+          "name": "Chris Galland",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assistant]",
+          "tracks": "",
+          "id": 1608079,
+          "resource_url": "https://api.discogs.com/artists/1608079"
+        },
+        {
+          "name": "Ike Schultz",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assistant]",
+          "tracks": "",
+          "id": 4028616,
+          "resource_url": "https://api.discogs.com/artists/4028616"
+        },
+        {
+          "name": "Brett McLaughlin",
+          "anv": "",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 3192001,
+          "resource_url": "https://api.discogs.com/artists/3192001"
+        },
+        {
+          "name": "Bram Inscore",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1076560,
+          "resource_url": "https://api.discogs.com/artists/1076560"
+        },
+        {
+          "name": "Emile Haynie",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1135338,
+          "resource_url": "https://api.discogs.com/artists/1135338"
+        },
+        {
+          "name": "Allie X",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocal Production]",
+          "tracks": "",
+          "id": 6256195,
+          "resource_url": "https://api.discogs.com/artists/6256195"
+        },
+        {
+          "name": "Brett McLaughlin",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocal Production]",
+          "tracks": "",
+          "id": 3192001,
+          "resource_url": "https://api.discogs.com/artists/3192001"
+        },
+        {
+          "name": "Blake Espy",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 3819990,
+          "resource_url": "https://api.discogs.com/artists/3819990"
+        },
+        {
+          "name": "Charles Parker",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 402137,
+          "resource_url": "https://api.discogs.com/artists/402137"
+        },
+        {
+          "name": "Davis Barnett",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 402095,
+          "resource_url": "https://api.discogs.com/artists/402095"
+        },
+        {
+          "name": "Emma Kummrow",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 219428,
+          "resource_url": "https://api.discogs.com/artists/219428"
+        },
+        {
+          "name": "Guillaume Combet",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 2135646,
+          "resource_url": "https://api.discogs.com/artists/2135646"
+        },
+        {
+          "name": "Jennie Lorenzo",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 1121281,
+          "resource_url": "https://api.discogs.com/artists/1121281"
+        },
+        {
+          "name": "Jennifer Lee",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 314404,
+          "resource_url": "https://api.discogs.com/artists/314404"
+        },
+        {
+          "name": "Jonathan Kim (2)",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 2986118,
+          "resource_url": "https://api.discogs.com/artists/2986118"
+        },
+        {
+          "name": "Luigi Mazzocchi",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 2034002,
+          "resource_url": "https://api.discogs.com/artists/2034002"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        },
+        {
+          "name": "Allie X",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6256195,
+          "resource_url": "https://api.discogs.com/artists/6256195"
+        },
+        {
+          "name": "Bram Inscore",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1076560,
+          "resource_url": "https://api.discogs.com/artists/1076560"
+        },
+        {
+          "name": "Brett McLaughlin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3192001,
+          "resource_url": "https://api.discogs.com/artists/3192001"
+        },
+        {
+          "name": "Emile Haynie",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1135338,
+          "resource_url": "https://api.discogs.com/artists/1135338"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Cool",
+      "extraartists": [
+        {
+          "name": "Alex Hope (2)",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 4582162,
+          "resource_url": "https://api.discogs.com/artists/4582162"
+        },
+        {
+          "name": "Alex Hope (2)",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 4582162,
+          "resource_url": "https://api.discogs.com/artists/4582162"
+        },
+        {
+          "name": "Manny Marroquin",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 67636,
+          "resource_url": "https://api.discogs.com/artists/67636"
+        },
+        {
+          "name": "Chris Galland",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assistant]",
+          "tracks": "",
+          "id": 1608079,
+          "resource_url": "https://api.discogs.com/artists/1608079"
+        },
+        {
+          "name": "Ike Schultz",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assistant]",
+          "tracks": "",
+          "id": 4028616,
+          "resource_url": "https://api.discogs.com/artists/4028616"
+        },
+        {
+          "name": "Alex Hope (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4582162,
+          "resource_url": "https://api.discogs.com/artists/4582162"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        },
+        {
+          "name": "Alex Hope (2)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4582162,
+          "resource_url": "https://api.discogs.com/artists/4582162"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Heaven",
+      "extraartists": [
+        {
+          "name": "Alex Hope (2)",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 4582162,
+          "resource_url": "https://api.discogs.com/artists/4582162"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Laura Sisk",
+          "anv": "",
+          "join": "",
+          "role": "Engineer, Engineer [Vocal]",
+          "tracks": "",
+          "id": 2765321,
+          "resource_url": "https://api.discogs.com/artists/2765321"
+        },
+        {
+          "name": "Betty Who",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3295084,
+          "resource_url": "https://api.discogs.com/artists/3295084"
+        },
+        {
+          "name": "Betty Who",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 3295084,
+          "resource_url": "https://api.discogs.com/artists/3295084"
+        },
+        {
+          "name": "Manny Marroquin",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 67636,
+          "resource_url": "https://api.discogs.com/artists/67636"
+        },
+        {
+          "name": "Chris Galland",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assistant]",
+          "tracks": "",
+          "id": 1608079,
+          "resource_url": "https://api.discogs.com/artists/1608079"
+        },
+        {
+          "name": "Ike Schultz",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assistant]",
+          "tracks": "",
+          "id": 4028616,
+          "resource_url": "https://api.discogs.com/artists/4028616"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Betty Who",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 3295084,
+          "resource_url": "https://api.discogs.com/artists/3295084"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        },
+        {
+          "name": "Alex Hope (2)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4582162,
+          "resource_url": "https://api.discogs.com/artists/4582162"
+        },
+        {
+          "name": "Claire Boucher",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3396407,
+          "resource_url": "https://api.discogs.com/artists/3396407"
+        },
+        {
+          "name": "Jack Antonoff",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 585619,
+          "resource_url": "https://api.discogs.com/artists/585619"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Youth",
+      "extraartists": [
+        {
+          "name": "Allie X",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 6256195,
+          "resource_url": "https://api.discogs.com/artists/6256195"
+        },
+        {
+          "name": "Brett McLaughlin",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 3192001,
+          "resource_url": "https://api.discogs.com/artists/3192001"
+        },
+        {
+          "name": "Mark Stent",
+          "anv": "Mark \"Spike\" Stent",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 211449,
+          "resource_url": "https://api.discogs.com/artists/211449"
+        },
+        {
+          "name": "Alex JL Hiew",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3963660,
+          "resource_url": "https://api.discogs.com/artists/3963660"
+        },
+        {
+          "name": "Bram Inscore",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1076560,
+          "resource_url": "https://api.discogs.com/artists/1076560"
+        },
+        {
+          "name": "Slums (4)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4601245,
+          "resource_url": "https://api.discogs.com/artists/4601245"
+        },
+        {
+          "name": "Allie X",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocal]",
+          "tracks": "",
+          "id": 6256195,
+          "resource_url": "https://api.discogs.com/artists/6256195"
+        },
+        {
+          "name": "Brett McLaughlin",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocal]",
+          "tracks": "",
+          "id": 3192001,
+          "resource_url": "https://api.discogs.com/artists/3192001"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        },
+        {
+          "name": "Alex Hope (2)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4582162,
+          "resource_url": "https://api.discogs.com/artists/4582162"
+        },
+        {
+          "name": "Allie X",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6256195,
+          "resource_url": "https://api.discogs.com/artists/6256195"
+        },
+        {
+          "name": "Bram Inscore",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1076560,
+          "resource_url": "https://api.discogs.com/artists/1076560"
+        },
+        {
+          "name": "Brett McLaughlin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3192001,
+          "resource_url": "https://api.discogs.com/artists/3192001"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Lost Boy",
+      "extraartists": [
+        {
+          "name": "Brett McLaughlin",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 3192001,
+          "resource_url": "https://api.discogs.com/artists/3192001"
+        },
+        {
+          "name": "Andrew Dawson",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 370017,
+          "resource_url": "https://api.discogs.com/artists/370017"
+        },
+        {
+          "name": "Mike Malchicoff",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assistant]",
+          "tracks": "",
+          "id": 4088072,
+          "resource_url": "https://api.discogs.com/artists/4088072"
+        },
+        {
+          "name": "Bram Inscore",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1076560,
+          "resource_url": "https://api.discogs.com/artists/1076560"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        },
+        {
+          "name": "Allie X",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6256195,
+          "resource_url": "https://api.discogs.com/artists/6256195"
+        },
+        {
+          "name": "Bram Inscore",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1076560,
+          "resource_url": "https://api.discogs.com/artists/1076560"
+        },
+        {
+          "name": "Brett McLaughlin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3192001,
+          "resource_url": "https://api.discogs.com/artists/3192001"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "For Him.",
+      "extraartists": [
+        {
+          "name": "Allie X",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 6256195,
+          "resource_url": "https://api.discogs.com/artists/6256195"
+        },
+        {
+          "name": "Brett McLaughlin",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 3192001,
+          "resource_url": "https://api.discogs.com/artists/3192001"
+        },
+        {
+          "name": "Allday (2)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 2907979,
+          "resource_url": "https://api.discogs.com/artists/2907979"
+        },
+        {
+          "name": "Alex Aldi",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 525592,
+          "resource_url": "https://api.discogs.com/artists/525592"
+        },
+        {
+          "name": "Bram Inscore",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1076560,
+          "resource_url": "https://api.discogs.com/artists/1076560"
+        },
+        {
+          "name": "Allie X",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocal]",
+          "tracks": "",
+          "id": 6256195,
+          "resource_url": "https://api.discogs.com/artists/6256195"
+        },
+        {
+          "name": "Brett McLaughlin",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Vocal]",
+          "tracks": "",
+          "id": 3192001,
+          "resource_url": "https://api.discogs.com/artists/3192001"
+        },
+        {
+          "name": "Charles Daly",
+          "anv": "",
+          "join": "",
+          "role": "Recorded By [Allday's Vocals]",
+          "tracks": "",
+          "id": 1205520,
+          "resource_url": "https://api.discogs.com/artists/1205520"
+        },
+        {
+          "name": "Allday (2)",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 2907979,
+          "resource_url": "https://api.discogs.com/artists/2907979"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        },
+        {
+          "name": "Allie X",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6256195,
+          "resource_url": "https://api.discogs.com/artists/6256195"
+        },
+        {
+          "name": "Bram Inscore",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1076560,
+          "resource_url": "https://api.discogs.com/artists/1076560"
+        },
+        {
+          "name": "Brett McLaughlin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3192001,
+          "resource_url": "https://api.discogs.com/artists/3192001"
+        },
+        {
+          "name": "Tom Gaynor",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4858167,
+          "resource_url": "https://api.discogs.com/artists/4858167"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Surburbia",
+      "extraartists": [
+        {
+          "name": "Ryan Ritchie",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [String]",
+          "tracks": "",
+          "id": 1835238,
+          "resource_url": "https://api.discogs.com/artists/1835238"
+        },
+        {
+          "name": "Manny Marroquin",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 67636,
+          "resource_url": "https://api.discogs.com/artists/67636"
+        },
+        {
+          "name": "Chris Galland",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assistant]",
+          "tracks": "",
+          "id": 1608079,
+          "resource_url": "https://api.discogs.com/artists/1608079"
+        },
+        {
+          "name": "Ike Schultz",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assistant]",
+          "tracks": "",
+          "id": 4028616,
+          "resource_url": "https://api.discogs.com/artists/4028616"
+        },
+        {
+          "name": "Bram Inscore",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 1076560,
+          "resource_url": "https://api.discogs.com/artists/1076560"
+        },
+        {
+          "name": "Aaron Barnden",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 1482735,
+          "resource_url": "https://api.discogs.com/artists/1482735"
+        },
+        {
+          "name": "Alyssa Conrau",
+          "anv": "Alyssa Conran",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 735220,
+          "resource_url": "https://api.discogs.com/artists/735220"
+        },
+        {
+          "name": "Blair Harris",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 3412375,
+          "resource_url": "https://api.discogs.com/artists/3412375"
+        },
+        {
+          "name": "Elena Phatak",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 4858169,
+          "resource_url": "https://api.discogs.com/artists/4858169"
+        },
+        {
+          "name": "Ioana Tache",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 4858168,
+          "resource_url": "https://api.discogs.com/artists/4858168"
+        },
+        {
+          "name": "Leah Zweck",
+          "anv": "Leah Zweck-Bain",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 469280,
+          "resource_url": "https://api.discogs.com/artists/469280"
+        },
+        {
+          "name": "William Clark (6)",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 4858166,
+          "resource_url": "https://api.discogs.com/artists/4858166"
+        },
+        {
+          "name": "Zoe Knighton",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 460288,
+          "resource_url": "https://api.discogs.com/artists/460288"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        },
+        {
+          "name": "Allie X",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6256195,
+          "resource_url": "https://api.discogs.com/artists/6256195"
+        },
+        {
+          "name": "Bram Inscore",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1076560,
+          "resource_url": "https://api.discogs.com/artists/1076560"
+        },
+        {
+          "name": "Brett McLaughlin",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 3192001,
+          "resource_url": "https://api.discogs.com/artists/3192001"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Too Good",
+      "extraartists": [
+        {
+          "name": "Angus Gardiner",
+          "anv": "Gus Gardiner",
+          "join": "",
+          "role": "Arranged By [Strings]",
+          "tracks": "",
+          "id": 1513957,
+          "resource_url": "https://api.discogs.com/artists/1513957"
+        },
+        {
+          "name": "Alex Hope (2)",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals",
+          "tracks": "",
+          "id": 4582162,
+          "resource_url": "https://api.discogs.com/artists/4582162"
+        },
+        {
+          "name": "Antonia Gauci",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additional]",
+          "tracks": "",
+          "id": 3522759,
+          "resource_url": "https://api.discogs.com/artists/3522759"
+        },
+        {
+          "name": "Drew Taubenfeld",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 3930207,
+          "resource_url": "https://api.discogs.com/artists/3930207"
+        },
+        {
+          "name": "Tom Elmhirst",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 122559,
+          "resource_url": "https://api.discogs.com/artists/122559"
+        },
+        {
+          "name": "Joe Visciano",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assistant]",
+          "tracks": "",
+          "id": 3339475,
+          "resource_url": "https://api.discogs.com/artists/3339475"
+        },
+        {
+          "name": "Alex JL Hiew",
+          "anv": "",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 3963660,
+          "resource_url": "https://api.discogs.com/artists/3963660"
+        },
+        {
+          "name": "Alex Hope (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4582162,
+          "resource_url": "https://api.discogs.com/artists/4582162"
+        },
+        {
+          "name": "Alex JL Hiew",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 3963660,
+          "resource_url": "https://api.discogs.com/artists/3963660"
+        },
+        {
+          "name": "Slums (4)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4601245,
+          "resource_url": "https://api.discogs.com/artists/4601245"
+        },
+        {
+          "name": "Angus Gardiner",
+          "anv": "Gus Gardiner",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 1513957,
+          "resource_url": "https://api.discogs.com/artists/1513957"
+        },
+        {
+          "name": "Liisa Pallandi",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 4591241,
+          "resource_url": "https://api.discogs.com/artists/4591241"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        },
+        {
+          "name": "Alex Hope (2)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4582162,
+          "resource_url": "https://api.discogs.com/artists/4582162"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Blue",
+      "extraartists": [
+        {
+          "name": "Ryan Ritchie",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [String]",
+          "tracks": "",
+          "id": 1835238,
+          "resource_url": "https://api.discogs.com/artists/1835238"
+        },
+        {
+          "name": "Alex Hope (2)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 4582162,
+          "resource_url": "https://api.discogs.com/artists/4582162"
+        },
+        {
+          "name": "Andrew Dawson",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 370017,
+          "resource_url": "https://api.discogs.com/artists/370017"
+        },
+        {
+          "name": "Mike Malchicoff",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assistant]",
+          "tracks": "",
+          "id": 4088072,
+          "resource_url": "https://api.discogs.com/artists/4088072"
+        },
+        {
+          "name": "Alex Hope (2)",
+          "anv": "",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 4582162,
+          "resource_url": "https://api.discogs.com/artists/4582162"
+        },
+        {
+          "name": "Alex Hope (2)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 4582162,
+          "resource_url": "https://api.discogs.com/artists/4582162"
+        },
+        {
+          "name": "Aaron Barnden",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 1482735,
+          "resource_url": "https://api.discogs.com/artists/1482735"
+        },
+        {
+          "name": "Alyssa Conrau",
+          "anv": "Alyssa Conran",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 735220,
+          "resource_url": "https://api.discogs.com/artists/735220"
+        },
+        {
+          "name": "Blair Harris",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 3412375,
+          "resource_url": "https://api.discogs.com/artists/3412375"
+        },
+        {
+          "name": "Elena Phatak",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 4858169,
+          "resource_url": "https://api.discogs.com/artists/4858169"
+        },
+        {
+          "name": "Ioana Tache",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 4858168,
+          "resource_url": "https://api.discogs.com/artists/4858168"
+        },
+        {
+          "name": "Leah Zweck",
+          "anv": "Leah Zweck-Bain",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 469280,
+          "resource_url": "https://api.discogs.com/artists/469280"
+        },
+        {
+          "name": "William Clark (6)",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 4858166,
+          "resource_url": "https://api.discogs.com/artists/4858166"
+        },
+        {
+          "name": "Zoe Knighton",
+          "anv": "",
+          "join": "",
+          "role": "Strings",
+          "tracks": "",
+          "id": 460288,
+          "resource_url": "https://api.discogs.com/artists/460288"
+        },
+        {
+          "name": "Alex Hope (2)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4582162,
+          "resource_url": "https://api.discogs.com/artists/4582162"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "title": "Wild (XXYYXX Remix)",
+      "extraartists": [
+        {
+          "name": "xxyyxx",
+          "anv": "",
+          "join": "",
+          "role": "Remix",
+          "tracks": "",
+          "id": 2738165,
+          "resource_url": "https://api.discogs.com/artists/2738165"
+        },
+        {
+          "name": "Alex Hope (2)",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4582162,
+          "resource_url": "https://api.discogs.com/artists/4582162"
+        },
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        }
+      ],
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Mark Holland (6)",
+      "anv": "",
+      "join": "",
+      "role": "A&R",
+      "tracks": "",
+      "id": 4620376,
+      "resource_url": "https://api.discogs.com/artists/4620376"
+    },
+    {
+      "name": "Brandon Creed",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 2321627,
+      "resource_url": "https://api.discogs.com/artists/2321627"
+    },
+    {
+      "name": "Dani Russin",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 4620374,
+      "resource_url": "https://api.discogs.com/artists/4620374"
+    },
+    {
+      "name": "Leon Zervos",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 310809,
+      "resource_url": "https://api.discogs.com/artists/310809"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/OlR0Uz8uKHBg8PzSrZbpcRDInWTWYx73JaD01ufkuzc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/NS0xOTA2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/OlR0Uz8uKHBg8PzSrZbpcRDInWTWYx73JaD01ufkuzc/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/NS0xOTA2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/M6pXI-6QUk6TzRbAdvD_rukVKdexBwexCxKbujk4Ro0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/NS0xOTA2LmpwZWc.jpeg",
+      "width": 598,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/QHi3ViOeUFxrSMUmqB7AzuBiKEWpPBnaiVTw9SaD3hk/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/NS00NTIwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/QHi3ViOeUFxrSMUmqB7AzuBiKEWpPBnaiVTw9SaD3hk/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/NS00NTIwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/Svuvq-m-hI_k72IMWfFbXxXFZyxDI9ikeJXpjZzv7VE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/NS00NTIwLmpwZWc.jpeg",
+      "width": 600,
+      "height": 593
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/qfJNMoJIUxMdCU1PHorO9GaRzH0LSjzP9gQawyoVekM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/NS0zMzk0LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/qfJNMoJIUxMdCU1PHorO9GaRzH0LSjzP9gQawyoVekM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/NS0zMzk0LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/O-tDesPDBJJgSdvs9Q4X_mdyAhLhiCEq_gF_mTEs70E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/NS0zMzk0LmpwZWc.jpeg",
+      "width": 599,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/GT4bg8GNIoTLulaNDFCa7a3170e3pi-j0_itGPvbAd0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/Ni02Mzk5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/GT4bg8GNIoTLulaNDFCa7a3170e3pi-j0_itGPvbAd0/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/Ni02Mzk5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/MUNwFvJWWUR4SunQ-_Y6yE_xJ9ZzFUYDoLpaVzotzAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/Ni02Mzk5LmpwZWc.jpeg",
+      "width": 600,
+      "height": 593
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/DL7x73L-sFHh5qZN3MBNbSR_9a1WeBH0DyQK-LPsVHA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/Ni02NzY5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/DL7x73L-sFHh5qZN3MBNbSR_9a1WeBH0DyQK-LPsVHA/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/Ni02NzY5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/NSo8jciBiBoitYPegUGLAztmNKDL1f7UO5tYESGjlag/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/Ni02NzY5LmpwZWc.jpeg",
+      "width": 600,
+      "height": 594
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/5IJdNrxmomqnrNZh3s4CkoKjAw4Y5ZfiMF_nu3rg5po/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/Ni0zODE2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/5IJdNrxmomqnrNZh3s4CkoKjAw4Y5ZfiMF_nu3rg5po/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/Ni0zODE2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/i_9Now2y3YioTIOhVpcoZbg0CLoVDXZn4togv6LRNfQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/Ni0zODE2LmpwZWc.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/UNApecEipJ9CizwolKWxELalnnqpVPk2_O-QIf2Q-GY/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/NS05NTMxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/UNApecEipJ9CizwolKWxELalnnqpVPk2_O-QIf2Q-GY/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/NS05NTMxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/iFmaJ4IL7T0EyJju2r_gSro5EOy0bOd8bnkBY21bvxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/NS05NTMxLmpwZWc.jpeg",
+      "width": 600,
+      "height": 588
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/jkGoZus-VKllPLKzZY2V4I1r3gD4imf93MXo-KQk4jI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/NS0yOTQ0LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/jkGoZus-VKllPLKzZY2V4I1r3gD4imf93MXo-KQk4jI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/NS0yOTQ0LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/t0wJGQfb7qx0m9S8r0aH7ZW0clo5_TjeK2df_4-_P-U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/NS0yOTQ0LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ApIvWOykDEkS3xa5UFcKfkMxxNm16ZJOabPrCs14feU/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/NS0yMzIzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/ApIvWOykDEkS3xa5UFcKfkMxxNm16ZJOabPrCs14feU/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/NS0yMzIzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/xOtqopKscagnNLdRNvYRW22__uK6LGAVBfr94YmP4yI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/NS0yMzIzLmpwZWc.jpeg",
+      "width": 600,
+      "height": 590
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/x6LgERFEMkBeCTQOxbs9lmPpllG1wtdNjLPqxFMQ7cA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/NS05NjY4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/x6LgERFEMkBeCTQOxbs9lmPpllG1wtdNjLPqxFMQ7cA/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/NS05NjY4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/zjUUywlKLIwDU2g8CUxcdEcaLXYDDqEPNADEGZdHOMY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/NS05NjY4LmpwZWc.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/RnU36KHDQK7diAJJrknQFnujC2CMULaMp-f5AG6rCOI/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/Ni05NDQxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/RnU36KHDQK7diAJJrknQFnujC2CMULaMp-f5AG6rCOI/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/Ni05NDQxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/Szp6azBCJmLC53RuPpB0CS5v_f5dW2F714ASWxvFty8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/Ni05NDQxLmpwZWc.jpeg",
+      "width": 600,
+      "height": 295
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/cU5HTggBidcYdV60s9Zv7rbjPvRd8OnMhH3cLHWL4UQ/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/Ni0yMzk1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/cU5HTggBidcYdV60s9Zv7rbjPvRd8OnMhH3cLHWL4UQ/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/Ni0yMzk1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/mIAmxV4wEj_jaJWAQGNffTv0TImaCtcw94HoN-T3p7w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/Ni0yMzk1LmpwZWc.jpeg",
+      "width": 600,
+      "height": 297
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/djl1XwnVwDVQK19DWdP_LefrQqIzTQ5MhXDN0PIPd78/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTQ4ODg1NDIy/Ni0yMDEzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/djl1XwnVwDVQK19DWdP_LefrQqIzTQ5MhXDN0PIPd78/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTQ4ODg1NDIy/Ni0yMDEzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/aN786Srw6hOb9pEGeiSp_IwTDBd9hYJ1_eTrZpUnm4I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTQ4ODg1NDIy/Ni0yMDEzLmpwZWc.jpeg",
+      "width": 600,
+      "height": 594
+    }
+  ],
+  "thumb": "https://i.discogs.com/M6pXI-6QUk6TzRbAdvD_rukVKdexBwexCxKbujk4Ro0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg3ODUw/NTAtMTY5MzYxMTAw/NS0xOTA2LmpwZWc.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

@@ -1,0 +1,581 @@
+{
+  "id": 12802012,
+  "status": "Accepted",
+  "year": 2018,
+  "resource_url": "https://api.discogs.com/releases/12802012",
+  "uri": "https://www.discogs.com/release/12802012-Drake-Scorpion",
+  "artists": [
+    {
+      "name": "Drake",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 151199,
+      "resource_url": "https://api.discogs.com/artists/151199",
+      "thumbnail_url": "https://i.discogs.com/SCU2bmCyMN21mfYL7uoQenQJsjEM9Mtz3k6htdW6slg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE1MTE5/OS0xNjU1NTczODc5/LTgyMDMuanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Drake",
+  "labels": [
+    {
+      "name": "Young Money",
+      "catno": "B0029103-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 211066,
+      "resource_url": "https://api.discogs.com/labels/211066",
+      "thumbnail_url": "https://i.discogs.com/EKG7axr0UDcju_jAN9AlBjqvcI3bEV4x6OZmK_3l9Lk/rs:fit/g:sm/q:90/h:202/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxMTA2/Ni0xNzI1NzI3NDYx/LTgwNTUuanBlZw.jpeg"
+    },
+    {
+      "name": "Cash Money Records",
+      "catno": "B0029103-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 19799,
+      "resource_url": "https://api.discogs.com/labels/19799",
+      "thumbnail_url": "https://i.discogs.com/DOJAy2_H-CJsw0a9XtVIDDBpUM7BRHfNWiHyuZ0FvcY/rs:fit/g:sm/q:90/h:600/w:420/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5Nzk5/LTE0ODg5MTgwNTct/Mzg1OS5wbmc.jpeg"
+    },
+    {
+      "name": "Republic Records",
+      "catno": "B0029103-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Young Money",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 211066,
+      "resource_url": "https://api.discogs.com/labels/211066",
+      "thumbnail_url": "https://i.discogs.com/EKG7axr0UDcju_jAN9AlBjqvcI3bEV4x6OZmK_3l9Lk/rs:fit/g:sm/q:90/h:202/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxMTA2/Ni0xNzI1NzI3NDYx/LTgwNTUuanBlZw.jpeg"
+    },
+    {
+      "name": "Cash Money Records, Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 273837,
+      "resource_url": "https://api.discogs.com/labels/273837"
+    },
+    {
+      "name": "Young Money",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 211066,
+      "resource_url": "https://api.discogs.com/labels/211066",
+      "thumbnail_url": "https://i.discogs.com/EKG7axr0UDcju_jAN9AlBjqvcI3bEV4x6OZmK_3l9Lk/rs:fit/g:sm/q:90/h:202/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxMTA2/Ni0xNzI1NzI3NDYx/LTgwNTUuanBlZw.jpeg"
+    },
+    {
+      "name": "Cash Money Records, Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 273837,
+      "resource_url": "https://api.discogs.com/labels/273837"
+    },
+    {
+      "name": "Republic Records",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    },
+    {
+      "name": "Republic Records",
+      "catno": "",
+      "entity_type": "8",
+      "entity_type_name": "Marketed By",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    },
+    {
+      "name": "UMG Recordings, Inc.",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 272782,
+      "resource_url": "https://api.discogs.com/labels/272782",
+      "thumbnail_url": "https://i.discogs.com/WX78Ss6rJPzD8aWRj-wynSuGlTwtQLp2QLnUFGDI3Pg/rs:fit/g:sm/q:90/h:80/w:534/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Mjc4/Mi0xNDU3MDEyNDAw/LTExMzYuanBlZw.jpeg"
+    },
+    {
+      "name": "Universal Music Distribution",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 115478,
+      "resource_url": "https://api.discogs.com/labels/115478"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 5997,
+    "want": 2036,
+    "rating": {
+      "count": 439,
+      "average": 4.43
+    },
+    "submitter": {
+      "username": "CD_WAREHOUSE_817",
+      "resource_url": "https://api.discogs.com/users/CD_WAREHOUSE_817"
+    },
+    "contributors": [
+      {
+        "username": "CD_WAREHOUSE_817",
+        "resource_url": "https://api.discogs.com/users/CD_WAREHOUSE_817"
+      },
+      {
+        "username": "oldies-dot-com",
+        "resource_url": "https://api.discogs.com/users/oldies-dot-com"
+      },
+      {
+        "username": "KaitouGentleman",
+        "resource_url": "https://api.discogs.com/users/KaitouGentleman"
+      },
+      {
+        "username": "adgarscher3",
+        "resource_url": "https://api.discogs.com/users/adgarscher3"
+      },
+      {
+        "username": "BotsOverThots",
+        "resource_url": "https://api.discogs.com/users/BotsOverThots"
+      },
+      {
+        "username": "triplestan",
+        "resource_url": "https://api.discogs.com/users/triplestan"
+      },
+      {
+        "username": "vrp_pdx",
+        "resource_url": "https://api.discogs.com/users/vrp_pdx"
+      },
+      {
+        "username": "Mahoney4321",
+        "resource_url": "https://api.discogs.com/users/Mahoney4321"
+      },
+      {
+        "username": "foreveryoungrecords",
+        "resource_url": "https://api.discogs.com/users/foreveryoungrecords"
+      },
+      {
+        "username": "mightyvinyl",
+        "resource_url": "https://api.discogs.com/users/mightyvinyl"
+      },
+      {
+        "username": "AustinSimard",
+        "resource_url": "https://api.discogs.com/users/AustinSimard"
+      },
+      {
+        "username": "MarioLTZ",
+        "resource_url": "https://api.discogs.com/users/MarioLTZ"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2018-11-14T11:49:38-08:00",
+  "date_changed": "2024-12-27T17:24:32-08:00",
+  "num_for_sale": 61,
+  "lowest_price": 18.99,
+  "master_id": 1387765,
+  "master_url": "https://api.discogs.com/masters/1387765",
+  "title": "Scorpion",
+  "country": "US",
+  "released": "2018-11-16",
+  "notes": "Made in Canada",
+  "released_formatted": "16 Nov 2018",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "602567874942",
+      "description": "Scanned"
+    },
+    {
+      "type": "Barcode",
+      "value": "6 02567 87494 2",
+      "description": "Printed"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=VtEBRE9ul90",
+      "title": "Survival",
+      "description": "Provided to YouTube by Universal Music Group\n\nSurvival · Drake\n\nScorpion\n\n℗ 2018 Young Money/Cash Money Records\n\nReleased on: 2018-06-29\n\nMixing Engineer: Noel \"Gadget\" Campbell\nRecording Second Engineer, Mixing Second Engineer: Harley Arsenault\nRecording",
+      "duration": 137,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=pzAIhjxEemw",
+      "title": "Mob Ties",
+      "description": "Provided to YouTube by Universal Music Group\n\nMob Ties · Drake\n\nScorpion\n\n℗ 2018 Young Money/Cash Money Records\n\nReleased on: 2018-06-29\n\nMixing Engineer: Noel \"Gadget\" Campbell\nMixing Second Engineer, Recording Second Engineer: Harley Arsenault\nRecording",
+      "duration": 206,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=w4MSbajRs_Y",
+      "title": "Emotionless",
+      "description": "Provided to YouTube by Universal Music Group\n\nEmotionless · Drake\n\nScorpion\n\n℗ 2018 Young Money/Cash Money Records\n\nReleased on: 2018-06-29\n\nMixing Engineer: Noel \"Gadget\" Campbell\nRecording Second Engineer, Mixing Second Engineer: Harley Arsenault\nMixing",
+      "duration": 303,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=l8G2BDzOeU0",
+      "title": "Can’t Take A Joke",
+      "description": "Provided to YouTube by Universal Music Group\n\nCan’t Take A Joke · Drake\n\nScorpion\n\n℗ 2018 Young Money/Cash Money Records\n\nReleased on: 2018-06-29\n\nMixing Engineer: Noel \"Gadget\" Campbell\nMixing Second Engineer: Harley Arsenault\nMixing Second Engineer: Gre",
+      "duration": 164,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=EQhSeKbnkqI",
+      "title": "Is There More",
+      "description": "Provided to YouTube by Universal Music Group\n\nIs There More · Drake\n\nScorpion\n\n℗ 2018 Young Money/Cash Money Records\n\nReleased on: 2018-06-29\n\nProducer: Wallis Lane\nProducer: Preme\nCo Producer: Jeffrey Rashad\nRecording Engineer: Noah Shebib\nMixing Second ",
+      "duration": 227,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=L2y1wk5EB6U",
+      "title": "Jaded",
+      "description": "Provided to YouTube by Universal Music Group\n\nJaded · Drake\n\nScorpion\n\n℗ 2018 Young Money/Cash Money Records\n\nReleased on: 2018-06-29\n\nComposer Lyricist, Other, Producer, Recording Engineer: Noel Cadastre\nRecording Engineer: Noah Shebib\nRecording Second E",
+      "duration": 263,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=yoeOly1sEBw",
+      "title": "Finesse",
+      "description": "Provided to YouTube by Universal Music Group\n\nFinesse · Drake\n\nScorpion\n\n℗ 2018 Young Money/Cash Money Records\n\nReleased on: 2018-06-29\n\nMixing Engineer: Noel \"Gadget\" Campbell\nRecording Second Engineer, Mixing Second Engineer: Harley Arsenault\nMixing Sec",
+      "duration": 183,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=m1a_GqJf02M",
+      "title": "God's Plan",
+      "description": "Provided to YouTube by Universal Music Group\n\nGod's Plan · Drake\n\nScorpion\n\n℗ 2018 Young Money Entertainment/Cash Money Records\n\nReleased on: 2018-06-29\n\nProducer: Cardo\nProducer: Yung Exclusive\nProducer: Boi-1da\nAdditionalproducer: Noah \"40\" Shebib\nRecor",
+      "duration": 199,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=pgnlKiMPv0M",
+      "title": "Jaded",
+      "description": "Provided to YouTube by Universal Music Group\n\nJaded · Drake\n\nScorpion\n\n℗ 2018 Young Money/Cash Money Records\n\nReleased on: 2018-06-29\n\nRecording Engineer, Producer, Other, Composer Lyricist: Noel Cadastre\nRecording Engineer: Noah Shebib\nRecording Second E",
+      "duration": 263,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=QVqS3tB8OtE",
+      "title": "Nonstop",
+      "description": "Provided to YouTube by Universal Music Group\n\nNonstop · Drake\n\nScorpion\n\n℗ 2018 Young Money/Cash Money Records\n\nReleased on: 2018-06-29\n\nMixing Engineer: Noel \"Gadget\" Campbell\nMixing Second Engineer: Harley Arsenault\nMixing Second Engineer: Greg Moffet\nM",
+      "duration": 239,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=R7YrJGdab6w",
+      "title": "Final Fantasy",
+      "description": "Provided to YouTube by Universal Music Group\n\nFinal Fantasy · Drake\n\nScorpion\n\n℗ 2018 Young Money/Cash Money Records\n\nReleased on: 2018-06-29\n\nMixing Engineer: Noel \"Gadget\" Campbell\nRecording Second Engineer, Mixing Second Engineer: Harley Arsenault\nReco",
+      "duration": 220,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=m3kVgCXFXdg",
+      "title": "Sandra’s Rose",
+      "description": "Provided to YouTube by Universal Music Group\n\nSandra’s Rose · Drake\n\nScorpion\n\n℗ 2018 Young Money/Cash Money Records\n\nReleased on: 2018-06-29\n\nMixing Engineer: Noel \"Gadget\" Campbell\nMixing Second Engineer, Recording Second Engineer: Harley Arsenault\nReco",
+      "duration": 217,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=SlW7cZC4-Hw",
+      "title": "That’s How You Feel",
+      "description": "Provided to YouTube by Universal Music Group\n\nThat’s How You Feel · Drake\n\nScorpion\n\n℗ 2018 Young Money/Cash Money Records\n\nReleased on: 2018-06-29\n\nMixing Engineer: Noel \"Gadget\" Campbell\nMixing Second Engineer: Harley Arsenault\nMixing Second Engineer: G",
+      "duration": 158,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=SD1tkI5-3dI",
+      "title": "In My Feelings",
+      "description": "Provided to YouTube by Universal Music Group\n\nIn My Feelings · Drake\n\nScorpion\n\n℗ 2018 Young Money/Cash Money Records\n\nReleased on: 2018-06-29\n\nMixing Engineer: Noel \"Gadget\" Campbell\nMixing Second Engineer, Recording Second Engineer: Harley Arsenault\nMix",
+      "duration": 218,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Hip Hop",
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Contemporary R&B",
+    "Pop Rap"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Survival",
+      "duration": "2:16"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Nonstop",
+      "duration": "3:59"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Elevate",
+      "duration": "3:05"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Emotionless",
+      "duration": "5:02"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "God's Plan",
+      "duration": "3:19"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "I'm Upset",
+      "duration": "3:34"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "8 Out Of 10",
+      "duration": "3:16"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Mob Ties",
+      "duration": "3:25"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Can't Take A Joke",
+      "duration": "2:44"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Sandra's Rose",
+      "duration": "3:36"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Talk Up",
+      "extraartists": [
+        {
+          "name": "Jay-Z",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 21742,
+          "resource_url": "https://api.discogs.com/artists/21742"
+        }
+      ],
+      "duration": "3:43"
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Is There More",
+      "duration": "3:47"
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "Peak",
+      "duration": "3:26"
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Summer Games",
+      "duration": "4:08"
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Jaded",
+      "duration": "4:22"
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "Nice For What",
+      "duration": "3:31"
+    },
+    {
+      "position": "C5",
+      "type_": "track",
+      "title": "Finesse",
+      "duration": "3:02"
+    },
+    {
+      "position": "C6",
+      "type_": "track",
+      "title": "Ratchet Happy Birthday",
+      "duration": "3:27"
+    },
+    {
+      "position": "C7",
+      "type_": "track",
+      "title": "That's How You Feel",
+      "duration": "2:38"
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Blue Tint",
+      "duration": "2:43"
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "In My Feelings",
+      "duration": "3:38"
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Don't Matter to Me",
+      "extraartists": [
+        {
+          "name": "Michael Jackson",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 15885,
+          "resource_url": "https://api.discogs.com/artists/15885"
+        }
+      ],
+      "duration": "4:06"
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "title": "After Dark",
+      "extraartists": [
+        {
+          "name": "Static Major",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1124616,
+          "resource_url": "https://api.discogs.com/artists/1124616"
+        },
+        {
+          "name": "Ty$",
+          "anv": "Ty Dolla $ign",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1825654,
+          "resource_url": "https://api.discogs.com/artists/1825654"
+        }
+      ],
+      "duration": "4:50"
+    },
+    {
+      "position": "D5",
+      "type_": "track",
+      "title": "Final Fantasy",
+      "duration": "3:40"
+    },
+    {
+      "position": "D6",
+      "type_": "track",
+      "title": "March 14",
+      "duration": "5:10"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Aubrey Graham",
+      "anv": "Aubrey Drake Graham",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 1557579,
+      "resource_url": "https://api.discogs.com/artists/1557579"
+    },
+    {
+      "name": "Noah Shebib",
+      "anv": "Noah \"40\" Shebib",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 895435,
+      "resource_url": "https://api.discogs.com/artists/895435"
+    },
+    {
+      "name": "Oliver El-Khatib",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 3021235,
+      "resource_url": "https://api.discogs.com/artists/3021235"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/GLonqjzbglTiP9lzNgVTn3ddsw8gcM4RvHAZ_BMKC38/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAy/MDEyLTE2NDAzMDE0/NDQtNzg0MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/GLonqjzbglTiP9lzNgVTn3ddsw8gcM4RvHAZ_BMKC38/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAy/MDEyLTE2NDAzMDE0/NDQtNzg0MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/SP_3NY4_yc2rEYkvaU8iV8g7zWUhl5V00DYr32_XmI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAy/MDEyLTE2NDAzMDE0/NDQtNzg0MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/MhECkrezacnHayES8e8WA6tHnmU1y9RwI3SKO8K94LE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAy/MDEyLTE2NDAzMDE0/NDQtMTM5NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/MhECkrezacnHayES8e8WA6tHnmU1y9RwI3SKO8K94LE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAy/MDEyLTE2NDAzMDE0/NDQtMTM5NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/sWWOhuE2h45mgRO0WNsuySmH38tkinBoYJa9yQQiqGM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAy/MDEyLTE2NDAzMDE0/NDQtMTM5NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/7YZJNt8up2qEKs_pYSoKDe1rQfhf9pjrtlweZGa8GGg/rs:fit/g:sm/q:90/h:600/w:565/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAy/MDEyLTE1NDIyMjUx/NDktNDYyNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/7YZJNt8up2qEKs_pYSoKDe1rQfhf9pjrtlweZGa8GGg/rs:fit/g:sm/q:90/h:600/w:565/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAy/MDEyLTE1NDIyMjUx/NDktNDYyNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/8o384EzhJZe3GiUclKYsawlCZlYr4IrzGyxL6-FN4dc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAy/MDEyLTE1NDIyMjUx/NDktNDYyNy5qcGVn.jpeg",
+      "width": 565,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/SP_3NY4_yc2rEYkvaU8iV8g7zWUhl5V00DYr32_XmI8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODAy/MDEyLTE2NDAzMDE0/NDQtNzg0MS5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

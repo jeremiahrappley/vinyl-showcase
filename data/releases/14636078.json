@@ -1,0 +1,799 @@
+{
+  "id": 14636078,
+  "status": "Accepted",
+  "year": 2019,
+  "resource_url": "https://api.discogs.com/releases/14636078",
+  "uri": "https://www.discogs.com/release/14636078-Ariana-Grande-My-Everything",
+  "artists": [
+    {
+      "name": "Ariana Grande",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 3310737,
+      "resource_url": "https://api.discogs.com/artists/3310737",
+      "thumbnail_url": "https://i.discogs.com/ns2Lr4_vKieO-26rNH1Uzj5CreZtJlFsHv_Y4ebasps/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMzMTA3/MzctMTc3OTAzOTgw/NS0yMDQ1LnBuZw.jpeg"
+    }
+  ],
+  "artists_sort": "Ariana Grande",
+  "labels": [
+    {
+      "name": "Republic Records",
+      "catno": "B0030713-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    },
+    {
+      "name": "UMe",
+      "catno": "B0030713-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 68029,
+      "resource_url": "https://api.discogs.com/labels/68029",
+      "thumbnail_url": "https://i.discogs.com/M8dUXs4KvT0ntyk7C_Xbzh3z3vTBp9EBxecfUb13p74/rs:fit/g:sm/q:90/h:233/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY4MDI5/LTE1MDM0MTYxNTkt/OTAxNy5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "UMG Recordings, Inc.",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 272782,
+      "resource_url": "https://api.discogs.com/labels/272782",
+      "thumbnail_url": "https://i.discogs.com/WX78Ss6rJPzD8aWRj-wynSuGlTwtQLp2QLnUFGDI3Pg/rs:fit/g:sm/q:90/h:80/w:534/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Mjc4/Mi0xNDU3MDEyNDAw/LTExMzYuanBlZw.jpeg"
+    },
+    {
+      "name": "MXM Productions",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 618889,
+      "resource_url": "https://api.discogs.com/labels/618889"
+    },
+    {
+      "name": "Wolf Cousins Productions",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 733719,
+      "resource_url": "https://api.discogs.com/labels/733719",
+      "thumbnail_url": "https://i.discogs.com/gNwF3XJhZJ0esYGBqXcdQpa71ZW2P1uoqhp6H6XayCQ/rs:fit/g:sm/q:90/h:190/w:456/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTczMzcx/OS0xNDA5ODM2Mjg0/LTM0NjMuanBlZw.jpeg"
+    },
+    {
+      "name": "Matza Ball Productions, Inc.",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 731686,
+      "resource_url": "https://api.discogs.com/labels/731686"
+    },
+    {
+      "name": "For The Win",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 1372828,
+      "resource_url": "https://api.discogs.com/labels/1372828"
+    },
+    {
+      "name": "Goodguys4life AS",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 894580,
+      "resource_url": "https://api.discogs.com/labels/894580"
+    },
+    {
+      "name": "Private Stock Entertainment",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 480066,
+      "resource_url": "https://api.discogs.com/labels/480066"
+    },
+    {
+      "name": "Goooooooo!!! Music",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 865315,
+      "resource_url": "https://api.discogs.com/labels/865315"
+    },
+    {
+      "name": "The Starr Island Group",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 865319,
+      "resource_url": "https://api.discogs.com/labels/865319"
+    },
+    {
+      "name": "The Orphanage",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 865314,
+      "resource_url": "https://api.discogs.com/labels/865314"
+    },
+    {
+      "name": "Darkchild.com",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 612810,
+      "resource_url": "https://api.discogs.com/labels/612810",
+      "thumbnail_url": "https://i.discogs.com/BilK1ntZo_0m4Ky0LmwvrHrjFcXR8EtlYqYWUHzsKcY/rs:fit/g:sm/q:90/h:144/w:360/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTYxMjgx/MC0xNzA3ODU3Nzky/LTIzOTkuanBlZw.jpeg"
+    },
+    {
+      "name": "Republic Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    },
+    {
+      "name": "Republic Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    },
+    {
+      "name": "Conway Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 265937,
+      "resource_url": "https://api.discogs.com/labels/265937",
+      "thumbnail_url": "https://i.discogs.com/yH8pXOLciN257RutJRe8Zk3ogg-Rd-ER5dMZsM1atsg/rs:fit/g:sm/q:90/h:243/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTkz/Ny0xNDQ4ODkxNDU3/LTIzMzAuanBlZw.jpeg"
+    },
+    {
+      "name": "Wolf Cousins Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 731678,
+      "resource_url": "https://api.discogs.com/labels/731678",
+      "thumbnail_url": "https://i.discogs.com/t9Kdt2dQUpnTTTUnTdlJ7zcoWlWEdQSOT6zgjspZGMA/rs:fit/g:sm/q:90/h:190/w:456/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTczMTY3/OC0xNDA5ODM2MzE1/LTc0MjUuanBlZw.jpeg"
+    },
+    {
+      "name": "Kinglet Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 313534,
+      "resource_url": "https://api.discogs.com/labels/313534"
+    },
+    {
+      "name": "Record Plant, Los Angeles",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 304319,
+      "resource_url": "https://api.discogs.com/labels/304319",
+      "thumbnail_url": "https://i.discogs.com/LLydeqd2WB6jXG6OABBkFMMrbbqIdDVIpSzaaYGD1qY/rs:fit/g:sm/q:90/h:252/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwNDMx/OS0xNjQ1MjMzMjE0/LTkxODcuanBlZw.jpeg"
+    },
+    {
+      "name": "Patriot Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 383554,
+      "resource_url": "https://api.discogs.com/labels/383554"
+    },
+    {
+      "name": "Zedd1 Studio",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 894594,
+      "resource_url": "https://api.discogs.com/labels/894594"
+    },
+    {
+      "name": "Doe Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 894579,
+      "resource_url": "https://api.discogs.com/labels/894579"
+    },
+    {
+      "name": "Matzah Ball Studio",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 731679,
+      "resource_url": "https://api.discogs.com/labels/731679"
+    },
+    {
+      "name": "P.S. Studio, Stockholm, Sweden",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 886923,
+      "resource_url": "https://api.discogs.com/labels/886923"
+    },
+    {
+      "name": "Studio At The Palms",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 276844,
+      "resource_url": "https://api.discogs.com/labels/276844",
+      "thumbnail_url": "https://i.discogs.com/GdOMnDnnUGVKIq63XI50bRJC7-GkExMhwcQSX-YmnRE/rs:fit/g:sm/q:90/h:542/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Njg0/NC0xNjQxNTQyMTc2/LTE3MDYuanBlZw.jpeg"
+    },
+    {
+      "name": "Wake Up Work Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 1052823,
+      "resource_url": "https://api.discogs.com/labels/1052823"
+    },
+    {
+      "name": "Chalice Recording Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 273807,
+      "resource_url": "https://api.discogs.com/labels/273807",
+      "thumbnail_url": "https://i.discogs.com/MFtsXNyu801oEY_BAGcvyHp8GNOIefxsmKAnLhUPFTs/rs:fit/g:sm/q:90/h:150/w:158/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Mzgw/Ny0xMzE2NjMyMTc5/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Larrabee North",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 311636,
+      "resource_url": "https://api.discogs.com/labels/311636"
+    },
+    {
+      "name": "MixStar Studios",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 263950,
+      "resource_url": "https://api.discogs.com/labels/263950",
+      "thumbnail_url": "https://i.discogs.com/qG6PaPI2ofn5JXPJA48pHQ0jtOf2mG-nOlLHuixaImk/rs:fit/g:sm/q:90/h:195/w:456/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2Mzk1/MC0xMzU0NDYzODcx/LTYzOTkuZ2lm.jpeg"
+    },
+    {
+      "name": "Sterling Sound",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 264060,
+      "resource_url": "https://api.discogs.com/labels/264060",
+      "thumbnail_url": "https://i.discogs.com/Z8f0gMBrt5jLL4TAcCYDGXmMPOLi9V0UW593WXP6BUU/rs:fit/g:sm/q:90/h:118/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDA2/MC0xNTAwMjgzMzYy/LTMyMTguanBlZw.jpeg"
+    },
+    {
+      "name": "GZ Media",
+      "catno": "249690E",
+      "entity_type": "44",
+      "entity_type_name": "Plated At",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    },
+    {
+      "name": "Memphis Record Pressing",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 833505,
+      "resource_url": "https://api.discogs.com/labels/833505",
+      "thumbnail_url": "https://i.discogs.com/gScAekIZLcU8IXU0jHeomyKqbZCh5q_xSsYTWDC2k4A/rs:fit/g:sm/q:90/h:550/w:550/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgzMzUw/NS0xNDY0NDU1NjQ1/LTg5MzIuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "text": "Clear / Lavender Split"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 4481,
+    "want": 1851,
+    "rating": {
+      "count": 342,
+      "average": 4.75
+    },
+    "submitter": {
+      "username": "georgemusic02",
+      "resource_url": "https://api.discogs.com/users/georgemusic02"
+    },
+    "contributors": [
+      {
+        "username": "georgemusic02",
+        "resource_url": "https://api.discogs.com/users/georgemusic02"
+      },
+      {
+        "username": "_jules",
+        "resource_url": "https://api.discogs.com/users/_jules"
+      },
+      {
+        "username": "itsiim",
+        "resource_url": "https://api.discogs.com/users/itsiim"
+      },
+      {
+        "username": "SP_Vinyl",
+        "resource_url": "https://api.discogs.com/users/SP_Vinyl"
+      },
+      {
+        "username": "prkrmtthw",
+        "resource_url": "https://api.discogs.com/users/prkrmtthw"
+      },
+      {
+        "username": "myvinyldiscography",
+        "resource_url": "https://api.discogs.com/users/myvinyldiscography"
+      },
+      {
+        "username": "jctrl",
+        "resource_url": "https://api.discogs.com/users/jctrl"
+      },
+      {
+        "username": "breylandb",
+        "resource_url": "https://api.discogs.com/users/breylandb"
+      },
+      {
+        "username": "djsgribbs",
+        "resource_url": "https://api.discogs.com/users/djsgribbs"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2020-01-10T00:25:30-08:00",
+  "date_changed": "2025-07-16T06:28:04-07:00",
+  "num_for_sale": 37,
+  "lowest_price": 26.95,
+  "master_id": 723794,
+  "master_url": "https://api.discogs.com/masters/723794",
+  "title": "My Everything",
+  "country": "US",
+  "released": "2019",
+  "notes": "Artist webstore exclusive release, issued in a gatefold jacket.\n\nTracks are listed sequentially, regardless of sides.\nTrack durations are listed on the rear cover & labels.\n\nRunouts are stamped, except stamper IDs which are hand-etched. ",
+  "released_formatted": "2019",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02577 97447 2",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "602577974472",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0602577974441-A #40 249690E1/D",
+      "description": "Side A runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0602577974441-B #40 249690E2/B",
+      "description": "Side B runout"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=L8eRzOYhLuw",
+      "title": "Ariana Grande - Break Free (Official Video) ft. Zedd",
+      "description": "Ariana Grande \"My Everything” available for download now http://smarturl.it/ArianaMyEvrythnDlxiT",
+      "duration": 248,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=WAysag2VohM",
+      "title": "Ariana Grande - Problem (Live on the Honda Stage at the iHeartRadio Theater LA)",
+      "description": "Ariana Grande performs \"Problem\" live on the Honda Stage at the iHeartRadio Theater LA.\n\nAriana's new album \"My Everything\" available now:\nhttp://smarturl.it/arianapreorder\n\nFollow Ariana:\nFacebook: https://www.facebook.com/arianagrande\nTwitter: https://t",
+      "duration": 205,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=XVt80tm3L7Y",
+      "title": "Ariana Grande - Break Free (Live on the Honda Stage at the iHeartRadio Theater LA)",
+      "description": "Ariana Grande performs \"Break Free\" live on the Honda Stage at the iHeartRadio Theater LA.\n\nAriana's new album \"My Everything\" available now:\nhttp://smarturl.it/arianapreorder\n\nFollow Ariana:\nFacebook: https://www.facebook.com/arianagrande\nTwitter: https:",
+      "duration": 209,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Vm3GA89p0Mg",
+      "title": "Ariana Grande Performs Break Free on Today Show | LIVE 08/29/14",
+      "description": "",
+      "duration": 350,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=BMewXF7LzEk",
+      "title": "Ariana Grande: 3 Songs - Problem, Bang Bang & Break Free - Live on X Factor Australia 2014 [FULL]",
+      "description": "Ariana Grande 3 song medley, Problem, Bang Bang and Break Free, Live on The X Factor Australia 2014. (8 September 2014)",
+      "duration": 598,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Hip Hop",
+    "Pop"
+  ],
+  "styles": [
+    "Vocal",
+    "Pop Rap"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Intro",
+      "duration": "1:20"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Problem",
+      "extraartists": [
+        {
+          "name": "Iggy Azalea",
+          "anv": "",
+          "join": "",
+          "role": "Featuring [Ft.]",
+          "tracks": "",
+          "id": 2685102,
+          "resource_url": "https://api.discogs.com/artists/2685102"
+        }
+      ],
+      "duration": "3:13"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "One Last Time",
+      "duration": "3:17"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Why Try",
+      "duration": "3:31"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Break Free",
+      "extraartists": [
+        {
+          "name": "Zedd",
+          "anv": "",
+          "join": "",
+          "role": "Featuring [Ft.]",
+          "tracks": "",
+          "id": 1990571,
+          "resource_url": "https://api.discogs.com/artists/1990571"
+        }
+      ],
+      "duration": "3:35"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Best Mistake",
+      "extraartists": [
+        {
+          "name": "Big Sean",
+          "anv": "",
+          "join": "",
+          "role": "Featuring [Ft.]",
+          "tracks": "",
+          "id": 1201210,
+          "resource_url": "https://api.discogs.com/artists/1201210"
+        }
+      ],
+      "duration": "3:53"
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "title": "Be My Baby",
+      "extraartists": [
+        {
+          "name": "Cashmere Cat",
+          "anv": "",
+          "join": "",
+          "role": "Featuring [Ft.]",
+          "tracks": "",
+          "id": 2384436,
+          "resource_url": "https://api.discogs.com/artists/2384436"
+        }
+      ],
+      "duration": "3:36"
+    },
+    {
+      "position": "B8",
+      "type_": "track",
+      "title": "Break Your Heart Right Back",
+      "extraartists": [
+        {
+          "name": "Childish Gambino",
+          "anv": "",
+          "join": "",
+          "role": "Featuring [Ft.]",
+          "tracks": "",
+          "id": 2482309,
+          "resource_url": "https://api.discogs.com/artists/2482309"
+        }
+      ],
+      "duration": "4:13"
+    },
+    {
+      "position": "B9",
+      "type_": "track",
+      "title": "Love Me Harder",
+      "extraartists": [
+        {
+          "name": "The Weeknd",
+          "anv": "",
+          "join": "",
+          "role": "Featuring [Ft.]",
+          "tracks": "",
+          "id": 2171152,
+          "resource_url": "https://api.discogs.com/artists/2171152"
+        }
+      ],
+      "duration": "3:51"
+    },
+    {
+      "position": "B10",
+      "type_": "track",
+      "title": "Just A Little Bit Of Your Heart",
+      "duration": "3:56"
+    },
+    {
+      "position": "B11",
+      "type_": "track",
+      "title": "Hands On Me",
+      "extraartists": [
+        {
+          "name": "ASAP Ferg",
+          "anv": "A$AP Ferg",
+          "join": "",
+          "role": "Featuring [Ft.]",
+          "tracks": "",
+          "id": 2503395,
+          "resource_url": "https://api.discogs.com/artists/2503395"
+        }
+      ],
+      "duration": "3:13"
+    },
+    {
+      "position": "B12",
+      "type_": "track",
+      "title": "My Everything",
+      "duration": "2:48"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Naim Ali",
+      "anv": "Naim Ali McNair",
+      "join": "",
+      "role": "A&R",
+      "tracks": "",
+      "id": 1938099,
+      "resource_url": "https://api.discogs.com/artists/1938099"
+    },
+    {
+      "name": "Wendy Goldstein",
+      "anv": "",
+      "join": "",
+      "role": "A&R",
+      "tracks": "",
+      "id": 1364476,
+      "resource_url": "https://api.discogs.com/artists/1364476"
+    },
+    {
+      "name": "Andre Marsh",
+      "anv": "",
+      "join": "",
+      "role": "A&R [Coordinator]",
+      "tracks": "",
+      "id": 3977710,
+      "resource_url": "https://api.discogs.com/artists/3977710"
+    },
+    {
+      "name": "Tom Munro",
+      "anv": "",
+      "join": "",
+      "role": "Cover [Photography]",
+      "tracks": "",
+      "id": 1592872,
+      "resource_url": "https://api.discogs.com/artists/1592872"
+    },
+    {
+      "name": "Jessica Severn",
+      "anv": "",
+      "join": "",
+      "role": "Design [Album]",
+      "tracks": "",
+      "id": 3977711,
+      "resource_url": "https://api.discogs.com/artists/3977711"
+    },
+    {
+      "name": "Ariana Grande",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 3310737,
+      "resource_url": "https://api.discogs.com/artists/3310737"
+    },
+    {
+      "name": "Scott \"Scooter\" Braun",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 2924767,
+      "resource_url": "https://api.discogs.com/artists/2924767"
+    },
+    {
+      "name": "Wendy Goldstein",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 1364476,
+      "resource_url": "https://api.discogs.com/artists/1364476"
+    },
+    {
+      "name": "Allison Kaye",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 2090199,
+      "resource_url": "https://api.discogs.com/artists/2090199"
+    },
+    {
+      "name": "SB Management",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 1870499,
+      "resource_url": "https://api.discogs.com/artists/1870499"
+    },
+    {
+      "name": "Scott \"Scooter\" Braun",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 2924767,
+      "resource_url": "https://api.discogs.com/artists/2924767"
+    },
+    {
+      "name": "Brad Haugen",
+      "anv": "",
+      "join": "",
+      "role": "Marketing",
+      "tracks": "",
+      "id": 4553246,
+      "resource_url": "https://api.discogs.com/artists/4553246"
+    },
+    {
+      "name": "Donna Gryn",
+      "anv": "",
+      "join": "",
+      "role": "Marketing",
+      "tracks": "",
+      "id": 4553245,
+      "resource_url": "https://api.discogs.com/artists/4553245"
+    },
+    {
+      "name": "Laura Hess",
+      "anv": "",
+      "join": "",
+      "role": "Marketing",
+      "tracks": "",
+      "id": 4553244,
+      "resource_url": "https://api.discogs.com/artists/4553244"
+    },
+    {
+      "name": "Joseph Carozza",
+      "anv": "",
+      "join": "",
+      "role": "Public Relations [Publicity]",
+      "tracks": "",
+      "id": 4553243,
+      "resource_url": "https://api.discogs.com/artists/4553243"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/rwRtuj60pZyUkkt25_ITkoPdAdgwn1wPXj4woHMvZN0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM2/MDc4LTE3MjYwMDc1/MjYtNzc0Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/rwRtuj60pZyUkkt25_ITkoPdAdgwn1wPXj4woHMvZN0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM2/MDc4LTE3MjYwMDc1/MjYtNzc0Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/VbzSOxxHh1LnTyfoen1Y4L6UVU_cPUyA3yxIAZjUP0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM2/MDc4LTE3MjYwMDc1/MjYtNzc0Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ujTg_z8irIOxPOZHIoKzt8M1vOwceeX0fSkURC2ANiE/rs:fit/g:sm/q:90/h:288/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM2/MDc4LTE3MjYwMDc0/MDctNTU1Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ujTg_z8irIOxPOZHIoKzt8M1vOwceeX0fSkURC2ANiE/rs:fit/g:sm/q:90/h:288/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM2/MDc4LTE3MjYwMDc0/MDctNTU1Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/tfYRPDRVoEYf8Ho2RsB-3JKYXT4Gopsj0HgTPzkoPwU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM2/MDc4LTE3MjYwMDc0/MDctNTU1Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 288
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/04K_3fqnOoCAXZFseZodPqxCg37WoGgDgsleGrNHKXo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM2/MDc4LTE3MjYwMDc0/MDgtMzg2MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/04K_3fqnOoCAXZFseZodPqxCg37WoGgDgsleGrNHKXo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM2/MDc4LTE3MjYwMDc0/MDgtMzg2MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/O6rSzauMjaWH4HmB7D6xoTRsbqXOc0ZMAfl67Yu_jW0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM2/MDc4LTE3MjYwMDc0/MDgtMzg2MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/FBefadCEtfraiJoEj2uYtQMGJccuqV0C4PIrHHWNTls/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM2/MDc4LTE3MTI2Mzg5/MDMtNjU5MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/FBefadCEtfraiJoEj2uYtQMGJccuqV0C4PIrHHWNTls/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM2/MDc4LTE3MTI2Mzg5/MDMtNjU5MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/oGCTspy4v2pt1D0A-gEIHHyYcIcs0l4Odq0PEkhVRm4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM2/MDc4LTE3MTI2Mzg5/MDMtNjU5MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Y-ez3oc94RwWHjBrBFj4AgKWAJ1diqAEY7067WFdkdA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM2/MDc4LTE3MTI2Mzg5/MDMtNTk1OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Y-ez3oc94RwWHjBrBFj4AgKWAJ1diqAEY7067WFdkdA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM2/MDc4LTE3MTI2Mzg5/MDMtNTk1OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ANBHO_iJ3XondAPKZis0FSRAgpYsh_OVHzpJYFgxrOE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM2/MDc4LTE3MTI2Mzg5/MDMtNTk1OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/xuXBAwQlZwVAxlThvKm_4-0iAG5loL1mkefxbxGzmd0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM2/MDc4LTE3MTI2Mzg5/MDMtMzMzNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/xuXBAwQlZwVAxlThvKm_4-0iAG5loL1mkefxbxGzmd0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM2/MDc4LTE3MTI2Mzg5/MDMtMzMzNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/UhJIRMPgOkp1mjodSaUvxHpyiXaaE2neOCzBXBpo93A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM2/MDc4LTE3MTI2Mzg5/MDMtMzMzNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/IsqTuVwXYN31TcG0rIhzmkQQiayOWydH5NAUPl1u36k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM2/MDc4LTE1Nzg2NDU3/MDgtNzQwNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/IsqTuVwXYN31TcG0rIhzmkQQiayOWydH5NAUPl1u36k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM2/MDc4LTE1Nzg2NDU3/MDgtNzQwNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/vq3WfeeYM5934w43_D39t4woalsXYevs3SDc2djHsHs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM2/MDc4LTE1Nzg2NDU3/MDgtNzQwNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/K7BwYmQ53pA3iwTiVPRwIFiwwgP66tatYNStCYJ-iM8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM2/MDc4LTE2NjkwOTQ1/ODItMTgzMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/K7BwYmQ53pA3iwTiVPRwIFiwwgP66tatYNStCYJ-iM8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM2/MDc4LTE2NjkwOTQ1/ODItMTgzMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ukdqOtbz9PqtAzBmjSIVAEr4vNcdn9uONDEDANw8LdA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM2/MDc4LTE2NjkwOTQ1/ODItMTgzMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/VbzSOxxHh1LnTyfoen1Y4L6UVU_cPUyA3yxIAZjUP0E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NjM2/MDc4LTE3MjYwMDc1/MjYtNzc0Mi5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

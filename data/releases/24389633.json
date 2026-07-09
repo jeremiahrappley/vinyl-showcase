@@ -1,0 +1,462 @@
+{
+  "id": 24389633,
+  "status": "Accepted",
+  "year": 1971,
+  "resource_url": "https://api.discogs.com/releases/24389633",
+  "uri": "https://www.discogs.com/release/24389633-Elton-John-Elton-John",
+  "artists": [
+    {
+      "name": "Elton John",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 57103,
+      "resource_url": "https://api.discogs.com/artists/57103",
+      "thumbnail_url": "https://i.discogs.com/7U5GEK4WQR_N9F2Zdn82kYexE5qqMr2ShiXq9qbM1DI/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU3MTAz/LTE3ODA3MzU5Mjgt/NDA4Ny5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "Elton John",
+  "labels": [
+    {
+      "name": "UNI Records",
+      "catno": "93090",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 33520,
+      "resource_url": "https://api.discogs.com/labels/33520",
+      "thumbnail_url": "https://i.discogs.com/5nqIFsTqVCCYxYYB-BkD5nVAKul0G69tT_vTeIkxv7g/rs:fit/g:sm/q:90/h:300/w:298/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMzNTIw/LTE2MzE1NTI0ODYt/NzQxNC5qcGVn.jpeg"
+    },
+    {
+      "name": "MCA Records",
+      "catno": "MCA-2012",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 878,
+      "resource_url": "https://api.discogs.com/labels/878",
+      "thumbnail_url": "https://i.discogs.com/3Oi4E2FXGQ2IRBxJ7uZ5OxM4WQSXkBoqnwf_NYW66RI/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg3OC0x/NTkwNjg0OTg1LTQ2/ODYucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "All Disc Records, Inc.",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 717172,
+      "resource_url": "https://api.discogs.com/labels/717172",
+      "thumbnail_url": "https://i.discogs.com/EZSg8NyszAV0auLx4C6ajAqxtkBmW3_B2LbPz-kmDQQ/rs:fit/g:sm/q:90/h:225/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTcxNzE3/Mi0xNDgyMzA4NzY1/LTIzNDUuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue",
+        "Stereo"
+      ],
+      "text": "Gatefold"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 183,
+    "want": 76,
+    "rating": {
+      "count": 12,
+      "average": 3.67
+    },
+    "submitter": {
+      "username": "ckibelf",
+      "resource_url": "https://api.discogs.com/users/ckibelf"
+    },
+    "contributors": [
+      {
+        "username": "ckibelf",
+        "resource_url": "https://api.discogs.com/users/ckibelf"
+      },
+      {
+        "username": "zenman5",
+        "resource_url": "https://api.discogs.com/users/zenman5"
+      },
+      {
+        "username": "outland",
+        "resource_url": "https://api.discogs.com/users/outland"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2022-09-02T05:20:36-07:00",
+  "date_changed": "2023-08-20T02:12:14-07:00",
+  "num_for_sale": 2,
+  "lowest_price": 8,
+  "master_id": 84203,
+  "master_url": "https://api.discogs.com/masters/84203",
+  "title": "Elton John",
+  "country": "US",
+  "released": "1971",
+  "notes": "MCA on front cover\nMCA-2012 on spine,  inner and back cover\n93090 on label\n",
+  "released_formatted": "1971",
+  "identifiers": [
+    {
+      "type": "Matrix / Runout",
+      "value": "US 1180",
+      "description": "Label side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "US 1181",
+      "description": "Label side B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "UNI 93090 A-1 US 1180-1 66 G.K. 5.3.71",
+      "description": "Side A runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "UNI 93090 B-1 US 1181-1 66 G.K. 5.3.71",
+      "description": "Side B runout"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    "Rock"
+  ],
+  "styles": [
+    "Soft Rock"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Your Song",
+      "duration": "4:00"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "I Need You To Turn To",
+      "duration": "2:30"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Take Me To The Pilot",
+      "duration": "3:48"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "No Shoe Strings On Louise",
+      "duration": "3:30"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "First Episode At Hienton",
+      "duration": "4:52"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Sixty Years On",
+      "duration": "4:33"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Border Song",
+      "duration": "3:19"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "The Greatest Discovery",
+      "duration": "4:11"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "The Cage",
+      "duration": "3:28"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "The King Must Die",
+      "duration": "5:09"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Kay Garner",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "B2",
+      "id": 161695,
+      "resource_url": "https://api.discogs.com/artists/161695"
+    },
+    {
+      "name": "Lesley Duncan",
+      "anv": "Leslie Duncan",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "B2",
+      "id": 246096,
+      "resource_url": "https://api.discogs.com/artists/246096"
+    },
+    {
+      "name": "Madeline Bell",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "B2",
+      "id": 8718,
+      "resource_url": "https://api.discogs.com/artists/8718"
+    },
+    {
+      "name": "Roger Cook",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "B2",
+      "id": 356030,
+      "resource_url": "https://api.discogs.com/artists/356030"
+    },
+    {
+      "name": "Tony Burrows",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "B2",
+      "id": 461260,
+      "resource_url": "https://api.discogs.com/artists/461260"
+    },
+    {
+      "name": "Tony Hazzard",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "B2",
+      "id": 541605,
+      "resource_url": "https://api.discogs.com/artists/541605"
+    },
+    {
+      "name": "Alan Weighall",
+      "anv": "Alan Weighll",
+      "join": "",
+      "role": "Bass",
+      "tracks": "A3, A4, B4",
+      "id": 1236075,
+      "resource_url": "https://api.discogs.com/artists/1236075"
+    },
+    {
+      "name": "Dave Richmond",
+      "anv": "",
+      "join": "",
+      "role": "Bass",
+      "tracks": "A1, B2, B3",
+      "id": 51849,
+      "resource_url": "https://api.discogs.com/artists/51849"
+    },
+    {
+      "name": "Les Hurdle",
+      "anv": "Les Hurdie",
+      "join": "",
+      "role": "Bass",
+      "tracks": "B5",
+      "id": 311576,
+      "resource_url": "https://api.discogs.com/artists/311576"
+    },
+    {
+      "name": "Paul Buckmaster",
+      "anv": "",
+      "join": "",
+      "role": "Cello",
+      "tracks": "B3",
+      "id": 289733,
+      "resource_url": "https://api.discogs.com/artists/289733"
+    },
+    {
+      "name": "Barbara Moore",
+      "anv": "",
+      "join": "",
+      "role": "Chorus Master [Choir Lead By]",
+      "tracks": "B2",
+      "id": 272118,
+      "resource_url": "https://api.discogs.com/artists/272118"
+    },
+    {
+      "name": "Barry Morgan",
+      "anv": "",
+      "join": "",
+      "role": "Drums",
+      "tracks": "A1, A3, A4, B2, B4",
+      "id": 96035,
+      "resource_url": "https://api.discogs.com/artists/96035"
+    },
+    {
+      "name": "Terry Cox",
+      "anv": "",
+      "join": "",
+      "role": "Drums",
+      "tracks": "B3",
+      "id": 374446,
+      "resource_url": "https://api.discogs.com/artists/374446"
+    },
+    {
+      "name": "Caleb Quaye",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "A3, A4, A5, B4",
+      "id": 345023,
+      "resource_url": "https://api.discogs.com/artists/345023"
+    },
+    {
+      "name": "Clive Hicks",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "A1, A4, B2, B3, B4, B5",
+      "id": 358629,
+      "resource_url": "https://api.discogs.com/artists/358629"
+    },
+    {
+      "name": "Colin Green (2)",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "A1, B1",
+      "id": 1058081,
+      "resource_url": "https://api.discogs.com/artists/1058081"
+    },
+    {
+      "name": "Frank Clarke",
+      "anv": "Frank Clark",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "A1, B5",
+      "id": 843772,
+      "resource_url": "https://api.discogs.com/artists/843772"
+    },
+    {
+      "name": "Roland Harker",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "A2",
+      "id": 644931,
+      "resource_url": "https://api.discogs.com/artists/644931"
+    },
+    {
+      "name": "Skaila Kanga",
+      "anv": "",
+      "join": "",
+      "role": "Harp",
+      "tracks": "A2, B3",
+      "id": 334131,
+      "resource_url": "https://api.discogs.com/artists/334131"
+    },
+    {
+      "name": "Brian Dee",
+      "anv": "",
+      "join": "",
+      "role": "Organ",
+      "tracks": "B1, B2",
+      "id": 272120,
+      "resource_url": "https://api.discogs.com/artists/272120"
+    },
+    {
+      "name": "Denis Lopez",
+      "anv": "Dennis Lopez",
+      "join": "",
+      "role": "Percussion",
+      "tracks": "A4, B5",
+      "id": 326636,
+      "resource_url": "https://api.discogs.com/artists/326636"
+    },
+    {
+      "name": "Tex Navarra",
+      "anv": "",
+      "join": "",
+      "role": "Percussion",
+      "tracks": "B4",
+      "id": 644932,
+      "resource_url": "https://api.discogs.com/artists/644932"
+    },
+    {
+      "name": "Gus Dudgeon",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 179206,
+      "resource_url": "https://api.discogs.com/artists/179206"
+    },
+    {
+      "name": "Diana Lewis",
+      "anv": "",
+      "join": "",
+      "role": "Synthesizer",
+      "tracks": "A5,B4",
+      "id": 326609,
+      "resource_url": "https://api.discogs.com/artists/326609"
+    },
+    {
+      "name": "Elton John & Bernie Taupin",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 825268,
+      "resource_url": "https://api.discogs.com/artists/825268"
+    }
+  ],
+  "images": [
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/wdImEyxx5n9jUP49sTh3QgzUvEPKKPbiXhCfYOQDB_0/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg5/NjMzLTE2NjIxMjU5/MTMtODAyOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/wdImEyxx5n9jUP49sTh3QgzUvEPKKPbiXhCfYOQDB_0/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg5/NjMzLTE2NjIxMjU5/MTMtODAyOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/hKLWu4DRzmsFg9P8DhoaRkqi9XWl7zWRJfuG475zO-A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg5/NjMzLTE2NjIxMjU5/MTMtODAyOC5qcGVn.jpeg",
+      "width": 591,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/c_KemCMEPKCsvy4J3JwLda43cBA_AW2QuJCiR2Q1A7g/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg5/NjMzLTE2NjIxMjU5/MTktNDU5NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/c_KemCMEPKCsvy4J3JwLda43cBA_AW2QuJCiR2Q1A7g/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg5/NjMzLTE2NjIxMjU5/MTktNDU5NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/iKH8YRdrnS2CrzGM4_mBt3hlXYoqh5AUpHBBsCYp0I8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg5/NjMzLTE2NjIxMjU5/MTktNDU5NS5qcGVn.jpeg",
+      "width": 592,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/pWXK9j0OAowre--rpRgfxqOmlzXdcxLLF0ZJy5tViKM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg5/NjMzLTE2NjIxMjU5/MjUtNjE2OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/pWXK9j0OAowre--rpRgfxqOmlzXdcxLLF0ZJy5tViKM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg5/NjMzLTE2NjIxMjU5/MjUtNjE2OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/aGpf9_-nZwkrbXwOKE5Cky9ZeQn3A4b6OKxVvCZpjBo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg5/NjMzLTE2NjIxMjU5/MjUtNjE2OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/dNKEhmo_Maojb-PrSoUFiqkapWsW3HGdkNrcucBtJXc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg5/NjMzLTE2NjIxMjU5/MzEtODg4MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/dNKEhmo_Maojb-PrSoUFiqkapWsW3HGdkNrcucBtJXc/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg5/NjMzLTE2NjIxMjU5/MzEtODg4MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/UAx0bCUR-xloioqpmjZQ4RgsIlwczZlPZrmnDj2mXvo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg5/NjMzLTE2NjIxMjU5/MzEtODg4MC5qcGVn.jpeg",
+      "width": 596,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/hKLWu4DRzmsFg9P8DhoaRkqi9XWl7zWRJfuG475zO-A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Mzg5/NjMzLTE2NjIxMjU5/MTMtODAyOC5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

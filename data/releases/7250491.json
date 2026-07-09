@@ -1,0 +1,667 @@
+{
+  "id": 7250491,
+  "status": "Accepted",
+  "year": 2015,
+  "resource_url": "https://api.discogs.com/releases/7250491",
+  "uri": "https://www.discogs.com/release/7250491-Tame-Impala-Currents",
+  "artists": [
+    {
+      "name": "Tame Impala",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 1245513,
+      "resource_url": "https://api.discogs.com/artists/1245513",
+      "thumbnail_url": "https://i.discogs.com/_pZNESCaPzf9bTXRrZjabJO9w0spkDk0q2XRaSnihXY/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyNDU1/MTMtMTQ2NjQ5MTkz/OC04NDAxLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Tame Impala",
+  "labels": [
+    {
+      "name": "Interscope Records",
+      "catno": "B0023337-01",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 2311,
+      "resource_url": "https://api.discogs.com/labels/2311",
+      "thumbnail_url": "https://i.discogs.com/58MHEZ0kBRytN0Ivvqvnirp57RFfiqWh1YGJLsn62ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTEt/MTUxNzAxMTEyMy00/NjEwLmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Universal Music & Video Distribution",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 271972,
+      "resource_url": "https://api.discogs.com/labels/271972",
+      "thumbnail_url": "https://i.discogs.com/86EFTjwyuDSuLR08iJnyk9yUfep1OcTVk3fu-h0ZiRM/rs:fit/g:sm/q:90/h:314/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MTk3/Mi0xNDIxMTg4Mjcx/LTQwMDQuanBlZw.jpeg"
+    },
+    {
+      "name": "Universal Music & Video Distribution",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 271972,
+      "resource_url": "https://api.discogs.com/labels/271972",
+      "thumbnail_url": "https://i.discogs.com/86EFTjwyuDSuLR08iJnyk9yUfep1OcTVk3fu-h0ZiRM/rs:fit/g:sm/q:90/h:314/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MTk3/Mi0xNDIxMTg4Mjcx/LTQwMDQuanBlZw.jpeg"
+    },
+    {
+      "name": "Modular Recordings Pty. Ltd.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 357771,
+      "resource_url": "https://api.discogs.com/labels/357771",
+      "thumbnail_url": "https://i.discogs.com/VgkKWyMBqSSJmbwaV4wGrhzU-OQN8RznMAUWb_1UPGY/rs:fit/g:sm/q:90/h:70/w:298/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM1Nzc3/MS0xMzMwNTE5MzM4/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Modular Recordings Pty. Ltd.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 357771,
+      "resource_url": "https://api.discogs.com/labels/357771",
+      "thumbnail_url": "https://i.discogs.com/VgkKWyMBqSSJmbwaV4wGrhzU-OQN8RznMAUWb_1UPGY/rs:fit/g:sm/q:90/h:70/w:298/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM1Nzc3/MS0xMzMwNTE5MzM4/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Universal Music Australia Pty Ltd",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 241987,
+      "resource_url": "https://api.discogs.com/labels/241987",
+      "thumbnail_url": "https://i.discogs.com/eKWa-6f1ntxS_i-urtKgNseoc2sW0_WQUKMuv7Dl0Kg/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI0MTk4/Ny0xNzY4OTkzNzYw/LTgyNjEuanBlZw.jpeg"
+    },
+    {
+      "name": "Interscope Records",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 2311,
+      "resource_url": "https://api.discogs.com/labels/2311",
+      "thumbnail_url": "https://i.discogs.com/58MHEZ0kBRytN0Ivvqvnirp57RFfiqWh1YGJLsn62ec/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzMTEt/MTUxNzAxMTEyMy00/NjEwLmpwZWc.jpeg"
+    },
+    {
+      "name": "Poons Head",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 275845,
+      "resource_url": "https://api.discogs.com/labels/275845",
+      "thumbnail_url": "https://i.discogs.com/0uNsIOfm3-HtXhsh93k4lAwYY1gv40JP_8lx-wDpRAI/rs:fit/g:sm/q:90/h:163/w:292/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3NTg0/NS0xMzcwMTg2MjE2/LTE5NjcuanBlZw.jpeg"
+    },
+    {
+      "name": "Sterling Sound",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 264060,
+      "resource_url": "https://api.discogs.com/labels/264060",
+      "thumbnail_url": "https://i.discogs.com/Z8f0gMBrt5jLL4TAcCYDGXmMPOLi9V0UW593WXP6BUU/rs:fit/g:sm/q:90/h:118/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDA2/MC0xNTAwMjgzMzYy/LTMyMTguanBlZw.jpeg"
+    },
+    {
+      "name": "Sony ATV",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 264609,
+      "resource_url": "https://api.discogs.com/labels/264609",
+      "thumbnail_url": "https://i.discogs.com/Uor5xBJnTi_NOcm-uguQ--Fm7t6XxDmnCR20IPR01xY/rs:fit/g:sm/q:90/h:50/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDYw/OS0xNzU3MDY2NzI4/LTIxMjAuanBlZw.jpeg"
+    },
+    {
+      "name": "BMG Chrysalis",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 250739,
+      "resource_url": "https://api.discogs.com/labels/250739",
+      "thumbnail_url": "https://i.discogs.com/cmGEU_46J2MAO2Q4ELUx9pXt0otsM6p8CSXp7h8U3Ks/rs:fit/g:sm/q:90/h:241/w:356/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1MDcz/OS0xNjM2ODc1ODAw/LTk2OTcuanBlZw.jpeg"
+    },
+    {
+      "name": "United Record Pressing",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 238322,
+      "resource_url": "https://api.discogs.com/labels/238322",
+      "thumbnail_url": "https://i.discogs.com/wXejTcaBZif0vNl1Wx8ZmvUBcAwkQ21T3AduA-BjUg8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzODMy/Mi0xNDk3Nzk0Njg4/LTg0MzAucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 24805,
+    "want": 8711,
+    "rating": {
+      "count": 1986,
+      "average": 4.59
+    },
+    "submitter": {
+      "username": "jglembo",
+      "resource_url": "https://api.discogs.com/users/jglembo"
+    },
+    "contributors": [
+      {
+        "username": "jglembo",
+        "resource_url": "https://api.discogs.com/users/jglembo"
+      },
+      {
+        "username": "jacques.paul",
+        "resource_url": "https://api.discogs.com/users/jacques.paul"
+      },
+      {
+        "username": "discologyreno",
+        "resource_url": "https://api.discogs.com/users/discologyreno"
+      },
+      {
+        "username": "SpinnersClub",
+        "resource_url": "https://api.discogs.com/users/SpinnersClub"
+      },
+      {
+        "username": "milkman",
+        "resource_url": "https://api.discogs.com/users/milkman"
+      },
+      {
+        "username": "Pheenixx",
+        "resource_url": "https://api.discogs.com/users/Pheenixx"
+      },
+      {
+        "username": "misterjake96",
+        "resource_url": "https://api.discogs.com/users/misterjake96"
+      },
+      {
+        "username": "photoguy",
+        "resource_url": "https://api.discogs.com/users/photoguy"
+      },
+      {
+        "username": "ryanrishi",
+        "resource_url": "https://api.discogs.com/users/ryanrishi"
+      },
+      {
+        "username": "matthewdake",
+        "resource_url": "https://api.discogs.com/users/matthewdake"
+      },
+      {
+        "username": "AustinSimard",
+        "resource_url": "https://api.discogs.com/users/AustinSimard"
+      },
+      {
+        "username": "I_am_cubf33t",
+        "resource_url": "https://api.discogs.com/users/I_am_cubf33t"
+      },
+      {
+        "username": "Jacrio",
+        "resource_url": "https://api.discogs.com/users/Jacrio"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2015-07-17T13:38:08-07:00",
+  "date_changed": "2025-04-13T22:55:41-07:00",
+  "num_for_sale": 29,
+  "lowest_price": 14.87,
+  "master_id": 861083,
+  "master_url": "https://api.discogs.com/masters/861083",
+  "title": "Currents",
+  "country": "US",
+  "released": "2015-07-17",
+  "notes": "Gatefold sleeve.\n\nManufactured and distributed in the United States by Universal Music & Video Distribution. ℗ © 2015 Modular Recordings Pty Ltd under exclusive license to Universal Music Australia Pty Ltd under exclusive license to interscope records in the United States.\n\nAdditional recording and mix advice by Rob Grant at Poons Head.\n\nMastered at Sterling Sound, NYC.\n\nPublished by Sony ATV (Australia) / BMG Chrysalis (ROW).",
+  "released_formatted": "17 Jul 2015",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "6 02547 30677 7",
+      "description": "Text"
+    },
+    {
+      "type": "Pressing Plant ID",
+      "value": "ⓤ",
+      "description": "Runouts"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0023337-01-LP1A RE RJ STERLING ⓤ",
+      "description": "Side A [variant 1]"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0023337-01-LP1B² Set II RJ STERLING ⓤ",
+      "description": "Side B [variant 1]"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0023337-01-LP2A² Set 1 RJ STERLING ⓤ",
+      "description": "Side C [variant 1]"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0023337-01-LP2B² RJ STERLING ⓤ",
+      "description": "Side D [variant 1]"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0023337-01-LP1A RE Set II RJ (stamped) STERLING ⓤ",
+      "description": "Side A [variant 2]"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0023337-01-LP1B RJ (stamped) STERLING ⓤ",
+      "description": "Side B [variant 2]"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0023337-01-LP2A3 Set II RJ (stamped) STERLING ⓤ",
+      "description": "Side C [variant 2]"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "B0023337-01-LP2B Set III RJ (stamped) STERLING ⓤ",
+      "description": "Side D [variant 2]"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=jbiT-BgFMhs",
+      "title": "Tame Impala - Currents CD Unboxing",
+      "description": "In this video I show you the Currents CD by Tame Impala.\nI unbox the product completely for you and show you every content in detail.\n► You can buy the album here:\nCD: https://amzn.to/446Q7FW\nVinyl: https://amzn.to/41CPD8R\nDigital: https://amzn.to/3ncLjOF",
+      "duration": 106,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=LM6b85stNWI",
+      "title": "Tame Impala - Currents (Full Album)",
+      "description": "",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=pFptt7Cargc",
+      "title": "Tame Impala - Let It Happen (Official Video)",
+      "description": "Listen to 'The Slow Rush' now: https://TameImpala.lnk.to/TheSlowRushID\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID\nSee Tame Impala on Tour: https://tameimpalalive.com/\nSubscribe to Tame Impala’s YouTube channel: https://TameImpala.l",
+      "duration": 257,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=c3yEjD_oijw",
+      "title": "Tame Impala - Nangs (Audio)",
+      "description": "Listen to ‘The Slow Rush’ now: https://TameImpala.lnk.to/TheSlowRushID \nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID \nSee Tame Impala on Tour: https://tameimpalalive.com/ \nSubscribe to Tame Impala’s YouTube channel: https://TameImpal",
+      "duration": 109,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Mv0oYS-qMcQ",
+      "title": "The Moment",
+      "description": "Provided to YouTube by Universal Music Group\n\nThe Moment · Tame Impala\n\nCurrents\n\n℗ 2015 Modular Recordings\n\nReleased on: 2015-07-17\n\nMixer, Producer, Studio Personnel, Composer Lyricist, Engineer: Kevin Parker\nMastering Engineer, Studio Personnel: Greg C",
+      "duration": 256,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=6XKQy9HM23c",
+      "title": "Yes I'm Changing",
+      "description": "Provided to YouTube by Universal Music Group\n\nYes I'm Changing · Tame Impala\n\nCurrents\n\n℗ 2015 Modular Recordings\n\nReleased on: 2015-07-17\n\nComposer Lyricist, Studio Personnel, Producer, Mixer, Engineer: Kevin Parker\nStudio Personnel, Mastering Engineer: ",
+      "duration": 271,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=GHe8kKO8uds",
+      "title": "Tame Impala - Eventually (Audio)",
+      "description": "Listen to ‘The Slow Rush’ now: https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://tameimpalalive.com/\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaYD\nSubscribe to Tame Impala's YouTube channel: https://TameImpala.l",
+      "duration": 320,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=fJ1eOs-d_JI",
+      "title": "Gossip",
+      "description": "Provided to YouTube by Universal Music Group\n\nGossip · Tame Impala\n\nCurrents\n\n℗ 2015 Modular Recordings\n\nReleased on: 2015-07-17\n\nEngineer, Mixer, Producer, Studio Personnel, Composer Lyricist: Kevin Parker\nMastering Engineer, Studio Personnel: Greg Calbi",
+      "duration": 56,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=sBzrzS1Ag_g",
+      "title": "Tame Impala - The Less I Know The Better (Official Video)",
+      "description": "Listen to 'The Slow Rush' now: https://TameImpala.lnk.to/TheSlowRushID\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID\nSee Tame Impala on Tour: https://tameimpalalive.com/\nSubscribe to Tame Impala’s YouTube channel: https://TameImpala.l",
+      "duration": 343,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=gvXswl1il_0",
+      "title": "Past Life",
+      "description": "Provided to YouTube by Universal Music Group\n\nPast Life · Tame Impala\n\nCurrents\n\n℗ 2015 Modular Recordings\n\nReleased on: 2015-07-17\n\nMixer, Producer, Studio Personnel, Composer Lyricist, Engineer: Kevin Parker\nStudio Personnel, Mastering Engineer: Greg Ca",
+      "duration": 229,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=NTfYYRGTB3g",
+      "title": "Tame Impala - Disciples (Audio)",
+      "description": "Listen to ‘The Slow Rush’ now: https://TameImpala.lnk.to/TheSlowRushYD\nSee Tame Impala on Tour: https://tameimpalalive.com/\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaYD\nSubscribe to Tame Impala's YouTube channel: https://TameImpala.l",
+      "duration": 109,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=hefh9dFnChY",
+      "title": "Tame Impala - 'Cause I'm A Man (Official Video)",
+      "description": "Listen to 'The Slow Rush' now: https://TameImpala.lnk.to/TheSlowRushID\nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID\nSee Tame Impala on Tour: https://tameimpalalive.com/\nSubscribe to Tame Impala’s YouTube channel: https://TameImpala.l",
+      "duration": 245,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=en2Erz9i98g",
+      "title": "Reality In Motion",
+      "description": "Provided to YouTube by Universal Music Group\n\nReality In Motion · Tame Impala\n\nCurrents\n\n℗ 2015 Modular Recordings\n\nReleased on: 2015-07-17\n\nComposer Lyricist, Mixer, Producer, Studio Personnel, Engineer: Kevin Parker\nMastering Engineer, Studio Personnel:",
+      "duration": 253,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=7w6E_KTHmUo",
+      "title": "Love/Paranoia",
+      "description": "Provided to YouTube by Universal Music Group\n\nLove/Paranoia · Tame Impala\n\nCurrents\n\n℗ 2015 Modular Recordings\n\nReleased on: 2015-07-17\n\nEngineer, Studio Personnel, Producer, Mixer, Composer Lyricist: Kevin Parker\nStudio Personnel, Mastering Engineer: Gre",
+      "duration": 186,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=_9bw_VtMUGA",
+      "title": "Tame Impala - New Person, Same Old Mistakes (Audio)",
+      "description": "Listen to ‘The Slow Rush’ now: https://TameImpala.lnk.to/TheSlowRushID \nListen to more Tame Impala: https://TameImpala.lnk.to/TameImpalaID \nSee Tame Impala on Tour: https://tameimpalalive.com/ \nSubscribe to Tame Impala’s YouTube channel: https://TameImpal",
+      "duration": 365,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Rock",
+    "Pop"
+  ],
+  "styles": [
+    "Psychedelic Rock",
+    "Indie Rock",
+    "Indie Pop",
+    "Synth-pop"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Let It Happen",
+      "duration": "7:47"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Nangs",
+      "duration": "1:48"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "The Moment",
+      "duration": "4:16"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Yes I'm Changing",
+      "duration": "4:31"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Eventually",
+      "duration": "5:19"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Gossip",
+      "duration": "0:55"
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "The Less I Know The Better",
+      "duration": "3:39"
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Past Life",
+      "duration": "3:48"
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Disciples",
+      "duration": "1:49"
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "Cause I'm A Man",
+      "duration": "4:02"
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Reality In Motion",
+      "duration": "4:13"
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Love / Paranoia",
+      "duration": "3:07"
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "New Person, Same Old Mistakes",
+      "duration": "6:02"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Glen Goetze",
+      "anv": "",
+      "join": "",
+      "role": "A&R",
+      "tracks": "",
+      "id": 1876358,
+      "resource_url": "https://api.discogs.com/artists/1876358"
+    },
+    {
+      "name": "Robert Beatty",
+      "anv": "",
+      "join": "",
+      "role": "Artwork, Design",
+      "tracks": "",
+      "id": 397970,
+      "resource_url": "https://api.discogs.com/artists/397970"
+    },
+    {
+      "name": "Kevin Parker (2)",
+      "anv": "",
+      "join": "",
+      "role": "Design Concept [Cover Concept]",
+      "tracks": "",
+      "id": 1245512,
+      "resource_url": "https://api.discogs.com/artists/1245512"
+    },
+    {
+      "name": "Greg Calbi",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 244135,
+      "resource_url": "https://api.discogs.com/artists/244135"
+    },
+    {
+      "name": "Ray janos",
+      "anv": "RJ",
+      "join": "",
+      "role": "Mastered By [Vinyl]",
+      "tracks": "",
+      "id": 339229,
+      "resource_url": "https://api.discogs.com/artists/339229"
+    },
+    {
+      "name": "Matthew Saville",
+      "anv": "Matthew C. Saville",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 3305371,
+      "resource_url": "https://api.discogs.com/artists/3305371"
+    },
+    {
+      "name": "Rob Grant (3)",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By [Additional Recording], Mixed By [Mix Advice]",
+      "tracks": "",
+      "id": 925188,
+      "resource_url": "https://api.discogs.com/artists/925188"
+    },
+    {
+      "name": "Kevin Parker (2)",
+      "anv": "",
+      "join": "",
+      "role": "Songwriter, Producer, Recorded By, Mixed By",
+      "tracks": "",
+      "id": 1245512,
+      "resource_url": "https://api.discogs.com/artists/1245512"
+    },
+    {
+      "name": "Kevin Parker (2)",
+      "anv": "",
+      "join": "",
+      "role": "Vocals [All Vocals], Instruments [All Instruments]",
+      "tracks": "",
+      "id": 1245512,
+      "resource_url": "https://api.discogs.com/artists/1245512"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/RujXpx7IDYkQweZsmv6Ju5tZn8bm9YjZWGRHMV3UTyE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/NS0xNjUxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/RujXpx7IDYkQweZsmv6Ju5tZn8bm9YjZWGRHMV3UTyE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/NS0xNjUxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/nYT3LJUeAb9h-5cKtpLKg3Jfi44O1msEFbI6tneY_2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/NS0xNjUxLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/TB_dN29XJdbQVVjGC8--aHsnYhb1OOASC_PQ3w8VN08/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/Ny00MzEyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/TB_dN29XJdbQVVjGC8--aHsnYhb1OOASC_PQ3w8VN08/rs:fit/g:sm/q:90/h:295/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/Ny00MzEyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/Ue4PFdscieBeJfYRP2Z638vF53bAQEj1Juf_OdKUsBk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/Ny00MzEyLmpwZWc.jpeg",
+      "width": 600,
+      "height": 295
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/j2hnCQ_pAGW0Lf_Vrun8T3SDk8tDzScHV-DnaP1YsMw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/Ni02MDQyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/j2hnCQ_pAGW0Lf_Vrun8T3SDk8tDzScHV-DnaP1YsMw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/Ni02MDQyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/kIIeuVuePWgG4-8wLXZ3OxT5thjkusPLBY31wRbmCyo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/Ni02MDQyLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/JgUxD0_uXI0LRNEKJQjKqnSmfmru8z-U0We-hg-fnts/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/OC02OTgxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/JgUxD0_uXI0LRNEKJQjKqnSmfmru8z-U0We-hg-fnts/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/OC02OTgxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/QNGiJxQlr4nrdzSb-8IjXB0Beu7XRQJHboBCEBL_v7o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/OC02OTgxLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/YaHOTTPckyZeLAgXMfQtE_mOtPIIcmZpW54GRSYAhe4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/Ni03MzcyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/YaHOTTPckyZeLAgXMfQtE_mOtPIIcmZpW54GRSYAhe4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/Ni03MzcyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/YSgIZFi5HcZXdi8meyfuthGFND7rE_lkVZmzB8MvmPI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/Ni03MzcyLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/IpDuw7y0dA2ZC6_F7GBQloz_N-nCbOxafZdqbAU9DOc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM4/MC03MDQ4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/IpDuw7y0dA2ZC6_F7GBQloz_N-nCbOxafZdqbAU9DOc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM4/MC03MDQ4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/I47aroWbD1oLEe9wyUdQ2M2izsMp57_jlb_ZDkgIbls/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM4/MC03MDQ4LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/mPncUs7HEq5_19nlh_QhiP5A8TqxOtv5JOMz32e_DBw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/Ny0zODY2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/mPncUs7HEq5_19nlh_QhiP5A8TqxOtv5JOMz32e_DBw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/Ny0zODY2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/S_5IHi3Sc672m-BT8NXQnnl-QLAb7iWkWiH6I9sq6w4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/Ny0zODY2LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/yPXaJBCHIvlsJRvdcgA3sXW49347kG3klLXfvrGs3Go/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/OC0zNzIzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/yPXaJBCHIvlsJRvdcgA3sXW49347kG3klLXfvrGs3Go/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/OC0zNzIzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/Jqw5vSZ0wu6FmDpiqXVBdMUnrcXPaRzRWGiPvq85r-Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/OC0zNzIzLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/s45hR_QwLlHlI1byPoHWZlJSCB6EFMMQ0qrpI4cuAPc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/OC04NTU3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/s45hR_QwLlHlI1byPoHWZlJSCB6EFMMQ0qrpI4cuAPc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/OC04NTU3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/3_FHfEudVP8kImb0vLxf5uNCOxsEpO_kn3EKk19f2R8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/OC04NTU3LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/zWJ2ajSK2n1IWz_28B836UTG56VHw2uH9mMoZOOiF1E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/OS01MDg0LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/zWJ2ajSK2n1IWz_28B836UTG56VHw2uH9mMoZOOiF1E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/OS01MDg0LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/FEHF0yp0xs90MSnvMUMuHEd145t8ZcWHohUw1JvhCAg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/OS01MDg0LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/lVttISERjeHdiEUTx95-n-uyBmiFo3U1uUoE0R8omGQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/OS0xMDM3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/lVttISERjeHdiEUTx95-n-uyBmiFo3U1uUoE0R8omGQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/OS0xMDM3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/vF_29QJ81206KeESKtTYKSvEYbCWRN8yLrh7BfGh5L8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/OS0xMDM3LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/zniPDHQhXKyJIkvggXsXwtpc5LhdPJiDND017JmQ5Lk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/OS0yNjc1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/zniPDHQhXKyJIkvggXsXwtpc5LhdPJiDND017JmQ5Lk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/OS0yNjc1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/ub6-q5m11TSuGhiX6QC2HY4-87dR-yIPxxrq9WCXrc0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/OS0yNjc1LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/uyN14DqnUsFvyMA3d9o6TsPyDoImxoc1xoS-N-fItlY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM4/MC04MDg4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/uyN14DqnUsFvyMA3d9o6TsPyDoImxoc1xoS-N-fItlY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM4/MC04MDg4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/QXC9IEVct_U-8q-owNg6pmXjkqNin2r237fRb0F2WOA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM4/MC04MDg4LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/nYT3LJUeAb9h-5cKtpLKg3Jfi44O1msEFbI6tneY_2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyNTA0/OTEtMTYwMjY2MjM3/NS0xNjUxLmpwZWc.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

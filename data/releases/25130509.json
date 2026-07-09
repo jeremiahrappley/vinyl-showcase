@@ -1,0 +1,645 @@
+{
+  "id": 25130509,
+  "status": "Accepted",
+  "year": 2022,
+  "resource_url": "https://api.discogs.com/releases/25130509",
+  "uri": "https://www.discogs.com/release/25130509-Celine-Dion-These-Are-Special-Times",
+  "artists": [
+    {
+      "name": "Céline Dion",
+      "anv": "Celine Dion",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 19298,
+      "resource_url": "https://api.discogs.com/artists/19298",
+      "thumbnail_url": "https://i.discogs.com/Qa0oUsg_3Arn8ipkPtBOCPTRBLHnnsi0Q97_241cDbE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE5Mjk4/LTE3MTg5NDg4MzUt/NTcyMi5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "Céline Dion",
+  "labels": [
+    {
+      "name": "Columbia",
+      "catno": "19658703241",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    },
+    {
+      "name": "Sony Music",
+      "catno": "19658703241",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 25487,
+      "resource_url": "https://api.discogs.com/labels/25487",
+      "thumbnail_url": "https://i.discogs.com/O7quXBkakkeeljzb5ApIswR86acqIHTQ3qzBrCHmqzA/rs:fit/g:sm/q:90/h:571/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI1NDg3/LTE3MDA5NDA1ODgt/MTYwNS5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Sony Music Entertainment",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 29073,
+      "resource_url": "https://api.discogs.com/labels/29073",
+      "thumbnail_url": "https://i.discogs.com/brqxJ0_7Bid9TdPXvDixDcKsKR49S1Tu2CJbq1H6qsI/rs:fit/g:sm/q:90/h:43/w:519/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5MDcz/LTE3NTY5MTIzMzYt/MTIwNS5wbmc.jpeg"
+    },
+    {
+      "name": "Sony Music Entertainment Canada Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 366157,
+      "resource_url": "https://api.discogs.com/labels/366157"
+    },
+    {
+      "name": "Sony Music Entertainment Canada Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 366157,
+      "resource_url": "https://api.discogs.com/labels/366157"
+    },
+    {
+      "name": "GZ Media",
+      "catno": "242235E",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Reissue"
+      ],
+      "text": "Opaque Gold "
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 694,
+    "want": 108,
+    "rating": {
+      "count": 33,
+      "average": 4.7
+    },
+    "submitter": {
+      "username": "Asnowmans",
+      "resource_url": "https://api.discogs.com/users/Asnowmans"
+    },
+    "contributors": [
+      {
+        "username": "Asnowmans",
+        "resource_url": "https://api.discogs.com/users/Asnowmans"
+      },
+      {
+        "username": "FYO",
+        "resource_url": "https://api.discogs.com/users/FYO"
+      },
+      {
+        "username": "guido_degreef",
+        "resource_url": "https://api.discogs.com/users/guido_degreef"
+      },
+      {
+        "username": "celinefanonline",
+        "resource_url": "https://api.discogs.com/users/celinefanonline"
+      },
+      {
+        "username": "ziggycheung",
+        "resource_url": "https://api.discogs.com/users/ziggycheung"
+      },
+      {
+        "username": "Gonzo611982",
+        "resource_url": "https://api.discogs.com/users/Gonzo611982"
+      },
+      {
+        "username": "Daveyh84",
+        "resource_url": "https://api.discogs.com/users/Daveyh84"
+      },
+      {
+        "username": "french_75",
+        "resource_url": "https://api.discogs.com/users/french_75"
+      },
+      {
+        "username": "Britney-Spears",
+        "resource_url": "https://api.discogs.com/users/Britney-Spears"
+      },
+      {
+        "username": "twotoner",
+        "resource_url": "https://api.discogs.com/users/twotoner"
+      },
+      {
+        "username": "Sotos_Scott",
+        "resource_url": "https://api.discogs.com/users/Sotos_Scott"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2022-11-11T07:59:42-08:00",
+  "date_changed": "2025-12-19T02:20:16-08:00",
+  "num_for_sale": 35,
+  "lowest_price": 30.39,
+  "master_id": 179026,
+  "master_url": "https://api.discogs.com/masters/179026",
+  "title": "These Are Special Times",
+  "country": "Europe",
+  "released": "2022",
+  "notes": "2 LP | Opaque Gold [Limited Edition]\n\nReleased as a Barnes & Noble exclusive in the US. \n\nIncludes complete album notes and lyrics, also the lyrics to the songs that were omitted it earlier booklet(s): O Holy Night, Blue Christmas, Ave Maria, Adeste Fideles, The Christmas Song, Happy Xmas and Feliz Navidad.\n\nIn this release, the track \"I'm Your Angel\" is now replaced by \"I Met An Angel (On Christmas Day)\" as last song of the album, previously released on the That's The Way It Is single: [m134830].\n\n(P) 1998 Sony Music Entertainment Canada Inc. / Art de l'emballage (packing art) 1998, 2022 (C) Sony Music Entertainment Canada Inc.\nDistributed by Sony Music Entertainment\nMade in the EU ",
+  "released_formatted": "2022",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "196587032418"
+    },
+    {
+      "type": "Label Code",
+      "value": "LC00162"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "242235E1/A",
+      "description": "Side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "242235E2/A",
+      "description": "Side B"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "242235E3/A",
+      "description": "Side C"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "242235E4/A",
+      "description": "Side D"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=RsWUWzai8P8",
+      "title": "Céline Dion - O Holy Night (Official Audio)",
+      "description": "Official Audio for \"O Holy Night\" by Celine Dion\nEnjoy more Christmas classics! https://holiday.lnk.to/classicsYD\n\nListen to Celine Dion: https://CelineDion.lnk.to/listenYD\nWatch more videos by Celine Dion:\nhttps://CelineDion.lnk.to/listenYD/youtube\n\nSubs",
+      "duration": 324,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=qdRncshZ4Vw",
+      "title": "Céline Dion - Don't Save It All for Christmas Day (Official Audio)",
+      "description": "Celine Dion - Don't Save It All For Christmas Day (Official Audio)\nCheck out more Christmas Pop Hits! https://holiday.lnk.to/popYD\n\nListen on Spotify:  http://smarturl.it/Celine_Spotify_EN \nListen on Apple Music:  http://smarturl.it/Celine_AM_EN \nAmazon: ",
+      "duration": 280,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=xb4Z4pxvgWs",
+      "title": "Céline Dion - Blue Christmas (Official Audio)",
+      "description": "Celine Dion - Blue Christmas (Official Audio)\nCheck out these Christmas Pop Hits! https://holiday.lnk.to/popYD\n\nListen on Spotify:  http://smarturl.it/Celine_Spotify_EN \nListen on Apple Music:  http://smarturl.it/Celine_AM_EN \nAmazon:  http://smarturl.it/",
+      "duration": 231,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=8WcWjP_z3JI",
+      "title": "Céline Dion - Another Year Has Gone By (Official Audio)",
+      "description": "Celine Dion - Another Year Has Gone By (Official Audio)\nListen on Spotify:  http://smarturl.it/Celine_Spotify_EN \nListen on Apple Music:  http://smarturl.it/Celine_AM_EN \nAmazon:  http://smarturl.it/Celine_Amazon_EN \nListen on Deezer:  http://smarturl.it/",
+      "duration": 206,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=s5wyun2AZQ8",
+      "title": "Céline Dion - The Magic of Christmas Day (God Bless Us Everyone) (Official Audio)",
+      "description": "Celine Dion - The Magic of Christmas Day (God Bless Us Everyone) (Official Audio)\nCheck out more Christmas Pop Hits! https://holiday.lnk.to/popYD\n\nListen on Spotify:  http://smarturl.it/Celine_Spotify_EN \nListen on Apple Music:  http://smarturl.it/Celine_",
+      "duration": 259,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ek9LKDjgshU",
+      "title": "Céline Dion - Ave Maria (Official Audio)",
+      "description": "Celine Dion - Ave Maria (Official Audio)\nListen on Spotify:  http://smarturl.it/Celine_Spotify_EN \nListen on Apple Music:  http://smarturl.it/Celine_AM_EN \nAmazon:  http://smarturl.it/Celine_Amazon_EN \nListen on Deezer:  http://smarturl.it/Celine_Deezer\nL",
+      "duration": 298,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=fOmHXeYhDU8",
+      "title": "Céline Dion - Adeste Fideles (O Come All Ye Faithful) (Official Audio)",
+      "description": "Celine Dion - Adeste Fideles (O Come All Ye Faithful) (Official Audio)\nEnjoy more Christmas classics! https://holiday.lnk.to/classicsYD\n\nListen on Spotify:  http://smarturl.it/Celine_Spotify_EN \nListen on Apple Music:  http://smarturl.it/Celine_AM_EN \nAma",
+      "duration": 283,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=f_lFzLIA-C0",
+      "title": "Céline Dion - The Christmas Song (Chestnuts Roasting on an Open Fire) (Official Audio)",
+      "description": "Celine Dion - The Christmas Song (Chestnuts Roasting on an Open Fire) (Official Audio)\nEnjoy more Christmas classics! https://holiday.lnk.to/classicsYD\n\nListen on Spotify:  http://smarturl.it/Celine_Spotify_EN \nListen on Apple Music:  http://smarturl.it/C",
+      "duration": 256,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=W8DGuvab_Lc",
+      "title": "Céline Dion, Andrea Bocelli - The Prayer (Official Audio)",
+      "description": "Céline Dion and Andrea Bocelli - The Prayer (Official Audio)\nListen on Spotify:  http://smarturl.it/Celine_Spotify_EN \nListen on Apple Music:  http://smarturl.it/Celine_AM_EN \nAmazon:  http://smarturl.it/Celine_Amazon_EN \nListen on Deezer:  http://smartur",
+      "duration": 271,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=AtFXS_Ewfcg",
+      "title": "Céline Dion - Brahms' Lullaby (Official Audio)",
+      "description": "Celine Dion - Brahms' Lullaby (Official Audio)\nListen on Spotify:  http://smarturl.it/Celine_Spotify_EN \nListen on Apple Music:  http://smarturl.it/Celine_AM_EN \nAmazon:  http://smarturl.it/Celine_Amazon_EN \nListen on Deezer:  http://smarturl.it/Celine_De",
+      "duration": 214,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=SIr727GvpKI",
+      "title": "Céline Dion - Christmas Eve (Official Audio)",
+      "description": "Celine Dion - Christmas Eve (Official Audio)\nCheck out more Christmas Pop Hits! https://holiday.lnk.to/popYD\n\nListen on Spotify:  http://smarturl.it/Celine_Spotify_EN \nListen on Apple Music:  http://smarturl.it/Celine_AM_EN \nAmazon:  http://smarturl.it/Ce",
+      "duration": 259,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=J_g-yvDAGtA",
+      "title": "Céline Dion - These Are the Special Times (Official Audio)",
+      "description": "Celine Dion - These Are The Special Times (Official Audio)\nListen on Spotify:  http://smarturl.it/Celine_Spotify_EN \nListen on Apple Music:  http://smarturl.it/Celine_AM_EN \nAmazon:  http://smarturl.it/Celine_Amazon_EN \nListen on Deezer:  http://smarturl.",
+      "duration": 250,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=73-mmd7RyS0",
+      "title": "Céline Dion - Happy Xmas (War Is Over) (Official Audio)",
+      "description": "Celine Dion - Happy Xmas (War Is Over) (Official Audio)\nCheck out more Christmas Pop Hits! https://holiday.lnk.to/popYD\n\nListen on Spotify:  http://smarturl.it/Celine_Spotify_EN \nListen on Apple Music:  http://smarturl.it/Celine_AM_EN \nAmazon:  http://sma",
+      "duration": 256,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=uwFD6dCV82w",
+      "title": "Céline Dion - Feliz Navidad (Official Audio)",
+      "description": "Celine Dion - Feliz Navidad (Official Audio)\nCheck out more Christmas Pop Hits! https://holiday.lnk.to/popYD\n\nListen on Spotify:  http://smarturl.it/Celine_Spotify_EN \nListen on Apple Music:  http://smarturl.it/Celine_AM_EN \nAmazon:  http://smarturl.it/Ce",
+      "duration": 223,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=KO_62hBx-hc",
+      "title": "Céline Dion - Les Cloches du Hameau (Audio officiel)",
+      "description": "Celine Dion - Les Cloches du Hameau (Audio Officiel)\nListen on Spotify:  http://smarturl.it/Celine_Spotify_EN \nListen on Apple Music:  http://smarturl.it/Celine_AM_EN \nAmazon:  http://smarturl.it/Celine_Amazon_EN \nListen on Deezer:  http://smarturl.it/Cel",
+      "duration": 192,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=taLTF_1_-74",
+      "title": "Céline Dion - I Met an Angel (on Christmas Day) (Official Audio)",
+      "description": "Celine Dion – I Met An Angel (On Christmas Day) (Official Audio)\n \nStream it here: https://smarturl.it/CelineDionTAST\n \nSubscribe to the official YouTube Channel for Celine: https://smarturl.it/CelineDionOnYouTube \n \nWatch more music videos by Celine Dion",
+      "duration": 202,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Jazz",
+    "Rock",
+    "Pop",
+    "Classical"
+  ],
+  "styles": [
+    "Ballad",
+    "Downtempo",
+    "Easy Listening",
+    "Soft Rock",
+    "Vocal",
+    "Holiday"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "O Holy Night\t",
+      "duration": "5:22"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Don't Save It All For Christmas Day\t",
+      "duration": "4:38"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Blue Christmas\t",
+      "duration": "3:49"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Another Year Has Gone By\t",
+      "duration": "3:25"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "The Magic Of Christmas Day (God Bless Us Everyone)\t",
+      "duration": "4:17"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Ave Maria\t",
+      "duration": "4:56"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Adeste Fideles (O Come All Ye Faithful)\t",
+      "duration": "4:44"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "The Christmas Song (Chestnuts Roasting On An Open Fire)\t",
+      "duration": "4:14"
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "title": "The Prayer\t",
+      "duration": "4:30"
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "title": "Brahms' Lullaby\t",
+      "duration": "3:32"
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "title": "Christmas Eve\t",
+      "duration": "4:17"
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "title": "These Are Special Times\t",
+      "duration": "4:08"
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "title": "Happy Xmas (War Is Over)\t",
+      "duration": "4:15"
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "title": "Feliz Navidad\t",
+      "duration": "3:41"
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "title": "Les Cloches Du Hameau\t",
+      "duration": "3:10"
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "title": "I Met An Angel (On Christmas Day)",
+      "duration": "3:21"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Hooshik",
+      "anv": "",
+      "join": "",
+      "role": "Art Direction",
+      "tracks": "",
+      "id": 1831476,
+      "resource_url": "https://api.discogs.com/artists/1831476"
+    },
+    {
+      "name": "Nancy Donald",
+      "anv": "",
+      "join": "",
+      "role": "Art Direction",
+      "tracks": "",
+      "id": 740356,
+      "resource_url": "https://api.discogs.com/artists/740356"
+    },
+    {
+      "name": "John Doelp",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 286820,
+      "resource_url": "https://api.discogs.com/artists/286820"
+    },
+    {
+      "name": "Vito Luprano",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 157319,
+      "resource_url": "https://api.discogs.com/artists/157319"
+    },
+    {
+      "name": "Feeling Productions Inc.",
+      "anv": "",
+      "join": "",
+      "role": "Management",
+      "tracks": "",
+      "id": 4681948,
+      "resource_url": "https://api.discogs.com/artists/4681948"
+    },
+    {
+      "name": "Vlado Meller",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 189744,
+      "resource_url": "https://api.discogs.com/artists/189744"
+    },
+    {
+      "name": "Humberto Gatica",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "",
+      "id": 176998,
+      "resource_url": "https://api.discogs.com/artists/176998"
+    },
+    {
+      "name": "Randee St. Nicholas",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 1916720,
+      "resource_url": "https://api.discogs.com/artists/1916720"
+    },
+    {
+      "name": "Laurent Cayla",
+      "anv": "",
+      "join": "",
+      "role": "Photography By [Family Photo]",
+      "tracks": "",
+      "id": 2250002,
+      "resource_url": "https://api.discogs.com/artists/2250002"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/vSdQaNEUs7W0mB2ZZea0z3dkU1txiVznN_SzmnmdHTA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2NjgxODk1/MDgtNjEyMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/vSdQaNEUs7W0mB2ZZea0z3dkU1txiVznN_SzmnmdHTA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2NjgxODk1/MDgtNjEyMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ikKPx1iX2d6LW5jJ6T6ewBR1HLkQ2agMR-5TqKpNVSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2NjgxODk1/MDgtNjEyMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/rrB39SaTlqTkVSnpsWtQHTmMc_k7I-1M7CCOsdfjA0g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2Njk5OTA0/MzYtOTY5Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/rrB39SaTlqTkVSnpsWtQHTmMc_k7I-1M7CCOsdfjA0g/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2Njk5OTA0/MzYtOTY5Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/992oPEtpGCiiWltMoOhd9gyP8KH8AF32IakUMR8ycy0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2Njk5OTA0/MzYtOTY5Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/b0LfwQ-R0dJt-m5Pzy-M1ZO7Y54B8IG6fXXle8J5KPs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE3NjU5MjE4/OTQtMTYxNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/b0LfwQ-R0dJt-m5Pzy-M1ZO7Y54B8IG6fXXle8J5KPs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE3NjU5MjE4/OTQtMTYxNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/0WWNPu7eW-b0V3dMqwnlkfsXVmhWtAK2ABKmXjrSdfY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE3NjU5MjE4/OTQtMTYxNi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/_0l9Wkexr5cK_lekxyC3VM7R-kz9uiisbXPKnqkyV2I/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2NjgxODk0/ODItNTM0MC5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/_0l9Wkexr5cK_lekxyC3VM7R-kz9uiisbXPKnqkyV2I/rs:fit/g:sm/q:90/h:570/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2NjgxODk0/ODItNTM0MC5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/aCTcnIWmU3DIhQb1LlCDfFgsoeGVXrWGcx9PF1S_Poo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2NjgxODk0/ODItNTM0MC5wbmc.jpeg",
+      "width": 600,
+      "height": 570
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Duq8y87xon6UFCJJt31XKxmm4oW_CwNfDi-KEZBbvig/rs:fit/g:sm/q:90/h:533/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2NjgxODk0/ODMtMTc3NC5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/Duq8y87xon6UFCJJt31XKxmm4oW_CwNfDi-KEZBbvig/rs:fit/g:sm/q:90/h:533/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2NjgxODk0/ODMtMTc3NC5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/PA-4TSaAPv1v0xuP8IHLCV6P1kJCSsBTgZ8liEVi7Uw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2NjgxODk0/ODMtMTc3NC5wbmc.jpeg",
+      "width": 600,
+      "height": 533
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/dz7U-PY8eTPFYBq4Ujn50w8ypt4ZmUBlb_O6yRSlcM0/rs:fit/g:sm/q:90/h:547/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2NjgxODk0/ODQtNTUwNy5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/dz7U-PY8eTPFYBq4Ujn50w8ypt4ZmUBlb_O6yRSlcM0/rs:fit/g:sm/q:90/h:547/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2NjgxODk0/ODQtNTUwNy5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/uz5TObGSL2u38Wnbi_UwJDDLZ44CAfDet7qFDhDFay8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2NjgxODk0/ODQtNTUwNy5wbmc.jpeg",
+      "width": 600,
+      "height": 547
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/33eZSX8XMiFMHaouhOghZmU7zMlMPix_4n6hzvHr-Es/rs:fit/g:sm/q:90/h:534/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2NjgxODk1/NzctODQ0OC5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/33eZSX8XMiFMHaouhOghZmU7zMlMPix_4n6hzvHr-Es/rs:fit/g:sm/q:90/h:534/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2NjgxODk1/NzctODQ0OC5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/ZgpMYvvsrXQ4wmAKrkTqueJuKHz87TLWIcDm-HRgqXk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2NjgxODk1/NzctODQ0OC5wbmc.jpeg",
+      "width": 600,
+      "height": 534
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/iqK5kMpvU5zyk3JbEQPuHFRl1T0MGVx0AwraWFHGDP8/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2Njk5OTA0/NTEtNTM2My5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/iqK5kMpvU5zyk3JbEQPuHFRl1T0MGVx0AwraWFHGDP8/rs:fit/g:sm/q:90/h:600/w:585/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2Njk5OTA0/NTEtNTM2My5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/aRMIMCDQD7Q7Hx8RDIhsVXqgTcgmEH48YNk_sxOjiAI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2Njk5OTA0/NTEtNTM2My5wbmc.jpeg",
+      "width": 585,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/jtFeK4Ph9h1aJkUbW2_JE1nPUHTerZo7cDQcc2EFIcg/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2Njk5OTA0/NjUtOTMxNy5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/jtFeK4Ph9h1aJkUbW2_JE1nPUHTerZo7cDQcc2EFIcg/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2Njk5OTA0/NjUtOTMxNy5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/SaOIktgnPyOz50fAYp83mKPoXi2tdTzLSPMVIgOx870/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2Njk5OTA0/NjUtOTMxNy5wbmc.jpeg",
+      "width": 587,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/7fwJqN54cyFiX6c0QkayRbvosh2JoWExApEfNlKcLdE/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2Njk5OTA0/ODUtNzI0My5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/7fwJqN54cyFiX6c0QkayRbvosh2JoWExApEfNlKcLdE/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2Njk5OTA0/ODUtNzI0My5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/tfoySOqJl7WacGxEHsUA_pVDuXVT2qmMoNfMLhbiwjU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2Njk5OTA0/ODUtNzI0My5wbmc.jpeg",
+      "width": 584,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/afbVOFhcgcJqGgLyYX16zp3rrkM_tRvdNRmqrmONIyk/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2Njk5OTA1/MTEtMzE2OC5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/afbVOFhcgcJqGgLyYX16zp3rrkM_tRvdNRmqrmONIyk/rs:fit/g:sm/q:90/h:600/w:588/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2Njk5OTA1/MTEtMzE2OC5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/JeQn8uqVnKcBSixPbTFBGJl04TslL3j9y4VfZjEEflA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2Njk5OTA1/MTEtMzE2OC5wbmc.jpeg",
+      "width": 588,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/LZaFLVWFGT6iRckyG_XxH67b-v74n_xHaHZA28ahTeU/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2Njk5OTA1/MTAtNjU2My5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/LZaFLVWFGT6iRckyG_XxH67b-v74n_xHaHZA28ahTeU/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2Njk5OTA1/MTAtNjU2My5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/CWy0X-jci-3Aoev5NOyT2siT7IO2yViFwYxgd-aK6NE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2Njk5OTA1/MTAtNjU2My5wbmc.jpeg",
+      "width": 593,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/CPM-PL3fMmJBB_TkBeWCShF1RQ8YhzoNfHRMrPUEiHk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2Njk5OTA1/MjctNTA0OC5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/CPM-PL3fMmJBB_TkBeWCShF1RQ8YhzoNfHRMrPUEiHk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2Njk5OTA1/MjctNTA0OC5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/8mvyw6AmMSFgJVZgbQMASoyLxfH5QAvj_H78qjbac0I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2Njk5OTA1/MjctNTA0OC5wbmc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/pkt6frq29X97981zsMUpiqZfj6zkX5pzcCADI1UIQew/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2Njk5OTA1/MTAtODA1Ni5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/pkt6frq29X97981zsMUpiqZfj6zkX5pzcCADI1UIQew/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2Njk5OTA1/MTAtODA1Ni5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/ZHgI3Wa4egeNgCOdX2yKyVXmsVRucZCFganajy4j8uA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2Njk5OTA1/MTAtODA1Ni5wbmc.jpeg",
+      "width": 587,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/VKNWRrwFbXOCkD6MFAPv0pruYgoYehd_tRvO4pDBVoQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2Njk5OTA1/MTItNDMxMC5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/VKNWRrwFbXOCkD6MFAPv0pruYgoYehd_tRvO4pDBVoQ/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2Njk5OTA1/MTItNDMxMC5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/wT9o9WYS6jqVcGs8Q9cQCQZ6LEa5cRz3wdLpEpCdx6A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2Njk5OTA1/MTItNDMxMC5wbmc.jpeg",
+      "width": 597,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/7nmtfZPrmM1cqEBRWJoPX4hgLuIrga3KJfjstMPwNDk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2NjkwMjcw/MTgtNzI3NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/7nmtfZPrmM1cqEBRWJoPX4hgLuIrga3KJfjstMPwNDk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2NjkwMjcw/MTgtNzI3NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/6Y50c7MkdDp1oOpqm15ROqKjFmWJMKPeD9S_K-VWNZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2NjkwMjcw/MTgtNzI3NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ADGk-M9weW28IoJhR7Ikl0nZAheFQ8XK33hc_LefGAs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2NjkwMjcw/MjAtMjA1NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ADGk-M9weW28IoJhR7Ikl0nZAheFQ8XK33hc_LefGAs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2NjkwMjcw/MjAtMjA1NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/mUzMCH5QWFHeGDiZVFHbpwHRCyyYYvIT1OIlg4WLDR0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2NjkwMjcw/MjAtMjA1NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/ikKPx1iX2d6LW5jJ6T6ewBR1HLkQ2agMR-5TqKpNVSo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1MTMw/NTA5LTE2NjgxODk1/MDgtNjEyMS5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

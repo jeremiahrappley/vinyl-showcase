@@ -1,0 +1,477 @@
+{
+  "id": 6810986,
+  "status": "Accepted",
+  "year": 0,
+  "resource_url": "https://api.discogs.com/releases/6810986",
+  "uri": "https://www.discogs.com/release/6810986-Barbra-Streisand-A-Christmas-Album",
+  "artists": [
+    {
+      "name": "Barbra Streisand",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 53248,
+      "resource_url": "https://api.discogs.com/artists/53248",
+      "thumbnail_url": "https://i.discogs.com/CTTmtSIvRJZLV481ZeYIeK4XpH6HnBnPdKPkT9iSheA/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUzMjQ4/LTE0MDUyODAzNzAt/MjUxMS5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "Barbra Streisand",
+  "labels": [
+    {
+      "name": "Columbia",
+      "catno": "CS 9557",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1866,
+      "resource_url": "https://api.discogs.com/labels/1866",
+      "thumbnail_url": "https://i.discogs.com/JuO51-lZvasOtw8-yLUjsen-4O17uPH1A9SILCO-lG4/rs:fit/g:sm/q:90/h:300/w:299/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4NjYt/MTIzMzE5MzU1Ny5q/cGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Columbia Records Pressing Plant, Carrollton, GA",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 442751,
+      "resource_url": "https://api.discogs.com/labels/442751",
+      "thumbnail_url": "https://i.discogs.com/7rjhP1pJN9r_Qag8oJ5b5GT4nv-e7KvwApAXIQiHJgo/rs:fit/g:sm/q:90/h:401/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQ0Mjc1/MS0xNzA4NDIyMjg1/LTg4NjguanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Reissue"
+      ],
+      "text": "Carrollton Pressing"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 1331,
+    "want": 15,
+    "rating": {
+      "count": 30,
+      "average": 4.2
+    },
+    "submitter": {
+      "username": "MYTH420",
+      "resource_url": "https://api.discogs.com/users/MYTH420"
+    },
+    "contributors": [
+      {
+        "username": "MYTH420",
+        "resource_url": "https://api.discogs.com/users/MYTH420"
+      },
+      {
+        "username": "VegasDJ1",
+        "resource_url": "https://api.discogs.com/users/VegasDJ1"
+      },
+      {
+        "username": "WhatCheer",
+        "resource_url": "https://api.discogs.com/users/WhatCheer"
+      },
+      {
+        "username": "TheRealKaiser",
+        "resource_url": "https://api.discogs.com/users/TheRealKaiser"
+      },
+      {
+        "username": "WolfXCIX",
+        "resource_url": "https://api.discogs.com/users/WolfXCIX"
+      },
+      {
+        "username": "sejo",
+        "resource_url": "https://api.discogs.com/users/sejo"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2015-03-23T07:13:02-07:00",
+  "date_changed": "2023-06-01T06:41:45-07:00",
+  "num_for_sale": 40,
+  "lowest_price": 2,
+  "master_id": 74192,
+  "master_url": "https://api.discogs.com/masters/74192",
+  "title": "A Christmas Album",
+  "country": "US",
+  "notes": "This is the reissue from the 1980s with barcode on back Album Cover.\n\nOn back of sleeve and labels: Printed in U.S.A.",
+  "identifiers": [
+    {
+      "type": "Matrix / Runout",
+      "value": "XSM 119164  G2F    (H-MP) P",
+      "description": "Side A Runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "XSM 119165  G1F   (H-MP) P",
+      "description": "Side B Runout"
+    },
+    {
+      "type": "Barcode",
+      "value": "0 74640 95571 03",
+      "description": "Text / Typed"
+    },
+    {
+      "type": "Barcode",
+      "value": "074640955716",
+      "description": "Scanned"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=vV0bIDHPFGM",
+      "title": "The Lord's Prayer",
+      "description": "Provided to YouTube by Columbia\n\nThe Lord's Prayer · Barbra Streisand\n\nA Christmas Album\n\n℗ Originally Released 1967. All rights reserved by Columbia Records, a division of Sony Music Entertainment\n\nReleased on: 1967-10-16\n\nAssociated Performer, Vocal: Ba",
+      "duration": 164,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=tOeeCDGqnG0",
+      "title": "My Favorite Things",
+      "description": "Provided to YouTube by Columbia\n\nMy Favorite Things · Barbra Streisand\n\nA Christmas Album\n\n℗ Originally Released 1967. All rights reserved by Columbia Records, a division of Sony Music Entertainment\n\nReleased on: 1967-10-16\n\nVocal, Associated Performer: B",
+      "duration": 184,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=LhuKFCAaMKc",
+      "title": "Gounod's Ave Maria",
+      "description": "Provided to YouTube by Columbia\n\nGounod's Ave Maria · Barbra Streisand\n\nA Christmas Album\n\n℗ Originally Released 1967. All rights reserved by Columbia Records, a division of Sony Music Entertainment\n\nReleased on: 1967-10-16\n\nAssociated Performer: Barbra S",
+      "duration": 201,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Dd9ZaR-wxH8",
+      "title": "The Christmas Song (Chestnuts Roasting on an Open Fire)",
+      "description": "Provided to YouTube by Columbia\n\nThe Christmas Song (Chestnuts Roasting on an Open Fire) · Barbra Streisand\n\nA Christmas Album\n\n℗ Originally Released 1967. All rights reserved by Columbia Records, a division of Sony Music Entertainment\n\nReleased on: 1967-",
+      "duration": 236,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=raEwD8kqx-8",
+      "title": "Have Yourself a Merry Little Christmas",
+      "description": "Provided to YouTube by Columbia\n\nHave Yourself a Merry Little Christmas · Barbra Streisand\n\nA Christmas Album\n\n℗ Originally Released 1967. All rights reserved by Columbia Records, a division of Sony Music Entertainment\n\nReleased on: 1967-10-16\n\nAssociated",
+      "duration": 189,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=CYpiWAoNVLg",
+      "title": "Barbra Streisand - Jingle Bells? (Official Video)",
+      "description": "Official video for \"Jingle Bells?\" by Barbra Streisand \nListen to Barbra Streisand: https://BarbraStreisand.lnk.to/listenYD\nSubscribe to the official Barbra Streisand YouTube channel: https://BarbraStreisand.lnk.to/subscr...\n\nWatch more Barbra Streisand v",
+      "duration": 113,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Pop"
+  ],
+  "styles": [
+    "Ballad",
+    "Vocal",
+    "Holiday"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Jingle Bells?",
+      "extraartists": [
+        {
+          "name": "Jack Gold",
+          "anv": "J. Gold",
+          "join": "",
+          "role": "Adapted By [New Adaptation By]",
+          "tracks": "",
+          "id": 269325,
+          "resource_url": "https://api.discogs.com/artists/269325"
+        },
+        {
+          "name": "Marty Paich",
+          "anv": "M. Paich",
+          "join": "",
+          "role": "Adapted By [New Adaptation By]",
+          "tracks": "",
+          "id": 193583,
+          "resource_url": "https://api.discogs.com/artists/193583"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Have Yourself A Merry Little Christmas",
+      "extraartists": [
+        {
+          "name": "Hugh Martin",
+          "anv": "H. Martin",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 615544,
+          "resource_url": "https://api.discogs.com/artists/615544"
+        },
+        {
+          "name": "Ralph Blane",
+          "anv": "R. Blane",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 615542,
+          "resource_url": "https://api.discogs.com/artists/615542"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "The Christmas Song (Chestnuts Roasting On An Open Fire)",
+      "extraartists": [
+        {
+          "name": "Mel Tormé",
+          "anv": "M. Torme",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 152707,
+          "resource_url": "https://api.discogs.com/artists/152707"
+        },
+        {
+          "name": "Robert Wells (2)",
+          "anv": "R. Wells",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 636384,
+          "resource_url": "https://api.discogs.com/artists/636384"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "White Christmas",
+      "extraartists": [
+        {
+          "name": "Irving Berlin",
+          "anv": "I. Berlin",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 508131,
+          "resource_url": "https://api.discogs.com/artists/508131"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "My Favorite Things",
+      "extraartists": [
+        {
+          "name": "Rodgers & Hammerstein",
+          "anv": "O. Hammerstein II - R. Rodgers",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 284099,
+          "resource_url": "https://api.discogs.com/artists/284099"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "The Best Gift",
+      "extraartists": [
+        {
+          "name": "Lan O'Kun",
+          "anv": "L. O'Kun",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 893062,
+          "resource_url": "https://api.discogs.com/artists/893062"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Sleep In Heavenly Peace (Silent Night)",
+      "extraartists": [
+        {
+          "name": "Franz Gruber",
+          "anv": "F. Guber",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 595046,
+          "resource_url": "https://api.discogs.com/artists/595046"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Gounod's Ave Maria",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "O Little Town Of Bethlehem",
+      "extraartists": [
+        {
+          "name": "Jack Gold",
+          "anv": "J. Gold",
+          "join": "",
+          "role": "Adapted By [New Adaptation By]",
+          "tracks": "",
+          "id": 269325,
+          "resource_url": "https://api.discogs.com/artists/269325"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "I Wonder As I Wander",
+      "extraartists": [
+        {
+          "name": "John Jacob Niles",
+          "anv": "J. J. Niles",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 439807,
+          "resource_url": "https://api.discogs.com/artists/439807"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "The Lord's Prayer",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Marty Paich",
+      "anv": "",
+      "join": "",
+      "role": "Arranged By, Conductor",
+      "tracks": "A1 to A5",
+      "id": 193583,
+      "resource_url": "https://api.discogs.com/artists/193583"
+    },
+    {
+      "name": "Ray Ellis",
+      "anv": "",
+      "join": "",
+      "role": "Arranged By, Conductor",
+      "tracks": "B1, B2, B4, B5",
+      "id": 260733,
+      "resource_url": "https://api.discogs.com/artists/260733"
+    },
+    {
+      "name": "Jack Lattig",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 410169,
+      "resource_url": "https://api.discogs.com/artists/410169"
+    },
+    {
+      "name": "Raphael Valentin",
+      "anv": "Rafael O. Valentin",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 510965,
+      "resource_url": "https://api.discogs.com/artists/510965"
+    },
+    {
+      "name": "Horn / Griner",
+      "anv": "",
+      "join": "",
+      "role": "Photography [Cover Photo]",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Ettore Stratta",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "B1, B2, B4, B5",
+      "id": 452030,
+      "resource_url": "https://api.discogs.com/artists/452030"
+    },
+    {
+      "name": "Jack Gold",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "A1 to A5, B3",
+      "id": 269325,
+      "resource_url": "https://api.discogs.com/artists/269325"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/8NTPJbYe1dzHizXj-L7KAzcBfoZbAuk-fOC4i1SFE5o/rs:fit/g:sm/q:90/h:355/w:369/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTA5/ODYtMTQyNzEyMDE1/Mi02Nzc1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/8NTPJbYe1dzHizXj-L7KAzcBfoZbAuk-fOC4i1SFE5o/rs:fit/g:sm/q:90/h:355/w:369/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTA5/ODYtMTQyNzEyMDE1/Mi02Nzc1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/0xZwcZ8VwrpReKSOaHU_xMrWfdHaUm0rfReutNE6jEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTA5/ODYtMTQyNzEyMDE1/Mi02Nzc1LmpwZWc.jpeg",
+      "width": 369,
+      "height": 355
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/9iK-EPQ0r1X-p9e2b4op1CYipKg7i0LuGhIejrE5jaw/rs:fit/g:sm/q:90/h:364/w:391/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTA5/ODYtMTQyNzEyMDE1/Ny0xMDUyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/9iK-EPQ0r1X-p9e2b4op1CYipKg7i0LuGhIejrE5jaw/rs:fit/g:sm/q:90/h:364/w:391/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTA5/ODYtMTQyNzEyMDE1/Ny0xMDUyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/5NTMTzDrtWKpVF3L0uvpDuRQN2t37hUU__3G00Vqq3c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTA5/ODYtMTQyNzEyMDE1/Ny0xMDUyLmpwZWc.jpeg",
+      "width": 391,
+      "height": 364
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/0yy27cbh4iwa_6rSKlJGiDWap2lOTH7-oOSzAUnRmlg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTA5/ODYtMTU2NjMxNTY1/My03NDg4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/0yy27cbh4iwa_6rSKlJGiDWap2lOTH7-oOSzAUnRmlg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTA5/ODYtMTU2NjMxNTY1/My03NDg4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/ETPJvqJXhxZaJHKG1VOpvuAin_cnRD-Y4wTctl7qNCA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTA5/ODYtMTU2NjMxNTY1/My03NDg4LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/RfWbUQ_q1Vu-CmWv0Khhdw8tnKEMVfYprsOQod1R7Gk/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTA5/ODYtMTU2NjMxNTY1/My03NzQ2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/RfWbUQ_q1Vu-CmWv0Khhdw8tnKEMVfYprsOQod1R7Gk/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTA5/ODYtMTU2NjMxNTY1/My03NzQ2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/SxNYRyZQ1xCDt8aKAKsmmOx9-RSVtEfmmXZMqE_HTao/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTA5/ODYtMTU2NjMxNTY1/My03NzQ2LmpwZWc.jpeg",
+      "width": 600,
+      "height": 588
+    }
+  ],
+  "thumb": "https://i.discogs.com/0xZwcZ8VwrpReKSOaHU_xMrWfdHaUm0rfReutNE6jEg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4MTA5/ODYtMTQyNzEyMDE1/Mi02Nzc1LmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

@@ -1,0 +1,923 @@
+{
+  "id": 19040038,
+  "status": "Accepted",
+  "year": 1985,
+  "resource_url": "https://api.discogs.com/releases/19040038",
+  "uri": "https://www.discogs.com/release/19040038-Sade-Promise",
+  "artists": [
+    {
+      "name": "Sade",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 19731,
+      "resource_url": "https://api.discogs.com/artists/19731",
+      "thumbnail_url": "https://i.discogs.com/EKLCzSBj-FM3OP9CM29QpcpTh5CBYXee5UsRvteoVNg/rs:fit/g:sm/q:90/h:432/w:537/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE5NzMx/LTEyMTc4NTg3MTcu/anBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Sade",
+  "labels": [
+    {
+      "name": "Portrait",
+      "catno": "FR 40263",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 5056,
+      "resource_url": "https://api.discogs.com/labels/5056",
+      "thumbnail_url": "https://i.discogs.com/Al4qnpadz-6ZKaicORstcbFUnKc117CNQcvRcndlg60/rs:fit/g:sm/q:90/h:192/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTUwNTYt/MTcwODAzNzA3Ny01/MDcxLmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Modern Media Ltd.",
+      "catno": "",
+      "entity_type": "37",
+      "entity_type_name": "Produced For",
+      "id": 485667,
+      "resource_url": "https://api.discogs.com/labels/485667"
+    },
+    {
+      "name": "Studio Miraval",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 271897,
+      "resource_url": "https://api.discogs.com/labels/271897",
+      "thumbnail_url": "https://i.discogs.com/4bQwyKJBhC1G_ZN0HNtTed-2uXdCkNhOAtDT2LPXiy4/rs:fit/g:sm/q:90/h:370/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MTg5/Ny0xNjY5NjUyNTEy/LTQyNzcucG5n.jpeg"
+    },
+    {
+      "name": "Power Plant Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 270991,
+      "resource_url": "https://api.discogs.com/labels/270991",
+      "thumbnail_url": "https://i.discogs.com/0cnZp1zsG4oOg77cb_OlMOmayoT9A-tlTWMA-h147Qs/rs:fit/g:sm/q:90/h:205/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MDk5/MS0xNDQ3ODgzMTQ3/LTMwMDguanBlZw.jpeg"
+    },
+    {
+      "name": "Frankford/Wayne Mastering Labs",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 199325,
+      "resource_url": "https://api.discogs.com/labels/199325",
+      "thumbnail_url": "https://i.discogs.com/HDnR6W2DaHBbVKqQpAiIPrI9supkUsjLZSQtVQRnj2o/rs:fit/g:sm/q:90/h:242/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5OTMy/NS0xNDUyNTk3Nzcy/LTU1MjAuanBlZw.jpeg"
+    },
+    {
+      "name": "Silver Angel Music, Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 425775,
+      "resource_url": "https://api.discogs.com/labels/425775"
+    },
+    {
+      "name": "Silver Angel Music, Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 425775,
+      "resource_url": "https://api.discogs.com/labels/425775"
+    },
+    {
+      "name": "CBS Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 19936,
+      "resource_url": "https://api.discogs.com/labels/19936",
+      "thumbnail_url": "https://i.discogs.com/SaMj-8Lf2hSdztEzV8bVbntzoC8mSP105LGUjsUL91o/rs:fit/g:sm/q:90/h:72/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5OTM2/LTE3NjY5MjIzNzMt/OTkyNy5qcGVn.jpeg"
+    },
+    {
+      "name": "CBS Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 19936,
+      "resource_url": "https://api.discogs.com/labels/19936",
+      "thumbnail_url": "https://i.discogs.com/SaMj-8Lf2hSdztEzV8bVbntzoC8mSP105LGUjsUL91o/rs:fit/g:sm/q:90/h:72/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5OTM2/LTE3NjY5MjIzNzMt/OTkyNy5qcGVn.jpeg"
+    },
+    {
+      "name": "Portrait Records (4)",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 365528,
+      "resource_url": "https://api.discogs.com/labels/365528"
+    },
+    {
+      "name": "CBS Inc.",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 211334,
+      "resource_url": "https://api.discogs.com/labels/211334",
+      "thumbnail_url": "https://i.discogs.com/rdTxtYxA-MAPh0OPIDley7EiO7NaLmgz7Rpp7xuzkgA/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxMTMz/NC0xNDg2NDIyMDYw/LTExMzguanBlZw.jpeg"
+    },
+    {
+      "name": "CBS Inc.",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 211334,
+      "resource_url": "https://api.discogs.com/labels/211334",
+      "thumbnail_url": "https://i.discogs.com/rdTxtYxA-MAPh0OPIDley7EiO7NaLmgz7Rpp7xuzkgA/rs:fit/g:sm/q:90/h:225/w:225/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxMTMz/NC0xNDg2NDIyMDYw/LTExMzguanBlZw.jpeg"
+    },
+    {
+      "name": "Frankford/Wayne Mastering Labs",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 199325,
+      "resource_url": "https://api.discogs.com/labels/199325",
+      "thumbnail_url": "https://i.discogs.com/HDnR6W2DaHBbVKqQpAiIPrI9supkUsjLZSQtVQRnj2o/rs:fit/g:sm/q:90/h:242/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5OTMy/NS0xNDUyNTk3Nzcy/LTU1MjAuanBlZw.jpeg"
+    },
+    {
+      "name": "Columbia Records Pressing Plant, Carrollton, GA",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 442751,
+      "resource_url": "https://api.discogs.com/labels/442751",
+      "thumbnail_url": "https://i.discogs.com/7rjhP1pJN9r_Qag8oJ5b5GT4nv-e7KvwApAXIQiHJgo/rs:fit/g:sm/q:90/h:401/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQ0Mjc1/MS0xNzA4NDIyMjg1/LTg4NjguanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Repress"
+      ]
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 1882,
+    "want": 358,
+    "rating": {
+      "count": 119,
+      "average": 4.5
+    },
+    "submitter": {
+      "username": "joseph_blough",
+      "resource_url": "https://api.discogs.com/users/joseph_blough"
+    },
+    "contributors": [
+      {
+        "username": "joseph_blough",
+        "resource_url": "https://api.discogs.com/users/joseph_blough"
+      },
+      {
+        "username": "PetersonTaylor",
+        "resource_url": "https://api.discogs.com/users/PetersonTaylor"
+      },
+      {
+        "username": "bobEE",
+        "resource_url": "https://api.discogs.com/users/bobEE"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2021-06-06T09:03:18-07:00",
+  "date_changed": "2024-08-08T21:02:13-07:00",
+  "num_for_sale": 18,
+  "lowest_price": 14,
+  "master_id": 43946,
+  "master_url": "https://api.discogs.com/masters/43946",
+  "title": "Promise",
+  "country": "US",
+  "released": "1985",
+  "notes": "Release variant, similar to other \"G\" runout releases, differs in style and color of title and (R) on center labels.\n\nRecorded at Power Plant Willesden and Studio Miraval France.\nMastered [..] at Frankford/Wayne Mastering Labs, New York, NY\n\nⓅ1985 CBS Records\n©1985 CBS Records.\nAll songs: ©1985 Silver Angel Music, Inc. (ASCAP).",
+  "released_formatted": "1985",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "0 7464-40263-1",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "074644026313",
+      "description": "Scanned"
+    },
+    {
+      "type": "Pressing Plant ID",
+      "value": "G",
+      "description": "Runouts"
+    },
+    {
+      "type": "Rights Society",
+      "value": "ASCAP"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL 40263",
+      "description": "Side A matrix, center label"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BL 40263",
+      "description": "Side B matrix, center label"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "AL-40263-1E  HERbiE Jr :-)  G1  G13 MASTERING BY FRANKFORD/WAYNE NEW YORK",
+      "description": "Side A runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "BL-40263-1D  HERbiE Jr :-)  G1  C13 MASTERING BY FRANKFORD/WAYNE NEW YORK",
+      "description": "Side B runout"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=IjpjnOIHIdI",
+      "title": "War of the Hearts",
+      "description": "Provided to YouTube by Sony Music UK\n\nWar of the Hearts · Sade\n\nPromise\n\n℗ 1985 Sony Music Entertainment UK Limited\n\nReleased on: 1985-11-04\n\nVocal: Jake Jacas\nGuitar: Carlos Bonell\nComposer, Lyricist, Producer: Sade Adu\nGuitar, Saxophone, Composer, Lyric",
+      "duration": 408,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=9Qytr6VkNLQ",
+      "title": "SADE - \"PROMISE\" - FULL ALBUM - SIDE-A - ORIGINAL VINYL 1985 - REMASTERED HQ AUDIO* - 4K/UHD",
+      "description": "If you enjoy what I do, you can say \"Thank You\" by buying me a coffee at the following link:\nhttps://buymeacoffee.com/noname.vinyl...\nThank you so much! 🤍\n\nReleased - 1985 - Netherlands / Holland / Europe\nVinyl LP - Album Club Edition - Gatefold Sleeve - ",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=xSlI5THWCmk",
+      "title": "SADE - \"PROMISE\" - FULL ALBUM - SIDE-B - ORIGINAL VINYL 1985 - REMASTERED HQ AUDIO* - 4K/UHD",
+      "description": "If you enjoy what I do, you can say \"Thank You\" by buying me a coffee at the following link:\nhttps://buymeacoffee.com/noname.vinyl.recordings\nThank you so much! 🤍\n\nReleased - 1985 - Netherlands / Holland / Europe\nVinyl LP - Album Club Edition - Gatefold S",
+      "duration": 0,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Jazz",
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Jazz-Funk",
+    "Soul"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Is It A Crime",
+      "extraartists": [
+        {
+          "name": "Andrew Hale",
+          "anv": "Hale",
+          "join": "",
+          "role": "Music By, Written-By",
+          "tracks": "",
+          "id": 209279,
+          "resource_url": "https://api.discogs.com/artists/209279"
+        },
+        {
+          "name": "Sade Adu",
+          "anv": "Adu",
+          "join": "",
+          "role": "Music By, Written-By",
+          "tracks": "",
+          "id": 482893,
+          "resource_url": "https://api.discogs.com/artists/482893"
+        },
+        {
+          "name": "Stuart Matthewman",
+          "anv": "Matthewman",
+          "join": "",
+          "role": "Music By, Written-By",
+          "tracks": "",
+          "id": 9049,
+          "resource_url": "https://api.discogs.com/artists/9049"
+        },
+        {
+          "name": "Robin Millar",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 83390,
+          "resource_url": "https://api.discogs.com/artists/83390"
+        }
+      ],
+      "duration": "6:18"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "The Sweetest Taboo",
+      "extraartists": [
+        {
+          "name": "Sade Adu",
+          "anv": "Adu",
+          "join": "",
+          "role": "Music By",
+          "tracks": "",
+          "id": 482893,
+          "resource_url": "https://api.discogs.com/artists/482893"
+        },
+        {
+          "name": "Robin Millar",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 83390,
+          "resource_url": "https://api.discogs.com/artists/83390"
+        },
+        {
+          "name": "Martin Ditcham",
+          "anv": "Ditcham",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 252445,
+          "resource_url": "https://api.discogs.com/artists/252445"
+        },
+        {
+          "name": "Sade Adu",
+          "anv": "Adu",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 482893,
+          "resource_url": "https://api.discogs.com/artists/482893"
+        }
+      ],
+      "duration": "4:31"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "War Of The Hearts",
+      "extraartists": [
+        {
+          "name": "Sade Adu",
+          "anv": "Adu",
+          "join": "",
+          "role": "Music By, Written-By",
+          "tracks": "",
+          "id": 482893,
+          "resource_url": "https://api.discogs.com/artists/482893"
+        },
+        {
+          "name": "Stuart Matthewman",
+          "anv": "Matthewman",
+          "join": "",
+          "role": "Music By, Written-By",
+          "tracks": "",
+          "id": 9049,
+          "resource_url": "https://api.discogs.com/artists/9049"
+        },
+        {
+          "name": "Robin Millar",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 83390,
+          "resource_url": "https://api.discogs.com/artists/83390"
+        }
+      ],
+      "duration": "6:46"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Jezebel",
+      "extraartists": [
+        {
+          "name": "Sade Adu",
+          "anv": "Adu",
+          "join": "",
+          "role": "Music By, Written-By",
+          "tracks": "",
+          "id": 482893,
+          "resource_url": "https://api.discogs.com/artists/482893"
+        },
+        {
+          "name": "Stuart Matthewman",
+          "anv": "Matthewman",
+          "join": "",
+          "role": "Music By, Written-By",
+          "tracks": "",
+          "id": 9049,
+          "resource_url": "https://api.discogs.com/artists/9049"
+        },
+        {
+          "name": "Robin Millar",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 83390,
+          "resource_url": "https://api.discogs.com/artists/83390"
+        }
+      ],
+      "duration": "5:27"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Mr. Wrong",
+      "extraartists": [
+        {
+          "name": "Andrew Hale",
+          "anv": "Hale",
+          "join": "",
+          "role": "Music By, Written-By",
+          "tracks": "",
+          "id": 209279,
+          "resource_url": "https://api.discogs.com/artists/209279"
+        },
+        {
+          "name": "Paul S. Denman",
+          "anv": "Denman",
+          "join": "",
+          "role": "Music By, Written-By",
+          "tracks": "",
+          "id": 306864,
+          "resource_url": "https://api.discogs.com/artists/306864"
+        },
+        {
+          "name": "Sade Adu",
+          "anv": "Adu",
+          "join": "",
+          "role": "Music By, Written-By",
+          "tracks": "",
+          "id": 482893,
+          "resource_url": "https://api.discogs.com/artists/482893"
+        },
+        {
+          "name": "Stuart Matthewman",
+          "anv": "Matthewman",
+          "join": "",
+          "role": "Music By, Written-By",
+          "tracks": "",
+          "id": 9049,
+          "resource_url": "https://api.discogs.com/artists/9049"
+        },
+        {
+          "name": "Robin Millar",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 83390,
+          "resource_url": "https://api.discogs.com/artists/83390"
+        }
+      ],
+      "duration": "2:46"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Never As Good As The First Time",
+      "extraartists": [
+        {
+          "name": "Sade Adu",
+          "anv": "Adu",
+          "join": "",
+          "role": "Music By, Written-By",
+          "tracks": "",
+          "id": 482893,
+          "resource_url": "https://api.discogs.com/artists/482893"
+        },
+        {
+          "name": "Stuart Matthewman",
+          "anv": "Matthewman",
+          "join": "",
+          "role": "Music By, Written-By",
+          "tracks": "",
+          "id": 9049,
+          "resource_url": "https://api.discogs.com/artists/9049"
+        },
+        {
+          "name": "Ben Rogan",
+          "anv": "Rogan",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 217689,
+          "resource_url": "https://api.discogs.com/artists/217689"
+        },
+        {
+          "name": "Mike Pela",
+          "anv": "Pela",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 176429,
+          "resource_url": "https://api.discogs.com/artists/176429"
+        },
+        {
+          "name": "Robin Millar",
+          "anv": "Millar",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 83390,
+          "resource_url": "https://api.discogs.com/artists/83390"
+        },
+        {
+          "name": "Sade",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 19731,
+          "resource_url": "https://api.discogs.com/artists/19731"
+        }
+      ],
+      "duration": "4:57"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Fear",
+      "extraartists": [
+        {
+          "name": "Sade Adu",
+          "anv": "Adu",
+          "join": "",
+          "role": "Music By, Written-By",
+          "tracks": "",
+          "id": 482893,
+          "resource_url": "https://api.discogs.com/artists/482893"
+        },
+        {
+          "name": "Stuart Matthewman",
+          "anv": "Matthewman",
+          "join": "",
+          "role": "Music By, Written-By",
+          "tracks": "",
+          "id": 9049,
+          "resource_url": "https://api.discogs.com/artists/9049"
+        },
+        {
+          "name": "Robin Millar",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 83390,
+          "resource_url": "https://api.discogs.com/artists/83390"
+        }
+      ],
+      "duration": "4:06"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Tar Baby",
+      "extraartists": [
+        {
+          "name": "Sade Adu",
+          "anv": "Adu",
+          "join": "",
+          "role": "Music By, Written-By",
+          "tracks": "",
+          "id": 482893,
+          "resource_url": "https://api.discogs.com/artists/482893"
+        },
+        {
+          "name": "Stuart Matthewman",
+          "anv": "Matthewman",
+          "join": "",
+          "role": "Music By, Written-By",
+          "tracks": "",
+          "id": 9049,
+          "resource_url": "https://api.discogs.com/artists/9049"
+        },
+        {
+          "name": "Robin Millar",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 83390,
+          "resource_url": "https://api.discogs.com/artists/83390"
+        }
+      ],
+      "duration": "3:55"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Maureen",
+      "extraartists": [
+        {
+          "name": "Mike Pela",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 176429,
+          "resource_url": "https://api.discogs.com/artists/176429"
+        },
+        {
+          "name": "Andrew Hale",
+          "anv": "Hale",
+          "join": "",
+          "role": "Music By, Written-By",
+          "tracks": "",
+          "id": 209279,
+          "resource_url": "https://api.discogs.com/artists/209279"
+        },
+        {
+          "name": "Paul S. Denman",
+          "anv": "Denman",
+          "join": "",
+          "role": "Music By, Written-By",
+          "tracks": "",
+          "id": 306864,
+          "resource_url": "https://api.discogs.com/artists/306864"
+        },
+        {
+          "name": "Sade Adu",
+          "anv": "Adu",
+          "join": "",
+          "role": "Music By, Written-By",
+          "tracks": "",
+          "id": 482893,
+          "resource_url": "https://api.discogs.com/artists/482893"
+        },
+        {
+          "name": "Ben Rogan",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 217689,
+          "resource_url": "https://api.discogs.com/artists/217689"
+        },
+        {
+          "name": "Sade",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 19731,
+          "resource_url": "https://api.discogs.com/artists/19731"
+        }
+      ],
+      "duration": "4:18"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Sade Adu",
+      "anv": "Sade",
+      "join": "",
+      "role": "Arranged By",
+      "tracks": "",
+      "id": 482893,
+      "resource_url": "https://api.discogs.com/artists/482893"
+    },
+    {
+      "name": "Nick Ingman",
+      "anv": "Nick Ingham",
+      "join": "",
+      "role": "Arranged By [Strings]",
+      "tracks": "B3, B4",
+      "id": 289278,
+      "resource_url": "https://api.discogs.com/artists/289278"
+    },
+    {
+      "name": "Paul S. Denman",
+      "anv": "Paul S Denman",
+      "join": "",
+      "role": "Bass Guitar",
+      "tracks": "",
+      "id": 306864,
+      "resource_url": "https://api.discogs.com/artists/306864"
+    },
+    {
+      "name": "Dave Early",
+      "anv": "",
+      "join": "",
+      "role": "Drums, Percussion",
+      "tracks": "",
+      "id": 263064,
+      "resource_url": "https://api.discogs.com/artists/263064"
+    },
+    {
+      "name": "Mike Pela",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Production]",
+      "tracks": "",
+      "id": 176429,
+      "resource_url": "https://api.discogs.com/artists/176429"
+    },
+    {
+      "name": "Carlos Bonell",
+      "anv": "Carlos Bonnell",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "B3",
+      "id": 361823,
+      "resource_url": "https://api.discogs.com/artists/361823"
+    },
+    {
+      "name": "Stuart Matthewman",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "",
+      "id": 9049,
+      "resource_url": "https://api.discogs.com/artists/9049"
+    },
+    {
+      "name": "Andrew Hale",
+      "anv": "",
+      "join": "",
+      "role": "Keyboards",
+      "tracks": "",
+      "id": 209279,
+      "resource_url": "https://api.discogs.com/artists/209279"
+    },
+    {
+      "name": "Herb Powers Jr.",
+      "anv": "Herbie Jr",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 59453,
+      "resource_url": "https://api.discogs.com/artists/59453"
+    },
+    {
+      "name": "Herb Powers Jr.",
+      "anv": "Herb Powers, Jr.",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 59453,
+      "resource_url": "https://api.discogs.com/artists/59453"
+    },
+    {
+      "name": "Martin Ditcham",
+      "anv": "",
+      "join": "",
+      "role": "Percussion",
+      "tracks": "",
+      "id": 252445,
+      "resource_url": "https://api.discogs.com/artists/252445"
+    },
+    {
+      "name": "Andrew Hale",
+      "anv": "",
+      "join": "",
+      "role": "Performer [Sade Are]",
+      "tracks": "",
+      "id": 209279,
+      "resource_url": "https://api.discogs.com/artists/209279"
+    },
+    {
+      "name": "Paul S. Denman",
+      "anv": "Paul S Denman",
+      "join": "",
+      "role": "Performer [Sade Are]",
+      "tracks": "",
+      "id": 306864,
+      "resource_url": "https://api.discogs.com/artists/306864"
+    },
+    {
+      "name": "Sade Adu",
+      "anv": "",
+      "join": "",
+      "role": "Performer [Sade Are]",
+      "tracks": "",
+      "id": 482893,
+      "resource_url": "https://api.discogs.com/artists/482893"
+    },
+    {
+      "name": "Stuart Matthewman",
+      "anv": "",
+      "join": "",
+      "role": "Performer [Sade Are]",
+      "tracks": "",
+      "id": 9049,
+      "resource_url": "https://api.discogs.com/artists/9049"
+    },
+    {
+      "name": "Stuart Matthewman",
+      "anv": "",
+      "join": "",
+      "role": "Saxophone",
+      "tracks": "",
+      "id": 9049,
+      "resource_url": "https://api.discogs.com/artists/9049"
+    },
+    {
+      "name": "Pete Beachill",
+      "anv": "",
+      "join": "",
+      "role": "Trombone",
+      "tracks": "",
+      "id": 361824,
+      "resource_url": "https://api.discogs.com/artists/361824"
+    },
+    {
+      "name": "Terry Bailey",
+      "anv": "",
+      "join": "",
+      "role": "Trumpet",
+      "tracks": "",
+      "id": 263066,
+      "resource_url": "https://api.discogs.com/artists/263066"
+    },
+    {
+      "name": "Jake Jacas",
+      "anv": "",
+      "join": "",
+      "role": "Vocals",
+      "tracks": "",
+      "id": 237553,
+      "resource_url": "https://api.discogs.com/artists/237553"
+    },
+    {
+      "name": "Sade Adu",
+      "anv": "",
+      "join": "",
+      "role": "Vocals",
+      "tracks": "",
+      "id": 482893,
+      "resource_url": "https://api.discogs.com/artists/482893"
+    },
+    {
+      "name": "Sade Adu",
+      "anv": "Adu",
+      "join": "",
+      "role": "Words By",
+      "tracks": "",
+      "id": 482893,
+      "resource_url": "https://api.discogs.com/artists/482893"
+    }
+  ],
+  "images": [
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ZldRXlOdjfIAtD7yxUHS-TMnOnaCb6FkNqGFE6CvuqM/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDQw/MDM4LTE2MjI5OTY0/ODItMzg3Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ZldRXlOdjfIAtD7yxUHS-TMnOnaCb6FkNqGFE6CvuqM/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDQw/MDM4LTE2MjI5OTY0/ODItMzg3Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ElyZ19ExRtWjbpyvj2TbDA3PLeSvRxRh8Jhg_ibh8nQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDQw/MDM4LTE2MjI5OTY0/ODItMzg3Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 588
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/650lYQrDhvz2t221qk_qBNZ4Jfuax7A68ZLtq6z0pWg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDQw/MDM4LTE2MjI5OTY0/ODEtNzkwNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/650lYQrDhvz2t221qk_qBNZ4Jfuax7A68ZLtq6z0pWg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDQw/MDM4LTE2MjI5OTY0/ODEtNzkwNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/c6CFRl8xP9a7qw9EwexqYNiBj-6v8JhcLRt4iZqmzUI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDQw/MDM4LTE2MjI5OTY0/ODEtNzkwNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/V0lxunLdC4uK5_H0OawmwoAcm7DBPmmHfMjARk2FE1k/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDQw/MDM4LTE2MjI5OTY0/ODItMjQ3MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/V0lxunLdC4uK5_H0OawmwoAcm7DBPmmHfMjARk2FE1k/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDQw/MDM4LTE2MjI5OTY0/ODItMjQ3MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/FHRNgneOQMY7YgZBPjSYgW24SM_FxHr9XO2WRafp5gM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDQw/MDM4LTE2MjI5OTY0/ODItMjQ3MC5qcGVn.jpeg",
+      "width": 600,
+      "height": 590
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/eK7-nICoPGUYEemAxZH-IpruEcN6ILzuOAtCwOOOJh4/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDQw/MDM4LTE2MjI5OTY0/ODItOTc1NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/eK7-nICoPGUYEemAxZH-IpruEcN6ILzuOAtCwOOOJh4/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDQw/MDM4LTE2MjI5OTY0/ODItOTc1NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/e9v417jhyVhSUjvuuFrg0RnmpFeo_jhCacGCZ1HGCjE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDQw/MDM4LTE2MjI5OTY0/ODItOTc1NS5qcGVn.jpeg",
+      "width": 600,
+      "height": 586
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/3LTgz6IYPEmBlgSqMHrQjD6ae1dX70HjntkiQR_JVd4/rs:fit/g:sm/q:90/h:600/w:554/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDQw/MDM4LTE2MjI5OTY0/ODQtODMxOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/3LTgz6IYPEmBlgSqMHrQjD6ae1dX70HjntkiQR_JVd4/rs:fit/g:sm/q:90/h:600/w:554/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDQw/MDM4LTE2MjI5OTY0/ODQtODMxOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/-itvhR7uR1UsCHUM9C9lAXFpGaSpukjho6RFNAyzPk4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDQw/MDM4LTE2MjI5OTY0/ODQtODMxOS5qcGVn.jpeg",
+      "width": 554,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/8a_PTt5YPaWs_IWd61hZR7F3vSYT_nicHEWEpaJJsT4/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDQw/MDM4LTE2MjI5OTY0/ODItMzI0NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/8a_PTt5YPaWs_IWd61hZR7F3vSYT_nicHEWEpaJJsT4/rs:fit/g:sm/q:90/h:600/w:582/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDQw/MDM4LTE2MjI5OTY0/ODItMzI0NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/k42KiWqcG93pagFL2W8jYEG6tPDvQB8UbrITXSpwYhc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDQw/MDM4LTE2MjI5OTY0/ODItMzI0NC5qcGVn.jpeg",
+      "width": 582,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/ElyZ19ExRtWjbpyvj2TbDA3PLeSvRxRh8Jhg_ibh8nQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDQw/MDM4LTE2MjI5OTY0/ODItMzg3Ny5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}
