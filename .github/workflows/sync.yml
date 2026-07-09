@@ -13,6 +13,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: sync-discogs-data
@@ -47,16 +48,27 @@ jobs:
 
       # data/ and public/covers/ ARE the database (see ARCHITECTURE.md) —
       # committing them here is what makes the static build see new data.
-      # Cloudflare Pages / Vercel watch this repo and rebuild on push, so
-      # there's no separate build/deploy step in this workflow.
       - name: Commit and push if changed
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data public/covers
           if git diff --cached --quiet; then
             echo "No changes."
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "chore: sync Discogs data ($(date -u +%Y-%m-%d))"
             git push
+            echo "pushed=true" >> "$GITHUB_OUTPUT"
           fi
+
+      # A push made with the default GITHUB_TOKEN does NOT trigger other
+      # workflows' `on: push` (GitHub blocks that specifically to avoid
+      # workflow loops) — so deploy.yml wouldn't otherwise notice this
+      # commit. Trigger it explicitly instead.
+      - name: Trigger deploy
+        if: steps.commit.outputs.pushed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy.yml --repo "$GITHUB_REPOSITORY"
