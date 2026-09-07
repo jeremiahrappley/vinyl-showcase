@@ -5515,6 +5515,60 @@
     "notes": ""
   },
   {
+    "id": 37793289,
+    "resource_url": "https://api.discogs.com/users/jrappley/wants/37793289",
+    "date_added": "2026-09-06T13:31:19-07:00",
+    "basic_information": {
+      "id": 37793289,
+      "master_id": 4263210,
+      "master_url": "https://api.discogs.com/masters/4263210",
+      "resource_url": "https://api.discogs.com/releases/37793289",
+      "title": "Can We Do It All Again?",
+      "year": 2026,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP"
+          ],
+          "text": "Transparent Clear"
+        }
+      ],
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 1042993,
+          "resource_url": "https://api.discogs.com/artists/1042993"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Solotoko",
+          "catno": "SOLOTOKO250",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 1634419,
+          "resource_url": "https://api.discogs.com/labels/1634419"
+        }
+      ],
+      "thumb": "https://i.discogs.com/4ntI4NuLsPXcNBhrwrg24dynpAZj2U1pJRp0Cn73VvE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzkz/Mjg5LTE3ODMyNTA5/NzQtMTUyMy5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/lQWvr6pQMekPZee88F3lTvDF6OQYZx229FxUo33IH6k/rs:fit/g:sm/q:90/h:529/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzkz/Mjg5LTE3ODMyNTA5/NzQtMTUyMy5qcGVn.jpeg",
+      "genres": [
+        "Electronic"
+      ],
+      "styles": [
+        "House"
+      ]
+    },
+    "rating": 0,
+    "notes": ""
+  },
+  {
     "id": 5404536,
     "resource_url": "https://api.discogs.com/users/jrappley/wants/5404536",
     "date_added": "2025-09-10T14:35:44-07:00",
