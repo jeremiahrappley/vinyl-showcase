@@ -4926,6 +4926,119 @@
     "notes": ""
   },
   {
+    "id": 38465835,
+    "resource_url": "https://api.discogs.com/users/jrappley/wants/38465835",
+    "date_added": "2026-09-19T09:08:38-07:00",
+    "basic_information": {
+      "id": 38465835,
+      "master_id": 4348725,
+      "master_url": "https://api.discogs.com/masters/4348725",
+      "resource_url": "https://api.discogs.com/releases/38465835",
+      "title": "Estrus",
+      "year": 2026,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP"
+          ],
+          "text": "Grape, Tourmaline"
+        }
+      ],
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Pretty Swede Records",
+          "catno": "2337507168",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 2859047,
+          "resource_url": "https://api.discogs.com/labels/2859047"
+        }
+      ],
+      "thumb": "https://i.discogs.com/jXWKszsOjo3Ft5Z66L--421ne6RhHlC1dTGRW7T_hcM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDY1/ODM1LTE3ODk3NjM0/NzQtMTM2MC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/pq4I-K6IC67HRSTPzuLZx9EviRLlFrpgVmgIxSUd0Hg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDY1/ODM1LTE3ODk3NjM0/NzQtMTM2MC5qcGVn.jpeg",
+      "genres": [
+        "Electronic",
+        "Pop"
+      ],
+      "styles": [
+        "Dance-pop",
+        "Eurodance"
+      ]
+    },
+    "rating": 0,
+    "notes": ""
+  },
+  {
+    "id": 38471718,
+    "resource_url": "https://api.discogs.com/users/jrappley/wants/38471718",
+    "date_added": "2026-09-19T09:07:25-07:00",
+    "basic_information": {
+      "id": 38471718,
+      "master_id": 4348725,
+      "master_url": "https://api.discogs.com/masters/4348725",
+      "resource_url": "https://api.discogs.com/releases/38471718",
+      "title": "Estrus",
+      "year": 2026,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Special Edition"
+          ],
+          "text": "Amethyst Vinyl"
+        }
+      ],
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3506702,
+          "resource_url": "https://api.discogs.com/artists/3506702"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Pretty Swede Records",
+          "catno": "823375071648",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 2859047,
+          "resource_url": "https://api.discogs.com/labels/2859047"
+        }
+      ],
+      "thumb": "https://i.discogs.com/fiBtlcwHT2Wgf10LrApvWTzC0w-8nC3qLnLuxmQbpIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDcx/NzE4LTE3ODk4MzE3/MTYtMTQ4Ny5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/7Z1rEbRUPUyDfIvg6NJ_-YVYBvAqcJUnmc51DGwX0p4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDcx/NzE4LTE3ODk4MzE3/MTYtMTQ4Ny5qcGVn.jpeg",
+      "genres": [
+        "Electronic",
+        "Pop"
+      ],
+      "styles": [
+        "Dance-pop",
+        "Eurodance"
+      ]
+    },
+    "rating": 0,
+    "notes": ""
+  },
+  {
     "id": 7937548,
     "resource_url": "https://api.discogs.com/users/jrappley/wants/7937548",
     "date_added": "2025-12-17T16:52:23-08:00",
