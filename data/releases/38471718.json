@@ -1,0 +1,213 @@
+{
+  "id": 38471718,
+  "status": "Accepted",
+  "year": 2026,
+  "resource_url": "https://api.discogs.com/releases/38471718",
+  "uri": "https://www.discogs.com/release/38471718-Tove-Lo-Estrus",
+  "artists": [
+    {
+      "name": "Tove Lo",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 3506702,
+      "resource_url": "https://api.discogs.com/artists/3506702",
+      "thumbnail_url": "https://i.discogs.com/UIpRDagdBBXSUeWzD11RHRU63CAWsPQxneJaZsec-tU/rs:fit/g:sm/q:90/h:600/w:511/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM1MDY3/MDItMTc4OTEzMDc1/Mi04MzQ5LnBuZw.jpeg"
+    }
+  ],
+  "artists_sort": "Tove Lo",
+  "labels": [
+    {
+      "name": "Pretty Swede Records",
+      "catno": "823375071648",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 2859047,
+      "resource_url": "https://api.discogs.com/labels/2859047",
+      "thumbnail_url": "https://i.discogs.com/7Tkc1Bja2ZU3cLvteW-xnfNeA-uu3uS7WLMMIGlr6wI/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4NTkw/NDctMTcxNjc3MDc5/Mi0yNDQ4LmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Special Edition"
+      ],
+      "text": "Amethyst Vinyl"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 52,
+    "want": 5,
+    "rating": {
+      "count": 3,
+      "average": 5
+    },
+    "submitter": {
+      "username": "alvinwcs",
+      "resource_url": "https://api.discogs.com/users/alvinwcs"
+    },
+    "contributors": [
+      {
+        "username": "alvinwcs",
+        "resource_url": "https://api.discogs.com/users/alvinwcs"
+      },
+      {
+        "username": "Mylene-Clouseau",
+        "resource_url": "https://api.discogs.com/users/Mylene-Clouseau"
+      },
+      {
+        "username": "lanebecker",
+        "resource_url": "https://api.discogs.com/users/lanebecker"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2026-09-19T06:22:15-07:00",
+  "date_changed": "2026-09-19T08:28:51-07:00",
+  "num_for_sale": 1,
+  "lowest_price": 115.47,
+  "master_id": 4348725,
+  "master_url": "https://api.discogs.com/masters/4348725",
+  "title": "Estrus",
+  "country": "Worldwide",
+  "released": "2026-09-18",
+  "notes": "Amazon exclusive amethyst vinyl\n\nDoes not contain the 20-page booklet",
+  "released_formatted": "18 Sep 2026",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "823375140313"
+    }
+  ],
+  "videos": [],
+  "genres": [
+    "Electronic",
+    "Pop"
+  ],
+  "styles": [
+    "Dance-pop",
+    "Eurodance"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "A Lot Of Feelings, No Solutions",
+      "duration": "0:50"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "I'm Your Girl Right?",
+      "duration": "2:49"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "If I Could I Would",
+      "duration": "2:08"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Des Fleurs",
+      "extraartists": [
+        {
+          "name": "Stromae",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 1277429,
+          "resource_url": "https://api.discogs.com/artists/1277429"
+        }
+      ],
+      "duration": "2:53"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "DNH",
+      "duration": "2:28"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "F.A.M.T",
+      "duration": "3:14"
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "title": "I'm The Cake",
+      "duration": "2:18"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "The Bad One",
+      "duration": "2:55"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Die For My Art With A Lonely Heart",
+      "duration": "2:33"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Are We On A Break",
+      "duration": "3:14"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Idiot",
+      "duration": "2:49"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Roomie",
+      "duration": "2:12"
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Source Of Life",
+      "duration": "2:12"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/7Z1rEbRUPUyDfIvg6NJ_-YVYBvAqcJUnmc51DGwX0p4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDcx/NzE4LTE3ODk4MzE3/MTYtMTQ4Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/7Z1rEbRUPUyDfIvg6NJ_-YVYBvAqcJUnmc51DGwX0p4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDcx/NzE4LTE3ODk4MzE3/MTYtMTQ4Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/fiBtlcwHT2Wgf10LrApvWTzC0w-8nC3qLnLuxmQbpIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDcx/NzE4LTE3ODk4MzE3/MTYtMTQ4Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Fa6cxpJETnzKrGIa_nSGXtCjZKgc48tQ8AmL-3g6oZo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDcx/NzE4LTE3ODk4MzE3/MTYtNjMzMS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Fa6cxpJETnzKrGIa_nSGXtCjZKgc48tQ8AmL-3g6oZo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDcx/NzE4LTE3ODk4MzE3/MTYtNjMzMS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/olioHBxgIFO0TcFqQOl7bgTJnwLFMxuNG2c3bOnnswM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDcx/NzE4LTE3ODk4MzE3/MTYtNjMzMS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/fiBtlcwHT2Wgf10LrApvWTzC0w-8nC3qLnLuxmQbpIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDcx/NzE4LTE3ODk4MzE3/MTYtMTQ4Ny5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

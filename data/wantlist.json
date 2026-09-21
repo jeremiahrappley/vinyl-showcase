@@ -3034,6 +3034,78 @@
     "notes": ""
   },
   {
+    "id": 37779651,
+    "resource_url": "https://api.discogs.com/users/jrappley/wants/37779651",
+    "date_added": "2026-09-20T06:48:09-07:00",
+    "basic_information": {
+      "id": 37779651,
+      "master_id": 4273809,
+      "master_url": "https://api.discogs.com/masters/4273809",
+      "resource_url": "https://api.discogs.com/releases/37779651",
+      "title": "Confessions II",
+      "year": 2026,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Deluxe Edition",
+            "Mixed"
+          ],
+          "text": "Pink Translucent"
+        }
+      ],
+      "artists": [
+        {
+          "name": "Madonna",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 8760,
+          "resource_url": "https://api.discogs.com/artists/8760"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Maverick",
+          "catno": "093624822417",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 1685,
+          "resource_url": "https://api.discogs.com/labels/1685"
+        },
+        {
+          "name": "Warner Records",
+          "catno": "093624822417",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 134882,
+          "resource_url": "https://api.discogs.com/labels/134882"
+        }
+      ],
+      "thumb": "https://i.discogs.com/loAsGWlWgvSDZ7YAf59zT3a0rrtL2x6FXJ8WQYu5_lw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzc5/NjUxLTE3ODMxMjg3/NDEtNDk0NC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/xjvf7RO2utXlhQTuvjXEcOx9XEL-RW7aiN34SN-jP2o/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzc5/NjUxLTE3ODMxMjg3/NDEtNDk0NC5qcGVn.jpeg",
+      "genres": [
+        "Electronic",
+        "Pop"
+      ],
+      "styles": [
+        "Dance-pop",
+        "House",
+        "Progressive House",
+        "French House",
+        "Nu-Disco",
+        "Latin Pop",
+        "Downtempo"
+      ]
+    },
+    "rating": 0,
+    "notes": ""
+  },
+  {
     "id": 9188981,
     "resource_url": "https://api.discogs.com/users/jrappley/wants/9188981",
     "date_added": "2024-12-10T16:21:40-08:00",
@@ -4982,63 +5054,6 @@
     "notes": ""
   },
   {
-    "id": 38471718,
-    "resource_url": "https://api.discogs.com/users/jrappley/wants/38471718",
-    "date_added": "2026-09-19T09:07:25-07:00",
-    "basic_information": {
-      "id": 38471718,
-      "master_id": 4348725,
-      "master_url": "https://api.discogs.com/masters/4348725",
-      "resource_url": "https://api.discogs.com/releases/38471718",
-      "title": "Estrus",
-      "year": 2026,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "1",
-          "descriptions": [
-            "LP",
-            "Special Edition"
-          ],
-          "text": "Amethyst Vinyl"
-        }
-      ],
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "anv": "",
-          "join": "",
-          "role": "",
-          "tracks": "",
-          "id": 3506702,
-          "resource_url": "https://api.discogs.com/artists/3506702"
-        }
-      ],
-      "labels": [
-        {
-          "name": "Pretty Swede Records",
-          "catno": "823375071648",
-          "entity_type": "1",
-          "entity_type_name": "Label",
-          "id": 2859047,
-          "resource_url": "https://api.discogs.com/labels/2859047"
-        }
-      ],
-      "thumb": "https://i.discogs.com/fiBtlcwHT2Wgf10LrApvWTzC0w-8nC3qLnLuxmQbpIs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDcx/NzE4LTE3ODk4MzE3/MTYtMTQ4Ny5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/7Z1rEbRUPUyDfIvg6NJ_-YVYBvAqcJUnmc51DGwX0p4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDcx/NzE4LTE3ODk4MzE3/MTYtMTQ4Ny5qcGVn.jpeg",
-      "genres": [
-        "Electronic",
-        "Pop"
-      ],
-      "styles": [
-        "Dance-pop",
-        "Eurodance"
-      ]
-    },
-    "rating": 0,
-    "notes": ""
-  },
-  {
     "id": 7937548,
     "resource_url": "https://api.discogs.com/users/jrappley/wants/7937548",
     "date_added": "2025-12-17T16:52:23-08:00",
@@ -5622,6 +5637,129 @@
       ],
       "styles": [
         "Contemporary R&B"
+      ]
+    },
+    "rating": 0,
+    "notes": ""
+  },
+  {
+    "id": 2855419,
+    "resource_url": "https://api.discogs.com/users/jrappley/wants/2855419",
+    "date_added": "2026-09-20T06:47:38-07:00",
+    "basic_information": {
+      "id": 2855419,
+      "master_id": 18021,
+      "master_url": "https://api.discogs.com/masters/18021",
+      "resource_url": "https://api.discogs.com/releases/2855419",
+      "title": "Like A Virgin",
+      "year": 1984,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Club Edition"
+          ],
+          "text": "Carrollton Pressing Plant"
+        }
+      ],
+      "artists": [
+        {
+          "name": "Madonna",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 8760,
+          "resource_url": "https://api.discogs.com/artists/8760"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sire",
+          "catno": "W1-25157",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 27031,
+          "resource_url": "https://api.discogs.com/labels/27031"
+        }
+      ],
+      "thumb": "https://i.discogs.com/FsCkl9vOHd-_-APTgdDXjy64-gVZeV4VMIm8FHpiL-M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTU0/MTktMTUzOTQ2NzYz/OS02NjM4LmpwZWc.jpeg",
+      "cover_image": "https://i.discogs.com/3jVgeAJJZNJJksgy8vk_mwflWTVo8OfuJ1zv8vd2RaA/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4NTU0/MTktMTUzOTQ2NzYz/OS02NjM4LmpwZWc.jpeg",
+      "genres": [
+        "Electronic",
+        "Pop"
+      ],
+      "styles": [
+        "Synth-pop"
+      ]
+    },
+    "rating": 0,
+    "notes": ""
+  },
+  {
+    "id": 14298774,
+    "resource_url": "https://api.discogs.com/users/jrappley/wants/14298774",
+    "date_added": "2026-09-20T06:45:47-07:00",
+    "basic_information": {
+      "id": 14298774,
+      "master_id": 18021,
+      "master_url": "https://api.discogs.com/masters/18021",
+      "resource_url": "https://api.discogs.com/releases/14298774",
+      "title": "Like A Virgin",
+      "year": 2019,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Reissue"
+          ],
+          "text": "Clear, 180g"
+        }
+      ],
+      "artists": [
+        {
+          "name": "Madonna",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 8760,
+          "resource_url": "https://api.discogs.com/artists/8760"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Sire",
+          "catno": "RCV5-25157",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 27031,
+          "resource_url": "https://api.discogs.com/labels/27031"
+        },
+        {
+          "name": "Sire",
+          "catno": "603497849284",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 27031,
+          "resource_url": "https://api.discogs.com/labels/27031"
+        }
+      ],
+      "thumb": "https://i.discogs.com/r3UxNnTRKfKXIGR_NOx63Q2ByBuledPiQqVcfBu48Bc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjk4/Nzc0LTE1OTA5NDE5/MTctMTkzNS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/bWcGGm33dS4oIq6GIpYDUzCKWGKsMAHhuSbKaVxv5g8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0Mjk4/Nzc0LTE1OTA5NDE5/MTctMTkzNS5qcGVn.jpeg",
+      "genres": [
+        "Electronic",
+        "Pop"
+      ],
+      "styles": [
+        "Dance-pop"
       ]
     },
     "rating": 0,
