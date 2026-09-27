@@ -1,0 +1,253 @@
+{
+  "id": 38466717,
+  "status": "Accepted",
+  "year": 2026,
+  "resource_url": "https://api.discogs.com/releases/38466717",
+  "uri": "https://www.discogs.com/release/38466717-Miley-Bass-Persuades",
+  "artists": [
+    {
+      "name": "Miley Cyrus",
+      "anv": "Miley",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 676432,
+      "resource_url": "https://api.discogs.com/artists/676432",
+      "thumbnail_url": "https://i.discogs.com/Kqt4byk3jJfkpp5CiW8e_-XnI-grrWwRNY3FI3BbMZY/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY3NjQz/Mi0xNzg4NzU3ODQ0/LTcyNzkuanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Miley Cyrus",
+  "labels": [
+    {
+      "name": "Atlantic",
+      "catno": "075678583537",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 681,
+      "resource_url": "https://api.discogs.com/labels/681",
+      "thumbnail_url": "https://i.discogs.com/PvGehzQPvOW9qMVS-EDAeOmU6qODkqTEQ5bW03gpVyo/rs:fit/g:sm/q:90/h:426/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY4MS0x/NTEwNjgyMTM0LTgz/NTAucG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "MCEO Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 4136002,
+      "resource_url": "https://api.discogs.com/labels/4136002"
+    },
+    {
+      "name": "MCEO Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 4136002,
+      "resource_url": "https://api.discogs.com/labels/4136002"
+    },
+    {
+      "name": "Atlantic Recording Corporation",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 23937,
+      "resource_url": "https://api.discogs.com/labels/23937",
+      "thumbnail_url": "https://i.discogs.com/jZjSYAVRpExbW53RcsYGsNM2qn9G7zXCv1S5e7iLyzQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzOTM3/LTE3ODE1MDQxMDAt/ODMxNC5qcGVn.jpeg"
+    },
+    {
+      "name": "Warner Music Group",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 2345,
+      "resource_url": "https://api.discogs.com/labels/2345",
+      "thumbnail_url": "https://i.discogs.com/95s0HdOCUU8FyLsHNEDnOWp4uyplgYi8soEbgIdX1dY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzNDUt/MTc4MTM2Mjc2MS0x/OTYyLmpwZWc.jpeg"
+    },
+    {
+      "name": "Barnes & Noble",
+      "catno": "",
+      "entity_type": "42",
+      "entity_type_name": "Exclusive Retailer",
+      "id": 875441,
+      "resource_url": "https://api.discogs.com/labels/875441",
+      "thumbnail_url": "https://i.discogs.com/GWaDaHnx4k5NjX9xDpM_hfrpdtRxNuQeu3iBZWzpHMk/rs:fit/g:sm/q:90/h:345/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg3NTQ0/MS0xNDQxMzg4NTcw/LTQwMTcuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "text": "Merlot"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 31,
+    "want": 14,
+    "rating": {
+      "count": 4,
+      "average": 4
+    },
+    "submitter": {
+      "username": "kilmama",
+      "resource_url": "https://api.discogs.com/users/kilmama"
+    },
+    "contributors": [
+      {
+        "username": "kilmama",
+        "resource_url": "https://api.discogs.com/users/kilmama"
+      },
+      {
+        "username": "MarioLTZ",
+        "resource_url": "https://api.discogs.com/users/MarioLTZ"
+      },
+      {
+        "username": "lcephoenix",
+        "resource_url": "https://api.discogs.com/users/lcephoenix"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2026-09-18T15:43:12-07:00",
+  "date_changed": "2026-09-19T03:25:32-07:00",
+  "num_for_sale": 0,
+  "lowest_price": null,
+  "master_id": 4347198,
+  "master_url": "https://api.discogs.com/masters/4347198",
+  "title": "Bass Persuades",
+  "country": "US",
+  "released": "2026-09-18",
+  "released_formatted": "18 Sep 2026",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "075678583599"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=qwaVhOZkAek",
+      "title": "MILEY - Let's Get Married (Official Video)",
+      "description": "BASS PERSUADES. THE ALBUM. OUT NOW. https://miley.lnk.to/basspersuades\n\ndirector: mert alas\nvideo creative director: mert alas\n\nalbum creative director: alastair mckimm / prototype.world\ncreative agency: prototype.world\n\nfilmed at chateau marmont\n\nprod co",
+      "duration": 217,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=aWpw-Ynl0Yc",
+      "title": "MILEY - Bass Persuades (Official Video)",
+      "description": "BASS PERSUADES. THE ALBUM. OUT NOW. https://miley.lnk.to/basspersuades\n\nCredits:\n\ndirector: mert alas\nvideo creative director: mert alas\n\nalbum creative director: alastair mckimm / prototype.world\ncreative agency: prototype.world\n\nprod company: january x ",
+      "duration": 239,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Pop"
+  ],
+  "styles": [],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Bass Persuades",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Different Religion",
+      "extraartists": [
+        {
+          "name": "Model/Actriz",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 7309362,
+          "resource_url": "https://api.discogs.com/artists/7309362"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Let's Get Married",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Orbit",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Aftermath",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Redlights",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Neon Signs",
+      "extraartists": [
+        {
+          "name": "Andrew Wyatt",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 537250,
+          "resource_url": "https://api.discogs.com/artists/537250"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Innocent Ways",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Snow",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Bass Persuades Remixx",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/hpitIF_ed6cnnSdrHkvU2AeeG1kHEqXQQ1tptpP80wQ/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDY2/NzE3LTE3ODk3NzEz/OTQtNDAwMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/hpitIF_ed6cnnSdrHkvU2AeeG1kHEqXQQ1tptpP80wQ/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDY2/NzE3LTE3ODk3NzEz/OTQtNDAwMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Yk5TminMH7NAdjSk0Jihu0tppeVLRuq1ebO8oiMU3v4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDY2/NzE3LTE3ODk3NzEz/OTQtNDAwMC5qcGVn.jpeg",
+      "width": 594,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/Yk5TminMH7NAdjSk0Jihu0tppeVLRuq1ebO8oiMU3v4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDY2/NzE3LTE3ODk3NzEz/OTQtNDAwMC5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

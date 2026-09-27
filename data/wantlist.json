@@ -525,6 +525,77 @@
     "notes": ""
   },
   {
+    "id": 38457720,
+    "resource_url": "https://api.discogs.com/users/jrappley/wants/38457720",
+    "date_added": "2026-09-26T17:18:49-07:00",
+    "basic_information": {
+      "id": 38457720,
+      "master_id": 4347198,
+      "master_url": "https://api.discogs.com/masters/4347198",
+      "resource_url": "https://api.discogs.com/releases/38457720",
+      "title": "Bass Persuades",
+      "year": 2026,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Album",
+            "Limited Edition",
+            "Numbered",
+            "Stereo"
+          ],
+          "text": "Half Black/Half Orange Splatter & Clear"
+        }
+      ],
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "anv": "Miley",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 676432,
+          "resource_url": "https://api.discogs.com/artists/676432"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Atlantic",
+          "catno": "075678583537",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 681,
+          "resource_url": "https://api.discogs.com/labels/681"
+        },
+        {
+          "name": "Atlantic",
+          "catno": "075678579455",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 681,
+          "resource_url": "https://api.discogs.com/labels/681"
+        }
+      ],
+      "thumb": "https://i.discogs.com/cXcqzd_dhwPu5L6D9o1FtPs89Ea7ndyyU1El0s9IaTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDU3/NzIwLTE3OTAwMTE0/NDctOTA4MS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/CGrb3Bn7ZTZzghF7d_apvwWxXKF8QaB4zM8O6JpLhZs/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDU3/NzIwLTE3OTAwMTE0/NDctOTA4MS5qcGVn.jpeg",
+      "genres": [
+        "Electronic",
+        "Rock",
+        "Pop"
+      ],
+      "styles": [
+        "Vocal",
+        "Industrial",
+        "Alternative Rock",
+        "Dance-pop"
+      ]
+    },
+    "rating": 0,
+    "notes": ""
+  },
+  {
     "id": 13773538,
     "resource_url": "https://api.discogs.com/users/jrappley/wants/13773538",
     "date_added": "2026-05-25T03:43:14-07:00",
