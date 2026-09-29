@@ -5084,9 +5084,11 @@
           "name": "Vinyl",
           "qty": "1",
           "descriptions": [
-            "LP"
+            "LP",
+            "Album",
+            "Limited Edition"
           ],
-          "text": "Grape, Tourmaline"
+          "text": "Purple Opaque [Tourmaline Grape]"
         }
       ],
       "artists": [
