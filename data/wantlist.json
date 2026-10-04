@@ -543,10 +543,9 @@
             "LP",
             "Album",
             "Limited Edition",
-            "Numbered",
-            "Stereo"
+            "Numbered"
           ],
-          "text": "Half Black/Half Orange Splatter & Clear"
+          "text": "Orange Splatter On Clear / Black Split "
         }
       ],
       "artists": [
@@ -578,8 +577,8 @@
           "resource_url": "https://api.discogs.com/labels/681"
         }
       ],
-      "thumb": "https://i.discogs.com/cXcqzd_dhwPu5L6D9o1FtPs89Ea7ndyyU1El0s9IaTc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDU3/NzIwLTE3OTAwMTE0/NDctOTA4MS5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/CGrb3Bn7ZTZzghF7d_apvwWxXKF8QaB4zM8O6JpLhZs/rs:fit/g:sm/q:90/h:587/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDU3/NzIwLTE3OTAwMTE0/NDctOTA4MS5qcGVn.jpeg",
+      "thumb": "https://i.discogs.com/S4Gh7r5HdUAzdSfBKxb3UCsqirWXrK7mdiEoJB3jHk8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDU3/NzIwLTE3OTEwNDA2/MTAtMTM1NS5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Nh5BDs4lmJPs_w673eWeNRerQzTGva7fKsWxDUDLjK4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NDU3/NzIwLTE3OTEwNDA2/MTAtMTM1NS5qcGVn.jpeg",
       "genres": [
         "Electronic",
         "Rock",
