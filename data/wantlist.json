@@ -4294,71 +4294,6 @@
     "notes": ""
   },
   {
-    "id": 30699493,
-    "resource_url": "https://api.discogs.com/users/jrappley/wants/30699493",
-    "date_added": "2024-12-10T16:28:44-08:00",
-    "basic_information": {
-      "id": 30699493,
-      "master_id": 2677319,
-      "master_url": "https://api.discogs.com/masters/2677319",
-      "resource_url": "https://api.discogs.com/releases/30699493",
-      "title": "Honestly, Nevermind",
-      "year": 2023,
-      "formats": [
-        {
-          "name": "Vinyl",
-          "qty": "2",
-          "descriptions": [
-            "LP",
-            "Stereo"
-          ]
-        }
-      ],
-      "artists": [
-        {
-          "name": "Drake",
-          "anv": "",
-          "join": "",
-          "role": "",
-          "tracks": "",
-          "id": 151199,
-          "resource_url": "https://api.discogs.com/artists/151199"
-        }
-      ],
-      "labels": [
-        {
-          "name": "OVO (2)",
-          "catno": "B0037184-01",
-          "entity_type": "1",
-          "entity_type_name": "Label",
-          "id": 1800567,
-          "resource_url": "https://api.discogs.com/labels/1800567"
-        },
-        {
-          "name": "Republic Records",
-          "catno": "B0037184-01",
-          "entity_type": "1",
-          "entity_type_name": "Label",
-          "id": 38017,
-          "resource_url": "https://api.discogs.com/labels/38017"
-        }
-      ],
-      "thumb": "https://i.discogs.com/RKSm9sR6IzExNHiKH3i-c8cVWzf_C3FijORM0MRJ9OY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjk5/NDkzLTE3NDI4NjQ1/MDctMTYxNC5qcGVn.jpeg",
-      "cover_image": "https://i.discogs.com/HDDauDmgERFY4YMmW5p2GDrRpajOgY1mbFiPSUEuuc4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjk5/NDkzLTE3NDI4NjQ1/MDctMTYxNC5qcGVn.jpeg",
-      "genres": [
-        "Electronic",
-        "Hip Hop"
-      ],
-      "styles": [
-        "House",
-        "Deep House",
-        "Pop Rap"
-      ]
-    },
-    "rating": 0,
-    "notes": ""
-  },
-  {
     "id": 29291818,
     "resource_url": "https://api.discogs.com/users/jrappley/wants/29291818",
     "date_added": "2026-04-22T19:20:37-07:00",
@@ -4468,6 +4403,71 @@
         "Contemporary R&B",
         "Soul",
         "Synth-pop"
+      ]
+    },
+    "rating": 0,
+    "notes": ""
+  },
+  {
+    "id": 30699493,
+    "resource_url": "https://api.discogs.com/users/jrappley/wants/30699493",
+    "date_added": "2024-12-10T16:28:44-08:00",
+    "basic_information": {
+      "id": 30699493,
+      "master_id": 2677319,
+      "master_url": "https://api.discogs.com/masters/2677319",
+      "resource_url": "https://api.discogs.com/releases/30699493",
+      "title": "Honestly, Nevermind",
+      "year": 2023,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "2",
+          "descriptions": [
+            "LP",
+            "Stereo"
+          ]
+        }
+      ],
+      "artists": [
+        {
+          "name": "Drake",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 151199,
+          "resource_url": "https://api.discogs.com/artists/151199"
+        }
+      ],
+      "labels": [
+        {
+          "name": "OVO Sound",
+          "catno": "B0037184-01",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 719678,
+          "resource_url": "https://api.discogs.com/labels/719678"
+        },
+        {
+          "name": "Republic Records",
+          "catno": "B0037184-01",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 38017,
+          "resource_url": "https://api.discogs.com/labels/38017"
+        }
+      ],
+      "thumb": "https://i.discogs.com/RKSm9sR6IzExNHiKH3i-c8cVWzf_C3FijORM0MRJ9OY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjk5/NDkzLTE3NDI4NjQ1/MDctMTYxNC5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/HDDauDmgERFY4YMmW5p2GDrRpajOgY1mbFiPSUEuuc4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNjk5/NDkzLTE3NDI4NjQ1/MDctMTYxNC5qcGVn.jpeg",
+      "genres": [
+        "Electronic",
+        "Hip Hop"
+      ],
+      "styles": [
+        "House",
+        "Deep House",
+        "Pop Rap"
       ]
     },
     "rating": 0,
