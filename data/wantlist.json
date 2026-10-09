@@ -2802,6 +2802,76 @@
     "notes": ""
   },
   {
+    "id": 38660316,
+    "resource_url": "https://api.discogs.com/users/jrappley/wants/38660316",
+    "date_added": "2026-10-09T05:38:06-07:00",
+    "basic_information": {
+      "id": 38660316,
+      "master_id": 4368804,
+      "master_url": "https://api.discogs.com/masters/4368804",
+      "resource_url": "https://api.discogs.com/releases/38660316",
+      "title": "She's The Best",
+      "year": 2026,
+      "formats": [
+        {
+          "name": "Vinyl",
+          "qty": "1",
+          "descriptions": [
+            "LP",
+            "Limited Edition"
+          ],
+          "text": "Brown Translucent [Burnt]"
+        }
+      ],
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4402206,
+          "resource_url": "https://api.discogs.com/artists/4402206"
+        }
+      ],
+      "labels": [
+        {
+          "name": "Interscope Records",
+          "catno": "00881061257868",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 2311,
+          "resource_url": "https://api.discogs.com/labels/2311"
+        },
+        {
+          "name": "Tokky's Music, LLC",
+          "catno": "00881061257868",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 4686633,
+          "resource_url": "https://api.discogs.com/labels/4686633"
+        },
+        {
+          "name": "Universal International Music B.V.",
+          "catno": "00881061257868",
+          "entity_type": "1",
+          "entity_type_name": "Label",
+          "id": 220303,
+          "resource_url": "https://api.discogs.com/labels/220303"
+        }
+      ],
+      "thumb": "https://i.discogs.com/qywbqs3QSRTs4u9_GpNVl9VvQV3ygg-2k-vV3g46c44/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjYw/MzE2LTE3OTE1NDYz/MDAtMzU3Mi5qcGVn.jpeg",
+      "cover_image": "https://i.discogs.com/Cxe43-y29kBCj4-GdVv9eINnlVPQ86JZaW1Xis-O6Uc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NjYw/MzE2LTE3OTE1NDYz/MDAtMzU3Mi5qcGVn.jpeg",
+      "genres": [
+        "Rock",
+        "Pop"
+      ],
+      "styles": []
+    },
+    "rating": 0,
+    "notes": ""
+  },
+  {
     "id": 9416937,
     "resource_url": "https://api.discogs.com/users/jrappley/wants/9416937",
     "date_added": "2025-12-26T15:27:35-08:00",
