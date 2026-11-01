@@ -1,0 +1,24 @@
+---
+// Aperture Card: 1px border on surface, radius-lg, no shadow, small muted title.
+interface Props {
+  title?: string;
+  flush?: boolean;
+  class?: string;
+}
+const { title, flush = false, class: className } = Astro.props;
+const hasActions = Astro.slots.has("actions");
+---
+
+<section class:list={["ap-card", className]}>
+  {
+    (title || hasActions) && (
+      <header class="ap-card__head">
+        <h2 class="ap-card__title">{title}</h2>
+        <slot name="actions" />
+      </header>
+    )
+  }
+  <div class:list={["ap-card__body", { "ap-card__body--flush": flush }]}>
+    <slot />
+  </div>
+</section>

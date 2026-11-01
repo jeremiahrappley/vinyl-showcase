@@ -1,7 +1,10 @@
 ---
 import Base from "../../layouts/Base.astro";
 import Cover from "../../components/Cover.astro";
+import Card from "../../components/aperture/Card.astro";
+import Icon from "../../components/aperture/Icon.astro";
 import { getAllInstanceIds, getInstanceDetail } from "../../lib/view-model.ts";
+import { formatDate, formatMoney, plural } from "../../lib/format.ts";
 
 export function getStaticPaths() {
   return getAllInstanceIds().map((instanceId) => ({ params: { instance: String(instanceId) } }));
@@ -10,127 +13,126 @@ export function getStaticPaths() {
 const { instance } = Astro.params;
 const item = getInstanceDetail(Number(instance));
 if (!item) throw new Error(`No instance found for ${instance}`);
+
+const released =
+  item.released && /^\d{4}-\d{2}-\d{2}$/.test(item.released) && !item.released.endsWith("-00")
+    ? formatDate(item.released)
+    : item.released;
+const releasedNote = released && released !== String(item.year) ? ` (${released})` : "";
+const byline = item.year ? `${item.artists} · ${item.year}${releasedNote}` : item.artists;
+const valuation = item.latestValuation;
+
+const facts: { term: string; detail: string }[] = [
+  { term: "Format", detail: item.formats.join(", ") },
+  { term: "Label", detail: item.labels.map((l) => `${l.name} (${l.catno})`).join(", ") },
+  ...(item.country ? [{ term: "Country", detail: item.country }] : []),
+  ...(item.genres.length > 0 ? [{ term: "Genre", detail: item.genres.join(", ") }] : []),
+  ...(item.styles.length > 0 ? [{ term: "Style", detail: item.styles.join(", ") }] : []),
+  { term: "Added", detail: formatDate(item.dateAdded) },
+];
 ---
 
-<Base title={item.title}>
-	<a class="back" href="/">← Grid</a>
+<Base title={item.title} nav="collection" parents={[{ label: "Collection", href: "/" }]}>
+	<a slot="actions" class="ap-btn ap-btn--sm" href={item.discogsUrl} target="_blank" rel="noopener">
+		<Icon name="external-link" />
+		View on Discogs
+	</a>
 
-	<article class="record">
+	<div class="record">
 		<div class="record-cover">
 			<Cover cover={item.cover} size="hero" alt={item.title} eager />
 		</div>
 
 		<div class="record-info">
-			<h1>{item.title}</h1>
-			<p class="artists">{item.artists} · {item.year}{item.released && item.released !== String(item.year) ? ` (${item.released})` : ""}</p>
+			<p class="byline t-section-title">{byline}</p>
 
-			<dl class="facts">
-				<div>
-					<dt>Format</dt>
-					<dd>{item.formats.join(", ")}</dd>
-				</div>
-				<div>
-					<dt>Label</dt>
-					<dd>{item.labels.map((l) => `${l.name} (${l.catno})`).join(", ")}</dd>
-				</div>
-				{item.country && (
-					<div>
-						<dt>Country</dt>
-						<dd>{item.country}</dd>
-					</div>
-				)}
-				{item.genres.length > 0 && (
-					<div>
-						<dt>Genre</dt>
-						<dd>{item.genres.join(", ")}</dd>
-					</div>
-				)}
-				{item.styles.length > 0 && (
-					<div>
-						<dt>Style</dt>
-						<dd>{item.styles.join(", ")}</dd>
-					</div>
-				)}
-				<div>
-					<dt>Added</dt>
-					<dd>{new Date(item.dateAdded).toLocaleDateString(undefined, { year: "numeric", month: "long", day: "numeric" })}</dd>
-				</div>
-				{item.latestValuation && (
-					<div>
-						<dt>Lowest for sale</dt>
-						<dd>
-							{item.latestValuation.lowestPrice != null
-								? `${item.latestValuation.lowestPrice.toFixed(2)} ${item.latestValuation.currency}`
-								: "—"}{" "}
-							({item.latestValuation.numForSale} listed, as of {item.latestValuation.date})
-						</dd>
-					</div>
-				)}
-			</dl>
+			<Card title="Details">
+				<dl class="facts">
+					{
+						facts.map((f) => (
+							<div>
+								<dt>{f.term}</dt>
+								<dd>{f.detail}</dd>
+							</div>
+						))
+					}
+				</dl>
+			</Card>
 
-			<a class="discogs-link" href={item.discogsUrl} target="_blank" rel="noopener">View on Discogs →</a>
+			{
+				valuation && (
+					<Card title="Lowest for sale">
+						<p class="price">
+							{valuation.lowestPrice != null ? formatMoney(valuation.lowestPrice, valuation.currency) : "—"}
+						</p>
+						<p class="t-small muted price-note">
+							{plural(valuation.numForSale, "listing")} on Discogs, as of {formatDate(valuation.date)}
+						</p>
+					</Card>
+				)
+			}
 		</div>
-	</article>
+	</div>
 
 	{
 		item.tracklist.length > 0 && (
-			<section class="tracklist">
-				<h2>Tracklist</h2>
-				<ol>
-					{item.tracklist.map((t) => (
-						<li>
-							<span class="position">{t.position}</span>
-							<span class="track-title">{t.title}</span>
-							<span class="duration">{t.duration}</span>
-						</li>
-					))}
-				</ol>
-			</section>
+			<Card title="Tracklist" flush class="section">
+				<div class="ap-table-wrap">
+					<table class="ap-table">
+						<thead>
+							<tr>
+								<th scope="col">Position</th>
+								<th scope="col">Title</th>
+								<th scope="col" class="is-num">Duration</th>
+							</tr>
+						</thead>
+						<tbody>
+							{item.tracklist.map((t) => (
+								<tr>
+									<td class="muted">{t.position}</td>
+									<td class="track-title">{t.title}</td>
+									<td class="is-num muted">{t.duration || "—"}</td>
+								</tr>
+							))}
+						</tbody>
+					</table>
+				</div>
+			</Card>
 		)
 	}
 
 	{
 		item.credits.length > 0 && (
-			<section class="credits">
-				<h2>Credits</h2>
-				<p>{item.credits.map((c) => `${c.name} (${c.role})`).join(" · ")}</p>
-			</section>
+			<Card title="Credits" class="section">
+				<p class="prose">{item.credits.map((c) => `${c.name} (${c.role})`).join(" · ")}</p>
+			</Card>
 		)
 	}
 
 	{
 		item.notes && (
-			<section class="notes">
-				<h2>Notes</h2>
-				<p>{item.notes}</p>
-			</section>
+			<Card title="Notes" class="section">
+				<p class="prose notes">{item.notes}</p>
+			</Card>
 		)
 	}
 </Base>
 
 <style>
-	.back {
-		display: inline-block;
-		margin-bottom: 2rem;
-		font-size: 0.85rem;
-		text-decoration: none;
-		color: var(--text-dim);
-	}
-
-	.back:hover {
-		color: var(--accent);
-	}
-
 	.record {
 		display: grid;
-		grid-template-columns: minmax(240px, 380px) 1fr;
-		gap: 3rem;
-		margin-bottom: 3.5rem;
+		grid-template-columns: minmax(240px, 380px) minmax(0, 1fr);
+		gap: var(--space-6);
+		margin-bottom: var(--space-3);
 	}
 
-	@media (max-width: 720px) {
+	@media (max-width: 899px) {
 		.record {
-			grid-template-columns: 1fr;
+			grid-template-columns: minmax(0, 1fr);
+		}
+
+		.record-cover {
+			max-width: 380px;
 		}
 	}
 
@@ -138,92 +140,64 @@ if (!item) throw new Error(`No instance found for ${instance}`);
 		align-self: start;
 	}
 
-	.record-info h1 {
-		margin: 0 0 0.25rem;
-		font-size: 1.9rem;
+	.record-info {
+		display: flex;
+		flex-direction: column;
+		gap: var(--space-3);
+		min-width: 0;
 	}
 
-	.artists {
-		margin: 0 0 1.75rem;
-		color: var(--text-dim);
-		font-size: 1.05rem;
+	.byline {
+		margin: 0 0 var(--space-1);
+		color: var(--text-muted);
 	}
 
 	.facts {
 		display: grid;
-		gap: 0.9rem;
-		margin: 0 0 1.75rem;
+		gap: var(--space-3);
+		margin: 0;
 	}
 
 	.facts > div {
 		display: grid;
-		grid-template-columns: 110px 1fr;
-		gap: 0.5rem;
-		font-size: 0.9rem;
+		grid-template-columns: 96px minmax(0, 1fr);
+		gap: var(--space-3);
 	}
 
 	.facts dt {
-		color: var(--text-dim);
+		color: var(--text-muted);
 	}
 
 	.facts dd {
 		margin: 0;
 	}
 
-	.discogs-link {
-		display: inline-block;
-		font-size: 0.9rem;
-		text-decoration: none;
-		color: var(--accent);
-		border-bottom: 1px solid currentColor;
-	}
-
-	h2 {
-		font-size: 1.1rem;
-		margin: 0 0 1rem;
-	}
-
-	.tracklist,
-	.credits,
-	.notes {
-		max-width: 640px;
-		margin-bottom: 2.5rem;
-	}
-
-	.tracklist ol {
-		list-style: none;
-		padding: 0;
+	.price {
 		margin: 0;
-		border-top: 1px solid var(--border);
+		font: 600 28px/32px var(--font-sans);
+		font-variant-numeric: tabular-nums;
+		letter-spacing: -0.01em;
 	}
 
-	.tracklist li {
-		display: flex;
-		gap: 1rem;
-		padding: 0.6rem 0;
-		border-bottom: 1px solid var(--border);
-		font-size: 0.92rem;
+	.price-note {
+		margin: var(--space-1) 0 0;
 	}
 
-	.position {
-		color: var(--text-dim);
-		width: 2.5rem;
-		flex-shrink: 0;
+	.section {
+		margin-top: var(--space-3);
 	}
 
 	.track-title {
-		flex: 1;
+		width: 100%;
 	}
 
-	.duration {
-		color: var(--text-dim);
-		font-variant-numeric: tabular-nums;
+	.prose {
+		margin: 0;
+		color: var(--text-muted);
+		max-width: 72ch;
 	}
 
-	.credits p,
-	.notes p {
-		color: var(--text-dim);
-		font-size: 0.9rem;
-		line-height: 1.6;
+	.notes {
+		white-space: pre-line;
 	}
 </style>

@@ -1,0 +1,67 @@
+---
+// Aperture PageHeader: 56px breadcrumb bar, then the page title with right-aligned actions.
+import Icon from "./Icon.astro";
+
+export interface Crumb {
+  label: string;
+  href?: string;
+}
+interface Props {
+  breadcrumbs: Crumb[];
+  title: string;
+}
+const { breadcrumbs, title } = Astro.props;
+---
+
+<header class="ap-pageheader">
+  <div class="ap-crumbs">
+    <slot name="lead" />
+    <nav class="crumb-trail" aria-label="Breadcrumb">
+      {
+        breadcrumbs.map((c, i) =>
+          i === breadcrumbs.length - 1 ? (
+            <span aria-current="page">{c.label}</span>
+          ) : (
+            <>
+              <a href={c.href ?? "/"}>{c.label}</a>
+              <Icon name="chevron-right" class="crumb-sep" />
+            </>
+          ),
+        )
+      }
+    </nav>
+  </div>
+  <div class="ap-pageheader__row">
+    <h1 class="ap-pageheader__title">{title}</h1>
+    {
+      Astro.slots.has("actions") && (
+        <div class="ap-pageheader__actions">
+          <slot name="actions" />
+        </div>
+      )
+    }
+  </div>
+</header>
+
+<style>
+  .crumb-trail {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    min-width: 0;
+  }
+
+  .crumb-trail > * {
+    white-space: nowrap;
+  }
+
+  .crumb-trail [aria-current="page"] {
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .crumb-sep {
+    flex: none;
+    color: var(--text-faint);
+  }
+</style>

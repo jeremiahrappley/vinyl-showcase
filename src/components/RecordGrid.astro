@@ -1,0 +1,72 @@
+---
+import Cover from "./Cover.astro";
+import type { CoverDerivative } from "../lib/view-model.ts";
+
+interface Props {
+  records: { key: string | number; href: string; external?: boolean; cover?: CoverDerivative; title: string; artists: string; year: number }[];
+}
+const { records } = Astro.props;
+---
+
+<ul class="record-grid">
+  {
+    records.map((r) => (
+      <li>
+        <a class="tile" href={r.href} {...(r.external ? { target: "_blank", rel: "noopener" } : {})}>
+          <Cover cover={r.cover} size="grid" alt={r.title} />
+          <p class="tile__title t-body-strong">{r.title}</p>
+          <p class="tile__meta t-small">{r.year ? `${r.artists} · ${r.year}` : r.artists}</p>
+        </a>
+      </li>
+    ))
+  }
+</ul>
+
+<style>
+  .record-grid {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: var(--space-6) var(--space-4);
+    padding: 0;
+    margin: 0;
+  }
+
+  .tile {
+    display: block;
+    text-decoration: none;
+    color: var(--text);
+    border-radius: var(--radius-md);
+  }
+
+  .tile :global(.cover) {
+    transition: opacity 120ms linear;
+  }
+
+  .tile:hover :global(.cover) {
+    opacity: 0.85;
+  }
+
+  .tile:hover .tile__title {
+    color: var(--link);
+  }
+
+  .tile__title {
+    margin: var(--space-3) 0 0;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+
+  .tile__meta {
+    margin: 0;
+    color: var(--text-muted);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .tile :global(.cover) {
+      transition: none;
+    }
+  }
+</style>

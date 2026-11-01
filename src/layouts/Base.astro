@@ -1,65 +1,135 @@
 ---
+import "../styles/aperture/tokens.css";
+import "../styles/aperture/components.css";
+import Icon, { type IconName } from "../components/aperture/Icon.astro";
+import PageHeader, { type Crumb } from "../components/aperture/PageHeader.astro";
+
+export type NavKey = "collection" | "shelf" | "stats" | "wantlist";
+
 interface Props {
+  /** Page title: the document title, the page heading and the last breadcrumb. */
   title: string;
+  nav: NavKey;
+  /** Parent breadcrumbs between the site root and this page. */
+  parents?: Crumb[];
 }
-const { title } = Astro.props;
+const { title, nav, parents = [] } = Astro.props;
+
+const SITE = "Julian & Jeremiah's vinyl";
+const items: { key: NavKey; label: string; href: string; icon: IconName }[] = [
+  { key: "collection", label: "Collection", href: "/", icon: "layout-grid" },
+  { key: "shelf", label: "Shelf", href: "/shelf/", icon: "library" },
+  { key: "stats", label: "Stats", href: "/stats/", icon: "chart-column" },
+  { key: "wantlist", label: "Wantlist", href: "/wantlist/", icon: "heart" },
+];
+const breadcrumbs: Crumb[] = [{ label: "Vinyl", href: "/" }, ...parents, { label: title }];
 ---
 
-<html lang="en">
+<html lang="en" data-theme="dark">
 	<head>
 		<meta charset="utf-8" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="generator" content={Astro.generator} />
-		<title>{title} — Julian & Jeremiah's Vinyl Collection</title>
+		<meta name="color-scheme" content="dark light" />
+		<title>{title} — {SITE}</title>
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+		<script is:inline>
+			// Aperture is dark-first; switch to its light theme only when the system asks for it.
+			(function () {
+				var mq = window.matchMedia("(prefers-color-scheme: light)");
+				var apply = function () {
+					document.documentElement.setAttribute("data-theme", mq.matches ? "light" : "dark");
+				};
+				apply();
+				mq.addEventListener("change", apply);
+			})();
+		</script>
 	</head>
-	<body>
-		<header class="site-header">
-			<a class="wordmark" href="/">Julian & Jeremiah's Vinyl Collection</a>
-			<nav>
-				<a href="/">Grid</a>
-				<a href="/shelf/">Shelf</a>
-				<a href="/stats/">Stats</a>
-				<a href="/wantlist/">Wantlist</a>
-			</nav>
-		</header>
-		<main>
-			<slot />
-		</main>
-		<footer class="site-footer">
-			<p><a href="https://github.com/jeremiahrappley/vinyl-showcase" target="_blank" rel="noopener">© Jeremiah Rappley</a></p>
-			<p>Cover art © its respective labels, via <a href="https://www.discogs.com" target="_blank" rel="noopener">Discogs</a>.</p>
-		</footer>
+	<body class="ap-root">
+		<div class="shell">
+			<div class="sidebar-wrap" id="sidebar" data-open="false">
+				<nav class="ap-sidebar" aria-label="Main">
+					<div class="ap-sidebar__head">
+						<a class="wordmark" href="/">{SITE}</a>
+						<button type="button" class="ap-btn ap-btn--ghost ap-btn--sm drawer-close" aria-label="Close menu" data-drawer-close>
+							<Icon name="x" />
+						</button>
+					</div>
+					<div class="ap-sidebar__nav">
+						{
+							items.map((it) => (
+								<a class="ap-nav-item" href={it.href} aria-current={it.key === nav ? "page" : undefined}>
+									<Icon name={it.icon} />
+									<span class="ap-nav-item__label">{it.label}</span>
+								</a>
+							))
+						}
+					</div>
+					<footer class="sidebar-foot t-caption">
+						<p><a href="https://github.com/jeremiahrappley/vinyl-showcase" target="_blank" rel="noopener">© Jeremiah Rappley</a></p>
+						<p>Cover art © its respective labels, via <a href="https://www.discogs.com" target="_blank" rel="noopener">Discogs</a>.</p>
+					</footer>
+				</nav>
+			</div>
+			<div class="scrim" data-drawer-close hidden></div>
+
+			<div class="main-col">
+				<PageHeader breadcrumbs={breadcrumbs} title={title}>
+					<button
+						slot="lead"
+						type="button"
+						class="ap-btn ap-btn--ghost ap-btn--sm drawer-open"
+						aria-label="Open menu"
+						aria-controls="sidebar"
+						aria-expanded="false"
+						data-drawer-open
+					>
+						<Icon name="menu" />
+					</button>
+					{
+						Astro.slots.has("actions") && (
+							<Fragment slot="actions">
+								<slot name="actions" />
+							</Fragment>
+						)
+					}
+				</PageHeader>
+				<main class="content">
+					<slot />
+				</main>
+			</div>
+		</div>
+
+		<script>
+			const drawer = document.getElementById("sidebar")!;
+			const scrim = document.querySelector<HTMLElement>(".scrim")!;
+			const opener = document.querySelector<HTMLButtonElement>("[data-drawer-open]")!;
+
+			function setOpen(open: boolean) {
+				drawer.dataset.open = String(open);
+				scrim.hidden = !open;
+				opener.setAttribute("aria-expanded", String(open));
+				document.body.style.overflow = open ? "hidden" : "";
+				if (open) drawer.querySelector<HTMLElement>("[aria-current='page'], .ap-nav-item")?.focus();
+				else opener.focus();
+			}
+
+			opener.addEventListener("click", () => setOpen(true));
+			document.querySelectorAll("[data-drawer-close]").forEach((el) => el.addEventListener("click", () => setOpen(false)));
+			document.addEventListener("keydown", (e) => {
+				if (e.key === "Escape" && drawer.dataset.open === "true") setOpen(false);
+			});
+			matchMedia("(min-width: 800px)").addEventListener("change", (e) => {
+				if (e.matches && drawer.dataset.open === "true") setOpen(false);
+			});
+		</script>
 	</body>
 </html>
 
 <style is:global>
-	:root {
-		--bg: #f7f4ee;
-		--bg-raised: #ffffff;
-		--text: #1c1a17;
-		--text-dim: #726b5e;
-		--border: #e4ddd0;
-		--accent: #a8412a;
-		--font-serif: "Iowan Old Style", "Palatino Linotype", Georgia, ui-serif, serif;
-		--font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-	}
-
-	@media (prefers-color-scheme: dark) {
-		:root {
-			--bg: #17140f;
-			--bg-raised: #201c16;
-			--text: #ece6da;
-			--text-dim: #a89d89;
-			--border: #362f24;
-			--accent: #e08a6f;
-		}
-	}
-
-	* {
-		box-sizing: border-box;
-	}
-
 	html,
 	body {
 		margin: 0;
@@ -69,72 +139,151 @@ const { title } = Astro.props;
 	body {
 		background: var(--bg);
 		color: var(--text);
-		font-family: var(--font-sans);
-		line-height: 1.5;
-	}
-
-	h1,
-	h2,
-	h3 {
-		font-family: var(--font-serif);
-		font-weight: 500;
-		letter-spacing: -0.01em;
 	}
 
 	a {
-		color: inherit;
+		color: var(--link);
 	}
 
-	.site-header {
+	a:focus-visible,
+	button:focus-visible {
+		outline: 2px solid var(--focus-ring);
+		outline-offset: 2px;
+	}
+
+	code {
+		font: 400 13px/20px var(--font-mono);
+		background: var(--surface-raised);
+		border: 1px solid var(--border);
+		border-radius: var(--radius-sm);
+		padding: 0 var(--space-1);
+	}
+
+	.muted {
+		color: var(--text-muted);
+	}
+
+	.empty {
+		margin: 0;
+		color: var(--text-muted);
+	}
+</style>
+
+<style>
+	.shell {
 		display: flex;
-		align-items: baseline;
-		justify-content: space-between;
-		flex-wrap: wrap;
-		gap: 1rem;
-		padding: 1.75rem 2rem 1.25rem;
-		border-bottom: 1px solid var(--border);
+		min-height: 100vh;
+	}
+
+	.sidebar-wrap {
+		position: sticky;
+		top: 0;
+		height: 100vh;
+		flex: none;
+		z-index: 20;
 	}
 
 	.wordmark {
-		font-family: var(--font-serif);
-		font-size: 1.25rem;
+		color: var(--text);
 		text-decoration: none;
-		letter-spacing: 0.01em;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
 	}
 
-	.site-header nav {
+	.sidebar-foot {
+		padding: var(--space-4);
+		border-top: 1px solid var(--border);
+		color: var(--text-faint);
+	}
+
+	.sidebar-foot p {
+		margin: 0;
+	}
+
+	.sidebar-foot p + p {
+		margin-top: var(--space-1);
+	}
+
+	.sidebar-foot a {
+		color: var(--text-muted);
+	}
+
+	.main-col {
+		flex: 1;
+		min-width: 0;
 		display: flex;
-		gap: 1.5rem;
-		font-size: 0.85rem;
-		text-transform: uppercase;
-		letter-spacing: 0.08em;
+		flex-direction: column;
 	}
 
-	.site-header nav a {
-		text-decoration: none;
-		color: var(--text-dim);
-		transition: color 0.15s ease;
+	.content {
+		width: 100%;
+		max-width: var(--content-max);
+		padding: var(--space-6);
+		box-sizing: border-box;
 	}
 
-	.site-header nav a:hover {
-		color: var(--accent);
+	.drawer-open,
+	.drawer-close {
+		display: none;
+		padding: 0 6px;
 	}
 
-	main {
-		max-width: 1200px;
-		margin: 0 auto;
-		padding: 2.5rem 2rem 5rem;
+	.scrim {
+		position: fixed;
+		inset: 0;
+		background: var(--overlay);
+		z-index: 15;
 	}
 
-	.site-footer {
-		max-width: 1200px;
-		margin: 0 auto;
-		padding: 2rem 2rem 3rem;
-		font-size: 0.8rem;
-		color: var(--text-dim);
+	/* Below 800px the sidebar becomes a drawer. Opacity fade only, per Aperture motion rules. */
+	@media (max-width: 799px) {
+		.sidebar-wrap {
+			position: fixed;
+			left: 0;
+			top: 0;
+			bottom: 0;
+			height: auto;
+			max-width: calc(100vw - 48px);
+			box-shadow: var(--shadow-dialog);
+			opacity: 0;
+			visibility: hidden;
+			transition:
+				opacity 120ms linear,
+				visibility 0s linear 120ms;
+		}
+
+		.sidebar-wrap[data-open="true"] {
+			opacity: 1;
+			visibility: visible;
+			transition: opacity 120ms linear;
+		}
+
+		.sidebar-wrap .ap-sidebar {
+			max-width: 100%;
+		}
+
+		.drawer-open,
+		.drawer-close {
+			display: inline-flex;
+		}
+
+		.content {
+			padding: var(--space-4);
+		}
+
+		:global(.ap-crumbs) {
+			padding: 0 var(--space-4);
+		}
+
+		:global(.ap-pageheader__row) {
+			padding: var(--space-4);
+		}
 	}
 
-	.site-footer a {
-		color: var(--text-dim);
+	@media (prefers-reduced-motion: reduce) {
+		.sidebar-wrap {
+			transition: none !important;
+		}
 	}
 </style>

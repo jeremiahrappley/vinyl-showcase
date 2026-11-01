@@ -1,185 +1,131 @@
 ---
 import Base from "../layouts/Base.astro";
-import { getStats } from "../lib/view-model.ts";
+import Card from "../components/aperture/Card.astro";
+import StatTile from "../components/aperture/StatTile.astro";
+import BarList from "../components/aperture/BarList.astro";
+import Legend from "../components/aperture/Legend.astro";
+import LineChart from "../components/aperture/LineChart.astro";
+import ColumnChart from "../components/aperture/ColumnChart.astro";
+import { getCollection, getStats, getWantlist } from "../lib/view-model.ts";
+import { formatDate, formatMoney } from "../lib/format.ts";
 
 const stats = getStats();
-const maxDecade = Math.max(1, ...stats.decades.map((d) => d.count));
-const maxGenre = Math.max(1, ...stats.genres.slice(0, 10).map((g) => g.count));
-const maxLabel = Math.max(1, ...stats.labels.slice(0, 10).map((l) => l.count));
-const maxValue = Math.max(1, ...stats.valueHistory.map((v) => v.total));
+const artists = new Set(getCollection().map((i) => i.artists)).size;
+const wantCount = getWantlist().length;
+
+// Year 0 is how Discogs marks an unknown release year.
+const decades = [
+  ...stats.decades.filter((d) => d.decade !== "0s").map((d) => ({ label: d.decade, short: `’${d.decade.slice(2)}`, value: d.count })),
+  ...stats.decades.filter((d) => d.decade === "0s").map((d) => ({ label: "Unknown", short: "?", value: d.count })),
+];
+
+const history = stats.valueHistory.map((v) => ({ date: v.date, value: v.total }));
+const latest = history.at(-1);
+const previous = history.at(-2);
+const change = latest && previous ? latest.value - previous.value : undefined;
 ---
 
-<Base title="Stats">
-	<div class="grid-header">
-		<h1>Stats</h1>
-		<p class="count">{stats.totalRecords} records</p>
-	</div>
+<Base title="Stats" nav="stats">
+	{latest && <span slot="actions" class="t-small muted">Values as of {formatDate(latest.date)}</span>}
 
 	{
 		stats.totalRecords === 0 ? (
-			<p class="empty">No records synced yet.</p>
+			<p class="empty">Stats for your records will appear here after the first sync.</p>
 		) : (
-			<div class="stats-grid">
-				<section>
-					<h2>By decade</h2>
-					<ul class="bars">
-						{stats.decades.map((d) => (
-							<li>
-								<span class="bar-label">{d.decade}</span>
-								<span class="bar-track"><span class="bar-fill" style={`width:${(d.count / maxDecade) * 100}%`} /></span>
-								<span class="bar-value">{d.count}</span>
-							</li>
-						))}
-					</ul>
-				</section>
+			<div class="stack">
+				<div class="tiles">
+					<StatTile label="Records" value={stats.totalRecords.toLocaleString("en-US")} />
+					<StatTile label="Artists" value={artists.toLocaleString("en-US")} />
+					<StatTile
+						label="Collection value"
+						value={latest ? formatMoney(latest.value) : "—"}
+						delta={change ? formatMoney(Math.abs(change)) : undefined}
+						direction={change ? (change > 0 ? "up" : "down") : undefined}
+						tone={change ? (change > 0 ? "gain" : "loss") : "neutral"}
+						data={history.map((h) => h.value)}
+					/>
+					<StatTile label="Wantlist" value={wantCount.toLocaleString("en-US")} />
+				</div>
 
-				<section>
-					<h2>Top genres</h2>
-					<ul class="bars">
-						{stats.genres.slice(0, 10).map((g) => (
-							<li>
-								<span class="bar-label">{g.name}</span>
-								<span class="bar-track"><span class="bar-fill" style={`width:${(g.count / maxGenre) * 100}%`} /></span>
-								<span class="bar-value">{g.count}</span>
-							</li>
-						))}
-					</ul>
-				</section>
-
-				<section>
-					<h2>Top labels</h2>
-					<ul class="bars">
-						{stats.labels.slice(0, 10).map((l) => (
-							<li>
-								<span class="bar-label">{l.name}</span>
-								<span class="bar-track"><span class="bar-fill" style={`width:${(l.count / maxLabel) * 100}%`} /></span>
-								<span class="bar-value">{l.count}</span>
-							</li>
-						))}
-					</ul>
-				</section>
-
-				<section class="value-history">
-					<h2>Collection value over time</h2>
-					{stats.valueHistory.length === 0 ? (
+				<Card title="Collection value over time">
+					{history.length === 0 ? (
 						<p class="empty">
-							No valuation history yet — run <code>npm run valuations</code> weekly and this fills in over
-							time.
+							Weekly valuations will appear here. Run <code>npm run valuations</code> each week and this fills in over time.
 						</p>
 					) : (
-						<div class="sparkline" role="img" aria-label="Collection value over time">
-							{stats.valueHistory.map((v) => (
-								<span class="spark-bar" style={`height:${Math.max(4, (v.total / maxValue) * 100)}%`} title={`${v.date}: $${v.total.toFixed(2)}`} />
-							))}
+						<div class="chart-block">
+							<Legend items={[{ label: "Sum of lowest listed prices", value: latest ? formatMoney(latest.value) : undefined }]} />
+							<LineChart points={history} label="Collection value over time" />
 						</div>
 					)}
-				</section>
+				</Card>
+
+				<Card title="Records by decade">
+					<ColumnChart columns={decades} label="Records by decade" />
+				</Card>
+
+				<div class="pair">
+					<Card title="Top genres">
+						<BarList rows={stats.genres.map((g) => ({ label: g.name, value: g.count }))} noun="genre" />
+					</Card>
+					<Card title="Top labels">
+						<BarList rows={stats.labels.map((l) => ({ label: l.name, value: l.count }))} noun="label" />
+					</Card>
+				</div>
+
+				<p class="t-caption muted footnote">
+					Collection value is the sum of the lowest current Discogs listing for each record that has one.
+					Genre and label counts can exceed the record count because a release can carry several.
+				</p>
 			</div>
 		)
 	}
 </Base>
 
 <style>
-	.grid-header {
+	.stack {
 		display: flex;
-		align-items: baseline;
-		justify-content: space-between;
-		margin-bottom: 2rem;
+		flex-direction: column;
+		gap: var(--space-3);
 	}
 
-	.count {
-		color: var(--text-dim);
-		font-size: 0.9rem;
-	}
-
-	.empty {
-		color: var(--text-dim);
-	}
-
-	.empty code {
-		background: var(--bg-raised);
-		border: 1px solid var(--border);
-		border-radius: 3px;
-		padding: 0.1em 0.4em;
-		font-size: 0.9em;
-	}
-
-	.stats-grid {
+	.tiles {
 		display: grid;
-		grid-template-columns: 1fr 1fr;
-		gap: 3rem 4rem;
+		grid-template-columns: repeat(4, minmax(0, 1fr));
+		gap: var(--space-3);
 	}
 
-	@media (max-width: 720px) {
-		.stats-grid {
+	@media (max-width: 1099px) {
+		.tiles {
+			grid-template-columns: repeat(2, minmax(0, 1fr));
+		}
+	}
+
+	@media (max-width: 479px) {
+		.tiles {
 			grid-template-columns: 1fr;
 		}
 	}
 
-	h2 {
-		font-size: 1rem;
-		margin: 0 0 1.25rem;
-	}
-
-	.bars {
-		list-style: none;
-		padding: 0;
-		margin: 0;
-		display: grid;
-		gap: 0.6rem;
-	}
-
-	.bars li {
-		display: grid;
-		grid-template-columns: 100px 1fr 2.5rem;
-		align-items: center;
-		gap: 0.75rem;
-		font-size: 0.85rem;
-	}
-
-	.bar-label {
-		color: var(--text-dim);
-		overflow: hidden;
-		text-overflow: ellipsis;
-		white-space: nowrap;
-	}
-
-	.bar-track {
-		background: var(--border);
-		height: 8px;
-		border-radius: 4px;
-		overflow: hidden;
-	}
-
-	.bar-fill {
-		display: block;
-		height: 100%;
-		background: var(--accent);
-		border-radius: 4px;
-	}
-
-	.bar-value {
-		text-align: right;
-		color: var(--text-dim);
-		font-variant-numeric: tabular-nums;
-	}
-
-	.value-history {
-		grid-column: 1 / -1;
-	}
-
-	.sparkline {
+	.chart-block {
 		display: flex;
-		align-items: flex-end;
-		gap: 3px;
-		height: 140px;
-		border-bottom: 1px solid var(--border);
+		flex-direction: column;
+		gap: var(--space-4);
 	}
 
-	.spark-bar {
-		flex: 1;
-		background: var(--accent);
-		border-radius: 2px 2px 0 0;
-		min-width: 3px;
+	.pair {
+		display: grid;
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+		gap: var(--space-3);
+	}
+
+	@media (max-width: 899px) {
+		.pair {
+			grid-template-columns: 1fr;
+		}
+	}
+
+	.footnote {
+		margin: var(--space-2) 0 0;
 	}
 </style>

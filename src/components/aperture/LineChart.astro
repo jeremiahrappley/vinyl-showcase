@@ -1,0 +1,160 @@
+---
+// Single-series line chart following Aperture charts.md: chart-1, 2px stroke, no dots,
+// horizontal dashed gridlines in chart-grid, 12px muted ticks, compact currency on y,
+// short dates on x, no animation. Rendered as static SVG; tick labels are HTML so they
+// stay 12px at every width.
+import { formatMoney, formatMoneyCompact, formatShortDate } from "../../lib/format.ts";
+
+interface Props {
+  points: { date: string; value: number }[];
+  label: string;
+  currency?: string;
+}
+const { points, label, currency = "USD" } = Astro.props;
+
+function niceStep(range: number, count: number) {
+  const raw = range / count;
+  const mag = 10 ** Math.floor(Math.log10(raw));
+  const norm = raw / mag;
+  return (norm <= 1 ? 1 : norm <= 2 ? 2 : norm <= 2.5 ? 2.5 : norm <= 5 ? 5 : 10) * mag;
+}
+
+const values = points.map((p) => p.value);
+const dataMin = Math.min(...values);
+const dataMax = Math.max(...values);
+const pad = (dataMax - dataMin || dataMax || 1) * 0.1;
+const step = niceStep(dataMax - dataMin + pad * 2, 4);
+const yMin = Math.max(0, Math.floor((dataMin - pad) / step) * step);
+const yMax = Math.ceil((dataMax + pad) / step) * step;
+const yTicks: number[] = [];
+for (let v = yMin; v <= yMax + step / 2; v += step) yTicks.push(v);
+
+const y = (v: number) => 100 - ((v - yMin) / (yMax - yMin || 1)) * 100;
+const x = (i: number) => (points.length === 1 ? 50 : (i / (points.length - 1)) * 100);
+const line = points.map((p, i) => `${x(i).toFixed(3)},${y(p.value).toFixed(3)}`).join(" ");
+
+// At most ~6 x ticks, always including the first and last point.
+const every = Math.max(1, Math.ceil(points.length / 6));
+const xTicks = points
+  .map((p, i) => ({ i, date: p.date }))
+  .filter(({ i }) => i % every === 0 || i === points.length - 1)
+  .filter((t, idx, arr) => idx === arr.length - 1 || points.length - 1 - t.i >= every / 2 || t.i === points.length - 1);
+
+const first = points[0];
+const last = points[points.length - 1];
+const summary = `${label}: ${formatMoney(first.value, currency)} on ${first.date} to ${formatMoney(last.value, currency)} on ${last.date}`;
+---
+
+<figure class="chart" role="img" aria-label={summary}>
+  <div class="chart__y" aria-hidden="true">
+    {yTicks.map((t) => <span style={`top:${y(t)}%`}>{formatMoneyCompact(t, currency)}</span>)}
+  </div>
+  <div class="chart__plot">
+    <svg viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true">
+      {
+        yTicks.map((t, i) => (
+          <line
+            x1="0"
+            x2="100"
+            y1={y(t)}
+            y2={y(t)}
+            stroke="var(--chart-grid)"
+            stroke-dasharray={i === 0 ? undefined : "3 3"}
+            vector-effect="non-scaling-stroke"
+          />
+        ))
+      }
+      <polyline
+        points={line}
+        fill="none"
+        stroke="var(--chart-1)"
+        stroke-width="2"
+        stroke-linejoin="round"
+        stroke-linecap="round"
+        vector-effect="non-scaling-stroke"
+      />
+      {
+        points.map((p, i) => (
+          <rect x={x(i) - 50 / Math.max(1, points.length - 1)} y="0" width={100 / Math.max(1, points.length - 1)} height="100" fill="transparent">
+            <title>{`${formatShortDate(p.date)}: ${formatMoney(p.value, currency)}`}</title>
+          </rect>
+        ))
+      }
+    </svg>
+    <div class="chart__x" aria-hidden="true">
+      {
+        xTicks.map((t, k) => (
+          <span class:list={{ "is-minor": k % 2 === 1 && k !== xTicks.length - 1 }} style={`left:${x(t.i)}%`}>
+            {formatShortDate(t.date)}
+          </span>
+        ))
+      }
+    </div>
+  </div>
+</figure>
+
+<style>
+  .chart {
+    display: grid;
+    grid-template-columns: 56px 1fr;
+    margin: 0;
+    padding-bottom: var(--space-6);
+  }
+
+  .chart__y {
+    position: relative;
+    height: 220px;
+  }
+
+  .chart__y span,
+  .chart__x span {
+    position: absolute;
+    font: 400 12px/16px var(--font-sans);
+    color: var(--text-muted);
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+
+  .chart__y span {
+    right: var(--space-2);
+    transform: translateY(-50%);
+  }
+
+  .chart__plot {
+    position: relative;
+    height: 220px;
+  }
+
+  .chart__plot svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+  }
+
+  .chart__x {
+    position: absolute;
+    top: calc(100% + var(--space-2));
+    left: 0;
+    right: 0;
+  }
+
+  .chart__x span {
+    transform: translateX(-50%);
+  }
+
+  .chart__x span:first-child {
+    transform: none;
+  }
+
+  .chart__x span:last-child {
+    transform: translateX(-100%);
+  }
+
+  /* Halve the date ticks on narrow screens so labels never collide. */
+  @media (max-width: 599px) {
+    .chart__x span.is-minor {
+      display: none;
+    }
+  }
+</style>

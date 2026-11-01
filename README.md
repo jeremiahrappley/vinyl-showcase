@@ -37,6 +37,21 @@ npm run astro check   # type-check
 Pages: `/` (grid), `/shelf/` (spine view), `/r/{instanceId}/` (detail),
 `/stats/`, `/wantlist/`.
 
+### Design system
+
+The site uses [Aperture](https://github.com/jeremiahrappley/aperture-design-system):
+dark-first (light when the OS asks), Inter, 1px hairlines instead of shadows,
+a left sidebar that becomes a drawer below 800px.
+
+- `src/styles/aperture/` holds verbatim copies of Aperture's `dist/tokens.css`
+  and `design-system/components/bundle.css`. Don't edit them; re-copy from the
+  design-system repo to update (the header comment records the source commit).
+- `src/components/aperture/` holds zero-JS Astro ports of the Aperture React
+  components this site needs (`Card`, `PageHeader`, `StatTile`, `BarList`,
+  `Legend`) plus static SVG charts that follow Aperture's `charts.md`. They emit
+  the same `ap-*` markup as the React bundle, so no React runtime ships.
+- `src/lib/format.ts` applies the content rules: `$1,234.56`, `Oct 31, 2026`.
+
 ## CI
 
 `.github/workflows/sync.yml` runs `sync` + `images` nightly and `valuations`
