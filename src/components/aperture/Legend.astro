@@ -1,0 +1,19 @@
+---
+// Aperture Legend: dot, label and optional tabular value per series.
+interface Props {
+  items: { label: string; value?: string; color?: string }[];
+}
+const { items } = Astro.props;
+---
+
+<div class="ap-legend">
+  {
+    items.map((it, i) => (
+      <span class="ap-legend__item">
+        <span class="ap-legend__dot" style={`background:${it.color ?? `var(--chart-${i + 1})`}`} />
+        {it.label}
+        {it.value != null && <span class="ap-legend__value">{it.value}</span>}
+      </span>
+    ))
+  }
+</div>

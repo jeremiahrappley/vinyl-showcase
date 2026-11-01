@@ -8,12 +8,12 @@ interface Props {
   eager?: boolean;
 }
 const { cover, size, alt, eager = false } = Astro.props;
-const backdrop = cover?.palette[0] ?? "#ddd6c8";
+const backdrop = cover?.palette[0];
 ---
 
 {
   cover ? (
-    <div class="cover" style={`background-image:url(${cover.placeholder});background-color:${backdrop};`}>
+    <div class="cover" style={`background-image:url(${cover.placeholder});${backdrop ? `background-color:${backdrop};` : ""}`}>
       <picture>
         <source srcset={cover[size].avif} type="image/avif" />
         <source srcset={cover[size].webp} type="image/webp" />
@@ -28,14 +28,22 @@ const backdrop = cover?.palette[0] ?? "#ddd6c8";
 <style>
 	.cover {
 		aspect-ratio: 1 / 1;
+		background-color: var(--surface-active);
 		background-size: cover;
 		background-position: center;
 		overflow: hidden;
-		border-radius: 2px;
+		border-radius: var(--radius-md);
+		position: relative;
 	}
 
-	.cover--empty {
-		background: var(--border);
+	/* Hairline so dark covers keep an edge on the near-black ground. */
+	.cover::after {
+		content: "";
+		position: absolute;
+		inset: 0;
+		border: 1px solid var(--border);
+		border-radius: inherit;
+		pointer-events: none;
 	}
 
 	.cover picture,

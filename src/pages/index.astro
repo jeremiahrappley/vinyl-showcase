@@ -1,91 +1,32 @@
 ---
 import Base from "../layouts/Base.astro";
-import Cover from "../components/Cover.astro";
+import RecordGrid from "../components/RecordGrid.astro";
 import { getCollection } from "../lib/view-model.ts";
+import { plural } from "../lib/format.ts";
 
 const items = getCollection();
 ---
 
-<Base title="Grid">
-	<div class="grid-header">
-		<h1>Our Collection</h1>
-		<p class="count">{items.length} record{items.length === 1 ? "" : "s"}</p>
-	</div>
+<Base title="Collection" nav="collection">
+	<span slot="actions" class="t-small muted">{plural(items.length, "record")}</span>
 
 	{
 		items.length === 0 ? (
 			<p class="empty">
-				No records synced yet. Run <code>npm run sync</code> then <code>npm run images</code> (or append{" "}
-				<code>-- --mock</code> to try it with fixture data first).
+				Records you sync will appear here. Run <code>npm run sync</code> then <code>npm run images</code>, or append{" "}
+				<code>-- --mock</code> to try it with fixture data first.
 			</p>
 		) : (
-			<ul class="grid">
-				{items.map((item) => (
-					<li>
-						<a href={`/r/${item.instanceId}/`}>
-							<Cover cover={item.cover} size="grid" alt={item.title} />
-							<p class="title">{item.title}</p>
-							<p class="meta">
-								{item.artists} · {item.year}
-							</p>
-						</a>
-					</li>
-				))}
-			</ul>
+			<RecordGrid
+				records={items.map((item) => ({
+					key: item.instanceId,
+					href: `/r/${item.instanceId}/`,
+					cover: item.cover,
+					title: item.title,
+					artists: item.artists,
+					year: item.year,
+				}))}
+			/>
 		)
 	}
 </Base>
-
-<style>
-	.grid-header {
-		display: flex;
-		align-items: baseline;
-		justify-content: space-between;
-		margin-bottom: 2rem;
-	}
-
-	.count {
-		color: var(--text-dim);
-		font-size: 0.9rem;
-	}
-
-	.empty {
-		color: var(--text-dim);
-	}
-
-	.empty code {
-		background: var(--bg-raised);
-		border: 1px solid var(--border);
-		border-radius: 3px;
-		padding: 0.1em 0.4em;
-		font-size: 0.9em;
-	}
-
-	.grid {
-		list-style: none;
-		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
-		gap: 2rem 1.5rem;
-		padding: 0;
-		margin: 0;
-	}
-
-	.grid li a {
-		display: block;
-		text-decoration: none;
-		color: var(--text);
-	}
-
-	.title {
-		margin: 0.75rem 0 0.15rem;
-		font-size: 0.92rem;
-		font-weight: 600;
-		line-height: 1.3;
-	}
-
-	.meta {
-		margin: 0;
-		font-size: 0.82rem;
-		color: var(--text-dim);
-	}
-</style>

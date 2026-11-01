@@ -1,0 +1,88 @@
+---
+// Vertical bars for an ordered distribution (e.g. records per decade).
+// One series in chart-1, direct value labels, no gridlines needed.
+interface Props {
+  columns: { label: string; short?: string; value: number }[];
+  label: string;
+}
+const { columns, label } = Astro.props;
+const max = Math.max(1, ...columns.map((c) => c.value));
+---
+
+<figure class="cols" aria-label={label}>
+  {
+    columns.map((c) => (
+      <div class="col" role="img" aria-label={`${c.label}: ${c.value}`}>
+        <span class="col__value">{c.value.toLocaleString("en-US")}</span>
+        <span class="col__bar" style={`height:${Math.max(1, (c.value / max) * 100)}%`} />
+        <span class="col__label">
+          <span class="col__full">{c.label}</span>
+          <span class="col__short" aria-hidden="true">{c.short ?? c.label}</span>
+        </span>
+      </div>
+    ))
+  }
+</figure>
+
+<style>
+  .cols {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: minmax(0, 1fr);
+    gap: var(--space-3);
+    margin: 0;
+    height: 200px;
+    border-bottom: 1px solid var(--chart-grid);
+    padding-bottom: 0;
+    position: relative;
+    margin-bottom: var(--space-6);
+  }
+
+  .col {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    min-width: 0;
+    position: relative;
+    height: 100%;
+    padding-top: var(--space-5);
+  }
+
+  .col__bar {
+    display: block;
+    width: 100%;
+    max-width: 40px;
+    background: var(--chart-1);
+    border-radius: var(--radius-sm) var(--radius-sm) 0 0;
+  }
+
+  .col__value {
+    font: 400 12px/16px var(--font-sans);
+    font-variant-numeric: tabular-nums;
+    color: var(--text);
+    margin-bottom: var(--space-1);
+  }
+
+  .col__short {
+    display: none;
+  }
+
+  @media (max-width: 599px) {
+    .col__full {
+      display: none;
+    }
+
+    .col__short {
+      display: inline;
+    }
+  }
+
+  .col__label {
+    position: absolute;
+    top: calc(100% + var(--space-2));
+    font: 400 12px/16px var(--font-sans);
+    color: var(--text-muted);
+    white-space: nowrap;
+  }
+</style>

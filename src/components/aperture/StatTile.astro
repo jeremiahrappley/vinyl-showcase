@@ -1,0 +1,51 @@
+---
+// Aperture StatTile: muted label, large tabular value, optional delta with arrow, sparkline along the bottom.
+interface Props {
+  label: string;
+  value: string;
+  delta?: string;
+  direction?: "up" | "down";
+  tone?: "gain" | "loss" | "neutral";
+  data?: number[];
+}
+const { label, value, delta, direction, tone = "neutral", data = [] } = Astro.props;
+const arrow = direction === "up" ? "↗ " : direction === "down" ? "↘ " : "";
+
+let points: string | undefined;
+if (data.length >= 2) {
+  const max = Math.max(...data);
+  const min = Math.min(...data);
+  const span = max - min || 1;
+  points = data.map((v, i) => `${((i / (data.length - 1)) * 100).toFixed(2)},${(52 - ((v - min) / span) * 48).toFixed(2)}`).join(" ");
+}
+---
+
+<section class="ap-card ap-stat">
+  <div class="ap-stat__top">
+    <h2 class="ap-stat__label">{label}</h2>
+    <div class="ap-stat__row">
+      <span class="ap-stat__value">{value}</span>
+      {
+        delta && (
+          <span class:list={["ap-stat__delta", { "ap-stat__delta--gain": tone === "gain", "ap-stat__delta--loss": tone === "loss" }]}>
+            {arrow + delta}
+          </span>
+        )
+      }
+    </div>
+  </div>
+  {
+    points && (
+      <svg class="ap-stat__spark" viewBox="0 0 100 56" preserveAspectRatio="none" aria-hidden="true">
+        <polyline
+          points={points}
+          fill="none"
+          stroke="var(--chart-1)"
+          stroke-width="1.5"
+          vector-effect="non-scaling-stroke"
+          stroke-linejoin="round"
+        />
+      </svg>
+    )
+  }
+</section>
