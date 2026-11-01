@@ -1,0 +1,618 @@
+{
+  "id": 37779105,
+  "status": "Accepted",
+  "year": 2026,
+  "resource_url": "https://api.discogs.com/releases/37779105",
+  "uri": "https://www.discogs.com/release/37779105-Madonna-Confessions-II",
+  "artists": [
+    {
+      "name": "Madonna",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 8760,
+      "resource_url": "https://api.discogs.com/artists/8760",
+      "thumbnail_url": "https://i.discogs.com/fjQBxpt4yrUngtgPlmbSKnFV4qW-YGVwHC3TdAIKUUE/rs:fit/g:sm/q:90/h:600/w:467/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTg3NjAt/MTY3MzgwOTA4My04/ODg0LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Madonna",
+  "labels": [
+    {
+      "name": "Maverick",
+      "catno": "093624822783",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1685,
+      "resource_url": "https://api.discogs.com/labels/1685",
+      "thumbnail_url": "https://i.discogs.com/vRyOMSq2LgPVR19pEj04w6v1lhVmHAulGG1d2ggutc0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2ODUt/MTYwMTc2NDM1NC04/OTY5LmpwZWc.jpeg"
+    },
+    {
+      "name": "Warner Records",
+      "catno": "093624822783",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 134882,
+      "resource_url": "https://api.discogs.com/labels/134882",
+      "thumbnail_url": "https://i.discogs.com/VXe1252-kjlsKC8ahwKwRSTBIYAEwTInthD7CiS8BLE/rs:fit/g:sm/q:90/h:216/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzNDg4/Mi0xNTYzNDU4NDI5/LTk2NjguanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Boy Toy, Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 269299,
+      "resource_url": "https://api.discogs.com/labels/269299"
+    },
+    {
+      "name": "Boy Toy, Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 269299,
+      "resource_url": "https://api.discogs.com/labels/269299"
+    },
+    {
+      "name": "Warner Records Inc.",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 596015,
+      "resource_url": "https://api.discogs.com/labels/596015",
+      "thumbnail_url": "https://i.discogs.com/RikpzVtGMoIwbY-bgMQP-LRaVwL6x9wlQ1_JhnRmylk/rs:fit/g:sm/q:90/h:48/w:246/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU5NjAx/NS0xNjQ5OTU4MDYy/LTY0NzguanBlZw.jpeg"
+    },
+    {
+      "name": "Warner Music Group",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 2345,
+      "resource_url": "https://api.discogs.com/labels/2345",
+      "thumbnail_url": "https://i.discogs.com/95s0HdOCUU8FyLsHNEDnOWp4uyplgYi8soEbgIdX1dY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIzNDUt/MTc4MTM2Mjc2MS0x/OTYyLmpwZWc.jpeg"
+    },
+    {
+      "name": "Warner Records Inc.",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 596015,
+      "resource_url": "https://api.discogs.com/labels/596015",
+      "thumbnail_url": "https://i.discogs.com/RikpzVtGMoIwbY-bgMQP-LRaVwL6x9wlQ1_JhnRmylk/rs:fit/g:sm/q:90/h:48/w:246/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU5NjAx/NS0xNjQ5OTU4MDYy/LTY0NzguanBlZw.jpeg"
+    },
+    {
+      "name": "Abbey Road Studios",
+      "catno": "",
+      "entity_type": "30",
+      "entity_type_name": "Lacquer Cut At",
+      "id": 217694,
+      "resource_url": "https://api.discogs.com/labels/217694",
+      "thumbnail_url": "https://i.discogs.com/XDYTZcjSSoTI3eUuMARX4Yjr7f6Ajl1tGgCYQr24Qms/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxNzY5/NC0xNTI0Njg3MDc3/LTM2NzEucG5n.jpeg"
+    },
+    {
+      "name": "GZ Media",
+      "catno": "315889E",
+      "entity_type": "44",
+      "entity_type_name": "Plated At",
+      "id": 430654,
+      "resource_url": "https://api.discogs.com/labels/430654",
+      "thumbnail_url": "https://i.discogs.com/tsQO8Fa5vPMtcFal_YMkjrAm8fO6g9lwwTSN64t0mo8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQzMDY1/NC0xNzUzMTExMDY1/LTM2ODcucG5n.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Limited Edition",
+        "Mixed",
+        "Stereo"
+      ],
+      "text": "Red Translucent"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 717,
+    "want": 98,
+    "rating": {
+      "count": 120,
+      "average": 4.82
+    },
+    "submitter": {
+      "username": "vrp_pdx",
+      "resource_url": "https://api.discogs.com/users/vrp_pdx"
+    },
+    "contributors": [
+      {
+        "username": "vrp_pdx",
+        "resource_url": "https://api.discogs.com/users/vrp_pdx"
+      },
+      {
+        "username": "rvdbrugg",
+        "resource_url": "https://api.discogs.com/users/rvdbrugg"
+      },
+      {
+        "username": "idratherbereading",
+        "resource_url": "https://api.discogs.com/users/idratherbereading"
+      },
+      {
+        "username": "Kingo78",
+        "resource_url": "https://api.discogs.com/users/Kingo78"
+      },
+      {
+        "username": "stratus.vinyl",
+        "resource_url": "https://api.discogs.com/users/stratus.vinyl"
+      },
+      {
+        "username": "Cmptrblu808",
+        "resource_url": "https://api.discogs.com/users/Cmptrblu808"
+      },
+      {
+        "username": "THejos52",
+        "resource_url": "https://api.discogs.com/users/THejos52"
+      },
+      {
+        "username": "AkaeBeka",
+        "resource_url": "https://api.discogs.com/users/AkaeBeka"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2026-07-02T15:43:57-07:00",
+  "date_changed": "2026-07-22T07:57:02-07:00",
+  "num_for_sale": 53,
+  "lowest_price": 13,
+  "master_id": 4273809,
+  "master_url": "https://api.discogs.com/masters/4273809",
+  "title": "Confessions II",
+  "country": "USA & Canada",
+  "released": "2026-07-03",
+  "notes": "Made in Canada.\n\n\"Limited Edition\" on hype sticker on shrink wrap. Issued in hot pink alternate cover. Record in an inner picture sleeve. Includes a folded poster with album cover graphic on one side and lyrics and credits on the other. Cover with a mirrored tape seal on the pocket opening. Cover interior pocket is hot pink.\n\nWarner Records Inc., a Warner Music Group Company. ©℗ 2026 Boy Toy Inc., under exclusive license to Warner Records Inc.\n\nIn the runouts, \"315889EⅩ\" and \"25ⅩⅩⅩⅩⅩ\" are machine engraved, \"025ⅩⅩⅩⅩⅩ\" is laser-etched, and all else is hand etched.\n\nSome copies sold with a Warner Store Exclusive Clear 7” Vinyl of Bring Your Love (feat. Sabrina Carpenter) sealed inside.\n",
+  "released_formatted": "03 Jul 2026",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "093624822783",
+      "description": "Scanned, on hype sticker"
+    },
+    {
+      "type": "Barcode",
+      "value": "0 93624 82278 3",
+      "description": "Text, on hype sticker"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "315889E1 02536730 2531816 MILES. ABBEY ROAD. ROOM 30",
+      "description": "Side A runout, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "315889E2 02537856 2530782 MILES. ABBEY ROAD ROOM 30✳",
+      "description": "Side B runout, variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "315889E1 0253658 2531825 MILES. ABBEY ROAD . ROOM30",
+      "description": "Side A runout, variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "315889E2 02538156 2534611 MILES. ABBEY ROAD ROOM 30 ✳",
+      "description": "Side B runout, variant 2"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=EHrt-gFgvXo",
+      "title": "Madonna & Sabrina Carpenter - Bring Your Love (Official Video)",
+      "description": "You're watching the official music video for 'Bring Your Love' by Madonna & Sabrina Carpenter. Original song taken from Madonna's Confessions II.\n- Stream ‘Bring Your Love’ now: https://madonna.lnk.to/bringyourlove \n- Buy/stream Confessions II:  https://M",
+      "duration": 247,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=yJtckcMHM2g",
+      "title": "Madonna - \"Confessions II - The Film\"",
+      "description": "You're watching Madonna's \"CONFESSIONS II - The Film\".\nDirected by TORSO  \nProduced by DIVISION\nPowered by DOLCE&GABBANA\nAll songs taken from Confessions II.\n\n- Buy/stream Confessions II: https://Madonna.lnk.to/Confessions2\n\nSubscribe to the Madonna Chann",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=D3zkX-Am4o4",
+      "title": "Madonna - Danceteria (Official Lyric Video)",
+      "description": "You're listening to 'Danceteria' by Madonna from Confessions II.\n- Stream ‘Danceteria’ now: https://madonna.lnk.to/danceteria \n- Buy/Stream Confessions II: https://Madonna.lnk.to/Confessions2 \n\nSubscribe to the Madonna Channel! https://Madonna.lnk.to/YouT",
+      "duration": 237,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=2HTJmYFnPI0",
+      "title": "Madonna & Sabrina Carpenter - Bring Your Love (Official Visualizer)",
+      "description": "You're listening to 'Bring Your Love' by Madonna from Confessions II.\n- Stream ‘Bring Your Love’ now: https://madonna.lnk.to/bringyourlove \n- Buy/stream Confessions II: https://Madonna.lnk.to/Confessions2\n\nSubscribe to the Madonna Channel! https://Madonna",
+      "duration": 217,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Abty86vTsV0",
+      "title": "Madonna - Danceteria (Official Audio)",
+      "description": "You're listening to 'Danceteria' by Madonna from Confessions II.\n - Buy/Stream the album: https://Madonna.lnk.to/Confessions2 \n\nSubscribe to the Madonna Channel! https://Madonna.lnk.to/YouTubeID \n\nCheck out the Official Madonna YouTube Playlists…\nThe Comp",
+      "duration": 236,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=pFsiAf67FDg",
+      "title": "Bring Your Love",
+      "description": "Provided to YouTube by Warner Records\n\nBring Your Love · Madonna · Sabrina Carpenter\n\nBring Your Love\n\n℗ Warner Records, ℗ 2026 Boy Toy Inc., under exclusive license to Warner Records Inc.\n\nDrums, Programmer: Giampaolo Parisi\nAssistant Engineer: Gloria Co",
+      "duration": 217,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=88fD-UtG_yo",
+      "title": "Madonna - Love Sensation (Official Visualizer)",
+      "description": "You're listening to 'Love Sensation' by Madonna from Confessions II.\n- Stream ‘Love Sensation’ now: https://madonna.lnk.to/LoveSensation \n- Buy/stream Confessions II: https://Madonna.lnk.to/Confessions2\n\nSubscribe to the Madonna Channel! https://Madonna.l",
+      "duration": 233,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Zx83eVfP64A",
+      "title": "Madonna - I Feel So Free (Official Visualizer)",
+      "description": "You're listening to “I Feel So Free’' by Madonna from Confessions II.\n- Stream ‘I Feel So Free’ now: https://Madonna.lnk.to/IFSF \n- Buy/stream Confessions II: https://Madonna.lnk.to/Confessions2\n\r\nSubscribe to the Madonna Channel! https://Madonna.lnk.to/Y",
+      "duration": 299,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=TZOFE4gP7-c",
+      "title": "I Feel So Free",
+      "description": "Provided to YouTube by Warner Records\n\nI Feel So Free · Madonna\n\nI Feel So Free\n\n℗ Warner Records, ℗ 2026 Boy Toy Inc., under exclusive license to Warner Records Inc.\n\nProducer: Madonna\nProducer: Stuart Price\nKeyboards: Arca\nAdditional Production: Arca\nPr",
+      "duration": 304,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=qRNEsK7dyFo",
+      "title": "Madonna - Good For The Soul (Official Audio)",
+      "description": "You're listening to 'Good For The Soul' by Madonna from Confessions On A Dance Floor: Part II.\n - Buy/Stream the album: https://Madonna.lnk.to/Confessions2 \n\nSubscribe to the Madonna Channel! https://Madonna.lnk.to/YouTubeID \n\nCheck out the Official Madon",
+      "duration": 189,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=CJi1svB_bOk",
+      "title": "Madonna - One Step Away (Official Audio)",
+      "description": "You're listening to 'One Step Away' by Madonna from Confessions II.\n - Buy/Stream the album: https://Madonna.lnk.to/Confessions2 \n\nSubscribe to the Madonna Channel! https://Madonna.lnk.to/YouTubeID \n\nCheck out the Official Madonna YouTube Playlists…\nThe C",
+      "duration": 264,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ANCFGLj-SZA",
+      "title": "Madonna & Feid - Read My Lips (Official Audio)",
+      "description": "You're listening to 'Read My Lips' by Madonna & Feid from Confessions II.\n - Buy/Stream the album: https://Madonna.lnk.to/Confessions2 \n\nSubscribe to the Madonna Channel! https://Madonna.lnk.to/YouTubeID \n\nCheck out the Official Madonna YouTube Playlists…",
+      "duration": 287,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=iB20IYfQWz8",
+      "title": "Madonna - Everything (Official Audio)",
+      "description": "You're listening to 'Everything' by Madonna from Confessions II.\n - Buy/Stream the album: https://Madonna.lnk.to/Confessions2 \n\nSubscribe to the Madonna Channel! https://Madonna.lnk.to/YouTubeID \n\nCheck out the Official Madonna YouTube Playlists…\nThe Comp",
+      "duration": 250,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=QSpiHAHM9a4",
+      "title": "Love Sensation",
+      "description": "Provided to YouTube by Warner Records\n\nLove Sensation · Madonna\n\nLove Sensation\n\n℗ Warner Records, ℗ 2026 Boy Toy Inc., under exclusive license to Warner Records Inc.\n\nProducer: Madonna\nLead Vocals: Madonna\nMasterer: Ruairi O'Flaherty\nBass, Keyboards: Stu",
+      "duration": 229,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=i6RGbT_Pi8M",
+      "title": "Madonna - Love Without Words (Official Audio)",
+      "description": "You're listening to 'Love Without Words' by Madonna from Confessions II.\n - Buy/Stream the album: https://Madonna.lnk.to/Confessions2 \n\nSubscribe to the Madonna Channel! https://Madonna.lnk.to/YouTubeID \n\nCheck out the Official Madonna YouTube Playlists…\n",
+      "duration": 261,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=pny6ILbAyWc",
+      "title": "Madonna & Martin Garrix - Bizarre (Official Audio)",
+      "description": "You're listening to 'Bizarre' by Madonna and Martin Garrix from Confessions II.\n - Buy/Stream the album: https://Madonna.lnk.to/Confessions2 \n\nSubscribe to the Madonna Channel! https://Madonna.lnk.to/YouTubeID \n\nCheck out the Official Madonna YouTube Play",
+      "duration": 246,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=3Gi-XqXwciQ",
+      "title": "Madonna & Lola Leon - The Test (Official Audio)",
+      "description": "You're listening to 'The Test' by Madonna and Lola Leon from Confessions II.\n - Buy/Stream the album: https://Madonna.lnk.to/Confessions2 \n\nSubscribe to the Madonna Channel! https://Madonna.lnk.to/YouTubeID \n\nCheck out the Official Madonna YouTube Playlis",
+      "duration": 219,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=RkD5YClEarc",
+      "title": "Madonna - School (Official Audio)",
+      "description": "You're listening to 'School' by Madonna from Confessions II.\n - Buy/Stream the album: https://Madonna.lnk.to/Confessions2 \n\nSubscribe to the Madonna Channel! https://Madonna.lnk.to/YouTubeID \n\nCheck out the Official Madonna YouTube Playlists…\nThe Complete",
+      "duration": 264,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5--rbMede8E",
+      "title": "Madonna - Fragile (Official Audio)",
+      "description": "You're listening to 'Fragile' by Madonna from Confessions II.\n - Buy/Stream the album: https://Madonna.lnk.to/Confessions2 \n\nSubscribe to the Madonna Channel! https://Madonna.lnk.to/YouTubeID \n\nCheck out the Official Madonna YouTube Playlists…\nThe Complet",
+      "duration": 260,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=b5d3PfFpDLQ",
+      "title": "Madonna - My Sins Are My Savior (feat. Stromae) (Official Audio)",
+      "description": "You're listening to “My Sins Are My Savior (feat. Stromae)” by Madonna from Confessions II.\n - Buy/Stream the album: https://Madonna.lnk.to/Confessions2 \n\nSubscribe to the Madonna Channel! https://Madonna.lnk.to/YouTubeID \n\nCheck out the Official Madonna ",
+      "duration": 201,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=82NDwsWEaEk",
+      "title": "Madonna - Betrayal (Official Audio)",
+      "description": "You're listening to 'Betrayal' by Madonna from Confessions II.\n - Buy/Stream the album: https://Madonna.lnk.to/Confessions2 \n\nSubscribe to the Madonna Channel! https://Madonna.lnk.to/YouTubeID \n\nCheck out the Official Madonna YouTube Playlists…\nThe Comple",
+      "duration": 250,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=saTgTt28l3c",
+      "title": "Madonna - L.E.S. Girl (Official Audio)",
+      "description": "You're listening to 'L.E.S. Girl' by Madonna from Confessions II.\n - Buy/Stream the album: https://Madonna.lnk.to/Confessions2 \n\nSubscribe to the Madonna Channel! https://Madonna.lnk.to/YouTubeID \n\nCheck out the Official Madonna YouTube Playlists…\nThe Com",
+      "duration": 171,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=HaLiS8cUYjk",
+      "title": "Madonna - Hot Sauce (Bonus Track)",
+      "description": "🔥 MADONNA IS HEATING UP THE DANCE FLOOR! Listen to the official audio / snippet of \"HOT SAUCE\", the sensational new track by the Queen of Pop! 👑🌶️\n\nOriginally kept as a closely guarded secret, \"Hot Sauce\" has officially dropped as an exclusive bonus track",
+      "duration": 188,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=d3YoG8mGbRU",
+      "title": "Madonna - Bring Your Love (Stuart Price Afterhours Mix)",
+      "description": "You're listening to 'Bring Your Love (Stuart Price Afterhours Mix)' by Madonna. Original song taken from Confessions II.\n- Stream ‘Bring Your Love (Stuart Price Afterhours Mix)’ now: https://madonna.lnk.to/BYLAfterhours \n- Buy/stream Confessions II: https",
+      "duration": 335,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=YDTazIuuDPY",
+      "title": "Madonna - I Feel So Free (Peggy Gou Energy Mix) [Official Visualizer]",
+      "description": "You're listening to 'I Feel So Free (Peggy Gou Energy Mix)' by Madonna. Original song taken from Confessions II.\n- Stream 'I Feel So Free (Peggy Gou Energy Mix)' now: https://Madonna.lnk.to/IFSFPeggyGou \n- Stream ‘I Feel So Free’ now: https://Madonna.lnk.",
+      "duration": 268,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=k2nutBpS8wY",
+      "title": "Madonna & Sabrina Carpenter - Bring Your Love (Twilight Mix)",
+      "description": "You're listening to 'Bring Your Love (Honey Dijon Twilight Mix)' by Madonna & Sabrina from Confessions II.\n- Stream ‘Bring Your Love’ now: https://madonna.lnk.to/bringyourlove \n- Buy/Stream Confessions II: https://Madonna.lnk.to/Confessions2 \n\nSubscribe t",
+      "duration": 434,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=gZpmZW5g6Gs",
+      "title": "Madonna & Sabrina Carpenter - Bring Your Love (Peaktime Dub)",
+      "description": "You're listening to 'Bring Your Love (Honey Dijon Peaktime Dub)' by Madonna & Sabrina from Confessions II.\n- Stream ‘Bring Your Love’ now: https://madonna.lnk.to/bringyourlove \n- Buy/Stream Confessions II: https://Madonna.lnk.to/Confessions2 \n\nSubscribe t",
+      "duration": 270,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=VcDRkNHpa8w",
+      "title": "Love Sensation (salute's infinite passion remix)",
+      "description": "Provided to YouTube by Warner Records\n\nLove Sensation (salute's infinite passion remix) · Madonna\n\nLove Sensation Remixes\n\n℗ Warner Records, ℗ 2026 Boy Toy Inc., under exclusive license to Warner Records Inc.\n\nUnknown: salute\nProducer: Madonna\nLead Vocals",
+      "duration": 358,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=lbMTsaZwZIs",
+      "title": "Love Sensation (Floorplan Mix)",
+      "description": "Provided to YouTube by Warner Records\n\nLove Sensation (Floorplan Mix) · Madonna\n\nLove Sensation Remixes\n\n℗ Warner Records, ℗ 2026 Boy Toy Inc., under exclusive license to Warner Records Inc.\n\nUnknown: Floorplan\nProducer: Madonna\nLead Vocals: Madonna\nMaste",
+      "duration": 328,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Pop"
+  ],
+  "styles": [
+    "Dance-pop",
+    "House",
+    "Latin Pop",
+    "Progressive House"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "I Feel So Free",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Good For The Soul",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "One Step Away",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Bring Your Love",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Danceteria",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Read My Lips",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Everything",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Love Without Words",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Bizarre",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "School",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Fragile",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "My Sins Are My Savior",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Brent David Freaney",
+      "anv": "",
+      "join": "",
+      "role": "Art Direction, Design",
+      "tracks": "",
+      "id": 12659900,
+      "resource_url": "https://api.discogs.com/artists/12659900"
+    },
+    {
+      "name": "Special Offer, Inc.",
+      "anv": "",
+      "join": "",
+      "role": "Art Direction, Design",
+      "tracks": "",
+      "id": 12659903,
+      "resource_url": "https://api.discogs.com/artists/12659903"
+    },
+    {
+      "name": "Madonna",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 8760,
+      "resource_url": "https://api.discogs.com/artists/8760"
+    },
+    {
+      "name": "Stuart Price",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 125270,
+      "resource_url": "https://api.discogs.com/artists/125270"
+    },
+    {
+      "name": "Miles Showell",
+      "anv": "Miles",
+      "join": "",
+      "role": "Lacquer Cut By",
+      "tracks": "",
+      "id": 383408,
+      "resource_url": "https://api.discogs.com/artists/383408"
+    },
+    {
+      "name": "Rafael Pavarotti",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 17943804,
+      "resource_url": "https://api.discogs.com/artists/17943804"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/kbfPgcfZTw-zry2JPEp1zilzPAqc3PZS4Y_ClUy5bbg/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzc5/MTA1LTE3ODMwMzI3/MzgtMTMyNi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/kbfPgcfZTw-zry2JPEp1zilzPAqc3PZS4Y_ClUy5bbg/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzc5/MTA1LTE3ODMwMzI3/MzgtMTMyNi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Rztw-viUP9x579bwc1K23_lmA58gfMoSgAoNca6E44I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzc5/MTA1LTE3ODMwMzI3/MzgtMTMyNi5qcGVn.jpeg",
+      "width": 597,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/j8oxjXRPdxAbFmYKPoR12vt0OOVIY5dlekne2AyAJUo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzc5/MTA1LTE3ODMwMzI3/MzgtOTAxNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/j8oxjXRPdxAbFmYKPoR12vt0OOVIY5dlekne2AyAJUo/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzc5/MTA1LTE3ODMwMzI3/MzgtOTAxNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/91LClZJykKGqehgjzRvSTPjvHyL6RSpnTu_L4Rj16SQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzc5/MTA1LTE3ODMwMzI3/MzgtOTAxNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/tLAzEaQzPBIrPwprYmtwqcMag9ADx5AvZYrOcFSQkYo/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzc5/MTA1LTE3ODQwNDY3/NzQtMTMxMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/tLAzEaQzPBIrPwprYmtwqcMag9ADx5AvZYrOcFSQkYo/rs:fit/g:sm/q:90/h:583/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzc5/MTA1LTE3ODQwNDY3/NzQtMTMxMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/CwnuQlZU1NdV2oQmJOXaaCVDYnzjlHBz9uZH7Sx7BrE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzc5/MTA1LTE3ODQwNDY3/NzQtMTMxMy5qcGVn.jpeg",
+      "width": 600,
+      "height": 583
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/YeoCcSAD4qH8YWERpGpFkJarLlBeioGTQDq4Iz_3GDw/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzc5/MTA1LTE3ODQwNDY3/NzQtOTAzMy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/YeoCcSAD4qH8YWERpGpFkJarLlBeioGTQDq4Iz_3GDw/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzc5/MTA1LTE3ODQwNDY3/NzQtOTAzMy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/zMoI8XNq103RQhQfeRhyalnYDHG-j_OqL22gKBlueZY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzc5/MTA1LTE3ODQwNDY3/NzQtOTAzMy5qcGVn.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/qMcYib21FOqUsJvdF9QagnFwT_WUsMfT3UpZHYB0Qb0/rs:fit/g:sm/q:90/h:600/w:437/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzc5/MTA1LTE3ODQwNDY3/NzQtMjA0Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/qMcYib21FOqUsJvdF9QagnFwT_WUsMfT3UpZHYB0Qb0/rs:fit/g:sm/q:90/h:600/w:437/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzc5/MTA1LTE3ODQwNDY3/NzQtMjA0Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/oBk44u9vWLzStkfQESsBdzfTHcp46L5luqCvJiDI7bM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzc5/MTA1LTE3ODQwNDY3/NzQtMjA0Ni5qcGVn.jpeg",
+      "width": 437,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/HNzZ1u95AQRVfB1j_eTZL8_IGNh8xP0DiRMW3LuABdU/rs:fit/g:sm/q:90/h:600/w:415/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzc5/MTA1LTE3ODQwNDY3/NzQtMjM1NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/HNzZ1u95AQRVfB1j_eTZL8_IGNh8xP0DiRMW3LuABdU/rs:fit/g:sm/q:90/h:600/w:415/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzc5/MTA1LTE3ODQwNDY3/NzQtMjM1NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/PHvesytiIjaU85JR9kryqGQKDl_xiu6CIib4c8V0Q-o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzc5/MTA1LTE3ODQwNDY3/NzQtMjM1NC5qcGVn.jpeg",
+      "width": 415,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/DaUOtebDg4MEw9gCoyzzSB6Cc4oyUv_gTGZBKs651NI/rs:fit/g:sm/q:90/h:302/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzc5/MTA1LTE3ODQwNDY3/NzQtNDA4Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/DaUOtebDg4MEw9gCoyzzSB6Cc4oyUv_gTGZBKs651NI/rs:fit/g:sm/q:90/h:302/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzc5/MTA1LTE3ODQwNDY3/NzQtNDA4Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/qKAJPCVBzTbz5CZB5_aapm8_KakigPHvr4FzRRz6rnU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzc5/MTA1LTE3ODQwNDY3/NzQtNDA4Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 302
+    }
+  ],
+  "thumb": "https://i.discogs.com/Rztw-viUP9x579bwc1K23_lmA58gfMoSgAoNca6E44I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Nzc5/MTA1LTE3ODMwMzI3/MzgtMTMyNi5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

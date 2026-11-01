@@ -1,0 +1,537 @@
+{
+  "id": 98901,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/98901",
+  "uri": "https://www.discogs.com/release/98901-Madonna-Vogue",
+  "artists": [
+    {
+      "name": "Madonna",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 8760,
+      "resource_url": "https://api.discogs.com/artists/8760",
+      "thumbnail_url": "https://i.discogs.com/fjQBxpt4yrUngtgPlmbSKnFV4qW-YGVwHC3TdAIKUUE/rs:fit/g:sm/q:90/h:600/w:467/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTg3NjAt/MTY3MzgwOTA4My04/ODg0LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Madonna",
+  "labels": [
+    {
+      "name": "Sire",
+      "catno": "9 21513-0",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 27031,
+      "resource_url": "https://api.discogs.com/labels/27031",
+      "thumbnail_url": "https://i.discogs.com/m5O3b7wQfWBy9at93axlAjSSe_tNiaxL11oB0773IPY/rs:fit/g:sm/q:90/h:512/w:512/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MDMx/LTE2MDI5MjA0MDAt/MjE1NC5qcGVn.jpeg"
+    },
+    {
+      "name": "Warner Bros. Records",
+      "catno": "0-21513",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1000,
+      "resource_url": "https://api.discogs.com/labels/1000",
+      "thumbnail_url": "https://i.discogs.com/GO-baqlieZvkZypxRJOHC9sgGPzAinoiWBc7_LwuZ10/rs:fit/g:sm/q:90/h:358/w:380/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDAt/MTY0NDg3NDIwMS01/ODI0LmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Warner Communications",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 552180,
+      "resource_url": "https://api.discogs.com/labels/552180",
+      "thumbnail_url": "https://i.discogs.com/S_f58w7fIK9rNZ3U5whQEZTIi2iFjwgB2vgoNCBgAvk/rs:fit/g:sm/q:90/h:156/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU1MjE4/MC0xNDQ0NjE2MTQy/LTk2NTcucG5n.jpeg"
+    },
+    {
+      "name": "Warner Bros. Records Inc.",
+      "catno": "",
+      "entity_type": "8",
+      "entity_type_name": "Marketed By",
+      "id": 90718,
+      "resource_url": "https://api.discogs.com/labels/90718",
+      "thumbnail_url": "https://i.discogs.com/0p_FtS_A52grt0La9_L96khb4zeprvXbonLRFPgm9nk/rs:fit/g:sm/q:90/h:107/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkwNzE4/LTE3NzYzNDQzMjEt/MTI2MS5qcGVn.jpeg"
+    },
+    {
+      "name": "Sire Records Company",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 1682,
+      "resource_url": "https://api.discogs.com/labels/1682"
+    },
+    {
+      "name": "WEA International Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 1255,
+      "resource_url": "https://api.discogs.com/labels/1255",
+      "thumbnail_url": "https://i.discogs.com/FTp7bOLG35tc9gGFDNjFIyYDXCcHjkQQMJzGNh6p6nc/rs:fit/g:sm/q:90/h:91/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyNTUt/MTQ5MDQxMDQzMC00/MjI4LmpwZWc.jpeg"
+    },
+    {
+      "name": "Sire Records Company",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 1682,
+      "resource_url": "https://api.discogs.com/labels/1682"
+    },
+    {
+      "name": "WEA International Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 1255,
+      "resource_url": "https://api.discogs.com/labels/1255",
+      "thumbnail_url": "https://i.discogs.com/FTp7bOLG35tc9gGFDNjFIyYDXCcHjkQQMJzGNh6p6nc/rs:fit/g:sm/q:90/h:91/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEyNTUt/MTQ5MDQxMDQzMC00/MjI4LmpwZWc.jpeg"
+    },
+    {
+      "name": "WB Music Corp.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 131984,
+      "resource_url": "https://api.discogs.com/labels/131984",
+      "thumbnail_url": "https://i.discogs.com/eW6mLUR1nIwiKso3EmkA7ewTn_OYfDqfAqzGzZ91GSY/rs:fit/g:sm/q:90/h:82/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzMTk4/NC0xNDkyODM4Mzc3/LTc1MjcuanBlZw.jpeg"
+    },
+    {
+      "name": "Bleu Disque Music Co., Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 265835,
+      "resource_url": "https://api.discogs.com/labels/265835",
+      "thumbnail_url": "https://i.discogs.com/3oSehUXfnMY5jUZGvKDUq1H0wqYR1QJCst6uiu-Uj14/rs:fit/g:sm/q:90/h:102/w:431/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTgz/NS0xNjYzMTEzMjQy/LTM2NzIuanBlZw.jpeg"
+    },
+    {
+      "name": "Webo Girl Publishing, Inc.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 283847,
+      "resource_url": "https://api.discogs.com/labels/283847",
+      "thumbnail_url": "https://i.discogs.com/lCr-ATWpL4RYQIMa5ZS7ZU07fbkYjkc8USlKwADjMP0/rs:fit/g:sm/q:90/h:61/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI4Mzg0/Ny0xNjIwNzQ3NTI3/LTUzMTIuanBlZw.jpeg"
+    },
+    {
+      "name": "Lexor Music",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 283846,
+      "resource_url": "https://api.discogs.com/labels/283846"
+    },
+    {
+      "name": "Sterling Sound",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 264060,
+      "resource_url": "https://api.discogs.com/labels/264060",
+      "thumbnail_url": "https://i.discogs.com/Z8f0gMBrt5jLL4TAcCYDGXmMPOLi9V0UW593WXP6BUU/rs:fit/g:sm/q:90/h:118/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDA2/MC0xNTAwMjgzMzYy/LTMyMTguanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "12\"",
+        "33 ⅓ RPM",
+        "Maxi-Single"
+      ]
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 5606,
+    "want": 1699,
+    "rating": {
+      "count": 421,
+      "average": 4.52
+    },
+    "submitter": {
+      "username": "Jairinho",
+      "resource_url": "https://api.discogs.com/users/Jairinho"
+    },
+    "contributors": [
+      {
+        "username": "Jairinho",
+        "resource_url": "https://api.discogs.com/users/Jairinho"
+      },
+      {
+        "username": "Sam82",
+        "resource_url": "https://api.discogs.com/users/Sam82"
+      },
+      {
+        "username": "ShampooCell",
+        "resource_url": "https://api.discogs.com/users/ShampooCell"
+      },
+      {
+        "username": "zevulon",
+        "resource_url": "https://api.discogs.com/users/zevulon"
+      },
+      {
+        "username": "livfe",
+        "resource_url": "https://api.discogs.com/users/livfe"
+      },
+      {
+        "username": "siart",
+        "resource_url": "https://api.discogs.com/users/siart"
+      },
+      {
+        "username": "_jules",
+        "resource_url": "https://api.discogs.com/users/_jules"
+      },
+      {
+        "username": "dalhembe",
+        "resource_url": "https://api.discogs.com/users/dalhembe"
+      },
+      {
+        "username": "LoFi-Music",
+        "resource_url": "https://api.discogs.com/users/LoFi-Music"
+      },
+      {
+        "username": "moogman.de",
+        "resource_url": "https://api.discogs.com/users/moogman.de"
+      },
+      {
+        "username": "vinylman.fl",
+        "resource_url": "https://api.discogs.com/users/vinylman.fl"
+      },
+      {
+        "username": "vrp_pdx",
+        "resource_url": "https://api.discogs.com/users/vrp_pdx"
+      },
+      {
+        "username": "sydneyt10",
+        "resource_url": "https://api.discogs.com/users/sydneyt10"
+      },
+      {
+        "username": "m0j0",
+        "resource_url": "https://api.discogs.com/users/m0j0"
+      },
+      {
+        "username": "DjPaulT",
+        "resource_url": "https://api.discogs.com/users/DjPaulT"
+      },
+      {
+        "username": "Bklyn_Queens_Music",
+        "resource_url": "https://api.discogs.com/users/Bklyn_Queens_Music"
+      },
+      {
+        "username": "onlevchenko67",
+        "resource_url": "https://api.discogs.com/users/onlevchenko67"
+      },
+      {
+        "username": "ak1990",
+        "resource_url": "https://api.discogs.com/users/ak1990"
+      },
+      {
+        "username": "mantaurus",
+        "resource_url": "https://api.discogs.com/users/mantaurus"
+      },
+      {
+        "username": "mariosneo",
+        "resource_url": "https://api.discogs.com/users/mariosneo"
+      },
+      {
+        "username": "italomania1985",
+        "resource_url": "https://api.discogs.com/users/italomania1985"
+      },
+      {
+        "username": "PokemonBlueVersion",
+        "resource_url": "https://api.discogs.com/users/PokemonBlueVersion"
+      },
+      {
+        "username": "DJGreek",
+        "resource_url": "https://api.discogs.com/users/DJGreek"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2003-01-23T10:25:01-08:00",
+  "date_changed": "2025-12-07T07:37:30-08:00",
+  "num_for_sale": 96,
+  "lowest_price": 5.62,
+  "master_id": 67848,
+  "master_url": "https://api.discogs.com/masters/67848",
+  "title": "Vogue",
+  "country": "US",
+  "released": "1990-04-05",
+  "notes": "Back sleeve:\nOriginal versions available on the Sire/Warner Bros. album [url=https://www.discogs.com/Madonna-Im-Breathless-Music-From-And-Inspired-By-The-Film-Dick-Tracy/master/34566]I'M BREATHLESS[/url].\nAvailable on LP, Cassette and Compact Disc (1/4/2-26209).\n\n© 1990 Sire Records Company for the U.S. and WEA International Inc. for the world outside of the U.S.\n℗ 1990 Sire Records Company for the U.S. and WEA International Inc. for the world outside of the U.S.\n\nMade in U.S.A.\n\nLabels:\nFrom the Sire/Warner Bros. album [url=https://www.discogs.com/Madonna-Im-Breathless-Music-From-And-Inspired-By-The-Film-Dick-Tracy/release/1028359]I'M BREATHLESS[/url] (1-26209)\n\n℗ 1990 Sire Records Company for the U.S.\n\nCatalog number 0-21513 appears on labels and runouts, whereas 9 21513-0 appears on spine.\nPromo copies have gold embossed stamp on picture jacket and contain same track listing, length and order as commercial release.",
+  "released_formatted": "05 Apr 1990",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "0 7599-21513-0 6",
+      "description": "Text"
+    },
+    {
+      "type": "Barcode",
+      "value": "075992151306",
+      "description": "Scanned"
+    },
+    {
+      "type": "Rights Society",
+      "value": "ASCAP"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0-21513-A-REI-SR1-DMM STERLING-1 SP1-4",
+      "description": "Runout side A, etched - variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0-21513 B-REI-DMM-SR1 STERLING-1 SP1-4",
+      "description": "Runout side B, etched - variant 1"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0-21513-A-REI-SR1-DMM STERLING-1 SP1-1",
+      "description": "Runout side A, etched - variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0-21513 B-REI-DMM-SR1 STERLING-1 SP1-1",
+      "description": "Runout side B, etched - variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0-21513-A-REI-SR1-DMM STERLING-1 SP1-1",
+      "description": "Runout side A, etched - variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0-21513 B-REI-DMM-SR1 STERLING-1 SP1-4",
+      "description": "Runout side B, etched - variant 3"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0-21513-A-RE1-SR1-DMM STERLING -1 SP1-4",
+      "description": "Runout side A, etched - variant 4"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "0-21513 B-RE1-Dmm-SR1 STERLING -1 SP2-1",
+      "description": "Runout side B, etched - variant 4"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=GuJQSAiODqI",
+      "title": "Madonna - Vogue (Official Video)",
+      "description": "You're watching the official music video for \"Vogue\" directed by David Fincher from Madonna's soundtrack album 'I'm Breathless' for the motion picture 'Dick Tracy' released on Sire Records in 1990. \nListen to Madonna’s latest release here: https://Madonna",
+      "duration": 294,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=P4oD-RNoo5o",
+      "title": "Madonna - Vogue (12\" Remix) [Official Video]",
+      "description": "You're watching the official 12\" Remix video for “Vogue” from Madonna's album 'I'm Breathless' released on Warner Bros in 1990.\n\r\nListen to Madonna’s latest release here: https://Madonna.lnk.to/latest \r\n\r\nSubscribe to the Madonna Channel! https://Madonna.",
+      "duration": 482,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=NfOOjvyhsls",
+      "title": "Madonna - Vogue (Bette Davis Dub)",
+      "description": "You're listening to the official Bette Davis Dub for “Vogue” from Madonna's album 'I'm Breathless' released on Sire Records in 1990.\nListen to Madonna’s latest release here: https://Madonna.lnk.to/latest \r\n\r\nSubscribe to the Madonna Channel! https://Madon",
+      "duration": 449,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=YKMbaNziZe8",
+      "title": "Madonna - Vogue (Strike A Pose Dub)",
+      "description": "You're listening to the official Strike A Pose Dub for “Vogue” from Madonna's album 'I'm Breathless' released on Sire Records in 1990. \nListen to Madonna’s latest release here: https://Madonna.lnk.to/latest \r\n\r\nSubscribe to the Madonna Channel! https://Ma",
+      "duration": 457,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=YnqoL-J_9aE",
+      "title": "Madonna - Vogue (Younger Than Me Edit)",
+      "description": "©Follow Younger Than Me on the following sites:\n👁️Instagram:https://www.instagram.com/younger.than.me\n👁️Soundcloud: https://soundcloud.com/youngerthanme\n👁️Facebook: https://www.facebook.com/YoungerThanMeOfficial\n\n©Follow I L L U S I O N: \n👁️Facebook: http",
+      "duration": 377,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Pop"
+  ],
+  "styles": [
+    "House"
+  ],
+  "tracklist": [
+    {
+      "position": "A",
+      "type_": "track",
+      "title": "Vogue (12\" Version)",
+      "duration": "8:19"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Vogue (Bette Davis Dub)",
+      "duration": "7:24"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Vogue (Strike-A-Pose Dub)",
+      "duration": "7:37"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Jeri Heiden",
+      "anv": "",
+      "join": "",
+      "role": "Design",
+      "tracks": "",
+      "id": 442042,
+      "resource_url": "https://api.discogs.com/artists/442042"
+    },
+    {
+      "name": "Tony Shimkin",
+      "anv": "",
+      "join": "",
+      "role": "Edited By",
+      "tracks": "",
+      "id": 122914,
+      "resource_url": "https://api.discogs.com/artists/122914"
+    },
+    {
+      "name": "Curt Frasca",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant Engineer]",
+      "tracks": "",
+      "id": 61552,
+      "resource_url": "https://api.discogs.com/artists/61552"
+    },
+    {
+      "name": "Goh Hotoda",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Mix Engineer]",
+      "tracks": "",
+      "id": 25828,
+      "resource_url": "https://api.discogs.com/artists/25828"
+    },
+    {
+      "name": "Craig Kostich",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 243620,
+      "resource_url": "https://api.discogs.com/artists/243620"
+    },
+    {
+      "name": "Shep Pettibone",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "",
+      "id": 2732,
+      "resource_url": "https://api.discogs.com/artists/2732"
+    },
+    {
+      "name": "Alberto Tolot",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 2235670,
+      "resource_url": "https://api.discogs.com/artists/2235670"
+    },
+    {
+      "name": "Madonna",
+      "anv": "",
+      "join": "",
+      "role": "Producer, Written-By",
+      "tracks": "",
+      "id": 8760,
+      "resource_url": "https://api.discogs.com/artists/8760"
+    },
+    {
+      "name": "Shep Pettibone",
+      "anv": "",
+      "join": "",
+      "role": "Producer, Written-By",
+      "tracks": "",
+      "id": 2732,
+      "resource_url": "https://api.discogs.com/artists/2732"
+    },
+    {
+      "name": "Alan Friedman",
+      "anv": "",
+      "join": "",
+      "role": "Programmed By [Programming By]",
+      "tracks": "",
+      "id": 84693,
+      "resource_url": "https://api.discogs.com/artists/84693"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/D9OO_eSQHRGod-yTO9XP42hbOLgSIE6BH7jFPttUMQ8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTAx/LTE2MDkxNzYzNDct/NjQzNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/D9OO_eSQHRGod-yTO9XP42hbOLgSIE6BH7jFPttUMQ8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTAx/LTE2MDkxNzYzNDct/NjQzNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/O0HX35hR-0zUoSdCIq5NL-97t1JNGrJnM7nb4T2dE3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTAx/LTE2MDkxNzYzNDct/NjQzNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/AB4Wc7SIt8HCZAEdi0Qw-bMpCEHXUOJOa3S1ZMvVT0U/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTAx/LTE2MDkxNzYzNDUt/NTYwOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/AB4Wc7SIt8HCZAEdi0Qw-bMpCEHXUOJOa3S1ZMvVT0U/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTAx/LTE2MDkxNzYzNDUt/NTYwOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/9_uuiOwwGgUirxJu8mi-Ed9SaHwgIB1WggeaTZ-Suns/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTAx/LTE2MDkxNzYzNDUt/NTYwOC5qcGVn.jpeg",
+      "width": 596,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/jst1U5ceo2fS4jVe42u2JpFoXi6VFwIAVniP5gqIiRw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTAx/LTE2MDkxNzYzNDYt/MzcwNy5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/jst1U5ceo2fS4jVe42u2JpFoXi6VFwIAVniP5gqIiRw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTAx/LTE2MDkxNzYzNDYt/MzcwNy5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/hvchhSBh-Fcpc7VFteX8zXpSGPuQ1OoZ3iBHtm0aARA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTAx/LTE2MDkxNzYzNDYt/MzcwNy5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/M2sCa9lsyQDJoL2MwJkQzAK3hHab3lhJ4E1RHuqMwfE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTAx/LTE2MDkxNzYzNDYt/MTY2OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/M2sCa9lsyQDJoL2MwJkQzAK3hHab3lhJ4E1RHuqMwfE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTAx/LTE2MDkxNzYzNDYt/MTY2OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/3lcMpezTT_2_9n7FyGVLy7KEHGNVOHMKk3az1UHBmqw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTAx/LTE2MDkxNzYzNDYt/MTY2OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/_mf6XS4gHhpKHwLC96WOCFtfqNu4feVBnk_5aWa66UQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTAx/LTE2MjAyNTM0MTgt/ODA2NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/_mf6XS4gHhpKHwLC96WOCFtfqNu4feVBnk_5aWa66UQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTAx/LTE2MjAyNTM0MTgt/ODA2NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/kMqCGgjyx1obOaYStZSK3YMMYVWswtxjmEvwRtntl6I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTAx/LTE2MjAyNTM0MTgt/ODA2NC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/mFv1zFKWKUJg2i7T80JKMyCdRYxqPym8MYBKnpE5Sfk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTAx/LTE2MjAyNTM0MjQt/ODQ3Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/mFv1zFKWKUJg2i7T80JKMyCdRYxqPym8MYBKnpE5Sfk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTAx/LTE2MjAyNTM0MjQt/ODQ3Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/SOZYffrYEp9E4gZ8VipETgnsr6ioBO7DQm5CcrNcHXs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTAx/LTE2MjAyNTM0MjQt/ODQ3Mi5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/O0HX35hR-0zUoSdCIq5NL-97t1JNGrJnM7nb4T2dE3A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4OTAx/LTE2MDkxNzYzNDct/NjQzNy5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}
