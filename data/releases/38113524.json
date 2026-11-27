@@ -1,0 +1,395 @@
+{
+  "id": 38113524,
+  "status": "Accepted",
+  "year": 2026,
+  "resource_url": "https://api.discogs.com/releases/38113524",
+  "uri": "https://www.discogs.com/release/38113524-Ariana-Grande-Petal",
+  "artists": [
+    {
+      "name": "Ariana Grande",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 3310737,
+      "resource_url": "https://api.discogs.com/artists/3310737",
+      "thumbnail_url": "https://i.discogs.com/aUrGi9prxXlD68nlz1DP_cqUyIzJlHapuBJYUFccu40/rs:fit/g:sm/q:90/h:320/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMzMTA3/MzctMTc4ODM4NDYx/OC00MDY0LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Ariana Grande",
+  "labels": [
+    {
+      "name": "Republic Records",
+      "catno": "199957923750",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Babydoll Music",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 4579065,
+      "resource_url": "https://api.discogs.com/labels/4579065"
+    },
+    {
+      "name": "Babydoll Music",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 4579065,
+      "resource_url": "https://api.discogs.com/labels/4579065"
+    },
+    {
+      "name": "Republic Records",
+      "catno": "",
+      "entity_type": "5",
+      "entity_type_name": "Licensed To",
+      "id": 38017,
+      "resource_url": "https://api.discogs.com/labels/38017",
+      "thumbnail_url": "https://i.discogs.com/XeiZ_se3kbIXzHsE0U98fYaBr8v2HLnMF9UbOXKJe7E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4MDE3/LTE0OTg2NzM3MTct/Mjc5MC5wbmc.jpeg"
+    },
+    {
+      "name": "UMG Recordings, Inc.",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 272782,
+      "resource_url": "https://api.discogs.com/labels/272782",
+      "thumbnail_url": "https://i.discogs.com/WX78Ss6rJPzD8aWRj-wynSuGlTwtQLp2QLnUFGDI3Pg/rs:fit/g:sm/q:90/h:80/w:534/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Mjc4/Mi0xNDU3MDEyNDAw/LTExMzYuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": [
+        "LP",
+        "Album",
+        "Stereo"
+      ],
+      "text": "Translucent Pearly White"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 359,
+    "want": 38,
+    "rating": {
+      "count": 52,
+      "average": 4.92
+    },
+    "submitter": {
+      "username": "benbr0",
+      "resource_url": "https://api.discogs.com/users/benbr0"
+    },
+    "contributors": [
+      {
+        "username": "benbr0",
+        "resource_url": "https://api.discogs.com/users/benbr0"
+      },
+      {
+        "username": "momento",
+        "resource_url": "https://api.discogs.com/users/momento"
+      },
+      {
+        "username": "myvinyldiscography",
+        "resource_url": "https://api.discogs.com/users/myvinyldiscography"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2026-08-10T14:58:03-07:00",
+  "date_changed": "2026-08-11T22:44:00-07:00",
+  "num_for_sale": 24,
+  "lowest_price": 19.99,
+  "master_id": 4301262,
+  "master_url": "https://api.discogs.com/masters/4301262",
+  "title": "Petal",
+  "country": "US",
+  "released": "2026-07-31",
+  "notes": "Issued in a gatefold jacket with printed die-cut inner sleeve & a 16-page 12x12” booklet with lyrics & credits.\n\nNot to be confused with the [url=https://www.discogs.com/release/38024268-Ariana-Grande-Petal]EU release[/url], which is made in Germany and has different copyright text.\n\nHype sticker on front shrink-wrap.\nTracklist sticker, barcode sticker, and \"Vinyl Made in Mexico\" stickers on rear shrink-wrap.\n\nTracks are listed sequentially, regardless of side\nAll tracks are stylized in lowercase.\n\nA Republic Records release; ℗© 2026 Babydoll Music, under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+  "released_formatted": "31 Jul 2026",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "1 99957 92375 0",
+      "description": "Sticker, text"
+    },
+    {
+      "type": "Barcode",
+      "value": "0199957923750",
+      "description": "Sticker, scanned"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=b-9gJ1Gc8rE",
+      "title": "Ariana Grande - kiss me (official visualizer)",
+      "description": "The official visualizer for Ariana Grande’s “kiss me” out now. \n\nListen to ’petal’: https://arianagrande.lnk.to/petal\n\nShop the ‘petal’ collection: https://arianagrande.lnk.to/shop\n\n► Follow Ariana Grande:\nhttps://www.arianagrande.com\nhttps://instagram.co",
+      "duration": 220,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=82-jTNka3uc",
+      "title": "Ariana Grande - hate that i made you love me (official music video)",
+      "description": "The official music video for Ariana Grande’s “hate that i made you love me” \n\nListen to “hate that i made you love me”: https://arianagrande.lnk.to/htimylm\n\nShop the ‘petal’ and “hate that i made you love me” collections: https://arianagrande.lnk.to/shop\n",
+      "duration": 301,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=afSgBNwmZrQ",
+      "title": "Ariana Grande - petal",
+      "description": "The official music video for Ariana Grande’s “petal” out july 31 at 11am et. \n\n'petal’: https://arianagrande.lnk.to/petal\n\nShop the ‘petal’ collection: https://arianagrande.lnk.to/shop\n\n► Follow Ariana Grande:\nhttps://www.arianagrande.com\nhttps://instagra",
+      "duration": 411,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=_lKbPBS5HEQ",
+      "title": "Ariana Grande - oh well (official visualizer)",
+      "description": "The official visualizer for Ariana Grande’s “oh well” out now. \n\nListen to ’petal’: https://arianagrande.lnk.to/petal\n\nShop the ‘petal’ collection: https://arianagrande.lnk.to/shop\n\n► Follow Ariana Grande:\nhttps://www.arianagrande.com\nhttps://instagram.co",
+      "duration": 197,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=arrDOc5I0uk",
+      "title": "big feelings",
+      "description": "Provided to YouTube by Universal Music Group\n\nbig feelings · Ariana Grande\n\npetal\n\n℗ 2026 Babydoll Music, under exclusive license to Republic Records, a division of UMG Recordings, Inc.\n\nReleased on: 2026-07-31\n\nBackground Vocalist, Engineer, Producer, Vo",
+      "duration": 174,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=yCpXjLibQZw",
+      "title": "Ariana Grande - freak (official visualizer)",
+      "description": "The official visualizer for Ariana Grande’s “freak” out now. \n\nListen to ’petal’: https://arianagrande.lnk.to/petal\n\nShop the ‘petal’ collection: https://arianagrande.lnk.to/shop\n\n► Follow Ariana Grande:\nhttps://www.arianagrande.com\nhttps://instagram.com/",
+      "duration": 200,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=zkLWaIHC0fE",
+      "title": "Ariana Grande - warning signs (interlude) (official visualizer)",
+      "description": "The official visualizer for Ariana Grande’s “warning signs (interlude)” out now. \n\nListen to ’petal’: https://arianagrande.lnk.to/petal\n\nShop the ‘petal’ collection: https://arianagrande.lnk.to/shop\n\n► Follow Ariana Grande:\nhttps://www.arianagrande.com\nht",
+      "duration": 78,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Pjq0RF3og-4",
+      "title": "like i do",
+      "description": "Provided to YouTube by Universal Music Group\n\nlike i do · Ariana Grande\n\npetal\n\n℗ 2026 Babydoll Music, under exclusive license to Republic Records, a division of UMG Recordings, Inc.\n\nReleased on: 2026-07-31\n\nVocalist, Engineer, Producer, Vocal Producer, ",
+      "duration": 168,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=pBAzAia8cB4",
+      "title": "never get over me",
+      "description": "Provided to YouTube by Universal Music Group\n\nnever get over me · Ariana Grande\n\npetal\n\n℗ 2026 Babydoll Music, under exclusive license to Republic Records, a division of UMG Recordings, Inc.\n\nReleased on: 2026-07-31\n\nVocalist, Engineer, Producer, Vocal Pr",
+      "duration": 229,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=WZNr8nPFJVw",
+      "title": "Ariana Grande - bad thing (bunny hop) (official visualizer)",
+      "description": "The official visualizer for Ariana Grande’s “bad thing (bunny hop)” out now. \n\nListen to ’petal’: https://arianagrande.lnk.to/petal\n\nShop the ‘petal’ collection: https://arianagrande.lnk.to/shop\n\n► Follow Ariana Grande:\nhttps://www.arianagrande.com\nhttps:",
+      "duration": 209,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=k7SDstVAD78",
+      "title": "Ariana Grande - nowhere, nobody (official visualizer)",
+      "description": "The official visualizer for Ariana Grande’s “nowhere, nobody” out now. \n\nListen to ’petal’: https://arianagrande.lnk.to/petal\n\nShop the ‘petal’ collection: https://arianagrande.lnk.to/shop\n\n► Follow Ariana Grande:\nhttps://www.arianagrande.com\nhttps://inst",
+      "duration": 173,
+      "embed": true
+    }
+  ],
+  "genres": [
+    "Electronic",
+    "Pop"
+  ],
+  "styles": [
+    "Synth-pop"
+  ],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Kiss Me",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Hate That I Made You Love Me",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Petal",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Stay",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Oh Well",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Big Feelings",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "title": "Freak",
+      "duration": ""
+    },
+    {
+      "position": "B8",
+      "type_": "track",
+      "title": "Warning Signs (Interlude)",
+      "duration": ""
+    },
+    {
+      "position": "B9",
+      "type_": "track",
+      "title": "Like I Do",
+      "duration": ""
+    },
+    {
+      "position": "B10",
+      "type_": "track",
+      "title": "Never Get Over Me",
+      "duration": ""
+    },
+    {
+      "position": "B11",
+      "type_": "track",
+      "title": "Bad Thing (Bunny Hop)",
+      "duration": ""
+    },
+    {
+      "position": "B12",
+      "type_": "track",
+      "title": "Nowhere, Nobody",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/AsFqULwp5_uKT5pqKHm7XwbriTfty48dkwwcX_UADlc/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NDktMTIzMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/AsFqULwp5_uKT5pqKHm7XwbriTfty48dkwwcX_UADlc/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NDktMTIzMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/1so_tjtQTbc553BPCg7KPJKpd11assibitK2XZ7KtYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NDktMTIzMC5qcGVn.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/KonDKa5qXRc7l0JT_ttvC7KswTvzMym6QqtrW0wE6HE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NDktMTc3Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/KonDKa5qXRc7l0JT_ttvC7KswTvzMym6QqtrW0wE6HE/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NDktMTc3Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/qfJj1CoqKnEi9FXRv22tOLFZ1ZVgFMt6taW6uO-gVxI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NDktMTc3Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/irSdn23KERUnYvnBM0GMvTTudPVsXVXlaHMfu8KL3VQ/rs:fit/g:sm/q:90/h:286/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NDktMzQ2OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/irSdn23KERUnYvnBM0GMvTTudPVsXVXlaHMfu8KL3VQ/rs:fit/g:sm/q:90/h:286/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NDktMzQ2OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/YcpqiVBKDun-akGeN9h5ysBy1QhZylDvJKrhiv3ms34/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NDktMzQ2OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 286
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/vavnkOuMrsRba7teQTifxDJKq67JgopyMiOutKVzeGU/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/ODYtMTMzMi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/vavnkOuMrsRba7teQTifxDJKq67JgopyMiOutKVzeGU/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/ODYtMTMzMi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/79eg_4wnviwMr07UtEcjsf9oZLX-qiV9pNhibQa1x0A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/ODYtMTMzMi5qcGVn.jpeg",
+      "width": 600,
+      "height": 586
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Y9bzuGXy73kyosT8tk_Rbxqb4IUaeNkupE0-v131E9s/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NDktNjkzNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Y9bzuGXy73kyosT8tk_Rbxqb4IUaeNkupE0-v131E9s/rs:fit/g:sm/q:90/h:600/w:583/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NDktNjkzNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/KwUUc11YQHzJG3S1HcqD99Yz31RBBzTYNIG2Zj1UZ3M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NDktNjkzNS5qcGVn.jpeg",
+      "width": 583,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/AUGj9bUN5apokLNmP80WHARZnDApsvM2UnF9LgBAZ2s/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NTAtMTQxMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/AUGj9bUN5apokLNmP80WHARZnDApsvM2UnF9LgBAZ2s/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NTAtMTQxMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/_zlyFY2sauN_BW-bSvj6MgwsLX8oRM-G3HxP8NLc9ps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NTAtMTQxMC5qcGVn.jpeg",
+      "width": 595,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ZqPq_MaHl1cNQBDs-x2RI9E-siugMlfEMxqvJ8CpdVo/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NDktMjUyNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/ZqPq_MaHl1cNQBDs-x2RI9E-siugMlfEMxqvJ8CpdVo/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NDktMjUyNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/gn7t-_L67MrhuLWNRtB0xJMIj5oRJpTBs94PEmF8mZI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NDktMjUyNS5qcGVn.jpeg",
+      "width": 595,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/y-uA64yZ6o9YNaisL4ijZU61XbXvTIYyDaLB_cWGEHM/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NDYtODU4OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/y-uA64yZ6o9YNaisL4ijZU61XbXvTIYyDaLB_cWGEHM/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NDYtODU4OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/d_1k_vj7CSb8pmr86-9Rf5FXRUNHe95nJMi3mxrlW18/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NDYtODU4OC5qcGVn.jpeg",
+      "width": 595,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/peP6DpCYzyRdpY-zSDG_MSB0t-CDqbqZUgdh8m19dUM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NDctOTYxOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/peP6DpCYzyRdpY-zSDG_MSB0t-CDqbqZUgdh8m19dUM/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NDctOTYxOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/PnZHUc5RVx2WI9Dyas9XYDsLqmICzAQmpe7tRU1NVXg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NDctOTYxOS5qcGVn.jpeg",
+      "width": 600,
+      "height": 597
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/l3nRp0tLVrB1J3HK3K1PddaP_WrXNtGeQbyVZn1rY7o/rs:fit/g:sm/q:90/h:497/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDE4/OTItNDU0MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/l3nRp0tLVrB1J3HK3K1PddaP_WrXNtGeQbyVZn1rY7o/rs:fit/g:sm/q:90/h:497/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDE4/OTItNDU0MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/qd2JJHcv5hYpoUGXNq7Lyo_uWysBTOx9eECFPT6L2x8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDE4/OTItNDU0MS5qcGVn.jpeg",
+      "width": 600,
+      "height": 497
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/z7jKFczZKAZHYk4sbpeLN1flqu1ktP39B13nbYBLwqA/rs:fit/g:sm/q:90/h:600/w:442/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDE4/OTItNTg4MC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/z7jKFczZKAZHYk4sbpeLN1flqu1ktP39B13nbYBLwqA/rs:fit/g:sm/q:90/h:600/w:442/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDE4/OTItNTg4MC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/wwBZsm5L2B3L7z92YDf0fjRyhO8Ey2JwhnwQhv1ddF8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDE4/OTItNTg4MC5qcGVn.jpeg",
+      "width": 442,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/52y0JfKYgFe9LLCl1o91wAh56pXU8uXZQ2-iHs0uENU/rs:fit/g:sm/q:90/h:274/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NDItMjEzNC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/52y0JfKYgFe9LLCl1o91wAh56pXU8uXZQ2-iHs0uENU/rs:fit/g:sm/q:90/h:274/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NDItMjEzNC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/Ch-sbsgNGgV-AHyUup6iqSuSYD84I-_Vg2SUUGA3a08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NDItMjEzNC5qcGVn.jpeg",
+      "width": 600,
+      "height": 274
+    }
+  ],
+  "thumb": "https://i.discogs.com/1so_tjtQTbc553BPCg7KPJKpd11assibitK2XZ7KtYQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTEz/NTI0LTE3ODY0MDEy/NDktMTIzMC5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}
